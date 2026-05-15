@@ -1,0 +1,35 @@
+# ── Personal data — NEVER commit ──────────────────────────────────────────
+# This repo is the reusable skill only. Keep candidate/job data out.
+profile.json
+profile.*.json
+!*.example.json
+master.md
+bullet_bank.md
+*tracker*.md
+linkedin_assets.md
+linkedin_*.json
+*_results.json
+apify_*.json
+
+# Generated reports
+ats_full_report.md
+ats_full_report.csv
+*_report.md
+*_report.csv
+
+# Obsidian vault config (if run inside one)
+.obsidian/
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# ── OS / editor ───────────────────────────────────────────────────────────
+.DS_Store
+.idea/
+.vscode/
+*.swp
