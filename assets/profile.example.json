@@ -1,0 +1,28 @@
+{
+  "name": "Your Name",
+  "target_titles": [
+    "backend engineer",
+    "software engineer",
+    "senior software engineer",
+    "platform engineer"
+  ],
+  "seniority_level": 3,
+  "_seniority_level_help": "0 intern, 1 junior, 2 mid, 3 senior, 4 lead, 5 staff/architect, 6 principal/head",
+
+  "must_have_skills": ["haskell", "rust", "backend"],
+  "nice_to_have_skills": [
+    "postgresql", "redis", "kafka", "kubernetes", "microservices",
+    "scala", "functional programming", "distributed systems", "aws", "go"
+  ],
+
+  "locations": ["Kolkata", "Bengaluru", "Remote", "India"],
+  "remote_only": false,
+  "visa_required": false,
+  "_visa_help": "set visa_required=true to prioritise roles that sponsor work visas",
+
+  "min_salary": null,
+  "prefer_companies": [],
+  "avoid_companies": [],
+
+  "_notes": "Used by rank_jobs.py to score and order listings. Adjust freely. For an international visa-sponsored search set remote_only=false, visa_required=true, and add target countries to locations (e.g. Germany, Netherlands, Canada)."
+}
