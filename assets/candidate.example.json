@@ -1,0 +1,59 @@
+{
+  "_help": "Candidate profile consumed by scripts/ats_scorer.py. Copy this to data/profile.json and edit. HAVE skills = the union of top-level skills[] + every experience[].skills[] + every project[].skills[]. GAP skills = skills you know you lack (explicit). Any JD keyword that is neither HAVE nor GAP is treated as a gap. All skill names are matched case-insensitively.",
+
+  "name": "Your Name",
+  "title": "Backend Engineer",
+  "years_experience": 4,
+  "location": "Bengaluru, India",
+
+  "skills": [
+    "python", "go", "rust", "typescript", "javascript",
+    "react", "node.js", "postgresql", "mysql", "redis",
+    "kafka", "docker", "kubernetes", "aws", "microservices",
+    "rest", "grpc", "ci/cd", "sql", "distributed systems", "graphql"
+  ],
+
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "role": "Software Engineer",
+      "start": "2022-06",
+      "end": "present",
+      "skills": ["go", "kafka", "postgresql", "kubernetes", "aws", "grpc"],
+      "highlights": [
+        "Built event-driven order pipeline handling 5k req/s on Kafka + Go",
+        "Cut p99 latency 40% by introducing Redis read-through caching"
+      ]
+    },
+    {
+      "company": "Startup XYZ",
+      "role": "Full Stack Developer",
+      "start": "2021-01",
+      "end": "2022-05",
+      "skills": ["typescript", "react", "node.js", "mongodb", "graphql"],
+      "highlights": [
+        "Shipped customer dashboard in React + GraphQL used by 10k MAU"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "raft-kv",
+      "description": "Distributed key-value store implementing the Raft consensus protocol",
+      "skills": ["rust", "distributed systems", "grpc"]
+    },
+    {
+      "name": "ats-scorer",
+      "description": "This tool — ranks job listings by ATS match and company tier",
+      "skills": ["python"]
+    }
+  ],
+
+  "gap_skills": [
+    "spring boot", "hibernate", "terraform", "azure", "gcp",
+    "angular", "scala", "snowflake", "php", "ruby",
+    "elasticsearch", "rabbitmq", "oracle", "maven", "django",
+    ".net", "protobuf", "cassandra"
+  ]
+}
