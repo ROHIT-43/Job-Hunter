@@ -1,5 +1,11 @@
-# ── Personal data — NEVER commit ──────────────────────────────────────────
-# This repo is the reusable skill only. Keep candidate/job data out.
+# ── Personal data + all I/O — NEVER commit ────────────────────────────────
+# This repo is the reusable skill only. The data/ folder holds your real
+# candidate profile (data/profile.json), raw job exports, and every generated
+# report (data/output/). It is fully ignored — use assets/candidate.example.json
+# as the tracked template.
+data/
+
+# Belt-and-suspenders in case scripts are run from the repo root:
 profile.json
 profile.*.json
 !*.example.json
@@ -10,12 +16,12 @@ linkedin_assets.md
 linkedin_*.json
 *_results.json
 apify_*.json
-
-# Generated reports
 ats_full_report.md
 ats_full_report.csv
+ats_match_report.md
 *_report.md
 *_report.csv
+hunts/
 
 # Obsidian vault config (if run inside one)
 .obsidian/
