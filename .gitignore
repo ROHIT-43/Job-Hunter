@@ -32,7 +32,10 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+
+# Secrets — keep the token out, but track the template
 .env
+!.env.example
 
 # ── OS / editor ───────────────────────────────────────────────────────────
 .DS_Store
