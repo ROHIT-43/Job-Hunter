@@ -1,0 +1,21 @@
+[
+  {"title": "Senior Backend Engineer", "company": "Razorpay",
+   "location": "Bengaluru", "remote": false, "visa_sponsorship": null,
+   "tags": ["python", "kafka"], "salary": "30,00,000",
+   "description": "Python, Kafka, PostgreSQL, AWS, Terraform.",
+   "url": "https://x/1", "posted": "2026-05-28", "source": "adzuna"},
+  {"title": "Senior Backend Engineer", "company": "Razorpay",
+   "location": "Bengaluru", "remote": false, "visa_sponsorship": null,
+   "tags": ["python", "kafka"], "salary": null,
+   "description": "Python, Kafka, PostgreSQL, AWS, Terraform.",
+   "url": "https://x/dup", "posted": "2026-05-28", "source": "linkedin"},
+  {"title": "Platform Engineer", "company": "Quaxon Staffing Solutions",
+   "location": "Remote", "remote": true, "visa_sponsorship": null,
+   "tags": ["go"], "salary": null,
+   "description": "Go, Kubernetes, Docker, GCP.",
+   "url": "https://x/2", "posted": "2026-05-20", "source": "remoteok"},
+  {"title": "Engineer", "company": "Tiny Co",
+   "location": "Remote", "remote": true, "visa_sponsorship": null,
+   "tags": [], "salary": null, "description": "Great culture, free lunch.",
+   "url": "https://x/3", "posted": "2026-05-01", "source": "remotive"}
+]
