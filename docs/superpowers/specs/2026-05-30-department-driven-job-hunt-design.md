@@ -41,7 +41,7 @@ Fetch (keyless + optional Apify/Adzuna), all buckets:
 ```
 python scripts/fetch_jobs.py \
   --since-days 30 \                 # timeframe; default 30
-  --departments software,data,devops,security,qa \  # default = all eng-family
+  --departments software,engineering,technology \  # default; finer buckets opt-in
   --adzuna-id <id> --adzuna-key <key> \  # optional, unlocks India API
   --out data/jobs.json
 ```
@@ -106,16 +106,24 @@ score_jobs.py  (new single scorer entry point)
 
 ## Department taxonomy (the multi-bucket model)
 
-A named taxonomy the user selects among via `--departments` (default = all
-engineering-family buckets):
+A named taxonomy the user selects among via `--departments`. The three broad
+umbrella buckets are **on by default**; the finer-grained buckets are defined but
+**off by default** (opt in later via the flag).
 
-| Department | Example titles/tags | Native facets |
-|---|---|---|
-| `software` | software/backend/frontend/full-stack engineer, SDE, SWE, developer | LinkedIn `f_F=eng`, Adzuna `it-jobs`, Naukri eng functional-area |
-| `data` | data engineer/scientist, ML/AI engineer, analytics | LinkedIn `f_F=eng,anls`, Naukri data area |
-| `devops` | devops, SRE, platform, infrastructure, cloud engineer | LinkedIn `f_F=eng,it` |
-| `security` | security engineer, appsec, infosec | LinkedIn `f_F=eng,it` |
-| `qa` | QA, SDET, test automation | LinkedIn `f_F=qa` |
+| Department | Default | Example titles/tags | Native facets |
+|---|:--:|---|---|
+| `software` | ✅ on | software/backend/frontend/full-stack engineer, SDE, SWE, developer | LinkedIn `f_F=eng`, Adzuna `it-jobs`, Naukri eng functional-area |
+| `engineering` | ✅ on | broad engineering roles (platform, systems, embedded, mobile) | LinkedIn `f_F=eng`, Adzuna `it-jobs`, Naukri eng functional-area |
+| `technology` | ✅ on | general IT/technology roles (cloud, infra, IT) | LinkedIn `f_F=it`, Adzuna `it-jobs` |
+| `data` | off | data engineer/scientist, ML/AI engineer, analytics | LinkedIn `f_F=eng,anls`, Naukri data area |
+| `devops` | off | devops, SRE, platform, infrastructure, cloud engineer | LinkedIn `f_F=eng,it` |
+| `security` | off | security engineer, appsec, infosec | LinkedIn `f_F=eng,it` |
+| `qa` | off | QA, SDET, test automation | LinkedIn `f_F=qa` |
+
+The three default buckets overlap deliberately — together they form a wide
+"software / engineering / technology" net that captures general roles. Each
+bucket carries a `default_on` flag in `assets/departments.json`; finer buckets
+are added to a run with `--departments software,engineering,technology,data` etc.
 
 For each department, `assets/departments.json` holds (a) **title/tag matchers**
 (allowlist + a small denylist to drop near-misses like "sales engineer",
@@ -196,6 +204,7 @@ All written to `--out-dir` (default `data/output`).
 ## Out of scope
 
 - A single `hunt.py` orchestrator (Approach C) — keeping discrete entry points.
-- Departments beyond the eng-family taxonomy (structure allows adding them).
+- Enabling the off-by-default buckets (data/devops/security/qa) by default, or
+  adding departments beyond the taxonomy — both are config-only later.
 - Any change to ToS posture — browse links + consented Apify only.
 - Resume tailoring — still handed to `resume-builder` after shortlisting.
