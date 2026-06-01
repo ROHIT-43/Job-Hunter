@@ -1,0 +1,38 @@
+{
+  "software": {
+    "default_on": true,
+    "title_match": ["software engineer", "software developer", "backend", "back-end", "frontend", "front-end", "full stack", "full-stack", "sde", "swe", "developer", "programmer", "software development engineer"],
+    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"]}
+  },
+  "engineering": {
+    "default_on": true,
+    "title_match": ["engineer", "engineering", "platform engineer", "systems engineer", "embedded", "firmware", "mobile engineer", "android engineer", "ios engineer"],
+    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"]}
+  },
+  "technology": {
+    "default_on": true,
+    "title_match": ["information technology", "technology", "cloud engineer", "infrastructure engineer", "it specialist", "technical lead", "tech lead"],
+    "facets": {"linkedin": ["it"], "adzuna": ["it-jobs"]}
+  },
+  "data": {
+    "default_on": false,
+    "title_match": ["data engineer", "data scientist", "machine learning", "ml engineer", "ai engineer", "analytics engineer", "data analyst"],
+    "facets": {"linkedin": ["eng", "anls"], "adzuna": ["it-jobs"]}
+  },
+  "devops": {
+    "default_on": false,
+    "title_match": ["devops", "sre", "site reliability", "platform engineer", "infrastructure engineer", "cloud engineer"],
+    "facets": {"linkedin": ["eng", "it"], "adzuna": ["it-jobs"]}
+  },
+  "security": {
+    "default_on": false,
+    "title_match": ["security engineer", "appsec", "application security", "infosec", "security analyst", "cybersecurity"],
+    "facets": {"linkedin": ["eng", "it"], "adzuna": ["it-jobs"]}
+  },
+  "qa": {
+    "default_on": false,
+    "title_match": ["qa engineer", "quality assurance", "sdet", "test engineer", "test automation", "automation engineer"],
+    "facets": {"linkedin": ["qa"], "adzuna": ["it-jobs"]}
+  },
+  "_deny": ["sales engineer", "solutions engineer", "customer engineer", "pre-sales", "presales", "sales development", "account executive", "recruiter", "talent acquisition"]
+}

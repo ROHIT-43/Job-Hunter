@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 apify_scrape.py — Pull structured job listings from an Apify actor and write
-them to a JSON file that scripts/ats_scorer.py (or rank_jobs.py) can consume.
+them, normalized, to a JSON file that scripts/score_jobs.py can consume.
 
 This is the "results pulled in" route described in references/apify.md. Apify
 hosts maintained actors that return structured job data from LinkedIn / Naukri /
@@ -41,6 +41,9 @@ schema on Apify. `--keywords/--location/--rows/--remote` build a generic input;
 use `--input-file` when an actor needs different fields.
 """
 import json, os, sys, time, urllib.request, urllib.error
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from lib import department  # noqa: E402
 
 APIFY_BASE = "https://api.apify.com/v2"
 DEFAULT_OUT = os.path.join("data", "linkedin_export.json")
@@ -101,15 +104,38 @@ def build_input(argv):
         with open(input_file) as fh:
             return json.load(fh)
     rows = int(flag(argv, "--rows", "50"))
+    departments = flag(argv, "--departments",
+                       ",".join(department.default_departments()))
+    depts = [d.strip() for d in departments.split(",") if d.strip()]
     payload = {
-        "keywords": flag(argv, "--keywords", ""),
         "location": flag(argv, "--location", ""),
         "rows": rows,
         "maxItems": rows,
+        "jobFunction": department.facet_codes(depts, "linkedin"),
     }
     if "--remote" in argv:
         payload["remote"] = True
     return payload
+
+
+def normalize(raw):
+    """Map an Apify/LinkedIn row to the shared normalized job schema so it can
+    be fed to score_jobs.py alongside fetch_jobs.py output."""
+    return {
+        "id": f"apify:{raw.get('id') or raw.get('jobUrl') or raw.get('url') or ''}",
+        "source": "apify",
+        "title": raw.get("jobTitle") or raw.get("title") or "",
+        "company": raw.get("companyName") or raw.get("company") or "",
+        "location": raw.get("location") or "",
+        "remote": bool(raw.get("remote")) if "remote" in raw else None,
+        "visa_sponsorship": None,
+        "tags": raw.get("tags") or [],
+        "salary": raw.get("salary"),
+        "description": raw.get("description") or "",
+        "url": raw.get("jobUrl") or raw.get("url") or "",
+        "posted": (raw.get("publishedAt") or raw.get("published_at") or "")[:10] or None,
+        "sector": raw.get("sector", ""),
+    }
 
 
 def run_actor(actor, token, actor_input, timeout):
@@ -158,6 +184,9 @@ def main():
         items = [items]
     elapsed = time.monotonic() - t0
 
+    # Normalize to the shared schema so score_jobs.py can read it directly.
+    items = [normalize(it) if isinstance(it, dict) else it for it in items]
+
     os.makedirs(os.path.dirname(os.path.abspath(out)) or ".", exist_ok=True)
     with open(out, "w") as fh:
         json.dump(items, fh, indent=2)
@@ -165,12 +194,10 @@ def main():
     print(f"Pulled {len(items)} job records in {elapsed:.0f}s → {out}")
     if items:
         first = items[0]
-        name = (first.get("companyName") or first.get("company") or "?"
-                if isinstance(first, dict) else "?")
-        title = (first.get("jobTitle") or first.get("title") or "?"
-                 if isinstance(first, dict) else "?")
+        name = first.get("company") or "?" if isinstance(first, dict) else "?"
+        title = first.get("title") or "?" if isinstance(first, dict) else "?"
         print(f"  e.g. {title} @ {name}")
-    print(f"Next: python scripts/ats_scorer.py {out} "
+    print(f"Next: python scripts/score_jobs.py {out} data/jobs.json "
           f"--profile data/profile.json")
 
 

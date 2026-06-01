@@ -1,32 +1,56 @@
 # Scoring methodology
 
-`scripts/rank_jobs.py` gives every job a transparent 0–100 score so the user can
-trust and adjust the ordering. The score is a weighted sum of six components.
+`scripts/score_jobs.py` (backed by `scripts/lib/ats.py`) gives every job a 0–100
+**ATS match**: the share of skills a JD asks for that the candidate already has.
 
-| Component | Weight | What it measures |
-|---|--:|---|
-| skills | 45 | Overlap with `must_have_skills` (75%) and `nice_to_have_skills` (25%) found in title/tags/description |
-| title | 20 | Role-family match against `target_titles` + seniority within ±1 level |
-| location | 15 | Satisfies remote-only / visa-required / preferred locations |
-| recency | 10 | Newer postings score higher (≤3d=1.0, ≤7d=0.85, ≤14d=0.65, ≤30d=0.4) |
-| salary | 5 | Salary info present |
-| company | 5 | `prefer_companies` boost, `avoid_companies` zero-out |
+    ATS% = |JD skills ∩ your skills| / |JD skills|
 
-The report prints the component breakdown for the top 10 so it's clear *why*
-each role ranked where it did.
+JD skills are master-dictionary terms (`assets/skills_dictionary.json`) found in
+the JD text. Ordering is: **qualifying first** (YoE gate, below) → ATS% → company
+tier (T1 big tech > T2 renowned startups > neutral > ⚠️ likely <100-dev shop) →
+number of matched skills → recency. JDs mentioning fewer than 3 skills are
+flagged low-signal and ranked below high-signal roles. Departments are filtered
+at fetch time, not here (`assets/departments.json`).
+
+## Strict years-of-experience gate
+
+Before ranking, each job is checked against a hard YoE floor. `extract_min_yoe`
+parses the JD's stated minimum ("5+ years", "3-5 years" → 3, "at least 4
+years"); if the candidate's `years_experience` is **below** it, the job is
+**disqualified** — its score is zeroed, it is marked ⛔ with the reason ("needs
+8y, have 3y"), and it sinks below every qualifying role. The gate is a no-op when
+either the candidate's YoE or the JD's minimum is unknown (no constraint), so
+nothing is dropped silently. This is the one hard filter; everything else is soft
+ranking.
+
+## Optional: LLM-weighted required vs preferred
+
+The flat score above weights every JD skill equally. An optional second pass
+(SKILL.md step 7) has the model label each shortlisted JD's skills as
+**required** or **preferred**, then re-scores:
+
+    weighted ATS% = (w_req·|required ∩ have| + w_pref·|preferred ∩ have|)
+                  / (w_req·|required|       + w_pref·|preferred|)
+
+Defaults `w_req = 1.0`, `w_pref = 0.3` (CLI `--w-req` / `--w-pref`). The LLM only
+labels JD skills required/preferred; matching against your skills and all
+arithmetic stay in `lib/ats.weighted_score`, so the number is deterministic and
+auditable given the labels. Re-scored jobs are marked ✨ and their Gaps column
+shows missing **required** skills. This is an advisory match, not a prediction of
+any ATS accept/reject decision.
 
 ## Tuning
 
-- Raise the `skills` weight to be stricter about stack fit.
-- Set `remote_only: true` to zero out on-site roles via the location component.
-- Set `visa_required: true` to push known visa-sponsoring roles to the top
-  (only Arbeitnow reliably flags this; unknown visa status is treated as neutral,
-  not disqualifying, so good roles aren't lost).
-- `seniority_level` is 0–6 (intern→principal). Jobs more than one level away are
-  penalised on the title component but not removed.
+- Extend `assets/skills_dictionary.json` (canonical → aliases) so more JD skills
+  are detected — this directly improves ATS accuracy.
+- Your HAVE skills come from the candidate profile (`skills[]` +
+  `experience[].skills[]` + `projects[].skills[]`); keep it complete.
+- Company tiers (T1/T2/known-large/red-flag) live in `lib/ats.py`; they only
+  break ties between equal-ATS roles.
+- Department selection happens at fetch (`fetch_jobs.py --departments …`).
 
 ## Profile schema
 
-See `assets/profile.example.json`. Build the profile from the user's resume when
-available (the `resume-builder` skill already has their stack) rather than asking
-them to retype it.
+See `assets/candidate.example.json`. Build the profile from the user's resume
+when available (the `resume-builder` skill already has their stack) rather than
+asking them to retype it.

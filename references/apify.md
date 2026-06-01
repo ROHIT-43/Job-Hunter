@@ -53,12 +53,13 @@ for everything else. Don't assume an actor exists — confirm with `search-actor
 5. `Apify:get-actor-output` with the returned `datasetId` to read results.
 6. Map each row to the normalized schema (same fields `fetch_jobs.py` produces:
    `title, company, location, remote, visa_sponsorship, tags, salary,
-   description, url, posted, source`), write to `jobs.json`, then feed into
-   `rank_jobs.py` exactly like Tier-1 results.
+   description, url, posted, source`), write to a JSON file, then feed into
+   `score_jobs.py` alongside the keyless results. `scripts/apify_scrape.py`
+   already normalizes the rows it pulls, so its output drops straight in.
 
 ## Notes
 
 - Confirm credit usage with the user before calling an actor.
 - Set a modest `rows`/`maxItems` first to validate output shape, then scale up.
-- Merge Apify results with Tier-1 results before ranking — `rank_jobs.py` dedups
+- Merge Apify results with Tier-1 results before scoring — `score_jobs.py` dedups
   on (title, company).

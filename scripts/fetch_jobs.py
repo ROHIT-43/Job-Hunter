@@ -3,6 +3,10 @@
 fetch_jobs.py — Pull live job listings from sources that offer clean, public
 APIs or RSS feeds, normalize them into one schema, and write JSON.
 
+Jobs are kept by DEPARTMENT (engineering/technology family), not by keyword.
+One run sweeps all buckets (India + global-remote + visa) at once; remote/visa
+are per-job attributes you can hard-filter with --remote / --visa.
+
 This intentionally only touches sources that permit programmatic access.
 LinkedIn / Naukri / Indeed are NOT fetched here (their ToS forbid scraping) —
 use scripts/search_urls.py for those, or an Apify actor (see references/apify.md).
@@ -12,13 +16,13 @@ Uses only the Python standard library so it runs anywhere.
 
 Example:
   python fetch_jobs.py \
-      --keywords haskell,rust,backend,scala \
-      --location India --remote --since-days 30 \
+      --departments software,engineering,technology --since-days 30 \
       --adzuna-country in --adzuna-id $ADZUNA_ID --adzuna-key $ADZUNA_KEY \
       --out jobs.json
 """
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -26,6 +30,9 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from lib import department  # noqa: E402
 
 UA = "Mozilla/5.0 (compatible; job-hunter-skill/1.0; +https://example.com/bot)"
 TIMEOUT = 25
@@ -89,9 +96,10 @@ def _clean(html):
 
 # --------------------------------------------------------------------------
 # Source adapters. Each returns a list of normalized records (never raises).
+# Adapters fetch broadly (no keyword query); the department gate filters later.
 # --------------------------------------------------------------------------
 
-def src_remoteok(kw):
+def src_remoteok():
     data = _get_json("https://remoteok.com/api")
     out = []
     if not isinstance(data, list):
@@ -109,9 +117,8 @@ def src_remoteok(kw):
     return out
 
 
-def src_remotive(kw):
-    q = urllib.parse.quote(" ".join(kw[:3]))
-    data = _get_json(f"https://remotive.com/api/remote-jobs?search={q}&limit=80")
+def src_remotive():
+    data = _get_json("https://remotive.com/api/remote-jobs?limit=100")
     out = []
     for j in (data or {}).get("jobs", []):
         out.append(_norm(
@@ -124,7 +131,7 @@ def src_remotive(kw):
     return out
 
 
-def src_arbeitnow(kw):
+def src_arbeitnow():
     """Arbeitnow exposes a remote/visa flag — valuable for sponsorship hunts."""
     out = []
     for page in range(1, 4):
@@ -146,7 +153,7 @@ def src_arbeitnow(kw):
     return out
 
 
-def src_himalayas(kw):
+def src_himalayas():
     data = _get_json("https://himalayas.app/jobs/api?limit=100")
     out = []
     for j in (data or {}).get("jobs", []):
@@ -162,10 +169,8 @@ def src_himalayas(kw):
     return out
 
 
-def src_jobicy(kw):
-    tag = urllib.parse.quote(kw[0]) if kw else ""
-    url = f"https://jobicy.com/api/v2/remote-jobs?count=50&tag={tag}"
-    data = _get_json(url)
+def src_jobicy():
+    data = _get_json("https://jobicy.com/api/v2/remote-jobs?count=50")
     out = []
     for j in (data or {}).get("jobs", []):
         out.append(_norm(
@@ -178,7 +183,7 @@ def src_jobicy(kw):
     return out
 
 
-def src_themuse(kw):
+def src_themuse():
     out = []
     for page in range(0, 3):
         url = ("https://www.themuse.com/api/public/jobs"
@@ -198,7 +203,7 @@ def src_themuse(kw):
     return out
 
 
-def src_wwr(kw):
+def src_wwr():
     """We Work Remotely RSS — programming category."""
     feed = "https://weworkremotely.com/categories/remote-programming-jobs.rss"
     txt = _get(feed)
@@ -222,18 +227,20 @@ def src_wwr(kw):
     return out
 
 
-def src_adzuna(kw, country, app_id, app_key):
-    """Adzuna — the cleanest programmatic source for the INDIA market.
+def src_adzuna(country, app_id, app_key, categories):
+    """Adzuna — the cleanest programmatic source for the INDIA market. Filters
+    by category facet (e.g. it-jobs) rather than a keyword query.
     Get a free app_id/app_key at https://developer.adzuna.com/."""
     if not (app_id and app_key):
         print("  - adzuna skipped (no app_id/app_key)", file=sys.stderr)
         return []
-    what = urllib.parse.quote(" ".join(kw[:4]))
+    category = ("&category=" + categories[0]) if categories else ""
     out = []
     for page in range(1, 4):
         url = (f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}"
                f"?app_id={app_id}&app_key={app_key}"
-               f"&results_per_page=50&what={what}&content-type=application/json")
+               f"&results_per_page=50{category}"
+               f"&content-type=application/json")
         data = _get_json(url)
         rows = (data or {}).get("results", [])
         if not rows:
@@ -290,14 +297,6 @@ def _parse_date(s):
 # filtering
 # --------------------------------------------------------------------------
 
-def _matches_kw(job, kw):
-    if not kw:
-        return True
-    hay = " ".join([job["title"], job["company"], " ".join(job["tags"]),
-                    job["description"]]).lower()
-    return any(k.lower() in hay for k in kw)
-
-
 def _matches_loc(job, location):
     if not location:
         return True
@@ -318,6 +317,34 @@ def _recent(job, since_days):
     return dt >= datetime.now(timezone.utc) - timedelta(days=since_days)
 
 
+def filter_jobs(jobs, departments, location, remote, visa, since_days):
+    """Dedup + gate jobs by department/location/remote/visa/recency.
+
+    Each kept job gains a sorted `departments` list of its assigned buckets.
+    """
+    out, seen = [], set()
+    for j in jobs:
+        key = (j["title"].lower(), j["company"].lower())
+        if key in seen:
+            continue
+        kept, depts = department.matches(j, departments)
+        if not kept:
+            continue
+        if location and not _matches_loc(j, location):
+            continue
+        if remote and not j.get("remote"):
+            continue
+        if visa and j.get("visa_sponsorship") is not True:
+            continue
+        if not _recent(j, since_days):
+            continue
+        j = dict(j)
+        j["departments"] = sorted(depts)
+        seen.add(key)
+        out.append(j)
+    return out
+
+
 ALL_SOURCES = {
     "remoteok": src_remoteok,
     "remotive": src_remotive,
@@ -332,8 +359,10 @@ ALL_SOURCES = {
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--keywords", default="",
-                    help="comma-separated skills/role terms")
+    ap.add_argument("--departments",
+                    default=",".join(department.default_departments()),
+                    help="comma list from the taxonomy; default = "
+                         "software,engineering,technology")
     ap.add_argument("--location", default="", help="e.g. India, Bengaluru, EU")
     ap.add_argument("--remote", action="store_true",
                     help="keep only remote-eligible roles")
@@ -350,7 +379,7 @@ def main():
     ap.add_argument("--out", default="jobs.json")
     args = ap.parse_args()
 
-    kw = [k.strip() for k in args.keywords.split(",") if k.strip()]
+    depts = [d.strip() for d in args.departments.split(",") if d.strip()]
     want = (list(ALL_SOURCES) + ["adzuna"] if args.sources == "all"
             else [s.strip() for s in args.sources.split(",") if s.strip()])
 
@@ -359,33 +388,18 @@ def main():
         print(f"-> {name}", file=sys.stderr)
         try:
             if name == "adzuna":
-                jobs += src_adzuna(kw, args.adzuna_country,
-                                   args.adzuna_id, args.adzuna_key)
+                cats = department.facet_codes(depts, "adzuna")
+                jobs += src_adzuna(args.adzuna_country, args.adzuna_id,
+                                   args.adzuna_key, cats)
             elif name in ALL_SOURCES:
-                jobs += ALL_SOURCES[name](kw)
+                jobs += ALL_SOURCES[name]()
             else:
                 print(f"  ! unknown source: {name}", file=sys.stderr)
         except Exception as e:  # noqa: BLE401
             print(f"  ! {name} adapter error: {e}", file=sys.stderr)
 
-    # filter
-    filtered, seen = [], set()
-    for j in jobs:
-        key = (j["title"].lower(), j["company"].lower())
-        if key in seen:
-            continue
-        if not _matches_kw(j, kw):
-            continue
-        if args.location and not _matches_loc(j, args.location):
-            continue
-        if args.remote and not j.get("remote"):
-            continue
-        if args.visa and j.get("visa_sponsorship") is not True:
-            continue
-        if not _recent(j, args.since_days):
-            continue
-        seen.add(key)
-        filtered.append(j)
+    filtered = filter_jobs(jobs, depts, args.location, args.remote,
+                           args.visa, args.since_days)
 
     with open(args.out, "w") as f:
         json.dump(filtered, f, indent=2, ensure_ascii=False)
