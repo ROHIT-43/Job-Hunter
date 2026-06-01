@@ -134,21 +134,38 @@ def download_dataset(dataset_id: str, token: str) -> list[dict]:
         return json.loads(r.read())
 
 
-def dynamic_count_check(hours: int = 4) -> int:
-    """WebFetch LinkedIn search pages to get current job count for the time window.
+# Global India search keywords. City pins (f_PP) were dropped — they throttled
+# the Apify actor to near-zero at off-peak hours. Plain global URLs + a high
+# `count` let the actor paginate the full India result set per keyword.
+SEARCH_KEYWORDS = ["Software+Engineer", "Software+Development+Engineer", "MTS"]
 
-    Returns total count across all search URLs + 10% buffer, capped at 1000.
-    Falls back to 650 if LinkedIn blocks the request.
+
+def build_search_urls(hours: int = 4) -> list:
+    """Build one global India URL per keyword (no f_PP city pins)."""
+    tpr = hours * 3600
+    return [
+        f"https://in.linkedin.com/jobs/search?keywords={kw}"
+        f"&location=India&geoId=102713980&f_TPR=r{tpr}&f_JT=F&f_E=3%2C4"
+        for kw in SEARCH_KEYWORDS
+    ]
+
+
+def dynamic_count_check(hours: int = 4) -> int:
+    """WebFetch each global keyword URL to estimate the result count.
+
+    Python urllib is frequently blocked/misparsed by LinkedIn, so the parsed
+    total is only ever used as a FLOOR over the safe minimum — never to shrink
+    the count below it.
     """
     import re
     tpr = hours * 3600
-    search_urls = [
-        f"https://in.linkedin.com/jobs/search?keywords=Software+Engineer&location=India&geoId=102713980&f_TPR=r{tpr}&f_JT=F&f_E=4%2C3",
-        f"https://in.linkedin.com/jobs/search?keywords=Software+Development+Engineer&location=India&geoId=102713980&f_TPR=r{tpr}&f_JT=F&f_E=4%2C3",
-        f"https://in.linkedin.com/jobs/search?keywords=MTS&location=India&geoId=102713980&f_TPR=r{tpr}&f_JT=F&f_E=3%2C4",
-    ]
     total = 0
-    for url in search_urls:
+    blocked = 0
+    for kw in SEARCH_KEYWORDS:
+        url = (
+            f"https://in.linkedin.com/jobs/search?keywords={kw}"
+            f"&location=India&geoId=102713980&f_TPR=r{tpr}&f_JT=F&f_E=3%2C4"
+        )
         try:
             req = urllib.request.Request(
                 url,
@@ -156,41 +173,37 @@ def dynamic_count_check(hours: int = 4) -> int:
             )
             with urllib.request.urlopen(req, timeout=15) as r:
                 text = r.read().decode("utf-8", "replace")
-            # LinkedIn embeds count as: "123 Software Engineer jobs" or "1,234 jobs"
             m = re.search(r'"jobCount"\s*:\s*(\d+)', text)
             if not m:
-                m = re.search(r'([\d,]+)\s+(?:Software\+?Engineer|Software\+?Development|MTS)\s+[Jj]obs?', text)
+                m = re.search(r'([\d,]+)\s+\S+\s+[Jj]obs?\s+in\s+India', text)
             if not m:
                 m = re.search(r'([\d,]+)\s+[Jj]obs?\s+(?:in|for)', text)
             if m:
                 n = int(m.group(1).replace(",", ""))
-                print(f"  LinkedIn count for {url.split('keywords=')[1].split('&')[0]}: {n}")
+                print(f"  {kw.replace('+', ' ')}: {n}")
                 total += n
         except Exception as e:
-            kw = url.split('keywords=')[1].split('&')[0].replace('+', ' ')
-            print(f"  LinkedIn blocked ({kw}): {type(e).__name__} — will use safe minimum")
-    # Safe minimums if LinkedIn blocks most requests
-    safe_minimum = {4: 200, 24: 650}.get(hours, 200)
-    if total < 50:
-        print(f"  LinkedIn returned suspiciously low count ({total}) — using safe minimum {safe_minimum}")
-        return safe_minimum
-    count = min(int(total * 1.1), 1000)
-    print(f"  Total LinkedIn count: {total} → Apify count set to: {count}")
+            blocked += 1
+            print(f"  {kw.replace('+', ' ')}: blocked ({type(e).__name__})")
+
+    safe_minimum = {4: 400, 24: 800}.get(hours, 400)
+    parsed = min(int(total * 1.1), 1000)
+    count = max(parsed, safe_minimum)
+    print(f"  Parsed total: {total} ({blocked} blocked) | floor {safe_minimum} → Apify count: {count}")
     return count
 
 
 def update_task_count(token: str, count: int, hours: int = 4) -> None:
-    """Update the Apify task's count and URL time-filter to match the window."""
-    import re as _re
+    """Update the Apify task with global keyword URLs and new count."""
     import json as _json
-    tpr = hours * 3600
-    task_data = _get(f"{APIFY_BASE}/actor-tasks/{TASK_ID}", token)
-    current_input = task_data["data"].get("input", {})
-    updated_urls = [
-        _re.sub(r"f_TPR=r\d+", f"f_TPR=r{tpr}", url)
-        for url in current_input.get("urls", [])
-    ]
-    updated_input = {**current_input, "count": count, "urls": updated_urls}
+    urls = build_search_urls(hours)
+    updated_input = {
+        "urls": urls,
+        "count": count,
+        "scrapeCompany": True,
+        "splitByLocation": False,
+        "splitCountry": "IN",
+    }
     body = _json.dumps({"input": updated_input}).encode()
     req = urllib.request.Request(
         f"{APIFY_BASE}/actor-tasks/{TASK_ID}?token={token}",
@@ -199,7 +212,8 @@ def update_task_count(token: str, count: int, hours: int = 4) -> None:
     )
     with urllib.request.urlopen(req, timeout=30) as r:
         r.read()
-    print(f"  Apify task updated: count={count}, f_TPR=r{tpr} ({hours}h window)")
+    tpr = hours * 3600
+    print(f"  Apify task updated: {len(urls)} global URLs, count={count}, f_TPR=r{tpr} ({hours}h)")
 
 
 def main():
