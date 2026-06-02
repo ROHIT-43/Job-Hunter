@@ -45,8 +45,10 @@ The profile drives both search and ranking. Build it from what you already know:
 - Otherwise collect: target role(s), key skills, seniority, locations, and the
   three switches — `remote_only`, `visa_required`, preferred/avoid companies.
 
-Write it to `profile.json` using `assets/profile.example.json` as the template.
-Confirm the filled profile with the user in one line before searching.
+Write it to `data/profile.json` using `assets/candidate.example.json` as the
+template — `score_jobs.py` derives your HAVE skills from its `skills[]`,
+`experience[].skills[]`, and `projects[].skills[]`. Confirm the filled profile
+with the user in one line before searching.
 
 ### 2. Decide the search mix
 
@@ -66,13 +68,15 @@ Map the user's intent to sources (full catalog in `references/sources.md`):
 
 ```bash
 python scripts/fetch_jobs.py \
-    --keywords haskell,rust,backend,scala \
-    --location India --since-days 30 \
+    --departments software,engineering,technology --since-days 30 \
     --adzuna-country in --adzuna-id "$ADZUNA_ID" --adzuna-key "$ADZUNA_KEY" \
     --out jobs.json
 ```
 
-Add `--remote` and/or `--visa` to hard-filter. Omit Adzuna flags to skip it.
+Jobs are kept by **department**, not keyword. Default departments are
+`software,engineering,technology`; add `data`/`devops`/`security`/`qa` to widen.
+One run sweeps India + remote + visa together. Add `--remote` and/or `--visa`
+to hard-filter. Omit Adzuna flags to skip it.
 If the user has no Adzuna key, run without it and note that adding one (free,
 2 min at developer.adzuna.com) unlocks the strongest India source.
 
@@ -104,15 +108,67 @@ merge the actor's rows into `jobs.json` in the normalized schema before ranking.
 ### 6. Rank and report
 
 ```bash
-python scripts/rank_jobs.py \
-    --jobs jobs.json --profile profile.json \
-    --top 40 --out-md report.md --out-csv jobs_ranked.csv
+python scripts/score_jobs.py jobs.json data/apify_jobs.json \
+    --profile profile.json --top 50 --out-dir data/output
 ```
 
-Scoring is transparent (see `references/scoring.md`): a 0–100 match score per job
-with a component breakdown for the top 10 so the user can see *why* each ranked.
+One unified scorer (`score_jobs.py`, backed by `scripts/lib/ats.py`) merges all
+input files, dedups, and gives each job an ATS match score (see
+`references/scoring.md`): `ATS% = JD skills you have ÷ all JD skills`, ordered by
+ATS% then company tier then recency. Pass any number of normalized job files
+(e.g. the keyless `jobs.json` plus an Apify `data/apify_jobs.json`).
 
-### 7. Present
+### 7. (Optional) LLM-weight the shortlist (required vs preferred)
+
+The flat dictionary score treats every JD skill equally. For a sharper top-of-
+list, run a second pass where **you (the model) read each shortlisted JD** and
+label its skills *required* vs *preferred*; the scorer then re-weights coverage
+(required skills count far more) and the missing-**required** skills become the
+real "blockers" column. This models the JD's own structure and catches skills
+the dictionary doesn't know — closing the gap to the semantic ATS layer
+(Workday/Workable/LinkedIn). It stays an **advisory** score, never a prediction
+that any ATS will accept/reject.
+
+1. **Pass 1 — emit the shortlist** (also writes the normal report):
+   ```bash
+   python scripts/score_jobs.py jobs.json data/apify_jobs.json \
+       --profile data/profile.json --top 50 --out-dir data/output \
+       --emit-shortlist data/shortlist.json --shortlist-n 25
+   ```
+   `data/shortlist.json` holds `have_skills`, the `weights`, and the top-25 jobs
+   (each with `key`, `title`, `company`, `description`, `url`).
+
+2. **Label each job — this is your job, not a script.** Read every job's
+   `description` in `data/shortlist.json` and classify the concrete skills/tools
+   it mentions. Use the JD's own framing: "must have / required / X+ years" →
+   `required`; "nice to have / preferred / bonus / plus" → `preferred`. Only
+   list real skills (languages, frameworks, datastores, cloud, tools); skip soft
+   skills. Do **not** judge whether the candidate has them — that stays
+   deterministic. Write `data/llm_labels.json` keyed by each job's `key`:
+   ```json
+   {
+     "Senior Backend Engineer::Razorpay": {
+       "required": ["go", "kafka", "postgresql", "aws"],
+       "preferred": ["kubernetes", "grpc"]
+     }
+   }
+   ```
+   For 25 jobs, do this directly; for larger shortlists, dispatch a subagent per
+   batch with this same instruction and a strict schema, then merge the JSON.
+
+3. **Pass 3 — re-score with the labels:**
+   ```bash
+   python scripts/score_jobs.py jobs.json data/apify_jobs.json \
+       --profile data/profile.json --top 50 --out-dir data/output \
+       --llm-labels data/llm_labels.json
+   ```
+   Labeled jobs are re-scored as
+   `(w_req·matched_required + w_pref·matched_preferred) ÷ (w_req·required +
+   w_pref·preferred)` (defaults `--w-req 1.0 --w-pref 0.3`), re-sorted, and
+   marked ✨ in the report; their Gaps column shows missing **required** skills.
+   Unlabeled jobs keep their dictionary score.
+
+### 8. Present
 
 - Save `report.md`, `jobs_ranked.csv`, and `search_links.md` to
   `/mnt/user-data/outputs/` and present them with `present_files`.
@@ -133,6 +189,6 @@ Always produce three artifacts:
 
 - `references/sources.md` — every source, access method, India vs international,
   visa/remote coverage, and how to add new sources
-- `references/scoring.md` — the ranking formula and how to tune it
+- `references/scoring.md` — the unified ATS formula and how to tune it
 - `references/apify.md` — pulling LinkedIn/Naukri structured data via Apify
-- `assets/profile.example.json` — candidate profile template
+- `assets/candidate.example.json` — candidate profile template (skills feed ATS)
