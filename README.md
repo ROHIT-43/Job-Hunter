@@ -37,19 +37,35 @@ job-hunter/
 │   ├── scoring.md               # the ranking formula and how to tune it
 │   └── apify.md                 # pulling LinkedIn/Naukri via Apify (consent-gated)
 ├── scripts/
-│   ├── fetch_jobs.py            # live fetch from keyless/keyed public APIs
+│   ├── fetch_jobs.py            # live fetch by department from public APIs
 │   ├── search_urls.py           # ToS-safe pre-filtered browse links
 │   ├── apify_scrape.py          # pull LinkedIn/Naukri via Apify (token from env)
-│   ├── rank_jobs.py             # score + order listings against a profile
-│   └── ats_scorer.py            # ATS-direction scoring + company-tier ordering
+│   ├── score_jobs.py            # unified ATS scorer + company-tier ordering
+│   ├── gen_resumes.py           # tailor a resume per shortlisted JD
+│   ├── build_pdfs.sh            # batch-compile tailored .tex → PDF (tectonic)
+│   ├── pipeline/                # the recurring (cron / browser) pipeline
+│   │   ├── runner.py            #   orchestrates fetch → filter each run
+│   │   ├── fetch_and_filter.py  #   fetch + normalize + pre-filter + dedup
+│   │   ├── pre_filter.py        #   title / seniority / YoE / red-flag-company kills
+│   │   ├── dedup.py             #   persistent seen-jobs store (also apply status)
+│   │   └── mark_applied.py      #   sweep ticked queue items → seen_jobs
+│   ├── lib/                     # department.py, ats.py, paths.py (shared)
+│   └── _legacy/                 # retired rank_jobs.py / ats_scorer.py (backup)
 ├── .env.example                 # token template → copy to .env (git-ignored)
 ├── assets/
-│   ├── profile.example.json     # ranking profile template (rank_jobs.py)
-│   └── candidate.example.json   # candidate profile template (ats_scorer.py)
+│   ├── departments.json         # department taxonomy (fetch filter)
+│   ├── skills_dictionary.json   # master skill vocabulary (ATS detection)
+│   └── candidate.example.json   # candidate profile template (skills feed ATS)
+├── tests/                       # stdlib unittest suite (ats, dept, paths, fetch…)
 └── data/                        # ⟵ you create this; git-ignored
     ├── profile.json             #    your real candidate profile (input)
-    ├── linkedin_export.json     #    raw job export (input)
-    └── output/                  #    generated reports (csv + md)
+    ├── resume/                  #    base resume .tex + bullet bank (tailoring)
+    └── pipeline/                #    recurring-run state (see "Where state lives")
+        ├── seen_jobs.json       #      dedup + apply-status store
+        ├── redflag_companies.json #    banned-company blocklist
+        ├── APPLY_QUEUE.md       #      scripted-run shortlist (tick to apply)
+        ├── BROWSER_QUEUE.md     #      Claude-in-Chrome shortlist (tick to apply)
+        └── browser_runs/<ts>/   #      per-run artifacts (raw, scored, matches, PDFs)
 ```
 
 Scripts use only the Python standard library (Python 3.8+). Fetching needs
@@ -62,14 +78,15 @@ skill and the `*.example.json` templates.
 ## Quick start
 
 ```bash
-# 1. Live fetch (Adzuna key optional but unlocks the strongest India source)
-python scripts/fetch_jobs.py --keywords haskell,rust,backend \
+# 1. Live fetch by department (Adzuna key optional; unlocks the India source)
+python scripts/fetch_jobs.py \
+    --departments software,engineering,technology \
     --location India --since-days 30 --out jobs.json
 
-# 2. Rank against your profile (copy the template first, then edit)
-cp assets/profile.example.json profile.json
-python scripts/rank_jobs.py --jobs jobs.json --profile profile.json \
-    --top 40 --out-md report.md --out-csv jobs_ranked.csv
+# 2. Score against your profile (copy the template first, then edit)
+cp assets/candidate.example.json data/profile.json
+python scripts/score_jobs.py jobs.json --profile data/profile.json \
+    --top 50 --out-dir data/output
 
 # 3. ToS-safe browse links for LinkedIn/Naukri/etc.
 python scripts/search_urls.py --keywords "backend engineer haskell rust" \
@@ -88,7 +105,7 @@ cp .env.example .env          # then put your real APIFY_TOKEN in .env (git-igno
 
 python scripts/apify_scrape.py \
     --actor curious_coder/linkedin-jobs-scraper \
-    --keywords "backend engineer python rust" \
+    --departments software,engineering,technology \
     --location India --rows 50 \
     --out data/linkedin_export.json
 ```
@@ -96,48 +113,54 @@ python scripts/apify_scrape.py \
 Token resolution order: `APIFY_TOKEN` env var → a `.env` file in the CWD or repo
 root. Actor input field names vary per actor — start a small `--rows 25` run to
 validate output, then scale. Use `--input-file data/actor_input.json` when an
-actor needs a custom input schema. The output drops straight into the scorer:
+actor needs a custom input schema. The output is normalized to the shared schema,
+so it drops straight into the scorer alongside the keyless fetch:
 
 ```bash
-python scripts/ats_scorer.py data/linkedin_export.json --profile data/profile.json
+python scripts/score_jobs.py data/linkedin_export.json jobs.json \
+    --profile data/profile.json
 ```
 
 > Apify actors run against the target sites' ToS — that is the user's
 > responsibility. Never feed account credentials to a login-walled actor.
 
-## ATS scorer with company-tier ordering
+## Unified ATS scorer with company-tier ordering
 
-`scripts/ats_scorer.py` scores LinkedIn/Apify exports in the **ATS direction** —
-*how much of what this JD asks for do you already have?* —
+`scripts/score_jobs.py` (backed by `scripts/lib/ats.py`) scores **every** source
+the same way — in the **ATS direction**, *how much of what this JD asks for do
+you already have?* —
 
 ```
 ATS % = skills you HAVE that the JD mentions ÷ ALL skills the JD mentions
 ```
 
-and then **orders results by ATS match first, company prestige second**:
+JD skills are master-dictionary terms (`assets/skills_dictionary.json`) detected
+in the JD text, so the score is identical whether a job came from Adzuna, a
+remote board, or an Apify LinkedIn pull. Results are **ordered by ATS match
+first, company prestige second**:
 
 ```bash
 # 1. Describe yourself once (copy the template, then edit)
 cp assets/candidate.example.json data/profile.json
 
-# 2. Score a job export against your profile
-python scripts/ats_scorer.py data/linkedin_export.json \
+# 2. Score one or more normalized job files against your profile
+python scripts/score_jobs.py jobs.json data/linkedin_export.json \
     --profile data/profile.json --top 100
-# → data/output/ats_full_report.md + data/output/ats_full_report.csv
+# → data/output/report.md + data/output/jobs_ranked.csv
 ```
 
-`--profile` defaults to `data/profile.json` and `--out-dir` to `data/output`,
-so once your profile is in place a bare `python scripts/ats_scorer.py
-data/linkedin_export.json` just works. If no profile file exists, the script
-falls back to built-in default skill sets and says so.
+`--out-dir` defaults to `data/output`. Pass any number of job JSON files; they
+are merged and deduped on (title, company) before scoring.
 
-**Sort key (all descending):** `ats_pct → tier → have_count → recency`. ATS
-match stays primary; the company tier only breaks ties between equal-ATS roles.
+**Sort key (all descending):** `high-signal-first → ats_pct → tier →
+have_count → recency`. ATS match stays primary; the company tier only breaks
+ties between equal-ATS roles, and JDs mentioning fewer than 3 detected skills are
+flagged low-signal and sink below high-signal roles.
 
 ### Your skills come from the candidate profile
 
-`ats_scorer.py` no longer hardcodes your skills — it reads them from the
-profile JSON (`assets/candidate.example.json` is the template):
+`score_jobs.py` reads your skills from the profile JSON
+(`assets/candidate.example.json` is the template):
 
 ```jsonc
 {
@@ -151,16 +174,15 @@ profile JSON (`assets/candidate.example.json` is the template):
   ],
   "projects": [
     { "name": "raft-kv", "description": "...", "skills": ["rust", "distributed systems"] }
-  ],
-  "gap_skills": ["spring boot", "terraform"]      // skills you know you lack
+  ]
 }
 ```
 
 - **HAVE** = the union of `skills[]` + every `experience[].skills[]` +
   every `projects[].skills[]`.
-- **GAP** = the explicit `gap_skills[]`.
-- Any JD keyword that is neither HAVE nor GAP is counted as a gap (conservative
-  — it can only lower the score, never inflate it).
+- **JD skills** = master-dictionary terms found in the JD text.
+- **GAP** = the JD skills you do not have (`JD − HAVE`) — derived per job, not
+  declared up front.
 
 So `ATS %` answers: *of the skills this JD asks for, how many can I evidence
 from my own experience and projects?*
@@ -188,6 +210,75 @@ red flag — extend them as you learn more:
 
 All of these are plain Python sets near the top of the file. Edit them to fit
 your market.
+
+## Claude-in-Chrome browser runs
+
+For LinkedIn — which forbids scraping and walls guest fetches — the skill can run
+an **authenticated, in-browser** hunt through Claude's Chrome integration. You stay
+logged into your own LinkedIn session; nothing is automated against a login you
+don't control. The flow:
+
+1. **Scrape job IDs** for a time window (e.g. last 5h = `f_TPR=r18000`) across the
+   target titles via the authenticated `voyagerJobsDashJobCards` endpoint —
+   page-context `fetch()` using your session's CSRF token. IDs only, paginated.
+2. **Build candidate links** — `https://www.linkedin.com/jobs/view/<jobId>`.
+3. **Pre-filter** obvious non-fits by title/company (reuses `pre_filter.py`'s
+   red-flag-company and title kills) and **dedup** against `seen_jobs.json`.
+4. **Fetch each JD** and score it against the profile, fanned out across parallel
+   agents.
+5. **Tailor + compile** a resume PDF for every match ≥ 70 (`gen_resumes.py` rules,
+   Haiku for speed) and append them to `BROWSER_QUEUE.md`.
+
+> **Fetch JDs via the voyager API, not WebFetch.** `WebFetch` on
+> `linkedin.com/jobs/view/<id>` frequently hits a login wall / HTTP 429 and returns
+> nothing — which silently scores good jobs as 0. Use the authenticated
+> `GET /voyager/api/jobs/jobPostings/<id>?decorationId=…WebFullJobPosting-65`
+> endpoint instead (full `description.text`, title, company, location). After
+> scoring, always re-fetch any `fetched:false` rows through voyager before trusting
+> the distribution.
+
+Each run writes a uniquely timestamped folder under
+`data/pipeline/browser_runs/<date>_<time>_<window>/`:
+
+| File | Contents |
+|------|----------|
+| `jobs_raw.json` | every scraped job (id, title, company, `jd_link`) |
+| `candidates_fresh.json` | post-dedup, post-filter candidates fed to scoring |
+| `jobs_scored.json` | all candidates with ATS score, matched/gap skills, JD summary |
+| `matches.json` | the ≥ 70 shortlist, each with its tailored `resume.pdf` path |
+| `<jobId>_<idx>/resume.{tex,pdf}` | the per-match tailored resume |
+
+## Where state lives (dedup, applied, banned)
+
+All cross-run state is small JSON/Markdown under `data/pipeline/` (git-ignored).
+The *logic* is in `scripts/pipeline/`; the *data* is yours:
+
+| Concern | Store (git-ignored) | Logic |
+|---------|--------------------|-------|
+| **Dedup** — never re-process a job | `data/pipeline/seen_jobs.json` | `scripts/pipeline/dedup.py` |
+| **Applied** — drop jobs you've applied to | same `seen_jobs.json` (`status:"applied"`) | `scripts/pipeline/mark_applied.py` |
+| **Banned** — skip red-flag companies | `data/pipeline/redflag_companies.json` | `scripts/pipeline/pre_filter.py` |
+| **Shortlists** — what to apply to | `APPLY_QUEUE.md` / `BROWSER_QUEUE.md` | written by the run; ticked by you |
+
+- **Dedup** keys every job by its LinkedIn job ID (`li:<id>`, parsed from the URL),
+  falling back to `title::company`. Once seen, a posting never resurfaces — even if
+  its URL params change between runs.
+- **Applied**: tick `- [x] Applied` under any queue entry, then run
+  `python3 scripts/pipeline/mark_applied.py`. It records those IDs as
+  `status:"applied"` in `seen_jobs.json` and strikes them from the queue, so dedup
+  filters them out forever.
+- **Banned**: add a company to `redflag_companies.json` and every future run skips
+  it **before** fetch/score (matched case-insensitively):
+
+  ```jsonc
+  {
+    "patterns": ["stealth"],          // regex / substring on the company name
+    "exact": ["Some Exact Co Pvt Ltd"]
+  }
+  ```
+
+  `pre_filter.is_redflag_company()` loads this once and short-circuits
+  `is_relevant()` — flagged companies are dropped with reason `"red-flag company"`.
 
 ## Privacy
 
