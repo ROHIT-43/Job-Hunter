@@ -6,7 +6,39 @@ years-of-experience patterns in the JD text.
 
 Candidate has 3 years of experience → skip anything requiring 7+.
 """
+import json
+import os
 import re
+
+# ── Red-flag companies (user-maintained) ────────────────────────────────────
+# Loaded once from data/pipeline/redflag_companies.json. Any company whose name
+# matches a pattern (regex substring) or exact entry is dropped before fetch/score.
+_REDFLAG_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "..", "data", "pipeline", "redflag_companies.json"
+)
+
+
+def _load_redflags():
+    try:
+        with open(_REDFLAG_PATH) as fh:
+            cfg = json.load(fh)
+    except (OSError, ValueError):
+        return [], set()
+    patterns = [re.compile(p, re.IGNORECASE) for p in cfg.get("patterns", []) if p]
+    exact = {e.strip().lower() for e in cfg.get("exact", []) if e}
+    return patterns, exact
+
+
+_REDFLAG_PATTERNS, _REDFLAG_EXACT = _load_redflags()
+
+
+def is_redflag_company(company: str) -> bool:
+    name = (company or "").strip().lower()
+    if not name:
+        return False
+    if name in _REDFLAG_EXACT:
+        return True
+    return any(p.search(name) for p in _REDFLAG_PATTERNS)
 
 # ── Title-level kills ────────────────────────────────────────────────────────
 BAD_TITLE_TOKENS = {
@@ -44,6 +76,10 @@ def is_relevant(job: dict):
     seniority = (
         job.get("seniority") or job.get("seniorityLevel") or ""
     ).lower()
+
+    # 0. Red-flag company kill (user-maintained blocklist)
+    if is_redflag_company(job.get("company") or job.get("companyName")):
+        return False, "red-flag company"
 
     # 1. Title kill
     for token in BAD_TITLE_TOKENS:
