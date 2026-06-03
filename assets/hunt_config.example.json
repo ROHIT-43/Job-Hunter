@@ -1,0 +1,12 @@
+{
+  "window_hours": 24,
+  "target_titles": ["Software Engineer", "Software Development Engineer", "Member of Technical Staff"],
+  "geo_id": "102713980",
+  "experience_filters": ["3", "4"],
+  "yoe_threshold": 3,
+  "score_threshold": 70,
+  "dictionary": "assets/skills_dictionary.json",
+  "redflag_path": "data/pipeline/redflag_companies.json",
+  "seen_path": "data/pipeline/seen_jobs.json",
+  "apify_actor": "curious_coder/linkedin-jobs-scraper"
+}
