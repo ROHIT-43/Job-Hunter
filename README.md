@@ -6,9 +6,11 @@ aggregates, and ranks software / tech job openings across the Indian market
 remote or visa-sponsored (RemoteOK, Remotive, Arbeitnow, Himalayas, Wellfound,
 Adzuna, company career pages).
 
-It pulls live listings from sources with clean public APIs, generates ToS-safe
-pre-filtered browse links for the sites that forbid scraping, ranks everything
-against a candidate profile, and produces a shortlist with apply links.
+Each run starts by asking **which source method** to use — **Browser**
+(Claude-in-Chrome + voyager), **Apify** (actor pull), or **Keyless** (public APIs +
+ToS-safe links) — then the chosen path feeds one shared backbone that dedups,
+drops red-flag companies, scores against a candidate profile, splits matches by
+years-of-experience, and produces a shortlist with apply links.
 
 > **Information, not advice.** It surfaces and ranks openings; it makes no
 > career or financial guarantees. It never scrapes sites that forbid it or
@@ -33,9 +35,12 @@ Bengaluru"). The `SKILL.md` front-matter handles auto-discovery.
 job-hunter/
 ├── SKILL.md                     # the skill: workflow Claude follows
 ├── references/
+│   ├── backbone.md              # shared post-pull stage (dedup/red-flag/score/split/queue)
+│   ├── path-browser.md          # Browser (Claude-in-Chrome + voyager) pull path
+│   ├── path-apify.md            # Apify actor pull path
+│   ├── path-keyless.md          # keyless public-API pull path
 │   ├── sources.md               # every job source, access method, coverage
-│   ├── scoring.md               # the ranking formula and how to tune it
-│   └── apify.md                 # pulling LinkedIn/Naukri via Apify (consent-gated)
+│   └── scoring.md               # the ranking formula and how to tune it
 ├── scripts/
 │   ├── fetch_jobs.py            # live fetch by department from public APIs
 │   ├── search_urls.py           # ToS-safe pre-filtered browse links
@@ -44,10 +49,13 @@ job-hunter/
 │   ├── gen_resumes.py           # tailor a resume per shortlisted JD
 │   ├── build_pdfs.sh            # batch-compile tailored .tex → PDF (tectonic)
 │   ├── pipeline/                # the recurring (cron / browser) pipeline
+│   │   ├── config.py            #   load hunt_config.json (run knobs) + defaults
 │   │   ├── runner.py            #   orchestrates fetch → filter each run
 │   │   ├── fetch_and_filter.py  #   fetch + normalize + pre-filter + dedup
 │   │   ├── pre_filter.py        #   title / seniority / YoE / red-flag-company kills
 │   │   ├── dedup.py             #   persistent seen-jobs store (also apply status)
+│   │   ├── yoe_split.py         #   split matches into Primary / Stretch by YoE
+│   │   ├── queue_writer.py      #   render the two-section match queue
 │   │   └── mark_applied.py      #   sweep ticked queue items → seen_jobs
 │   ├── lib/                     # department.py, ats.py, paths.py (shared)
 │   └── _legacy/                 # retired rank_jobs.py / ats_scorer.py (backup)
@@ -55,12 +63,14 @@ job-hunter/
 ├── assets/
 │   ├── departments.json         # department taxonomy (fetch filter)
 │   ├── skills_dictionary.json   # master skill vocabulary (ATS detection)
+│   ├── hunt_config.example.json # run-knobs template (→ data/pipeline/hunt_config.json)
 │   └── candidate.example.json   # candidate profile template (skills feed ATS)
-├── tests/                       # stdlib unittest suite (ats, dept, paths, fetch…)
+├── tests/                       # stdlib unittest suite (ats, dept, paths, config, yoe…)
 └── data/                        # ⟵ you create this; git-ignored
     ├── profile.json             #    your real candidate profile (input)
     ├── resume/                  #    base resume .tex + bullet bank (tailoring)
     └── pipeline/                #    recurring-run state (see "Where state lives")
+        ├── hunt_config.json     #      run knobs (window, titles, thresholds, paths)
         ├── seen_jobs.json       #      dedup + apply-status store
         ├── redflag_companies.json #    banned-company blocklist
         ├── APPLY_QUEUE.md       #      scripted-run shortlist (tick to apply)
@@ -255,10 +265,17 @@ The *logic* is in `scripts/pipeline/`; the *data* is yours:
 
 | Concern | Store (git-ignored) | Logic |
 |---------|--------------------|-------|
+| **Run knobs** — window, titles, thresholds | `data/pipeline/hunt_config.json` (template `assets/hunt_config.example.json`) | `scripts/pipeline/config.py` |
 | **Dedup** — never re-process a job | `data/pipeline/seen_jobs.json` | `scripts/pipeline/dedup.py` |
 | **Applied** — drop jobs you've applied to | same `seen_jobs.json` (`status:"applied"`) | `scripts/pipeline/mark_applied.py` |
 | **Banned** — skip red-flag companies | `data/pipeline/redflag_companies.json` | `scripts/pipeline/pre_filter.py` |
+| **YoE split** — stretch roles separate | tags on `matches.json` (`min_yoe`/`stretch`) | `scripts/pipeline/yoe_split.py` + `queue_writer.py` |
 | **Shortlists** — what to apply to | `APPLY_QUEUE.md` / `BROWSER_QUEUE.md` | written by the run; ticked by you |
+
+- **Run knobs**: `config.load_config()` reads `hunt_config.json` once at the top of
+  every run (any path) and layers it over defaults — `window_hours`,
+  `target_titles`, `geo_id`, `yoe_threshold`, `score_threshold`, and the store
+  paths. Missing file/keys fall back to defaults, so it always runs.
 
 - **Dedup** keys every job by its LinkedIn job ID (`li:<id>`, parsed from the URL),
   falling back to `title::company`. Once seen, a posting never resurfaces — even if
@@ -279,6 +296,11 @@ The *logic* is in `scripts/pipeline/`; the *data* is yours:
 
   `pre_filter.is_redflag_company()` loads this once and short-circuits
   `is_relevant()` — flagged companies are dropped with reason `"red-flag company"`.
+- **YoE split**: matches whose JD states a minimum above `yoe_threshold` (your
+  years) go into a separate **Stretch** section of the queue — still recorded in
+  `seen_jobs.json` for dedup, just out of the main list. `yoe_split.split_matches()`
+  tags each match `min_yoe`/`stretch`; `queue_writer.render_queue()` renders the two
+  sections.
 
 ## Privacy
 

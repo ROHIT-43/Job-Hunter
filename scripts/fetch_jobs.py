@@ -9,7 +9,7 @@ are per-job attributes you can hard-filter with --remote / --visa.
 
 This intentionally only touches sources that permit programmatic access.
 LinkedIn / Naukri / Indeed are NOT fetched here (their ToS forbid scraping) —
-use scripts/search_urls.py for those, or an Apify actor (see references/apify.md).
+use scripts/search_urls.py for those, or an Apify actor (see references/path-apify.md).
 
 Requires network access (the calling environment must have egress enabled).
 Uses only the Python standard library so it runs anywhere.

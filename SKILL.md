@@ -16,179 +16,92 @@ description: >
 
 # Job Hunter
 
-Aggregate live job listings from many sources, rank them against the user's
-profile, and produce a ranked shortlist with apply links. Then optionally hand
-the top matches to `resume-builder` for per-JD tailoring.
+A **method-gated router**: every run asks which source method to use (Browser /
+Apify / Keyless), the chosen path pulls candidates, then a single **shared
+backbone** dedups, drops red-flag companies, scores, splits matches into
+excluding roles whose stated minimum exceeds the candidate's years, and writes a
+queue. Top matches optionally
+hand off to `resume-builder` for per-JD tailoring.
 
 ## Ground rules (read first)
 
 - **Respect site terms.** LinkedIn, Naukri, Indeed, Wellfound and similar sites
   forbid automated scraping and actively block bots. This skill never builds a
   stealth scraper or bypasses bot protection. For those sites it generates
-  **pre-filtered search URLs** the user opens themselves, or uses an **Apify
-  actor** (see `references/apify.md`) with the user's consent. Live data is
-  pulled only from sources that offer clean public APIs/RSS.
-- **Network is required** for fetching. The scripts use only the Python standard
-  library but need egress enabled in the running environment. If a fetch fails
-  with a network error, tell the user their environment needs network access on.
-- This is **information, not advice.** Present matches and let the user decide;
-  don't make career/financial guarantees.
+  **pre-filtered search URLs** the user opens themselves, uses an **Apify actor**
+  (`references/path-apify.md`) with consent, or runs the **authenticated browser
+  path** in the user's own logged-in session.
+- **LinkedIn JDs are fetched via the authenticated voyager API, never WebFetch.**
+  WebFetch on `/jobs/view/<id>` walls (login/429) and silently scores good jobs 0.
+- **Network is required** for fetching. Scripts use only the Python standard
+  library but need egress. If a fetch fails with a network error, tell the user.
+- This is **information, not advice.** Present matches; don't make guarantees.
 
-## Workflow
+## Step 0 — Load config + profile
 
-### 1. Build the candidate profile
-
-The profile drives both search and ranking. Build it from what you already know:
-- If the user has a resume (the `resume-builder` skill knows their stack), derive
-  `must_have_skills`, `target_titles`, and `seniority_level` from it instead of
-  asking them to retype everything.
-- Otherwise collect: target role(s), key skills, seniority, locations, and the
-  three switches — `remote_only`, `visa_required`, preferred/avoid companies.
-
-Write it to `data/profile.json` using `assets/candidate.example.json` as the
-template — `score_jobs.py` derives your HAVE skills from its `skills[]`,
-`experience[].skills[]`, and `projects[].skills[]`. Confirm the filled profile
-with the user in one line before searching.
-
-### 2. Decide the search mix
-
-Map the user's intent to sources (full catalog in `references/sources.md`):
-
-- **India, any setup** → Adzuna (`--adzuna-country in`, needs free key) for live
-  data + `search_urls.py` for Naukri/LinkedIn/Instahyre/Hirist/foundit.
-- **Remote (anywhere)** → RemoteOK, Remotive, Himalayas, Jobicy, We Work
-  Remotely (all keyless) + `search_urls.py --remote`.
-- **Visa-sponsored international** → Arbeitnow (has a visa flag) + a `web_search`
-  for current curated sponsor lists + `search_urls.py` with target countries.
-- **A specific company** → `web_search` / `web_fetch` on its careers page.
-- **Wants results pulled in (not just links) for LinkedIn/Naukri** → offer the
-  Apify route (`references/apify.md`), confirm credit use first.
-
-### 3. Fetch live listings (Tier 1)
-
-```bash
-python scripts/fetch_jobs.py \
-    --departments software,engineering,technology --since-days 30 \
-    --adzuna-country in --adzuna-id "$ADZUNA_ID" --adzuna-key "$ADZUNA_KEY" \
-    --out jobs.json
+```python
+import sys; sys.path.insert(0, "scripts")
+from pipeline.config import load_config
+cfg = load_config()   # window_hours, target_titles, geo_id, yoe_threshold, score_threshold, …
 ```
 
-Jobs are kept by **department**, not keyword. Default departments are
-`software,engineering,technology`; add `data`/`devops`/`security`/`qa` to widen.
-One run sweeps India + remote + visa together. Add `--remote` and/or `--visa`
-to hard-filter. Omit Adzuna flags to skip it.
-If the user has no Adzuna key, run without it and note that adding one (free,
-2 min at developer.adzuna.com) unlocks the strongest India source.
+`hunt_config.json` (template: `assets/hunt_config.example.json`) holds every run
+knob; both the profile and config feed **all** paths. Read `data/profile.json` for
+the candidate's HAVE skills (`assets/candidate.example.json` is the template).
 
-### 4. Generate browse links (Tier 2)
+## Step 1 — Build / confirm the profile
 
-```bash
-python scripts/search_urls.py \
-    --keywords "backend engineer haskell rust" \
-    --location "Bengaluru" --remote --since-days 7 \
-    --category general,tech --out search_links.md
-```
+Derive `target_titles` and skills from the user's resume (the `resume-builder`
+skill knows their stack) rather than asking them to retype. Otherwise collect
+target role(s), key skills, seniority, locations, and the switches
+(`remote_only`, `visa_required`, avoid-companies → red-flag list). Confirm the
+filled profile in one line before searching.
 
-ToS-safe deep links, grouped by `--category` (general, tech, remote, freshers,
-bluecollar, freelance, or `all`). `general` covers Naukri, LinkedIn, Indeed,
-Foundit, Shine, TimesJobs, Glassdoor, Google Jobs, NCS; `tech` covers CutShort,
-Instahyre, Wellfound, Hirist, Hirect. Default is `general,tech` — match the
-category to the user's level (don't surface blue-collar/fresher links to a
-senior engineer unless asked). Full catalog in `references/sources.md`.
+## Step 2 — Method gate (ALWAYS ASK)
 
-### 5. (Optional) Pull LinkedIn/Naukri via Apify
+Ask explicitly, every run:
 
-Only with user consent (pay-per-result). Apify has strong actors for **LinkedIn,
-Naukri, Indeed, Glassdoor** and a multi-source aggregator, but **none** for most
-niche Indian sites (CutShort, Instahyre, Hirist, Apna, Shine, etc.) — those stay
-on `search_urls.py`. Verify availability with `search-actors` each run; never
-assume an actor exists or automate a login. Follow `references/apify.md`, then
-merge the actor's rows into `jobs.json` in the normalized schema before ranking.
+> **Which source method?**
+> **A) Browser** — Claude-in-Chrome + voyager (authenticated LinkedIn; richest)
+> **B) Apify** — actor pull (pay-per-result)
+> **C) Keyless** — public APIs + ToS-safe browse links (free)
 
-### 6. Rank and report
+Then open the matching reference and run its **pull** steps to produce normalized
+candidates `[{id, title, company, url, kw}]`:
 
-```bash
-python scripts/score_jobs.py jobs.json data/apify_jobs.json \
-    --profile profile.json --top 50 --out-dir data/output
-```
+- **A →** `references/path-browser.md`
+- **B →** `references/path-apify.md`
+- **C →** `references/path-keyless.md`
 
-One unified scorer (`score_jobs.py`, backed by `scripts/lib/ats.py`) merges all
-input files, dedups, and gives each job an ATS match score (see
-`references/scoring.md`): `ATS% = JD skills you have ÷ all JD skills`, ordered by
-ATS% then company tier then recency. Pass any number of normalized job files
-(e.g. the keyless `jobs.json` plus an Apify `data/apify_jobs.json`).
+## Step 3 — Shared backbone
 
-### 7. (Optional) LLM-weight the shortlist (required vs preferred)
+Run `references/backbone.md` on the candidates: **dedup** vs `seen_jobs.json` →
+drop **red-flag** companies → **score** (output contract: `score` +
+`matched_skills`/`gap_skills`/`jd_summary`) → **YoE gate**: keep only matches
+with `min_yoe <= cfg["yoe_threshold"]` (or no stated minimum); roles stating a
+higher minimum are **excluded from the queue and never tailored** — record their
+IDs in `seen_jobs.json` for dedup only → record all scored IDs in
+`seen_jobs.json` → write the eligible-only queue (`BROWSER_QUEUE.md` for path A,
+`APPLY_QUEUE.md` for B/C).
 
-The flat dictionary score treats every JD skill equally. For a sharper top-of-
-list, run a second pass where **you (the model) read each shortlisted JD** and
-label its skills *required* vs *preferred*; the scorer then re-weights coverage
-(required skills count far more) and the missing-**required** skills become the
-real "blockers" column. This models the JD's own structure and catches skills
-the dictionary doesn't know — closing the gap to the semantic ATS layer
-(Workday/Workable/LinkedIn). It stays an **advisory** score, never a prediction
-that any ATS will accept/reject.
+## Step 4 — Present
 
-1. **Pass 1 — emit the shortlist** (also writes the normal report):
-   ```bash
-   python scripts/score_jobs.py jobs.json data/apify_jobs.json \
-       --profile data/profile.json --top 50 --out-dir data/output \
-       --emit-shortlist data/shortlist.json --shortlist-n 25
-   ```
-   `data/shortlist.json` holds `have_skills`, the `weights`, and the top-25 jobs
-   (each with `key`, `title`, `company`, `description`, `url`).
-
-2. **Label each job — this is your job, not a script.** Read every job's
-   `description` in `data/shortlist.json` and classify the concrete skills/tools
-   it mentions. Use the JD's own framing: "must have / required / X+ years" →
-   `required`; "nice to have / preferred / bonus / plus" → `preferred`. Only
-   list real skills (languages, frameworks, datastores, cloud, tools); skip soft
-   skills. Do **not** judge whether the candidate has them — that stays
-   deterministic. Write `data/llm_labels.json` keyed by each job's `key`:
-   ```json
-   {
-     "Senior Backend Engineer::Razorpay": {
-       "required": ["go", "kafka", "postgresql", "aws"],
-       "preferred": ["kubernetes", "grpc"]
-     }
-   }
-   ```
-   For 25 jobs, do this directly; for larger shortlists, dispatch a subagent per
-   batch with this same instruction and a strict schema, then merge the JSON.
-
-3. **Pass 3 — re-score with the labels:**
-   ```bash
-   python scripts/score_jobs.py jobs.json data/apify_jobs.json \
-       --profile data/profile.json --top 50 --out-dir data/output \
-       --llm-labels data/llm_labels.json
-   ```
-   Labeled jobs are re-scored as
-   `(w_req·matched_required + w_pref·matched_preferred) ÷ (w_req·required +
-   w_pref·preferred)` (defaults `--w-req 1.0 --w-pref 0.3`), re-sorted, and
-   marked ✨ in the report; their Gaps column shows missing **required** skills.
-   Unlabeled jobs keep their dictionary score.
-
-### 8. Present
-
-- Save `report.md`, `jobs_ranked.csv`, and `search_links.md` to
-  `/mnt/user-data/outputs/` and present them with `present_files`.
-- Summarise: how many matched, the top handful by score, and the strongest
-  remote / visa-sponsored options if those were requested.
-- Offer the resume-builder handoff: "Want me to tailor your (1-page) resume to
-  any of these top roles?" — if yes, invoke the `resume-builder` skill with the
-  chosen JD.
-
-## Output
-
-Always produce three artifacts:
-1. `report.md` — ranked table + top-10 detail with apply links
-2. `jobs_ranked.csv` — same data, spreadsheet-friendly for tracking applications
-3. `search_links.md` — pre-filtered Tier-2 browse links
+- Summarise the eligible match count (and how many >YoE roles were excluded) and the top handful by score.
+- Offer the resume-builder handoff: "Want me to tailor your 1-page resume to any of
+  these?" — if yes, invoke `resume-builder` with the chosen JD (matches
+  `>= cfg["score_threshold"]`).
+- After the user ticks `- [x] Applied` in the queue, run
+  `python3 scripts/pipeline/mark_applied.py` to record those as applied (dedup
+  filters them out forever).
 
 ## Reference files
 
-- `references/sources.md` — every source, access method, India vs international,
-  visa/remote coverage, and how to add new sources
-- `references/scoring.md` — the unified ATS formula and how to tune it
-- `references/apify.md` — pulling LinkedIn/Naukri structured data via Apify
+- `references/backbone.md` — the shared post-pull stage (dedup/red-flag/score/split/queue)
+- `references/path-browser.md` — Browser (voyager) pull path
+- `references/path-apify.md` — Apify actor pull path
+- `references/path-keyless.md` — keyless public-API pull path
+- `references/scoring.md` — the unified ATS formula and the LLM required-vs-preferred re-weight
+- `assets/scoring_rubric.md` — canonical LLM scoring rubric (skillset + penalties + caps + YoE + output contract); sent verbatim to every scoring subagent, schema-bounded 0–100, Sonnet-only
+- `references/sources.md` — every source, access method, coverage
+- `assets/hunt_config.example.json` — run-knobs template (→ `data/pipeline/hunt_config.json`)
 - `assets/candidate.example.json` — candidate profile template (skills feed ATS)

@@ -47,6 +47,7 @@
   "gcp": ["google cloud"],
   "azure": [],
   "ci/cd": ["cicd", "continuous integration"],
+  "jenkins": [],
   "microservices": ["micro-services"],
   "distributed systems": [],
   "sql": [],

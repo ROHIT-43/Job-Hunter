@@ -3,7 +3,7 @@
 apify_scrape.py — Pull structured job listings from an Apify actor and write
 them, normalized, to a JSON file that scripts/score_jobs.py can consume.
 
-This is the "results pulled in" route described in references/apify.md. Apify
+This is the "results pulled in" route described in references/path-apify.md. Apify
 hosts maintained actors that return structured job data from LinkedIn / Naukri /
 Indeed without you running a scraper yourself. It is pay-per-result, so it runs
 ONLY when you provide a token and a row cap.
