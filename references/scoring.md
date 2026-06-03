@@ -1,5 +1,14 @@
 # Scoring methodology
 
+> **Two scorers, one contract.** The keyless/Apify paths use the **deterministic**
+> dictionary ATS below (`score_jobs.py`/`lib/ats.py`, bounded by construction). The
+> **browser path** LLM-scores from full JD text using the canonical rubric in
+> **`assets/scoring_rubric.md`** — sent verbatim to every scoring subagent, with a
+> schema-bounded `score` (integer 0–100) and **Sonnet-or-better** (Haiku is banned
+> for scoring). Both emit the same `{score, min_yoe, matched_skills, gap_skills,
+> jd_summary}` shape. `assets/scoring_rubric.md` is the single source of truth for
+> LLM scoring.
+
 `scripts/score_jobs.py` (backed by `scripts/lib/ats.py`) gives every job a 0–100
 **ATS match**: the share of skills a JD asks for that the candidate already has.
 
