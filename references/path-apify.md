@@ -1,4 +1,10 @@
-# Getting LinkedIn / Naukri data via Apify (optional)
+# Path B — Apify (actor pull)
+
+> This is the **Apify pull path** of the gated skill. It produces normalized
+> candidates via a maintained actor, then hands off to `references/backbone.md`
+> (dedup → red-flag → score → YoE split → queue; writes `APPLY_QUEUE.md`). The
+> actor defaults to `cfg["apify_actor"]`; titles/window come from `hunt_config`.
+> Pay-per-result — confirm credit use with the user before pulling.
 
 The user has an **Apify connector** available. Apify hosts maintained actors that
 return structured job data from LinkedIn/Naukri/Indeed without you writing or

@@ -25,7 +25,7 @@ To add a source: write an adapter in `fetch_jobs.py` returning records via the
 These portals block bots; never scrape them. `search_urls.py` builds
 pre-filtered deep links the user opens themselves — the ToS-safe substitute.
 For LinkedIn/Naukri, Apify actors can pull structured data with consent
-(`apify.md`). Portals are grouped by `--category`.
+(`path-apify.md`). Portals are grouped by `--category`.
 
 | Category | Portals | Notes |
 |---|---|---|
