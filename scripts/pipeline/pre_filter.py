@@ -41,6 +41,8 @@ def is_redflag_company(company: str) -> bool:
     return any(p.search(name) for p in _REDFLAG_PATTERNS)
 
 # ── Title-level kills ────────────────────────────────────────────────────────
+# Pure-management / non-engineering titles. Substring match (these tokens never
+# appear inside a legit IC title we target).
 BAD_TITLE_TOKENS = {
     "manager", "director", "vp", "vice president", "head of",
     "hr", "human resource", "recruiter", "talent acquisition", "sourcer",
@@ -49,7 +51,35 @@ BAD_TITLE_TOKENS = {
     "president", "executive",
 }
 
+# ── Seniority-by-title kills ────────────────────────────────────────────────
+# These IC seniority titles are beyond a ~3-yr candidate: Lead / Principal /
+# Staff / Architect. Matched on WORD BOUNDARIES (regex) — NOT naive substrings —
+# for two reasons:
+#   • "Staff" must NOT kill "Member of Technical Staff" (an MTS role IS a target
+#     title — see hunt_config.target_titles). The MTS guard below protects it.
+#   • avoids accidental hits like "...lead..." inside another word.
+#
+# >>> DO NOT ADD "senior" / "sr" / "ii" / "iii" HERE. <<<
+# Senior/Sr is a NORMAL target level for a 3-yr engineer (a Senior SWE often needs
+# only 3 yrs; the canonical rubric scores a Senior Razorpay role at 82). Seniority
+# that depends on YEARS is gated exactly ONCE, downstream, by the JD-based YoE rule
+# (yoe_split vs yoe_threshold) — never by a blanket title purge. A 2026-06-04 run
+# wrongly title-purged 48 Senior roles before scoring; this split is the fix.
+# See references/backbone.md "Seniority gating", references/path-browser.md Step 3,
+# and the no-senior-title-purge memory.
+_SENIORITY_KILL_RE = re.compile(
+    r"\b(lead|principal|architect|distinguished|fellow)\b", re.IGNORECASE
+)
+# "Staff Engineer / Staff Software Engineer / Staff SDE" — but only when "staff" is
+# used as a LEVEL prefix, so "Member of Technical Staff" survives.
+_STAFF_LEVEL_RE = re.compile(
+    r"\bstaff\s+(?:software\s+)?(?:engineer|developer|sde|sdet|architect|scientist)\b",
+    re.IGNORECASE,
+)
+_MTS_RE = re.compile(r"member\s+of\s+technical\s+staff|technical\s+staff", re.IGNORECASE)
+
 # ── Seniority-level kills (from LinkedIn API field) ─────────────────────────
+# NB: deliberately excludes "senior"/"mid-senior" — those are scored, not killed.
 BAD_SENIORITY = {"director", "executive", "c-suite", "c-level"}
 
 # ── YoE regex: "7+ years", "10 years of experience", "12-15 years" → skip ───
@@ -81,12 +111,21 @@ def is_relevant(job: dict):
     if is_redflag_company(job.get("company") or job.get("companyName")):
         return False, "red-flag company"
 
-    # 1. Title kill
+    # 1. Title kill — pure-management / non-engineering
     for token in BAD_TITLE_TOKENS:
         if token in title:
             return False, f'title has "{token}"'
 
-    # 2. Seniority kill
+    # 1b. Seniority-by-title kill — Lead / Principal / Staff / Architect.
+    # Senior/Sr is NEVER killed here (see _SENIORITY_KILL_RE comment); MTS is safe.
+    if not _MTS_RE.search(title):
+        m = _SENIORITY_KILL_RE.search(title)
+        if m:
+            return False, f'title is {m.group(1).lower()}-level'
+        if _STAFF_LEVEL_RE.search(title):
+            return False, "title is staff-level"
+
+    # 2. Seniority kill (LinkedIn API field — director/executive only, never senior)
     for bad in BAD_SENIORITY:
         if bad in seniority:
             return False, f"seniority={seniority}"
