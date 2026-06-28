@@ -1,0 +1,14 @@
+{
+  "_help": "Starter red-flag company list. Copy to data/pipeline/redflag_companies.json and extend with your own entries. 'patterns' are case-insensitive regex substring matches against the company name; 'exact' are full-name exact matches (case-insensitive).",
+  "_note": "Any match causes the job to be dropped BEFORE JD fetch + Ollama scoring — zero wasted API calls.",
+
+  "patterns": [
+    "stealth"
+  ],
+
+  "exact": [],
+
+  "history": [
+    {"added": "2026-06-02", "value": "stealth", "type": "pattern", "why": "undisclosed/stealth employer — red flag per user"}
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "_help": "Copy this file to candidate_profile.json in the repo root and fill in your details. This file is tracked; candidate_profile.json is gitignored.",
+
+  "name": "Your Name",
+  "years_experience": 3,
+  "target_level": "SDE-II / mid-level",
+  "summary": "~3 years SWE at <Company> (<domain>, India)",
+
+  "_triage_help": "triage_stack is shown to the LLM for fast yes/no triage (Step 1). Keep it short — one line of comma-separated technologies.",
+  "triage_stack": "Java/Spring Boot, Node.js, Python, React/TS, AWS, Kafka, Redis, PostgreSQL, microservices",
+  "triage_not_in_stack": "Go/Golang, Ruby, PHP, Android/iOS/React Native/Flutter, Solidity/blockchain, .NET/C#",
+  "min_yoe_gate": 3,
+
+  "_strengths_help": "Used verbatim in the SCORE prompt. Be specific — the LLM does literal keyword lookup. Each string is one 'competency area'.",
+  "strengths": [
+    "Core backend: <your primary language(s)>",
+    "Also solid: <secondary languages and frameworks>",
+    "Data: <databases, queues, search>",
+    "Infra: <cloud/k8s/CI-CD/observability stack>",
+    "Architecture: <patterns you work with daily>",
+    "AI/LLM: <if applicable>"
+  ],
+
+  "hard_gaps": [
+    "Machine learning / model training / MLOps / data science",
+    "Business Intelligence / BI Engineer / Analytics Engineer / Data Analyst",
+    ".NET / C# / SAP / Salesforce / ServiceNow",
+    "Data engineering (Spark/Hadoop/Airflow/ETL as primary responsibility)",
+    "Firmware / embedded systems",
+    "QA / SDET / test automation as primary role",
+    "Production support / application support / L1-L2-L3 / NOC / ops shift work",
+    "Walk-in / mass-hire / day-drive roles"
+  ],
+
+  "_seniority_help": "Titles matching seniority_cap_pattern are hard-capped at seniority_cap score. tier1_bonus is added for tier1_companies (applied before cap). Senior/Sr must NOT appear in the cap pattern — they score on merit.",
+  "seniority_cap": 55,
+  "seniority_cap_pattern": "\\b(lead|principal|staff|architect|director|manager|head|chief)\\b",
+  "tier1_bonus": 8,
+
+  "_tier1_help": "Companies that receive tier1_bonus points. Add well-known product companies you want to prioritise. Regex strings — \\b for word boundary, special chars must be escaped.",
+  "tier1_companies": [
+    "microsoft", "google", "amazon", "aws\\b", "apple\\b", "meta\\b",
+    "netflix", "nvidia", "stripe", "paypal",
+    "goldman sachs", "morgan stanley", "jpmorgan", "visa\\b", "mastercard",
+    "\\bsap\\b", "\\bibm\\b", "cisco"
+  ],
+
+  "_middleman_help": "Companies that are staffing agencies / platforms. These go to the 'Via Staffing' section of the queue instead of the Direct section.",
+  "middleman_companies": [
+    "hire\\s*feed", "scoutit", "quik\\s*hire", "fetchjobs",
+    "people\\s*prime", "talentgigs", "hackajob", "crossover"
+  ],
+
+  "_role_skip_help": "Regex patterns matched against job titles. Matching roles are dropped entirely (not even agency-listed).",
+  "role_skip_patterns": [
+    "\\bintern\\b",
+    "\\binternship\\b",
+    "\\bsite\\s*reliability\\s*engin",
+    "\\bsre\\b",
+    "\\binfrastructure\\s*engin",
+    "\\bnetwork\\s*engin",
+    "\\bsecurity\\s*engin",
+    "\\bcloud\\s*security",
+    "\\bembedded\\s*engin",
+    "production\\s*support",
+    "application\\s*support",
+    "\\bl[123]\\s*support",
+    "it\\s*support\\s*engin"
+  ],
+
+  "_ollama_help": "Local Ollama setup. Run `ollama serve` and `ollama pull <model>` before the pipeline.",
+  "ollama_model": "qwen2.5-coder:14b",
+  "ollama_url": "http://localhost:11434",
+
+  "_paths_help": "All paths relative to the repo root. data/ is gitignored — these files are personal.",
+  "queue_file":           "data/pipeline/BROWSER_QUEUE.md",
+  "seen_jobs_file":       "data/pipeline/seen_jobs.json",
+  "avoid_companies_file": "data/pipeline/companies_avoid.txt"
+}
