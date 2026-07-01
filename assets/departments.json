@@ -2,12 +2,12 @@
   "software": {
     "default_on": true,
     "title_match": ["software engineer", "software developer", "backend", "back-end", "frontend", "front-end", "full stack", "full-stack", "sde", "swe", "developer", "programmer", "software development engineer"],
-    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"]}
+    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"], "amazon": ["software-development"]}
   },
   "engineering": {
     "default_on": true,
     "title_match": ["engineer", "engineering", "platform engineer", "systems engineer", "embedded", "firmware", "mobile engineer", "android engineer", "ios engineer"],
-    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"]}
+    "facets": {"linkedin": ["eng"], "adzuna": ["it-jobs"], "amazon": ["software-development"]}
   },
   "technology": {
     "default_on": true,

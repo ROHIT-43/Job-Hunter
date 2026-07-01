@@ -227,6 +227,119 @@ def src_wwr():
     return out
 
 
+def _af_data_block(html, key):
+    """Extract one AF_initDataCallback({key: '<key>', data: [...]}) array as
+    parsed JSON. Google's careers search page server-renders results into this
+    block for SEO — a plain GET returns it, no JS execution needed."""
+    for m in re.finditer(r"AF_initDataCallback\((\{.*?\})\);", html, re.S):
+        block = m.group(1)
+        if f"key: '{key}'" not in block:
+            continue
+        marker = block.find("data:")
+        if marker == -1:
+            return None
+        start = block.find("[", marker)
+        depth = 0
+        for i in range(start, len(block)):
+            if block[i] == "[":
+                depth += 1
+            elif block[i] == "]":
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(block[start:i + 1])
+                    except json.JSONDecodeError:
+                        return None
+    return None
+
+
+def src_google_careers(query='"Software Engineer"', location="India",
+                        target_level="MID", degree="BACHELORS",
+                        employment_type="FULL_TIME", max_pages=3):
+    """Google careers search — server-rendered for SEO, no auth. Filters
+    confirmed live: target_level (EARLY/MID/ADVANCED), degree, employment_type
+    all narrow the result count; invalid values are silently ignored by the
+    site rather than erroring."""
+    out = []
+    for page in range(1, max_pages + 1):
+        params = {"q": query, "location": location, "hl": "en",
+                   "sort_by": "date", "target_level": target_level,
+                   "degree": degree, "employment_type": employment_type}
+        if page > 1:
+            params["page"] = page
+        url = ("https://www.google.com/about/careers/applications/jobs/results?"
+               + urllib.parse.urlencode(params))
+        html = _get(url, headers={"Accept": "text/html"})
+        if not html:
+            break
+        ds1 = _af_data_block(html, "ds:1")
+        # Zero-result pages render `data:[null, null, 0, 20]` — no jobs array.
+        if not ds1 or not ds1[0]:
+            break
+        jobs, total, page_size = ds1[0], ds1[2], ds1[3]
+        for j in jobs:
+            resp = j[3][1] if len(j) > 3 and j[3] and j[3][1] else ""
+            quals = j[4][1] if len(j) > 4 and j[4] and j[4][1] else ""
+            locs = j[9] if len(j) > 9 and j[9] else []
+            posted = _epoch(j[12][0]) if len(j) > 12 and j[12] else None
+            out.append(_norm(
+                "google", j[0], j[1], j[7] if len(j) > 7 else "Google",
+                "; ".join(l[0] for l in locs), j[2],
+                description=resp + " " + quals, posted=posted,
+            ))
+        if page * page_size >= total:
+            break
+    return out
+
+
+def src_amazon_jobs(categories, country="IND", job_type="Full-Time",
+                     max_pages=3, result_limit=20):
+    """Amazon jobs — clean public JSON API, no auth. `country=IND` (bare, NOT
+    `country[]=IND`) is what actually filters by country; the bracket form is
+    silently ignored by the API and falls back to a global search."""
+    out = []
+    for page in range(max_pages):
+        offset = page * result_limit
+        params = [("country", country), ("job_type[]", job_type),
+                   ("sort", "recent"), ("offset", offset),
+                   ("result_limit", result_limit)]
+        for cat in categories:
+            params.append(("category[]", cat))
+        url = ("https://www.amazon.jobs/en/search.json?"
+               + urllib.parse.urlencode(params))
+        data = _get_json(url)
+        jobs = (data or {}).get("jobs", [])
+        if not jobs:
+            break
+        for j in jobs:
+            # normalized_location ends in a 3-letter code ("...IND"); the
+            # --location substring match expects the country's full name.
+            loc = re.sub(r", IND$", ", India", j.get("normalized_location") or "")
+            out.append(_norm(
+                "amazon", j.get("id_icims"), j.get("title"),
+                j.get("company_name"), loc,
+                "https://www.amazon.jobs" + (j.get("job_path") or ""),
+                description=(j.get("description") or "") + " "
+                            + (j.get("basic_qualifications") or ""),
+                posted=_parse_amazon_date(j.get("posted_date")),
+            ))
+        if offset + result_limit >= (data or {}).get("hits", 0):
+            break
+    return out
+
+
+def _parse_amazon_date(s):
+    """Amazon renders posted_date as 'July  2, 2026' (double space, no
+    leading zero) — datetime's %d needs exactly that quirk normalized."""
+    if not s:
+        return None
+    try:
+        dt = datetime.strptime(" ".join(str(s).split()), "%B %d, %Y")
+        return dt.replace(tzinfo=timezone.utc).isoformat()
+    except ValueError:
+        return None
+
+
 def src_adzuna(country, app_id, app_key, categories):
     """Adzuna — the cleanest programmatic source for the INDIA market. Filters
     by category facet (e.g. it-jobs) rather than a keyword query.
@@ -371,16 +484,23 @@ def main():
     ap.add_argument("--since-days", type=int, default=0,
                     help="drop postings older than N days (0 = no filter)")
     ap.add_argument("--sources", default="all",
-                    help="comma list from: " + ",".join(ALL_SOURCES) + ",adzuna")
+                    help="comma list from: " + ",".join(ALL_SOURCES)
+                         + ",adzuna,google,amazon")
     ap.add_argument("--adzuna-country", default="in",
                     help="adzuna country code (in, us, gb, de, ...)")
     ap.add_argument("--adzuna-id", default="")
     ap.add_argument("--adzuna-key", default="")
+    ap.add_argument("--google-query", default='"Software Engineer"')
+    ap.add_argument("--google-location", default="India")
+    ap.add_argument("--google-target-level", default="MID",
+                    help="EARLY, MID, or ADVANCED")
+    ap.add_argument("--amazon-country", default="IND")
     ap.add_argument("--out", default="jobs.json")
     args = ap.parse_args()
 
     depts = [d.strip() for d in args.departments.split(",") if d.strip()]
-    want = (list(ALL_SOURCES) + ["adzuna"] if args.sources == "all"
+    want = (list(ALL_SOURCES) + ["adzuna", "google", "amazon"]
+            if args.sources == "all"
             else [s.strip() for s in args.sources.split(",") if s.strip()])
 
     jobs = []
@@ -391,6 +511,13 @@ def main():
                 cats = department.facet_codes(depts, "adzuna")
                 jobs += src_adzuna(args.adzuna_country, args.adzuna_id,
                                    args.adzuna_key, cats)
+            elif name == "google":
+                jobs += src_google_careers(
+                    args.google_query, args.google_location,
+                    args.google_target_level)
+            elif name == "amazon":
+                cats = department.facet_codes(depts, "amazon")
+                jobs += src_amazon_jobs(cats, args.amazon_country)
             elif name in ALL_SOURCES:
                 jobs += ALL_SOURCES[name]()
             else:
