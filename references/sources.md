@@ -16,9 +16,27 @@ Never build a stealth scraper that evades a site's bot protections.
 | Jobicy | Global remote | Public JSON | no | Filter by tag |
 | The Muse | Global (incl. India offices) | Public API | optional | Company + category data |
 | We Work Remotely | Global remote | RSS | no | Programming feed |
+| Google careers | Global (India via `location=`) | Public JSON (SSR blob) | no | `src_google_careers` — parses the `AF_initDataCallback` block the search page server-renders for SEO. Confirmed filters: `q` (quote for exact phrase), `location`, `target_level` (EARLY/MID/ADVANCED), `degree`, `employment_type`, `sort_by=date`. No login, no JS execution. |
+| Amazon jobs | Global (India via `country=IND`) | Public JSON API | no | `src_amazon_jobs` — `amazon.jobs/en/search.json`. Department-native `category[]=software-development` facet (wired into `assets/departments.json`) beats free-text query. **`country=IND` bare works; `country[]=IND` is silently ignored** and falls back to a global search — confirmed by live testing. `sort=recent` is the real recency param (`sort_by=recency`/`sort=recency` are no-ops). Still returns some non-IC noise (e.g. "Software Development Manager") since the category facet is broader than pure engineering titles. |
 
 To add a source: write an adapter in `fetch_jobs.py` returning records via the
-`_norm(...)` helper, then register it in `ALL_SOURCES`.
+`_norm(...)` helper, then register it in `ALL_SOURCES` (or as a `--sources`
+special case if it needs explicit args, like `adzuna`/`google`/`amazon`).
+
+**Microsoft careers** is deliberately left out of Tier 1: its site
+(`apply.careers.microsoft.com`, Eightfold-powered) is a client-rendered SPA
+with no SSR job data, so `fetch_jobs.py` can't reach it without a browser
+session. It goes through the **browser path** instead
+(`scripts/browser/scrape_microsoft_careers.js`, see `references/path-keyless.md`
+Step 1b) — **verified live via Claude-in-Chrome (2026-07-04)**: the real
+endpoints are `/api/pcsx/search` + `/api/pcsx/position_details` (found via
+`performance.getEntriesByType('resource')` in a live tab; the earlier
+`/api/apply/v2/jobs` guess was a dead path that 403s regardless of session).
+Both work with plain same-origin `fetch(credentials:'include')` — no anti-bot
+token juggling needed. One script run does search + full JD fan-out in one
+pass: 15/15 jobs, complete JD text, zero errors in the live test. Also
+carries `roletype` (Individual Contributor vs manager track) — cleaner than
+Amazon's category-facet noise for dropping management titles.
 
 ## Tier 2 — ToS forbids scraping (use `search_urls.py` or Apify)
 
@@ -52,6 +70,8 @@ Shine/foundit Gulf, plus visa-sponsor lists for EU/UK/Canada.
 
 Use `web_search` / `web_fetch` for:
 - Specific company career pages ("Jane Street careers Haskell", "Juspay careers")
+  — Google and Amazon now have dedicated Tier 1 adapters (see above); this
+  tier is for everyone else, plus Microsoft until its browser path exists.
 - Curated visa-sponsorship lists (e.g. companies that sponsor in the EU/UK/Canada;
   the `nemecek-filip/Awesome-Companies-Sponsoring-Visa` style GitHub lists)
 - Niche functional-programming boards (functional.works-hub, haskellers, etc.)
