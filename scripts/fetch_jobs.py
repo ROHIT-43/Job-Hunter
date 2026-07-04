@@ -282,9 +282,15 @@ def src_google_careers(query='"Software Engineer"', location="India",
             quals = j[4][1] if len(j) > 4 and j[4] and j[4][1] else ""
             locs = j[9] if len(j) > 9 and j[9] else []
             posted = _epoch(j[12][0]) if len(j) > 12 and j[12] else None
+            job_id, title = j[0], j[1]
+            slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+            job_url = (
+                f"https://www.google.com/about/careers/applications/jobs/results"
+                f"/{job_id}-{slug}"
+            )
             out.append(_norm(
-                "google", j[0], j[1], j[7] if len(j) > 7 else "Google",
-                "; ".join(l[0] for l in locs), j[2],
+                "google", job_id, title, j[7] if len(j) > 7 else "Google",
+                "; ".join(l[0] for l in locs), job_url,
                 description=resp + " " + quals, posted=posted,
             ))
         if page * page_size >= total:
