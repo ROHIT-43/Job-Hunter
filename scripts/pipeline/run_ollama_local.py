@@ -6,7 +6,7 @@ Two-step Ollama scorer — profile-driven, no hardcoded candidate data.
 
 Default run-dir is the current working directory.
 
-Single-step SCORE (full JD up to 8000 chars):
+Single-step SCORE (full JD, no character cap):
   Holistic 0-100 scoring with built-in hard-gap and YoE checks.
   No triage pre-filter — avoids false positives from boilerplate-heavy JD intros.
 
@@ -234,7 +234,7 @@ def _full_score(cfg, score_prompt, title, jd, company="", staff_count=None):
         f"JOB TITLE (use for TITLE CAP rules): {title}\n"
         f"COMPANY: {company}\n"
         f"STAFF_COUNT: {staff_count or 'unknown'}{mnc_note}\n\n"
-        f"JD:\n{jd[:8000]}"
+        f"JD:\n{jd}"
     )
     parsed = _ollama_call(cfg["url"], cfg["model"], score_prompt, user_msg)
     out_title      = parsed.get("title", title)
@@ -242,7 +242,7 @@ def _full_score(cfg, score_prompt, title, jd, company="", staff_count=None):
 
     # Regex fallback: if LLM missed min_yoe, extract from full JD text
     if parsed.get("min_yoe") is None:
-        parsed["min_yoe"] = _regex_min_yoe(jd[:8000])
+        parsed["min_yoe"] = _regex_min_yoe(jd)
 
     # Post-gate: LLM or regex found min_yoe > gate — discard even if LLM didn't fire Step 0
     gate = cfg["min_yoe"]
