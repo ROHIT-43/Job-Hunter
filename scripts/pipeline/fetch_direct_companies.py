@@ -292,6 +292,13 @@ def main():
     if args.since_days:
         all_jobs = _since_filter(all_jobs, args.since_days)
 
+    # JD enrichment — replace search snippets with full descriptions
+    here = os.path.dirname(os.path.abspath(__file__))
+    if here not in sys.path:
+        sys.path.insert(0, here)
+    from fetch_direct_jds import enrich_jds
+    all_jobs = enrich_jds(all_jobs)
+
     all_jobs_by_id = {j["id"]: j for j in all_jobs}
 
     # ── save to_score.json (audit + seen_jobs tracking) ──────────────────────
