@@ -42,3 +42,5 @@ venv/
 .idea/
 .vscode/
 *.swp
+
+candidate_profile.json
