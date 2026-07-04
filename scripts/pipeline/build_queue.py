@@ -51,10 +51,21 @@ def _infer_window(run_dir_name):
     return "Nh"
 
 
-def _rel_time(ts_ms):
-    if not ts_ms:
+def _rel_time(ts):
+    if not ts:
         return None
-    diff_h = (time.time() - ts_ms / 1000) / 3600
+    try:
+        # LinkedIn: epoch milliseconds (int or numeric string)
+        ts_sec = int(ts) / 1000
+    except (ValueError, TypeError):
+        # Google/Amazon/Microsoft: ISO-8601 string
+        import datetime as _dt
+        try:
+            dt = _dt.datetime.fromisoformat(str(ts).replace("Z", "+00:00"))
+            ts_sec = dt.timestamp()
+        except (ValueError, TypeError):
+            return None
+    diff_h = (time.time() - ts_sec) / 3600
     if diff_h < 1:
         return f"{int(diff_h*60)}m ago"
     if diff_h < 24:
