@@ -53,9 +53,12 @@ def _parse_args():
     p.add_argument("--run-dir", default=None)
     p.add_argument("--sources", default="google,amazon",
                    help="comma list of registered sources (default: google,amazon). "
-                        "See SOURCES dict at bottom of file for available names.")
+                        "Available: google, amazon, microsoft, greenhouse. "
+                        "Add --gh-jobs for greenhouse, --ms-jobs for microsoft.")
     p.add_argument("--ms-jobs", default=None,
                    help="path to ms_jobs.json from scrape_microsoft_careers.js")
+    p.add_argument("--gh-jobs", default=None,
+                   help="path to greenhouse_jobs.json from scrape_greenhouse_browser.js")
     p.add_argument("--google-query", default='"Software Engineer"')
     p.add_argument("--google-location", default="India")
     p.add_argument("--amazon-country", default="IND")
@@ -97,6 +100,41 @@ def _fetch_amazon(country, categories, max_pages):
     jobs = fj.src_amazon_jobs(categories=cats, country=country, max_pages=max_pages)
     print(f"  amazon: fetched {len(jobs)} jobs", file=sys.stderr)
     return jobs
+
+def _fetch_greenhouse(gh_jobs_path):
+    """Load greenhouse_jobs.json downloaded from scrape_greenhouse_browser.js.
+
+    Full JD text is NOT present here — it's fetched later by fetch_direct_jds
+    via the public boards-api.greenhouse.io endpoint (no auth needed).
+    """
+    if not gh_jobs_path or not os.path.exists(gh_jobs_path):
+        print(f"  greenhouse: skipped (no gh_jobs.json provided)", file=sys.stderr)
+        return []
+    with open(gh_jobs_path) as f:
+        raw = json.load(f)
+    jobs = []
+    for j in raw:
+        token = (j.get("company_token") or "").strip()
+        jid   = str(j.get("job_id") or "").strip()
+        if not token or not jid:
+            continue
+        jobs.append({
+            "id":          f"greenhouse:{token}:{jid}",
+            "source":      "greenhouse",
+            "title":       (j.get("title") or "").strip(),
+            "company":     (j.get("company") or "").strip(),
+            "location":    (j.get("location") or "").strip(),
+            "description": "",   # filled by fetch_direct_jds.fetch_greenhouse_jd
+            "url":         j.get("url") or f"https://my.greenhouse.io/{token}/jobs/{jid}",
+            "posted":      None,
+            "remote":      None,
+            "visa_sponsorship": None,
+            "tags":        [],
+            "salary":      None,
+        })
+    print(f"  greenhouse: loaded {len(jobs)} jobs from {gh_jobs_path}", file=sys.stderr)
+    return jobs
+
 
 def _fetch_microsoft(ms_jobs_path):
     """Load ms_jobs.json downloaded from scrape_microsoft_careers.js."""
@@ -168,10 +206,11 @@ def _since_filter(jobs, since_days):
 
 def _build_dispatch(args, max_pages):
     return {
-        "google":    lambda: _fetch_google(args.google_query, args.google_location, max_pages),
-        "amazon":    lambda: _fetch_amazon(args.amazon_country, args.amazon_categories, max_pages),
-        "microsoft": lambda: _fetch_microsoft(args.ms_jobs),
-        # "stripe":  lambda: _fetch_stripe(args, max_pages),  # example
+        "google":     lambda: _fetch_google(args.google_query, args.google_location, max_pages),
+        "amazon":     lambda: _fetch_amazon(args.amazon_country, args.amazon_categories, max_pages),
+        "microsoft":  lambda: _fetch_microsoft(args.ms_jobs),
+        "greenhouse": lambda: _fetch_greenhouse(args.gh_jobs),
+        # "stripe":   lambda: _fetch_stripe(args, max_pages),  # example
     }
 
 

@@ -106,13 +106,49 @@ def fetch_amazon_jd(job):
     return job
 
 
+def fetch_greenhouse_jd(job):
+    """Fetch full JD from boards-api.greenhouse.io (public, no auth needed).
+
+    Job ID format: "greenhouse:{company_token}:{job_id}"
+    API: https://boards-api.greenhouse.io/v1/boards/{token}/jobs/{id}
+    """
+    import json as _json
+    parts = job["id"].split(":")
+    if len(parts) < 3:
+        return job
+    token, jid = parts[1], parts[2]
+    url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs/{jid}"
+    data = _http_get(url)
+    if not data:
+        return job
+    try:
+        d = _json.loads(data)
+        content  = _strip_html(d.get("content", ""))
+        title    = d.get("title", "")
+        location = (d.get("location") or {}).get("name", "")
+        updated  = d.get("updated_at", "")
+        if len(content) > len(job.get("description") or ""):
+            job = dict(job)
+            job["description"] = content
+        if not job.get("title") and title:
+            job = dict(job); job["title"] = title
+        if not job.get("location") and location:
+            job = dict(job); job["location"] = location
+        if not job.get("posted") and updated:
+            job = dict(job); job["posted"] = updated
+    except Exception:
+        pass
+    return job
+
+
 # ── registry ──────────────────────────────────────────────────────────────────
 # Maps source name → JD fetch function.
 # Sources not listed here are skipped (assumed to already carry full JDs).
 
 JD_FETCHERS = {
-    "google": fetch_google_jd,
-    "amazon": fetch_amazon_jd,
+    "google":     fetch_google_jd,
+    "amazon":     fetch_amazon_jd,
+    "greenhouse": fetch_greenhouse_jd,
     # "stripe": fetch_stripe_jd,   # example — add new sources here
 }
 

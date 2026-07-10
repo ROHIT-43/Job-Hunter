@@ -321,7 +321,22 @@ def main():
             company     = rec.get("company", "")
 
             try:
-                s   = _full_score(cfg, score_prompt, title, jd_text, company, staff_count)
+                # Regex pre-gate: skip Ollama entirely if YoE is clearly too high
+                regex_yoe = _regex_min_yoe(jd_text)
+                gate      = cfg["min_yoe"]
+                if regex_yoe and regex_yoe > gate:
+                    s = {
+                        "title":          title,
+                        "score":          0,
+                        "min_yoe":        regex_yoe,
+                        "matched_skills": [],
+                        "gap_skills":     [],
+                        "discard_reason": f"yoe_gt{gate}",
+                        "reasoning":      f"Discarded: JD requires {regex_yoe}+ YoE (regex), candidate has ~{gate} YoE.",
+                        "tier1":          False,
+                    }
+                else:
+                    s = _full_score(cfg, score_prompt, title, jd_text, company, staff_count)
                 row = {"id": jid, "company": company, "staffCount": staff_count, **s}
                 if row.get("discard_reason"):
                     triaged_discard += 1

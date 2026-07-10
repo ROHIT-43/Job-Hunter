@@ -9,9 +9,10 @@
 // Error:    window.__SCRAPE_ERR
 //
 // ── Configure here ───────────────────────────────────────────────────────────
-const WINDOW_SECONDS = 9060;   // time window: 3600=1h, 7200=2h, 86400=24h
+const WINDOW_SECONDS = 43200;  // time window: 3600=1h, 7200=2h, 86400=24h
 const KEYWORDS = [
   "sde", "software engineer", "sde2", "swe", "mts",
+  "member of technical staff",
   "backend engineer", "full stack developer", "software developer",
   "devops engineer", "cloud engineer",
 ];
