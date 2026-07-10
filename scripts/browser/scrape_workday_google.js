@@ -20,7 +20,7 @@ const WD_QUERIES = [
   '"sde" "India"',
 ];
 const WD_DATE_FILTER = 'qdr:d';   // past day — change to qdr:w for past week
-const WD_MAX_PAGES   = 5;         // up to 5 pages × 10 results = 50 per query
+const WD_MAX_PAGES   = 5;         // safety cap; each page = 10 results → 50 max per query
 const WD_DELAY_MS    = 1500;      // ms between requests (be polite to Google)
 // ─────────────────────────────────────────────────────────────────────────────
 
@@ -93,7 +93,8 @@ function _parseWdUrl(url, keyword) {
     for (let page = 0; page < WD_MAX_PAGES; page++) {
       const start = page * 10;
       const q = encodeURIComponent(`site:myworkdayjobs.com ${query}`);
-      const searchUrl = `https://www.google.com/search?q=${q}&tbs=${WD_DATE_FILTER}&start=${start}&hl=en&num=10`;
+      // num=10 is what Google actually serves for site: queries even if you ask for more
+      const searchUrl = `https://www.google.com/search?q=${q}&tbs=${WD_DATE_FILTER}&start=${start}&hl=en`;
       window.__WD_PROGRESS = {query, page: page + 1, total: Object.keys(window.__WD_JOBS).length};
 
       try {
@@ -110,16 +111,19 @@ function _parseWdUrl(url, keyword) {
         }
         const html = await r.text();
 
-        // Check if Google returned a CAPTCHA or no-results page
+        // Check if Google returned a CAPTCHA
         if (html.includes('g-recaptcha') || html.includes('recaptcha')) {
           window.__WD_ERR = 'CAPTCHA detected — try again later or reduce speed';
           console.warn('[WD] CAPTCHA hit — stopping');
           window.__WD_DONE = true;
           return;
         }
-        const noResults = html.includes('did not match any documents')
+
+        // Google signals "no more results" in several ways
+        const googleNoMore = html.includes('did not match any documents')
           || html.includes('No results found for')
-          || html.includes('no results');
+          || html.includes('"pedestrian":true')  // internal no-results flag
+          || (page > 0 && html.includes('id="botstuff"') && !html.includes(`start=${start + 10}`));
 
         const links = _extractWdLinks(html);
         let added = 0;
@@ -133,9 +137,20 @@ function _parseWdUrl(url, keyword) {
             }
           }
         }
-        console.log(`[WD]   page ${page + 1}: ${links.length} links extracted, +${added} new (total: ${Object.keys(window.__WD_JOBS).length})`);
+        // Check whether Google rendered a "Next" page link (start=N+10 appears in HTML)
+        const hasNext = html.includes(`start=${start + 10}`);
+        console.log(`[WD]   page ${page + 1}: ${links.length} WD URLs found, +${added} new (total: ${Object.keys(window.__WD_JOBS).length}, hasNext=${hasNext})`);
 
-        if (noResults || links.length === 0) break;
+        // Stop on Google's own signals
+        if (googleNoMore) {
+          console.log(`[WD]   Google says no more results — stopping at page ${page + 1}`);
+          break;
+        }
+        // No "Next" link → this is the last page; no point fetching start+10
+        if (!hasNext) {
+          console.log(`[WD]   No next-page link — last page reached at page ${page + 1}`);
+          break;
+        }
         await new Promise(res => setTimeout(res, WD_DELAY_MS));
       } catch (e) {
         console.warn(`[WD]   page ${page + 1} error:`, e);
