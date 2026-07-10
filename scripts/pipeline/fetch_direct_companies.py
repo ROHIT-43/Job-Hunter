@@ -53,12 +53,15 @@ def _parse_args():
     p.add_argument("--run-dir", default=None)
     p.add_argument("--sources", default="google,amazon",
                    help="comma list of registered sources (default: google,amazon). "
-                        "Available: google, amazon, microsoft, greenhouse. "
-                        "Add --gh-jobs for greenhouse, --ms-jobs for microsoft.")
+                        "Available: google, amazon, microsoft, greenhouse, workday. "
+                        "Add --gh-jobs for greenhouse, --ms-jobs for microsoft, "
+                        "--wd-jobs for workday.")
     p.add_argument("--ms-jobs", default=None,
                    help="path to ms_jobs.json from scrape_microsoft_careers.js")
     p.add_argument("--gh-jobs", default=None,
                    help="path to greenhouse_jobs.json from scrape_greenhouse_browser.js")
+    p.add_argument("--wd-jobs", default=None,
+                   help="path to workday_jobs.json from scrape_workday_google.js")
     p.add_argument("--google-query", default='"Software Engineer"')
     p.add_argument("--google-location", default="India")
     p.add_argument("--amazon-country", default="IND")
@@ -200,6 +203,52 @@ def _since_filter(jobs, since_days):
     return kept
 
 
+def _fetch_workday(wd_jobs_path):
+    """Load workday_jobs.json downloaded from scrape_workday_google.js.
+
+    Full JD text is NOT present here — it's fetched later by fetch_direct_jds
+    via the JSON-LD schema embedded in each Workday job HTML page (no auth needed).
+    """
+    if not wd_jobs_path or not os.path.exists(wd_jobs_path):
+        print(f"  workday: skipped (no wd_jobs.json provided)", file=sys.stderr)
+        return []
+    with open(wd_jobs_path) as f:
+        raw = json.load(f)
+    jobs = []
+    for j in raw:
+        url = (j.get("url") or "").strip()
+        if not url or "myworkdayjobs.com" not in url:
+            continue
+        # Parse URL: https://tenant.wd{N}.myworkdayjobs.com/[lang/]career_site/job/loc/Title_ID
+        m = re.match(
+            r'https?://([^.]+)\.(wd\d+)\.myworkdayjobs\.com'
+            r'/(?:[a-z]{2}-[A-Z]{2}/)?'  # optional lang like en-US/
+            r'([^/]+)'                    # career_site
+            r'/job/[^/]+/'                # /job/{location}/
+            r'[^?#]*_([^?#/_]+)',         # Title_{job_id}
+            url
+        )
+        if not m:
+            continue
+        tenant, wd, career_site, job_id = m.groups()
+        jobs.append({
+            "id":          f"workday:{tenant}:{wd}:{career_site}:{job_id}",
+            "source":      "workday",
+            "title":       (j.get("title") or "").strip(),
+            "company":     (j.get("company") or "").strip(),
+            "location":    (j.get("location") or "").strip(),
+            "description": "",   # filled by fetch_direct_jds.fetch_workday_jd
+            "url":         url,
+            "posted":      None,
+            "remote":      None,
+            "visa_sponsorship": None,
+            "tags":        [],
+            "salary":      None,
+        })
+    print(f"  workday: loaded {len(jobs)} jobs from {wd_jobs_path}", file=sys.stderr)
+    return jobs
+
+
 # ── source registry ──────────────────────────────────────────────────────────
 # Maps source name → fetch lambda(args, max_pages) → list[dict].
 # Add new sources here after writing _fetch_<name> above.
@@ -210,6 +259,7 @@ def _build_dispatch(args, max_pages):
         "amazon":     lambda: _fetch_amazon(args.amazon_country, args.amazon_categories, max_pages),
         "microsoft":  lambda: _fetch_microsoft(args.ms_jobs),
         "greenhouse": lambda: _fetch_greenhouse(args.gh_jobs),
+        "workday":    lambda: _fetch_workday(args.wd_jobs),
         # "stripe":   lambda: _fetch_stripe(args, max_pages),  # example
     }
 

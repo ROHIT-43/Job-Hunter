@@ -106,6 +106,51 @@ def fetch_amazon_jd(job):
     return job
 
 
+def fetch_workday_jd(job):
+    """Fetch full JD from a Workday job HTML page via embedded JSON-LD schema.
+
+    All Workday job pages include a <script type="application/ld+json"> block
+    with @type=JobPosting that contains the full description — no auth needed.
+    """
+    import json as _json, re as _re
+    url = job.get("url", "")
+    if not url or "myworkdayjobs.com" not in url:
+        return job
+    html = _http_get(url)
+    if not html:
+        return job
+    for block in _re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        html, _re.S
+    ):
+        try:
+            d = _json.loads(block.strip())
+            if d.get("@type") != "JobPosting":
+                continue
+            desc     = _strip_html(d.get("description", ""))
+            title    = d.get("title", "")
+            company  = (d.get("hiringOrganization") or {}).get("name", "")
+            date_p   = d.get("datePosted", "")
+            loc_raw  = d.get("jobLocation") or {}
+            if isinstance(loc_raw, list):
+                loc_raw = loc_raw[0]
+            location = (loc_raw.get("address") or {}).get("addressLocality", "")
+            if len(desc) > len(job.get("description") or ""):
+                job = dict(job); job["description"] = desc
+            if not job.get("title") and title:
+                job = dict(job); job["title"] = title
+            if not job.get("company") and company:
+                job = dict(job); job["company"] = company
+            if not job.get("location") and location:
+                job = dict(job); job["location"] = location
+            if not job.get("posted") and date_p:
+                job = dict(job); job["posted"] = date_p
+            break
+        except Exception:
+            continue
+    return job
+
+
 def fetch_greenhouse_jd(job):
     """Fetch full JD from boards-api.greenhouse.io (public, no auth needed).
 
@@ -149,6 +194,7 @@ JD_FETCHERS = {
     "google":     fetch_google_jd,
     "amazon":     fetch_amazon_jd,
     "greenhouse": fetch_greenhouse_jd,
+    "workday":    fetch_workday_jd,
     # "stripe": fetch_stripe_jd,   # example — add new sources here
 }
 
