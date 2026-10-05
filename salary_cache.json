@@ -1,0 +1,22 @@
+{
+ "entries": {
+  "797th-llc|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2026-12-05T02:38:45.049154+00:00",
+   "looked_up": "2026-10-05T18:41:24+00:00",
+   "max_lpa": 1.2,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  }
+ },
+ "meta": {
+  "day": "2026-10-05",
+  "requests": 11
+ }
+}
