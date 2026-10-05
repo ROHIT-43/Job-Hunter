@@ -1,5 +1,5 @@
 {
-  "_help": "Candidate profile consumed by scripts/ats_scorer.py. Copy this to data/profile.json and edit. HAVE skills = the union of top-level skills[] + every experience[].skills[] + every project[].skills[]. GAP skills = skills you know you lack (explicit). Any JD keyword that is neither HAVE nor GAP is treated as a gap. All skill names are matched case-insensitively.",
+  "_help": "Candidate profile consumed by scripts/score_jobs.py. Copy this to data/profile.json and edit. HAVE skills = the union of top-level skills[] + every experience[].skills[] + every project[].skills[]. GAP skills = skills you know you lack (explicit). Any JD keyword that is neither HAVE nor GAP is treated as a gap. All skill names are matched case-insensitively.",
 
   "name": "Your Name",
   "title": "Backend Engineer",

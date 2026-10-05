@@ -30,6 +30,23 @@ job_key = dedup.job_id(job)          # "li:<id>" from the URL, else "title::comp
 Keep only candidates whose key is **not** in the store (any status), so a posting
 never resurfaces across runs even if its URL params change.
 
+## Step 1.5 — Location filter
+
+If `cfg["target_locations"]` is non-empty, drop any job whose `location` field
+does not contain at least one of the target location strings (case-insensitive).
+"Remote" in the target list also matches jobs whose location or title contains
+"remote". This filter runs **before** fetching JDs (cheap, saves API calls).
+
+```python
+target_locs = [loc.lower() for loc in cfg.get("target_locations", [])]
+if target_locs:
+    candidates = [c for c in candidates
+                  if any(loc in (c.get("location","") + " " + c.get("title","")).lower()
+                         for loc in target_locs)]
+```
+
+If `target_locations` is empty or absent, no location filtering is applied.
+
 ## Step 2 — Drop red-flag companies
 
 ```python
@@ -79,13 +96,15 @@ handles word-numbers ("six years") and self-contradicting JDs (header-wins, e.g.
 "Desired 5+ years" beats a "3-5 years" in the body). `split_matches` honors a
 preset `min_yoe` and falls back to a digit parser otherwise.
 
-**Hard YoE gate (cost-critical):** a role whose stated minimum exceeds
-`yoe_threshold` (the candidate's years) is **excluded entirely** — it is NOT
+**Hard YoE gate (cost-critical):** The eligible range is `0` to
+`yoe_threshold + 1` (inclusive). For example, if `yoe_threshold` is 1, jobs
+requiring 0–2 years are eligible; jobs requiring 3+ are excluded. Formally: a
+role whose `min_yoe > yoe_threshold + 1` is **excluded entirely** — it is NOT
 queued and **NOT tailored**. Its only footprint is its ID in `seen_jobs.json`
-(dedup). Everything else (`min <= threshold` or no explicit minimum / bare
-"Senior") is eligible. Never spend tailoring tokens on a `stretch` role — doing so
-is a wasted-cost mistake. This is a gate, not a re-score: the ATS score is
-unchanged.
+(dedup). Everything else (`min_yoe <= yoe_threshold + 1` or no explicit minimum /
+bare "Senior") is eligible. Never spend tailoring tokens on a `stretch` role —
+doing so is a wasted-cost mistake. This is a gate, not a re-score: the ATS score
+is unchanged.
 
 ## Seniority gating — TWO layers, and only two (read before touching any filter)
 
@@ -106,10 +125,11 @@ collapse them into a blanket "drop senior-sounding titles" rule.
    title (`hunt_config.target_titles`) — the "Staff" kill must not touch it.
 
 2. **YoE layer (post-fetch, accurate) — the only seniority gate that reads years.**
-   Step 4 below. A role whose JD-stated minimum exceeds `yoe_threshold` (3) is
-   excluded — this is what actually removes the Senior roles that genuinely want
-   4-5+ yrs, *after* reading the JD, without blindly discarding the ones that
-   don't. Strict `>3` is the standing cutoff (confirmed 2026-06-04).
+   Step 4 below. A role whose JD-stated `min_yoe` exceeds `yoe_threshold + 1` is
+   excluded — e.g. if `yoe_threshold` is 1, roles requiring 3+ yrs are excluded,
+   roles requiring 0–2 yrs are eligible. This removes the Senior roles that
+   genuinely want too many years, *after* reading the JD, without blindly
+   discarding the ones that don't.
 
 History: a 2026-06-04 run added a bogus `Senior|Sr` clause to the title layer and
 purged 48 Senior roles before scoring. That conflated the two layers. The split
@@ -130,14 +150,3 @@ md = render_queue(run_label, primary, stretch, scored_n=len(scored),
 
   Browser path writes `data/pipeline/BROWSER_QUEUE.md`; Apify/keyless write
   `data/pipeline/APPLY_QUEUE.md`.
-
-## Applied loop (inverse step)
-
-After the user ticks `- [x] Applied` under any queue entry:
-
-```bash
-python3 scripts/pipeline/mark_applied.py
-```
-
-It promotes those job IDs to `status:"applied"` in `seen_jobs.json` (matched by
-LinkedIn job ID) and strikes them from the queue, so dedup filters them forever.

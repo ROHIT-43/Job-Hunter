@@ -172,12 +172,9 @@ IDs in `seen_jobs.json` for dedup only → record all scored IDs in
 ## Step 4 — Present
 
 - Summarise the eligible match count (and how many >YoE roles were excluded) and the top handful by score.
-- Offer the resume-builder handoff: "Want me to tailor your 1-page resume to any of
-  these?" — if yes, invoke `resume-builder` with the chosen JD (matches
+- Offer the tailoring handoff: "Want me to tailor your 1-page resume to any of
+  these?" — if yes, run the `tailor` skill with the chosen JD (matches
   `>= cfg["score_threshold"]`).
-- After the user ticks `- [x] Applied` in the queue, run
-  `python3 scripts/pipeline/mark_applied.py` to record those as applied (dedup
-  filters them out forever).
 
 ## Step 5 — Profile Hunter (optional, outreach)
 

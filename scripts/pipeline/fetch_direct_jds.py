@@ -24,14 +24,16 @@ Sources that do NOT need enrichment (already have full JDs from their fetch):
   linkedin  — voyager jobPostings API returns full JD text (browser path)
 """
 
-import re, sys, urllib.request, concurrent.futures, os
+import html, re, sys, urllib.request, concurrent.futures, os
 
 
 # ── helpers ───────────────────────────────────────────────────────────────────
 
-def _strip_html(html):
-    text = re.sub(r"<[^>]+>", " ", html or "")
-    return re.sub(r"\s+", " ", text).strip()
+def _strip_html(markup):
+    # Unescape first: Greenhouse returns its JD HTML entity-encoded (&lt;p&gt;),
+    # so tags only become strippable after one unescape pass.
+    text = re.sub(r"<[^>]+>", " ", html.unescape(markup or ""))
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
 
 
 def _http_get(url, timeout=12):

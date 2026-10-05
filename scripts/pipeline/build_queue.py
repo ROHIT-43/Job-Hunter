@@ -6,8 +6,12 @@ Queue builder — gate, group, and write BROWSER_QUEUE.md. Updates seen_jobs.
 
 Default run-dir is the current working directory.
 
-Gate: score >= 70  AND  min_yoe <= gate  AND  company not in avoid list
-      AND  title not in role_skip patterns
+Gate: score >= score_threshold  AND  min_yoe <= gate  AND  company not in
+      avoid list  AND  title not in role_skip patterns
+
+score_threshold comes from data/pipeline/hunt_config.json (default 70).
+Set it to 0 to queue every scored role and let the YoE gate be the only
+score-independent exclusion. --min-score overrides it for a single run.
 
 Output: two sections prepended to BROWSER_QUEUE.md
   1. DIRECT COMPANY ROLES — grouped by company, sorted by best score
@@ -25,10 +29,17 @@ import sys
 import time
 from collections import defaultdict
 
+try:                                  # run as a script: scripts/pipeline is on sys.path
+    from config import load_config
+except ImportError:                   # imported as pipeline.build_queue
+    from .config import load_config
+
 
 def _parse_args():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--run-dir", default=None, help="Run directory containing scores_ollama.jsonl (default: cwd)")
+    p.add_argument("--min-score", type=int, default=None,
+                   help="Score gate for this run; overrides hunt_config score_threshold (default 70)")
     return p.parse_args()
 
 
@@ -89,6 +100,9 @@ def main():
 
     profile = json.load(open(os.path.join(root, "candidate_profile.json")))
 
+    cfg       = load_config()
+    min_score = args.min_score if args.min_score is not None else cfg["score_threshold"]
+
     seen_path  = os.path.join(root, profile.get("seen_jobs_file",       "data/pipeline/seen_jobs.json"))
     queue_path = os.path.join(root, profile.get("queue_file",           "data/pipeline/BROWSER_QUEUE.md"))
     avoid_path = os.path.join(root, profile.get("avoid_companies_file", "data/pipeline/companies_avoid.txt"))
@@ -100,6 +114,11 @@ def main():
     ROLE_SKIP = (
         re.compile("|".join(profile.get("role_skip_patterns", [])), re.I)
         if profile.get("role_skip_patterns") else re.compile(r"(?!)", re.I)
+    )
+
+    TITLE_ALLOW = (
+        re.compile("|".join(profile.get("title_allow_patterns", [])), re.I)
+        if profile.get("title_allow_patterns") else None      # None = allow everything
     )
 
     min_yoe_gate = profile.get("min_yoe_gate", 3)
@@ -161,10 +180,11 @@ def main():
     # ── Gate ──────────────────────────────────────────────────────────────────
     qualified = [
         r for r in scores
-        if r["score"] >= 70
+        if r["score"] >= min_score
         and (r.get("min_yoe") is None or r["min_yoe"] <= min_yoe_gate)
         and r.get("company", "").lower() not in avoid
         and not ROLE_SKIP.search(r.get("title", ""))
+        and (TITLE_ALLOW is None or TITLE_ALLOW.search(r.get("title", "")))
     ]
     qualified.sort(key=lambda r: -r["score"])
 
@@ -193,7 +213,7 @@ def main():
     lines = [
         f"## {window} run — {ts} ({label}) — {n_cos} companies ({n_direct} roles) + {n_agency} agency\n",
         f"**Funnel:** scrape → triage+scored {len(scores)} → {len(qualified)} eligible "
-        f"(score≥70, min_yoe≤{min_yoe_gate}, role-filtered)\n",
+        f"(score≥{min_score}, min_yoe≤{min_yoe_gate}, role-filtered)\n",
     ]
 
     lines.append("\n### 🏢 Direct Company Roles\n")
@@ -259,6 +279,16 @@ def main():
     with open(queue_path, "w") as f:
         f.write(new_section + ("\n\n" if existing else "") + existing)
     print(f"Written {n_cos} company groups ({n_direct} direct + {n_agency} agency) → {queue_path}")
+
+    # ── Per-run copies, so each scrape keeps its own openings ────────────────
+    run_queue = os.path.join(run_dir, "QUEUE.md")
+    with open(run_queue, "w") as f:
+        f.write(new_section)
+    run_matches = os.path.join(run_dir, "matches.json")
+    with open(run_matches, "w") as f:
+        json.dump(qualified, f, indent=1)
+    print(f"Run copies: {run_queue}")
+    print(f"            {run_matches}  ({len(qualified)} openings)")
 
     # ── Update seen_jobs ──────────────────────────────────────────────────────
     os.makedirs(os.path.dirname(seen_path), exist_ok=True)

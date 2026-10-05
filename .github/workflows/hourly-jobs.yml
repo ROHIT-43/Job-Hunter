@@ -1,0 +1,136 @@
+# Hourly: scrape LinkedIn (guest) -> site/data/jobs.json -> deploy site/ to GitHub Pages.
+#
+# Schedule: GitHub cron can't read a variable, so to change how often the workflow
+# FIRES, edit the cron line below. live_config.json `interval_hours` additionally
+# skips scrapes that come too soon (manual "Run workflow" always scrapes).
+#
+# State between runs: the job list is the published site itself (run.py downloads
+# <site_url>/data/jobs.json); the salary cache is committed to the `data` branch
+# (never to main).
+#
+# One-time setup:
+#   Settings -> Pages -> Build and deployment -> Source: "GitHub Actions"
+#   Settings -> Secrets and variables -> Actions -> New secret CLAUDE_CODE_OAUTH_TOKEN
+#     (run `claude setup-token` locally; salary lookups + post checks use that subscription)
+#   Secrets LINKEDIN_LI_AT + LINKEDIN_JSESSIONID: cookies of a THROWAWAY LinkedIn account
+#     (logged-in post search). Refresh them when the site says posts are paused.
+
+name: hourly-jobs
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 (off the top of the hour, when GitHub queues are busiest)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Scrape even if the last run was recent"
+        type: boolean
+        default: true
+      reset:
+        description: "Clear all jobs on the site and start from scratch (salary cache is kept)"
+        type: boolean
+        default: false
+
+# Only ever trigger from schedule / manual runs — never from pull requests.
+permissions:
+  contents: read
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110  # jobs (<=50 min budget) + posts (<=45 min budget)
+    # one scrape at a time (they share the job list + salary cache); a deploy that
+    # GitHub leaves hanging can no longer block the next scrape
+    concurrency:
+      group: hourly-jobs-scrape
+      cancel-in-progress: false
+    permissions:
+      contents: write   # push the salary cache to the `data` branch
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Unit tests
+        run: python -m unittest discover -s tests
+
+      # ── Salary cache: lives on the `data` branch (one JSON file, history kept) ──
+      - name: Restore salary cache from the data branch
+        run: |
+          mkdir -p "$RUNNER_TEMP/cache"
+          if git fetch --depth=1 origin data 2>/dev/null; then
+            git show FETCH_HEAD:salary_cache.json > "$RUNNER_TEMP/cache/salary_cache.json" || true
+          else
+            echo "no data branch yet — starting with an empty salary cache"
+          fi
+
+      - name: Install Claude Code (salary lookups)
+        continue-on-error: true   # without it, jobs just show "Not disclosed" salaries
+        run: npm install -g @anthropic-ai/claude-code && claude --version
+
+      - name: Scrape LinkedIn, look up salaries, build jobs.json
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: >
+          python scripts/live/run.py --salary-cache "$RUNNER_TEMP/cache/salary_cache.json"
+          ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '--force' || '' }}
+          ${{ (github.event_name == 'workflow_dispatch' && inputs.reset) && '--reset' || '' }}
+
+      # Never blocks the jobs part: a failure here leaves posts.json as it was.
+      - name: LinkedIn hiring posts
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+          LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+        run: >
+          python scripts/live/posts.py
+          ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '--force' || '' }}
+
+      - name: Save salary cache to the data branch
+        run: |
+          f="$RUNNER_TEMP/cache/salary_cache.json"
+          [ -s "$f" ] || { echo "no cache file to save"; exit 0; }
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          d="$RUNNER_TEMP/data-branch"
+          if git fetch --depth=1 origin data 2>/dev/null; then
+            git worktree add --detach "$d" FETCH_HEAD
+          else
+            git worktree add --detach "$d"
+            git -C "$d" checkout --orphan data
+            git -C "$d" rm -rfq .
+          fi
+          cp "$f" "$d/salary_cache.json"
+          git -C "$d" add salary_cache.json
+          if git -C "$d" diff --cached --quiet; then echo "salary cache unchanged"; exit 0; fi
+          git -C "$d" commit -qm "salary cache $(date -u +%Y-%m-%dT%H:%MZ)"
+          git -C "$d" push origin HEAD:data
+
+      - name: Version the site's JS/CSS (so browsers never mix old and new files)
+        run: sed -i "s/app\.js\"/app.js?v=${GITHUB_SHA::8}\"/; s/style\.css\"/style.css?v=${GITHUB_SHA::8}\"/" site/index.html && grep -o '?v=[0-9a-f]*' site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # a newer deploy replaces an older one still waiting (GitHub has left Pages
+    # deploys stuck in "waiting" for days, which used to block every later run)
+    concurrency:
+      group: hourly-jobs-pages
+      cancel-in-progress: true
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

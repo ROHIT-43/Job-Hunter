@@ -1,5 +1,9 @@
 # job-hunter
 
+> **Live site:** an hourly GitHub Actions job scrapes LinkedIn's public job search
+> for 0–2 YoE software roles in India and publishes them, grouped by salary, at
+> <https://rohit-43.github.io/Job-Hunter/>. See [Hourly jobs website](#hourly-jobs-website).
+
 A reusable [Claude Code](https://claude.com/claude-code) **skill** that finds,
 aggregates, and ranks software / tech job openings across the Indian market
 (Naukri, LinkedIn, Instahyre, Hirist, foundit) and international roles that are
@@ -46,8 +50,6 @@ job-hunter/
 │   ├── search_urls.py           # ToS-safe pre-filtered browse links
 │   ├── apify_scrape.py          # pull LinkedIn/Naukri via Apify (token from env)
 │   ├── score_jobs.py            # unified ATS scorer + company-tier ordering
-│   ├── gen_resumes.py           # tailor a resume per shortlisted JD
-│   ├── build_pdfs.sh            # batch-compile tailored .tex → PDF (tectonic)
 │   ├── pipeline/                # the recurring (cron / browser) pipeline
 │   │   ├── config.py            #   load hunt_config.json (run knobs) + defaults
 │   │   ├── runner.py            #   orchestrates fetch → filter each run
@@ -56,9 +58,11 @@ job-hunter/
 │   │   ├── dedup.py             #   persistent seen-jobs store (also apply status)
 │   │   ├── yoe_split.py         #   split matches into Primary / Stretch by YoE
 │   │   ├── queue_writer.py      #   render the two-section match queue
-│   │   └── mark_applied.py      #   sweep ticked queue items → seen_jobs
-│   ├── lib/                     # department.py, ats.py, paths.py (shared)
-│   └── _legacy/                 # retired rank_jobs.py / ats_scorer.py (backup)
+│   ├── live/                    # hourly LinkedIn → website pipeline (GitHub Actions)
+│   └── lib/                     # department.py, ats.py, paths.py (shared)
+├── site/                        # the static jobs website (GitHub Pages)
+├── live_config.json             # knobs for the hourly pipeline
+├── .github/workflows/hourly-jobs.yml
 ├── .env.example                 # token template → copy to .env (git-ignored)
 ├── assets/
 │   ├── departments.json         # department taxonomy (fetch filter)
@@ -236,8 +240,8 @@ don't control. The flow:
    red-flag-company and title kills) and **dedup** against `seen_jobs.json`.
 4. **Fetch each JD** and score it against the profile, fanned out across parallel
    agents.
-5. **Tailor + compile** a resume PDF for every match ≥ 70 (`gen_resumes.py` rules,
-   Haiku for speed) and append them to `BROWSER_QUEUE.md`.
+5. **Queue** every match ≥ 70 in `BROWSER_QUEUE.md` (`build_queue.py`); tailor a
+   resume for any of them with the `tailor` skill.
 
 > **Fetch JDs via the voyager API, not WebFetch.** `WebFetch` on
 > `linkedin.com/jobs/view/<id>` frequently hits a login wall / HTTP 429 and returns
@@ -267,7 +271,6 @@ The *logic* is in `scripts/pipeline/`; the *data* is yours:
 |---------|--------------------|-------|
 | **Run knobs** — window, titles, thresholds | `data/pipeline/hunt_config.json` (template `assets/hunt_config.example.json`) | `scripts/pipeline/config.py` |
 | **Dedup** — never re-process a job | `data/pipeline/seen_jobs.json` | `scripts/pipeline/dedup.py` |
-| **Applied** — drop jobs you've applied to | same `seen_jobs.json` (`status:"applied"`) | `scripts/pipeline/mark_applied.py` |
 | **Banned** — skip red-flag companies | `data/pipeline/redflag_companies.json` | `scripts/pipeline/pre_filter.py` |
 | **YoE split** — stretch roles separate | tags on `matches.json` (`min_yoe`/`stretch`) | `scripts/pipeline/yoe_split.py` + `queue_writer.py` |
 | **Shortlists** — what to apply to | `APPLY_QUEUE.md` / `BROWSER_QUEUE.md` | written by the run; ticked by you |
@@ -280,10 +283,6 @@ The *logic* is in `scripts/pipeline/`; the *data* is yours:
 - **Dedup** keys every job by its LinkedIn job ID (`li:<id>`, parsed from the URL),
   falling back to `title::company`. Once seen, a posting never resurfaces — even if
   its URL params change between runs.
-- **Applied**: tick `- [x] Applied` under any queue entry, then run
-  `python3 scripts/pipeline/mark_applied.py`. It records those IDs as
-  `status:"applied"` in `seen_jobs.json` and strikes them from the queue, so dedup
-  filters them out forever.
 - **Banned**: add a company to `redflag_companies.json` and every future run skips
   it **before** fetch/score (matched case-insensitively):
 
@@ -301,6 +300,54 @@ The *logic* is in `scripts/pipeline/`; the *data* is yours:
   `seen_jobs.json` for dedup, just out of the main list. `yoe_split.split_matches()`
   tags each match `min_yoe`/`stretch`; `queue_writer.render_queue()` renders the two
   sections.
+
+## Hourly jobs website
+
+`.github/workflows/hourly-jobs.yml` runs `scripts/live/run.py` every hour and deploys
+`site/` to GitHub Pages:
+
+1. **Search** LinkedIn's public (guest, no-login) job search for every keyword in
+   `live_config.json` across India, last `window_hours` (3h — overlaps the hourly
+   cadence so a late or failed run leaves no gap). A keyword that hits LinkedIn's
+   ~1000-result cap is re-searched per city in `split_locations`.
+2. **Skip** anything already published (LinkedIn job ID, or same title + company + city
+   reposted under a new ID), senior/management titles, and titles that aren't software
+   roles (`software_only`; LinkedIn's keyword search is loose) — before any detail fetch.
+3. **Fetch** each new job's description and parse its YoE requirement
+   (`scripts/live/yoe.py`): ≤ `yoe_max` → *0–2 years*, nothing stated → *YoE not
+   stated*, more → dropped.
+4. **Salary**, first hit wins (the site labels each one):
+   - *Listed* — stated in the posting (`scripts/live/salary.py` parses "₹12–18 LPA",
+     "₹80K/month", …).
+   - *Set manually* — `salary_overrides.json`.
+   - *Web data* — `scripts/live/salary_lookup.py` runs **Claude Code headless**
+     (`claude -p`, only WebSearch/WebFetch allowed) to find what that company pays
+     for that role family + level in India (AmbitionBox, Glassdoor, Levels.fyi…),
+     keeping only answers that cite real pages. One lookup per `company slug | family | level` (e.g.
+     `razorpay|frontend|l1`), 5 per session, logged in with your Claude subscription
+     (`CLAUDE_CODE_OAUTH_TOKEN`), capped at 100 per run / 600 per day so it leaves room
+     in the plan's limits, cached ~90 days in `salary_cache.json` on the repo's **`data`
+     branch**. Interns, staffing agencies and non-software titles are never looked up.
+   - *Approx.* — the same company's SWE range while the exact role is pending.
+   - otherwise *Not disclosed*.
+   Bucketed by midpoint into 0–10 / 10–20 / 20+ LPA, plus a *Not disclosed* tab.
+5. **Publish** `site/data/jobs.json`, dropping anything posted more than 24h ago.
+
+The previous run's job list is read back from the published site; the salary cache
+is the only thing the workflow commits (to the `data` branch, never `main`). Run locally
+(salary lookups are skipped unless `SALARY_LOOKUP_LOCAL=1` is set, which uses your
+local `claude` login):
+
+```bash
+python3 scripts/live/run.py --force           # writes site/data/jobs.json
+python3 -m http.server -d site 8000           # open http://localhost:8000
+```
+
+**One-time setup:** repo *Settings → Pages → Source: GitHub Actions*, and run
+`claude setup-token` locally and save the token as the Actions secret
+`CLAUDE_CODE_OAUTH_TOKEN` (salary lookups use your Claude subscription). To change how
+often it fires, edit the `cron` line in the workflow; `interval_hours` in
+`live_config.json` additionally skips runs that come too soon.
 
 ## Privacy
 

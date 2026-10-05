@@ -260,5 +260,4 @@ so the number remains deterministic and auditable given the labels. Re-scored
 jobs are marked `✨`, and their Gaps column shows missing **required** skills —
 the real blockers. Unlabeled jobs keep their static dictionary score.
 
-See `references/scoring.md` for tuning and `docs/superpowers/specs/` for the
-design rationale.
+See `references/scoring.md` for tuning.

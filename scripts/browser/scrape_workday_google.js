@@ -44,7 +44,9 @@ function _extractWdLinks(html) {
   while ((m = re.exec(decoded)) !== null) {
     let url = m[0];
     // Trim trailing junk characters
-    url = url.replace(/["\s<>\)\\%22]+$/, '');
+    // ("%22" is an encoded quote — it must be an alternative, not inside [...],
+    //  where it would also strip every trailing "2" from job IDs like R12322.)
+    url = url.replace(/(?:["\s<>)\\]|%22)+$/, '');
     // Only job detail pages
     if (/\/job\//.test(url)) {
       try { url = decodeURIComponent(url); } catch {}

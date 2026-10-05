@@ -140,7 +140,7 @@ def weighted_score(required, preferred, have_skills, alias_index,
     }
 
 
-# === COMPANY TIERS (moved verbatim from the retired ats_scorer.py) ==========
+# === COMPANY TIERS ==========================================================
 # Curated, case-insensitive substring matches against companyName. Extend
 # freely. Keep entries lowercase. Order of checks: TIER1 -> TIER2 ->
 # KNOWN_LARGE -> red flag -> neutral.
@@ -150,7 +150,7 @@ TIER1_NAMES = {
     "google", "alphabet", "apple", "microsoft", "amazon", "aws",
     "meta", "facebook", "instagram", "netflix", "nvidia", "adobe",
     "salesforce", "oracle", "ibm", "intel", "cisco", "sap", "qualcomm",
-    "vmware", "dell", "hp ", "hewlett", "uber", "airbnb", "paypal",
+    "vmware", "dell", "hp", "hewlett", "uber", "airbnb", "paypal",
     "linkedin", "ebay", "twitter", "x corp", "tesla", "bloomberg",
     "goldman sachs", "morgan stanley", "jpmorgan", "j.p. morgan",
     "walmart global tech", "walmart labs", "atlassian", "servicenow",
@@ -169,25 +169,19 @@ TIER2_NAMES = {
     "razorpay", "swiggy", "zomato", "zerodha", "cred", "postman",
     "flipkart", "phonepe", "paytm", "freshworks", "groww", "meesho",
     "dream11", "browserstack", "nykaa", "unacademy", "byju", "ola",
-    "navi", "slice", "jupiter", "urban company", "sharechat", "delhivery",
-    "polygon", "innovaccer", "gupshup", "chargebee", "hasura", "juspay",
-    "rapido", "porter", "moengage", "whatfix", "darwinbox", "zeta",
+    "ola electric", "navi", "slice", "jupiter", "urban company", "sharechat",
+    "delhivery", "polygon", "innovaccer", "gupshup", "chargebee", "hasura",
+    "juspay", "rapido", "porter", "moengage", "whatfix", "darwinbox", "zeta",
     "setu", "m2p", "khatabook", "spinny", "cars24", "licious",
-    "physicswallah", "vedantu", "upstox", "smallcase", "groww", 
-    "curefit", "lenskart", "cult.fit", "pharmeasy", "juspay",
-    "myntra", "ajio", "limeroad", "nykaa", "firstcry", "bigbasket",
-    "ajio", "paytm", "blinkit", "dunzo", "directi", "grofers", "zepto",
+    "physicswallah", "vedantu", "upstox", "smallcase", "curefit", "cult.fit",
+    "lenskart", "pharmeasy", "myntra", "ajio", "limeroad", "firstcry",
+    "bigbasket", "blinkit", "dunzo", "directi", "grofers", "zepto",
     "bpcl", "ioc", "indian oil", "ntpc", "powergrid", "adani", "reliance",
-    "ola", "ola electric", "tata motors", "mahindra", "ashok leyland",
-    "volkswagen"
-    # global scaleups
-    "stripe", "databricks", "snowflake", "gitlab", "hashicorp",
-    "confluent", "elastic", "cloudflare", "figma", "notion", "canva",
-    "discord", "instacart", "doordash", "robinhood", "coinbase",
-    "plaid", "brex", "ramp", "vercel", "supabase", "render", 
-    "fly.io", "6sense", "couchbase", "algolia", "commerceIQ", 
-    "monday.com", "asana", "smartsheet", "snyk", "okta", 
-    "auth0", "new relic", "datadog", "splunk", "segment", "mixpanel", "heap",
+    "tata motors", "mahindra", "ashok leyland", "volkswagen",
+    # global scaleups (the ones also in TIER1 resolve to T1 first)
+    "discord", "6sense", "couchbase", "algolia", "commerceiq",
+    "monday.com", "asana", "smartsheet", "snyk", "okta",
+    "auth0", "new relic", "splunk", "segment", "mixpanel", "heap",
 }
 
 # Large, well-staffed orgs that are NOT prestige T1/T2 but are definitely
@@ -229,8 +223,15 @@ TIER_RANK = {"T1": 3, "T2": 2, "neutral": 1, "redflag": 0}
 TIER_GLYPH = {"T1": "T1", "T2": "T2", "neutral": "·", "redflag": "⚠️"}
 
 
-def _hit(name, names):
-    return any(n in name for n in names)
+def _word_hit(name, names):
+    # Whole-word match so "ola" doesn't tier Motorola, "sap" Sapient, "ey" Disney.
+    return any(re.search(rf"(?<![a-z0-9]){re.escape(n)}(?![a-z0-9])", name)
+               for n in names)
+
+
+def _hit(name, patterns):
+    # Plain substring: red-flag patterns are deliberate stems ("consultanc", "recruit").
+    return any(p in name for p in patterns)
 
 
 def company_tier(company_name, sector=""):
@@ -239,11 +240,11 @@ def company_tier(company_name, sector=""):
     sect = (sector or "").lower()
     if not name:
         return "neutral", TIER_RANK["neutral"]
-    if _hit(name, TIER1_NAMES):
+    if _word_hit(name, TIER1_NAMES):
         return "T1", TIER_RANK["T1"]
-    if _hit(name, TIER2_NAMES):
+    if _word_hit(name, TIER2_NAMES):
         return "T2", TIER_RANK["T2"]
-    if _hit(name, KNOWN_LARGE_NAMES):
+    if _word_hit(name, KNOWN_LARGE_NAMES):
         return "neutral", TIER_RANK["neutral"]
     if (name in RED_FLAG_NAMES
             or _hit(name, RED_FLAG_PATTERNS)

@@ -1,0 +1,147 @@
+{
+  "_help": "Run knobs for the hourly LinkedIn -> website pipeline (scripts/live/run.py, .github/workflows/hourly-jobs.yml).",
+
+  "interval_hours": 1,
+  "_interval_help": "Minimum hours between scrapes. The workflow fires hourly; runs that come sooner than this are skipped (manual runs always scrape).",
+
+  "window_hours": 3,
+  "_window_help": "Minimum look-back per scrape (LinkedIn f_TPR). Each run actually looks back to its previous scrape + 1h (up to max_age_hours), so runs GitHub delays or skips leave no gap; overlap is de-duplicated.",
+
+  "max_age_hours": 24,
+  "keywords": [
+    "software engineer",
+    "software developer",
+    "backend engineer",
+    "frontend engineer",
+    "full stack developer",
+    "member of technical staff",
+    "software developer engineer",
+    "associate software developer engineer",
+    "sde",
+    "asde",
+    "swe"
+  ],
+  "location": "India",
+  "split_locations": [
+    "Bengaluru, Karnataka, India", "Hyderabad, Telangana, India", "Pune, Maharashtra, India",
+    "Delhi, India", "Gurugram, Haryana, India", "Noida, Uttar Pradesh, India",
+    "Chennai, Tamil Nadu, India", "Mumbai, Maharashtra, India"
+  ],
+  "_locations_help": "Each keyword is searched across `location` first. Only when that search hits max_pages_per_search (LinkedIn stops at ~1000 results) is it re-run per split_location to recover the cut-off jobs. Duplicates are dropped by job ID.",
+
+  "experience_levels": "2,3,4",
+  "_experience_levels_help": "LinkedIn f_E: 1=Internship 2=Entry 3=Associate 4=Mid-Senior. Many 0-2 YoE roles are tagged Mid-Senior, so 4 stays on; the YoE parser does the real filtering.",
+
+  "job_types": "F",
+  "_job_types_help": "LinkedIn f_JT: F=Full-time C=Contract I=Internship. Comma-separated.",
+
+  "title_exclude": [
+    "senior", "sr", "lead", "principal", "staff", "architect", "distinguished", "fellow", "manager",
+    "director", "head of", "vp", "vice president", "avp", "cto", "ceo", "coo", "cpo", "chief",
+    "president", "executive", "scrum master", "product manager", "program manager", "hr",
+    "human resource", "recruiter", "talent acquisition", "sourcer"
+  ],
+  "_title_exclude_help": "A job is dropped if its title contains any of these as a whole word or phrase (case-insensitive): \"lead\" drops \"Tech Lead\" but not \"Leadership\"; \"hr\" doesn't drop \"Chrome\". Add e.g. \"iii\" to drop \"Software Engineer III\". Applies to jobs already on the site too.",
+
+  "title_keep": [
+    "member of technical staff", "technical staff"
+  ],
+  "_title_keep_help": "Phrases ignored when checking title_exclude, so \"Member of Technical Staff\" survives \"staff\" (but \"Senior Member of Technical Staff\" is still dropped by \"senior\").",
+
+  "exclude_role_families": [
+    "qa", "ml"
+  ],
+  "_exclude_role_families_help": "Role types to hide. Available: swe (general/backend), frontend, fullstack, mobile, devops, data, ml (AI/ML/data science), qa (QA/SDET/testing), security, erp (SAP/Salesforce/ServiceNow). Remove one from this list to show it again.",
+
+  "exclude_employment_types": [
+    "Part-time", "Volunteer", "Temporary"
+  ],
+  "_exclude_employment_types_help": "LinkedIn employment types to hide (as shown on the job). Add \"Contract\" to hide contract roles too.",
+
+  "software_only": true,
+  "_software_only_help": "Drop titles that are not software roles (accountant, civil engineer, sales…) before fetching them. LinkedIn's keyword search is loose and returns many of these.",
+
+  "exclude_internships": true,
+  "_exclude_internships_help": "Drop internships (title says intern/internship/apprentice, or LinkedIn marks the post as Internship). Graduate/engineer trainee roles are full-time jobs and stay.",
+
+  "yoe_max": 2,
+  "salary_buckets_lpa": [
+    10, 20
+  ],
+  "max_pages_per_search": 100,
+  "cutoff_results": 950,
+  "_cutoff_help": "LinkedIn serves at most ~1000 results per search and then just returns empty pages. A search returning at least this many is treated as cut off and re-run per split_location.",
+
+  "request_delay_sec": 1.0,
+  "search_workers": 2,
+  "detail_workers": 3,
+  "max_runtime_minutes": 50,
+  "_runtime_help": "Hard budget per run so an hourly run never overlaps the next. Searching stops at 45% of it, detail fetches at 65%; unfinished work is picked up next run.",
+
+  "max_blocked_responses": 8,
+  "_blocked_help": "Abort the scrape (keeping what was collected) after this many 429/999 responses in a row.",
+
+  "salary_lookup": {
+    "_help": "Jobs without a salary in the posting get a web-sourced range: Claude Code (headless, WebSearch only) looks up company + role family + level, cached on the repo's `data` branch. Needs the CLAUDE_CODE_OAUTH_TOKEN repo secret (from `claude setup-token`); uses that Claude subscription's usage limits, so lookups are capped below.",
+    "enabled": true,
+    "model": "sonnet",
+    "_model_help": "Claude model alias for lookups. Sonnet is plenty for reading salary pages and uses less of the plan's limits than Opus.",
+    "batch_size": 5,
+    "max_lookups_per_run": 100,
+    "max_lookups_per_day": 600,
+    "max_lookups_per_month": 18600,
+    "_limits_help": "Sized for the worst case from real runs. Per run 100: the busiest 3h window after skipped runs needs ~70-85 lookups (a normal hourly run ~15-20), so even that clears in one run. Per day 600: a heavy day brings ~500-600 new software jobs, ~85% needing a lookup (~510), plus one reset backlog (~85). Per month 18600 = 600 x 31. These are ceilings, not targets: cached company/role keys are never re-looked up, so real use is far lower. Lookups use the Claude subscription's limits.",
+    "timeout_sec": 180,
+    "found_ttl_days": 90,
+    "not_found_ttl_days": 14,
+    "ttl_jitter_days": 7
+  },
+  "posts": {
+    "_help": "Hourly LinkedIn POST hunt (scripts/live/posts.py). Logged in with a throwaway account: repo secrets LINKEDIN_LI_AT and LINKEDIN_JSESSIONID (copy the cookies from that account's browser). Each run searches posts newest-first back to the previous run (+1h, min window_hours, max 24h); Claude keeps genuine hiring posts; the job filters above (title_exclude, software_only, exclude_role_families, exclude_internships, exclude_employment_types, yoe_max) apply to each role.",
+    "enabled": true,
+    "keywords": [
+      "hiring software engineer",
+      "hiring software developer",
+      "hiring backend engineer",
+      "hiring frontend engineer",
+      "hiring full stack developer",
+      "hiring member of technical staff",
+      "hiring software developer engineer",
+      "hiring associate software developer engineer",
+      "hiring sde",
+      "hiring asde",
+      "hiring swe",
+      "hiring java developer",
+      "hiring python developer",
+      "hiring react developer",
+      "hiring node developer",
+      "hiring android developer",
+      "hiring web developer",
+      "hiring fresher software",
+      "hiring sde 1",
+      "job opening software engineer",
+      "job opening developer",
+      "looking for software engineer",
+      "looking for developer",
+      "urgent hiring developer",
+      "we are hiring engineer"
+    ],
+    "countries": [
+      "India"
+    ],
+    "window_hours": 3,
+    "max_age_hours": 24,
+    "max_pages_per_keyword": 40,
+    "request_delay_sec": 2.5,
+    "max_runtime_minutes": 45,
+    "_limits_help": "Sized for the worst case so no post in the window is missed: up to 40 pages x 25 posts (1000 posts) per keyword; each keyword looks back to its own last full search, so one cut short by the time limit is caught up next run (keywords searched longest ago go first). Searching may use half the runtime, Claude checks the rest; anything not checked in time stays pending for the next run.",
+    "model": "sonnet",
+    "batch_size": 10,
+    "parallel_claude": 4,
+    "timeout_sec": 240,
+    "show_contact_email": false,
+    "_show_contact_email_help": "The site is public: by default HR emails from posts are not published (cards link to the post instead). Set true to show them.",
+    "_ranking_help": "Claude scores each hiring company 0-100 (top tech > strong product/unicorns > mid-size product > IT services/small startups > unknown > staffing agencies); the site lists posts best company first. A company keeps its first score so the order stays consistent."
+  },
+  "site_url": "https://rohit-43.github.io/Job-Hunter/"
+}

@@ -1,0 +1,4 @@
+{
+  "_help": "Hand-set salary ranges (LPA) that beat the web lookup. Key: '<linkedin company slug>|<family>|<level>' — family: swe, frontend, fullstack, mobile, devops, data, ml, qa, security, erp; level: l1, l2, l3. Use '*' for any family/level, e.g. 'razorpay|*|l1'. The slug is the part after linkedin.com/company/ on the company's LinkedIn page.",
+  "_example_razorpay|swe|l1": {"min_lpa": 18, "max_lpa": 28, "note": "keys starting with _ are ignored; remove the _ to use"}
+}

@@ -131,6 +131,14 @@ class TestTier(unittest.TestCase):
         self.assertEqual(ats.company_tier("ABC Staffing Solutions")[0],
                          "redflag")
 
+    def test_whole_word_names(self):
+        # substring matching once tiered Motorola/Coca-Cola via "ola", Sapient via "sap"
+        for name in ("Motorola Solutions", "Coca-Cola", "Credit Saison",
+                     "Metamorphosis Labs", "Disney Star"):
+            self.assertEqual(ats.company_tier(name)[0], "neutral", name)
+        self.assertEqual(ats.company_tier("Volkswagen Group")[0], "T2")
+        self.assertEqual(ats.company_tier("CommerceIQ")[0], "T2")
+
     def test_unknown_neutral(self):
         self.assertEqual(ats.company_tier("Quaxon Labs")[0], "neutral")
 

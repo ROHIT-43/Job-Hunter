@@ -5,6 +5,16 @@
 # as the tracked template.
 data/
 
+# Personal resumes (generated per-candidate, not shared)
+resumes/*.tex
+resumes/*.pdf
+!resumes/README.md
+
+# Job dumps from scripts/fetch_jobs.py (default --out) and the live site's data
+# (site/data/ is also covered by data/ above; the workflow publishes it to Pages).
+/jobs.json
+site/data/
+
 # Belt-and-suspenders in case scripts are run from the repo root:
 profile.json
 profile.*.json
@@ -22,6 +32,9 @@ ats_match_report.md
 *_report.md
 *_report.csv
 hunts/
+
+# Claude Code per-machine permissions (local paths, one-off approvals)
+.claude/settings.local.json
 
 # Obsidian vault config (if run inside one)
 .obsidian/

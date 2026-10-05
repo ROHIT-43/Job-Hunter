@@ -24,5 +24,5 @@
   "prefer_companies": [],
   "avoid_companies": [],
 
-  "_notes": "Used by rank_jobs.py to score and order listings. Adjust freely. For an international visa-sponsored search set remote_only=false, visa_required=true, and add target countries to locations (e.g. Germany, Netherlands, Canada)."
+  "_notes": "Example candidate profile. Adjust freely. For an international visa-sponsored search set remote_only=false, visa_required=true, and add target countries to locations (e.g. Germany, Netherlands, Canada)."
 }

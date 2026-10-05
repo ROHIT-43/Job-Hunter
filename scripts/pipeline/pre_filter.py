@@ -41,46 +41,40 @@ def is_redflag_company(company: str) -> bool:
     return any(p.search(name) for p in _REDFLAG_PATTERNS)
 
 # ── Title-level kills ────────────────────────────────────────────────────────
-# Pure-management / non-engineering titles. Substring match (these tokens never
-# appear inside a legit IC title we target).
-BAD_TITLE_TOKENS = {
-    "manager", "director", "vp", "vice president", "head of",
-    "hr", "human resource", "recruiter", "talent acquisition", "sourcer",
+# Defaults; the hourly pipeline reads its own lists from live_config.json
+# ("title_exclude" / "title_keep"). Whole-word match — a substring match once killed
+# "Chrome" (hr), "Vector" (cto) and "VPN" (vp).
+# Senior/Sr are dropped too (user preference 2026-08-27: 0-2y roles only).
+DEFAULT_TITLE_EXCLUDE = [
+    # seniority
+    "senior", "sr", "lead", "principal", "staff", "architect", "distinguished", "fellow",
+    # management / leadership
+    "manager", "director", "head of", "vp", "vice president", "avp",
+    "cto", "ceo", "coo", "cpo", "chief", "president", "executive",
     "scrum master", "product manager", "program manager",
-    "cto", "ceo", "coo", "cpo", "chief",
-    "president", "executive",
-}
+    # recruiting / HR
+    "hr", "human resource", "recruiter", "talent acquisition", "sourcer",
+]
+# Phrases that contain an excluded word but are not seniority: removed from the
+# title before matching, so "Member of Technical Staff" is kept while
+# "Senior Member of Technical Staff" is still dropped (by "senior").
+DEFAULT_TITLE_KEEP = ["member of technical staff", "technical staff"]
 
-# ── Seniority-by-title kills ────────────────────────────────────────────────
-# These IC seniority titles are beyond a ~3-yr candidate: Lead / Principal /
-# Staff / Architect. Matched on WORD BOUNDARIES (regex) — NOT naive substrings —
-# for two reasons:
-#   • "Staff" must NOT kill "Member of Technical Staff" (an MTS role IS a target
-#     title — see hunt_config.target_titles). The MTS guard below protects it.
-#   • avoids accidental hits like "...lead..." inside another word.
-#
-# >>> DO NOT ADD "senior" / "sr" / "ii" / "iii" HERE. <<<
-# Senior/Sr is a NORMAL target level for a 3-yr engineer (a Senior SWE often needs
-# only 3 yrs; the canonical rubric scores a Senior Razorpay role at 82). Seniority
-# that depends on YEARS is gated exactly ONCE, downstream, by the JD-based YoE rule
-# (yoe_split vs yoe_threshold) — never by a blanket title purge. A 2026-06-04 run
-# wrongly title-purged 48 Senior roles before scoring; this split is the fix.
-# See references/backbone.md "Seniority gating", references/path-browser.md Step 3,
-# and the no-senior-title-purge memory.
-_SENIORITY_KILL_RE = re.compile(
-    r"\b(lead|principal|architect|distinguished|fellow)\b", re.IGNORECASE
-)
-# "Staff Engineer / Staff Software Engineer / Staff SDE" — but only when "staff" is
-# used as a LEVEL prefix, so "Member of Technical Staff" survives.
-_STAFF_LEVEL_RE = re.compile(
-    r"\bstaff\s+(?:software\s+)?(?:engineer|developer|sde|sdet|architect|scientist)\b",
-    re.IGNORECASE,
-)
-_MTS_RE = re.compile(r"member\s+of\s+technical\s+staff|technical\s+staff", re.IGNORECASE)
+
+def _word_re(words):
+    words = sorted({w.strip().lower() for w in words if w and w.strip()}, key=len, reverse=True)
+    if not words:
+        return None
+    return re.compile(r"(?<![a-z0-9])(" + "|".join(map(re.escape, words)) + r")(?![a-z0-9])")
+
+
+_DEFAULT_EXCLUDE_RE = _word_re(DEFAULT_TITLE_EXCLUDE)
+
 
 # ── Seniority-level kills (from LinkedIn API field) ─────────────────────────
-# NB: deliberately excludes "senior"/"mid-senior" — those are scored, not killed.
-BAD_SENIORITY = {"director", "executive", "c-suite", "c-level"}
+# Per the 2026-08-27 user preference, "senior" and "mid-senior" are killed here too
+# (previously excluded). Director/executive/C-level were always killed.
+BAD_SENIORITY = {"senior", "mid-senior", "mid-senior level", "director", "executive", "c-suite", "c-level"}
 
 # ── YoE regex: "7+ years", "10 years of experience", "12-15 years" → skip ───
 _YOE_RE = re.compile(
@@ -89,6 +83,24 @@ _YOE_RE = re.compile(
 )
 MAX_YOE = 6          # skip if JD requires ≥ 7 years
 MIN_EMPLOYEES = 200  # skip companies smaller than this
+
+
+def title_ok(title: str, exclude=None, keep=None):
+    """(keep, reason) from the job title alone — shared by every pipeline.
+
+    exclude: words/phrases that drop a title (whole-word, case-insensitive);
+    keep: phrases removed before matching (e.g. "member of technical staff").
+    Defaults: DEFAULT_TITLE_EXCLUDE / DEFAULT_TITLE_KEEP.
+    """
+    t = re.sub(r"\s+", " ", (title or "").lower())
+    for phrase in (DEFAULT_TITLE_KEEP if keep is None else keep):
+        if phrase:
+            t = t.replace(phrase.lower(), " ")
+    rx = _DEFAULT_EXCLUDE_RE if exclude is None else _word_re(exclude)
+    m = rx.search(t) if rx else None
+    if m:
+        return False, f'title has "{m.group(1)}"'
+    return True, ""
 
 
 def is_relevant(job: dict):
@@ -111,21 +123,12 @@ def is_relevant(job: dict):
     if is_redflag_company(job.get("company") or job.get("companyName")):
         return False, "red-flag company"
 
-    # 1. Title kill — pure-management / non-engineering
-    for token in BAD_TITLE_TOKENS:
-        if token in title:
-            return False, f'title has "{token}"'
+    # 1. Title kills — management / non-engineering / senior-tier
+    ok, reason = title_ok(title)
+    if not ok:
+        return False, reason
 
-    # 1b. Seniority-by-title kill — Lead / Principal / Staff / Architect.
-    # Senior/Sr is NEVER killed here (see _SENIORITY_KILL_RE comment); MTS is safe.
-    if not _MTS_RE.search(title):
-        m = _SENIORITY_KILL_RE.search(title)
-        if m:
-            return False, f'title is {m.group(1).lower()}-level'
-        if _STAFF_LEVEL_RE.search(title):
-            return False, "title is staff-level"
-
-    # 2. Seniority kill (LinkedIn API field — director/executive only, never senior)
+    # 2. Seniority kill (LinkedIn API field — senior/mid-senior/director/executive)
     for bad in BAD_SENIORITY:
         if bad in seniority:
             return False, f"seniority={seniority}"

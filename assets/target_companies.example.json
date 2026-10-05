@@ -1,0 +1,8 @@
+{
+  "_help": "Add companies you want to track. Each entry needs a careers_url — the page where the company lists open roles. Copy this file to data/pipeline/target_companies.json and edit it.",
+  "companies": [
+    { "name": "Google",    "careers_url": "https://www.google.com/about/careers/applications/jobs/results/" },
+    { "name": "Microsoft", "careers_url": "https://jobs.careers.microsoft.com/global/en/search" },
+    { "name": "Amazon",    "careers_url": "https://www.amazon.jobs/en/search" }
+  ]
+}

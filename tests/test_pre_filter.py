@@ -1,14 +1,13 @@
 """Executable spec for the seniority-by-title rule in pre_filter.
 
-The rule (Arnab, 2026-06-04): the triage may drop by TITLE only the
-unambiguously-too-senior IC titles — Lead / Principal / Staff / Architect — plus
-pure management (Manager / Director / VP / Head / Chief). It must NEVER title-purge
-Senior / Sr; those are scored on merit and gated only by the JD-based YoE rule.
+The rule (USER PREFERENCE, 2026-08-27): the triage drops by TITLE all senior-tier
+titles — Senior / Sr / Lead / Principal / Staff / Architect / Distinguished /
+Fellow — plus pure management (Manager / Director / VP / Head / Chief). The
+candidate is ~1.3 YoE targeting 0-2y and does not want senior-tier roles in the
+queue. This OVERRIDES the earlier "score Senior on merit" design.
+Level numerals (II / III) are STILL kept (often mid-level, not senior).
 "Member of Technical Staff" (an MTS target title) must survive despite "Staff".
-
-If you are an agent tempted to "tidy up" by adding "senior" to the kill list:
-DON'T. These tests will fail, and you'll be re-breaking the 2026-06-04 bug.
-See references/backbone.md "Seniority gating" and the no-senior-title-purge memory.
+See references/backbone.md "Seniority gating" and the drop-senior-titles memory.
 """
 import os, sys, unittest
 
@@ -22,20 +21,24 @@ def keep(title, desc=""):
     return ok, reason
 
 
-class TestSeniorKept(unittest.TestCase):
-    """Senior / Sr / level-numerals are SCORED, never title-purged."""
+class TestSeniorDropped(unittest.TestCase):
+    """Senior / Sr are title-dropped (2026-08-27 user preference)."""
 
-    def test_senior_software_engineer_kept(self):
+    def test_senior_software_engineer_dropped(self):
         ok, _ = keep("Senior Software Engineer")
-        self.assertTrue(ok)
+        self.assertFalse(ok)
 
-    def test_sr_swe_kept(self):
+    def test_sr_swe_dropped(self):
         ok, _ = keep("Sr. Software Engineer")
-        self.assertTrue(ok)
+        self.assertFalse(ok)
 
-    def test_senior_backend_engineer_kept(self):
+    def test_senior_backend_engineer_dropped(self):
         ok, _ = keep("Senior Backend Engineer")
-        self.assertTrue(ok)
+        self.assertFalse(ok)
+
+
+class TestLevelsAndMtsKept(unittest.TestCase):
+    """Level-numerals (II/III) stay; plain MTS survives the Staff kill."""
 
     def test_software_engineer_levels_kept(self):
         for t in ("Software Engineer II", "Software Engineer III", "SDE II"):
@@ -44,9 +47,12 @@ class TestSeniorKept(unittest.TestCase):
     def test_member_of_technical_staff_kept(self):
         # MTS is a target title — the "Staff" token must not kill it.
         for t in ("Member of Technical Staff",
-                  "Member of Technical Staff - II",
-                  "Senior Member of Technical Staff"):
+                  "Member of Technical Staff - II"):
             self.assertTrue(keep(t)[0], f"{t} should be kept")
+
+    def test_senior_mts_dropped(self):
+        # "Senior" now kills even an MTS title.
+        self.assertFalse(keep("Senior Member of Technical Staff")[0])
 
 
 class TestSeniorityTitlesDropped(unittest.TestCase):
@@ -82,10 +88,38 @@ class TestYoECoarseNet(unittest.TestCase):
         ok, reason = keep("Software Engineer", "Requires 8+ years of experience")
         self.assertFalse(ok)
 
-    def test_four_year_senior_kept_here(self):
-        # kept by the coarse net; the >3 fine gate (yoe_split) handles it later.
-        ok, _ = keep("Senior Software Engineer", "4 years of experience required")
+    def test_plain_swe_kept_by_coarse_net(self):
+        # a non-senior title with no stated years passes the coarse net.
+        ok, _ = keep("Software Engineer", "3 years of experience preferred")
         self.assertTrue(ok)
+
+
+class TestWholeWordTitleKills(unittest.TestCase):
+    """Bad-title tokens match whole words only (substring matching once killed
+    "Chrome" for "hr", "Vector" for "cto", "VPN" for "vp")."""
+
+    def test_no_substring_false_positives(self):
+        for t in ("Software Engineer, Chrome", "Vector Search Engineer", "SDE - VPN",
+                  "Backend Engineer (Three.js)", "Software Engineer - Factory Automation"):
+            self.assertTrue(keep(t)[0], f"{t} should be kept")
+
+    def test_real_tokens_still_kill(self):
+        for t in ("HR Executive", "VP Engineering", "Software Engineer, AVP",
+                  "(IND) STAFF, DATA ENGINEER", "Staff Machine Learning Engineer"):
+            self.assertFalse(keep(t)[0], f"{t} should be dropped")
+
+
+class TestConfigurableTitleRules(unittest.TestCase):
+    """The hourly pipeline passes its own lists from live_config.json."""
+
+    def test_custom_lists(self):
+        ok = pre_filter.title_ok
+        self.assertTrue(ok("Software Engineer III", ["senior"], [])[0])
+        self.assertFalse(ok("Software Engineer III", ["senior", "iii"], [])[0])
+        self.assertTrue(ok("Tech Lead", ["senior"], [])[0])          # "lead" removed from list
+        self.assertFalse(ok("Member of Technical Staff", ["staff"], [])[0])
+        self.assertTrue(ok("Member of Technical Staff", ["staff"], ["member of technical staff"])[0])
+        self.assertTrue(ok("Anything", [], [])[0])                   # empty list keeps all
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@ fetch_and_filter.py — Stage 1 of the 4-hour pipeline.
 3. Downloads all results
 4. Normalizes field names to the shared schema
 5. Pre-filters (title / seniority / YoE / company size)
-6. Dedups against seen_jobs.json
+6. No cross-run filtering — seen AND applied dedup disabled (2026-08-31 user preference)
 7. Writes per-run output files + returns new jobs for scoring
 
 Usage:
@@ -273,10 +273,13 @@ def main():
         json.dump(dropped, f, indent=2)
     print(f"  Pre-filter: {len(kept)} kept, {len(dropped)} dropped")
 
-    # ── Stage 4: Dedup ────────────────────────────────────────────────────────
-    new_jobs = dedup.filter_new(kept)
-    dedup.mark_seen(kept, status="fetched")  # mark all kept as seen
-    print(f"  Dedup: {len(new_jobs)} new (of {len(kept)} filtered)")
+    # ── Stage 4: No cross-run filtering (seen AND applied dedup DISABLED) ───────
+    # User preference (2026-08-31): show EVERY eligible posting each run — do not
+    # drop for being seen before OR for being already applied. seen_jobs.json /
+    # applied_jobs.json are still recorded for history but neither filters the queue.
+    new_jobs = kept
+    dedup.mark_seen(kept, status="fetched")  # record for history only (not a filter)
+    print(f"  No cross-run filter: {len(new_jobs)} shown (of {len(kept)} eligible; seen+applied dedup off)")
 
     # ── Stage 5: Write per-job JD files ──────────────────────────────────────
     jobs_dir = os.path.join(run_dir, "jobs")

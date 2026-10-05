@@ -5,90 +5,52 @@ session; no Apify credits, no API keys. Richest source — full JD text + compan
 staff count + applicant count.
 
 > **Fetch JDs via the voyager API, NEVER WebFetch.** `WebFetch` on
-> `linkedin.com/jobs/view/<id>` hits a login wall or HTTP 429 and silently
-> returns nothing — scoring good jobs as 0. Always use the authenticated
-> voyager endpoints below.
+> `linkedin.com/jobs/view/<id>` frequently hits a login wall / HTTP 429 and returns
+> nothing — which silently scores good jobs as 0. Always use the authenticated
+> voyager endpoints below. After scoring, re-fetch any `fetched:false` rows via
+> voyager before trusting the distribution.
 
----
+## Prereq
 
-## Operational notes
+An authenticated Claude-in-Chrome LinkedIn tab (load the chrome tools via
+ToolSearch; `tabs_context_mcp` first). The CSRF token is the `JSESSIONID` cookie
+value (strip quotes). CDP `javascript_tool` calls time out ~45s, so self-limit
+loops to ~35s and resume.
 
-### Calculating WINDOW_SECONDS
-Set `WINDOW_SECONDS` to the gap in seconds since the **previous run's scraper was injected** (not since build_queue finished). Overlap is fine — `seen_jobs` dedup handles it in Step 3.
+## Step 0 — Two-step identity confirmation (MANDATORY, before any scraping)
 
-```
-# Example: last scraper ran at 17:18 IST, current time 20:01 IST
-WINDOW_SECONDS = (20*3600 + 1*60) - (17*3600 + 18*60) = 9060   # ~2.5h
-```
+**Before making any API call, navigating to any site, or reading any data**,
+you MUST pass BOTH gates in order:
 
-Common values: `3600`=1h, `7200`=2h, `14400`=4h, `86400`=24h.
+### Gate 1 — Browser profile confirmation
 
-### Browser session recovery
-The Claude-in-Chrome tab group is **session-scoped** — it drops when the Claude Code conversation ends or the extension disconnects. At the start of every pipeline run:
+1. Call `tabs_context_mcp` to get available tabs.
+2. Detect the browser profile's **email/account** — check tab titles, URLs,
+   or run JavaScript to read the logged-in account info (e.g. Google account
+   email from the nav bar).
+3. Show the user: "I detected browser profile: **[email/name]**. Can I access
+   this browser? (yes/no)"
+4. **Only proceed to Gate 2 if the user confirms "yes".** If no, stop.
 
-```javascript
-// Step 1: get or create tab group
-tabs_context_mcp(createIfEmpty=true)
+### Gate 2 — LinkedIn account confirmation
 
-// Step 2: if tab is "New Tab", navigate to LinkedIn
-navigate(tabId, "https://www.linkedin.com/jobs/")
+5. Navigate to the LinkedIn tab and run JavaScript to extract the logged-in
+   LinkedIn profile name and URL (e.g. from the nav bar's profile link or
+   the `me` API endpoint).
+6. Show the user: "LinkedIn account detected: **[Name]** ([profile URL]).
+   Can I use this LinkedIn account for job scraping? (yes/no)"
+7. **Only proceed to Step 1 if the user confirms "yes".** If no, stop and
+   ask the user to switch LinkedIn accounts in the browser tab.
 
-// Step 3: verify auth before injecting any script
-const csrf = (document.cookie.match(/JSESSIONID="?(ajax:[0-9-]+)"?/) || [])[1];
-csrf ? "auth ok" : "NOT LOGGED IN — user must log in first"
-```
+Both gates are **mandatory safety checks**. The browser gate prevents accessing
+the wrong Chrome profile. The LinkedIn gate prevents scraping the wrong LinkedIn
+account even within the correct browser. Never skip either gate.
 
-### Download file naming
-Chrome appends ` (N)` to duplicate filenames. After multiple runs, downloads accumulate as `to_score.json`, `to_score (2).json`, …, `to_score (14).json`. **Always pick the newest file:**
+## Step 1 — Scrape job IDs (paginated)
 
-```bash
-ls -lt ~/Downloads/to_score*.json | head -1   # newest first
-ls -lt ~/Downloads/ollama_input*.json | head -1
-```
+For each title in `cfg["target_titles"]`, page the job-card endpoint
+(`window_seconds = cfg["window_hours"] * 3600`, e.g. 5h → `r18000`):
 
-### Red-flag companies maintenance
-Staffing agencies and job-board aggregators (Hired, hackajob, TekPillar, HireFeed, Uplers, etc.) post on behalf of clients — not real direct openings. Add them to `data/pipeline/redflag_companies.json` under `patterns` (regex) or `exact`. They are dropped in Step 3 before JD fetch, saving Ollama quota.
-
-Signs a company is a job board / staffing aggregator:
-- Multiple roles with identical titles across many different "clients"
-- Company name contains "consulting", "staffing", "talent", "solutions", "hire*"
-- JD says "our client" or "we are hiring on behalf of"
-
----
-
-## Prerequisites
-
-- Authenticated LinkedIn tab open in the browser
-- Ollama running locally: `ollama serve` + `ollama pull qwen2.5-coder:14b`
-- `candidate_profile.json` at the repo root (copy from `assets/candidate_profile.example.json`)
-- `data/pipeline/seen_jobs.json` exists (create with `echo '{}' > data/pipeline/seen_jobs.json`)
-
----
-
-## Step 1 — Scaffold a new run directory
-
-```bash
-python3 scripts/new_run.py --window 2h   # or 4h, 24h, etc.
-```
-
-Creates `data/pipeline/browser_runs/<YYYY-MM-DD_HHMM_Xh_v1>/` and prints the
-exact commands for steps 2-6. Run dir contains only data files — scripts live in
-the repo and are never copied.
-
----
-
-## Step 2 — Scrape job cards (`scripts/browser/scrape_linkedin_browser.js`)
-
-**Configure at the top of the file:**
-```javascript
-const WINDOW_SECONDS = 7200;  // 1h=3600, 2h=7200, 4h=14400, 24h=86400
-const KEYWORDS = ["sde", "software engineer", "sde2", "swe", "mts",
-                  "backend engineer", "full stack developer", "software developer",
-                  "devops engineer", "cloud engineer"];
-const LOCATION = "India";
-```
-
-**Voyager search endpoint (per keyword, paginated):**
 ```
 GET /voyager/api/voyagerJobsDashJobCards
   ?decorationId=com.linkedin.voyager.dash.deco.jobs.search.JobSearchCardsCollection-220
@@ -107,59 +69,69 @@ GET /voyager/api/voyagerJobsDashJobCards
   &start=0,100,...,950
 ```
 
-**Critical rules:**
-- `count=100` per page, paginate `start += 100` up to `start=950` (LinkedIn caps at 1000 results/keyword)
-- **NEVER add `experience:List(...)` to the query** — silently drops ~21% of untagged big-tech roles. Gate YoE only downstream via JD text.
-- Headers: `csrf-token: <JSESSIONID cookie>`, `x-restli-protocol-version: 2.0.0`, `accept: application/vnd.linkedin.normalized+json+2.1`, `credentials: include`
+**The `experience:List(...)` clause is OPTIONAL and OMITTED when
+`cfg["experience_filters"]` is empty `[]` (the default).** LinkedIn's
+experience-level filter returns ONLY jobs explicitly tagged with a selected
+level, and big-tech reqs (Microsoft/Google/Amazon) frequently leave that field
+blank — so the search-time filter silently drops ~21% of postings (incl.
+untagged senior-company roles) before they reach the funnel. It is **redundant
+and strictly lossy**: the backbone's JD-based YoE gate (`extract_min_yoe` vs the
+3-yr threshold) already does this correctly by reading each JD's stated minimum,
+and is a safe no-op when the minimum is unknown. Gate on YoE once, in the
+backbone — never at search time. Only emit the `experience:` clause if
+`experience_filters` is explicitly non-empty.
 
-**Output per job** (extracted from `included[]` + `data.elements[]`):
-`{id, title, company, location, listedAt, keyword}`
+Headers: `csrf-token: <token>`, `x-restli-protocol-version: 2.0.0`,
+`accept: application/vnd.linkedin.normalized+json+2.1`, `credentials: include`.
 
-Script auto-downloads as `to_score.json` via blob click. Move to the run dir.
+Extract the ID from each element at
+`elements[].jobCardUnion['*jobPostingCard']` with regex `\((\d{6,})`. Pull
+title/company best-effort from the `JobPostingCard` entities in `included`
+(`primaryDescription` is the company). Paginate `start += 25` until
+`start >= paging.total` **or** `start >= cfg["max_pages_per_title"] * 25`
+(default 8 pages = 200 results per title). Dedup IDs across titles.
 
----
+**Pagination depth matters.** LinkedIn ranks results by relevance/promotion, so
+smaller companies get pushed to later pages. With 11 target titles × 8 pages,
+this yields up to ~2200 raw candidates before dedup — enough to catch most
+relevant postings. If `max_pages_per_title` is absent, default to 8.
 
-## Step 3 — Pre-fetch filter (`scripts/pipeline/filter_jobs.py`)
+## Step 2 — Build candidate links
 
-Runs entirely on `to_score.json` (no network). Saves ~70% of JD fetch + Ollama work.
+`https://www.linkedin.com/jobs/view/<id>` for every scraped ID.
 
-```bash
-python3 scripts/pipeline/filter_jobs.py \
-    --run-dir data/pipeline/browser_runs/<RUNDIR>/
-```
+## Step 3 — Pre-filter (cheap, in-browser)
 
-**Filters applied in order:**
+Drop obvious non-fits by title (Salesforce/SAP/.NET/QA/trainer/etc.) and dedup by
+`(title, company)`. Red-flag companies are dropped in the backbone, but you may
+also drop them here to save fetches.
 
-| # | Filter | Source |
-|---|--------|--------|
-| 1 | seen_jobs dedup | `data/pipeline/seen_jobs.json` — strips `li:` prefix |
-| 2 | companies_avoid | `data/pipeline/companies_avoid.txt` — exact name, case-insensitive |
-| 3 | redflag_companies | `data/pipeline/redflag_companies.json` — regex patterns + exact |
-| 4 | role_skip_patterns | `candidate_profile.json` — SRE, intern, support, embedded, etc. |
-| 5 | seniority pre-cap | `seniority_cap_pattern` from profile — Lead/Principal/Staff/Architect/Manager/Head/Chief cap at ≤63, can never reach score≥70 |
-| 6 | walk-in / spam titles | walk-in, urgent joiner, bulk hire, day-drive |
-| 7 | specific-title dedup | collapse exact-dup non-generic titles across companies (staffing spam) |
+**Location filter:** If `cfg["target_locations"]` is non-empty, drop any job whose
+`formattedLocation` does not match at least one target location (case-insensitive
+substring). "Remote" also matches jobs with "remote" in the title or location.
+This saves voyager JD fetches for jobs in non-target cities.
 
-**Seniority rule (non-negotiable):** `Senior`/`Sr` is NEVER in the pre-cap filter — these score on merit. A "Senior Software Engineer" at Razorpay scores 82. Seniority-by-years is gated exactly once, in Step 6 via `min_yoe` from the JD.
+**Seniority by TITLE — drop only the unambiguously-too-senior:** `Staff`,
+`Principal`, `Lead` (incl. "Tech Lead"/"Delivery Lead"), `Architect`, plus pure
+management (`Manager`/`Director`/`VP`/`Head`/`Chief`). **NEVER title-purge
+`Senior`/`Sr` — they are scored on merit.** A "Senior Software Engineer" often
+needs only 3 yrs and can be a top match (the rubric scores a Senior Razorpay role
+at 82). Do NOT add a `Senior|Sr` clause to the triage drop regex, and do NOT drop
+on level numerals (`II`/`III`) either. Seniority that depends on years is gated
+**once, by the JD-based YoE rule** (`extract_min_yoe` vs the 3-yr threshold) — that
+already removes the Senior roles that genuinely state 4-5+ yrs, without blindly
+discarding the ones that don't. Pairs with [[yoe-section-rule]] and
+[[no-search-time-experience-filter]]. (A 2026-06-04 run wrongly title-purged 48
+Senior roles before scoring; corrected to this rule.)
 
-Output: `to_fetch.json` — the filtered job list.
+**Source of truth for the drop set:** `scripts/pipeline/pre_filter.py`
+(`_SENIORITY_KILL_RE` + `_STAFF_LEVEL_RE` + MTS guard), with `tests/test_pre_filter.py`
+as the executable spec and `references/backbone.md` "Seniority gating" as the
+rationale. Your inline JS triage regex MUST mirror that token set exactly — if you
+change one, change the other and re-run the test.
 
----
+## Step 4 — Fetch each JD (voyager)
 
-## Step 4 — Fetch full JDs (`scripts/browser/fetch_jds_browser.js`)
-
-Inject `to_fetch.json` into the same LinkedIn tab, then paste the script:
-
-```javascript
-// Option A — paste JSON directly (small lists):
-window.__TO_SCORE = [{"id": "...", "title": "...", ...}];
-
-// Option B — load from local HTTP server:
-const d = await fetch('http://localhost:8000/to_fetch.json').then(r => r.json());
-window.__TO_SCORE = d;
-```
-
-**Voyager JD endpoint (10 concurrent, 400ms between batches):**
 ```
 GET /voyager/api/jobs/jobPostings/<id>
   ?decorationId=com.linkedin.voyager.deco.jobs.web.shared.WebFullJobPosting-65

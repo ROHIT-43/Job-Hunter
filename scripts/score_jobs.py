@@ -2,7 +2,7 @@
 """score_jobs.py — unified scorer. Loads one or more normalized job JSON files,
 merges + dedups on (title, company), scores each via the master-dictionary ATS,
 orders by ATS% then company tier then have-count then recency, and writes a
-Markdown report + CSV. Replaces the old ats_scorer.py and rank_jobs.py.
+Markdown report + CSV.
 
 Usage:
   python scripts/score_jobs.py data/jobs.json [data/apify_jobs.json] \

@@ -96,32 +96,6 @@ def _build_config(p):
                 tier1_re=tier1_re, min_yoe=min_yoe)
 
 
-def _build_triage_prompt(p):
-    name     = p["name"]
-    yoe      = p.get("years_experience", 3)
-    stack    = p.get("triage_stack", "")
-    no_stack = p.get("triage_not_in_stack", "")
-    gate     = p.get("min_yoe_gate", 3)
-    return f"""You are quickly screening a job posting for a specific candidate. Return ONLY a JSON object.
-
-CANDIDATE: {name} (~{yoe} YoE backend SWE — {stack})
-NOT in candidate's stack: {no_stack}
-
-DISCARD the job (decision: "DISCARD") if ANY of these are true:
-1. Job explicitly requires MORE than {gate} years experience (e.g. "{gate+1}+ years", "minimum {gate+1} years required", "4+ years", "at least 4 years") → discard_reason: "yoe_gt{gate}"
-2. PRIMARY role is ML engineer / Data Scientist / MLOps / model training → discard_reason: "hard_gap_ml"
-3. PRIMARY role is BI/Business Intelligence / Analytics Engineer / Data Analyst → discard_reason: "hard_gap_bi"
-4. PRIMARY role requires .NET/C# / SAP / Salesforce / ServiceNow as core stack → discard_reason: "hard_gap_dotnet"
-5. PRIMARY role is Go/Golang developer (Go not in candidate's experience but in skills) → discard_reason: "hard_gap_golang"
-6. PRIMARY role is firmware / embedded / FPGA / RTOS → discard_reason: "hard_gap_embedded"
-7. PRIMARY role is QA / SDET / test automation as primary job → discard_reason: "hard_gap_qa"
-
-KEEP the job (decision: "KEEP") if: backend SWE, full-stack, DevOps/cloud, generalist SWE, or similar — AND YoE requirement is {gate} or less (or not stated).
-
-Return ONLY: {{"decision": "KEEP" or "DISCARD", "discard_reason": "<category string or null>", "min_yoe": <minimum total years of experience stated in JD — e.g. "5-9 years" → 5, "3+ years" → 3; null if not stated>}}
-"""
-
-
 def _build_score_prompt(p):
     name      = p["name"]
     summary   = p.get("summary", f"~{p.get('years_experience',3)} YoE SWE")
@@ -220,14 +194,6 @@ def _ollama_call(url, model, system_prompt, user_content):
     return json.loads(resp.get("message", {}).get("content", "{}"))
 
 
-def _triage(cfg, triage_prompt, title, jd_snippet, company=""):
-    user_msg = f"JOB TITLE: {title}\nCOMPANY: {company}\n\nJD (first 2000 chars):\n{jd_snippet[:2000]}"
-    try:
-        return _ollama_call(cfg["url"], cfg["model"], triage_prompt, user_msg)
-    except Exception as e:
-        return {"decision": "KEEP", "discard_reason": None, "min_yoe": None, "triage_err": str(e)}
-
-
 def _full_score(cfg, score_prompt, title, jd, company="", staff_count=None):
     mnc_note = " (MNC >1000)" if staff_count and staff_count > 1000 else ""
     user_msg = (
@@ -310,7 +276,7 @@ def main():
     todo = [(jid, rec) for jid, rec in data.items() if jid not in done_ids]
     print(f"{len(done_ids)} already done, {len(todo)} to process", file=sys.stderr)
 
-    triaged_discard = triaged_keep = 0
+    n_discard = n_keep = 0
 
     with open(out_path, "a") as out:
         for i, (jid, rec) in enumerate(todo):
@@ -339,23 +305,24 @@ def main():
                     s = _full_score(cfg, score_prompt, title, jd_text, company, staff_count)
                 row = {"id": jid, "company": company, "staffCount": staff_count, **s}
                 if row.get("discard_reason"):
-                    triaged_discard += 1
+                    n_discard += 1
                     label = f"DISCARD({row['discard_reason']},min_yoe={row.get('min_yoe')})"
                 else:
-                    triaged_keep += 1
+                    n_keep += 1
                     label = f"score={row['score']}"
 
             except Exception as e:
-                row   = {"id": jid, "company": company, "title": title,
-                         "score": 0, "reasoning": f"err:{e}"}
-                label = f"ERR:{e}"
+                # Not written: a timeout/Ollama hiccup must be retried on the next run,
+                # not recorded as a scored 0 that the resume logic then skips forever.
+                print(f"[{i+1}/{len(todo)}] {jid} {company!r} → ERR:{e} (will retry)", file=sys.stderr)
+                continue
 
             out.write(json.dumps(row) + "\n")
             out.flush()
             print(f"[{i+1}/{len(todo)}] {jid} {company!r} → {label}", file=sys.stderr)
 
     print(
-        f"\ndone — triaged_discard={triaged_discard} triaged_keep={triaged_keep}",
+        f"\ndone — discarded={n_discard} kept={n_keep}",
         file=sys.stderr,
     )
 

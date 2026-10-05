@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fresh Dev Jobs</title>
+  <meta name="description" content="0–2 YoE software jobs in India from LinkedIn, posted in the last 24 hours, grouped by salary.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%232f6fed'/><text x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'>J</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand">
+        <span class="logo-mark">J</span>
+        <div>
+          <h1>Fresh Dev Jobs</h1>
+          <p class="sub" id="meta">Loading…</p>
+        </div>
+      </div>
+      <button class="icon-btn" id="theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p class="stale" id="stale" hidden></p>
+    <nav class="sections" role="tablist" aria-label="Experience">
+      <button role="tab" data-section="eligible" class="section-btn">0–2 years <span class="count" data-count-section="eligible"></span></button>
+      <button role="tab" data-section="not_stated" class="section-btn">YoE not stated <span class="count" data-count-section="not_stated"></span></button>
+      <button role="tab" data-section="posts" class="section-btn">LinkedIn posts <span class="count" data-count-section="posts"></span></button>
+      <button role="tab" data-section="applied" class="section-btn">Applied <span class="count" data-count-section="applied"></span></button>
+      <button role="tab" data-section="hidden" class="section-btn">Not interested <span class="count" data-count-section="hidden"></span></button>
+    </nav>
+
+    <nav class="buckets" role="tablist" aria-label="Salary"></nav>
+    <p class="stale" id="posts-status" hidden></p>
+
+    <section class="toolbar">
+      <input id="q" type="search" placeholder="Role — e.g. backend, sde, react…" autocomplete="off" aria-label="Search roles">
+      <input id="co" type="search" placeholder="Company…" autocomplete="off" list="companies" aria-label="Search companies">
+      <datalist id="companies"></datalist>
+      <select id="city" aria-label="City"><option value="">All cities</option></select>
+      <select id="kw" aria-label="Keyword"><option value="">All keywords</option></select>
+      <select id="age" aria-label="Posted within">
+        <option value="24">Last 24h</option>
+        <option value="12">Last 12h</option>
+        <option value="6">Last 6h</option>
+        <option value="3">Last 3h</option>
+        <option value="1">Last 1h</option>
+      </select>
+    </section>
+
+    <div class="applied-tools" id="applied-tools" hidden>
+      <span>Saved in this browser only.</span>
+      <button type="button" id="export-applied">Export</button>
+      <button type="button" id="import-applied">Import</button>
+      <input type="file" id="import-file" accept="application/json" hidden>
+    </div>
+    <p class="result-line" id="result-line"></p>
+    <ul class="jobs" id="jobs" aria-live="polite"></ul>
+    <p class="empty" id="empty" hidden>No jobs match these filters right now. New jobs arrive every hour.</p>
+  </main>
+
+  <footer class="wrap foot">
+    Scraped hourly from LinkedIn's public job search. Salary: <b>Listed</b> = stated in the posting;
+    <b>Web data</b> = salaries people report for that company + role (AmbitionBox, Glassdoor, Levels.fyi…,
+    hover for sources); <b>Approx.</b> = the company's general SWE range while the exact role is looked up.
+    These are reported ranges, not offers — always verify.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
