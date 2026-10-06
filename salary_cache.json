@@ -29,6 +29,11 @@
    ],
    "status": "found"
   },
+  "aayaninfotech|swe|l2": {
+   "expires": "2026-10-14T19:38:09.023334+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
   "accentureindia|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -83,8 +88,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T14:31:15.801441+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
+   "expires": "2027-01-09T17:59:29.223591+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -98,6 +103,22 @@
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
+  },
+  "amazon|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2026-12-29T12:00:15.173400+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 21.4,
+   "min_lpa": 21.4,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "appleberrytech|swe|l1": {
    "expires": "2026-10-25T11:19:14.251263+00:00",
@@ -124,6 +145,26 @@
     {
      "title": "glassdoor.com",
      "uri": "https://www.glassdoor.com/Salary/AQM-Technologies-Junior-Test-Engineer-Mumbai-Salaries-EJI_IE1717087.0,16_KO17,37_IL.38,44_IM1070.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "arm|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-05T13:25:44.280127+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 21.8,
+   "min_lpa": 16.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4641665/ARM-or-Graduate-Engineer-or-Bangalore/"
     }
    ],
    "status": "found",
@@ -173,6 +214,11 @@
   "ayurgrid|mobile|l1": {
    "expires": "2026-10-16T11:09:32.035508+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "bctglobal|devops|l1": {
+   "expires": "2026-10-24T18:37:10.079304+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
   "billigence|data|l1": {
@@ -251,6 +297,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "capgemini-engineering|devops|l1": {
+   "expires": "2026-10-16T01:44:59.728610+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
   },
   "capgemini-engineering|swe|l1": {
    "basis": "ctc",
@@ -454,6 +505,26 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "dodopayments|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T08:05:58.728927+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "jobfound.org",
+     "uri": "https://jobfound.org/job/dodo-payments-is-hiring-for-backend-engineer-rust-bengaluru-india-5-september-2026"
+    },
+    {
+     "title": "dreamworkhq.com",
+     "uri": "https://www.dreamworkhq.com/job/52fc80bf-ab41-410d-a309-396c057f0794"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "dolphin-robotics-automation|swe|l1": {
    "expires": "2026-10-13T13:09:31.872428+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -573,6 +644,22 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "fuzixel-technologies-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T01:18:54.908158+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 5.9,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "foundit.in",
+     "uri": "https://www.foundit.in/search/fuzixel-technologies-758129-jobs-career"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "gbs4u|devops|l1": {
    "expires": "2026-10-21T21:33:35.156520+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -681,8 +768,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T17:39:48.550476+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
+   "expires": "2027-01-03T11:55:07.544017+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -746,8 +833,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-29T19:17:06.383763+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
+   "expires": "2026-12-31T09:41:52.753653+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -835,6 +922,22 @@
    "expires": "2026-10-19T08:09:15.491244+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
+  },
+  "infovision|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T06:48:21.879104+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Infovision-Inc-Software-Engineer-Salaries-E15675_D_KO15,32.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "innovaesi|data|l1": {
    "expires": "2026-10-17T02:16:35.676686+00:00",
@@ -1115,6 +1218,22 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "ncrvoyix|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-28T13:26:48.430959+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/NCR-Voyix-Salaries-E10016304.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "neer-info-solutions|erp|l1": {
    "expires": "2026-10-26T09:12:20.596768+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1288,6 +1407,16 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "real-time-applications-center|devops|l1": {
+   "expires": "2026-10-24T23:13:25.053004+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
+  "recrew-ai|fullstack|l1": {
+   "expires": "2026-10-17T23:29:41.661427+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
   "redgates-it-solution|swe|l1": {
    "expires": "2026-10-23T22:32:09.930089+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1302,6 +1431,22 @@
    "expires": "2026-10-21T03:03:29.879628+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
+  },
+  "rivi-consulting-group-l-l-c|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T17:56:56.585259+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/RiVi-Consulting-Group-Software-Engineer-Salaries-E610760_D_KO22,39.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2022
   },
   "rntbc_chennai|swe|l1": {
    "basis": "ctc",
@@ -1324,6 +1469,22 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "rubrik-inc|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-03T07:30:29.674920+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 39.6,
+   "min_lpa": 39.6,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/rubrik/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1344,6 +1505,26 @@
    "expires": "2026-10-14T14:28:40.827738+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
+  },
+  "sahajanandinfotech|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T22:30:49.799494+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Sahajanand-Infotech-3"
+    },
+    {
+     "title": "adzuna.in",
+     "uri": "https://www.adzuna.in/details/2523207231"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "salesforce-ad|swe|l1": {
    "basis": "base",
@@ -1401,6 +1582,11 @@
    "status": "found",
    "year": 2026
   },
+  "servicenow|security|l1": {
+   "expires": "2026-10-24T16:05:38.487961+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
   "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
    "expires": "2026-10-16T16:51:53.127147+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -1428,6 +1614,11 @@
   "sourcebae|fullstack|l1": {
    "expires": "2026-10-19T04:20:57.654049+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "state-street|erp|l1": {
+   "expires": "2026-10-14T14:29:08.220190+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
   "stradaglobal|erp|l1": {
@@ -1563,6 +1754,11 @@
    "status": "found",
    "year": 2026
   },
+  "techcarvings-consultancy-pvt-ltd|erp|l1": {
+   "expires": "2026-10-16T09:54:26.172118+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
   "techmentry|ml|l1": {
    "expires": "2026-10-20T07:42:14.381215+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1674,8 +1870,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:33:16.442279+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
+   "expires": "2027-01-10T02:11:50.340660+00:00",
+   "looked_up": "2026-10-06T12:01:46+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1868,8 +2064,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 179,
-  "lookups_today": 179,
+  "lookups_month": 196,
+  "lookups_today": 196,
   "month": "2026-10"
  }
 }
