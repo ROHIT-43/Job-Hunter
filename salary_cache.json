@@ -98,8 +98,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T20:32:49.612217+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-06T20:25:34.070327+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -379,6 +379,11 @@
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
+  "clicksoftsolutions|fullstack|l1": {
+   "expires": "2026-10-26T04:50:09.076048+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
   "clinisys|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -477,6 +482,26 @@
     {
      "title": "fitaacademy.in",
      "uri": "https://www.fitaacademy.in/blog/cyient-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "dassaultsystemes|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-06T18:31:37.060307+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 10.3,
+   "min_lpa": 9.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/dassault-systemes/salaries/software-engineer/title/quality-assurance-(qa)-software-engineer/locations/pune-metropolitan-region"
+    },
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Dassault-Syst%C3%A8mes-Software-Engineer-Pune-Salaries-EJI_IE6162.0,17_KO18,35_IL.36,40_IM1072.htm"
     }
    ],
    "status": "found",
@@ -689,6 +714,26 @@
    "status": "found",
    "year": 2024
   },
+  "fedex-global-capability-services-–-hyderabad|fullstack|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-11T04:06:10.996369+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 29.0,
+   "min_lpa": 17.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/FedEx-Full-Stack-Developer-India-Salaries-EJI_IE246.0,5_KO6,26_IL.27,32_IN115.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/fedex/salaries/software-engineer/locations/greater-hyderabad-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "finacle|swe|l1": {
    "expires": "2026-10-17T10:21:45.400852+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -803,6 +848,25 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "geminatesolutions|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-01T12:56:43.321616+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "generativx|swe|l1": {
+   "expires": "2026-10-24T02:29:53.053647+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
   },
   "getathletiq|mobile|l1": {
    "expires": "2026-10-23T05:24:35.635239+00:00",
@@ -949,8 +1013,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T23:10:47.302065+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-10T23:00:16.041141+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -1019,8 +1083,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T14:52:59.369646+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-10T03:31:26.904941+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1376,8 +1440,8 @@
   "kizen-education|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T13:56:34.782367+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-06T12:30:36.725564+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -1422,6 +1486,26 @@
     {
      "title": "softlogicsys.in",
      "uri": "https://www.softlogicsys.in/l-and-t-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "lightnwonder|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T19:47:32.962126+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Light-and-Wonder-Software-Engineer-Salaries-E6943496_D_KO17,34.htm"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Light-and-Wonder-Bengaluru-Salaries-EI_IE6943496.0,16_IL.17,26_IC2940587.htm"
     }
    ],
    "status": "found",
@@ -1540,6 +1624,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "nandix-technologies|fullstack|l1": {
+   "expires": "2026-10-15T04:37:16.774842+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
   "navatech-ai|qa|l1": {
    "expires": "2026-10-15T22:29:51.142398+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1566,9 +1655,30 @@
    "status": "found",
    "year": 2026
   },
+  "necsws|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T21:46:59.541904+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/NEC-Software-Solutions-India-Salaries-E232934.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "neer-info-solutions|erp|l1": {
    "expires": "2026-10-26T09:12:20.596768+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "netapp|erp|l1": {
+   "expires": "2026-10-23T13:17:03.813491+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
   "nextdealnow|mobile|l1": {
@@ -1723,6 +1833,16 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "principle-pride|data|l1": {
+   "expires": "2026-10-19T15:29:50.950291+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "principle-pride|swe|l1": {
+   "expires": "2026-10-17T12:23:51.737096+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
   "ptcinc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1738,6 +1858,26 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/ptc/salaries/software-engineer/levels/associate-software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "pwc-india|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-31T15:04:37.912085+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
+   "max_lpa": 8.5,
+   "min_lpa": 5.8,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Pwc/salaries/Salesforce-Developer"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/PwC-Salesforce-Developer-Salaries-E8450_D_KO4,24.htm"
     }
    ],
    "status": "found",
@@ -2277,8 +2417,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:52:57.704400+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-03T21:38:52.223118+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2430,8 +2570,8 @@
   "visionone-access|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T02:27:53.915615+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
+   "expires": "2027-01-10T00:28:02.224058+00:00",
+   "looked_up": "2026-10-06T15:01:42+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2605,8 +2745,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 237,
-  "lookups_today": 237,
+  "lookups_month": 248,
+  "lookups_today": 248,
   "month": "2026-10"
  }
 }
