@@ -98,8 +98,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T10:50:52.999331+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
+   "expires": "2027-01-08T20:32:49.612217+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -112,6 +112,11 @@
   "alphabin|fullstack|l1": {
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "alphadroid|security|l1": {
+   "expires": "2026-10-20T20:04:21.834290+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "amazon|swe|l1": {
@@ -133,6 +138,11 @@
   "appleberrytech|swe|l1": {
    "expires": "2026-10-25T11:19:14.251263+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "applicantz-com|security|l1": {
+   "expires": "2026-10-19T08:02:17.345987+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "appliedbusinessconsulting|erp|l1": {
@@ -215,6 +225,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ata-freight|fullstack|l1": {
+   "expires": "2026-10-14T23:10:03.318216+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "status": "not_found"
   },
   "aviradigital|ml|l1": {
    "expires": "2026-10-13T22:57:38.469800+00:00",
@@ -363,6 +378,26 @@
    "expires": "2026-10-18T15:46:22.321405+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
+  },
+  "clinisys|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-01T18:11:19.994363+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Clinisys-Associate-Software-Engineer-Salaries-E766937_D_KO9,36.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/clinisys/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "cloudbitz-technologies-private-ltd|erp|l1": {
    "expires": "2026-10-20T05:28:29.077184+00:00",
@@ -622,6 +657,22 @@
    "status": "found",
    "year": 2026
   },
+  "everpure-data|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T14:13:31.878188+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 32.2,
+   "min_lpa": 21.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/pure-storage/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "eversana|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -642,6 +693,22 @@
    "expires": "2026-10-17T10:21:45.400852+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
+  },
+  "flexintl|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-09T17:31:39.793946+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Flex-Coimbatore-Salaries-EI_IE1036355.0,4_IL.5,15_IC2836047.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
@@ -674,6 +741,22 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "fusion-practices|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T06:57:53.146869+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Fusion-Practices-Salaries-E2972771.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "fuzixel-technologies-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -705,6 +788,22 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "geappliancesco|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T15:55:37.359061+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/GE-Appliances-Hyderabad-Salaries-EI_IE1418961.0,13_IL.14,23_IM1076.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "getathletiq|mobile|l1": {
    "expires": "2026-10-23T05:24:35.635239+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -726,6 +825,22 @@
     {
      "title": "glassdoor.com",
      "uri": "https://www.glassdoor.com/Salaries/noida-full-stack-developer-salary-SRCH_IL.0,5_IC4477468_KO6,26.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "gevernova|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-02T17:08:55.755863+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/GE-Vernova-Chennai-Salaries-EI_IE740889.0,10_IL.11,18_IM1067.htm"
     }
    ],
    "status": "found",
@@ -758,6 +873,26 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/gitlab/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "global-payments|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T05:42:01.485204+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Global-Payments-Software-Engineer-Salaries-E13140_D_KO16,33.htm"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Global-Payments/salaries/Software-Engineer"
     }
    ],
    "status": "found",
@@ -814,8 +949,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T08:34:12.979653+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
+   "expires": "2026-12-30T23:10:47.302065+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -861,6 +996,11 @@
    "status": "found",
    "year": 2026
   },
+  "hi-tech-audio-and-image-llp|swe|l1": {
+   "expires": "2026-10-20T21:30:11.865472+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "status": "not_found"
+  },
   "hpengineers|swe|l1": {
    "expires": "2026-10-19T00:49:21.057064+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -879,8 +1019,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T12:33:44.402114+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
+   "expires": "2027-01-06T14:52:59.369646+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -968,6 +1108,62 @@
    "expires": "2026-10-19T08:09:15.491244+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
+  },
+  "infosys|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T23:10:55.293003+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 6.7,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Infosys-Devops-Engineer-Hyderabad-Salaries-EJI_IE7927.0,7_KO8,23_IL.24,33_IM1076.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "infosys|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-28T19:26:40.922683+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 6.1,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/infosys--full-stack-developer"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Full_Stack_Software_Developer/Salary/2152153a/InfoSys-Limited-Bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "infosys|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-10T09:24:44.701627+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Infosys-Software-Engineer-Chennai-Salaries-EJI_IE7927.0,7_KO8,25_IL.26,33_IM1067.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-GB/companies/infosys/salaries/software-engineer/locations/chennai-metropolitan-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "infovision|swe|l1": {
    "basis": "ctc",
@@ -1083,6 +1279,11 @@
    "status": "found",
    "year": 2026
   },
+  "izen-labs|devops|l1": {
+   "expires": "2026-10-19T13:52:29.284458+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "status": "not_found"
+  },
   "jagdushah-technologies-private-limited|swe|l1": {
    "expires": "2026-10-16T21:41:04.417900+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -1091,6 +1292,11 @@
   "jeenasikho-lifecare-private-limited|erp|l1": {
    "expires": "2026-10-26T18:23:26.029293+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "jm-knitwear-private-limited|swe|l1": {
+   "expires": "2026-10-15T22:28:35.320190+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "jobsandpositions|swe|l1": {
@@ -1162,6 +1368,40 @@
     {
      "title": "internshala.com",
      "uri": "https://internshala.com/company/keylogic-infotech-private-limited-1672906254/salaries-perks/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "kizen-education|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-05T13:56:34.782367+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "kpmg-us|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T18:38:41.114848+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 4.9,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/KPMG-Devops-Engineer-Salaries-E2867_D_KO5,20.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/kpmg/salaries/software-engineer/title/devops-engineer"
     }
    ],
    "status": "found",
@@ -1283,6 +1523,16 @@
   "mindtelg|ml|l1": {
    "expires": "2026-10-19T15:35:11.300671+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "mipro-consulting|swe|l1": {
+   "expires": "2026-10-15T20:32:51.815246+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "status": "not_found"
+  },
+  "motorolasolutions|mobile|l1": {
+   "expires": "2026-10-14T22:10:32.272896+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "msrcosmos-llc|data|l1": {
@@ -2027,8 +2277,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T12:52:28.222543+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
+   "expires": "2027-01-08T03:52:57.704400+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2063,6 +2313,42 @@
    "expires": "2026-10-14T16:28:39.921676+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
+  },
+  "ups|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T14:47:36.277830+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 9.1,
+   "min_lpa": 7.1,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Job/servicenow-developer-hrsd-jobs-SRCH_IC2833209_KO0,25.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ups|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-28T22:13:27.792555+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/UPS-Software-Engineer-Salaries-E3012_D_KO4,21.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/ups/salaries/software-engineer/locations/chennai-metropolitan-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ustglobal|swe|l3": {
    "basis": "ctc",
@@ -2141,10 +2427,40 @@
    "status": "found",
    "year": 2026
   },
+  "visionone-access|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-10T02:27:53.915615+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "vmc-soft-technologies-inc|swe|l1": {
    "expires": "2026-10-23T09:43:46.329862+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
+  },
+  "vois|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2026-12-30T07:11:19.091133+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Vois-India-Pune-Salaries-EI_IE1913055.0,10_IL.11,15_IM1072.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "volody|swe|l1": {
    "basis": "base",
@@ -2209,6 +2525,38 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "yash-technologies-middle-east-region|data|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T13:25:06.141205+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/YASH-Technologies-Data-Engineer-Salaries-E14704_D_KO18,31.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "yash-technologies-middle-east-region|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-05T14:05:31.759657+00:00",
+   "looked_up": "2026-10-06T14:01:43+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/YASH-Technologies-Indore-Salaries-EI_IE14704.0,17_IL.18,24_IM1079.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zensar|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2257,8 +2605,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 213,
-  "lookups_today": 213,
+  "lookups_month": 237,
+  "lookups_today": 237,
   "month": "2026-10"
  }
 }
