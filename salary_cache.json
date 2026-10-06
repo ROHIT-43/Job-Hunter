@@ -34,6 +34,16 @@
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
+  "academy-yt|swe|l1": {
+   "expires": "2026-10-18T17:50:49.373515+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
+  "academydesk|swe|l1": {
+   "expires": "2026-10-20T02:47:46.195741+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
   "accentureindia|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -88,8 +98,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T17:59:29.223591+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
+   "expires": "2026-12-30T10:50:52.999331+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -221,6 +231,11 @@
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
+  "beroe-inc|swe|l1": {
+   "expires": "2026-10-20T11:13:23.069491+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
   "billigence|data|l1": {
    "expires": "2026-10-14T00:09:08.233324+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -344,6 +359,11 @@
    "status": "found",
    "year": 2026
   },
+  "clevanoo-llc|swe|l1": {
+   "expires": "2026-10-18T15:46:22.321405+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
   "cloudbitz-technologies-private-ltd|erp|l1": {
    "expires": "2026-10-20T05:28:29.077184+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -405,6 +425,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "customize-theme|swe|l1": {
+   "expires": "2026-10-14T15:32:49.459023+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
   },
   "cyient|swe|l1": {
    "basis": "ctc",
@@ -499,6 +524,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "digismein|swe|l1": {
+   "expires": "2026-10-25T02:51:34.059193+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
   },
   "docme-cloud-solutions|swe|l1": {
    "expires": "2026-10-18T15:41:03.990174+00:00",
@@ -717,6 +747,22 @@
    "status": "found",
    "year": 2026
   },
+  "gitlab-com|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-07T09:32:36.167243+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 62.1,
+   "min_lpa": 62.1,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/gitlab/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "globallogic|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -768,8 +814,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T11:55:07.544017+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
+   "expires": "2027-01-11T08:34:12.979653+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -833,8 +879,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-31T09:41:52.753653+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
+   "expires": "2027-01-07T12:33:44.402114+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1121,10 +1167,46 @@
    "status": "found",
    "year": 2026
   },
+  "larsen-&amp;-toubro-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T18:03:56.388131+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Larsen-and-Toubro-Fresher-Salaries-E41782_D_KO18,25.htm"
+    },
+    {
+     "title": "softlogicsys.in",
+     "uri": "https://www.softlogicsys.in/l-and-t-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "lorventech|qa|l1": {
    "expires": "2026-10-13T19:49:43.810373+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
+  },
+  "lorventech|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T01:02:22.426321+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 7.6,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Lorven-Technologies-Salaries-E270311.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "maersk-group|swe|l1": {
    "basis": "ctc",
@@ -1239,6 +1321,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "nextdealnow|mobile|l1": {
+   "expires": "2026-10-22T23:49:18.559275+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
   "novyte-materials|fullstack|l1": {
    "expires": "2026-10-18T18:49:32.585808+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -1255,6 +1342,26 @@
     {
      "title": "fita.in",
      "uri": "https://www.fita.in/ntt-data-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "nutanix|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-01T13:23:19.379803+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 33.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Nutanix-Bangalore-Salaries-EI_IE429159.0,7_IL.8,17_IM1091.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/nutanix/salaries/software-engineer/locations/greater-bengaluru"
     }
    ],
    "status": "found",
@@ -1364,6 +1471,31 @@
   "prasaar-technologies|swe|l1": {
    "expires": "2026-10-21T16:54:50.972325+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "ptcinc|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-03T06:27:05.702896+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/PTC-Software-Engineer-Pune-Salaries-EJI_IE1855.0,3_KO4,21_IL.22,26_IM1072.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/ptc/salaries/software-engineer/levels/associate-software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "pwc-india|frontend|l1": {
+   "expires": "2026-10-16T16:27:23.335721+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
   "pwc|erp|l1": {
@@ -1646,9 +1778,34 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "synechron|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-31T23:37:46.706267+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 18.3,
+   "min_lpa": 13.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/synechron/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/synechron"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "talentgigs|devops|l1": {
    "expires": "2026-10-21T19:24:14.795972+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "talentgigs|swe|l1": {
+   "expires": "2026-10-14T17:01:29.834384+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
   "tally-experts-ind-uae|swe|l1": {
@@ -1870,8 +2027,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T02:11:50.340660+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
+   "expires": "2027-01-11T12:52:28.222543+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1880,6 +2037,22 @@
     }
    ],
    "status": "found"
+  },
+  "trigent-professional-services|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-30T22:42:35.271447+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Trigent-Software-Bangalore-Salaries-EI_IE32091.0,16_IL.17,26_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "tsmnexus|swe|l1": {
    "expires": "2026-10-19T16:19:05.671946+00:00",
@@ -2060,12 +2233,32 @@
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
+  },
+  "zycus|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T09:57:03.243911+00:00",
+   "looked_up": "2026-10-06T13:01:46+00:00",
+   "max_lpa": 6.8,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/zycus--fresher--cy"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Zycus-Software-Engineer-Salaries-E243927_D_KO6,23.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   }
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 196,
-  "lookups_today": 196,
+  "lookups_month": 213,
+  "lookups_today": 213,
   "month": "2026-10"
  }
 }
