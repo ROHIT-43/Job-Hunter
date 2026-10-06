@@ -134,8 +134,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T15:41:14.085474+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-08T23:59:15.253806+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -517,6 +517,22 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "cloudflare|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2026-12-30T09:03:14.431155+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
+   "max_lpa": 61.6,
+   "min_lpa": 61.6,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cme-group|devops|l1": {
    "expires": "2026-10-14T21:11:50.597609+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -525,6 +541,11 @@
   "commergence|swe|l1": {
    "expires": "2026-10-15T18:37:25.836055+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "comscore|frontend|l1": {
+   "expires": "2026-10-15T05:48:04.962475+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "status": "not_found"
   },
   "comscore|swe|l1": {
@@ -722,6 +743,22 @@
    "expires": "2026-10-25T02:51:34.059193+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
+  },
+  "digitalmonkiot|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-01T13:56:59.231396+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
+   "max_lpa": 2.6,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "digitalmonk.biz",
+     "uri": "https://digitalmonk.biz/embedded-developer-jobs/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "digitalocean|swe|l2": {
    "basis": "base",
@@ -931,8 +968,8 @@
   "fedstat|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T05:31:43.197748+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-01T21:37:01.667237+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1080,8 +1117,8 @@
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T12:54:36.533114+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-03T22:35:16.874030+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 8.0,
    "min_lpa": 4.5,
    "sources": [
@@ -1251,8 +1288,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T08:21:49.169888+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-03T00:31:32.978149+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -1396,6 +1433,22 @@
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
+  "huronconsulting|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-31T10:55:11.491274+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 5.9,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Huron-Consulting-Group-Salesforce-Developer-Bangalore-Salaries-EJI_IE35223.0,22_KO23,43_IL.44,53_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "husky-technologies|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1420,8 +1473,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T21:59:01.134487+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-11T02:49:22.184577+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1495,6 +1548,26 @@
     {
      "title": "in.indeed.com",
      "uri": "https://in.indeed.com/cmp/IBM/salaries?location=IN/KL/Kochi"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "icon-plc-2|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T16:48:51.402524+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/ICON-Salaries-E8344.htm"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Icon-PLC/salaries"
     }
    ],
    "status": "found",
@@ -1812,8 +1885,8 @@
   "kizen-education|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T10:29:13.936014+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-03T00:14:29.335048+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -2681,8 +2754,8 @@
   "scyverge|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-29T04:54:46.733660+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-07T04:28:10.414000+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3123,8 +3196,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T16:41:03.948058+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-02T10:23:11.626113+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3306,8 +3379,8 @@
   "visionone-access|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T10:51:07.450260+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
+   "expires": "2027-01-01T00:33:38.196619+00:00",
+   "looked_up": "2026-10-06T20:01:46+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3501,8 +3574,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 315,
-  "lookups_today": 315,
+  "lookups_month": 320,
+  "lookups_today": 320,
   "month": "2026-10"
  }
 }
