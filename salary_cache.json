@@ -64,11 +64,27 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "adobe|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T07:56:37.993829+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 17.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Adobe-Software-Engineer-Noida-Salaries-EJI_IE1090.0,5_KO6,23_IL.24,29_IC4477468.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T08:33:39.341505+00:00",
-   "looked_up": "2026-10-06T10:17:25+00:00",
+   "expires": "2027-01-02T14:31:15.801441+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -282,6 +298,11 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "cme-group|devops|l1": {
+   "expires": "2026-10-14T21:11:50.597609+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
   "commergence|swe|l1": {
    "expires": "2026-10-15T18:37:25.836055+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -308,10 +329,47 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "copeland|swe|l1": {
+   "expires": "2026-10-14T01:27:17.484289+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
   "crossinghurdles|swe|l1": {
    "expires": "2026-10-17T08:39:46.878129+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
+  },
+  "cummins-india|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T01:52:55.798176+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Cummins-Data-Engineer-Salaries-E187_D_KO8,21.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "cyient|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T18:25:57.212637+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "fitaacademy.in",
+     "uri": "https://www.fitaacademy.in/blog/cyient-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "data-stride-analytics-pvt-ltd|ml|l1": {
    "expires": "2026-10-13T16:09:04.829686+00:00",
@@ -354,6 +412,22 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/delaPlex-Nagpur-Salaries-EI_IE1414178.0,8_IL.9,15_IC2951950.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "dentsu|data|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T10:46:16.969288+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Dentsu-International-Data-Engineer-Salaries-EJI_IE982213.0,20_KO21,34_IM52.htm"
     }
    ],
    "status": "found",
@@ -473,6 +547,22 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "flexipletech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T03:13:10.981429+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 37.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "flexiple.com",
+     "uri": "https://flexiple.com/salary/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -496,6 +586,16 @@
   "gbs4u|swe|l1": {
    "expires": "2026-10-19T04:48:43.040309+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "getathletiq|mobile|l1": {
+   "expires": "2026-10-23T05:24:35.635239+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
+  "getathletiq|swe|l1": {
+   "expires": "2026-10-23T00:47:33.847840+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
   "getvisitapp|fullstack|l1": {
@@ -562,11 +662,27 @@
    "status": "found",
    "year": 2026
   },
+  "gogreyorange|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T19:36:51.699259+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 39.0,
+   "min_lpa": 39.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/greyorange/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T11:13:33.600035+00:00",
-   "looked_up": "2026-10-06T10:17:25+00:00",
+   "expires": "2027-01-05T17:39:48.550476+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -630,8 +746,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T15:52:15.554098+00:00",
-   "looked_up": "2026-10-06T10:17:25+00:00",
+   "expires": "2026-12-29T19:17:06.383763+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -818,6 +934,11 @@
    "status": "found",
    "year": 2026
   },
+  "jagdushah-technologies-private-limited|swe|l1": {
+   "expires": "2026-10-16T21:41:04.417900+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
   "jeenasikho-lifecare-private-limited|erp|l1": {
    "expires": "2026-10-26T18:23:26.029293+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -902,6 +1023,22 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "maersk-group|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-31T00:26:58.447700+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 15.4,
+   "min_lpa": 11.6,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/maersk/salaries/software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "makoitlab|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -922,6 +1059,26 @@
    "expires": "2026-10-16T19:27:37.670980+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
+  },
+  "mastercard|swe|l2": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2026-12-29T07:35:21.131051+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 27.2,
+   "min_lpa": 18.5,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/mastercard--software-engineer-ii"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/mastercard--sde-ii--pune"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "mccollins-media|frontend|l1": {
    "expires": "2026-10-26T16:13:00.961538+00:00",
@@ -984,6 +1141,11 @@
    "status": "found",
    "year": 2026
   },
+  "nuview-treatment|frontend|l1": {
+   "expires": "2026-10-20T13:21:43.705880+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
   "okta-inc-|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1019,10 +1181,51 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "parexel|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T04:55:02.230920+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 9.9,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Parexel-Hyderabad-Salaries-EI_IE5334.0,7_IL.8,17_IM1076.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/parexel/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "peak-42-innovation-labs-pvt-ltd|mobile|l3": {
    "expires": "2026-10-13T13:23:47.091980+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
+  },
+  "peopleprimeww|devops|l1": {
+   "expires": "2026-10-14T13:25:54.241806+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
+  "peopleprimeww|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-31T03:56:42.478803+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/People-Prime-Worldwide-Hyderabad-Salaries-EI_IE1529446.0,22_IL.23,32_IM1076.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pione-data|devops|l1": {
    "expires": "2026-10-22T09:45:36.150650+00:00",
@@ -1137,6 +1340,11 @@
    "status": "found",
    "year": 2026
   },
+  "sage-software|frontend|l1": {
+   "expires": "2026-10-14T14:28:40.827738+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
   "salesforce-ad|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1220,6 +1428,11 @@
   "sourcebae|fullstack|l1": {
    "expires": "2026-10-19T04:20:57.654049+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "stradaglobal|erp|l1": {
+   "expires": "2026-10-20T17:47:21.233807+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
   "suitable-ai|swe|l1": {
@@ -1360,6 +1573,30 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "teradata|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T04:12:26.116057+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 10.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/teradata/salaries/software-engineer/locations/india"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Teradata-Software-Engineer-Hyderabad-Salaries-EJI_IE14638.0,8_KO9,26_IL.27,36_IM1076.htm"
+    },
+    {
+     "title": "freshershunt.in",
+     "uri": "https://freshershunt.in/software-engineer-role-at-teradata/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "tesco-bengaluru|swe|l2": {
    "basis": "ctc",
    "confidence": "medium",
@@ -1437,8 +1674,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T19:17:50.892115+00:00",
-   "looked_up": "2026-10-06T10:17:25+00:00",
+   "expires": "2027-01-08T18:33:16.442279+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1451,6 +1688,11 @@
   "tsmnexus|swe|l1": {
    "expires": "2026-10-19T16:19:05.671946+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "unosecur|swe|l2": {
+   "expires": "2026-10-14T16:28:39.921676+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
   "ustglobal|swe|l3": {
@@ -1494,6 +1736,42 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "vertiv|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-01T07:04:42.871718+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Vertiv-Pune-Salaries-EI_IE1495357.0,6_IL.7,11_IM1072.htm"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Vertiv-Software-Engineer-Salaries-E1495357_D_KO7,24.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "visa|fullstack|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-08T08:26:45.137088+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 23.6,
+   "min_lpa": 18.4,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/visa/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "vmc-soft-technologies-inc|swe|l1": {
    "expires": "2026-10-23T09:43:46.329862+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -1510,6 +1788,22 @@
     {
      "title": "in.indeed.com",
      "uri": "https://in.indeed.com/cmp/Volody-Product-Pvt-Lltd"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "vymotech|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-30T14:45:54.882928+00:00",
+   "looked_up": "2026-10-06T11:01:39+00:00",
+   "max_lpa": 11.2,
+   "min_lpa": 11.2,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-vymo-pay"
     }
    ],
    "status": "found",
@@ -1574,8 +1868,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 155,
-  "lookups_today": 155,
+  "lookups_month": 179,
+  "lookups_today": 179,
   "month": "2026-10"
  }
 }
