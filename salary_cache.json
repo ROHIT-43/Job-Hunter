@@ -67,8 +67,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T03:52:55.243640+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
+   "expires": "2027-01-02T16:07:18.394780+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -220,6 +220,22 @@
    "status": "found",
    "year": 2026
   },
+  "capco|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T17:44:30.760833+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Capco-Software-Engineer-Salaries-E400565_D_KO6,23.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "capgemini-engineering|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -240,6 +256,26 @@
    "expires": "2026-10-14T20:27:10.910113+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "cisco|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-09T00:27:26.603131+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 16.1,
+   "min_lpa": 16.1,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/cisco/salaries/software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Cisco-Software-Engineer-Bangalore-Salaries-EJI_IE1425.0,5_KO6,23_IL.24,33_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "cloudbitz-technologies-private-ltd|erp|l1": {
    "expires": "2026-10-20T05:28:29.077184+00:00",
@@ -280,6 +316,11 @@
   "data-stride-analytics-pvt-ltd|ml|l1": {
    "expires": "2026-10-13T16:09:04.829686+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "datapmi|erp|l1": {
+   "expires": "2026-10-18T22:35:29.310689+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
   },
   "dazn-india|swe|l1": {
@@ -406,6 +447,22 @@
    "status": "found",
    "year": 2026
   },
+  "eversana|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T11:35:28.902111+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 17.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/EVERSANA-Pune-Salaries-EI_IE2363465.0,8_IL.9,13_IM1072.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "finacle|swe|l1": {
    "expires": "2026-10-17T10:21:45.400852+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -414,6 +471,11 @@
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "forrester-research|erp|l1": {
+   "expires": "2026-10-21T22:48:46.741576+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
   },
   "ftprotech|swe|l1": {
@@ -447,6 +509,22 @@
     {
      "title": "glassdoor.com",
      "uri": "https://www.glassdoor.com/Salaries/noida-full-stack-developer-salary-SRCH_IL.0,5_IC4477468_KO6,26.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "gistimpact|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-29T14:42:05.112919+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Gist-Impact-Analysts-Salaries-E7188745_D_KO12,20.htm"
     }
    ],
    "status": "found",
@@ -487,8 +565,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T12:12:02.388880+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
+   "expires": "2026-12-29T22:37:29.059006+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -497,6 +575,22 @@
     }
    ],
    "status": "found"
+  },
+  "headout-com|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-10T16:58:21.948397+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 15.1,
+   "sources": [
+    {
+     "title": "glassdoor.ca",
+     "uri": "https://www.glassdoor.ca/Salary/Headout-Frontend-Engineer-Bangalore-Salaries-EJI_IE1262836.0,7_KO8,25_IL.26,35_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "headout-com|mobile|l1": {
    "basis": "ctc",
@@ -532,6 +626,20 @@
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "hyrezy-tech-solutions|frontend|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T21:14:39.147497+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 16.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "ibm|data|l1": {
    "basis": "ctc",
@@ -625,6 +733,11 @@
   "innovative-instruments-controls|swe|l1": {
    "expires": "2026-10-18T13:12:56.784581+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "intellimeet|swe|l1": {
+   "expires": "2026-10-17T05:41:58.654009+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
   },
   "intozi|swe|l1": {
@@ -805,6 +918,11 @@
    "status": "found",
    "year": 2026
   },
+  "map-my-crop|devops|l1": {
+   "expires": "2026-10-16T19:27:37.670980+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
   "mccollins-media|frontend|l1": {
    "expires": "2026-10-26T16:13:00.961538+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -982,6 +1100,22 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "rntbc_chennai|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T20:30:22.665910+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.4,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Renault-Nissan-Technology-and-Business-Centre-Software-Engineer-Salaries-E658169_D_KO46,63.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "roomsmith-india|fullstack|l1": {
    "expires": "2026-10-25T04:12:45.782991+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -1003,6 +1137,26 @@
    "status": "found",
    "year": 2026
   },
+  "salesforce-ad|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-11T01:58:38.371011+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 19.5,
+   "min_lpa": 19.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/salesforce/salaries/software-engineer/locations/greater-hyderabad-area"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/salesforce/salaries/software-engineer/title/backend-software-engineer/locations/greater-hyderabad-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "san-engineering-solutions|erp|l1": {
    "expires": "2026-10-22T00:47:50.246436+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1012,6 +1166,32 @@
    "expires": "2026-10-20T19:57:12.860403+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
+  },
+  "scoutit-in|data|l1": {
+   "expires": "2026-10-24T10:31:02.380342+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "scoutit-in|frontend|l1": {
+   "expires": "2026-10-26T01:59:55.057476+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "scoutit-in|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T20:28:05.623888+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "jobs.weekday.works",
+     "uri": "https://jobs.weekday.works/scoutit-associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
    "expires": "2026-10-16T16:51:53.127147+00:00",
@@ -1050,6 +1230,11 @@
   "switsdigital|erp|l1": {
    "expires": "2026-10-14T06:48:41.565133+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "switsdigital|swe|l1": {
+   "expires": "2026-10-23T00:42:52.550094+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
   },
   "syncupindia|swe|l1": {
@@ -1175,6 +1360,46 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "tesco-bengaluru|swe|l2": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-03T12:09:40.936585+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 39.8,
+   "min_lpa": 21.9,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Tesco-Bengaluru-Software-Development-Engineer-II-Salaries-E341690_D_KO16,48.htm"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/tesco--software-engineer-sde-2-equivalent--bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "tesco-technology|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T08:59:39.966900+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 39.8,
+   "min_lpa": 21.9,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Tesco-Bengaluru-Software-Development-Engineer-II-Salaries-E341690_D_KO16,48.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/tesco/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "themesoft-inc.|swe|l1": {
    "expires": "2026-10-19T01:37:29.618416+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -1204,11 +1429,16 @@
    "status": "found",
    "year": 2026
   },
+  "trandata-technology-solution-private-limited|erp|l1": {
+   "expires": "2026-10-24T21:57:19.280233+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:52:26.259923+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
+   "expires": "2027-01-04T08:46:19.254894+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1316,6 +1546,26 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "zensar|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T13:39:35.714749+00:00",
+   "looked_up": "2026-10-06T10:01:43+00:00",
+   "max_lpa": 7.4,
+   "min_lpa": 7.1,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-zensar-pay"
+    },
+    {
+     "title": "fita.in",
+     "uri": "https://www.fita.in/zensar-technologies-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zipaworld|ml|l1": {
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -1324,8 +1574,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 136,
-  "lookups_today": 136,
+  "lookups_month": 155,
+  "lookups_today": 155,
   "month": "2026-10"
  }
 }
