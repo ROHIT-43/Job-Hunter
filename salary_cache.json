@@ -110,6 +110,11 @@
    "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
+  "acumenglobal-in|mobile|l1": {
+   "expires": "2026-10-15T07:32:48.614480+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -129,8 +134,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T12:37:57.587080+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-08T16:15:39.302081+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -708,6 +713,26 @@
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
+  "digitalocean|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2026-12-29T16:04:16.738839+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/digitalocean/salaries/software-engineer/locations/india"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/DigitalOcean-Salaries-E823482.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "docme-cloud-solutions|swe|l1": {
    "expires": "2026-10-18T15:41:03.990174+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -852,6 +877,22 @@
    "status": "found",
    "year": 2024
   },
+  "expediagroup|fullstack|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2026-12-30T18:49:52.884022+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 27.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Expedia-Group-Software-Development-Engineer-II-Gurgaon-Salaries-EJI_IE9876.0,13_KO14,46_IL.47,54_IC2921225.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "fedex-global-capability-services-–-hyderabad|fullstack|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -875,8 +916,8 @@
   "fedstat|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T11:54:37.992550+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2026-12-31T05:59:57.496511+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -923,6 +964,26 @@
     {
      "title": "flexiple.com",
      "uri": "https://flexiple.com/salary/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "fnz|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-28T21:39:16.779318+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 27.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/FNZ-Gurgaon-Salaries-EI_IE458401.0,3_IL.4,11_IC2921225.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/fnz/salaries/software-engineer/locations/india"
     }
    ],
    "status": "found",
@@ -1004,8 +1065,8 @@
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T07:36:45.113191+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-04T03:18:29.534651+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 8.0,
    "min_lpa": 4.5,
    "sources": [
@@ -1175,8 +1236,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T01:04:45.789894+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-07T07:48:13.985696+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -1205,6 +1266,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "harmanindia|swe|l2": {
+   "expires": "2026-10-20T04:03:57.275822+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
   },
   "headout-com|frontend|l1": {
    "basis": "base",
@@ -1278,6 +1344,11 @@
    "status": "found",
    "year": 2026
   },
+  "htc-global-services|fullstack|l1": {
+   "expires": "2026-10-24T18:19:25.883946+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
   "husky-technologies|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1302,8 +1373,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-30T04:47:51.553081+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-07T15:27:48.397107+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1694,8 +1765,8 @@
   "kizen-education|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T12:58:08.920812+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-08T01:51:14.149449+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -1729,6 +1800,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "kuehne-nagel|data|l1": {
+   "expires": "2026-10-18T09:27:03.137666+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
   },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
@@ -1884,6 +1960,22 @@
     {
      "title": "6figr.com",
      "uri": "https://6figr.com/in/salary/mastercard--sde-ii--pune"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "mccainfoods|security|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-04T06:09:49.196629+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Job/gurgaon-mccain-foods-jobs-SRCH_IL.0,7_IC2921225_KO8,20.htm"
     }
    ],
    "status": "found",
@@ -2145,6 +2237,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "peopleprimeww|data|l1": {
+   "expires": "2026-10-14T04:49:20.682789+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
   "peopleprimeww|devops|l1": {
    "expires": "2026-10-14T13:25:54.241806+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -2165,6 +2262,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "peopleprimeww|swe|l1": {
+   "expires": "2026-10-26T17:49:38.390157+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
   },
   "pione-data|devops|l1": {
    "expires": "2026-10-22T09:45:36.150650+00:00",
@@ -2514,6 +2616,20 @@
    "status": "found",
    "year": 2026
   },
+  "scyverge|security|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2026-12-31T12:16:40.814018+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "servicenow|security|l1": {
    "expires": "2026-10-24T16:05:38.487961+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -2568,6 +2684,11 @@
     }
    ],
    "status": "found"
+  },
+  "softwareone|erp|l1": {
+   "expires": "2026-10-13T20:29:23.049716+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
   },
   "sourcebae|fullstack|l1": {
    "expires": "2026-10-19T04:20:57.654049+00:00",
@@ -2793,6 +2914,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "tekwissenindia|devops|l1": {
+   "expires": "2026-10-13T19:21:07.963274+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
   "teradata|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2930,8 +3056,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T01:26:08.426187+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-01T20:50:27.439838+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2952,6 +3078,26 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/Trigent-Software-Bangalore-Salaries-EI_IE32091.0,16_IL.17,26_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "trinet|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-30T08:19:42.828381+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "education.sakshi.com",
+     "uri": "https://education.sakshi.com/en/private-jobs/education-news/trinet-hiring-associate-software-engineer-hyderabad-199635"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/TriNet-Hyder%C4%81b%C4%81d-Salaries-EI_IE5494.0,6_IL.7,16_IC2865319.htm"
     }
    ],
    "status": "found",
@@ -3085,11 +3231,16 @@
    "status": "found",
    "year": 2026
   },
+  "vision30schoolplus|mobile|l1": {
+   "expires": "2026-10-23T00:23:19.107939+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
   "visionone-access|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:32:58.917390+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
+   "expires": "2027-01-04T01:15:48.427215+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3178,6 +3329,26 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "wexinc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T06:54:30.429006+00:00",
+   "looked_up": "2026-10-06T18:01:44+00:00",
+   "max_lpa": 8.5,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/WEX-Software-Development-Engineer-Salaries-E3450_D_KO4,33.htm"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/WEX-Salaries-E3450.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "wind-terpines|swe|l1": {
    "expires": "2026-10-18T17:07:28.195830+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -3263,8 +3434,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 291,
-  "lookups_today": 291,
+  "lookups_month": 306,
+  "lookups_today": 306,
   "month": "2026-10"
  }
 }
