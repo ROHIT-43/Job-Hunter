@@ -19,14 +19,54 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "activate-talent|swe|l1": {
+   "expires": "2026-10-15T15:42:12.784480+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "appliedbusinessconsulting|erp|l1": {
+   "expires": "2026-10-23T06:16:16.447160+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "aviradigital|ml|l1": {
    "expires": "2026-10-13T22:57:38.469800+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "billigence|data|l1": {
+   "expires": "2026-10-14T00:09:08.233324+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "cadence|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T10:42:40.607357+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Cadence-Design-Systems/salaries?location=IN%2FKA%2FBengaluru"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/cadence-design-systems/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "careerxperts-consulting|frontend|l1": {
    "expires": "2026-10-14T20:27:10.910113+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "consiliumsafety|swe|l1": {
+   "expires": "2026-10-24T08:32:21.507299+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "dolphin-robotics-automation|swe|l1": {
@@ -34,9 +74,24 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "elliott-moss-consulting|devops|l1": {
+   "expires": "2026-10-18T22:18:26.389578+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "engel-global|devops|l1": {
+   "expires": "2026-10-17T00:08:23.602106+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "gbs4u|devops|l1": {
+   "expires": "2026-10-21T21:33:35.156520+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "gbs4u|mobile|l1": {
@@ -52,8 +107,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T05:07:11.017087+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
+   "expires": "2027-01-04T02:10:04.727472+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -63,9 +118,19 @@
    ],
    "status": "found"
   },
+  "hrmcounselll|ml|l1": {
+   "expires": "2026-10-15T07:16:59.138439+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "hrmcounselll|swe|l1": {
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "iitjobs|ml|l1": {
+   "expires": "2026-10-24T17:49:50.620324+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "innovaesi|data|l1": {
@@ -73,10 +138,39 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "innovative-instruments-controls|swe|l1": {
+   "expires": "2026-10-18T13:12:56.784581+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "intuitive1|swe|l1": {
    "expires": "2026-10-21T23:45:44.661966+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "johnson-controls|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-30T02:32:58.697283+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "job4software.com",
+     "uri": "https://job4software.com/johnson-controls-software-developer-data-solutions-pune-india-0-1-year-experience/"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/johnson-controls/salaries/software-engineer/locations/pune-metropolitan-region"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Johnson-Controls-Software-Engineer-Salaries-E365_D_KO17,34.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "karya-inc|swe|l1": {
    "expires": "2026-10-13T06:10:24.596144+00:00",
@@ -99,6 +193,21 @@
    "status": "found",
    "year": 2026
   },
+  "lorventech|qa|l1": {
+   "expires": "2026-10-13T19:49:43.810373+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "mccollins-media|frontend|l1": {
+   "expires": "2026-10-26T16:13:00.961538+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "mindtelg|ml|l1": {
+   "expires": "2026-10-19T15:35:11.300671+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "nazztec|swe|l1": {
    "expires": "2026-10-21T05:21:35.297292+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -108,6 +217,26 @@
    "expires": "2026-10-21T16:54:50.972325+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "quest-global|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T07:37:54.517116+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/quest-global--engineer--bangalore"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Quest-Global-Bangalore-Salaries-EI_IE432989.0,12_IL.13,22_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
@@ -128,8 +257,8 @@
   "soais|qa|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-29T13:34:26.218273+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
+   "expires": "2027-01-02T09:42:28.214410+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -144,10 +273,61 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "switsdigital|erp|l1": {
+   "expires": "2026-10-14T06:48:41.565133+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "syncupindia|swe|l1": {
+   "expires": "2026-10-18T06:10:13.601645+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "talentgigs|devops|l1": {
    "expires": "2026-10-21T19:24:14.795972+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "tarlton-io|mobile|l1": {
+   "expires": "2026-10-18T04:23:11.732699+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "tata-consultancy-services|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-29T21:47:49.459114+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "max_lpa": 4.4,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Tata-Consultancy-Services-Salesforce-Developer-Salaries-E13461_D_KO26,46.htm"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Tata-Consultancy-Services-(tcs)/salaries/ServiceNow-Developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "tata-consultancy-services|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T02:47:34.901628+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "max_lpa": 7.3,
+   "min_lpa": 3.3,
+   "sources": [
+    {
+     "title": "upgrad.com",
+     "uri": "https://www.upgrad.com/blog/tcs-salary-in-india/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "teknikoz|erp|l1": {
    "expires": "2026-10-24T09:05:27.251567+00:00",
@@ -181,8 +361,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T21:57:03.279900+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
+   "expires": "2027-01-04T19:56:00.426328+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -192,16 +372,31 @@
    ],
    "status": "found"
   },
+  "vysystems|erp|l1": {
+   "expires": "2026-10-23T09:03:06.004941+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
   "wearehaystack|swe|l1": {
    "expires": "2026-10-21T19:32:41.190924+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "wind-terpines|swe|l1": {
+   "expires": "2026-10-18T17:07:28.195830+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "zipaworld|ml|l1": {
+   "expires": "2026-10-19T09:10:04.663198+00:00",
+   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   }
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 20,
-  "lookups_today": 20,
+  "lookups_month": 44,
+  "lookups_today": 44,
   "month": "2026-10"
  }
 }
