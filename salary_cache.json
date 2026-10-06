@@ -67,8 +67,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T16:07:18.394780+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
+   "expires": "2027-01-10T08:33:39.341505+00:00",
+   "looked_up": "2026-10-06T10:17:25+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -565,8 +565,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-29T22:37:29.059006+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
+   "expires": "2027-01-05T11:13:33.600035+00:00",
+   "looked_up": "2026-10-06T10:17:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -630,8 +630,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:14:39.147497+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
+   "expires": "2027-01-02T15:52:15.554098+00:00",
+   "looked_up": "2026-10-06T10:17:25+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1437,8 +1437,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T08:46:19.254894+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
+   "expires": "2027-01-09T19:17:50.892115+00:00",
+   "looked_up": "2026-10-06T10:17:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
