@@ -13,12 +13,195 @@
     }
    ],
    "status": "found"
+  },
+  "acira-consultancy|data|l1": {
+   "expires": "2026-10-20T11:41:01.274744+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "aviradigital|ml|l1": {
+   "expires": "2026-10-13T22:57:38.469800+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "careerxperts-consulting|frontend|l1": {
+   "expires": "2026-10-14T20:27:10.910113+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "dolphin-robotics-automation|swe|l1": {
+   "expires": "2026-10-13T13:09:31.872428+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "flexipletech|fullstack|l1": {
+   "expires": "2026-10-25T20:38:06.446691+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "gbs4u|mobile|l1": {
+   "expires": "2026-10-20T14:29:59.274104+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "gbs4u|swe|l1": {
+   "expires": "2026-10-19T04:48:43.040309+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "goodspaceai|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T05:07:11.017087+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "hrmcounselll|swe|l1": {
+   "expires": "2026-10-26T19:37:32.962483+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "innovaesi|data|l1": {
+   "expires": "2026-10-17T02:16:35.676686+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "intuitive1|swe|l1": {
+   "expires": "2026-10-21T23:45:44.661966+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "karya-inc|swe|l1": {
+   "expires": "2026-10-13T06:10:24.596144+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "keylogic-infotech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-29T20:03:47.699113+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "internshala.com",
+     "uri": "https://internshala.com/company/keylogic-infotech-private-limited-1672906254/salaries-perks/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "nazztec|swe|l1": {
+   "expires": "2026-10-21T05:21:35.297292+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "prasaar-technologies|swe|l1": {
+   "expires": "2026-10-21T16:54:50.972325+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "saatvik-agro-processors-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T19:07:06.296163+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "jobfound.org",
+     "uri": "https://jobfound.org/job/saatvik-agro-is-hiring-for-software-engineer-python-morena-madhya-pradesh-india-28-september-2026"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "soais|qa|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2026-12-29T13:34:26.218273+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "suitable-ai|swe|l1": {
+   "expires": "2026-10-19T01:19:45.027575+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "talentgigs|devops|l1": {
+   "expires": "2026-10-21T19:24:14.795972+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "teknikoz|erp|l1": {
+   "expires": "2026-10-24T09:05:27.251567+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "thermo-fisher-scientific|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2026-12-29T11:00:42.487388+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 13.5,
+   "min_lpa": 11.7,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/thermo-fisher-scientific/salaries/software-engineer/levels/software-engineer-ii/locations/greater-bengaluru"
+    },
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Thermo-Fisher-Scientific-Software-Engineer-II-Salaries-E658_D_KO25,45.htm"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/thermo-fisher-scientific--software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "trantronix-private-limited|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-01T21:57:03.279900+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "wearehaystack|swe|l1": {
+   "expires": "2026-10-21T19:32:41.190924+00:00",
+   "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
   }
  },
  "meta": {
   "day": "2026-10-06",
-  "month": "2026-10",
-  "searches_month": 0,
-  "searches_today": 160
+  "lookups_month": 20,
+  "lookups_today": 20,
+  "month": "2026-10"
  }
 }
