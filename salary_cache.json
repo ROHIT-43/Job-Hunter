@@ -29,6 +29,26 @@
    ],
    "status": "found"
   },
+  "accentureindia|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-09T02:17:19.117855+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Accenture-Software-Engineer-Fresher-Salaries-E4138_D_KO10,35.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/accenture/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "accoona-it|fullstack|l1": {
    "expires": "2026-10-15T17:01:31.396477+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -47,8 +67,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-28T19:15:35.007779+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
+   "expires": "2027-01-06T03:52:55.243640+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -57,6 +77,11 @@
     }
    ],
    "status": "found"
+  },
+  "alphabin|fullstack|l1": {
+   "expires": "2026-10-25T11:37:16.249400+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
   },
   "appleberrytech|swe|l1": {
    "expires": "2026-10-25T11:19:14.251263+00:00",
@@ -195,14 +220,61 @@
    "status": "found",
    "year": 2026
   },
+  "capgemini-engineering|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-30T23:04:34.979277+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Capgemini-Software-Engineer-Bangalore-Salaries-EJI_IE3803.0,9_KO10,27_IL.28,37_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "careerxperts-consulting|frontend|l1": {
    "expires": "2026-10-14T20:27:10.910113+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "cloudbitz-technologies-private-ltd|erp|l1": {
+   "expires": "2026-10-20T05:28:29.077184+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "commergence|swe|l1": {
+   "expires": "2026-10-15T18:37:25.836055+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "comscore|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-04T16:12:41.302526+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Comscore-Pune-Salaries-EI_IE20698.0,8_IL.9,13_IM1072.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "consiliumsafety|swe|l1": {
    "expires": "2026-10-24T08:32:21.507299+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "crossinghurdles|swe|l1": {
+   "expires": "2026-10-17T08:39:46.878129+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "data-stride-analytics-pvt-ltd|ml|l1": {
@@ -262,9 +334,19 @@
    "status": "found",
    "year": 2026
   },
+  "docme-cloud-solutions|swe|l1": {
+   "expires": "2026-10-18T15:41:03.990174+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
   "dolphin-robotics-automation|swe|l1": {
    "expires": "2026-10-13T13:09:31.872428+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "elico-healthcare-services-ltd|swe|l1": {
+   "expires": "2026-10-24T20:15:51.463835+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "elliott-moss-consulting|devops|l1": {
@@ -370,11 +452,43 @@
    "status": "found",
    "year": 2026
   },
+  "globallogic|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T03:39:43.885644+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 13.5,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/GlobalLogic-Front-End-Developer-Salaries-E23009_D_KO12,31.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "globallogic|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-05T13:13:56.154602+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/GlobalLogic-Software-Engineer-Noida-Salaries-EJI_IE23009.0,11_KO12,29_IL.30,35_IC4477468.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T14:44:51.460100+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
+   "expires": "2027-01-09T12:12:02.388880+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -418,6 +532,75 @@
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "ibm|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T01:44:31.339000+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/IBM-Data-Engineer-Pune-Salaries-EJI_IE354.0,3_KO4,17_IL.18,22_IC2856202.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ibm|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T02:23:02.891675+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/IBM-ServiceNow-Developer-Salaries-E354_D_KO4,24.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ibm|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T11:25:19.217923+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/IBM-Full-Stack-Developer-Bangalore-Salaries-EJI_IE354.0,3_KO4,24_IL.25,34_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ibm|security|l1": {
+   "expires": "2026-10-16T03:59:41.148599+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "ibm|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T00:28:00.993302+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 10.4,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/IBM/salaries?location=IN/KL/Kochi"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "iitjobs|ml|l1": {
    "expires": "2026-10-24T17:49:50.620324+00:00",
@@ -556,6 +739,30 @@
    "status": "found",
    "year": 2026
   },
+  "jpmorganchase|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-01T12:33:52.466999+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 19.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/JPMorganChase-Software-Engineer-II-Salaries-E5224839_D_KO14,34.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/jpmorgan-chase/salaries/software-engineer/locations/mumbai-metropolitan-region"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/jp-morgan-chase--software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "karya-inc|swe|l1": {
    "expires": "2026-10-13T06:10:24.596144+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -606,6 +813,11 @@
   "metalbook-app|mobile|l1": {
    "expires": "2026-10-18T11:26:38.001920+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "micron-technology|erp|l1": {
+   "expires": "2026-10-14T17:37:52.296391+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "mindtelg|ml|l1": {
@@ -694,6 +906,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "pione-data|devops|l1": {
+   "expires": "2026-10-22T09:45:36.150650+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
   "positiwise|devops|l1": {
    "expires": "2026-10-19T16:01:17.737938+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -708,6 +925,22 @@
    "expires": "2026-10-21T16:54:50.972325+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "pwc|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-01T23:55:22.482980+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 11.3,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/PwC-Salesforce-Developer-Bangalore-Salaries-EJI_IE8450.0,3_KO4,24_IL.25,34_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "quest-global|mobile|l1": {
    "basis": "ctc",
@@ -742,6 +975,11 @@
   "redwing-automation|swe|l1": {
    "expires": "2026-10-18T13:33:32.379025+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "rengy|mobile|l1": {
+   "expires": "2026-10-21T03:03:29.879628+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "roomsmith-india|fullstack|l1": {
@@ -824,6 +1062,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "tally-experts-ind-uae|swe|l1": {
+   "expires": "2026-10-19T03:16:32.693630+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
   "target|mobile|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -897,6 +1140,11 @@
    "status": "found",
    "year": 2026
   },
+  "tec4-advisory-india-private-limited|security|l1": {
+   "expires": "2026-10-20T15:08:59.837511+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
   "tech-mahindra|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -959,8 +1207,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-31T07:38:56.995605+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
+   "expires": "2027-01-08T18:52:26.259923+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -974,6 +1222,42 @@
    "expires": "2026-10-19T16:19:05.671946+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
+  },
+  "ustglobal|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T18:08:39.226564+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/Ust-Senior-Software-Engineer-Thiruvananthapuram-Salaries-EJI_IE155577.0,3_KO4,28_IL.29,47_IC2870859.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "valgenesis-inc|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-09T10:42:46.118919+00:00",
+   "looked_up": "2026-10-06T09:01:44+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Valgenesis/salaries/Software-Engineer"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/ValGenesis-Software-Engineer-Salaries-E1190673_D_KO11,28.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "versoaltimaindia|erp|l1": {
    "expires": "2026-10-25T15:09:05.419028+00:00",
@@ -1040,8 +1324,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 111,
-  "lookups_today": 111,
+  "lookups_month": 136,
+  "lookups_today": 136,
   "month": "2026-10"
  }
 }
