@@ -134,8 +134,8 @@
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T16:15:39.302081+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-06T15:41:14.085474+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 43.5,
    "min_lpa": 30.5,
    "sources": [
@@ -375,6 +375,11 @@
    "status": "found",
    "year": 2026
   },
+  "bravefederaltechnologies|devops|l1": {
+   "expires": "2026-10-22T14:59:51.068991+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
   "cadence|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -590,6 +595,11 @@
    "status": "found",
    "year": 2026
   },
+  "d2n-solutions|data|l1": {
+   "expires": "2026-10-20T12:02:30.630059+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
   "dassaultsystemes|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -783,6 +793,11 @@
    "status": "found",
    "year": 2026
   },
+  "edgeforce-solutions|swe|l1": {
+   "expires": "2026-10-25T09:16:10.199292+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
   "elico-healthcare-services-ltd|swe|l1": {
    "expires": "2026-10-24T20:15:51.463835+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -916,8 +931,8 @@
   "fedstat|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-31T05:59:57.496511+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-06T05:31:43.197748+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1065,8 +1080,8 @@
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T03:18:29.534651+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-10T12:54:36.533114+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 8.0,
    "min_lpa": 4.5,
    "sources": [
@@ -1236,8 +1251,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T07:48:13.985696+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-07T08:21:49.169888+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -1271,6 +1286,38 @@
    "expires": "2026-10-20T04:03:57.275822+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
+  },
+  "hca-healthcare-india|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-28T23:42:00.670177+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/HCA-Healthcare-Software-Engineer-Salaries-E2062_D_KO15,32.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "hca-healthcare-india|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-05T05:19:21.615345+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "max_lpa": 27.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "glassdoor.com",
+     "uri": "https://www.glassdoor.com/Salary/HCA-Healthcare-Software-Engineer-Salaries-E2062_D_KO15,32.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "headout-com|frontend|l1": {
    "basis": "base",
@@ -1373,8 +1420,8 @@
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T15:27:48.397107+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-01T21:59:01.134487+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 16.0,
    "min_lpa": 16.0,
    "sources": [
@@ -1765,8 +1812,8 @@
   "kizen-education|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T01:51:14.149449+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-01T10:29:13.936014+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -1996,6 +2043,11 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "millennium-partners|devops|l1": {
+   "expires": "2026-10-27T02:25:23.986287+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
   "mindtelg|ml|l1": {
    "expires": "2026-10-19T15:35:11.300671+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -2030,6 +2082,11 @@
   "motorolasolutions|mobile|l1": {
    "expires": "2026-10-14T22:10:32.272896+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
+   "status": "not_found"
+  },
+  "mriti-infosystems|erp|l1": {
+   "expires": "2026-10-23T00:52:39.558315+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
   "msrcosmos-llc|data|l1": {
@@ -2180,6 +2237,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "omnix-chain|devops|l1": {
+   "expires": "2026-10-21T14:00:05.612649+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
   },
   "onestopesg|fullstack|l1": {
    "expires": "2026-10-13T18:54:04.566461+00:00",
@@ -2619,8 +2681,8 @@
   "scyverge|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-31T12:16:40.814018+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2026-12-29T04:54:46.733660+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2708,6 +2770,11 @@
   "suitable-ai|swe|l1": {
    "expires": "2026-10-19T01:19:45.027575+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "sunrise-systems-inc|swe|l1": {
+   "expires": "2026-10-24T01:19:52.142199+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
   "switsdigital|erp|l1": {
@@ -3056,8 +3123,8 @@
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T20:50:27.439838+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2026-12-30T16:41:03.948058+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 9.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3239,8 +3306,8 @@
   "visionone-access|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T01:15:48.427215+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
+   "expires": "2027-01-03T10:51:07.450260+00:00",
+   "looked_up": "2026-10-06T19:01:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3434,8 +3501,8 @@
  },
  "meta": {
   "day": "2026-10-06",
-  "lookups_month": 306,
-  "lookups_today": 306,
+  "lookups_month": 315,
+  "lookups_today": 315,
   "month": "2026-10"
  }
 }
