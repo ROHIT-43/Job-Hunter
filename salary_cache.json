@@ -200,8 +200,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T02:42:05.889527+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
+   "expires": "2027-01-02T17:38:57.730927+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -215,6 +215,30 @@
    "expires": "2026-10-20T20:04:21.834290+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
+  },
+  "amazon|data|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2026-12-31T12:46:50.564741+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 13.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2125428/amazon-sde1-hyderabad-june-2022-accepted"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1721988/amazon-sde-1-hyderabad"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/957261/amazon-sde1-hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2022
   },
   "amazon|swe|l1": {
    "basis": "base",
@@ -455,6 +479,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "black-and-veatch|swe|l1": {
+   "expires": "2026-10-25T05:46:27.087935+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "blackrock|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -541,6 +570,11 @@
   "bravefederaltechnologies|devops|l1": {
    "expires": "2026-10-22T14:59:51.068991+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
+  "bristlecone|erp|l1": {
+   "expires": "2026-10-19T04:00:51.351009+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "broccoli-com|swe|l2": {
@@ -1380,6 +1414,11 @@
    "looked_up": "2026-10-06T10:01:43+00:00",
    "status": "not_found"
   },
+  "freseniusmedicalcare|erp|l1": {
+   "expires": "2026-10-17T21:51:18.499381+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "ftprotech|swe|l1": {
    "expires": "2026-10-20T16:26:57.238494+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -1559,6 +1598,11 @@
   "glencore|swe|l1": {
    "expires": "2026-10-21T17:02:57.460782+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "glg|data|l1": {
+   "expires": "2026-10-29T14:09:22.138356+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "global-payments|swe|l1": {
@@ -2800,10 +2844,31 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "ntt-data-americas|data|l1": {
+   "expires": "2026-10-20T18:33:39.457382+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "ntt-data-americas|devops|l1": {
    "expires": "2026-10-24T11:51:23.023521+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "ntt-data-americas|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T04:19:39.856705+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 5.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/ntt-data/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ntt-data-americas|fullstack|l1": {
    "basis": "ctc",
@@ -2968,6 +3033,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "peopleprimeww|erp|l1": {
+   "expires": "2026-10-16T12:45:17.958653+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "peopleprimeww|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3053,6 +3123,11 @@
   "principle-pride|swe|l1": {
    "expires": "2026-10-17T12:23:51.737096+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "proxelera|swe|l1": {
+   "expires": "2026-10-16T18:31:11.995986+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "ptcinc|swe|l1": {
@@ -3254,6 +3329,11 @@
   "reqpedia|fullstack|l1": {
    "expires": "2026-10-22T21:57:00.722809+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "ribbon-communications|swe|l2": {
+   "expires": "2026-10-28T01:11:15.053782+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "rippling|swe|l1": {
@@ -3953,6 +4033,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "tjxindia|swe|l2": {
+   "expires": "2026-10-29T11:07:25.017339+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "tns|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -4289,9 +4374,19 @@
    "status": "found",
    "year": 2026
   },
+  "willware-technologies|mobile|l1": {
+   "expires": "2026-10-17T19:31:31.297105+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "wind-terpines|swe|l1": {
    "expires": "2026-10-18T17:07:28.195830+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "wisdomai-inc|swe|l1": {
+   "expires": "2026-10-28T05:16:25.702706+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "yash-technologies-middle-east-region|data|l1": {
@@ -4346,9 +4441,19 @@
    "status": "found",
    "year": 2026
   },
+  "zensar|fullstack|l1": {
+   "expires": "2026-10-21T03:44:20.213936+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
   "zipaworld|ml|l1": {
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "zoft-ai|fullstack|l1": {
+   "expires": "2026-10-16T02:04:18.908094+00:00",
+   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "zycus|swe|l1": {
@@ -4374,8 +4479,8 @@
  },
  "meta": {
   "day": "2026-10-08",
-  "lookups_month": 420,
-  "lookups_today": 100,
+  "lookups_month": 435,
+  "lookups_today": 115,
   "month": "2026-10"
  }
 }
