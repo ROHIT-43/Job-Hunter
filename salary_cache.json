@@ -200,8 +200,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T17:38:57.730927+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
+   "expires": "2027-01-04T20:05:01.324023+00:00",
+   "looked_up": "2026-10-08T21:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -3216,6 +3216,11 @@
    "status": "found",
    "year": 2026
   },
+  "pyaasdairy|swe|l1": {
+   "expires": "2026-10-18T17:52:03.816917+00:00",
+   "looked_up": "2026-10-08T21:01:23+00:00",
+   "status": "not_found"
+  },
   "quantumheaps|frontend|l1": {
    "expires": "2026-10-26T19:48:25.341580+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4479,8 +4484,8 @@
  },
  "meta": {
   "day": "2026-10-08",
-  "lookups_month": 435,
-  "lookups_today": 115,
+  "lookups_month": 436,
+  "lookups_today": 116,
   "month": "2026-10"
  }
 }
