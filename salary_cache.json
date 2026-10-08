@@ -152,6 +152,11 @@
    "status": "found",
    "year": 2026
   },
+  "adswerve-inc-|swe|l2": {
+   "expires": "2026-10-23T19:59:24.455571+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
   "air-arabia|mobile|l1": {
    "expires": "2026-10-21T13:12:34.911627+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -200,8 +205,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T20:05:01.324023+00:00",
-   "looked_up": "2026-10-08T21:01:23+00:00",
+   "expires": "2027-01-12T04:01:19.222693+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -443,6 +448,55 @@
    "expires": "2026-10-16T11:09:32.035508+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
+  },
+  "barclays-bank|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T21:08:42.534577+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 5.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/barclays-shared-services-salaries/data-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/barclays-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "barclays-bank|devops|l1": {
+   "expires": "2026-10-23T05:10:49.414092+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "barclays-bank|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T01:34:52.871851+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
+   "max_lpa": 15.2,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/barclays/salaries/software-engineer/locations/pune-metropolitan-region"
+    },
+    {
+     "title": "freshersrecruitment.co.in",
+     "uri": "https://freshersrecruitment.co.in/barclays-hiring-freshers-2025/"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Barclays/salaries/Full+Stack+Developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "bcg-x|swe|l1": {
    "expires": "2026-10-28T06:01:16.822839+00:00",
@@ -2577,6 +2631,11 @@
    "status": "found",
    "year": 2026
   },
+  "maktechnologiesllc|erp|l1": {
+   "expires": "2026-10-16T09:15:35.934393+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
   "map-my-crop|devops|l1": {
    "expires": "2026-10-16T19:27:37.670980+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -2816,6 +2875,11 @@
   "nextdealnow|mobile|l1": {
    "expires": "2026-10-22T23:49:18.559275+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
+  "niksun|swe|l1": {
+   "expires": "2026-10-21T12:24:12.742109+00:00",
+   "looked_up": "2026-10-08T22:01:32+00:00",
    "status": "not_found"
   },
   "nippon-data-systems|fullstack|l1": {
@@ -4484,8 +4548,8 @@
  },
  "meta": {
   "day": "2026-10-08",
-  "lookups_month": 436,
-  "lookups_today": 116,
+  "lookups_month": 442,
+  "lookups_today": 122,
   "month": "2026-10"
  }
 }
