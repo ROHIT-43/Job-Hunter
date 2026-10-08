@@ -197,6 +197,11 @@
    "status": "found",
    "year": 2026
   },
+  "allegion|swe|l1": {
+   "expires": "2026-10-28T04:42:37.688147+00:00",
+   "looked_up": "2026-10-08T23:01:19+00:00",
+   "status": "not_found"
+  },
   "alphabin|fullstack|l1": {
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -205,8 +210,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T15:57:27.840915+00:00",
-   "looked_up": "2026-10-08T22:17:33+00:00",
+   "expires": "2027-01-02T12:20:25.065351+00:00",
+   "looked_up": "2026-10-08T23:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -692,6 +697,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "capgemini|frontend|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2026-12-31T09:05:38.941866+00:00",
+   "looked_up": "2026-10-08T23:01:19+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/front-end-developer/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "careerxperts-consulting|frontend|l1": {
    "expires": "2026-10-14T20:27:10.910113+00:00",
@@ -2717,6 +2738,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "metsoofficial|erp|l1": {
+   "expires": "2026-10-25T07:23:46.091549+00:00",
+   "looked_up": "2026-10-08T23:01:19+00:00",
+   "status": "not_found"
+  },
   "micron-technology|erp|l1": {
    "expires": "2026-10-14T17:37:52.296391+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -3338,6 +3364,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "rampwork|mobile|l1": {
+   "expires": "2026-10-29T17:05:49.205229+00:00",
+   "looked_up": "2026-10-08T23:01:19+00:00",
+   "status": "not_found"
   },
   "rapiddmls|swe|l1": {
    "expires": "2026-10-20T00:34:16.202749+00:00",
@@ -4548,8 +4579,8 @@
  },
  "meta": {
   "day": "2026-10-08",
-  "lookups_month": 442,
-  "lookups_today": 122,
+  "lookups_month": 446,
+  "lookups_today": 126,
   "month": "2026-10"
  }
 }
