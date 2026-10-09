@@ -85,6 +85,11 @@
    "status": "found",
    "year": null
   },
+  "accentureindia|frontend|l1": {
+   "expires": "2026-10-28T04:16:15.168949+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
+  },
   "accentureindia|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -175,8 +180,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T10:48:16.893657+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-10T02:15:48.857179+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -199,8 +204,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T12:16:34.297203+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-07T08:14:52.871618+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -299,8 +304,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T07:23:48.691605+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-07T12:08:02.237268+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -644,6 +649,30 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "atlassian|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-04T14:13:09.281174+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "max_lpa": 29.6,
+   "min_lpa": 24.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/atlassian/salaries/software-engineer/title/backend-software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/atlassian/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/atlassian/salaries/software-engineer?country=14"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "auric-ai|swe|l1": {
    "expires": "2026-10-27T12:09:02.506379+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
@@ -809,6 +838,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "bitbattles|mobile|l1": {
+   "expires": "2026-10-19T16:13:38.981309+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
+  },
+  "bitbattles|swe|l1": {
+   "expires": "2026-10-17T06:02:05.469025+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
   },
   "black-and-veatch|swe|l1": {
    "expires": "2026-10-25T05:46:27.087935+00:00",
@@ -1255,6 +1294,22 @@
    "expires": "2026-10-26T18:34:44.093725+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
+  },
+  "cognizant|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-01T19:16:49.895757+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/cognizant/salaries/software-engineer/title/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "cognizant|swe|l1": {
    "basis": "ctc",
@@ -3107,6 +3162,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "jio-star|data|l2": {
+   "expires": "2026-10-23T08:26:14.207296+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
+  },
   "jio-star|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -3347,6 +3407,11 @@
    "status": "found",
    "year": 2026
   },
+  "linde-india-ltd|data|l1": {
+   "expires": "2026-10-29T10:17:52.093055+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
+  },
   "linde|swe|l1": {
    "expires": "2026-10-17T07:34:08.972417+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3407,8 +3472,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T06:26:45.611793+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-12T20:56:37.699653+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4080,8 +4145,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:40:23.746744+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2026-12-31T21:54:03.815434+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4293,6 +4358,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "pwc-india|data|l1": {
+   "expires": "2026-10-22T17:43:31.022131+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
+   "status": "not_found"
   },
   "pwc-india|erp|l1": {
    "basis": "base",
@@ -4833,8 +4903,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T23:41:05.151966+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-10T16:23:09.071965+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5666,8 +5736,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:57:11.435605+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2026-12-31T16:16:16.644018+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5741,8 +5811,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:54:15.613867+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2027-01-10T13:22:37.216908+00:00",
+   "looked_up": "2026-10-09T15:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6153,8 +6223,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 655,
-  "lookups_today": 209,
+  "lookups_month": 663,
+  "lookups_today": 217,
   "month": "2026-10"
  }
 }
