@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T14:27:03.469869+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-01T16:09:30.611997+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T21:21:39.787710+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-03T15:02:53.115739+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -717,8 +717,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T03:26:26.746361+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-04T07:16:55.695392+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2838,6 +2838,22 @@
    "status": "found",
    "year": 2026
   },
+  "htc-global-services|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T13:01:03.890297+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
+   "max_lpa": 14.4,
+   "min_lpa": 13.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/htc-global-services-salaries/data-engineer-2"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "htc-global-services|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3462,6 +3478,11 @@
    "status": "found",
    "year": 2026
   },
+  "jsan-publishing|swe|l1": {
+   "expires": "2026-10-29T22:19:31.889710+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
+   "status": "not_found"
+  },
   "juspay-technologies|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3693,8 +3714,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T07:24:38.535031+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-11T21:12:04.863450+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4343,6 +4364,30 @@
    "status": "found",
    "year": 2026
   },
+  "oracle|devops|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-03T12:30:17.231313+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
+   "max_lpa": 45.0,
+   "min_lpa": 33.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1704108/oracle-ic3-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/3299445/Oracle-OCI-or-IC3-or-India-or-2023"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1668500/oci-ic3-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "orbion-infotech|erp|l1": {
    "expires": "2026-10-19T03:30:10.056155+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -4412,8 +4457,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T21:10:04.135846+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-03T07:58:21.526347+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4479,6 +4524,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "pineswift|data|l1": {
+   "expires": "2026-10-30T07:49:30.986827+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
+   "status": "not_found"
   },
   "pione-data|devops|l1": {
    "expires": "2026-10-22T09:45:36.150650+00:00",
@@ -5222,8 +5272,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T05:22:58.607641+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-08T11:53:50.609516+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5877,6 +5927,11 @@
    "status": "found",
    "year": 2026
   },
+  "the-retail-insights|devops|l1": {
+   "expires": "2026-10-28T14:27:17.026204+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
+   "status": "not_found"
+  },
   "the10xagency|swe|l1": {
    "expires": "2026-10-17T05:31:24.957286+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -6096,8 +6151,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T01:56:32.583680+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-02T13:08:05.899824+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6176,8 +6231,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T00:40:17.022584+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
+   "expires": "2027-01-06T20:14:34.239887+00:00",
+   "looked_up": "2026-10-09T23:01:19+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6598,8 +6653,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 713,
-  "lookups_today": 267,
+  "lookups_month": 718,
+  "lookups_today": 272,
   "month": "2026-10"
  }
 }
