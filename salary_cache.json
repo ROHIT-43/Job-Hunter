@@ -111,6 +111,11 @@
    "status": "found",
    "year": 2026
   },
+  "accompanyakki|swe|l1": {
+   "expires": "2026-10-26T18:53:10.246736+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
   "accoona-it|fullstack|l1": {
    "expires": "2026-10-15T17:01:31.396477+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -119,6 +124,16 @@
   "acira-consultancy|data|l1": {
    "expires": "2026-10-20T11:41:01.274744+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "ackplus-solutions|fullstack|l1": {
+   "expires": "2026-10-16T20:43:49.360299+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "ackplus-solutions|swe|l1": {
+   "expires": "2026-10-24T09:35:50.568767+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
   "activate-talent|swe|l1": {
@@ -210,8 +225,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T00:24:13.612047+00:00",
-   "looked_up": "2026-10-09T01:01:22+00:00",
+   "expires": "2027-01-06T04:15:59.697131+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -463,6 +478,11 @@
   "aviradigital|ml|l1": {
    "expires": "2026-10-13T22:57:38.469800+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "axismyindia1404|swe|l1": {
+   "expires": "2026-10-29T22:37:18.305867+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
   "ayurgrid|mobile|l1": {
@@ -1453,6 +1473,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "finnable-credit-pvt-ltd|security|l1": {
+   "expires": "2026-10-28T01:40:28.256651+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
   "flexintl|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2148,6 +2173,26 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "infosys|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T23:24:14.144177+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infosys-salaries/software-engineer/bengaluru-location"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Infosys/salaries/Data-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "infosys|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2159,6 +2204,22 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/Infosys-Devops-Engineer-Hyderabad-Salaries-EJI_IE7927.0,7_KO8,23_IL.24,33_IM1076.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "infosys|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T07:05:32.020238+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infosys-salaries/salesforce-developer/mumbai-location"
     }
    ],
    "status": "found",
@@ -4454,6 +4515,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "waphire|swe|l1": {
+   "expires": "2026-10-25T22:38:33.945520+00:00",
+   "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
   "weareeccentric|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4605,8 +4671,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 449,
-  "lookups_today": 3,
+  "lookups_month": 457,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
