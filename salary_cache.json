@@ -170,8 +170,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T09:35:31.236345+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-11T21:05:24.780600+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -194,8 +194,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T13:56:19.037833+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-05T07:14:59.900153+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -289,8 +289,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T01:47:45.343883+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-08T15:51:46.349997+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -3098,8 +3098,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-31T21:17:06.213074+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-10T11:19:48.467341+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4318,8 +4318,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T12:11:19.177884+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-09T13:01:44.806184+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5060,8 +5060,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T17:14:44.458425+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
+   "expires": "2027-01-03T23:27:16.548333+00:00",
+   "looked_up": "2026-10-09T10:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
