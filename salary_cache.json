@@ -170,8 +170,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T00:07:19.885359+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
+   "expires": "2027-01-14T07:35:55.907569+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -194,8 +194,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T06:08:18.392806+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
+   "expires": "2027-01-04T03:45:42.336143+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -224,6 +224,11 @@
   "adswerve-inc-|swe|l2": {
    "expires": "2026-10-23T19:59:24.455571+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "adzzat|fullstack|l1": {
+   "expires": "2026-10-26T19:54:34.925407+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "agochar|swe|l1": {
@@ -284,8 +289,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T11:02:02.211179+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
+   "expires": "2027-01-12T20:52:41.655275+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -433,6 +438,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "aptoraims|fullstack|l1": {
+   "expires": "2026-10-20T06:30:17.783432+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "aqm-technologies|qa|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -472,6 +482,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "arataindia|swe|l1": {
+   "expires": "2026-10-25T13:05:07.367600+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
   },
   "aristocratcorporate|swe|l2": {
    "expires": "2026-10-23T19:10:11.163024+00:00",
@@ -886,6 +901,22 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "carelon-global-solutions-in|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T01:28:57.270257+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 24.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/carelon-global-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1018,6 +1049,11 @@
    "status": "found",
    "year": 2026
   },
+  "cloudmotiv|fullstack|l1": {
+   "expires": "2026-10-30T05:39:28.125789+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "cme-group|devops|l1": {
    "expires": "2026-10-14T21:11:50.597609+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -1032,6 +1068,26 @@
    "expires": "2026-10-27T21:59:21.273405+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "cognizant|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-13T09:02:01.591659+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cognizant-salaries/fresher"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1268997/cognizant-programmer-analyst-trainee-india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "commergence|swe|l1": {
    "expires": "2026-10-15T18:37:25.836055+00:00",
@@ -1135,6 +1191,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cyn-lr|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-01T18:08:01.656797+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "max_lpa": 14.4,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cynlr-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "d2n-solutions|data|l1": {
    "expires": "2026-10-20T12:02:30.630059+00:00",
@@ -1401,9 +1473,19 @@
    "status": "found",
    "year": 2026
   },
+  "eatwithposha|swe|l3": {
+   "expires": "2026-10-19T01:38:37.413386+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "edgeforce-solutions|swe|l1": {
    "expires": "2026-10-25T09:16:10.199292+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
+  "eli-lilly-and-company|swe|l1": {
+   "expires": "2026-10-24T06:00:26.676384+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "elico-healthcare-services-ltd|swe|l1": {
@@ -1822,6 +1904,11 @@
   "generativx|swe|l1": {
    "expires": "2026-10-24T02:29:53.053647+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "geoserve-maritime|fullstack|l1": {
+   "expires": "2026-10-21T20:56:06.518018+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "getathletiq|mobile|l1": {
@@ -2300,6 +2387,11 @@
    ],
    "status": "found"
   },
+  "i2btechnologies-pvt-ltd|data|l1": {
+   "expires": "2026-10-24T19:53:46.515915+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "ibm|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2712,6 +2804,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "jobbricksglobal|swe|l1": {
+   "expires": "2026-10-19T08:33:21.155343+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "jobgether|frontend|l1": {
    "expires": "2026-10-20T10:42:51.915363+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -2976,8 +3073,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T06:54:13.525750+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
+   "expires": "2027-01-08T15:20:47.926165+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3822,6 +3919,11 @@
    "status": "found",
    "year": 2025
   },
+  "raasagency|swe|l1": {
+   "expires": "2026-10-21T09:30:46.932056+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "rampwork|mobile|l1": {
    "expires": "2026-10-29T17:05:49.205229+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
@@ -3871,6 +3973,11 @@
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
+  "recollia|data|l1": {
+   "expires": "2026-10-27T13:11:16.796979+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "recrew-ai|fullstack|l1": {
    "expires": "2026-10-17T23:29:41.661427+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -3910,6 +4017,11 @@
   "reqpedia|fullstack|l1": {
    "expires": "2026-10-22T21:57:00.722809+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "resilient-technical-solutions-pvt-ltd|swe|l1": {
+   "expires": "2026-10-28T01:27:48.616813+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "rhevix|data|l1": {
@@ -4098,6 +4210,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "sb-fitness-magazine|frontend|l1": {
+   "expires": "2026-10-16T09:22:14.509973+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "scoutit-in|data|l1": {
    "expires": "2026-10-24T10:31:02.380342+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -4166,8 +4283,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T18:31:21.364738+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
+   "expires": "2027-01-11T07:41:24.864023+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4292,6 +4409,11 @@
    "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
+  "smartnode|swe|l1": {
+   "expires": "2026-10-24T11:10:47.495114+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
   "soais|qa|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4369,6 +4491,11 @@
   "symake|swe|l2": {
    "expires": "2026-10-16T00:09:19.763861+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "syncllusion|swe|l1": {
+   "expires": "2026-10-27T19:18:57.835764+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "syncupindia|swe|l1": {
@@ -4569,6 +4696,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tech-priyam|swe|l1": {
+   "expires": "2026-10-19T11:48:34.378587+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
   },
   "techcarvings-consultancy-pvt-ltd|erp|l1": {
    "expires": "2026-10-16T09:54:26.172118+00:00",
@@ -4870,6 +5002,20 @@
    "status": "found",
    "year": 2026
   },
+  "urban-parents-club|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-10T19:20:44.663904+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "ustglobal|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -5136,6 +5282,26 @@
    "status": "found",
    "year": 2026
   },
+  "wsp-consultants-india-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T09:32:53.339287+00:00",
+   "looked_up": "2026-10-09T09:01:30+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 6.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/wsp-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/wsp-salaries/project-lead"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "xpanceit|frontend|l1": {
    "expires": "2026-10-26T17:22:21.758955+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -5251,8 +5417,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 538,
-  "lookups_today": 92,
+  "lookups_month": 558,
+  "lookups_today": 112,
   "month": "2026-10"
  }
 }
