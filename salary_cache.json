@@ -225,8 +225,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:52:58.242330+00:00",
-   "looked_up": "2026-10-09T03:01:23+00:00",
+   "expires": "2027-01-12T23:26:04.043520+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -297,6 +297,11 @@
    "status": "found",
    "year": 2026
   },
+  "amgen|erp|l1": {
+   "expires": "2026-10-17T17:06:57.842239+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -321,6 +326,11 @@
   "amunra|swe|l1": {
    "expires": "2026-10-21T15:13:06.747985+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "ankush-aggarwal-associates|swe|l1": {
+   "expires": "2026-10-28T19:43:24.980032+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
   "appleberrytech|swe|l1": {
@@ -780,6 +790,22 @@
    "status": "found",
    "year": 2026
   },
+  "cencoraglobal|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T16:26:54.618459+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4998028/"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "cisco|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1169,6 +1195,11 @@
    "status": "found",
    "year": 2026
   },
+  "doadlive|swe|l1": {
+   "expires": "2026-10-20T19:57:02.214750+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "docme-cloud-solutions|swe|l1": {
    "expires": "2026-10-18T15:41:03.990174+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -1274,6 +1305,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "enviropolengineers|swe|l1": {
+   "expires": "2026-10-18T02:24:19.110479+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
   },
   "envoyglobal|swe|l1": {
    "expires": "2026-10-27T06:29:20.667328+00:00",
@@ -1833,6 +1869,11 @@
    "status": "found",
    "year": 2026
   },
+  "grayson-talent-management-solutions|swe|l1": {
+   "expires": "2026-10-28T22:00:12.959330+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "gsobatestpage1|swe|l1": {
    "expires": "2026-10-22T01:27:17.684559+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1853,6 +1894,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "hack-halt|security|l1": {
+   "expires": "2026-10-22T03:16:01.867789+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
   },
   "harisan-technologies|swe|l1": {
    "expires": "2026-10-29T15:16:01.233602+00:00",
@@ -2471,6 +2517,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "jobgether|frontend|l1": {
+   "expires": "2026-10-20T10:42:51.915363+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "jobsandpositions|swe|l1": {
    "expires": "2026-10-14T06:01:25.440777+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -2539,6 +2590,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "justaddwater|swe|l1": {
+   "expires": "2026-10-25T08:32:02.110950+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
   },
   "karya-inc|swe|l1": {
    "expires": "2026-10-13T06:10:24.596144+00:00",
@@ -3016,6 +3072,11 @@
    "status": "found",
    "year": 2024
   },
+  "nloops|swe|l1": {
+   "expires": "2026-10-25T13:06:13.040672+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "novyte-materials|fullstack|l1": {
    "expires": "2026-10-18T18:49:32.585808+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -3104,6 +3165,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "nxtalign-innovation|swe|l1": {
+   "expires": "2026-10-27T09:01:12.806261+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "officeworks-gcc-india|swe|l1": {
    "expires": "2026-10-27T20:42:29.555532+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3149,6 +3215,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "opengov-inc|swe|l2": {
+   "expires": "2026-10-22T01:57:13.285527+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "orbion-infotech|erp|l1": {
    "expires": "2026-10-19T03:30:10.056155+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -3174,6 +3245,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "paper-plane-solutions|frontend|l3": {
+   "expires": "2026-10-19T17:10:24.593433+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "paper-plane-solutions|fullstack|l3": {
+   "expires": "2026-10-27T13:46:35.203749+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
   },
   "parexel|swe|l1": {
    "basis": "base",
@@ -3516,6 +3597,11 @@
   "reqpedia|fullstack|l1": {
    "expires": "2026-10-22T21:57:00.722809+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "rhevix|data|l1": {
+   "expires": "2026-10-28T11:16:11.886658+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
   "ribbon-communications|swe|l2": {
@@ -4300,6 +4386,11 @@
    "status": "found",
    "year": 2026
   },
+  "trinity-unicepts-pvt-ltd-|swe|l1": {
+   "expires": "2026-10-27T10:48:14.767687+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "truveta|swe|l1": {
    "expires": "2026-10-27T06:03:15.954344+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4432,6 +4523,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vision-and-solutions|frontend|l1": {
+   "expires": "2026-10-21T06:10:54.232348+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
   },
   "vision30schoolplus|mobile|l1": {
    "expires": "2026-10-23T00:23:19.107939+00:00",
@@ -4566,6 +4662,16 @@
    "status": "found",
    "year": 2026
   },
+  "whileone-techsoft-pvt-ltd|devops|l1": {
+   "expires": "2026-10-19T00:16:41.870970+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "whileone-techsoft-pvt-ltd|swe|l1": {
+   "expires": "2026-10-20T21:44:03.064517+00:00",
+   "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
   "willware-technologies|mobile|l1": {
    "expires": "2026-10-17T19:31:31.297105+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -4671,8 +4777,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 457,
-  "lookups_today": 11,
+  "lookups_month": 476,
+  "lookups_today": 30,
   "month": "2026-10"
  }
 }
