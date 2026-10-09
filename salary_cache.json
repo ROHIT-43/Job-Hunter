@@ -44,6 +44,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "aavish-ai-lab|swe|l1": {
+   "expires": "2026-10-23T20:47:11.815640+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "aayaninfotech|swe|l2": {
    "expires": "2026-10-14T19:38:09.023334+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -136,10 +141,45 @@
    "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
+  "acl-digital|devops|l1": {
+   "expires": "2026-10-18T04:54:08.228165+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "acl-digital|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T19:51:46.358621+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "max_lpa": 9.8,
+   "min_lpa": 6.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/acl-digital-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "activate-talent|swe|l1": {
    "expires": "2026-10-15T15:42:12.784480+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
+  },
+  "acttconnect20|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-09T08:58:30.516947+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "acumenglobal-in|fullstack|l1": {
    "expires": "2026-10-26T07:43:55.061181+00:00",
@@ -225,8 +265,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T18:00:52.668923+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
+   "expires": "2027-01-07T15:54:02.935044+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -806,6 +846,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "careerxperts-consulting|swe|l1": {
+   "expires": "2026-10-20T15:59:33.874401+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1179,6 +1224,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "devrabbit-it-solutions|swe|l1": {
+   "expires": "2026-10-24T06:07:44.975012+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "digiletechnologies|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1490,6 +1540,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "ezdata-advisory|data|l1": {
+   "expires": "2026-10-26T17:54:41.924649+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
   },
   "factset|frontend|l2": {
    "basis": "base",
@@ -2832,8 +2887,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T20:40:27.208070+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
+   "expires": "2027-01-02T04:32:59.944399+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3126,6 +3181,11 @@
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
+  "nexucon-consultancy-services-pvt-ltd|erp|l1": {
+   "expires": "2026-10-30T01:38:34.712399+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "nielseniq|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3175,6 +3235,11 @@
   "nloops|swe|l1": {
    "expires": "2026-10-25T13:06:13.040672+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "novbliss-consultancy-private-limited|data|l1": {
+   "expires": "2026-10-29T18:55:57.976244+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "novyte-materials|fullstack|l1": {
@@ -3273,6 +3338,11 @@
   "nxtalign-innovation|swe|l1": {
    "expires": "2026-10-27T09:01:12.806261+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "oceanstravel|swe|l1": {
+   "expires": "2026-10-17T15:14:05.834898+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "officeworks-gcc-india|swe|l1": {
@@ -3939,9 +4009,19 @@
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
+  "sgr-it-business-solutions-kvp|mobile|l1": {
+   "expires": "2026-10-22T05:26:54.685228+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
    "expires": "2026-10-16T16:51:53.127147+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "shriramgeneralinsurance|swe|l1": {
+   "expires": "2026-10-24T03:14:10.893927+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "siemens-healthineers|fullstack|l1": {
@@ -4091,6 +4171,11 @@
   "sunrise-systems-inc|swe|l1": {
    "expires": "2026-10-24T01:19:52.142199+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
+  "switsdigital|data|l1": {
+   "expires": "2026-10-22T06:37:17.717701+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "switsdigital|erp|l1": {
@@ -4396,6 +4481,11 @@
    "status": "found",
    "year": 2026
   },
+  "the10xagency|swe|l1": {
+   "expires": "2026-10-17T05:31:24.957286+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "themesoft-inc.|swe|l1": {
    "expires": "2026-10-19T01:37:29.618416+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -4539,6 +4629,16 @@
   "tsmnexus|swe|l1": {
    "expires": "2026-10-19T16:19:05.671946+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "turium-ai|fullstack|l1": {
+   "expires": "2026-10-19T22:43:44.338731+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "tvaram|swe|l1": {
+   "expires": "2026-10-25T21:39:10.590147+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "unosecur|swe|l2": {
@@ -4832,6 +4932,32 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "wissen-technology|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-12T16:44:28.564526+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "max_lpa": 7.8,
+   "min_lpa": 7.8,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-wissen-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "xpanceit|frontend|l1": {
+   "expires": "2026-10-26T17:22:21.758955+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "xpanceit|swe|l1": {
+   "expires": "2026-10-16T23:45:18.565195+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "yash-technologies-middle-east-region|data|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4904,6 +5030,11 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "zonesindia|fullstack|l1": {
+   "expires": "2026-10-22T23:23:46.600341+00:00",
+   "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "zvisbtp|swe|l1": {
    "expires": "2026-10-18T06:53:30.708121+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -4932,8 +5063,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 499,
-  "lookups_today": 53,
+  "lookups_month": 518,
+  "lookups_today": 72,
   "month": "2026-10"
  }
 }
