@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T04:29:47.071436+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-11T10:56:09.151113+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T00:23:37.398288+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-01T05:13:21.894432+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -325,8 +325,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T03:00:36.154970+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-02T18:50:07.298062+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -488,6 +488,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "ansira|devops|l1": {
+   "expires": "2026-10-22T03:13:07.669060+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
   "appinventiv|swe|l1": {
    "expires": "2026-10-26T05:54:09.126812+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -644,6 +649,11 @@
    "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
+  "aspen-technology|swe|l1": {
+   "expires": "2026-10-21T08:59:27.090680+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
   "ata-freight|fullstack|l1": {
    "expires": "2026-10-14T23:10:03.318216+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
@@ -702,8 +712,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T07:46:17.859975+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-08T13:28:49.249255+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -1679,6 +1689,16 @@
    "status": "found",
    "year": 2026
   },
+  "digiletechnologies|fullstack|l1": {
+   "expires": "2026-10-20T04:47:10.729480+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
+  "digiletechnologies|swe|l1": {
+   "expires": "2026-10-27T20:27:00.199756+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
   "digismein|swe|l1": {
    "expires": "2026-10-25T02:51:34.059193+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -2493,6 +2513,11 @@
     }
    ],
    "status": "found"
+  },
+  "googleoperationscenter|swe|l1": {
+   "expires": "2026-10-18T13:20:16.969647+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
   },
   "google|swe|l3": {
    "basis": "base",
@@ -3487,6 +3512,11 @@
    "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
+  "linde-india-ltd|swe|l1": {
+   "expires": "2026-10-19T17:38:13.841872+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
   "linde|data|l1": {
    "expires": "2026-10-17T22:52:14.394313+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -3552,8 +3582,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T15:00:44.218921+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-05T17:59:32.989891+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3813,6 +3843,26 @@
    "expires": "2026-10-21T05:21:35.297292+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "ncratleos|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T23:45:15.035702+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "fresherjobinfo.in",
+     "uri": "https://fresherjobinfo.in/ncr-atleos-off-campus-drive-2025-software-engr-1/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1485076/ncr-corporation-software-engineer-1"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ncrvoyix|devops|l2": {
    "basis": "ctc",
@@ -4225,8 +4275,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T08:45:07.881773+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-04T21:27:24.987541+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4438,6 +4488,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "pwc-ac-india|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-12T05:11:13.484442+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
+   "max_lpa": 10.8,
+   "min_lpa": 9.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/pwc/salaries/software-engineer/levels/l1/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pwc-india|data|l1": {
    "expires": "2026-10-22T17:43:31.022131+00:00",
@@ -5004,8 +5070,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T08:08:22.380825+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-05T15:31:18.760528+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5187,6 +5253,11 @@
   "solventumhealth|devops|l1": {
    "expires": "2026-10-23T14:56:21.421275+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "solventumhealth|swe|l1": {
+   "expires": "2026-10-18T03:19:01.404367+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
   "sourcebae|fullstack|l1": {
@@ -5852,8 +5923,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T09:00:48.731856+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-06T10:57:20.554828+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5932,8 +6003,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T17:01:05.604786+00:00",
-   "looked_up": "2026-10-09T16:12:31+00:00",
+   "expires": "2027-01-08T02:53:00.643756+00:00",
+   "looked_up": "2026-10-09T17:01:22+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6349,8 +6420,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 678,
-  "lookups_today": 232,
+  "lookups_month": 687,
+  "lookups_today": 241,
   "month": "2026-10"
  }
 }
