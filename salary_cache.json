@@ -210,8 +210,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T03:16:57.228510+00:00",
-   "looked_up": "2026-10-09T00:01:28+00:00",
+   "expires": "2027-01-13T00:24:13.612047+00:00",
+   "looked_up": "2026-10-09T01:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -225,6 +225,22 @@
    "expires": "2026-10-20T20:04:21.834290+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
+  },
+  "alten-india|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-01T15:51:06.220762+00:00",
+   "looked_up": "2026-10-09T01:01:22+00:00",
+   "max_lpa": 3.8,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alten-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "amazon|data|l1": {
    "basis": "base",
@@ -641,6 +657,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "btranzsoftware|erp|l1": {
+   "expires": "2026-10-22T19:53:59.621005+00:00",
+   "looked_up": "2026-10-09T01:01:22+00:00",
+   "status": "not_found"
+  },
   "cadence|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -889,6 +910,11 @@
   "crossinghurdles|swe|l1": {
    "expires": "2026-10-17T08:39:46.878129+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "crossnibble|fullstack|l1": {
+   "expires": "2026-10-27T08:10:47.781559+00:00",
+   "looked_up": "2026-10-09T01:01:22+00:00",
    "status": "not_found"
   },
   "cummins-india|data|l1": {
@@ -4579,8 +4605,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 446,
-  "lookups_today": 0,
+  "lookups_month": 449,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
