@@ -210,8 +210,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:20:25.065351+00:00",
-   "looked_up": "2026-10-08T23:01:19+00:00",
+   "expires": "2027-01-10T03:16:57.228510+00:00",
+   "looked_up": "2026-10-09T00:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -4578,9 +4578,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-08",
+  "day": "2026-10-09",
   "lookups_month": 446,
-  "lookups_today": 126,
+  "lookups_today": 0,
   "month": "2026-10"
  }
 }
