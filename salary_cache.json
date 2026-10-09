@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T16:10:36.069191+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-03T14:27:03.469869+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T14:47:31.537204+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-10T21:21:39.787710+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -518,6 +518,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "aptiv|security|l1": {
+   "expires": "2026-10-20T16:21:47.494845+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
   "aptoraims|fullstack|l1": {
    "expires": "2026-10-20T06:30:17.783432+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -712,8 +717,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T13:56:23.373742+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-14T03:26:26.746361+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -828,6 +833,31 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "barclays-bank|mobile|l1": {
+   "expires": "2026-10-25T01:58:17.662409+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
+  "barclays-bank|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T02:42:55.984558+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "max_lpa": 15.2,
+   "min_lpa": 11.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/barclays-shared-services-salaries/software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/barclays/salaries/software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "bcg-x|swe|l1": {
    "expires": "2026-10-28T06:01:16.822839+00:00",
@@ -1272,6 +1302,11 @@
   "cite-ai|swe|l1": {
    "expires": "2026-10-17T10:04:20.808509+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "citi|data|l1": {
+   "expires": "2026-10-29T03:57:29.060183+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
   "citi|mobile|l1": {
@@ -2589,6 +2624,11 @@
    "status": "found",
    "year": 2026
   },
+  "goshdigital|swe|l1": {
+   "expires": "2026-10-25T15:15:50.775516+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
   "goveva-official|swe|l1": {
    "expires": "2026-10-26T14:35:14.057469+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
@@ -3498,6 +3538,11 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
+  "kpg-99-inc-|erp|l1": {
+   "expires": "2026-10-29T19:41:02.471194+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
   "kpmg-us|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3648,8 +3693,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T21:46:20.271847+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-09T07:24:38.535031+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3704,6 +3749,11 @@
   "map-my-crop|devops|l1": {
    "expires": "2026-10-16T19:27:37.670980+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "martian-wall|security|l1": {
+   "expires": "2026-10-25T08:17:07.506140+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
   "mastercard|data|l2": {
@@ -4362,8 +4412,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T16:25:16.235227+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-14T21:10:04.135846+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4940,6 +4990,11 @@
    "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
+  "rohde-schwarz|swe|l1": {
+   "expires": "2026-10-21T14:06:11.816294+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
   "roomsmith-india|fullstack|l1": {
    "expires": "2026-10-25T04:12:45.782991+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -5058,6 +5113,16 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "sandisk|swe|l1": {
+   "expires": "2026-10-25T22:01:25.088064+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
+  "sandisk|swe|l2": {
+   "expires": "2026-10-21T02:03:16.507830+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
   "saskentechnologieslimited|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5157,8 +5222,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T04:44:21.143490+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-03T05:22:58.607641+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6031,8 +6096,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T06:46:57.860231+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-01T01:56:32.583680+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6111,8 +6176,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T22:03:45.837370+00:00",
-   "looked_up": "2026-10-09T21:01:23+00:00",
+   "expires": "2027-01-05T00:40:17.022584+00:00",
+   "looked_up": "2026-10-09T22:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6533,8 +6598,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 703,
-  "lookups_today": 257,
+  "lookups_month": 713,
+  "lookups_today": 267,
   "month": "2026-10"
  }
 }
