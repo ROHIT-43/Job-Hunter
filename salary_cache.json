@@ -34,6 +34,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "aahaas|devops|l1": {
+   "expires": "2026-10-24T03:25:55.622632+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "aanseacore|data|l1": {
    "expires": "2026-10-24T04:15:48.188566+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
@@ -170,8 +175,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:05:24.780600+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-12T17:07:41.941844+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -194,8 +199,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T07:14:59.900153+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-02T10:50:29.747531+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -289,8 +294,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:51:46.349997+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-12T03:36:05.545901+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -366,6 +371,16 @@
    "status": "found",
    "year": 2026
   },
+  "amd|swe|l1": {
+   "expires": "2026-10-30T04:22:11.335192+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "american-express|devops|l1": {
+   "expires": "2026-10-20T05:44:34.823157+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "american-express|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -416,6 +431,11 @@
   "ankush-aggarwal-associates|swe|l1": {
    "expires": "2026-10-28T19:43:24.980032+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "appinventiv|swe|l1": {
+   "expires": "2026-10-26T05:54:09.126812+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "appleberrytech|swe|l1": {
@@ -710,6 +730,31 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "birlasoft|erp|l1": {
+   "expires": "2026-10-18T18:14:41.935802+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "birlasoft|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T00:40:46.785029+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/birlasoft-salaries/trainee-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/birlasoft-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "black-and-veatch|swe|l1": {
    "expires": "2026-10-25T05:46:27.087935+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -777,6 +822,11 @@
    "status": "found",
    "year": 2026
   },
+  "bookingholdings|data|l2": {
+   "expires": "2026-10-20T22:17:57.176476+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "bookingholdings|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -803,9 +853,30 @@
    "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
+  "brillio|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T04:11:32.184678+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/brillio-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "bristlecone|erp|l1": {
    "expires": "2026-10-19T04:00:51.351009+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "bristol-myers-squibb|data|l1": {
+   "expires": "2026-10-18T06:40:32.729967+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "broccoli-com|swe|l2": {
@@ -816,6 +887,11 @@
   "btranzsoftware|erp|l1": {
    "expires": "2026-10-22T19:53:59.621005+00:00",
    "looked_up": "2026-10-09T01:01:22+00:00",
+   "status": "not_found"
+  },
+  "c3i-hub|swe|l1": {
+   "expires": "2026-10-26T10:37:31.180725+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "cadence|swe|l2": {
@@ -874,6 +950,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "capgemini|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T08:33:25.299099+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 11.8,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/salesforce-developer/mumbai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "capgemini|frontend|l2": {
    "basis": "ctc",
@@ -963,6 +1055,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "certifyos|swe|l2": {
+   "expires": "2026-10-22T08:16:01.655970+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "chessbrainz-chessacademy|fullstack|l1": {
    "expires": "2026-10-21T22:15:04.981742+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
@@ -987,6 +1084,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cisco|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-05T22:52:57.004300+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 27.6,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/cisco/salaries/software-engineer/title/full-stack-software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1687698/Cisco-or-G6-(SDE-II)-or-Bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cite-ai|swe|l1": {
    "expires": "2026-10-17T10:04:20.808509+00:00",
@@ -1361,6 +1478,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "diamondatelierinc|frontend|l1": {
+   "expires": "2026-10-26T05:17:15.204884+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "digiletechnologies|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1517,6 +1639,31 @@
    "expires": "2026-10-27T11:55:20.676337+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
+  },
+  "emerson|erp|l1": {
+   "expires": "2026-10-28T01:04:19.676185+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "emerson|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T18:40:40.637027+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "freshershunt.in",
+     "uri": "https://freshershunt.in/emerson-software-engineer-trainee-2026/"
+    },
+    {
+     "title": "job4freshers.co.in",
+     "uri": "https://job4freshers.co.in/emerson-software-engineer-trainee/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "encoreitsolutions|security|l1": {
    "expires": "2026-10-21T15:04:53.463439+00:00",
@@ -1819,6 +1966,11 @@
    "status": "found",
    "year": 2026
   },
+  "foodhubuk|swe|l1": {
+   "expires": "2026-10-18T09:36:08.685609+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -2102,6 +2254,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "golden-opportunities-pvt-ltd|fullstack|l1": {
+   "expires": "2026-10-29T19:27:53.815752+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
   },
   "goodspaceai|swe|l1": {
    "basis": "posted",
@@ -2644,6 +2801,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "innovaesi|erp|l1": {
+   "expires": "2026-10-18T09:53:03.312373+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "innovaesi|swe|l1": {
    "expires": "2026-10-21T01:00:40.333801+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -2724,6 +2886,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "itc-infotech|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T00:33:50.660626+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 12.5,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/3i-infotech-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "itc-infotech|erp|l1": {
    "basis": "ctc",
@@ -3098,8 +3276,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T11:19:48.467341+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-12T11:02:45.449443+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3294,6 +3472,22 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "mphasis|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T02:08:10.785163+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/mphasis-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "mriti-infosystems|erp|l1": {
    "expires": "2026-10-23T00:52:39.558315+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
@@ -3458,6 +3652,16 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "nocko|erp|l1": {
+   "expires": "2026-10-17T22:26:27.767771+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "nopadvance|swe|l1": {
+   "expires": "2026-10-21T08:21:21.939197+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "novbliss-consultancy-private-limited|data|l1": {
    "expires": "2026-10-29T18:55:57.976244+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -3591,6 +3795,11 @@
    "status": "found",
    "year": 2026
   },
+  "omnissa|security|l1": {
+   "expires": "2026-10-24T00:21:52.631397+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "omnissa|swe|l1": {
    "expires": "2026-10-27T10:54:51.197055+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3624,6 +3833,11 @@
   "origin-autonomy|qa|l1": {
    "expires": "2026-10-26T02:02:05.650208+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "orioninnovation|frontend|l1": {
+   "expires": "2026-10-21T04:34:35.100193+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "palletbees|erp|l1": {
@@ -3676,6 +3890,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "paydohmoney|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2026-12-31T16:04:17.485361+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "peak-42-innovation-labs-pvt-ltd|mobile|l3": {
    "expires": "2026-10-13T13:23:47.091980+00:00",
@@ -3744,6 +3972,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "plexobit|erp|l1": {
+   "expires": "2026-10-16T13:50:30.551677+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "pluswealth|swe|l1": {
    "expires": "2026-10-18T00:33:40.373706+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3792,6 +4025,11 @@
   "principle-pride|swe|l1": {
    "expires": "2026-10-17T12:23:51.737096+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "procore-technologies|mobile|l2": {
+   "expires": "2026-10-25T12:25:54.314751+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "propbulls-solutions|swe|l1": {
@@ -3964,6 +4202,11 @@
    "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
+  "rapidbrains|erp|l1": {
+   "expires": "2026-10-20T22:29:38.154175+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "rapiddmls|swe|l1": {
    "expires": "2026-10-20T00:34:16.202749+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -4059,6 +4302,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "rgbwebtech|swe|l1": {
+   "expires": "2026-10-27T01:14:10.058559+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "rhevix|data|l1": {
    "expires": "2026-10-28T11:16:11.886658+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -4143,6 +4391,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/rubrik/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "rws-group|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-09T11:05:28.065809+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/rws-group-salaries/front-end-developer"
     }
    ],
    "status": "found",
@@ -4318,8 +4582,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T13:01:44.806184+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-08T21:22:28.154157+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4493,9 +4757,19 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "stackfusion-pvt-ltd|mobile|l1": {
+   "expires": "2026-10-24T15:59:34.012481+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "star-knowledge-ventures|mobile|l1": {
    "expires": "2026-10-17T01:33:26.786455+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "starsoftware-official|swe|l1": {
+   "expires": "2026-10-25T10:27:30.817594+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "state-street|erp|l1": {
@@ -4725,6 +4999,11 @@
   "tec4-advisory-india-private-limited|security|l1": {
    "expires": "2026-10-20T15:08:59.837511+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "tech-digitem|swe|l1": {
+   "expires": "2026-10-16T13:32:09.295975+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "tech-mahindra|devops|l1": {
@@ -5060,8 +5339,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T23:27:16.548333+00:00",
-   "looked_up": "2026-10-09T10:01:30+00:00",
+   "expires": "2027-01-06T05:31:10.472916+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5070,6 +5349,26 @@
     }
    ],
    "status": "found"
+  },
+  "ustglobal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T18:06:55.364799+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 19.7,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ust-salaries/software-engineer/bengaluru-location"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/ust/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ustglobal|swe|l3": {
    "basis": "ctc",
@@ -5271,9 +5570,19 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "weareuplers|swe|l1": {
+   "expires": "2026-10-24T17:50:42.477339+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
   "webkit24.com|frontend|l1": {
    "expires": "2026-10-28T23:26:06.412114+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
+  "wesee-agi|swe|l1": {
+   "expires": "2026-10-18T08:25:10.850206+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "wexinc|swe|l1": {
@@ -5336,6 +5645,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "worldlineglobal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T23:44:16.268433+00:00",
+   "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/worldline-global-services-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "wsp-consultants-india-ltd|swe|l1": {
    "basis": "ctc",
@@ -5477,8 +5802,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 570,
-  "lookups_today": 124,
+  "lookups_month": 607,
+  "lookups_today": 161,
   "month": "2026-10"
  }
 }
