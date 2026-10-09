@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T14:59:35.693500+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-02T23:03:19.152978+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T09:22:36.453193+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-04T06:54:23.406511+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -712,8 +712,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T08:54:59.111547+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-03T18:44:06.605533+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -1274,6 +1274,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "citi|mobile|l1": {
+   "expires": "2026-10-27T06:06:58.584593+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
   "citi|swe|l1": {
    "expires": "2026-10-26T22:25:26.278305+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1375,6 +1380,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cognizant|erp|l1": {
+   "expires": "2026-10-22T01:35:02.950759+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
   },
   "cognizant|swe|l1": {
    "basis": "ctc",
@@ -2144,6 +2154,11 @@
    "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
+  "fis|swe|l2": {
+   "expires": "2026-10-17T17:24:00.039617+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
   "flexintl|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2180,6 +2195,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "flowserve|swe|l1": {
+   "expires": "2026-10-21T04:56:29.173773+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
   },
   "fnz|swe|l1": {
    "basis": "ctc",
@@ -2457,6 +2477,11 @@
    "status": "found",
    "year": 2026
   },
+  "globallogic|devops|l1": {
+   "expires": "2026-10-28T10:06:19.480837+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
   "globallogic|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2492,6 +2517,11 @@
   "gm-moto-private-limited-robotics|swe|l1": {
    "expires": "2026-10-29T20:48:50.461077+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "gms-chicago|erp|l1": {
+   "expires": "2026-10-27T11:58:40.830180+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "status": "not_found"
   },
   "gobefisc|swe|l1": {
@@ -3618,8 +3648,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T06:28:50.785459+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-13T15:00:26.712619+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4332,8 +4362,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T18:44:52.331249+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-11T17:35:23.587205+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5127,8 +5157,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T02:42:40.695239+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-02T10:30:15.632426+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5206,6 +5236,11 @@
   "signifycompany|erp|l1": {
    "expires": "2026-10-18T17:02:22.918536+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
+   "status": "not_found"
+  },
+  "sitetracker|erp|l2": {
+   "expires": "2026-10-18T09:17:44.257569+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "status": "not_found"
   },
   "siyanee-analytics|data|l1": {
@@ -5451,6 +5486,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "synechron|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T15:38:10.683640+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/synechron-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "systemsofttech|frontend|l1": {
    "basis": "base",
@@ -5980,8 +6031,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T09:34:12.621190+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-06T03:43:35.840354+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6060,8 +6111,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T05:19:22.282481+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+   "expires": "2027-01-13T15:03:20.470812+00:00",
+   "looked_up": "2026-10-09T19:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6482,8 +6533,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 695,
-  "lookups_today": 249,
+  "lookups_month": 703,
+  "lookups_today": 257,
   "month": "2026-10"
  }
 }
