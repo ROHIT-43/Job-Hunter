@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T10:56:09.151113+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-12T14:59:35.693500+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T05:13:21.894432+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-08T09:22:36.453193+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -325,8 +325,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T18:50:07.298062+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-01T02:41:26.802758+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -712,8 +712,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T13:28:49.249255+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-11T08:54:59.111547+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -1031,6 +1031,11 @@
   "broccoli-com|swe|l2": {
    "expires": "2026-10-25T15:12:32.967027+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "bruntworkcareers|fullstack|l1": {
+   "expires": "2026-10-30T13:37:41.227895+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "status": "not_found"
   },
   "btranzsoftware|erp|l1": {
@@ -1435,6 +1440,11 @@
   "consulligent|mobile|l1": {
    "expires": "2026-10-16T03:47:56.735996+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "cop-your-drip|frontend|l1": {
+   "expires": "2026-10-30T08:36:19.178004+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "status": "not_found"
   },
   "copeland|swe|l1": {
@@ -1999,6 +2009,11 @@
    "status": "found",
    "year": 2024
   },
+  "expediagroup|data|l1": {
+   "expires": "2026-10-25T19:07:58.853829+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "status": "not_found"
+  },
   "expediagroup|frontend|l2": {
    "basis": "base",
    "confidence": "low",
@@ -2034,6 +2049,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "expediagroup|security|l1": {
+   "expires": "2026-10-20T17:25:16.375101+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "status": "not_found"
   },
   "expediagroup|swe|l2": {
    "basis": "base",
@@ -3062,6 +3082,22 @@
    "status": "found",
    "year": 2026
   },
+  "ingram-micro|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-02T04:53:00.980481+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "max_lpa": 8.8,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ingram-micro-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "inkersai|fullstack|l1": {
    "expires": "2026-10-27T06:24:55.703575+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -3582,8 +3618,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T17:59:32.989891+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-05T06:28:50.785459+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3782,6 +3818,22 @@
    "expires": "2026-10-14T22:10:32.272896+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
+  },
+  "motorolasolutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T14:00:45.465885+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "max_lpa": 4.9,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/kodiak-networks-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "mouser-electronics|frontend|l1": {
    "expires": "2026-10-16T14:29:26.081218+00:00",
@@ -4121,6 +4173,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "nvidia|frontend|l1": {
+   "expires": "2026-10-22T20:21:56.092900+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "status": "not_found"
+  },
   "nxtalign-innovation|swe|l1": {
    "expires": "2026-10-27T09:01:12.806261+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -4275,8 +4332,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T21:27:24.987541+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-05T18:44:52.331249+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5070,8 +5127,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T15:31:18.760528+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-05T02:42:40.695239+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5923,8 +5980,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T10:57:20.554828+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-14T09:34:12.621190+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6003,8 +6060,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T02:53:00.643756+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
+   "expires": "2027-01-03T05:19:22.282481+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6013,6 +6070,11 @@
     }
    ],
    "status": "found"
+  },
+  "veradigm|swe|l1": {
+   "expires": "2026-10-16T22:55:58.564710+00:00",
+   "looked_up": "2026-10-09T18:01:26+00:00",
+   "status": "not_found"
   },
   "versich|swe|l1": {
    "expires": "2026-10-20T20:46:06.917290+00:00",
@@ -6420,8 +6482,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 687,
-  "lookups_today": 241,
+  "lookups_month": 695,
+  "lookups_today": 249,
   "month": "2026-10"
  }
 }
