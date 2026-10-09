@@ -175,8 +175,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T13:21:46.927129+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-06T05:19:48.727879+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -199,8 +199,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T10:45:17.989214+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-13T11:05:52.453066+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -294,8 +294,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T15:43:23.355593+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-07T22:51:05.155817+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -2264,6 +2264,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "gobefisc|swe|l1": {
+   "expires": "2026-10-25T19:30:29.101498+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "gogreyorange|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -2511,6 +2516,22 @@
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "hsbc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T06:13:32.904969+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 7.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hsbc-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "htc-global-services|devops|l1": {
    "basis": "base",
@@ -3001,6 +3022,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "izicart|swe|l1": {
+   "expires": "2026-10-30T00:01:26.233322+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "jagdushah-technologies-private-limited|swe|l1": {
    "expires": "2026-10-16T21:41:04.417900+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -3171,6 +3197,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "konecta-group|erp|l1": {
+   "expires": "2026-10-22T22:39:56.076043+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "kpmg-us|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3306,8 +3337,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T22:13:59.207360+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-04T03:52:39.525478+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3332,6 +3363,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "maestrotech1|swe|l1": {
+   "expires": "2026-10-24T22:46:20.111078+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
   },
   "makoitlab|swe|l1": {
    "basis": "ctc",
@@ -3502,6 +3538,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "mouser-electronics|frontend|l1": {
+   "expires": "2026-10-16T14:29:26.081218+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "mphasis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3526,6 +3567,11 @@
   "msrcosmos-llc|data|l1": {
    "expires": "2026-10-15T00:42:31.584805+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "mumba-technologies|swe|l1": {
+   "expires": "2026-10-20T15:22:33.164202+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
   "mycareernet|swe|l1": {
@@ -3870,6 +3916,26 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "opentext|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-13T10:32:16.451387+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 6.1,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/f3ed38c7/OpenText-Corp.-Hyderabad"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/opentext-technologies-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "orbion-infotech|erp|l1": {
    "expires": "2026-10-19T03:30:10.056155+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -3939,8 +4005,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T20:21:02.172191+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-11T21:34:53.899742+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4632,8 +4698,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T07:50:50.472124+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-01T08:04:17.369281+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4802,9 +4868,29 @@
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
+  "sofvare|swe|l1": {
+   "expires": "2026-10-26T18:45:24.191681+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "sourcebae|fullstack|l1": {
    "expires": "2026-10-19T04:20:57.654049+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "sourceright|frontend|l1": {
+   "expires": "2026-10-26T02:25:53.525592+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "sourceright|fullstack|l1": {
+   "expires": "2026-10-25T04:44:31.425349+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "sourceright|swe|l1": {
+   "expires": "2026-10-16T15:14:03.613682+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
   "sourcingxpress|swe|l1": {
@@ -5155,6 +5241,11 @@
    "status": "found",
    "year": 2026
   },
+  "tesco-bengaluru|security|l1": {
+   "expires": "2026-10-29T01:32:55.771154+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "tesco-bengaluru|swe|l2": {
    "basis": "ctc",
    "confidence": "medium",
@@ -5174,6 +5265,27 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tesco-bengaluru|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T19:59:45.390703+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "max_lpa": 44.0,
+   "min_lpa": 44.0,
+   "sources": [
+    {
+     "title": "teamblind.com",
+     "uri": "https://www.teamblind.com/post/tesco-hsc-bangalore-tc-expectation-spe0xv3s"
+    }
+   ],
+   "status": "found",
+   "year": 2020
+  },
+  "tesco-technology|security|l1": {
+   "expires": "2026-10-18T22:22:32.654011+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
   },
   "tesco-technology|swe|l2": {
    "basis": "ctc",
@@ -5409,8 +5521,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T00:13:35.681254+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-12T11:25:19.701332+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5476,11 +5588,16 @@
    "status": "found",
    "year": 2026
   },
+  "valuementor|mobile|l1": {
+   "expires": "2026-10-27T04:48:07.824855+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T22:38:15.745790+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
+   "expires": "2027-01-01T22:44:50.885111+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -5621,6 +5738,11 @@
   "vysystems|erp|l1": {
    "expires": "2026-10-23T09:03:06.004941+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "wander-trip|fullstack|l1": {
+   "expires": "2026-10-25T12:32:15.866043+00:00",
+   "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
   "waphire|swe|l1": {
@@ -5886,8 +6008,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 621,
-  "lookups_today": 175,
+  "lookups_month": 638,
+  "lookups_today": 192,
   "month": "2026-10"
  }
 }
