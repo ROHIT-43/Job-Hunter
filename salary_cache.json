@@ -225,8 +225,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T23:26:04.043520+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
+   "expires": "2027-01-13T12:42:51.637585+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -348,6 +348,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "aptita-talent-experts|erp|l1": {
+   "expires": "2026-10-18T16:20:43.525471+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "aqm-technologies|qa|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -412,6 +417,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "artechllc|swe|l1": {
+   "expires": "2026-10-29T21:35:19.283977+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
   },
   "ascendion|fullstack|l1": {
    "basis": "ctc",
@@ -805,6 +815,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "chessbrainz-chessacademy|fullstack|l1": {
+   "expires": "2026-10-21T22:15:04.981742+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
   },
   "cisco|swe|l1": {
    "basis": "base",
@@ -1741,6 +1756,11 @@
    "status": "found",
    "year": 2026
   },
+  "gitforce|frontend|l1": {
+   "expires": "2026-10-21T15:03:56.953008+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "gitlab-com|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1868,6 +1888,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "goveva-official|swe|l1": {
+   "expires": "2026-10-26T14:35:14.057469+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
   },
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-10-28T22:00:12.959330+00:00",
@@ -2763,6 +2788,20 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "maayasthra|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-11T15:45:42.802706+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "maersk-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3383,6 +3422,11 @@
    "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
+  "prophecytechs|security|l1": {
+   "expires": "2026-10-26T09:08:12.516773+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "proxelera|swe|l1": {
    "expires": "2026-10-16T18:31:11.995986+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -3879,6 +3923,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "sl-india-software-center|security|l1": {
+   "expires": "2026-10-27T13:45:04.755605+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "sliceit|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3898,6 +3947,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "smart-ims|data|l1": {
+   "expires": "2026-10-23T04:29:20.193061+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
   },
   "smart-theta|fullstack|l1": {
    "expires": "2026-10-22T11:13:27.215961+00:00",
@@ -4642,6 +4696,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "webkit24.com|frontend|l1": {
+   "expires": "2026-10-28T23:26:06.412114+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "wexinc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4719,6 +4778,11 @@
    "status": "found",
    "year": 2026
   },
+  "yodaplus|security|l1": {
+   "expires": "2026-10-18T10:14:08.482892+00:00",
+   "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
   "zensar|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4777,8 +4841,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 476,
-  "lookups_today": 30,
+  "lookups_month": 486,
+  "lookups_today": 40,
   "month": "2026-10"
  }
 }
