@@ -170,8 +170,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T08:58:30.516947+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
+   "expires": "2027-01-04T00:07:19.885359+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -190,6 +190,20 @@
    "expires": "2026-10-15T07:32:48.614480+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
+  },
+  "acura-solutions-ltd|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-03T06:08:18.392806+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "adobe|swe|l1": {
    "basis": "ctc",
@@ -210,6 +224,11 @@
   "adswerve-inc-|swe|l2": {
    "expires": "2026-10-23T19:59:24.455571+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "agochar|swe|l1": {
+   "expires": "2026-10-25T17:01:30.511599+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "air-arabia|mobile|l1": {
@@ -265,8 +284,8 @@
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T15:54:02.935044+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
+   "expires": "2027-01-08T11:02:02.211179+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -565,6 +584,22 @@
    "expires": "2026-10-13T22:57:38.469800+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
+  },
+  "avisysservices|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T08:20:34.263311+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 9.3,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/avisys-salaries/salesforce-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "axismyindia1404|swe|l1": {
    "expires": "2026-10-29T22:37:18.305867+00:00",
@@ -886,6 +921,16 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "centotech|erp|l1": {
+   "expires": "2026-10-17T09:38:55.743377+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "centotech|swe|l1": {
+   "expires": "2026-10-23T15:45:48.999363+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
   },
   "chessbrainz-chessacademy|fullstack|l1": {
    "expires": "2026-10-21T22:15:04.981742+00:00",
@@ -1229,6 +1274,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "dexcom|swe|l1": {
+   "expires": "2026-10-25T20:48:53.601900+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
   "digiletechnologies|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1364,6 +1414,11 @@
   "elliott-moss-consulting|devops|l1": {
    "expires": "2026-10-18T22:18:26.389578+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "emagine|swe|l1": {
+   "expires": "2026-10-27T11:55:20.676337+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "encoreitsolutions|security|l1": {
@@ -1925,6 +1980,11 @@
    "status": "found",
    "year": 2026
   },
+  "gm-moto-private-limited-robotics|swe|l1": {
+   "expires": "2026-10-29T20:48:50.461077+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
   "gogreyorange|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -2010,6 +2070,30 @@
    "expires": "2026-10-22T03:16:01.867789+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
+  },
+  "hackerkernel|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-07T02:24:10.108637+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Hackerkernel-1/salaries/Developer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Hackerkernel-1/jobs"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/HackerKernel-Salaries-E2405926.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "harisan-technologies|swe|l1": {
    "expires": "2026-10-29T15:16:01.233602+00:00",
@@ -2787,6 +2871,11 @@
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
+  "kuwait-food-company-americana|devops|l1": {
+   "expires": "2026-10-26T00:03:29.220489+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2887,8 +2976,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T04:32:59.944399+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
+   "expires": "2027-01-06T06:54:13.525750+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3106,6 +3195,11 @@
   "navatech-ai|qa|l1": {
    "expires": "2026-10-15T22:29:51.142398+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "navsan|data|l1": {
+   "expires": "2026-10-21T21:58:38.452141+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "nazztec|swe|l1": {
@@ -3548,6 +3642,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "preciselydata|swe|l1": {
+   "expires": "2026-10-18T12:10:56.106445+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
   "primetrace|mobile|l1": {
    "expires": "2026-10-17T07:05:25.572908+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3561,6 +3660,11 @@
   "principle-pride|swe|l1": {
    "expires": "2026-10-17T12:23:51.737096+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "propbulls-solutions|swe|l1": {
+   "expires": "2026-10-30T05:05:01.930791+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "prophecytechs|security|l1": {
@@ -3728,6 +3832,30 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "razorpay|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-03T01:54:09.374296+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 22.5,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1515478/razorpay-sde-1-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1637648/razorpay-sde-1-15-yoe"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1948416/razorpay-sde-1-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "real-jobs-consulting-services2|mobile|l1": {
    "expires": "2026-10-24T05:55:18.169034+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3878,6 +4006,11 @@
    "looked_up": "2026-10-09T06:01:28+00:00",
    "status": "not_found"
   },
+  "saatvik-agro-processors-private-limited|mobile|l1": {
+   "expires": "2026-10-16T18:42:06.927836+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3943,6 +4076,22 @@
    "expires": "2026-10-22T00:47:50.246436+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
+  },
+  "saskentechnologieslimited|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T18:59:21.365158+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/jobs/sasken-jobs-cmp"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "saturo-technologies-private-limited|mobile|l1": {
    "expires": "2026-10-20T19:57:12.860403+00:00",
@@ -4014,6 +4163,20 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-02T18:31:21.364738+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
    "expires": "2026-10-16T16:51:53.127147+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -4067,6 +4230,21 @@
   "signifycompany|erp|l1": {
    "expires": "2026-10-18T17:02:22.918536+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
+   "status": "not_found"
+  },
+  "siyanee-analytics|data|l1": {
+   "expires": "2026-10-20T15:51:43.051717+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "siyanee-analytics|frontend|l1": {
+   "expires": "2026-10-19T00:53:57.918328+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "siyanee-analytics|mobile|l1": {
+   "expires": "2026-10-22T21:18:05.723522+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "skillorbil|security|l1": {
@@ -4238,6 +4416,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "talent-matics|frontend|l1": {
+   "expires": "2026-10-28T11:03:40.835876+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
   },
   "talentgigs|devops|l1": {
    "expires": "2026-10-21T19:24:14.795972+00:00",
@@ -4484,6 +4667,11 @@
   "the10xagency|swe|l1": {
    "expires": "2026-10-17T05:31:24.957286+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "themesoft-inc.|data|l1": {
+   "expires": "2026-10-21T04:53:27.887077+00:00",
+   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "themesoft-inc.|swe|l1": {
@@ -5063,8 +5251,8 @@
  },
  "meta": {
   "day": "2026-10-09",
-  "lookups_month": 518,
-  "lookups_today": 72,
+  "lookups_month": 538,
+  "lookups_today": 92,
   "month": "2026-10"
  }
 }
