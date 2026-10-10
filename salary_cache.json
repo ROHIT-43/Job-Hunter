@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T00:43:12.673693+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-05T13:12:04.358510+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T14:29:59.472302+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-05T08:44:12.826435+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -732,8 +732,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T00:33:26.119244+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-02T16:33:53.040342+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2271,6 +2271,11 @@
    "status": "found",
    "year": 2026
   },
+  "foliox-ai|mobile|l1": {
+   "expires": "2026-10-24T03:07:19.117513+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
+   "status": "not_found"
+  },
   "foodhubuk|swe|l1": {
    "expires": "2026-10-18T09:36:08.685609+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -3744,8 +3749,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T07:22:55.139651+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-15T00:12:19.903238+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4512,8 +4517,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:14:14.230078+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-03T11:38:06.236910+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5337,8 +5342,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T19:32:28.355071+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-11T13:33:03.557441+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6073,6 +6078,11 @@
    "status": "found",
    "year": 2026
   },
+  "thinkdatax|fullstack|l2": {
+   "expires": "2026-10-18T19:07:00.623492+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
+   "status": "not_found"
+  },
   "thyssenkrupp-nucera|erp|l1": {
    "expires": "2026-10-20T05:36:22.914937+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -6232,8 +6242,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T21:04:53.253360+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-07T00:32:54.571862+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6322,8 +6332,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T06:57:53.965424+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
+   "expires": "2027-01-12T13:56:59.679858+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6367,6 +6377,43 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "virtusa|data|l1": {
+   "expires": "2026-10-23T20:01:55.068521+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
+   "status": "not_found"
+  },
+  "virtusa|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T03:23:28.882596+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/virtusa-software-services-salaries/associate-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "virtusa|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T19:13:46.341485+00:00",
+   "looked_up": "2026-10-10T03:01:20+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/virtusa-software-services-salaries/associate-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "visa|fullstack|l2": {
    "basis": "base",
@@ -6749,8 +6796,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 735,
-  "lookups_today": 17,
+  "lookups_month": 740,
+  "lookups_today": 22,
   "month": "2026-10"
  }
 }
