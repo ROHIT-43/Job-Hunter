@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T23:23:43.618781+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-10T03:14:04.734701+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T12:41:58.569536+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-03T21:41:46.823324+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -498,6 +498,11 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "anything-anywhere|mobile|l1": {
+   "expires": "2026-10-29T07:12:31.307784+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
   "appinventiv|swe|l1": {
    "expires": "2026-10-26T05:54:09.126812+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -722,8 +727,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T21:33:58.545751+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-10T11:19:25.684171+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2338,6 +2343,11 @@
    "status": "found",
    "year": 2026
   },
+  "gamblingcareers|swe|l2": {
+   "expires": "2026-10-25T06:09:44.655278+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
   "gbs4u|devops|l1": {
    "expires": "2026-10-21T21:33:35.156520+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -3729,8 +3739,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T04:33:35.702113+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-01T20:56:54.149069+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4438,6 +4448,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "overseas-cyber-technical-services-pvt-ltd|swe|l1": {
+   "expires": "2026-10-27T07:26:29.139959+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
   "palletbees|erp|l1": {
    "expires": "2026-10-23T08:32:22.272197+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -4492,8 +4507,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:20:17.043798+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-04T01:37:52.513676+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4961,6 +4976,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "redgrape|frontend|l1": {
+   "expires": "2026-10-20T10:52:16.161364+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
   "redwing-automation|swe|l1": {
    "expires": "2026-10-18T13:33:32.379025+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -5307,8 +5327,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T22:24:35.595399+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-02T21:17:36.664413+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6186,8 +6206,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T20:51:04.509971+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-08T02:13:32.338015+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6276,8 +6296,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T04:07:11.462301+00:00",
-   "looked_up": "2026-10-10T00:50:44+00:00",
+   "expires": "2027-01-10T17:48:00.211284+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6516,6 +6536,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "wipro|swe|l1": {
+   "expires": "2026-10-18T02:07:31.309841+00:00",
+   "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
   "wisdomai-inc|swe|l1": {
    "expires": "2026-10-28T05:16:25.702706+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -6698,8 +6723,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 727,
-  "lookups_today": 9,
+  "lookups_month": 732,
+  "lookups_today": 14,
   "month": "2026-10"
  }
 }
