@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T13:12:04.358510+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-07T02:29:30.660161+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T08:44:12.826435+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-05T08:25:03.108356+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -732,8 +732,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T16:33:53.040342+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-12T17:10:39.590281+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3749,8 +3749,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T00:12:19.903238+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-09T18:34:54.262015+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4517,8 +4517,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T11:38:06.236910+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-05T23:24:04.277558+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5342,8 +5342,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T13:33:03.557441+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-01T13:31:40.289062+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6242,8 +6242,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T00:32:54.571862+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-12T13:35:00.565642+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6309,6 +6309,11 @@
    "status": "found",
    "year": 2026
   },
+  "valgenesis-inc|swe|l1": {
+   "expires": "2026-10-28T14:35:19.110042+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
+   "status": "not_found"
+  },
   "valuementor|mobile|l1": {
    "expires": "2026-10-27T04:48:07.824855+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
@@ -6332,8 +6337,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T13:56:59.679858+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
+   "expires": "2027-01-04T02:58:39.315641+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6640,6 +6645,11 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "workelate|fullstack|l3": {
+   "expires": "2026-10-23T13:07:44.892215+00:00",
+   "looked_up": "2026-10-10T04:01:22+00:00",
+   "status": "not_found"
+  },
   "worldlineglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6796,8 +6806,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 740,
-  "lookups_today": 22,
+  "lookups_month": 742,
+  "lookups_today": 24,
   "month": "2026-10"
  }
 }
