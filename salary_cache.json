@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T01:21:42.996426+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
+   "expires": "2027-01-13T08:05:58.003276+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -989,6 +989,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "beyondata-gmbh|devops|l1": {
+   "expires": "2026-10-31T09:35:45.612779+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
   "beyoung-in|fullstack|l1": {
    "expires": "2026-10-20T21:43:28.882206+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -1632,6 +1637,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "credit-agricole-cib|devops|l1": {
+   "expires": "2026-10-24T21:54:14.541216+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
   "crewliajobs|swe|l1": {
    "expires": "2026-10-24T15:28:08.461732+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
@@ -2033,8 +2043,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T16:17:12.714313+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
+   "expires": "2027-01-03T07:14:33.921759+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2308,8 +2318,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:20:37.873157+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
+   "expires": "2027-01-02T07:37:35.708344+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3916,8 +3926,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T22:50:56.666921+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
+   "expires": "2027-01-04T20:04:35.237030+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -5999,8 +6009,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T02:00:36.101569+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
+   "expires": "2027-01-01T22:13:55.508730+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6027,6 +6037,11 @@
   "sociable-tech-ventures|fullstack|l1": {
    "expires": "2026-10-30T12:22:07.294704+00:00",
    "looked_up": "2026-10-10T20:01:20+00:00",
+   "status": "not_found"
+  },
+  "sofodel|frontend|l1": {
+   "expires": "2026-10-30T05:03:03.490461+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "status": "not_found"
   },
   "softwareone|erp|l1": {
@@ -6468,6 +6483,11 @@
   "technosys-solutions-inc|swe|l1": {
    "expires": "2026-10-20T06:05:35.114037+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
+   "status": "not_found"
+  },
+  "techtamer-studio|swe|l1": {
+   "expires": "2026-10-22T04:26:37.992641+00:00",
+   "looked_up": "2026-10-10T21:01:24+00:00",
    "status": "not_found"
   },
   "teknikoz|erp|l1": {
@@ -7429,8 +7449,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 826,
-  "lookups_today": 108,
+  "lookups_month": 830,
+  "lookups_today": 112,
   "month": "2026-10"
  }
 }
