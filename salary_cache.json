@@ -742,8 +742,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T18:05:42.401031+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
+   "expires": "2027-01-10T05:40:54.779012+00:00",
+   "looked_up": "2026-10-10T09:01:19+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -902,6 +902,11 @@
   "bctglobal|fullstack|l1": {
    "expires": "2026-10-22T07:35:39.141635+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "beachclubs-ae|swe|l1": {
+   "expires": "2026-10-24T18:56:28.225651+00:00",
+   "looked_up": "2026-10-10T09:01:19+00:00",
    "status": "not_found"
   },
   "beghou-consulting|swe|l1": {
@@ -4592,8 +4597,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:33:14.304281+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
+   "expires": "2027-01-08T16:16:29.207453+00:00",
+   "looked_up": "2026-10-10T09:01:19+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4980,6 +4985,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "quickfolks|frontend|l1": {
+   "expires": "2026-10-23T17:41:17.271483+00:00",
+   "looked_up": "2026-10-10T09:01:19+00:00",
+   "status": "not_found"
   },
   "raasagency|swe|l1": {
    "expires": "2026-10-21T09:30:46.932056+00:00",
@@ -6442,8 +6452,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T15:15:23.641274+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
+   "expires": "2027-01-06T00:04:20.649619+00:00",
+   "looked_up": "2026-10-10T09:01:19+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6916,8 +6926,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 764,
-  "lookups_today": 46,
+  "lookups_month": 766,
+  "lookups_today": 48,
   "month": "2026-10"
  }
 }
