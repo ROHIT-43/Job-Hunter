@@ -1,5 +1,10 @@
 {
  "entries": {
+  "11zaofficial|mobile|l1": {
+   "expires": "2026-10-20T05:55:11.041865+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
+   "status": "not_found"
+  },
   "1onestory|qa|l1": {
    "expires": "2026-10-25T00:47:11.099848+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -763,8 +768,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T00:40:08.114704+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
+   "expires": "2027-01-03T06:43:03.366906+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -923,6 +928,11 @@
   "bctglobal|fullstack|l1": {
    "expires": "2026-10-22T07:35:39.141635+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "bds-ai-digital-solutions-pvt-ltd|data|l1": {
+   "expires": "2026-10-26T08:47:39.038840+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
   "beachclubs-ae|swe|l1": {
@@ -1959,8 +1969,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T12:26:14.848406+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
+   "expires": "2027-01-10T09:33:22.631060+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -4377,6 +4387,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "nordson-corporation|swe|l2": {
+   "expires": "2026-10-30T05:12:03.469125+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
+   "status": "not_found"
+  },
   "novbliss-consultancy-private-limited|data|l1": {
    "expires": "2026-10-29T18:55:57.976244+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -5002,6 +5017,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qualitrol|swe|l1": {
+   "expires": "2026-10-25T10:13:33.253143+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
+   "status": "not_found"
   },
   "quantumheaps|frontend|l1": {
    "expires": "2026-10-26T19:48:25.341580+00:00",
@@ -6130,6 +6150,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "technosthan|fullstack|l1": {
+   "expires": "2026-10-25T12:45:18.569693+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
+   "status": "not_found"
+  },
   "technosys-solutions-inc|swe|l1": {
    "expires": "2026-10-20T06:05:35.114037+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -6425,6 +6450,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "u4rad-technologies-llp|mobile|l1": {
+   "expires": "2026-10-27T21:01:34.188066+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
+   "status": "not_found"
+  },
   "unosecur|swe|l2": {
    "expires": "2026-10-14T16:28:39.921676+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -6600,8 +6630,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T03:08:31.514912+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
+   "expires": "2027-01-05T12:12:01.863232+00:00",
+   "looked_up": "2026-10-10T11:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -7074,8 +7104,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 781,
-  "lookups_today": 63,
+  "lookups_month": 787,
+  "lookups_today": 69,
   "month": "2026-10"
  }
 }
