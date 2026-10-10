@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T16:09:30.611997+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-11T01:05:57.927328+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T15:02:53.115739+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-12T18:42:19.112241+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -255,6 +255,11 @@
   "adswerve-inc-|swe|l2": {
    "expires": "2026-10-23T19:59:24.455571+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "advancesensing|swe|l1": {
+   "expires": "2026-10-26T16:16:37.038728+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
   "adzzat|fullstack|l1": {
@@ -717,8 +722,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T07:16:55.695392+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-11T21:50:59.020469+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2875,6 +2880,11 @@
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
+  "htc-global-services|swe|l1": {
+   "expires": "2026-10-26T11:26:41.339434+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
   "huntingcubeai|swe|l1": {
    "expires": "2026-10-26T05:47:44.346449+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3659,6 +3669,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "login2design-technologies|swe|l1": {
+   "expires": "2026-10-27T17:28:27.291182+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
   "london-stock-exchange-group|data|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3714,8 +3729,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:12:04.863450+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-14T20:12:29.473731+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4095,6 +4110,26 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "nevrio-technology-services-pvt-ltd|mobile|l1": {
+   "expires": "2026-10-21T12:42:23.922286+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "nevrio-technology-services-pvt-ltd|swe|l1": {
+   "expires": "2026-10-21T07:46:14.530276+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "nexduo|frontend|l1": {
+   "expires": "2026-10-28T00:12:35.255709+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "nexduo|swe|l1": {
+   "expires": "2026-10-30T23:45:57.460710+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
   "nextdealnow|mobile|l1": {
    "expires": "2026-10-22T23:49:18.559275+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -4457,8 +4492,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T07:58:21.526347+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-10T23:54:17.963380+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5272,8 +5307,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T11:53:50.609516+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-12T23:37:57.381995+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6151,8 +6186,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T13:08:05.899824+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-11T19:48:14.464239+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6223,6 +6258,16 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
+  "vasudev-technolabs|frontend|l1": {
+   "expires": "2026-10-19T01:38:49.715015+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "vasudev-technolabs|swe|l1": {
+   "expires": "2026-10-17T17:28:25.025731+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
   "vensurehr|swe|l1": {
    "expires": "2026-10-23T08:53:01.905257+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -6231,8 +6276,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T20:14:34.239887+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
+   "expires": "2027-01-13T14:34:53.715734+00:00",
+   "looked_up": "2026-10-10T00:01:23+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6652,9 +6697,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-09",
-  "lookups_month": 718,
-  "lookups_today": 272,
+  "day": "2026-10-10",
+  "lookups_month": 727,
+  "lookups_today": 9,
   "month": "2026-10"
  }
 }
