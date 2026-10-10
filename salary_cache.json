@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:49:57.396652+00:00",
-   "looked_up": "2026-10-10T13:41:23+00:00",
+   "expires": "2027-01-12T21:28:44.711501+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -787,8 +787,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T12:37:16.497693+00:00",
-   "looked_up": "2026-10-10T13:41:23+00:00",
+   "expires": "2027-01-03T11:07:23.821373+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -832,6 +832,11 @@
   "axismyindia1404|swe|l1": {
    "expires": "2026-10-29T22:37:18.305867+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "axitech-india|swe|l1": {
+   "expires": "2026-10-30T02:02:10.233970+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "status": "not_found"
   },
   "ayurgrid|mobile|l1": {
@@ -1166,6 +1171,11 @@
   "bytespoke|swe|l1": {
    "expires": "2026-10-20T22:51:05.992827+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
+   "status": "not_found"
+  },
+  "c3-ai-enterprise-ai|swe|l1": {
+   "expires": "2026-10-29T17:31:02.491434+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "status": "not_found"
   },
   "c3i-hub|swe|l1": {
@@ -2003,8 +2013,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:01:25.861391+00:00",
-   "looked_up": "2026-10-10T13:41:23+00:00",
+   "expires": "2027-01-08T02:56:46.702052+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2257,8 +2267,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:20:54.150728+00:00",
-   "looked_up": "2026-10-10T13:41:23+00:00",
+   "expires": "2027-01-12T12:20:41.798204+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3278,6 +3288,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "infai-systems-pvt-ltd|frontend|l1": {
+   "expires": "2026-10-29T17:23:22.972345+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
+   "status": "not_found"
+  },
   "infinnium|qa|l1": {
    "expires": "2026-10-19T08:09:15.491244+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -3835,8 +3850,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T07:07:05.831521+00:00",
-   "looked_up": "2026-10-10T13:41:23+00:00",
+   "expires": "2027-01-02T19:39:34.011889+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -5218,6 +5233,11 @@
    "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
+  "rankgrids|swe|l1": {
+   "expires": "2026-10-25T11:33:06.387361+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
+   "status": "not_found"
+  },
   "rapidbrains|erp|l1": {
    "expires": "2026-10-20T22:29:38.154175+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -6009,6 +6029,26 @@
    "expires": "2026-10-16T00:09:19.763861+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "synchrony-financial|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T11:39:29.254989+00:00",
+   "looked_up": "2026-10-10T14:01:23+00:00",
+   "max_lpa": 17.5,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/synchrony-salaries/it-developer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Synchrony/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "syncllusion|swe|l1": {
    "expires": "2026-10-27T19:18:57.835764+00:00",
@@ -7245,8 +7285,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 800,
-  "lookups_today": 82,
+  "lookups_month": 805,
+  "lookups_today": 87,
   "month": "2026-10"
  }
 }
