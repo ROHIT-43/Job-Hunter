@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T05:59:51.041562+00:00",
-   "looked_up": "2026-10-10T19:01:20+00:00",
+   "expires": "2027-01-04T01:21:42.996426+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2033,8 +2033,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T17:35:41.591211+00:00",
-   "looked_up": "2026-10-10T19:01:20+00:00",
+   "expires": "2027-01-15T16:17:12.714313+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2308,8 +2308,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T19:00:26.475861+00:00",
-   "looked_up": "2026-10-10T19:01:20+00:00",
+   "expires": "2027-01-14T23:20:37.873157+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3916,8 +3916,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T16:00:57.664104+00:00",
-   "looked_up": "2026-10-10T19:01:20+00:00",
+   "expires": "2027-01-10T22:50:56.666921+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -4020,6 +4020,11 @@
   "linde|swe|l1": {
    "expires": "2026-10-17T07:34:08.972417+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "links4engg|fullstack|l1": {
+   "expires": "2026-10-21T22:10:43.901773+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "status": "not_found"
   },
   "localbutcher|swe|l1": {
@@ -4726,6 +4731,26 @@
    "expires": "2026-10-17T15:14:05.834898+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
+  },
+  "odox-softhub|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T11:34:41.439183+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
+   "max_lpa": 2.9,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/odox-softhub-salaries/odoo-python-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/odox-softhub-salaries/odoo-python-developer/kozhikode-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "officeworks-gcc-india|swe|l1": {
    "expires": "2026-10-27T20:42:29.555532+00:00",
@@ -5974,8 +5999,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T14:49:08.379300+00:00",
-   "looked_up": "2026-10-10T19:01:20+00:00",
+   "expires": "2027-01-12T02:00:36.101569+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5998,6 +6023,11 @@
     }
    ],
    "status": "found"
+  },
+  "sociable-tech-ventures|fullstack|l1": {
+   "expires": "2026-10-30T12:22:07.294704+00:00",
+   "looked_up": "2026-10-10T20:01:20+00:00",
+   "status": "not_found"
   },
   "softwareone|erp|l1": {
    "expires": "2026-10-13T20:29:23.049716+00:00",
@@ -7399,8 +7429,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 823,
-  "lookups_today": 105,
+  "lookups_month": 826,
+  "lookups_today": 108,
   "month": "2026-10"
  }
 }
