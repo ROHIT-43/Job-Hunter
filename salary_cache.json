@@ -316,6 +316,22 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "akamai-technologies|devops|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-09T21:31:26.243335+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "max_lpa": 26.9,
+   "min_lpa": 26.9,
+   "sources": [
+    {
+     "title": "teamblind.com",
+     "uri": "https://www.teamblind.com/post/amazon-sde-vs-akamai-se-ii-2-yoe-bangalore-04ldpc54"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "algoleap|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -598,6 +614,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "ares-management|fullstack|l1": {
+   "expires": "2026-10-22T02:51:34.816899+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
   "aristocratcorporate|swe|l2": {
    "expires": "2026-10-23T19:10:11.163024+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -742,8 +763,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:40:54.779012+00:00",
-   "looked_up": "2026-10-10T09:01:19+00:00",
+   "expires": "2027-01-02T00:40:08.114704+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -1252,6 +1273,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "celestialtec|swe|l1": {
+   "expires": "2026-10-26T17:07:04.304515+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
   },
   "cencoraglobal|erp|l1": {
    "basis": "ctc",
@@ -1929,6 +1955,20 @@
    "expires": "2026-10-17T21:37:59.466583+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
+  },
+  "eglogics-softech|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-06T12:26:14.848406+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "eli-lilly-and-company|swe|l1": {
    "expires": "2026-10-24T06:00:26.676384+00:00",
@@ -3120,6 +3160,27 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "iit-bombay|fullstack|l1": {
+   "expires": "2026-10-27T08:58:13.978640+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "iit-bombay|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T22:24:39.809341+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/iit-bombay/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "iitjobs|ml|l1": {
    "expires": "2026-10-24T17:49:50.620324+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -3943,6 +4004,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "mega-nucleus|fullstack|l1": {
+   "expires": "2026-10-25T08:57:22.314772+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
   "meril|swe|l1": {
    "expires": "2026-10-20T06:08:20.644297+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4198,6 +4264,11 @@
   "netgear|swe|l2": {
    "expires": "2026-10-20T19:50:38.250647+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "netspi|security|l2": {
+   "expires": "2026-10-20T06:27:43.020836+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
   "netsysconconsulting|mobile|l1": {
@@ -4597,8 +4668,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T16:16:29.207453+00:00",
-   "looked_up": "2026-10-10T09:01:19+00:00",
+   "expires": "2027-01-03T06:11:30.467491+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5101,6 +5172,11 @@
    "looked_up": "2026-10-10T01:01:20+00:00",
    "status": "not_found"
   },
+  "redswanlabs|frontend|l1": {
+   "expires": "2026-10-26T16:12:39.698393+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
   "redwing-automation|swe|l1": {
    "expires": "2026-10-18T13:33:32.379025+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -5307,6 +5383,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "salesforce-ad|devops|l1": {
+   "expires": "2026-10-27T19:39:25.295740+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
   },
   "salesforce-ad|swe|l1": {
    "basis": "base",
@@ -5748,6 +5829,16 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "sweken-it-solutions|fullstack|l1": {
+   "expires": "2026-10-27T13:49:56.335037+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "sweken-it-solutions|mobile|l1": {
+   "expires": "2026-10-31T03:36:08.193914+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
   "switsdigital|data|l1": {
    "expires": "2026-10-22T06:37:17.717701+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -5819,6 +5910,22 @@
    "status": "found",
    "year": 2025
   },
+  "syntel-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T03:55:33.367812+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "max_lpa": 4.1,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/accenture-salaries/engineer-1"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "systemsofttech|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5853,6 +5960,11 @@
   "tally-experts-ind-uae|swe|l1": {
    "expires": "2026-10-19T03:16:32.693630+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "tansorpay|fullstack|l1": {
+   "expires": "2026-10-30T03:00:10.800389+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
   "target|mobile|l1": {
@@ -6368,11 +6480,47 @@
    ],
    "status": "found"
   },
+  "ustglobal|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T08:36:26.018183+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ust-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ustglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
    "expires": "2027-01-03T18:06:55.364799+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
+   "max_lpa": 19.7,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ust-salaries/software-engineer/bengaluru-location"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/ust/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "ustglobal|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-02T04:29:03.310907+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "max_lpa": 19.7,
    "min_lpa": 3.6,
    "sources": [
@@ -6452,8 +6600,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T00:04:20.649619+00:00",
-   "looked_up": "2026-10-10T09:01:19+00:00",
+   "expires": "2027-01-11T03:08:31.514912+00:00",
+   "looked_up": "2026-10-10T10:01:23+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6926,8 +7074,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 766,
-  "lookups_today": 48,
+  "lookups_month": 781,
+  "lookups_today": 63,
   "month": "2026-10"
  }
 }
