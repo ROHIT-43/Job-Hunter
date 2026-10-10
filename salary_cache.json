@@ -201,8 +201,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T02:29:30.660161+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-02T11:06:35.374509+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +225,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T08:25:03.108356+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-14T05:32:46.752924+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -732,8 +732,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T17:10:39.590281+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-01T19:09:54.178251+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2335,6 +2335,11 @@
   "fusionconsultingag|erp|l1": {
    "expires": "2026-10-16T05:35:45.890150+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "fuziongrow|swe|l1": {
+   "expires": "2026-10-24T17:32:51.682671+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "status": "not_found"
   },
   "fuzixel-technologies-private-limited|swe|l1": {
@@ -4517,8 +4522,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T23:24:04.277558+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-01T17:06:48.804211+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4584,6 +4589,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "phillipcapital-india|fullstack|l1": {
+   "expires": "2026-10-27T00:21:39.712889+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
+   "status": "not_found"
   },
   "pineswift|data|l1": {
    "expires": "2026-10-30T07:49:30.986827+00:00",
@@ -5342,8 +5352,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T13:31:40.289062+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-07T09:36:02.787192+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6242,8 +6252,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T13:35:00.565642+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-02T14:16:50.514937+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6337,8 +6347,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T02:58:39.315641+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2027-01-05T20:48:30.344666+00:00",
+   "looked_up": "2026-10-10T05:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6806,8 +6816,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 742,
-  "lookups_today": 24,
+  "lookups_month": 744,
+  "lookups_today": 26,
   "month": "2026-10"
  }
 }
