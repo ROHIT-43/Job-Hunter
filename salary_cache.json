@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T02:10:53.480262+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
+   "expires": "2027-01-10T07:55:47.171265+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -787,8 +787,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T11:50:34.376241+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
+   "expires": "2027-01-11T07:44:15.113385+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -962,6 +962,11 @@
   "beghou-consulting|swe|l1": {
    "expires": "2026-10-24T03:56:58.647909+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "believeglobal|swe|l1": {
+   "expires": "2026-10-31T03:52:13.570212+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
   "beroe-inc|swe|l1": {
@@ -1414,6 +1419,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "civic-sense-app|mobile|l1": {
+   "expires": "2026-10-31T03:54:07.301442+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
   "clevanoo-llc|swe|l1": {
    "expires": "2026-10-18T15:46:22.321405+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -1493,6 +1503,11 @@
   "coffeebeans-brewinginnovations|data|l1": {
    "expires": "2026-10-26T18:34:44.093725+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "cognitedata|swe|l1": {
+   "expires": "2026-10-27T17:32:28.733714+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
   "cognizant|data|l1": {
@@ -1988,8 +2003,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T13:37:10.178677+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
+   "expires": "2027-01-06T06:28:40.370656+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2238,6 +2253,20 @@
    "expires": "2026-10-26T17:54:41.924649+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
+  },
+  "fabconnect-hr|data|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-06T10:47:20.257712+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "factset|frontend|l2": {
    "basis": "base",
@@ -2756,6 +2785,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "google|swe|l2": {
+   "expires": "2026-10-26T06:29:54.659959+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
   },
   "google|swe|l3": {
    "basis": "base",
@@ -3408,6 +3442,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "innspark-solutions|security|l1": {
+   "expires": "2026-10-20T16:20:10.742024+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
   "insight-global|security|l1": {
    "expires": "2026-10-24T15:12:21.746395+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
@@ -3796,8 +3835,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T04:09:12.273394+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
+   "expires": "2027-01-02T16:09:48.665167+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -3972,6 +4011,11 @@
     }
    ],
    "status": "found"
+  },
+  "madison-logic|devops|l1": {
+   "expires": "2026-10-28T12:32:08.545302+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
   },
   "maersk-group|swe|l1": {
    "basis": "ctc",
@@ -6547,6 +6591,16 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "uplevyl|frontend|l1": {
+   "expires": "2026-10-27T07:26:50.902483+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "uplevyl|mobile|l1": {
+   "expires": "2026-10-27T17:46:39.015213+00:00",
+   "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
   "ups|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7191,8 +7245,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 792,
-  "lookups_today": 74,
+  "lookups_month": 800,
+  "lookups_today": 82,
   "month": "2026-10"
  }
 }
