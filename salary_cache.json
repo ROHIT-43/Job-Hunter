@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T15:21:53.080890+00:00",
-   "looked_up": "2026-10-10T15:01:21+00:00",
+   "expires": "2027-01-09T09:23:47.772008+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1318,6 +1318,11 @@
    "status": "found",
    "year": 2026
   },
+  "cbts-technology-covered|swe|l1": {
+   "expires": "2026-10-27T10:07:24.581117+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
   "celestialtec|swe|l1": {
    "expires": "2026-10-26T17:07:04.304515+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -1620,6 +1625,11 @@
   "copeland|swe|l1": {
    "expires": "2026-10-14T01:27:17.484289+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
+  "crewliajobs|swe|l1": {
+   "expires": "2026-10-24T15:28:08.461732+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
   "criclive-in|mobile|l1": {
@@ -2013,8 +2023,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T03:32:19.036714+00:00",
-   "looked_up": "2026-10-10T15:01:21+00:00",
+   "expires": "2027-01-04T21:36:05.182691+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2161,6 +2171,22 @@
    "status": "found",
    "year": 2026
   },
+  "esko|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-15T10:53:28.986205+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "max_lpa": 24.2,
+   "min_lpa": 24.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/hi-in/companies/esko/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "everpure-data|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2267,8 +2293,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T04:33:44.824233+00:00",
-   "looked_up": "2026-10-10T15:01:21+00:00",
+   "expires": "2027-01-06T15:29:55.902007+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3850,8 +3876,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T00:56:06.994538+00:00",
-   "looked_up": "2026-10-10T15:01:21+00:00",
+   "expires": "2027-01-05T13:38:05.672668+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -4027,6 +4053,11 @@
    ],
    "status": "found"
   },
+  "machintra-tech-pvt-ltd|swe|l1": {
+   "expires": "2026-10-31T12:49:15.610680+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
   "madison-logic|devops|l1": {
    "expires": "2026-10-28T12:32:08.545302+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
@@ -4143,6 +4174,11 @@
   "mccollins-media|frontend|l1": {
    "expires": "2026-10-26T16:13:00.961538+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "meatec-batteryintelligence|swe|l1": {
+   "expires": "2026-10-30T11:15:53.160878+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
   "media.net|mobile|l2": {
@@ -5159,6 +5195,11 @@
    "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
+  "quanteon-solutions|mobile|l1": {
+   "expires": "2026-10-19T07:45:53.428813+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
   "quantumheaps|frontend|l1": {
    "expires": "2026-10-26T19:48:25.341580+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -5295,6 +5336,11 @@
   "real-time-applications-center|frontend|l1": {
    "expires": "2026-10-20T06:27:13.613472+00:00",
    "looked_up": "2026-10-10T12:01:23+00:00",
+   "status": "not_found"
+  },
+  "real-time-applications-center|swe|l1": {
+   "expires": "2026-10-25T05:55:27.102925+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
   "recollia|data|l1": {
@@ -5550,6 +5596,11 @@
    "status": "found",
    "year": 2026
   },
+  "saiman-lab-pvt|swe|l1": {
+   "expires": "2026-10-18T04:01:01.783155+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
   "salesforce-ad|devops|l1": {
    "expires": "2026-10-27T19:39:25.295740+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -5660,6 +5711,11 @@
     }
    ],
    "status": "found"
+  },
+  "secondwind-by-joveo|swe|l1": {
+   "expires": "2026-10-24T17:25:52.235860+00:00",
+   "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
   },
   "securyofficial|fullstack|l1": {
    "expires": "2026-10-28T03:52:31.169802+00:00",
@@ -7285,8 +7341,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 805,
-  "lookups_today": 87,
+  "lookups_month": 814,
+  "lookups_today": 96,
   "month": "2026-10"
  }
 }
