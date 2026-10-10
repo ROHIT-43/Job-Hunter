@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T20:07:00.050319+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
+   "expires": "2027-01-13T03:59:00.026122+00:00",
+   "looked_up": "2026-10-10T18:35:47+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2023,8 +2023,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T20:09:40.057222+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
+   "expires": "2027-01-15T16:34:20.220701+00:00",
+   "looked_up": "2026-10-10T18:35:47+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2298,8 +2298,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T16:13:39.054149+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
+   "expires": "2027-01-02T14:38:31.669319+00:00",
+   "looked_up": "2026-10-10T18:35:47+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3906,8 +3906,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:28:12.515606+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
+   "expires": "2027-01-04T18:13:12.505804+00:00",
+   "looked_up": "2026-10-10T18:35:47+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -5959,8 +5959,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T07:17:42.171063+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
+   "expires": "2027-01-09T00:40:58.709096+00:00",
+   "looked_up": "2026-10-10T18:35:47+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
