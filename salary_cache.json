@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:59:00.026122+00:00",
-   "looked_up": "2026-10-10T18:35:47+00:00",
+   "expires": "2027-01-09T05:59:51.041562+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -632,6 +632,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "aquelious|swe|l1": {
+   "expires": "2026-10-29T23:27:04.788432+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
+   "status": "not_found"
   },
   "arataindia|swe|l1": {
    "expires": "2026-10-25T13:05:07.367600+00:00",
@@ -1647,6 +1652,11 @@
    "looked_up": "2026-10-09T01:01:22+00:00",
    "status": "not_found"
   },
+  "crunchyroll|swe|l1": {
+   "expires": "2026-10-23T20:11:10.204683+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
+   "status": "not_found"
+  },
   "cummins-india|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2023,8 +2033,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T16:34:20.220701+00:00",
-   "looked_up": "2026-10-10T18:35:47+00:00",
+   "expires": "2027-01-02T17:35:41.591211+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2298,8 +2308,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T14:38:31.669319+00:00",
-   "looked_up": "2026-10-10T18:35:47+00:00",
+   "expires": "2027-01-06T19:00:26.475861+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3906,8 +3916,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T18:13:12.505804+00:00",
-   "looked_up": "2026-10-10T18:35:47+00:00",
+   "expires": "2027-01-08T16:00:57.664104+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -4010,6 +4020,11 @@
   "linde|swe|l1": {
    "expires": "2026-10-17T07:34:08.972417+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "localbutcher|swe|l1": {
+   "expires": "2026-10-31T08:54:23.790855+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "status": "not_found"
   },
   "login2design-technologies|swe|l1": {
@@ -5959,8 +5974,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:40:58.709096+00:00",
-   "looked_up": "2026-10-10T18:35:47+00:00",
+   "expires": "2027-01-04T14:49:08.379300+00:00",
+   "looked_up": "2026-10-10T19:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7384,8 +7399,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 820,
-  "lookups_today": 102,
+  "lookups_month": 823,
+  "lookups_today": 105,
   "month": "2026-10"
  }
 }
