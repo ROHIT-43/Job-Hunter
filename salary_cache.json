@@ -157,6 +157,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "acetech-group-of-companies|swe|l1": {
+   "expires": "2026-10-30T09:18:41.052308+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
+   "status": "not_found"
+  },
   "acira-consultancy|data|l1": {
    "expires": "2026-10-20T11:41:01.274744+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -201,8 +206,8 @@
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T11:06:35.374509+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-05T11:04:33.995928+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -225,8 +230,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T05:32:46.752924+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-08T08:43:57.854725+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -732,8 +737,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T19:09:54.178251+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-11T06:15:26.709690+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2719,6 +2724,11 @@
    "status": "found",
    "year": 2026
   },
+  "hanoch-automations|swe|l1": {
+   "expires": "2026-10-20T03:09:39.799197+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
+   "status": "not_found"
+  },
   "harisan-technologies|devops|l1": {
    "expires": "2026-10-24T23:22:04.827270+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
@@ -2810,6 +2820,11 @@
   "highlevel|swe|l2": {
    "expires": "2026-10-29T14:08:18.838149+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "hirealpha|erp|l1": {
+   "expires": "2026-10-25T13:25:52.960012+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
   "hirojet|fullstack|l1": {
@@ -3516,6 +3531,11 @@
   "jsan-publishing|swe|l1": {
    "expires": "2026-10-29T22:19:31.889710+00:00",
    "looked_up": "2026-10-09T23:01:19+00:00",
+   "status": "not_found"
+  },
+  "jsm-consulting-inc|erp|l1": {
+   "expires": "2026-10-28T13:21:44.158004+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
   "juspay-technologies|frontend|l1": {
@@ -4522,8 +4542,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-01T17:06:48.804211+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-03T03:20:01.998230+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5352,8 +5372,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T09:36:02.787192+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-09T09:52:04.368065+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -5601,6 +5621,11 @@
   "stackfusion-pvt-ltd|mobile|l1": {
    "expires": "2026-10-24T15:59:34.012481+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "standard-profile-industries-private-limited|swe|l1": {
+   "expires": "2026-10-24T16:39:56.678714+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
   "star-knowledge-ventures|mobile|l1": {
@@ -6252,8 +6277,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T14:16:50.514937+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-03T08:23:04.646403+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6347,8 +6372,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T20:48:30.344666+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
+   "expires": "2027-01-09T08:12:05.698580+00:00",
+   "looked_up": "2026-10-10T06:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6816,8 +6841,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 744,
-  "lookups_today": 26,
+  "lookups_month": 749,
+  "lookups_today": 31,
   "month": "2026-10"
  }
 }
