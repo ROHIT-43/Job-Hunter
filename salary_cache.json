@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:23:47.772008+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
+   "expires": "2027-01-13T06:39:14.069237+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2023,8 +2023,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T21:36:05.182691+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
+   "expires": "2027-01-11T17:45:10.915235+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2293,8 +2293,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T15:29:55.902007+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
+   "expires": "2027-01-13T05:34:41.245026+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -2443,6 +2443,11 @@
   "foodhubuk|swe|l1": {
    "expires": "2026-10-18T09:36:08.685609+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "forbes-advisor|data|l1": {
+   "expires": "2026-10-25T10:44:55.662071+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
   "ford-motor-company|swe|l1": {
@@ -3049,6 +3054,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "honeywell|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-09T13:50:34.602241+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
+   "max_lpa": 21.5,
+   "min_lpa": 21.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/905584/honeywell-software-engineer-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/883793/honeywell-software-engineer-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2020
   },
   "hpengineers|swe|l1": {
    "expires": "2026-10-19T00:49:21.057064+00:00",
@@ -3876,8 +3901,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T13:38:05.672668+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
+   "expires": "2027-01-10T22:06:47.550727+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -4174,6 +4199,11 @@
   "mccollins-media|frontend|l1": {
    "expires": "2026-10-26T16:13:00.961538+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "meatec-batteryintelligence|data|l1": {
+   "expires": "2026-10-26T03:13:29.252165+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
   "meatec-batteryintelligence|swe|l1": {
@@ -4926,6 +4956,11 @@
   "phillipcapital-india|fullstack|l1": {
    "expires": "2026-10-27T00:21:39.712889+00:00",
    "looked_up": "2026-10-10T05:01:21+00:00",
+   "status": "not_found"
+  },
+  "phoenix-technologies-ag|devops|l1": {
+   "expires": "2026-10-21T21:57:27.130583+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
   "pineswift|data|l1": {
@@ -5917,20 +5952,18 @@
    "status": "not_found"
   },
   "snsin|security|l1": {
-   "basis": "base",
-   "confidence": "low",
-   "expires": "2027-01-05T19:22:21.856116+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
-   "max_lpa": 6.0,
-   "min_lpa": 3.5,
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-11T16:54:47.083419+00:00",
+   "looked_up": "2026-10-10T17:01:20+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
    "sources": [
     {
-     "title": "in.indeed.com",
-     "uri": "https://in.indeed.com/cmp/Secure-Network-Solutions-India/salaries"
+     "title": "LinkedIn job posting"
     }
    ],
-   "status": "found",
-   "year": 2026
+   "status": "found"
   },
   "soais|qa|l1": {
    "basis": "posted",
@@ -7341,8 +7374,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 814,
-  "lookups_today": 96,
+  "lookups_month": 818,
+  "lookups_today": 100,
   "month": "2026-10"
  }
 }
