@@ -230,8 +230,8 @@
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T08:43:57.854725+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-07T00:11:13.842529+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -737,8 +737,8 @@
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:15:26.709690+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-03T21:59:09.871735+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -1505,6 +1505,11 @@
   "consulligent|mobile|l1": {
    "expires": "2026-10-16T03:47:56.735996+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "continua-design-and-creation-pvt-ltd|swe|l1": {
+   "expires": "2026-10-29T00:12:59.611718+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
   "cop-your-drip|frontend|l1": {
@@ -2672,6 +2677,11 @@
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-10-28T22:00:12.959330+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "growe-global|swe|l1": {
+   "expires": "2026-10-27T21:37:28.608120+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
   "gsobatestpage1|swe|l1": {
@@ -4042,6 +4052,11 @@
    "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
+  "navan|swe|l2": {
+   "expires": "2026-10-22T14:52:34.110456+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
+   "status": "not_found"
+  },
   "navatech-ai|qa|l1": {
    "expires": "2026-10-15T22:29:51.142398+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -4542,8 +4557,8 @@
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T03:20:01.998230+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-06T14:58:30.220953+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -4708,6 +4723,11 @@
   "proxelera|swe|l1": {
    "expires": "2026-10-16T18:31:11.995986+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "prudentfromdygnify|fullstack|l1": {
+   "expires": "2026-10-17T12:53:43.073309+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
   "ptcinc|swe|l1": {
@@ -5372,8 +5392,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:52:04.368065+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-15T00:14:28.608261+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -6277,8 +6297,8 @@
   "urban-parents-club|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T08:23:04.646403+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-14T21:44:36.678262+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6372,8 +6392,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T08:12:05.698580+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
+   "expires": "2027-01-14T19:50:28.372904+00:00",
+   "looked_up": "2026-10-10T07:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -6841,8 +6861,8 @@
  },
  "meta": {
   "day": "2026-10-10",
-  "lookups_month": 749,
-  "lookups_today": 31,
+  "lookups_month": 753,
+  "lookups_today": 35,
   "month": "2026-10"
  }
 }
