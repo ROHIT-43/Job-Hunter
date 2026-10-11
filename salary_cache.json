@@ -2386,8 +2386,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T10:09:39.391762+00:00",
-   "looked_up": "2026-10-11T18:01:25+00:00",
+   "expires": "2027-01-07T07:26:45.302361+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2622,6 +2622,11 @@
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "flexipletech|mobile|l1": {
+   "expires": "2026-10-20T21:49:29.608427+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
    "status": "not_found"
   },
   "flexipletech|swe|l1": {
@@ -3404,6 +3409,11 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
+  "huntingcubeai|fullstack|l1": {
+   "expires": "2026-10-27T13:00:21.881350+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
+   "status": "not_found"
+  },
   "huntingcubeai|swe|l1": {
    "expires": "2026-10-26T05:47:44.346449+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3538,6 +3548,36 @@
    "expires": "2026-10-24T09:14:43.496983+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "icemarkets|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-06T04:22:40.681007+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "icemarkets|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T06:46:40.702691+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
+   "max_lpa": 6.7,
+   "min_lpa": 6.7,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Intercontinental-Exchange/salaries/Software-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "icon-plc-2|swe|l2": {
    "basis": "ctc",
@@ -4316,8 +4356,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T08:14:19.197863+00:00",
-   "looked_up": "2026-10-11T18:01:25+00:00",
+   "expires": "2027-01-03T00:24:38.887507+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -7224,8 +7264,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T00:46:48.816154+00:00",
-   "looked_up": "2026-10-11T18:01:25+00:00",
+   "expires": "2027-01-15T14:23:03.654283+00:00",
+   "looked_up": "2026-10-11T19:01:18+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7844,8 +7884,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 891,
-  "lookups_today": 61,
+  "lookups_month": 894,
+  "lookups_today": 64,
   "month": "2026-10"
  }
 }
