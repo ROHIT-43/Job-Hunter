@@ -1115,9 +1115,19 @@
    "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
+  "bizconnect-pvt-ltd|mobile|l1": {
+   "expires": "2026-11-01T06:59:07.441891+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
+   "status": "not_found"
+  },
   "black-and-veatch|swe|l1": {
    "expires": "2026-10-25T05:46:27.087935+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "blackline|swe|l1": {
+   "expires": "2026-10-22T02:59:46.184538+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
   "blackrock|fullstack|l1": {
@@ -2376,8 +2386,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T02:18:40.913772+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
+   "expires": "2027-01-13T12:27:38.042619+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2586,6 +2596,11 @@
   "fis|swe|l2": {
    "expires": "2026-10-17T17:24:00.039617+00:00",
    "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
+  "five9|swe|l2": {
+   "expires": "2026-10-31T23:05:47.130143+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
   "flexintl|swe|l1": {
@@ -4301,8 +4316,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T05:02:13.765150+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
+   "expires": "2027-01-06T09:26:31.810571+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5341,6 +5356,11 @@
   "positiwise|devops|l1": {
    "expires": "2026-10-19T16:01:17.737938+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "ppstack|swe|l1": {
+   "expires": "2026-11-01T10:50:37.751868+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
   "prameela-onesuite|fullstack|l1": {
@@ -7189,8 +7209,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T07:44:41.588911+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
+   "expires": "2027-01-03T03:09:49.362698+00:00",
+   "looked_up": "2026-10-11T17:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7809,8 +7829,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 884,
-  "lookups_today": 54,
+  "lookups_month": 888,
+  "lookups_today": 58,
   "month": "2026-10"
  }
 }
