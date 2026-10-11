@@ -175,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T02:34:16.869454+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-15T15:04:38.475983+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -556,6 +556,11 @@
   "ampstek|swe|l1": {
    "expires": "2026-10-23T16:48:00.536591+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "amrita-vishwa-vidyapeetham|frontend|l1": {
+   "expires": "2026-10-24T07:54:28.428817+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "status": "not_found"
   },
   "amunra|swe|l1": {
@@ -2118,8 +2123,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:36:37.562549+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-13T19:27:54.831503+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2393,8 +2398,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T07:04:25.801932+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-08T09:30:01.236388+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -4042,8 +4047,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T19:50:18.126834+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-14T10:49:51.122683+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -5615,6 +5620,22 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "reliaquest|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-03T08:20:31.528840+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/7172126/reliaquest-software-engineer-pune-by-ano-tzam/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rengy|mobile|l1": {
    "expires": "2026-10-21T03:03:29.879628+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -6140,8 +6161,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T03:41:31.339297+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-05T02:57:44.180372+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7004,8 +7025,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:34:39.244452+00:00",
-   "looked_up": "2026-10-11T08:50:41+00:00",
+   "expires": "2027-01-09T11:46:26.524110+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7474,6 +7495,11 @@
    "status": "found",
    "year": 2025
   },
+  "wpp-productionindia|swe|l1": {
+   "expires": "2026-10-30T23:18:43.000801+00:00",
+   "looked_up": "2026-10-11T09:01:20+00:00",
+   "status": "not_found"
+  },
   "wsp-consultants-india-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7614,8 +7640,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 858,
-  "lookups_today": 28,
+  "lookups_month": 861,
+  "lookups_today": 31,
   "month": "2026-10"
  }
 }
