@@ -2439,8 +2439,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T15:16:03.096154+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
+   "expires": "2027-01-04T01:02:05.432002+00:00",
+   "looked_up": "2026-10-11T12:01:21+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6212,8 +6212,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T16:50:44.546291+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
+   "expires": "2027-01-07T19:32:32.102384+00:00",
+   "looked_up": "2026-10-11T12:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7086,8 +7086,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T07:05:49.327820+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
+   "expires": "2027-01-11T16:29:16.181874+00:00",
+   "looked_up": "2026-10-11T12:01:21+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
