@@ -70,6 +70,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "aavad-instrument-pvt-ltd|swe|l1": {
+   "expires": "2026-10-22T18:00:07.867441+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
   "aavish-ai-lab|swe|l1": {
    "expires": "2026-10-23T20:47:11.815640+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -170,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:32:22.933705+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
+   "expires": "2027-01-02T12:20:07.229267+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1137,6 +1142,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "brandkrit|mobile|l1": {
+   "expires": "2026-10-25T21:03:56.816691+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
   "bravefederaltechnologies|devops|l1": {
    "expires": "2026-10-22T14:59:51.068991+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
@@ -2053,8 +2063,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:03:39.012698+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
+   "expires": "2027-01-04T12:12:53.395349+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2328,8 +2338,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:11:22.631426+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
+   "expires": "2027-01-15T15:27:40.777240+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3962,8 +3972,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T13:58:43.012060+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
+   "expires": "2027-01-08T17:44:39.549560+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6045,8 +6055,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T22:31:40.428803+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
+   "expires": "2027-01-08T15:04:04.057692+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6836,6 +6846,11 @@
    "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
+  "unikloud-technext|swe|l1": {
+   "expires": "2026-10-31T12:47:23.020186+00:00",
+   "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
   "unosecur|swe|l2": {
    "expires": "2026-10-14T16:28:39.921676+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -7500,8 +7515,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 838,
-  "lookups_today": 8,
+  "lookups_month": 841,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
