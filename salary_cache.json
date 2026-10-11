@@ -2396,8 +2396,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T10:10:36.524836+00:00",
-   "looked_up": "2026-10-11T22:01:22+00:00",
+   "expires": "2027-01-05T14:24:29.831411+00:00",
+   "looked_up": "2026-10-11T23:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3562,8 +3562,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:29:00.797571+00:00",
-   "looked_up": "2026-10-11T22:01:22+00:00",
+   "expires": "2027-01-15T15:00:31.842944+00:00",
+   "looked_up": "2026-10-11T23:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4366,8 +4366,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:51:21.879550+00:00",
-   "looked_up": "2026-10-11T22:01:22+00:00",
+   "expires": "2027-01-07T01:03:17.430291+00:00",
+   "looked_up": "2026-10-11T23:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -7274,8 +7274,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T15:43:11.593754+00:00",
-   "looked_up": "2026-10-11T22:01:22+00:00",
+   "expires": "2027-01-05T15:23:28.166939+00:00",
+   "looked_up": "2026-10-11T23:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
