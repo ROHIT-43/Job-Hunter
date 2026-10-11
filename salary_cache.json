@@ -175,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:20:07.229267+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
+   "expires": "2027-01-08T03:28:32.972223+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2063,8 +2063,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T12:12:53.395349+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
+   "expires": "2027-01-02T12:21:37.464283+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2338,8 +2338,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:27:40.777240+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
+   "expires": "2027-01-05T00:26:55.281965+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3972,8 +3972,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T17:44:39.549560+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
+   "expires": "2027-01-12T05:52:43.015532+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -5189,6 +5189,11 @@
    "status": "found",
    "year": 2026
   },
+  "purplemerit|frontend|l1": {
+   "expires": "2026-10-31T11:16:53.332344+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
+   "status": "not_found"
+  },
   "pwc-ac-india|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6055,8 +6060,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:04:04.057692+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
+   "expires": "2027-01-10T21:11:08.692322+00:00",
+   "looked_up": "2026-10-11T05:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7515,8 +7520,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 841,
-  "lookups_today": 11,
+  "lookups_month": 842,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
