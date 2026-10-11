@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T11:53:40.013018+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
+   "expires": "2027-01-12T04:32:22.933705+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2053,8 +2053,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T19:02:39.985581+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
+   "expires": "2027-01-14T10:03:39.012698+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2328,8 +2328,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T02:48:47.437488+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
+   "expires": "2027-01-11T06:11:22.631426+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3962,8 +3962,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T01:51:57.883080+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
+   "expires": "2027-01-02T13:58:43.012060+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6045,8 +6045,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:21:47.047689+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
+   "expires": "2027-01-07T22:31:40.428803+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6078,6 +6078,11 @@
   "sofodel|frontend|l1": {
    "expires": "2026-10-30T05:03:03.490461+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
+  "software-testing-service|swe|l1": {
+   "expires": "2026-10-19T23:16:04.590101+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "status": "not_found"
   },
   "softwareone|erp|l1": {
@@ -6529,6 +6534,11 @@
   "teknikoz|erp|l1": {
    "expires": "2026-10-24T09:05:27.251567+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "teknophile|swe|l1": {
+   "expires": "2026-10-28T01:51:27.725059+00:00",
+   "looked_up": "2026-10-11T03:01:24+00:00",
    "status": "not_found"
   },
   "tekwissenindia|devops|l1": {
@@ -7490,8 +7500,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 836,
-  "lookups_today": 6,
+  "lookups_month": 838,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
