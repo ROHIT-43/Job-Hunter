@@ -1020,6 +1020,11 @@
    "status": "found",
    "year": 2025
   },
+  "basf|devops|l1": {
+   "expires": "2026-10-31T10:32:49.674625+00:00",
+   "looked_up": "2026-10-11T20:01:22+00:00",
+   "status": "not_found"
+  },
   "bcg-x|swe|l1": {
    "expires": "2026-10-28T06:01:16.822839+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2386,8 +2391,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T07:26:45.302361+00:00",
-   "looked_up": "2026-10-11T19:01:18+00:00",
+   "expires": "2027-01-11T09:36:13.643002+00:00",
+   "looked_up": "2026-10-11T20:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3552,8 +3557,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T04:22:40.681007+00:00",
-   "looked_up": "2026-10-11T19:01:18+00:00",
+   "expires": "2027-01-03T04:04:21.453292+00:00",
+   "looked_up": "2026-10-11T20:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4356,8 +4361,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T00:24:38.887507+00:00",
-   "looked_up": "2026-10-11T19:01:18+00:00",
+   "expires": "2027-01-08T03:23:55.649700+00:00",
+   "looked_up": "2026-10-11T20:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -7264,8 +7269,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:23:03.654283+00:00",
-   "looked_up": "2026-10-11T19:01:18+00:00",
+   "expires": "2027-01-11T10:05:15.252545+00:00",
+   "looked_up": "2026-10-11T20:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7884,8 +7889,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 894,
-  "lookups_today": 64,
+  "lookups_month": 895,
+  "lookups_today": 65,
   "month": "2026-10"
  }
 }
