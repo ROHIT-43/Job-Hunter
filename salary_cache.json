@@ -175,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T20:29:20.422881+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2027-01-16T00:59:43.690164+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -909,6 +909,22 @@
    "expires": "2026-10-19T23:52:42.073544+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
+  },
+  "bank-of-america|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T01:07:48.027596+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
+   "max_lpa": 40.6,
+   "min_lpa": 14.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/bank-of-america-salaries/senior-soft-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "barclays-bank|data|l1": {
    "basis": "ctc",
@@ -2423,8 +2439,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T17:02:20.342469+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2027-01-10T15:16:03.096154+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3459,6 +3475,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "iff|swe|l1": {
+   "expires": "2026-10-20T10:19:17.438292+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
+   "status": "not_found"
+  },
   "iit-bombay|fullstack|l1": {
    "expires": "2026-10-27T08:58:13.978640+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -4072,8 +4093,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T14:12:23.667000+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2027-01-14T21:17:49.578244+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -4549,6 +4570,11 @@
   "nandix-technologies|fullstack|l1": {
    "expires": "2026-10-15T04:37:16.774842+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "nasuni|devops|l1": {
+   "expires": "2026-10-20T23:01:32.938993+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "status": "not_found"
   },
   "navan|swe|l2": {
@@ -6186,8 +6212,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T00:24:03.201969+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2027-01-05T16:50:44.546291+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6787,6 +6813,11 @@
    "looked_up": "2026-10-11T10:01:20+00:00",
    "status": "not_found"
   },
+  "thales|swe|l1": {
+   "expires": "2026-10-25T19:22:16.047671+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
+   "status": "not_found"
+  },
   "the-ai-training-company|mobile|l1": {
    "expires": "2026-10-31T20:59:07.635976+00:00",
    "looked_up": "2026-10-11T01:01:27+00:00",
@@ -7055,8 +7086,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T14:20:50.373302+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2027-01-09T07:05:49.327820+00:00",
+   "looked_up": "2026-10-11T11:01:20+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7670,8 +7701,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 864,
-  "lookups_today": 34,
+  "lookups_month": 868,
+  "lookups_today": 38,
   "month": "2026-10"
  }
 }
