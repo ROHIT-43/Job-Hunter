@@ -175,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T12:28:28.420033+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-03T02:34:16.869454+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2118,8 +2118,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T10:11:24.744915+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-14T11:36:37.562549+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2393,8 +2393,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T18:56:59.438508+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-06T07:04:25.801932+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -4042,8 +4042,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T01:57:55.863739+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-02T19:50:18.126834+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6140,8 +6140,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T05:21:03.077204+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-05T03:41:31.339297+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7004,8 +7004,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T06:34:12.750367+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
+   "expires": "2027-01-07T21:34:39.244452+00:00",
+   "looked_up": "2026-10-11T08:50:41+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
