@@ -2111,6 +2111,11 @@
    "looked_up": "2026-10-11T02:01:21+00:00",
    "status": "not_found"
   },
+  "dusker-ai|frontend|l1": {
+   "expires": "2026-10-19T20:13:21.295110+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
+   "status": "not_found"
+  },
   "dynamics-eshop|swe|l1": {
    "expires": "2026-10-18T00:28:41.834510+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2332,6 +2337,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "esperdev|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-02T17:18:27.717162+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "everpure-data|swe|l1": {
    "basis": "ctc",
@@ -2624,6 +2643,11 @@
   "freseniusmedicalcare|erp|l1": {
    "expires": "2026-10-17T21:51:18.499381+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "frnsup|frontend|l1": {
+   "expires": "2026-10-28T21:15:13.400937+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
    "status": "not_found"
   },
   "ftprotech|swe|l1": {
@@ -6212,8 +6236,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T19:32:32.102384+00:00",
-   "looked_up": "2026-10-11T12:01:21+00:00",
+   "expires": "2027-01-04T18:46:53.043594+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6612,6 +6636,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "teacode-technologies|mobile|l1": {
+   "expires": "2026-10-27T00:26:07.105026+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
+   "status": "not_found"
   },
   "teamware-solutions|frontend|l1": {
    "expires": "2026-10-23T02:25:36.619488+00:00",
@@ -7086,8 +7115,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T16:29:16.181874+00:00",
-   "looked_up": "2026-10-11T12:01:21+00:00",
+   "expires": "2027-01-09T05:15:26.212089+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7241,6 +7270,11 @@
   "versoaltimaindia|erp|l1": {
    "expires": "2026-10-25T15:09:05.419028+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "vertigo-media|fullstack|l1": {
+   "expires": "2026-10-28T17:49:49.761427+00:00",
+   "looked_up": "2026-10-11T13:01:20+00:00",
    "status": "not_found"
   },
   "vertiv|swe|l1": {
@@ -7701,8 +7735,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 868,
-  "lookups_today": 38,
+  "lookups_month": 872,
+  "lookups_today": 42,
   "month": "2026-10"
  }
 }
