@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T14:19:45.462105+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
+   "expires": "2027-01-03T13:03:00.483825+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2043,8 +2043,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T14:32:50.228003+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
+   "expires": "2027-01-11T07:18:22.730122+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2318,8 +2318,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T16:42:32.053989+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
+   "expires": "2027-01-12T19:48:10.000641+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3947,8 +3947,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:59:58.667035+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
+   "expires": "2027-01-08T15:22:49.263575+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6030,8 +6030,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T10:44:31.734033+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
+   "expires": "2027-01-11T18:33:30.368470+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6615,6 +6615,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "the-ai-training-company|mobile|l1": {
+   "expires": "2026-10-31T20:59:07.635976+00:00",
+   "looked_up": "2026-10-11T01:01:27+00:00",
+   "status": "not_found"
   },
   "the-retail-insights|devops|l1": {
    "expires": "2026-10-28T14:27:17.026204+00:00",
@@ -7470,8 +7475,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 832,
-  "lookups_today": 2,
+  "lookups_month": 833,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
