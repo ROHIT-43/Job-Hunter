@@ -175,8 +175,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:04:38.475983+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
+   "expires": "2027-01-13T20:29:20.422881+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -894,6 +894,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "bain-and-company|fullstack|l1": {
+   "expires": "2026-10-21T16:52:58.367271+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
+   "status": "not_found"
   },
   "bain-and-company|swe|l1": {
    "expires": "2026-10-31T08:30:08.191146+00:00",
@@ -1881,6 +1886,26 @@
    "status": "found",
    "year": 2026
   },
+  "deloitte|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T02:15:09.032791+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/deloitte-salaries/salesforce-cpq-developer"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Salesforce_Developer/Salary/ea6d20de/Deloitte-Hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "deloitte|erp|l2": {
    "basis": "base",
    "confidence": "low",
@@ -2398,8 +2423,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T09:30:01.236388+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
+   "expires": "2027-01-06T17:02:20.342469+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -4047,8 +4072,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:49:51.122683+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
+   "expires": "2027-01-07T14:12:23.667000+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6161,8 +6186,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T02:57:44.180372+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
+   "expires": "2027-01-12T00:24:03.201969+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6757,6 +6782,11 @@
    "status": "found",
    "year": 2026
   },
+  "tesco-technology|swe|l3": {
+   "expires": "2026-10-19T13:25:10.329787+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
+   "status": "not_found"
+  },
   "the-ai-training-company|mobile|l1": {
    "expires": "2026-10-31T20:59:07.635976+00:00",
    "looked_up": "2026-10-11T01:01:27+00:00",
@@ -7025,8 +7055,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T11:46:26.524110+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
+   "expires": "2027-01-04T14:20:50.373302+00:00",
+   "looked_up": "2026-10-11T10:01:20+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7640,8 +7670,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 861,
-  "lookups_today": 31,
+  "lookups_month": 864,
+  "lookups_today": 34,
   "month": "2026-10"
  }
 }
