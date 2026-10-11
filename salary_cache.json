@@ -170,8 +170,8 @@
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T01:46:50.466040+00:00",
-   "looked_up": "2026-10-11T01:53:41+00:00",
+   "expires": "2027-01-10T11:53:40.013018+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "max_lpa": 13.0,
    "min_lpa": 8.0,
    "sources": [
@@ -304,6 +304,11 @@
   "agilegrid-solutions|swe|l1": {
    "expires": "2026-10-25T05:15:49.822959+00:00",
    "looked_up": "2026-10-10T02:01:21+00:00",
+   "status": "not_found"
+  },
+  "agility-elektrotekniks2014|erp|l1": {
+   "expires": "2026-10-20T15:25:34.668177+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "status": "not_found"
   },
   "agochar|swe|l1": {
@@ -1990,6 +1995,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "dotsolved|swe|l1": {
+   "expires": "2026-10-29T04:40:03.329014+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
+   "status": "not_found"
+  },
   "dynamics-eshop|swe|l1": {
    "expires": "2026-10-18T00:28:41.834510+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2043,8 +2053,8 @@
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T20:17:44.093716+00:00",
-   "looked_up": "2026-10-11T01:53:41+00:00",
+   "expires": "2027-01-15T19:02:39.985581+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 2.4,
    "sources": [
@@ -2318,8 +2328,8 @@
   "fabconnect-hr|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T02:34:40.002329+00:00",
-   "looked_up": "2026-10-11T01:53:41+00:00",
+   "expires": "2027-01-13T02:48:47.437488+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -3939,6 +3949,11 @@
    "status": "found",
    "year": 2026
   },
+  "krylox|swe|l1": {
+   "expires": "2026-10-18T11:43:37.024663+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
+   "status": "not_found"
+  },
   "kt2i-technologies|frontend|l1": {
    "expires": "2026-10-29T05:47:44.647577+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3947,8 +3962,8 @@
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T02:15:32.283055+00:00",
-   "looked_up": "2026-10-11T01:53:41+00:00",
+   "expires": "2027-01-04T01:51:57.883080+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.0,
    "sources": [
@@ -6030,8 +6045,8 @@
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-02T21:44:23.738515+00:00",
-   "looked_up": "2026-10-11T01:53:41+00:00",
+   "expires": "2027-01-12T04:21:47.047689+00:00",
+   "looked_up": "2026-10-11T02:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7475,8 +7490,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 833,
-  "lookups_today": 3,
+  "lookups_month": 836,
+  "lookups_today": 6,
   "month": "2026-10"
  }
 }
