@@ -2386,8 +2386,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T12:27:38.042619+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
+   "expires": "2027-01-16T10:09:39.391762+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4316,8 +4316,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T09:26:31.810571+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
+   "expires": "2027-01-04T08:14:19.197863+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6816,6 +6816,16 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "techolution-mobi|frontend|l1": {
+   "expires": "2026-10-19T21:17:07.235926+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
+   "status": "not_found"
+  },
+  "techolution-mobi|security|l1": {
+   "expires": "2026-10-26T01:59:04.217450+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
+   "status": "not_found"
+  },
   "techtamer-studio|swe|l1": {
    "expires": "2026-10-22T04:26:37.992641+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
@@ -7026,6 +7036,11 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "tns|swe|l1": {
+   "expires": "2026-10-28T03:38:27.773833+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
+   "status": "not_found"
+  },
   "tns|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -7209,8 +7224,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T03:09:49.362698+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
+   "expires": "2027-01-11T00:46:48.816154+00:00",
+   "looked_up": "2026-10-11T18:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7829,8 +7844,8 @@
  },
  "meta": {
   "day": "2026-10-11",
-  "lookups_month": 888,
-  "lookups_today": 58,
+  "lookups_month": 891,
+  "lookups_today": 61,
   "month": "2026-10"
  }
 }
