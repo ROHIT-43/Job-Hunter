@@ -578,6 +578,11 @@
    "status": "found",
    "year": 2026
   },
+  "ametek|swe|l1": {
+   "expires": "2026-10-24T22:45:50.461904+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
   "amgen|erp|l1": {
    "expires": "2026-10-17T17:06:57.842239+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -632,6 +637,11 @@
   "apac-relocation|fullstack|l1": {
    "expires": "2026-10-18T18:07:37.466302+00:00",
    "looked_up": "2026-10-11T14:01:21+00:00",
+   "status": "not_found"
+  },
+  "apex-orbital-x|swe|l1": {
+   "expires": "2026-11-02T09:27:50.594416+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "apnemy-technologies-private-limited|devops|l1": {
@@ -1074,6 +1084,11 @@
   "bcg-x|swe|l1": {
    "expires": "2026-10-28T06:01:16.822839+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "bctglobal|data|l1": {
+   "expires": "2026-10-27T04:47:48.519620+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "bctglobal|devops|l1": {
@@ -1541,6 +1556,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "cisco|frontend|l2": {
+   "expires": "2026-11-01T06:45:25.817163+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
   "cisco|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1665,8 +1685,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:24:21.482373+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
+   "expires": "2027-01-13T20:58:09.490453+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1902,8 +1922,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T21:09:22.887184+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
+   "expires": "2027-01-06T19:57:54.854590+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2310,6 +2330,11 @@
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
+  "dreampath-services|erp|l1": {
+   "expires": "2026-10-21T08:56:52.156670+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
   "duncit|swe|l1": {
    "expires": "2026-10-19T05:11:36.727316+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
@@ -2358,6 +2383,11 @@
   "ebay|devops|l1": {
    "expires": "2026-10-20T14:34:42.955260+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "ecolab|swe|l1": {
+   "expires": "2026-10-27T06:11:39.788883+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "edgeforce-solutions|swe|l1": {
@@ -2575,8 +2605,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T14:23:25.906634+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
+   "expires": "2027-01-03T16:06:03.198939+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3362,6 +3392,22 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "guidehouse|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T09:33:52.615396+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 1.0,
+   "sources": [
+    {
+     "title": "companies.naukri.com",
+     "uri": "https://companies.naukri.com/guidehouse-jobs"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "guidewire-software|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -3802,8 +3848,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:35:54.280591+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
+   "expires": "2027-01-13T03:38:01.338738+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4636,8 +4682,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T21:07:56.501729+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
+   "expires": "2027-01-07T11:59:12.021283+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4911,6 +4957,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "mindset-consulting-llc|erp|l1": {
+   "expires": "2026-10-30T08:42:22.322202+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
   },
   "mindtelg|ml|l1": {
    "expires": "2026-10-19T15:35:11.300671+00:00",
@@ -5626,6 +5677,27 @@
    ],
    "status": "found"
   },
+  "paypal|devops|l1": {
+   "expires": "2026-10-20T00:19:42.582486+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
+  "paypal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T20:04:01.188129+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1207538/Paypal-or-SE-1-or-Chennai"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "peak-42-innovation-labs-pvt-ltd|mobile|l3": {
    "expires": "2026-10-13T13:23:47.091980+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -5819,6 +5891,11 @@
   "prodify-innovatives|fullstack|l1": {
    "expires": "2026-10-28T03:11:05.912912+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "proofpoint|swe|l1": {
+   "expires": "2026-10-28T14:42:17.946903+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "propbulls-solutions|swe|l1": {
@@ -6523,6 +6600,11 @@
   "san-engineering-solutions|erp|l1": {
    "expires": "2026-10-22T00:47:50.246436+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "sandcup|swe|l1": {
+   "expires": "2026-10-19T18:22:39.484807+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "sandisk|swe|l1": {
@@ -7279,6 +7361,22 @@
    "expires": "2026-11-01T12:34:48.604295+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
+  },
+  "teamware-solutions|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T04:11:47.904097+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "max_lpa": 3.9,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/teamware-solutions-overview/locations/bengaluru-offices"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "teamware-solutions|frontend|l1": {
    "expires": "2026-10-23T02:25:36.619488+00:00",
@@ -8303,6 +8401,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "xylem|swe|l1": {
+   "expires": "2026-11-01T23:17:15.794039+00:00",
+   "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
   "yash-technologies-middle-east-region|data|l1": {
    "basis": "base",
    "confidence": "low",
@@ -8413,8 +8516,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 965,
-  "lookups_today": 69,
+  "lookups_month": 979,
+  "lookups_today": 83,
   "month": "2026-10"
  }
 }
