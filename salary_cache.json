@@ -604,6 +604,11 @@
    "status": "found",
    "year": 2026
   },
+  "ami|swe|l1": {
+   "expires": "2026-10-28T20:04:49.955424+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "ampstek|swe|l1": {
    "expires": "2026-10-23T16:48:00.536591+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1237,6 +1242,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "blockchain-aiweb3-group|swe|l1": {
+   "expires": "2026-10-25T17:02:41.383073+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "blueera-softech|frontend|l1": {
    "expires": "2026-10-21T23:45:39.760727+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1298,6 +1308,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "bookleaf-publishing|fullstack|l1": {
+   "expires": "2026-10-20T21:36:36.860085+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
   },
   "botlab-dynamics|swe|l1": {
    "expires": "2026-10-31T16:32:19.854583+00:00",
@@ -1597,6 +1612,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "circles1|devops|l2": {
+   "expires": "2026-10-31T15:45:03.600085+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "cisco|frontend|l2": {
    "expires": "2026-11-01T06:45:25.817163+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
@@ -1726,8 +1746,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:08:24.494424+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-05T07:40:10.113050+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1842,6 +1862,22 @@
    "expires": "2026-10-15T18:37:25.836055+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
+  },
+  "compnova|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-08T09:56:54.690694+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "max_lpa": 5.8,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Compnova-Trainee-Software-Engineer-Salaries-E1022365_D_KO9,34.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "comprehendits|swe|l1": {
    "expires": "2026-10-29T14:54:20.065210+00:00",
@@ -1973,8 +2009,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T17:17:19.068099+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-12T21:21:03.102721+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2126,6 +2162,11 @@
    "status": "found",
    "year": 2026
   },
+  "deepsolv|swe|l1": {
+   "expires": "2026-10-30T07:32:12.919842+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "delaplex|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2201,6 +2242,11 @@
   "delta-ssi|erp|l1": {
    "expires": "2026-11-01T13:20:20.719994+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "delta-technology-hub|swe|l1": {
+   "expires": "2026-11-01T12:54:40.554466+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
   "deltek|swe|l1": {
@@ -2590,6 +2636,22 @@
    "expires": "2026-10-27T06:29:20.667328+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "equifax|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T13:15:17.409270+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "max_lpa": 12.9,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/equifax-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "equifax|erp|l1": {
    "expires": "2026-10-16T14:27:06.216177+00:00",
@@ -3157,6 +3219,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "getronics|erp|l1": {
+   "expires": "2026-10-29T05:20:47.734820+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "getsupermoney|swe|l1": {
    "expires": "2026-10-26T20:14:18.548221+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
@@ -3318,6 +3385,11 @@
    "looked_up": "2026-10-09T19:01:24+00:00",
    "status": "not_found"
   },
+  "goaudits|data|l1": {
+   "expires": "2026-10-24T04:21:36.098774+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "goaudits|swe|l1": {
    "expires": "2026-10-23T04:22:51.687217+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
@@ -3451,6 +3523,11 @@
   "growe-global|swe|l1": {
    "expires": "2026-10-27T21:37:28.608120+00:00",
    "looked_up": "2026-10-10T07:01:25+00:00",
+   "status": "not_found"
+  },
+  "growth-yogi|frontend|l1": {
+   "expires": "2026-10-23T02:00:04.575931+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
   "gsobatestpage1|swe|l1": {
@@ -3733,6 +3810,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "hrteamup|swe|l1": {
+   "expires": "2026-10-25T11:33:40.491180+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "hsbc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3939,8 +4021,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T01:18:28.495538+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-16T03:58:46.454388+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4808,8 +4890,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T13:38:49.328147+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-04T07:05:00.773479+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5434,6 +5516,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "niksun|security|l1": {
+   "expires": "2026-10-31T07:04:50.919982+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
   },
   "niksun|swe|l1": {
    "expires": "2026-10-21T12:24:12.742109+00:00",
@@ -6417,6 +6504,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "rarrtech|swe|l1": {
+   "expires": "2026-10-20T06:08:41.223576+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "razorpay|devops|l1": {
    "expires": "2026-10-20T13:16:57.199121+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -6558,9 +6650,19 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "reserve-bank-information-technology-pvt-ltd|devops|l1": {
+   "expires": "2026-10-30T07:48:26.434335+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "resilient-technical-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-10-28T01:27:48.616813+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "responsiveio|swe|l1": {
+   "expires": "2026-10-21T23:53:51.540405+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
   "revx-hospitality|fullstack|l1": {
@@ -7194,6 +7296,16 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "somewhere|frontend|l1": {
+   "expires": "2026-10-30T03:21:54.617281+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "somewhere|swe|l1": {
+   "expires": "2026-10-30T15:09:46.567006+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
   "soti|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -7243,6 +7355,11 @@
   "sourcingxpress|swe|l2": {
    "expires": "2026-10-21T22:02:33.192916+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "splat-studio|swe|l1": {
+   "expires": "2026-10-28T03:22:21.903206+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
   "ssigma|swe|l1": {
@@ -8045,8 +8162,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T04:21:18.334056+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-03T20:55:04.598264+00:00",
+   "looked_up": "2026-10-12T13:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8784,8 +8901,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1018,
-  "lookups_today": 122,
+  "lookups_month": 1037,
+  "lookups_today": 141,
   "month": "2026-10"
  }
 }
