@@ -1837,8 +1837,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T22:48:59.303954+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-11T14:56:37.337955+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2129,8 +2129,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T09:41:48.978697+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-16T05:33:55.361705+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2858,8 +2858,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T16:39:52.239767+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-15T12:49:45.677435+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3709,8 +3709,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T01:26:54.216569+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-14T00:29:15.627737+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4347,8 +4347,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:09:08.387505+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-07T05:12:54.785739+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5613,6 +5613,11 @@
    "looked_up": "2026-10-11T11:01:20+00:00",
    "status": "not_found"
   },
+  "nasuni|swe|l1": {
+   "expires": "2026-10-27T13:42:32.463621+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
+   "status": "not_found"
+  },
   "natwest-group|swe|l1": {
    "expires": "2026-10-31T15:31:22.799075+00:00",
    "looked_up": "2026-10-12T16:01:29+00:00",
@@ -5855,8 +5860,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T01:22:27.711916+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-13T03:58:37.347948+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6761,8 +6766,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T16:20:14.833993+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-14T05:51:37.350296+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7213,8 +7218,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T13:17:08.961320+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-07T20:37:49.218240+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7812,8 +7817,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T07:10:14.783754+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-15T02:17:43.247200+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8603,8 +8608,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T23:28:40.382894+00:00",
-   "looked_up": "2026-10-12T22:01:28+00:00",
+   "expires": "2027-01-14T00:05:27.073423+00:00",
+   "looked_up": "2026-10-12T22:59:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9357,8 +9362,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1092,
-  "lookups_today": 196,
+  "lookups_month": 1093,
+  "lookups_today": 197,
   "month": "2026-10"
  }
 }
