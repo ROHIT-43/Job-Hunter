@@ -131,6 +131,22 @@
    "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
+  "accentureindia|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-07T09:32:35.400861+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 5.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/accenture-salaries/full-stack-web-developer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "accentureindia|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -324,6 +340,11 @@
   "afterquery-experts|swe|l1": {
    "expires": "2026-10-28T02:05:40.302717+00:00",
    "looked_up": "2026-10-12T05:57:40+00:00",
+   "status": "not_found"
+  },
+  "agco-corporation|erp|l1": {
+   "expires": "2026-11-01T23:18:26.186123+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "status": "not_found"
   },
   "agilegrid-solutions|swe|l1": {
@@ -1816,8 +1837,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T17:59:13.654107+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-04T07:43:19.530445+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2108,8 +2129,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:29:46.825863+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-16T18:26:59.918754+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2837,8 +2858,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T14:08:33.381910+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-09T17:37:04.476074+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3683,8 +3704,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T09:42:28.011764+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-13T13:56:57.790543+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -3697,6 +3718,11 @@
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-10-28T22:00:12.959330+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "great-media-technologies|fullstack|l1": {
+   "expires": "2026-10-28T09:51:12.692600+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "status": "not_found"
   },
   "growe-global|swe|l1": {
@@ -5706,6 +5732,11 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "neuvayscounsulting|erp|l1": {
+   "expires": "2026-10-30T12:13:27.098852+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
+   "status": "not_found"
+  },
   "nevrio-technology-services-pvt-ltd|mobile|l1": {
    "expires": "2026-10-21T12:42:23.922286+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
@@ -5805,8 +5836,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:21:01.861132+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-07T04:02:42.562873+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6711,8 +6742,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:47:46.284382+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-14T03:23:20.814379+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7292,6 +7323,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "schengen-visa-consultancy-limited|swe|l1": {
+   "expires": "2026-10-21T17:56:31.318604+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
+   "status": "not_found"
+  },
   "scoutit-in|data|l1": {
    "expires": "2026-10-24T10:31:02.380342+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -7743,8 +7779,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:52:43.894971+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-09T16:09:22.260164+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8534,8 +8570,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T00:35:23.444056+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
+   "expires": "2027-01-10T11:29:03.242311+00:00",
+   "looked_up": "2026-10-12T21:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9288,8 +9324,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1086,
-  "lookups_today": 190,
+  "lookups_month": 1091,
+  "lookups_today": 195,
   "month": "2026-10"
  }
 }
