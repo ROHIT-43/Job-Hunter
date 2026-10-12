@@ -336,6 +336,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "ai-vidya|swe|l1": {
+   "expires": "2026-10-20T10:10:12.606450+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "ainexushubofficial|swe|l1": {
    "expires": "2026-11-01T05:06:55.109963+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
@@ -385,6 +390,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "alamance-it-solutions-llp|erp|l1": {
+   "expires": "2026-10-29T07:39:28.155590+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
   },
   "algoleap|swe|l1": {
    "basis": "ctc",
@@ -1640,8 +1650,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T18:00:21.661818+00:00",
-   "looked_up": "2026-10-12T06:09:26+00:00",
+   "expires": "2027-01-13T05:11:26.943543+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1877,8 +1887,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T01:09:28.642816+00:00",
-   "looked_up": "2026-10-12T06:09:26+00:00",
+   "expires": "2027-01-03T19:57:34.791087+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2414,6 +2424,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "engel-global|erp|l1": {
+   "expires": "2026-10-22T05:03:06.029797+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "enkashbusiness|ml|l1": {
    "expires": "2026-10-16T05:36:11.624625+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -2458,6 +2473,11 @@
   "ernstandyoung|erp|l1": {
    "expires": "2026-10-23T07:47:09.396878+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "ernstandyoung|fullstack|l1": {
+   "expires": "2026-10-30T21:29:43.709247+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "ernstandyoung|swe|l1": {
@@ -2515,8 +2535,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T11:08:38.037185+00:00",
-   "looked_up": "2026-10-12T06:09:26+00:00",
+   "expires": "2027-01-12T00:09:15.922741+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2711,6 +2731,26 @@
     }
    ],
    "status": "found"
+  },
+  "fidelity-investments|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T02:51:48.049829+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 12.7,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/fidelity-investments/salaries/software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/fidelity-investments-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "finacle|swe|l1": {
    "expires": "2026-10-17T10:21:45.400852+00:00",
@@ -2937,6 +2977,11 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
+  "geektrust|devops|l1": {
+   "expires": "2026-11-01T17:22:48.759717+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3130,6 +3175,11 @@
   "gms-chicago|erp|l1": {
    "expires": "2026-10-27T11:58:40.830180+00:00",
    "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
+  "goaudits|swe|l1": {
+   "expires": "2026-10-23T04:22:51.687217+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "gobefisc|swe|l1": {
@@ -3384,6 +3434,11 @@
    "status": "found",
    "year": 2026
   },
+  "healthifyme|fullstack|l1": {
+   "expires": "2026-10-23T01:41:50.322444+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "hevis-technologies-pvt-ltd|fullstack|l1": {
    "expires": "2026-10-21T08:58:19.934455+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -3543,6 +3598,11 @@
    "looked_up": "2026-10-11T19:01:18+00:00",
    "status": "not_found"
   },
+  "huntingcubeai|security|l1": {
+   "expires": "2026-10-24T15:37:58.532408+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "huntingcubeai|swe|l1": {
    "expires": "2026-10-26T05:47:44.346449+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3681,8 +3741,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T22:36:30.914588+00:00",
-   "looked_up": "2026-10-12T06:09:26+00:00",
+   "expires": "2027-01-12T08:01:18.153823+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3931,6 +3991,11 @@
   "innovaesi|data|l1": {
    "expires": "2026-10-17T02:16:35.676686+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "innovaesi|devops|l1": {
+   "expires": "2026-10-24T09:49:19.614410+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "innovaesi|erp|l1": {
@@ -4490,8 +4555,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:20:54.842787+00:00",
-   "looked_up": "2026-10-12T06:09:26+00:00",
+   "expires": "2027-01-11T15:09:41.422438+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4617,6 +4682,11 @@
   "maktechnologiesllc|erp|l1": {
    "expires": "2026-10-16T09:15:35.934393+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "manevaconsulting|swe|l1": {
+   "expires": "2026-10-26T03:59:59.203465+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "map-my-crop|devops|l1": {
@@ -5557,6 +5627,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "prepay-nation|fullstack|l1": {
+   "expires": "2026-10-20T08:34:26.532021+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "primetrace|mobile|l1": {
    "expires": "2026-10-17T07:05:25.572908+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -6416,6 +6491,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "sigma-software|mobile|l1": {
+   "expires": "2026-10-27T22:41:06.500146+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "sigma-software|swe|l1": {
    "expires": "2026-10-20T14:26:40.142408+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -6515,6 +6595,11 @@
   "smart-ims|data|l1": {
    "expires": "2026-10-23T04:29:20.193061+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
+  "smart-ims|swe|l1": {
+   "expires": "2026-10-30T14:10:44.817919+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "smart-theta|fullstack|l1": {
@@ -7011,6 +7096,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "technix-acs-pvt-ltd-|swe|l1": {
+   "expires": "2026-10-28T09:21:40.964148+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
   "technogenindia|frontend|l1": {
    "expires": "2026-10-17T01:26:31.595619+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -7044,6 +7134,11 @@
   "techtamer-studio|swe|l1": {
    "expires": "2026-10-22T04:26:37.992641+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
+  "tekgenio|erp|l1": {
+   "expires": "2026-10-21T13:28:49.698596+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "teknikoz|erp|l1": {
@@ -7239,6 +7334,11 @@
   "thinkdatax|fullstack|l2": {
    "expires": "2026-10-18T19:07:00.623492+00:00",
    "looked_up": "2026-10-10T03:01:20+00:00",
+   "status": "not_found"
+  },
+  "thinkwise-consulting-llp|data|l1": {
+   "expires": "2026-10-22T03:24:39.526850+00:00",
+   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "thyssenkrupp-nucera|erp|l1": {
@@ -8064,8 +8164,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 917,
-  "lookups_today": 21,
+  "lookups_month": 934,
+  "lookups_today": 38,
   "month": "2026-10"
  }
 }
