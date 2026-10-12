@@ -855,6 +855,11 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "astreya|swe|l2": {
+   "expires": "2026-10-26T12:50:18.893057+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
+   "status": "not_found"
+  },
   "ata-freight|fullstack|l1": {
    "expires": "2026-10-14T23:10:03.318216+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
@@ -1667,6 +1672,11 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "cisco|data|l1": {
+   "expires": "2026-10-21T09:10:00.152657+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
+   "status": "not_found"
+  },
   "cisco|frontend|l2": {
    "expires": "2026-11-01T06:45:25.817163+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
@@ -1796,8 +1806,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T15:43:50.536479+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-07T01:27:08.246188+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2064,8 +2074,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:03:18.932277+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-17T03:45:04.129390+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2661,6 +2671,11 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
+  "engradar|swe|l1": {
+   "expires": "2026-10-25T21:17:20.754000+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
+   "status": "not_found"
+  },
   "enkashbusiness|ml|l1": {
    "expires": "2026-10-16T05:36:11.624625+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -2788,8 +2803,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:33:56.392001+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-17T16:39:36.191072+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3624,8 +3639,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T19:24:53.747408+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-13T21:18:15.128174+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4146,8 +4161,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T15:47:45.723054+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-16T01:02:15.843844+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4925,6 +4940,11 @@
   "labcorp|swe|l1": {
    "expires": "2026-10-23T17:14:38.989851+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "lam-research|swe|l1": {
+   "expires": "2026-10-25T01:37:21.012327+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "status": "not_found"
   },
   "larsen-&amp;-toubro-limited|swe|l1": {
@@ -7631,8 +7651,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:57:05.074295+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-11T01:09:49.515456+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8422,8 +8442,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T23:22:40.336432+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
+   "expires": "2027-01-06T21:30:09.254749+00:00",
+   "looked_up": "2026-10-12T18:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9176,8 +9196,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1073,
-  "lookups_today": 177,
+  "lookups_month": 1077,
+  "lookups_today": 181,
   "month": "2026-10"
  }
 }
