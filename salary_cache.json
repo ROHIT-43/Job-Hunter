@@ -1837,8 +1837,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T07:43:19.530445+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-13T22:48:59.303954+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2129,8 +2129,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:26:59.918754+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-11T09:41:48.978697+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2858,8 +2858,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T17:37:04.476074+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-07T16:39:52.239767+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2905,6 +2905,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "evince-infosoft|swe|l1": {
+   "expires": "2026-10-30T06:53:39.236618+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
+   "status": "not_found"
   },
   "exillar|data|l1": {
    "expires": "2026-10-20T02:17:01.728215+00:00",
@@ -3704,8 +3709,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T13:56:57.790543+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-10T01:26:54.216569+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4338,6 +4343,20 @@
    "expires": "2026-10-21T10:31:11.797644+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
+  },
+  "includehelp|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-13T11:09:08.387505+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "indiasfutureinvestors|frontend|l1": {
    "expires": "2026-10-28T12:50:10.918206+00:00",
@@ -5836,8 +5855,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T04:02:42.562873+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-04T01:22:27.711916+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6742,8 +6761,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T03:23:20.814379+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-09T16:20:14.833993+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7190,6 +7209,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "rx-digital-school|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T13:17:08.961320+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
+   "max_lpa": 1.2,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "saatvik-agro-processors-private-limited|frontend|l1": {
    "expires": "2026-10-18T15:11:14.798994+00:00",
@@ -7779,8 +7812,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T16:09:22.260164+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-11T07:10:14.783754+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8570,8 +8603,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T11:29:03.242311+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
+   "expires": "2027-01-04T23:28:40.382894+00:00",
+   "looked_up": "2026-10-12T22:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9324,8 +9357,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1091,
-  "lookups_today": 195,
+  "lookups_month": 1092,
+  "lookups_today": 196,
   "month": "2026-10"
  }
 }
