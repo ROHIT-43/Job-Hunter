@@ -629,6 +629,11 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "ansira|swe|l2": {
+   "expires": "2026-11-01T16:41:41.466173+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "anything-anywhere|mobile|l1": {
    "expires": "2026-10-29T07:12:31.307784+00:00",
    "looked_up": "2026-10-10T01:01:20+00:00",
@@ -1284,6 +1289,11 @@
    "status": "found",
    "year": 2026
   },
+  "botlab-dynamics|swe|l1": {
+   "expires": "2026-10-31T16:32:19.854583+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "bp|swe|l1": {
    "expires": "2026-10-23T15:42:32.745200+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1463,6 +1473,22 @@
    "expires": "2026-10-20T15:59:33.874401+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
+  },
+  "carelon-global-solutions-in|data|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T17:44:48.263154+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "max_lpa": 14.4,
+   "min_lpa": 14.4,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/carelon-global-solutions/salaries/software-engineer/title/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "carelon-global-solutions-in|swe|l3": {
    "basis": "ctc",
@@ -1685,8 +1711,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T20:58:09.490453+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
+   "expires": "2027-01-07T04:00:38.082163+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1800,6 +1826,11 @@
   "commergence|swe|l1": {
    "expires": "2026-10-15T18:37:25.836055+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "comprehendits|swe|l1": {
+   "expires": "2026-10-29T14:54:20.065210+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "compunetconnections|swe|l1": {
@@ -1922,8 +1953,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T19:57:54.854590+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
+   "expires": "2027-01-16T13:17:53.179638+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -1956,6 +1987,11 @@
   "cxoinc|swe|l1": {
    "expires": "2026-10-21T12:09:32.188847+00:00",
    "looked_up": "2026-10-12T05:01:24+00:00",
+   "status": "not_found"
+  },
+  "cyan360-inc|erp|l1": {
+   "expires": "2026-10-24T06:17:58.438375+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "cyces-innovation-labs-llp|swe|l1": {
@@ -2605,8 +2641,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T16:06:03.198939+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
+   "expires": "2027-01-10T19:43:10.317350+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3468,6 +3504,26 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "harmanindia|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-14T08:55:07.422672+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/HARMAN-Associate-Software-Engineer-Developer-Salaries-E315_D_KO7,44_P2.htm"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/harman-salaries/associate-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "harmanindia|swe|l2": {
    "expires": "2026-10-20T04:03:57.275822+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
@@ -3504,6 +3560,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hcltech|mobile|l1": {
+   "expires": "2026-11-01T05:42:48.218761+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
   },
   "headout-com|frontend|l1": {
    "basis": "base",
@@ -3848,8 +3909,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:38:01.338738+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
+   "expires": "2027-01-04T02:52:24.994222+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3934,6 +3995,11 @@
   "ilizien|frontend|l1": {
    "expires": "2026-10-27T18:29:28.700039+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "in2itebs|erp|l1": {
+   "expires": "2026-10-21T10:31:11.797644+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "indiasfutureinvestors|frontend|l1": {
@@ -4450,6 +4516,11 @@
    "looked_up": "2026-10-11T00:01:26+00:00",
    "status": "not_found"
   },
+  "karobidai|mobile|l1": {
+   "expires": "2026-10-29T02:47:12.453131+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "karya-inc|swe|l1": {
    "expires": "2026-10-13T06:10:24.596144+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -4475,6 +4546,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "keywordsstudios|devops|l1": {
+   "expires": "2026-10-24T17:49:34.538489+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
   },
   "kizen-education|swe|l1": {
    "basis": "posted",
@@ -4682,8 +4758,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T11:59:12.021283+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
+   "expires": "2027-01-12T07:55:05.559074+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4902,6 +4978,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "medpace|data|l1": {
+   "expires": "2026-10-26T08:31:54.270358+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "meenakshi-sundararajan-group-of-institutions|swe|l1": {
    "expires": "2026-11-02T02:38:42.035423+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -4910,6 +4991,11 @@
   "mega-nucleus|fullstack|l1": {
    "expires": "2026-10-25T08:57:22.314772+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "meril|devops|l1": {
+   "expires": "2026-10-29T02:43:36.099208+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "meril|swe|l1": {
@@ -5350,6 +5436,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "noventiq|devops|l1": {
+   "expires": "2026-10-31T14:53:35.767702+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "novyte-materials|fullstack|l1": {
    "expires": "2026-10-18T18:49:32.585808+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -5585,6 +5676,11 @@
   "orbion-infotech|erp|l1": {
    "expires": "2026-10-19T03:30:10.056155+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "orbitaid-aerospace|swe|l1": {
+   "expires": "2026-10-30T21:40:00.664231+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "origin-autonomy|qa|l1": {
@@ -5918,6 +6014,22 @@
    "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
+  "pt-global-tiket-network|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-16T03:52:21.673481+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2091288/tiketcom-sde-1new-grad-noida-wfh"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "ptcinc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -6123,6 +6235,22 @@
    "expires": "2026-10-26T23:24:02.084873+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "quest-global|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T11:10:54.597155+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "max_lpa": 13.4,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/quest-global-technologies-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "quest-global|mobile|l1": {
    "basis": "ctc",
@@ -7688,6 +7816,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "tijoree-money|mobile|l1": {
+   "expires": "2026-10-25T15:21:12.450116+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "tjxindia|swe|l2": {
    "expires": "2026-10-29T11:07:25.017339+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -7736,6 +7869,11 @@
     }
    ],
    "status": "found"
+  },
+  "tricog-health|frontend|l1": {
+   "expires": "2026-10-25T18:59:47.990846+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
   },
   "trigent-professional-services|swe|l1": {
    "basis": "base",
@@ -8022,6 +8160,11 @@
     }
    ],
    "status": "found"
+  },
+  "venturesathi|frontend|l1": {
+   "expires": "2026-10-24T13:58:17.475225+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
   },
   "veradigm|swe|l1": {
    "expires": "2026-10-16T22:55:58.564710+00:00",
@@ -8473,6 +8616,11 @@
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
+  "zillow|swe|l1": {
+   "expires": "2026-10-19T18:45:24.253440+00:00",
+   "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
   "zipaworld|ml|l1": {
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -8516,8 +8664,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 979,
-  "lookups_today": 83,
+  "lookups_month": 999,
+  "lookups_today": 103,
   "month": "2026-10"
  }
 }
