@@ -447,6 +447,22 @@
    "status": "found",
    "year": 2026
   },
+  "amagicorporation|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T18:56:55.894078+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
+   "max_lpa": 34.5,
+   "min_lpa": 34.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/zh-tw/companies/amagi/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "amazon|data|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1609,8 +1625,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T06:23:16.116208+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-09T16:40:51.124561+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1846,8 +1862,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T03:24:01.340183+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-09T01:12:58.654915+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -1860,6 +1876,11 @@
   "customize-theme|swe|l1": {
    "expires": "2026-10-14T15:32:49.459023+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
+  "cxoinc|swe|l1": {
+   "expires": "2026-10-21T12:09:32.188847+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "status": "not_found"
   },
   "cyces-innovation-labs-llp|swe|l1": {
@@ -2464,8 +2485,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T03:35:50.359415+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-08T18:21:01.275674+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3630,8 +3651,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:32:44.281838+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-10T03:01:47.326125+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4439,8 +4460,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T22:03:01.400857+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-04T07:00:30.263395+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5995,6 +6016,11 @@
    "status": "found",
    "year": 2022
   },
+  "rivirtual|swe|l1": {
+   "expires": "2026-10-24T11:45:10.291450+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
+   "status": "not_found"
+  },
   "rmsi|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -6604,6 +6630,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "stratign|swe|l1": {
+   "expires": "2026-10-27T15:54:49.566525+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
+   "status": "not_found"
+  },
   "suitable-ai|swe|l1": {
    "expires": "2026-10-19T01:19:45.027575+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -6637,6 +6668,11 @@
   "switsdigital|data|l1": {
    "expires": "2026-10-22T06:37:17.717701+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "switsdigital|devops|l1": {
+   "expires": "2026-11-01T19:14:22.683120+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "status": "not_found"
   },
   "switsdigital|erp|l1": {
@@ -7368,8 +7404,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T03:06:39.363040+00:00",
-   "looked_up": "2026-10-12T04:01:24+00:00",
+   "expires": "2027-01-04T04:12:02.765926+00:00",
+   "looked_up": "2026-10-12T05:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7988,8 +8024,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 904,
-  "lookups_today": 8,
+  "lookups_month": 909,
+  "lookups_today": 13,
   "month": "2026-10"
  }
 }
