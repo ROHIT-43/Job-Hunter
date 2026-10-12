@@ -2111,6 +2111,16 @@
    "status": "found",
    "year": 2026
   },
+  "digitalxnode|data|l1": {
+   "expires": "2026-10-27T16:59:24.135872+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
+   "status": "not_found"
+  },
+  "digitalxnode|mobile|l1": {
+   "expires": "2026-10-22T09:42:47.826212+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
+   "status": "not_found"
+  },
   "doadlive|swe|l1": {
    "expires": "2026-10-20T19:57:02.214750+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -2396,8 +2406,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:40:20.106107+00:00",
-   "looked_up": "2026-10-11T23:43:36+00:00",
+   "expires": "2027-01-12T17:45:03.130961+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3562,8 +3572,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T12:57:28.650983+00:00",
-   "looked_up": "2026-10-11T23:43:36+00:00",
+   "expires": "2027-01-08T15:27:07.386819+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4366,8 +4376,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T21:08:57.721131+00:00",
-   "looked_up": "2026-10-11T23:43:36+00:00",
+   "expires": "2027-01-05T07:37:13.136753+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5885,6 +5895,22 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "rippling|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-04T07:58:55.067596+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
+   "max_lpa": 33.0,
+   "min_lpa": 33.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1870230/Rippling"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "rippling|swe|l1": {
    "expires": "2026-10-18T06:05:22.515942+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -7274,8 +7300,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T22:48:03.710112+00:00",
-   "looked_up": "2026-10-11T23:43:36+00:00",
+   "expires": "2027-01-16T23:41:52.297893+00:00",
+   "looked_up": "2026-10-12T00:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7893,9 +7919,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-11",
-  "lookups_month": 896,
-  "lookups_today": 66,
+  "day": "2026-10-12",
+  "lookups_month": 899,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
