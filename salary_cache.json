@@ -1609,8 +1609,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T01:36:42.095782+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-04T06:23:16.116208+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1690,6 +1690,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "collabera|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T02:22:29.135964+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/collabera-technologies-salaries/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/collabera-technologies-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "colleve|erp|l1": {
    "expires": "2026-10-26T01:41:38.297671+00:00",
@@ -1826,8 +1846,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T18:25:22.134724+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-17T03:24:01.340183+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2444,8 +2464,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T06:59:43.876724+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-09T03:35:50.359415+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3610,8 +3630,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T01:33:48.308680+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-11T21:32:44.281838+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4419,8 +4439,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T13:38:00.557025+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-05T22:03:01.400857+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -7348,8 +7368,8 @@
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T21:48:47.613054+00:00",
-   "looked_up": "2026-10-12T03:01:22+00:00",
+   "expires": "2027-01-10T03:06:39.363040+00:00",
+   "looked_up": "2026-10-12T04:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7968,8 +7988,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 903,
-  "lookups_today": 7,
+  "lookups_month": 904,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
