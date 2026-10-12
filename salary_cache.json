@@ -860,6 +860,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "athena-tech|data|l1": {
+   "expires": "2026-10-26T07:07:53.778162+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
   "athenahealth|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1791,8 +1796,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T00:14:56.354192+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-07T15:43:50.536479+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2059,8 +2064,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T19:00:13.587370+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-10T05:03:18.932277+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2783,8 +2788,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T09:11:03.436099+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-13T03:33:56.392001+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3537,6 +3542,26 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "google|devops|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-03T17:27:41.259291+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 24.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1961714/google-l3-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1746720/google-sde-2-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "google|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -3599,8 +3624,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:57:34.552942+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-05T19:24:53.747408+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -3690,6 +3715,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hakkoda|erp|l1": {
+   "expires": "2026-10-31T00:08:32.072803+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
   },
   "hanoch-automations|swe|l1": {
    "expires": "2026-10-20T03:09:39.799197+00:00",
@@ -4116,8 +4146,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T01:37:02.869487+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-13T15:47:45.723054+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5153,6 +5183,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mastercard|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-08T05:21:08.824898+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "max_lpa": 17.1,
+   "min_lpa": 15.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5042984/Mastercard-or-Software-Engineer-1(L9)-or-Pune/"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/mastercard/salaries/software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "mastercard|swe|l2": {
    "basis": "ctc",
@@ -6941,6 +6991,11 @@
    "status": "found",
    "year": 2026
   },
+  "roche|fullstack|l1": {
+   "expires": "2026-10-27T20:42:13.315787+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
   "rockwell-automation|swe|l1": {
    "expires": "2026-10-28T14:27:07.212406+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -7538,6 +7593,11 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "sprrg-internet-pvt-ltd|swe|l1": {
+   "expires": "2026-10-31T05:42:06.190576+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
   "ssigma|swe|l1": {
    "expires": "2026-10-25T09:28:51.257342+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -7571,8 +7631,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T08:33:16.882632+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-17T07:57:05.074295+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -7743,6 +7803,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "syntrace|swe|l1": {
+   "expires": "2026-10-25T07:58:06.050191+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
   },
   "systemsofttech|frontend|l1": {
    "basis": "base",
@@ -8357,8 +8422,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T09:41:39.674952+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2027-01-12T23:22:40.336432+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8523,6 +8588,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "valarr|swe|l1": {
+   "expires": "2026-10-30T15:22:22.322360+00:00",
+   "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
   },
   "valgenesis-inc|fullstack|l1": {
    "basis": "base",
@@ -9106,8 +9176,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1065,
-  "lookups_today": 169,
+  "lookups_month": 1073,
+  "lookups_today": 177,
   "month": "2026-10"
  }
 }
