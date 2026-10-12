@@ -1380,6 +1380,11 @@
    "looked_up": "2026-10-09T01:01:22+00:00",
    "status": "not_found"
   },
+  "bt|devops|l1": {
+   "expires": "2026-10-30T04:41:52.533494+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
+   "status": "not_found"
+  },
   "bytespoke|swe|l1": {
    "expires": "2026-10-20T22:51:05.992827+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -1746,8 +1751,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T07:40:10.113050+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
+   "expires": "2027-01-09T01:56:13.751156+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2009,8 +2014,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T21:21:03.102721+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
+   "expires": "2027-01-08T19:08:52.325483+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2728,8 +2733,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T14:14:39.433954+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
+   "expires": "2027-01-12T01:49:00.339689+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3515,6 +3520,20 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "grainwish-ai|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-09T18:44:23.079992+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
+   "max_lpa": 2.2,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-10-28T22:00:12.959330+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -4021,8 +4040,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T03:58:46.454388+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
+   "expires": "2027-01-06T07:04:16.799807+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4890,8 +4909,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T07:05:00.773479+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
+   "expires": "2027-01-17T01:28:33.745615+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5686,6 +5705,22 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "nvent|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-03T20:48:38.014344+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
+   "max_lpa": 17.1,
+   "min_lpa": 11.9,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/nvent/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nvidia|frontend|l1": {
    "expires": "2026-10-22T20:21:56.092900+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
@@ -5769,6 +5804,11 @@
   "onestopesg|fullstack|l1": {
    "expires": "2026-10-13T18:54:04.566461+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "open-teq|swe|l1": {
+   "expires": "2026-10-23T21:45:51.778458+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
   },
   "opengov-inc|swe|l2": {
@@ -7286,6 +7326,11 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
+  "solarwinds|devops|l1": {
+   "expires": "2026-10-22T21:21:22.814638+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
+   "status": "not_found"
+  },
   "solventumhealth|devops|l1": {
    "expires": "2026-10-23T14:56:21.421275+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -7294,6 +7339,11 @@
   "solventumhealth|swe|l1": {
    "expires": "2026-10-18T03:19:01.404367+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
+  "solvex-solutions|devops|l1": {
+   "expires": "2026-10-30T19:40:25.201760+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
   },
   "somewhere|frontend|l1": {
@@ -7391,6 +7441,20 @@
    "expires": "2026-10-14T14:29:08.220190+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
+  },
+  "stealth-startup-community|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T16:46:59.798287+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-10-27T00:03:23.346769+00:00",
@@ -8162,8 +8226,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T20:55:04.598264+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
+   "expires": "2027-01-06T01:28:00.865699+00:00",
+   "looked_up": "2026-10-12T14:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8901,8 +8965,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1037,
-  "lookups_today": 141,
+  "lookups_month": 1042,
+  "lookups_today": 146,
   "month": "2026-10"
  }
 }
