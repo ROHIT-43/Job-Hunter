@@ -794,6 +794,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "arteria_2|mobile|l1": {
+   "expires": "2026-10-29T01:57:59.338812+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "ascendion|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1134,6 +1139,11 @@
   "berrybytes|devops|l1": {
    "expires": "2026-10-19T15:01:55.148505+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
+   "status": "not_found"
+  },
+  "bestex-research-group|data|l1": {
+   "expires": "2026-10-25T18:02:50.150081+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "betasoft-solutions|swe|l2": {
@@ -1506,6 +1516,11 @@
    "status": "found",
    "year": 2026
   },
+  "carmatec|mobile|l1": {
+   "expires": "2026-10-29T09:32:16.015309+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1711,8 +1726,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T04:00:38.082163+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
+   "expires": "2027-01-13T03:08:24.494424+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1889,6 +1904,11 @@
    "looked_up": "2026-10-10T21:01:24+00:00",
    "status": "not_found"
   },
+  "creditsaison-india|swe|l2": {
+   "expires": "2026-10-27T14:15:21.379800+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "creuto|devops|l1": {
    "expires": "2026-10-26T11:46:39.601656+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
@@ -1953,8 +1973,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T13:17:53.179638+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
+   "expires": "2027-01-10T17:17:19.068099+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2181,6 +2201,11 @@
   "delta-ssi|erp|l1": {
    "expires": "2026-11-01T13:20:20.719994+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "deltek|swe|l1": {
+   "expires": "2026-10-30T22:16:23.495229+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "deltreq|swe|l1": {
@@ -2641,8 +2666,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T19:43:10.317350+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
+   "expires": "2027-01-05T14:14:39.433954+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2651,6 +2676,11 @@
     }
    ],
    "status": "found"
+  },
+  "everpure-data|fullstack|l1": {
+   "expires": "2026-10-31T19:32:40.516876+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
   },
   "everpure-data|swe|l1": {
    "basis": "ctc",
@@ -3909,8 +3939,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T02:52:24.994222+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
+   "expires": "2027-01-13T01:18:28.495538+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4022,6 +4052,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "inflexion-technology-solutions|erp|l1": {
+   "expires": "2026-11-01T07:46:01.117118+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "infobeans|erp|l1": {
    "expires": "2026-10-20T08:05:08.887712+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -4129,6 +4164,11 @@
    "status": "found",
    "year": 2026
   },
+  "infovision|fullstack|l1": {
+   "expires": "2026-10-30T12:15:59.805667+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "infovision|mobile|l1": {
    "expires": "2026-10-26T04:20:18.539249+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4149,6 +4189,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ingold-solutions-private-limited|erp|l1": {
+   "expires": "2026-10-24T09:55:52.383321+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
   },
   "ingram-micro|swe|l1": {
    "basis": "base",
@@ -4204,6 +4249,11 @@
   "insight-global|security|l1": {
    "expires": "2026-10-24T15:12:21.746395+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
+   "status": "not_found"
+  },
+  "insight-international-uk-ltd|data|l1": {
+   "expires": "2026-10-29T09:29:59.932595+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "insight|swe|l3": {
@@ -4758,8 +4808,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:55:05.559074+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
+   "expires": "2027-01-12T13:38:49.328147+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4991,6 +5041,11 @@
   "mega-nucleus|fullstack|l1": {
    "expires": "2026-10-25T08:57:22.314772+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "mentara-global-technologies|erp|l1": {
+   "expires": "2026-10-27T00:14:04.430496+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "meril|devops|l1": {
@@ -5295,6 +5350,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "neevglobal|erp|l1": {
+   "expires": "2026-11-02T09:56:51.437423+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "netapp|erp|l1": {
    "expires": "2026-10-23T13:17:03.813491+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
@@ -5409,6 +5469,11 @@
   "nloops|swe|l1": {
    "expires": "2026-10-25T13:06:13.040672+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "nmtronics|swe|l1": {
+   "expires": "2026-11-01T16:10:38.327309+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "nocko|erp|l1": {
@@ -5835,6 +5900,22 @@
    "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
+  "persistent-systems|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T01:25:28.558728+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/persistent-systems-salaries/junior-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "philips|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5972,6 +6053,11 @@
   "principle-pride|data|l1": {
    "expires": "2026-10-19T15:29:50.950291+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "principle-pride|devops|l1": {
+   "expires": "2026-10-27T16:46:50.037968+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "principle-pride|swe|l1": {
@@ -7040,6 +7126,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "smartworkingsolutions|mobile|l1": {
+   "expires": "2026-10-29T11:44:59.123686+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7122,6 +7213,11 @@
   "sourcebae|fullstack|l1": {
    "expires": "2026-10-19T04:20:57.654049+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "sourcemash|frontend|l1": {
+   "expires": "2026-10-31T12:54:55.782962+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "sourceright|frontend|l1": {
@@ -7946,6 +8042,20 @@
    "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
+  "ubsforums|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-11T04:21:18.334056+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "unikloud-technext|swe|l1": {
    "expires": "2026-10-31T12:47:23.020186+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
@@ -8142,6 +8252,11 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
+  "vayuz-technologies|erp|l1": {
+   "expires": "2026-10-30T23:51:28.556805+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
   "vensurehr|swe|l1": {
    "expires": "2026-10-23T08:53:01.905257+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -8169,6 +8284,11 @@
   "veradigm|swe|l1": {
    "expires": "2026-10-16T22:55:58.564710+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
+   "status": "not_found"
+  },
+  "verisk-analytics|devops|l1": {
+   "expires": "2026-10-19T15:29:49.769387+00:00",
+   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "versatile-employer-of-record|mobile|l1": {
@@ -8664,8 +8784,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 999,
-  "lookups_today": 103,
+  "lookups_month": 1018,
+  "lookups_today": 122,
   "month": "2026-10"
  }
 }
