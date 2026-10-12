@@ -472,6 +472,11 @@
    "status": "found",
    "year": 2026
   },
+  "altera-health|security|l1": {
+   "expires": "2026-10-20T20:13:17.641087+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
   "amadeus|swe|l2": {
    "expires": "2026-10-28T07:03:28.371729+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
@@ -1652,6 +1657,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "chatsparkk|swe|l1": {
+   "expires": "2026-10-30T23:35:18.382292+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
   "chessbrainz-chessacademy|fullstack|l1": {
    "expires": "2026-10-21T22:15:04.981742+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
@@ -1806,8 +1816,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T12:51:58.994891+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-11T17:59:13.654107+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1917,6 +1927,30 @@
    "expires": "2026-10-19T19:50:48.963734+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
+  },
+  "comcast|data|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-05T06:50:07.715098+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "max_lpa": 15.5,
+   "min_lpa": 13.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Comcast-Software-Development-Engineer-II-Salaries-E1280_D_KO8,40.htm"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4998224/"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Comcast/salaries/Data-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "commergence|swe|l1": {
    "expires": "2026-10-15T18:37:25.836055+00:00",
@@ -2074,8 +2108,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T19:56:54.006977+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-15T18:29:46.825863+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2803,8 +2837,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T10:53:26.461967+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-14T14:08:33.381910+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3005,6 +3039,11 @@
    ],
    "status": "found"
   },
+  "fidelity-international|data|l1": {
+   "expires": "2026-11-02T05:09:21.968633+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
   "fidelity-investments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3176,6 +3215,11 @@
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "franklin-templeton|swe|l1": {
+   "expires": "2026-10-25T19:33:52.980393+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
   "freseniusmedicalcare|erp|l1": {
@@ -3639,8 +3683,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T06:25:25.779114+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-13T09:42:28.011764+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -3741,6 +3785,11 @@
    "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
+  "hansen-technologies|swe|l1": {
+   "expires": "2026-10-25T18:45:14.215613+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
   "harisan-technologies|devops|l1": {
    "expires": "2026-10-24T23:22:04.827270+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
@@ -3774,6 +3823,11 @@
   "harmanindia|swe|l2": {
    "expires": "2026-10-20T04:03:57.275822+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
+   "status": "not_found"
+  },
+  "harris-computer.|security|l1": {
+   "expires": "2026-10-20T14:42:46.287834+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
   "hca-healthcare-india|swe|l1": {
@@ -5748,6 +5802,20 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "nium-global|data|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-12T03:21:01.861132+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "max_lpa": 23.0,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "nloops|swe|l1": {
    "expires": "2026-10-25T13:06:13.040672+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -5990,6 +6058,11 @@
   "onestopesg|fullstack|l1": {
    "expires": "2026-10-13T18:54:04.566461+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "onpointinsights|data|l1": {
+   "expires": "2026-10-28T06:00:42.996120+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
   "open-teq|swe|l1": {
@@ -6625,10 +6698,29 @@
    "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
+  "qualityaigroup|erp|l1": {
+   "expires": "2026-10-23T00:05:19.638391+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
   "quanteon-solutions|mobile|l1": {
    "expires": "2026-10-19T07:45:53.428813+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
+  },
+  "quantumcommit|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-09T00:47:46.284382+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
+   "max_lpa": 1.0,
+   "min_lpa": 1.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "quantumheaps|frontend|l1": {
    "expires": "2026-10-26T19:48:25.341580+00:00",
@@ -7651,8 +7743,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T20:44:19.754801+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-11T06:52:43.894971+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8442,8 +8534,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T09:04:13.530661+00:00",
-   "looked_up": "2026-10-12T19:01:26+00:00",
+   "expires": "2027-01-04T00:35:23.444056+00:00",
+   "looked_up": "2026-10-12T20:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9196,8 +9288,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 1077,
-  "lookups_today": 181,
+  "lookups_month": 1086,
+  "lookups_today": 190,
   "month": "2026-10"
  }
 }
