@@ -467,6 +467,11 @@
    "status": "found",
    "year": 2026
   },
+  "amadeus|swe|l2": {
+   "expires": "2026-10-28T07:03:28.371729+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
   "amagicorporation|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -1660,8 +1665,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T05:55:18.735701+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
+   "expires": "2027-01-16T22:24:21.482373+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1897,8 +1902,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:30:29.506822+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
+   "expires": "2027-01-13T21:09:22.887184+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2116,6 +2121,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "delta-ssi|erp|l1": {
+   "expires": "2026-11-01T13:20:20.719994+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
   },
   "deltreq|swe|l1": {
    "expires": "2026-10-30T02:15:09.708622+00:00",
@@ -2355,6 +2365,11 @@
    "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
+  "edgeverve|fullstack|l1": {
+   "expires": "2026-10-28T22:33:12.446328+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
   "edwards|devops|l1": {
    "expires": "2026-10-17T21:37:59.466583+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -2560,8 +2575,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T14:10:33.637895+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
+   "expires": "2027-01-10T14:23:25.906634+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -2785,6 +2800,11 @@
   "finnable-credit-pvt-ltd|security|l1": {
    "expires": "2026-10-28T01:40:28.256651+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "first-cron|erp|l1": {
+   "expires": "2026-10-20T07:45:52.485169+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "fis|swe|l2": {
@@ -3782,8 +3802,8 @@
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T18:22:56.324138+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
+   "expires": "2027-01-09T09:35:54.280591+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4548,6 +4568,16 @@
    "looked_up": "2026-10-11T07:01:20+00:00",
    "status": "not_found"
   },
+  "lexhive.us|swe|l1": {
+   "expires": "2026-10-31T12:35:53.286567+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "lightnwonder|frontend|l1": {
+   "expires": "2026-10-29T13:19:34.355427+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
   "lightnwonder|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4606,8 +4636,8 @@
   "loktara-ventures|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T22:55:19.889968+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
+   "expires": "2027-01-15T21:07:56.501729+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5662,6 +5692,34 @@
    "expires": "2026-10-21T21:57:27.130583+00:00",
    "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
+  },
+  "phonepe-internet|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-05T02:13:33.490479+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "max_lpa": 23.5,
+   "min_lpa": 17.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1674376/phonepe-sde-1-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1852629/phonepe-sde-1-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2054865/Phonepe-or-SDE1-or-Bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/6451014/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-01T15:52:31.251645+00:00",
@@ -7084,9 +7142,19 @@
    "status": "found",
    "year": 2026
   },
+  "t1tech-group|swe|l1": {
+   "expires": "2026-10-24T23:35:18.380870+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
   "talent-matics|frontend|l1": {
    "expires": "2026-10-28T11:03:40.835876+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "talentdraftme|fullstack|l1": {
+   "expires": "2026-10-20T14:33:50.279792+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "talentgigs|devops|l1": {
@@ -8179,6 +8247,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "workhallpvtltd|mobile|l1": {
+   "expires": "2026-10-22T20:41:42.517523+00:00",
+   "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
   "worldlineglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8340,8 +8413,8 @@
  },
  "meta": {
   "day": "2026-10-12",
-  "lookups_month": 955,
-  "lookups_today": 59,
+  "lookups_month": 965,
+  "lookups_today": 69,
   "month": "2026-10"
  }
 }
