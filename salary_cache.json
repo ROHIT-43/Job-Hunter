@@ -886,6 +886,11 @@
    "looked_up": "2026-10-12T18:01:24+00:00",
    "status": "not_found"
   },
+  "astro-mandeep|erp|l1": {
+   "expires": "2026-10-27T02:50:22.834560+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
+   "status": "not_found"
+  },
   "ata-freight|fullstack|l1": {
    "expires": "2026-10-14T23:10:03.318216+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
@@ -1837,10 +1842,10 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T12:19:39.734725+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
-   "max_lpa": 14.0,
-   "min_lpa": 8.0,
+   "expires": "2027-01-17T21:19:52.959521+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 12.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -2129,8 +2134,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T20:59:56.730545+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-05T11:17:03.458688+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2858,8 +2863,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:33:30.382792+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-17T22:22:52.776221+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3709,8 +3714,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T14:08:17.691105+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-13T15:25:12.698647+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4347,8 +4352,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:56:57.695769+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-09T04:07:11.889240+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5860,8 +5865,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:17:05.879215+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-11T09:04:33.729610+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6695,6 +6700,16 @@
    "looked_up": "2026-10-08T21:01:23+00:00",
    "status": "not_found"
   },
+  "qaagility-technologies|data|l1": {
+   "expires": "2026-10-21T11:58:14.462183+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
+   "status": "not_found"
+  },
+  "qaagility-technologies|erp|l1": {
+   "expires": "2026-10-29T02:46:25.967888+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
+   "status": "not_found"
+  },
   "qmize|fullstack|l1": {
    "expires": "2026-10-19T23:29:33.694570+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -6766,8 +6781,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T22:34:39.131442+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-04T14:27:22.467674+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7218,8 +7233,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T21:06:24.565519+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-04T02:14:17.008738+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7817,8 +7832,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:32:52.403443+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-15T01:39:39.099641+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8608,8 +8623,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:07:19.777860+00:00",
-   "looked_up": "2026-10-13T00:01:29+00:00",
+   "expires": "2027-01-13T22:04:52.215109+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8828,6 +8843,11 @@
   "vensurehr|swe|l1": {
    "expires": "2026-10-23T08:53:01.905257+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
+   "status": "not_found"
+  },
+  "ventrahealth|devops|l1": {
+   "expires": "2026-10-31T03:27:27.824921+00:00",
+   "looked_up": "2026-10-13T01:01:23+00:00",
    "status": "not_found"
   },
   "venture-intelligence|fullstack|l1": {
@@ -9362,8 +9382,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1093,
-  "lookups_today": 0,
+  "lookups_month": 1097,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
