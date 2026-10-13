@@ -2873,8 +2873,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T02:26:08.096722+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-10T03:27:32.548177+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3724,8 +3724,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T12:19:01.680776+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-14T21:35:05.309708+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4362,8 +4362,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T09:58:51.763110+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-06T10:23:08.126780+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5880,8 +5880,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T20:01:29.289847+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-12T01:18:12.297269+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6820,8 +6820,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T00:55:06.242866+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-13T10:17:28.298060+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7272,8 +7272,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T18:38:53.577804+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-05T17:58:59.905705+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7881,8 +7881,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T08:08:22.309794+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-07T17:34:39.238993+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8677,8 +8677,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T23:14:10.933732+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2027-01-04T07:41:48.474302+00:00",
+   "looked_up": "2026-10-13T03:33:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
