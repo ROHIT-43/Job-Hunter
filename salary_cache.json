@@ -417,6 +417,22 @@
    "status": "found",
    "year": 2026
   },
+  "akkodis|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T18:50:58.962655+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/akkodis-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "alamance-it-solutions-llp|erp|l1": {
    "expires": "2026-10-29T07:39:28.155590+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
@@ -2873,8 +2889,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:05:54.373116+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-05T18:03:25.965073+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3729,8 +3745,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T18:37:05.766260+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-15T02:30:22.091077+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4367,8 +4383,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T16:20:51.883282+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-10T10:44:00.136514+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5146,6 +5162,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "linkedin|swe|l1": {
+   "expires": "2026-10-31T06:53:35.388754+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
+   "status": "not_found"
+  },
   "links4engg|fullstack|l1": {
    "expires": "2026-10-21T22:10:43.901773+00:00",
    "looked_up": "2026-10-10T20:01:20+00:00",
@@ -5323,6 +5344,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/mastercard/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "mastercard|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T17:15:27.239253+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/mastercard-salaries/lead-software-engineer/pune-location"
     }
    ],
    "status": "found",
@@ -5890,8 +5927,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T18:49:16.023695+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-10T05:05:02.654889+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6835,8 +6872,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T06:10:44.791710+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-06T21:18:10.981032+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7287,8 +7324,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:52:19.761910+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-07T04:08:47.569050+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7382,6 +7419,11 @@
   "salesforce|devops|l1": {
    "expires": "2026-10-29T19:05:11.936411+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "samsdigitalin|fullstack|l1": {
+   "expires": "2026-10-31T10:11:39.164565+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "status": "not_found"
   },
   "san-engineering-solutions|erp|l1": {
@@ -7901,8 +7943,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T13:22:06.112302+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-10T08:08:43.607864+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8697,8 +8739,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T23:54:30.794403+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
+   "expires": "2027-01-08T07:19:52.463089+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9117,6 +9159,11 @@
    "status": "found",
    "year": 2026
   },
+  "volto-consulting|erp|l1": {
+   "expires": "2026-11-01T11:35:05.560564+00:00",
+   "looked_up": "2026-10-13T05:01:29+00:00",
+   "status": "not_found"
+  },
   "vymotech|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9461,8 +9508,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1109,
-  "lookups_today": 16,
+  "lookups_month": 1114,
+  "lookups_today": 21,
   "month": "2026-10"
  }
 }
