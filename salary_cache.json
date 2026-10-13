@@ -2498,8 +2498,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:03:47.361130+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-05T12:50:09.672840+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -4274,8 +4274,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T15:25:26.422886+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-11T22:28:33.202903+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4738,8 +4738,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T00:51:14.852938+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-11T11:26:16.524083+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5410,8 +5410,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:29:47.919727+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-06T13:07:19.632529+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5728,11 +5728,6 @@
   "london-stock-exchange-group|security|l1": {
    "expires": "2026-10-15T23:10:08.670991+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
-  "lorventech|qa|l1": {
-   "expires": "2026-10-13T19:49:43.810373+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "lorventech|swe|l1": {
@@ -8017,8 +8012,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:12:33.324077+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-10T06:52:34.446588+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -9196,11 +9191,6 @@
    "looked_up": "2026-10-11T03:01:24+00:00",
    "status": "not_found"
   },
-  "tekwissenindia|devops|l1": {
-   "expires": "2026-10-13T19:21:07.963274+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
-   "status": "not_found"
-  },
   "tekwissenindia|swe|l1": {
    "expires": "2026-10-29T10:20:24.157429+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -9901,8 +9891,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T15:11:30.491646+00:00",
-   "looked_up": "2026-10-13T19:21:05+00:00",
+   "expires": "2027-01-18T01:29:38.332421+00:00",
+   "looked_up": "2026-10-13T20:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
