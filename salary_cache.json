@@ -681,6 +681,11 @@
    "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
+  "amgen|data|l1": {
+   "expires": "2026-10-23T23:21:51.045222+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
   "amgen|erp|l1": {
    "expires": "2026-10-17T17:06:57.842239+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -2228,6 +2233,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "coupa|security|l1": {
+   "expires": "2026-10-26T21:57:14.911625+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
   "credit-agricole-cib|devops|l1": {
    "expires": "2026-10-24T21:54:14.541216+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
@@ -2498,8 +2508,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T12:50:09.672840+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-11T02:32:26.648448+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3030,6 +3040,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "ernstandyoung|devops|l1": {
+   "expires": "2026-10-26T11:44:15.883682+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
   "ernstandyoung|erp|l1": {
    "expires": "2026-10-23T07:47:09.396878+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -3345,6 +3360,11 @@
   "finnable-credit-pvt-ltd|security|l1": {
    "expires": "2026-10-28T01:40:28.256651+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "fireblaze-ai-school|fullstack|l1": {
+   "expires": "2026-10-21T05:44:24.510656+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "status": "not_found"
   },
   "first-advantage|erp|l1": {
@@ -4274,8 +4294,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T22:28:33.202903+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-11T06:36:58.600279+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4738,8 +4758,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:26:16.524083+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-08T22:18:29.795994+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5014,6 +5034,20 @@
    "expires": "2026-10-20T16:20:10.742024+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
+  },
+  "insight-global|erp|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-18T02:45:45.653454+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "insight-global|security|l1": {
    "expires": "2026-10-24T15:12:21.746395+00:00",
@@ -5410,8 +5444,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T13:07:19.632529+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-18T08:28:18.771947+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5888,6 +5922,22 @@
    "status": "found",
    "year": 2026
   },
+  "mastercard|security|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T17:37:54.924568+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/mastercard-india/jobs-internships/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "mastercard|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6029,6 +6079,16 @@
    "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
+  "mettlertoledo|mobile|l1": {
+   "expires": "2026-11-02T13:46:39.521395+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
+  "mettlertoledo|swe|l1": {
+   "expires": "2026-10-23T23:04:20.000358+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
   "microchip-technology|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -6065,6 +6125,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "miimansa|devops|l1": {
+   "expires": "2026-10-22T06:26:04.182183+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
   },
   "millennium-partners|devops|l1": {
    "expires": "2026-10-27T02:25:23.986287+00:00",
@@ -6961,6 +7026,22 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "pdi-technologies|swe|l3": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-11T21:40:57.323307+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 20.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/pdi-software-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "peepul-agri|swe|l1": {
    "expires": "2026-10-28T04:04:52.520412+00:00",
@@ -8012,8 +8093,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T06:52:34.446588+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-10T12:41:09.024421+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8543,11 +8624,6 @@
    "looked_up": "2026-10-11T03:01:24+00:00",
    "status": "not_found"
   },
-  "softwareone|erp|l1": {
-   "expires": "2026-10-13T20:29:23.049716+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
-   "status": "not_found"
-  },
   "sofvare|swe|l1": {
    "expires": "2026-10-26T18:45:24.191681+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
@@ -8664,6 +8740,22 @@
    "expires": "2026-10-26T20:33:20.119154+00:00",
    "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
+  },
+  "spglobal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T14:04:50.044290+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/s-and-p-global-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "splat-studio|swe|l1": {
    "expires": "2026-10-28T03:22:21.903206+00:00",
@@ -9891,8 +9983,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:29:38.332421+00:00",
-   "looked_up": "2026-10-13T20:01:32+00:00",
+   "expires": "2027-01-12T22:30:49.111099+00:00",
+   "looked_up": "2026-10-13T21:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10415,8 +10507,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1247,
-  "lookups_today": 154,
+  "lookups_month": 1257,
+  "lookups_today": 164,
   "month": "2026-10"
  }
 }
