@@ -296,6 +296,11 @@
    ],
    "status": "found"
   },
+  "adlife-enterprises|swe|l1": {
+   "expires": "2026-10-29T21:37:01.968982+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -400,6 +405,11 @@
     }
    ],
    "status": "found"
+  },
+  "aircon-systems|swe|l1": {
+   "expires": "2026-10-28T16:44:44.453767+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
   },
   "akaispace|swe|l1": {
    "expires": "2026-10-21T22:48:19.016557+00:00",
@@ -790,6 +800,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aqm-technologies|swe|l1": {
+   "expires": "2026-10-22T13:43:23.078409+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
   },
   "aqr-capital-management|swe|l1": {
    "basis": "base",
@@ -1653,6 +1668,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "casepoint-llc|devops|l1": {
+   "expires": "2026-10-25T11:09:48.971501+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1676,6 +1696,11 @@
   "cbts-technology-covered|swe|l1": {
    "expires": "2026-10-27T10:07:24.581117+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "cdcubes-private-limited|swe|l1": {
+   "expires": "2026-10-24T17:07:03.926336+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "celestialtec|swe|l1": {
@@ -1817,6 +1842,11 @@
   "civic-sense-app|mobile|l1": {
    "expires": "2026-10-31T03:54:07.301442+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "clapstickmedia|swe|l1": {
+   "expires": "2026-11-03T04:59:24.253271+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "clevanoo-llc|swe|l1": {
@@ -2126,6 +2156,16 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
+  "crewliajobs|frontend|l1": {
+   "expires": "2026-10-31T02:39:03.954434+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "crewliajobs|fullstack|l1": {
+   "expires": "2026-11-02T21:23:09.985177+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
   "crewliajobs|swe|l1": {
    "expires": "2026-10-24T15:28:08.461732+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
@@ -2189,6 +2229,11 @@
   "customize-theme|swe|l1": {
    "expires": "2026-10-14T15:32:49.459023+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
+  "cv-raman-academy|swe|l1": {
+   "expires": "2026-10-31T08:12:01.490406+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "cvali|erp|l1": {
@@ -2914,8 +2959,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T17:34:31.254830+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-08T15:35:12.085399+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3175,6 +3220,11 @@
   "first-cron|erp|l1": {
    "expires": "2026-10-20T07:45:52.485169+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "firstpick-talent|swe|l1": {
+   "expires": "2026-10-26T18:19:07.620774+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "fis|swe|l2": {
@@ -3775,8 +3825,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T18:06:01.244890+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-13T01:11:06.561634+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4004,6 +4054,20 @@
    "expires": "2026-10-23T01:41:50.322444+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
+  },
+  "helios-systems-asia|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-13T12:08:32.187166+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "heliumconsulting|swe|l1": {
    "expires": "2026-10-29T22:57:23.347716+00:00",
@@ -4418,8 +4482,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:25:50.180212+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-12T04:41:09.454705+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -4454,9 +4518,35 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "infobeans|data|l1": {
+   "expires": "2026-10-20T11:01:53.584256+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
   "infobeans|erp|l1": {
    "expires": "2026-10-20T08:05:08.887712+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "infobeans|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T01:44:20.987164+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/infobeans-overview"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "infocepts|data|l1": {
+   "expires": "2026-10-22T19:41:13.536904+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "infomatics-services-pvt.-ltd.|swe|l1": {
@@ -4963,6 +5053,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "kainos-innovative-solutions|erp|l1": {
+   "expires": "2026-10-24T12:27:01.464107+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
   "kaizen-dental-family|swe|l1": {
    "expires": "2026-10-30T05:10:07.231333+00:00",
    "looked_up": "2026-10-11T00:01:26+00:00",
@@ -4989,14 +5084,14 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "karya-inc|swe|l1": {
-   "expires": "2026-10-13T06:10:24.596144+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "kastech-software-solutions-group|erp|l1": {
    "expires": "2026-10-24T05:57:08.842738+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "keka-hr|erp|l1": {
+   "expires": "2026-10-24T07:28:14.058788+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "keylogic-infotech|swe|l1": {
@@ -5316,6 +5411,11 @@
   "machintra-tech-pvt-ltd|swe|l1": {
    "expires": "2026-10-31T12:49:15.610680+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "madgeek|swe|l1": {
+   "expires": "2026-10-28T00:10:04.534138+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "madison-logic|devops|l1": {
@@ -5978,8 +6078,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T12:36:34.194918+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-05T04:45:32.550990+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6037,6 +6137,11 @@
   "nowwin|swe|l1": {
    "expires": "2026-10-25T04:27:53.162436+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "nrconsultingllc|erp|l1": {
+   "expires": "2026-10-26T15:39:11.325103+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|data|l1": {
@@ -6928,8 +7033,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T03:45:38.919402+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-15T10:23:51.349865+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7396,8 +7501,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T00:15:06.015176+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-15T15:08:02.551992+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7921,6 +8026,22 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "sonata-software|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-05T14:32:15.009976+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "max_lpa": 9.8,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Sonata-Software/salaries/DevOps-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "soti|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -8020,8 +8141,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T06:23:24.191079+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-09T07:03:29.673149+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8816,8 +8937,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:10:36.113541+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
+   "expires": "2027-01-12T11:52:14.581888+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9116,6 +9237,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "virinnovations|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-13T18:28:06.650178+00:00",
+   "looked_up": "2026-10-13T07:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "virtusa|data|l1": {
    "expires": "2026-10-23T20:01:55.068521+00:00",
@@ -9585,8 +9720,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1125,
-  "lookups_today": 32,
+  "lookups_month": 1143,
+  "lookups_today": 50,
   "month": "2026-10"
  }
 }
