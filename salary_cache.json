@@ -2021,6 +2021,11 @@
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
+  "codevibe-technology|frontend|l1": {
+   "expires": "2026-10-23T03:11:13.447583+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
   "codiansai|frontend|l1": {
    "expires": "2026-10-27T21:59:21.273405+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2493,8 +2498,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T19:27:44.756893+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-16T17:12:20.724429+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -2732,6 +2737,11 @@
   "digitalxnode|mobile|l1": {
    "expires": "2026-10-22T09:42:47.826212+00:00",
    "looked_up": "2026-10-12T00:01:29+00:00",
+   "status": "not_found"
+  },
+  "digitrell|erp|l1": {
+   "expires": "2026-11-02T15:36:11.636941+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
   "doadlive|swe|l1": {
@@ -4264,8 +4274,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T01:28:41.310634+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-10T23:08:34.258071+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4604,6 +4614,11 @@
    "status": "found",
    "year": 2026
   },
+  "ibr-infotech|swe|l1": {
+   "expires": "2026-10-30T05:27:29.249386+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
   "icapital-network-inc|swe|l1": {
    "expires": "2026-10-24T09:14:43.496983+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4723,8 +4738,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T15:26:28.086378+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-10T10:31:26.626268+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5038,6 +5053,11 @@
   "ipaxx-nord-gmbh|frontend|l1": {
    "expires": "2026-10-26T18:43:17.187622+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "iqra-digital-solutions|swe|l1": {
+   "expires": "2026-10-31T22:54:18.025317+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
   "iqvia|devops|l1": {
@@ -5390,8 +5410,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T02:12:44.747203+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-06T13:53:19.682109+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6757,11 +6777,6 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
-  "onestopesg|fullstack|l1": {
-   "expires": "2026-10-13T18:54:04.566461+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "onpointinsights|data|l1": {
    "expires": "2026-10-28T06:00:42.996120+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -8002,8 +8017,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T17:47:13.771287+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-08T07:55:55.157922+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8615,6 +8630,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "sourcebae|swe|l1": {
+   "expires": "2026-11-01T07:04:26.074233+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
   "sourcemash|frontend|l1": {
    "expires": "2026-10-31T12:54:55.782962+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -8670,6 +8690,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "stalwart-info|swe|l1": {
+   "expires": "2026-10-27T11:10:49.181952+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
   "standard-profile-industries-private-limited|swe|l1": {
    "expires": "2026-10-24T16:39:56.678714+00:00",
    "looked_up": "2026-10-10T06:01:27+00:00",
@@ -8712,6 +8737,11 @@
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-10-27T00:03:23.346769+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "stepsai-aide|swe|l1": {
+   "expires": "2026-11-03T12:35:28.988746+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
   "stradaglobal|erp|l1": {
@@ -9871,8 +9901,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T16:31:15.423683+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-16T08:31:16.548707+00:00",
+   "looked_up": "2026-10-13T19:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10395,8 +10425,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1240,
-  "lookups_today": 147,
+  "lookups_month": 1247,
+  "lookups_today": 154,
   "month": "2026-10"
  }
 }
