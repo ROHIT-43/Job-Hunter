@@ -1374,6 +1374,11 @@
    "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
+  "bitsandbyteitconsulting|fullstack|l1": {
+   "expires": "2026-10-30T22:47:33.301124+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "bizconnect-pvt-ltd|mobile|l1": {
    "expires": "2026-11-01T06:59:07.441891+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
@@ -1456,6 +1461,22 @@
     {
      "title": "dreamworkhq.com",
      "uri": "https://www.dreamworkhq.com/job/80086073-c396-4c5b-ae37-fd28f99954c8"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "bnyglobal|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T10:32:10.933421+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 20.1,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/bny-mellon/salaries/software-engineer/locations/chennai-metropolitan-area"
     }
    ],
    "status": "found",
@@ -2327,6 +2348,11 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
+  "cwl-technology-private-limited|mobile|l2": {
+   "expires": "2026-10-28T08:14:18.933654+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "cxo-magazine-global|swe|l1": {
    "expires": "2026-10-26T13:25:58.808597+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -2429,11 +2455,6 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
-  "data-stride-analytics-pvt-ltd|ml|l1": {
-   "expires": "2026-10-13T16:09:04.829686+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "dataframerai|fullstack|l1": {
    "expires": "2026-11-02T12:47:43.943227+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -2472,8 +2493,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T03:23:08.583815+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-09T23:09:37.000549+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -2609,6 +2630,11 @@
   "devrabbit-it-solutions|swe|l1": {
    "expires": "2026-10-24T06:07:44.975012+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "devsatva|swe|l1": {
+   "expires": "2026-10-24T12:13:56.209936+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "dexcom|swe|l1": {
@@ -3122,6 +3148,11 @@
    "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
+  "exl-service|data|l1": {
+   "expires": "2026-11-01T10:02:24.209284+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "expediagroup|data|l1": {
    "expires": "2026-10-25T19:07:58.853829+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
@@ -3407,6 +3438,11 @@
   "flowserve|swe|l1": {
    "expires": "2026-10-21T04:56:29.173773+00:00",
    "looked_up": "2026-10-09T19:01:24+00:00",
+   "status": "not_found"
+  },
+  "flsmidth|swe|l1": {
+   "expires": "2026-10-27T22:48:05.903040+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "fnz|swe|l1": {
@@ -3967,6 +4003,11 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
+  "gostride-ventures|fullstack|l1": {
+   "expires": "2026-10-28T05:16:21.932585+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "goveva-official|swe|l1": {
    "expires": "2026-10-26T14:35:14.057469+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
@@ -4208,8 +4249,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T04:57:44.897495+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-16T08:59:42.602067+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4667,8 +4708,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T12:07:17.759130+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-08T07:04:32.846665+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5330,6 +5371,20 @@
    "expires": "2026-10-29T02:47:12.453131+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
+  },
+  "kasparro-ai|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-15T05:51:27.423976+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "kastech-software-solutions-group|erp|l1": {
    "expires": "2026-10-24T05:57:08.842738+00:00",
@@ -6160,6 +6215,11 @@
    "looked_up": "2026-10-12T22:59:33+00:00",
    "status": "not_found"
   },
+  "natwest-group|data|l1": {
+   "expires": "2026-10-29T19:48:57.111980+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "natwest-group|swe|l1": {
    "expires": "2026-10-31T15:31:22.799075+00:00",
    "looked_up": "2026-10-12T16:01:29+00:00",
@@ -6266,6 +6326,11 @@
   "neevglobal|erp|l1": {
    "expires": "2026-11-02T09:56:51.437423+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "nemetschekgroup|swe|l2": {
+   "expires": "2026-10-30T10:21:17.082810+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "netapp|erp|l1": {
@@ -6407,8 +6472,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T17:30:22.100847+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-11T17:32:57.177526+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6672,6 +6737,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "onequince|mobile|l2": {
+   "expires": "2026-11-01T05:32:41.879909+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "onestopesg|fullstack|l1": {
    "expires": "2026-10-13T18:54:04.566461+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -6919,6 +6989,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/persistent-systems-salaries/junior-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "phenomai|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T15:48:28.873386+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "max_lpa": 13.7,
+   "min_lpa": 13.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/phenom/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/phenom/salaries/software-engineer/title/backend-software-engineer"
     }
    ],
    "status": "found",
@@ -7382,8 +7472,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:24:34.549361+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-15T21:04:58.789401+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7897,8 +7987,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T22:18:39.375827+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-16T08:01:24.818227+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8068,6 +8158,16 @@
   "schengen-visa-consultancy-limited|swe|l1": {
    "expires": "2026-10-21T17:56:31.318604+00:00",
    "looked_up": "2026-10-12T21:01:28+00:00",
+   "status": "not_found"
+  },
+  "schneider-electric|swe|l1": {
+   "expires": "2026-11-01T19:17:27.666642+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "schneider-electric|swe|l2": {
+   "expires": "2026-10-28T22:50:48.968045+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "scoutit-in|data|l1": {
@@ -8473,6 +8573,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sonicwall|frontend|l1": {
+   "expires": "2026-11-03T04:10:15.333784+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
   },
   "soti|swe|l2": {
    "basis": "ctc",
@@ -9751,8 +9856,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T22:04:29.599288+00:00",
-   "looked_up": "2026-10-13T16:01:32+00:00",
+   "expires": "2027-01-12T09:08:13.834673+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10054,6 +10159,11 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "wonder-worth-solutions-llc|swe|l1": {
+   "expires": "2026-10-29T01:26:24.348036+00:00",
+   "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
   "workelate|fullstack|l3": {
    "expires": "2026-10-23T13:07:44.892215+00:00",
    "looked_up": "2026-10-10T04:01:22+00:00",
@@ -10270,8 +10380,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1222,
-  "lookups_today": 129,
+  "lookups_month": 1237,
+  "lookups_today": 144,
   "month": "2026-10"
  }
 }
