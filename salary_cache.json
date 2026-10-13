@@ -2493,8 +2493,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T23:09:37.000549+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-09T19:27:44.756893+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -2839,6 +2839,11 @@
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
+  "ecobillz-private-limited|swe|l1": {
+   "expires": "2026-11-01T04:53:07.844496+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
+   "status": "not_found"
+  },
   "ecolab|swe|l1": {
    "expires": "2026-10-27T06:11:39.788883+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
@@ -2927,6 +2932,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "employia|swe|l1": {
+   "expires": "2026-10-28T23:56:58.566361+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
+   "status": "not_found"
   },
   "employlabs|swe|l1": {
    "expires": "2026-10-20T22:52:46.606579+00:00",
@@ -4037,6 +4047,11 @@
    "looked_up": "2026-10-12T21:01:28+00:00",
    "status": "not_found"
   },
+  "griddable-io|swe|l1": {
+   "expires": "2026-11-01T23:49:46.395959+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
+   "status": "not_found"
+  },
   "growe-global|swe|l1": {
    "expires": "2026-10-27T21:37:28.608120+00:00",
    "looked_up": "2026-10-10T07:01:25+00:00",
@@ -4249,8 +4264,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T08:59:42.602067+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-05T01:28:41.310634+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4708,8 +4723,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T07:04:32.846665+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-17T15:26:28.086378+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5375,8 +5390,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T05:51:27.423976+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-12T02:12:44.747203+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6472,8 +6487,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T17:32:57.177526+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-17T17:25:36.865245+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7472,8 +7487,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T21:04:58.789401+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-11T09:43:27.929868+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7987,8 +8002,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T08:01:24.818227+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-06T17:47:13.771287+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -9856,8 +9871,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T09:08:13.834673+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
+   "expires": "2027-01-11T16:31:15.423683+00:00",
+   "looked_up": "2026-10-13T18:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10380,8 +10395,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1237,
-  "lookups_today": 144,
+  "lookups_month": 1240,
+  "lookups_today": 147,
   "month": "2026-10"
  }
 }
