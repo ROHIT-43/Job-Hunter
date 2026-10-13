@@ -469,6 +469,11 @@
    "status": "found",
    "year": 2025
   },
+  "alaanpay|swe|l1": {
+   "expires": "2026-10-25T16:28:13.803043+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
+   "status": "not_found"
+  },
   "alamance-it-solutions-llp|erp|l1": {
    "expires": "2026-10-29T07:39:28.155590+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
@@ -2156,6 +2161,11 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "commure|swe|l1": {
+   "expires": "2026-10-30T16:16:28.833681+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
+   "status": "not_found"
+  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2508,8 +2518,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T02:32:26.648448+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
+   "expires": "2027-01-10T02:02:31.125350+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3292,6 +3302,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "factual-tech-solutions|swe|l1": {
+   "expires": "2026-10-31T17:12:22.548491+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
+   "status": "not_found"
   },
   "fedex-global-capability-services-–-hyderabad|fullstack|l2": {
    "basis": "base",
@@ -4294,8 +4309,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:36:58.600279+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
+   "expires": "2027-01-15T18:43:36.593431+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -4308,6 +4323,11 @@
   "heliumconsulting|swe|l1": {
    "expires": "2026-10-29T22:57:23.347716+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "herbalife-international-india-pvt-ltd|swe|l3": {
+   "expires": "2026-10-24T00:21:44.208770+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
   "hevis-technologies-pvt-ltd|fullstack|l1": {
@@ -5038,8 +5058,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T02:45:45.653454+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
+   "expires": "2027-01-10T01:36:53.314138+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5444,8 +5464,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T08:28:18.771947+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
+   "expires": "2027-01-10T04:59:21.329083+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6077,6 +6097,11 @@
   "metsoofficial|erp|l1": {
    "expires": "2026-10-25T07:23:46.091549+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
+   "status": "not_found"
+  },
+  "mettlertoledo|erp|l1": {
+   "expires": "2026-10-22T21:57:22.511331+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
   "mettlertoledo|mobile|l1": {
@@ -9983,8 +10008,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T22:30:49.111099+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
+   "expires": "2027-01-07T21:26:02.689492+00:00",
+   "looked_up": "2026-10-13T22:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10507,8 +10532,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1257,
-  "lookups_today": 164,
+  "lookups_month": 1262,
+  "lookups_today": 169,
   "month": "2026-10"
  }
 }
