@@ -80,6 +80,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "aayaninfotech|swe|l1": {
+   "expires": "2026-10-27T11:31:26.333721+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
   "aayaninfotech|swe|l2": {
    "expires": "2026-10-14T19:38:09.023334+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -477,6 +482,11 @@
   "alphabin|fullstack|l1": {
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
+   "status": "not_found"
+  },
+  "alphacom-systems-and-solutions-private-limited|swe|l1": {
+   "expires": "2026-10-22T07:26:56.268135+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "alphadelving|frontend|l1": {
@@ -2066,6 +2076,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "consultixscorp|swe|l1": {
+   "expires": "2026-10-31T15:31:10.206296+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
   "continua-design-and-creation-pvt-ltd|swe|l1": {
    "expires": "2026-10-29T00:12:59.611718+00:00",
    "looked_up": "2026-10-10T07:01:25+00:00",
@@ -2248,6 +2263,11 @@
    "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
+  "daily-code-solutions|swe|l1": {
+   "expires": "2026-10-23T23:15:03.385594+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
   "dariohealth|erp|l1": {
    "expires": "2026-10-26T03:56:23.016565+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -2286,6 +2306,11 @@
   "data-stride-analytics-pvt-ltd|ml|l1": {
    "expires": "2026-10-13T16:09:04.829686+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "dataframerai|fullstack|l1": {
+   "expires": "2026-11-02T12:47:43.943227+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "datapmi|erp|l1": {
@@ -2889,8 +2914,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T18:03:25.965073+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-08T17:34:31.254830+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3592,6 +3617,11 @@
    "looked_up": "2026-10-09T19:01:24+00:00",
    "status": "not_found"
   },
+  "go-scopify|frontend|l1": {
+   "expires": "2026-10-26T02:52:22.906690+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
   "goaudits|data|l1": {
    "expires": "2026-10-24T04:21:36.098774+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -3745,8 +3775,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T02:30:22.091077+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-11T18:06:01.244890+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -3973,6 +4003,11 @@
   "healthifyme|fullstack|l1": {
    "expires": "2026-10-23T01:41:50.322444+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "heliumconsulting|swe|l1": {
+   "expires": "2026-10-29T22:57:23.347716+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "hevis-technologies-pvt-ltd|fullstack|l1": {
@@ -4383,8 +4418,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T10:44:00.136514+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-17T13:25:50.180212+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -4932,6 +4967,22 @@
    "expires": "2026-10-30T05:10:07.231333+00:00",
    "looked_up": "2026-10-11T00:01:26+00:00",
    "status": "not_found"
+  },
+  "kaplan|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-04T13:58:17.517220+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "apna.co",
+     "uri": "https://apna.co/job/1055982062"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "karobidai|mobile|l1": {
    "expires": "2026-10-29T02:47:12.453131+00:00",
@@ -5927,8 +5978,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:05:02.654889+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-06T12:36:34.194918+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6632,6 +6683,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "prospecta-software|devops|l1": {
+   "expires": "2026-10-27T13:45:42.337712+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
   "proxelera|swe|l1": {
    "expires": "2026-10-16T18:31:11.995986+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -6872,8 +6928,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T21:18:10.981032+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-09T03:45:38.919402+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7149,6 +7205,22 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "reveation-labs|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-13T23:08:44.137900+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/reveation-labs-overview"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "revx-hospitality|fullstack|l1": {
    "expires": "2026-10-22T03:15:41.165523+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -7324,8 +7396,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T04:08:47.569050+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-06T00:15:06.015176+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7338,6 +7410,11 @@
   "saatvik-agro-processors-private-limited|frontend|l1": {
    "expires": "2026-10-18T15:11:14.798994+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "saatvik-agro-processors-private-limited|fullstack|l1": {
+   "expires": "2026-11-03T01:59:38.291381+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|mobile|l1": {
@@ -7943,8 +8020,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T08:08:43.607864+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-15T06:23:24.191079+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8739,8 +8816,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T07:19:52.463089+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
+   "expires": "2027-01-11T11:10:36.113541+00:00",
+   "looked_up": "2026-10-13T06:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9508,8 +9585,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1114,
-  "lookups_today": 21,
+  "lookups_month": 1125,
+  "lookups_today": 32,
   "month": "2026-10"
  }
 }
