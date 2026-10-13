@@ -1837,8 +1837,8 @@
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:49:52.938155+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-04T12:19:39.734725+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2129,8 +2129,8 @@
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T19:47:36.987848+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-15T20:59:56.730545+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 5.5,
    "min_lpa": 4.2,
    "sources": [
@@ -2858,8 +2858,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T05:07:33.621957+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-16T17:33:30.382792+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3709,8 +3709,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T12:58:07.171349+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-13T14:08:17.691105+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4347,8 +4347,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T10:30:41.694619+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-17T07:56:57.695769+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5860,8 +5860,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T23:04:23.017305+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-10T05:17:05.879215+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6766,8 +6766,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T20:08:08.181967+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-05T22:34:39.131442+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7218,8 +7218,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:05:50.830691+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-10T21:06:24.565519+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7817,8 +7817,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T19:12:03.110374+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-15T14:32:52.403443+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8608,8 +8608,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T19:25:05.264399+00:00",
-   "looked_up": "2026-10-12T23:15:26+00:00",
+   "expires": "2027-01-16T18:07:19.777860+00:00",
+   "looked_up": "2026-10-13T00:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9361,9 +9361,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-12",
+  "day": "2026-10-13",
   "lookups_month": 1093,
-  "lookups_today": 197,
+  "lookups_today": 0,
   "month": "2026-10"
  }
 }
