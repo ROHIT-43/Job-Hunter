@@ -2873,8 +2873,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T03:27:32.548177+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-13T07:05:54.373116+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3252,6 +3252,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "fornexet|fullstack|l1": {
+   "expires": "2026-11-02T19:53:27.515013+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
+   "status": "not_found"
   },
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
@@ -3724,8 +3729,8 @@
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T21:35:05.309708+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-05T18:37:05.766260+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -4362,8 +4367,8 @@
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T10:23:08.126780+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-16T16:20:51.883282+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -5801,6 +5806,11 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
+  "nexgen-techsolutions|swe|l1": {
+   "expires": "2026-10-30T05:07:18.888938+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
+   "status": "not_found"
+  },
   "nexla|swe|l1": {
    "expires": "2026-10-20T09:09:13.694627+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -5880,8 +5890,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T01:18:12.297269+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-17T18:49:16.023695+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -6515,6 +6525,11 @@
    "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
+  "pracyva-ltd|devops|l1": {
+   "expires": "2026-11-02T17:51:55.272896+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
+   "status": "not_found"
+  },
   "prameela-onesuite|fullstack|l1": {
    "expires": "2026-10-24T03:42:16.771015+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -6820,8 +6835,8 @@
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T10:17:28.298060+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-06T06:10:44.791710+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -7272,8 +7287,8 @@
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T17:58:59.905705+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-17T09:52:19.761910+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7527,6 +7542,11 @@
   "shreeyaan-solusmart-pvt-ltd|swe|l1": {
    "expires": "2026-10-17T04:48:52.457644+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "shriramgeneralinsurance|mobile|l1": {
+   "expires": "2026-10-25T15:42:50.442068+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "status": "not_found"
   },
   "shriramgeneralinsurance|swe|l1": {
@@ -7881,8 +7901,8 @@
   "stealth-startup-community|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T17:34:39.238993+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-16T13:22:06.112302+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -8677,8 +8697,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-04T07:41:48.474302+00:00",
-   "looked_up": "2026-10-13T03:33:54+00:00",
+   "expires": "2027-01-06T23:54:30.794403+00:00",
+   "looked_up": "2026-10-13T04:01:36+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9441,8 +9461,8 @@
  },
  "meta": {
   "day": "2026-10-13",
-  "lookups_month": 1105,
-  "lookups_today": 12,
+  "lookups_month": 1109,
+  "lookups_today": 16,
   "month": "2026-10"
  }
 }
