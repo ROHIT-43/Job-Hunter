@@ -2570,11 +2570,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "customize-theme|swe|l1": {
-   "expires": "2026-10-14T15:32:49.459023+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
-   "status": "not_found"
-  },
   "cv-raman-academy|swe|l1": {
    "expires": "2026-10-31T08:12:01.490406+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -3382,8 +3377,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T07:56:22.047517+00:00",
-   "looked_up": "2026-10-14T15:26:45+00:00",
+   "expires": "2027-01-12T05:14:28.621859+00:00",
+   "looked_up": "2026-10-14T16:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5422,8 +5417,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T04:01:25.254782+00:00",
-   "looked_up": "2026-10-14T15:26:45+00:00",
+   "expires": "2027-01-06T00:27:01.538532+00:00",
+   "looked_up": "2026-10-14T16:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5843,8 +5838,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T15:52:29.673432+00:00",
-   "looked_up": "2026-10-14T15:26:45+00:00",
+   "expires": "2027-01-12T14:00:25.146075+00:00",
+   "looked_up": "2026-10-14T16:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8658,8 +8653,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T13:19:31.717112+00:00",
-   "looked_up": "2026-10-14T15:26:45+00:00",
+   "expires": "2027-01-08T05:27:58.840773+00:00",
+   "looked_up": "2026-10-14T16:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10161,8 +10156,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T21:22:58.704009+00:00",
-   "looked_up": "2026-10-14T15:26:45+00:00",
+   "expires": "2027-01-15T04:59:51.006171+00:00",
+   "looked_up": "2026-10-14T16:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
