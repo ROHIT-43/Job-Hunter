@@ -1912,6 +1912,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "ces|swe|l1": {
+   "expires": "2026-11-02T03:58:09.291001+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
   "chatsparkk|swe|l1": {
    "expires": "2026-10-30T23:35:18.382292+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -2639,8 +2644,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T00:20:27.306291+00:00",
-   "looked_up": "2026-10-14T10:19:43+00:00",
+   "expires": "2027-01-17T21:57:01.725165+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3251,8 +3256,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T23:13:59.929577+00:00",
-   "looked_up": "2026-10-14T10:19:43+00:00",
+   "expires": "2027-01-06T06:13:47.690532+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4971,6 +4976,11 @@
    ],
    "status": "found"
   },
+  "incubics|erp|l1": {
+   "expires": "2026-10-27T06:30:15.541593+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
   "indiasfutureinvestors|frontend|l1": {
    "expires": "2026-10-28T12:50:10.918206+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
@@ -5255,8 +5265,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:30:31.192595+00:00",
-   "looked_up": "2026-10-14T10:19:43+00:00",
+   "expires": "2027-01-07T00:40:20.640506+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5487,6 +5497,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "jmj-medical-equipment-device|swe|l1": {
+   "expires": "2026-10-22T22:17:37.255640+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
   "jobbricksglobal|swe|l1": {
    "expires": "2026-10-19T08:33:21.155343+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -5666,8 +5681,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T17:32:21.954307+00:00",
-   "looked_up": "2026-10-14T10:19:43+00:00",
+   "expires": "2027-01-16T17:56:55.207473+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5839,6 +5854,11 @@
   "labcorp|swe|l1": {
    "expires": "2026-10-23T17:14:38.989851+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "lalacompany|fullstack|l1": {
+   "expires": "2026-11-01T14:59:13.541708+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "lam-research|swe|l1": {
@@ -6269,6 +6289,11 @@
   "medpace|devops|l1": {
    "expires": "2026-10-31T10:21:32.814367+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "medpace|erp|l1": {
+   "expires": "2026-11-04T00:25:55.152802+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "meenakshi-sundararajan-group-of-institutions|swe|l1": {
@@ -7789,6 +7814,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "qnn-global|swe|l1": {
+   "expires": "2026-10-31T16:31:16.648068+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
   "quadeye|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8391,6 +8421,20 @@
    ],
    "status": "found"
   },
+  "rxmen|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-15T02:20:31.656870+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "rymo-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-25T07:00:15.039908+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -8485,6 +8529,11 @@
   "salesforce|devops|l1": {
    "expires": "2026-10-29T19:05:11.936411+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "samosys-technologies|swe|l1": {
+   "expires": "2026-11-02T06:31:28.696269+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "samsdigitalin|fullstack|l1": {
@@ -9838,8 +9887,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T10:12:46.614139+00:00",
-   "looked_up": "2026-10-14T10:19:43+00:00",
+   "expires": "2027-01-14T15:42:59.665388+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10265,6 +10314,11 @@
   "vayuz-technologies|erp|l1": {
    "expires": "2026-10-30T23:51:28.556805+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "vayuz-technologies|fullstack|l1": {
+   "expires": "2026-11-01T12:12:41.569311+00:00",
+   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "vensurehr|swe|l1": {
@@ -10888,8 +10942,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1317,
-  "lookups_today": 55,
+  "lookups_month": 1325,
+  "lookups_today": 63,
   "month": "2026-10"
  }
 }
