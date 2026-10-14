@@ -2543,8 +2543,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T10:46:19.071435+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-05T18:49:03.833893+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3150,8 +3150,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T12:30:56.303342+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-14T19:48:03.183042+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4344,8 +4344,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T20:25:11.882588+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-08T16:51:24.078654+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -5093,8 +5093,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:17:55.261322+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-14T22:41:26.803558+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5345,11 +5345,6 @@
    "looked_up": "2026-10-09T06:01:28+00:00",
    "status": "not_found"
   },
-  "jobsandpositions|swe|l1": {
-   "expires": "2026-10-14T06:01:25.440777+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "johnson-controls|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5504,8 +5499,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:40:31.001140+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-18T23:12:58.985072+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7926,6 +7921,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "reliance-intelligence|mobile|l1": {
+   "expires": "2026-10-26T15:43:38.628846+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
+   "status": "not_found"
+  },
   "reliaquest|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -10063,8 +10063,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T17:42:55.959746+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
+   "expires": "2027-01-09T14:34:52.327181+00:00",
+   "looked_up": "2026-10-14T06:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10587,8 +10587,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1274,
-  "lookups_today": 12,
+  "lookups_month": 1275,
+  "lookups_today": 13,
   "month": "2026-10"
  }
 }
