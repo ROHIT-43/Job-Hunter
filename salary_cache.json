@@ -2543,8 +2543,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T04:34:10.996015+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-13T19:48:48.453307+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3150,8 +3150,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:33:52.890490+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-12T16:23:48.307312+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4339,8 +4339,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T05:32:59.977217+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-14T15:50:05.324077+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -5088,8 +5088,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T00:11:50.079455+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-05T08:53:04.563763+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5499,8 +5499,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T12:18:53.132319+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-18T15:58:18.890841+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7116,11 +7116,6 @@
   "peepul-agri|swe|l1": {
    "expires": "2026-10-28T04:04:52.520412+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "peopleprimeww|data|l1": {
-   "expires": "2026-10-14T04:49:20.682789+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
   "peopleprimeww|devops|l1": {
@@ -10053,8 +10048,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T22:32:50.697760+00:00",
-   "looked_up": "2026-10-14T04:01:24+00:00",
+   "expires": "2027-01-13T01:30:27.757263+00:00",
+   "looked_up": "2026-10-14T04:53:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
