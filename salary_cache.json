@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T20:04:40.758964+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-17T23:20:13.822604+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -2133,6 +2133,11 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
+  "citi|fullstack|l1": {
+   "expires": "2026-10-29T10:14:28.786174+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
   "citi|mobile|l1": {
    "expires": "2026-10-27T06:06:58.584593+00:00",
    "looked_up": "2026-10-09T19:01:24+00:00",
@@ -2242,11 +2247,6 @@
     }
    ],
    "status": "found"
-  },
-  "cme-group|devops|l1": {
-   "expires": "2026-10-14T21:11:50.597609+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
-   "status": "not_found"
   },
   "codechaps|mobile|l2": {
    "expires": "2026-10-24T17:39:23.000170+00:00",
@@ -3452,8 +3452,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T03:50:04.918140+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-07T15:54:42.975812+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -7166,8 +7166,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T18:14:43.811818+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-11T19:17:31.701071+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8803,8 +8803,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T17:35:25.740453+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-14T13:05:36.881222+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8958,8 +8958,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T23:32:03.007393+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-18T05:33:13.880498+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9330,6 +9330,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "snowrelic|frontend|l1": {
+   "expires": "2026-10-22T10:53:36.911645+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -9418,6 +9423,21 @@
   "sofodel|frontend|l1": {
    "expires": "2026-10-30T05:03:03.490461+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
+  "softcrayons-it-education|frontend|l1": {
+   "expires": "2026-10-22T02:47:03.634803+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
+  "softcrayons-it-education|fullstack|l1": {
+   "expires": "2026-11-04T00:54:15.428585+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
+  "softcrayons-it-education|swe|l1": {
+   "expires": "2026-10-25T20:46:00.648203+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
   "softkode|frontend|l1": {
@@ -9856,6 +9876,11 @@
    "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
+  "talent-hexa|frontend|l1": {
+   "expires": "2026-10-26T11:22:34.455443+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
   "talent-matics|frontend|l1": {
    "expires": "2026-10-28T11:03:40.835876+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
@@ -10108,6 +10133,11 @@
   "techtamer-studio|swe|l1": {
    "expires": "2026-10-22T04:26:37.992641+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
+  "techxlns|fullstack|l1": {
+   "expires": "2026-10-25T12:10:57.444206+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
   "tekgenio|erp|l1": {
@@ -10384,8 +10414,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:53:57.849250+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-07T01:44:57.068481+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11385,8 +11415,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T23:02:37.336824+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
+   "expires": "2027-01-18T16:54:18.422683+00:00",
+   "looked_up": "2026-10-14T22:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11509,8 +11539,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1406,
-  "lookups_today": 144,
+  "lookups_month": 1413,
+  "lookups_today": 151,
   "month": "2026-10"
  }
 }
