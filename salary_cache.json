@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:20:24.464527+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-09T20:04:40.758964+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1915,11 +1915,6 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
-  "careerxperts-consulting|frontend|l1": {
-   "expires": "2026-10-14T20:27:10.910113+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "careerxperts-consulting|swe|l1": {
    "expires": "2026-10-20T15:59:33.874401+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -3225,6 +3220,11 @@
    "looked_up": "2026-10-11T22:01:22+00:00",
    "status": "not_found"
   },
+  "elevate-ai-ug|swe|l1": {
+   "expires": "2026-11-03T21:46:10.331584+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
+   "status": "not_found"
+  },
   "eli-lilly-and-company|swe|l1": {
    "expires": "2026-10-24T06:00:26.676384+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -3452,8 +3452,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T17:57:49.341512+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-06T03:50:04.918140+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5833,6 +5833,26 @@
    "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
+  "jpmorganchase|devops|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-18T07:49:49.607913+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
+   "max_lpa": 32.0,
+   "min_lpa": 29.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6285579/JP-Morgan-or-Associate-(SDE-2)-or-Bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6218673/JP-Morgan-and-Chase-(JPMC"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "jpmorganchase|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -7146,8 +7166,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T14:17:20.501368+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-11T18:14:43.811818+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8783,8 +8803,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T16:15:59.605754+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-09T17:35:25.740453+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8938,8 +8958,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T17:11:05.940890+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-15T23:32:03.007393+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10364,8 +10384,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T19:02:44.997121+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-16T01:53:57.849250+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11365,8 +11385,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T06:36:27.547189+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
+   "expires": "2027-01-18T23:02:37.336824+00:00",
+   "looked_up": "2026-10-14T21:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11489,8 +11509,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1404,
-  "lookups_today": 142,
+  "lookups_month": 1406,
+  "lookups_today": 144,
   "month": "2026-10"
  }
 }
