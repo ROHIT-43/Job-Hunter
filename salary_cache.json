@@ -71,6 +71,11 @@
    ],
    "status": "found"
   },
+  "7figurelocal|frontend|l1": {
+   "expires": "2026-10-27T14:23:49.516895+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "a-business-studio|erp|l1": {
    "expires": "2026-10-17T15:47:45.469416+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
@@ -585,6 +590,11 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "alphaklick-solutions|fullstack|l1": {
+   "expires": "2026-10-27T22:14:02.150462+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "alponent-digital-solutions|data|l1": {
    "expires": "2026-10-26T00:25:11.079480+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -956,6 +966,11 @@
   "ares-management|fullstack|l1": {
    "expires": "2026-10-22T02:51:34.816899+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "arglobalhub|swe|l1": {
+   "expires": "2026-10-31T00:57:07.051258+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "aristocratcorporate|swe|l2": {
@@ -1516,6 +1531,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "blitzquickcommerce|frontend|l2": {
+   "expires": "2026-10-21T18:16:58.313961+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "blockchain-aiweb3-group|swe|l1": {
    "expires": "2026-10-25T17:02:41.383073+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -1705,10 +1725,31 @@
    "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
   },
+  "bt|devops|l3": {
+   "expires": "2026-10-24T21:32:21.198355+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "bt|erp|l1": {
    "expires": "2026-11-03T10:44:08.210781+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
+  },
+  "bt|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T07:49:50.415791+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "max_lpa": 8.9,
+   "min_lpa": 8.2,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5306134/"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "bytescare|fullstack|l1": {
    "expires": "2026-11-02T07:03:18.559905+00:00",
@@ -2167,6 +2208,11 @@
    "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
+  "codexalters|frontend|l1": {
+   "expires": "2026-10-31T18:24:06.151290+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "codiansai|frontend|l1": {
    "expires": "2026-10-27T21:59:21.273405+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2519,6 +2565,11 @@
    ],
    "status": "found"
   },
+  "curated-living-solutions|swe|l1": {
+   "expires": "2026-11-02T03:19:30.631578+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "customize-theme|swe|l1": {
    "expires": "2026-10-14T15:32:49.459023+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -2639,6 +2690,11 @@
   "data-eminence|devops|l1": {
    "expires": "2026-10-18T15:49:41.872920+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
+   "status": "not_found"
+  },
+  "data-eminence|frontend|l1": {
+   "expires": "2026-10-27T12:54:51.219329+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "data-eminence|swe|l1": {
@@ -2948,6 +3004,11 @@
   "digitrell|erp|l1": {
    "expires": "2026-11-02T15:36:11.636941+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
+  "digitrix-software-llp|swe|l1": {
+   "expires": "2026-11-02T05:51:54.252201+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "doadlive|swe|l1": {
@@ -3321,8 +3382,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T18:35:54.276150+00:00",
-   "looked_up": "2026-10-14T14:01:30+00:00",
+   "expires": "2027-01-13T12:34:09.672196+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3388,6 +3449,11 @@
   "evince-infosoft|swe|l1": {
    "expires": "2026-10-30T06:53:39.236618+00:00",
    "looked_up": "2026-10-12T22:01:28+00:00",
+   "status": "not_found"
+  },
+  "evolent|devops|l1": {
+   "expires": "2026-10-25T20:50:59.020392+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "exillar|data|l1": {
@@ -4874,6 +4940,22 @@
    "status": "found",
    "year": 2026
   },
+  "ibm|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T23:15:16.302122+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ibm-salaries/front-end-web-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "ibm|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5340,8 +5422,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T03:05:43.618534+00:00",
-   "looked_up": "2026-10-14T14:01:30+00:00",
+   "expires": "2027-01-13T16:17:36.670454+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5761,8 +5843,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T23:12:39.435583+00:00",
-   "looked_up": "2026-10-14T14:01:30+00:00",
+   "expires": "2027-01-09T08:21:30.504785+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6315,6 +6397,11 @@
    "looked_up": "2026-10-12T16:01:29+00:00",
    "status": "not_found"
   },
+  "matchworkers|swe|l1": {
+   "expires": "2026-10-22T12:28:06.637690+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "mattel|data|l1": {
    "expires": "2026-10-24T10:12:51.996482+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -6349,6 +6436,11 @@
   "meatec-batteryintelligence|swe|l1": {
    "expires": "2026-10-30T11:15:53.160878+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "mechademy|swe|l1": {
+   "expires": "2026-10-30T00:13:55.804858+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "media-nv|devops|l1": {
@@ -7036,6 +7128,22 @@
    "status": "found",
    "year": 2025
   },
+  "ntt-data-americas|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-10T21:41:41.684079+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ntt-data-salaries/front-end-web-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "ntt-data-americas|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7640,6 +7748,22 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "postman-platform|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T15:28:38.487640+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "thejobcompany.co.in",
+     "uri": "https://www.thejobcompany.co.in/frontend/job_details?job_id=954"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "ppstack|swe|l1": {
    "expires": "2026-11-01T10:50:37.751868+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
@@ -8102,6 +8226,16 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "railscarma|frontend|l1": {
+   "expires": "2026-10-31T21:09:49.453345+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "railscarma|swe|l1": {
+   "expires": "2026-10-21T17:03:39.276747+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "rampwin|swe|l1": {
    "expires": "2026-10-20T14:06:03.493607+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -8256,6 +8390,11 @@
   "redwing-automation|swe|l1": {
    "expires": "2026-10-18T13:33:32.379025+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "reerhub|swe|l1": {
+   "expires": "2026-10-27T23:30:47.138710+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "reliance-intelligence|mobile|l1": {
@@ -8519,8 +8658,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:01:47.741442+00:00",
-   "looked_up": "2026-10-14T14:01:30+00:00",
+   "expires": "2027-01-08T22:35:24.418136+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8565,11 +8704,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sage-software|frontend|l1": {
-   "expires": "2026-10-14T14:28:40.827738+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
-   "status": "not_found"
   },
   "sahajanandinfotech|mobile|l1": {
    "basis": "ctc",
@@ -8662,9 +8796,18 @@
    "status": "not_found"
   },
   "sapiogen-ai|fullstack|l1": {
-   "expires": "2026-10-25T13:29:44.504005+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T15:29:34.917120+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "max_lpa": 1.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "sapphiresoftwaresolutionsinc|swe|l1": {
    "expires": "2026-10-29T23:21:39.062253+00:00",
@@ -8757,6 +8900,11 @@
    ],
    "status": "found"
   },
+  "seceon|swe|l1": {
+   "expires": "2026-11-02T17:19:03.265372+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "secondwind-by-joveo|swe|l1": {
    "expires": "2026-10-24T17:25:52.235860+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
@@ -8780,6 +8928,11 @@
   "servicenow|security|l1": {
    "expires": "2026-10-24T16:05:38.487961+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
+   "status": "not_found"
+  },
+  "servicenow|swe|l1": {
+   "expires": "2026-10-30T16:08:25.853072+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "setlmint.com|swe|l1": {
@@ -9244,6 +9397,11 @@
    "looked_up": "2026-10-12T17:01:25+00:00",
    "status": "not_found"
   },
+  "srest|swe|l1": {
+   "expires": "2026-10-28T04:03:16.000674+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "ssigma|swe|l1": {
    "expires": "2026-10-25T09:28:51.257342+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -9277,11 +9435,6 @@
   "state-street|data|l1": {
    "expires": "2026-10-25T04:59:09.129754+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "state-street|erp|l1": {
-   "expires": "2026-10-14T14:29:08.220190+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
   "stealth-startup-community|fullstack|l1": {
@@ -9366,6 +9519,11 @@
   "switsdigital|devops|l1": {
    "expires": "2026-11-01T19:14:22.683120+00:00",
    "looked_up": "2026-10-12T05:01:24+00:00",
+   "status": "not_found"
+  },
+  "switsdigital|frontend|l1": {
+   "expires": "2026-10-21T18:25:28.471894+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "switsdigital|swe|l1": {
@@ -9990,6 +10148,11 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
+  "thornton-tomasetti|swe|l1": {
+   "expires": "2026-10-21T19:17:42.498727+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "thyssenkrupp-nucera|erp|l1": {
    "expires": "2026-10-20T05:36:22.914937+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -10003,8 +10166,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T04:38:27.405289+00:00",
-   "looked_up": "2026-10-14T14:01:30+00:00",
+   "expires": "2027-01-11T15:23:32.181753+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10162,8 +10325,8 @@
   "ubsforums|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:21:00.872791+00:00",
-   "looked_up": "2026-10-13T11:48:03+00:00",
+   "expires": "2027-01-11T02:22:24.588473+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10197,6 +10360,11 @@
   "unikloud-technext|swe|l1": {
    "expires": "2026-10-31T12:47:23.020186+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
+  "unisys|erp|l1": {
+   "expires": "2026-10-29T18:36:18.600032+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "unosecur|swe|l2": {
@@ -10525,6 +10693,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vgreentek|frontend|l1": {
+   "expires": "2026-10-24T18:47:40.338024+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
   },
   "virinnovations|swe|l1": {
    "basis": "posted",
@@ -10970,6 +11143,16 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "yumzip|mobile|l1": {
+   "expires": "2026-10-28T05:28:17.833030+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "yumzip|swe|l1": {
+   "expires": "2026-10-26T02:43:09.002854+00:00",
+   "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
   "zensar|data|l1": {
    "expires": "2026-10-29T08:03:49.789180+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -11063,8 +11246,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1342,
-  "lookups_today": 80,
+  "lookups_month": 1370,
+  "lookups_today": 108,
   "month": "2026-10"
  }
 }
