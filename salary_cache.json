@@ -3447,8 +3447,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:35:03.575557+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-12T18:38:19.976510+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5502,8 +5502,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T14:21:42.255990+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-12T05:02:12.126820+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7116,8 +7116,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:11:39.614391+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-14T06:24:00.394149+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8753,8 +8753,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:12:25.417035+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-15T18:00:21.342100+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8908,8 +8908,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T21:55:16.359605+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-14T10:37:03.849513+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10334,8 +10334,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:37:46.591315+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-07T16:45:26.867506+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11330,8 +11330,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T14:27:09.966706+00:00",
-   "looked_up": "2026-10-14T19:01:25+00:00",
+   "expires": "2027-01-18T20:21:27.462195+00:00",
+   "looked_up": "2026-10-14T19:23:44+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
