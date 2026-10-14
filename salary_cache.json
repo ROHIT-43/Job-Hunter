@@ -2007,6 +2007,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "cloudran-communications-llc|swe|l1": {
+   "expires": "2026-10-24T08:21:45.398027+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
+   "status": "not_found"
+  },
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -2538,8 +2543,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:55:08.255249+00:00",
-   "looked_up": "2026-10-14T02:01:29+00:00",
+   "expires": "2027-01-12T03:54:59.588973+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3145,8 +3150,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T09:48:15.296929+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
+   "expires": "2027-01-18T11:01:05.991920+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4334,8 +4339,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T14:25:20.136204+00:00",
-   "looked_up": "2026-10-14T02:01:29+00:00",
+   "expires": "2027-01-16T05:49:25.741521+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -5083,8 +5088,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T17:59:43.024276+00:00",
-   "looked_up": "2026-10-14T02:01:29+00:00",
+   "expires": "2027-01-14T12:47:13.589347+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5364,6 +5369,11 @@
    "status": "found",
    "year": 2026
   },
+  "joiniisf|frontend|l1": {
+   "expires": "2026-11-01T19:04:42.674374+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
+   "status": "not_found"
+  },
   "jpmorganchase|data|l3": {
    "expires": "2026-10-26T05:42:10.654122+00:00",
    "looked_up": "2026-10-13T03:01:28+00:00",
@@ -5489,8 +5499,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T06:24:29.458543+00:00",
-   "looked_up": "2026-10-14T02:01:29+00:00",
+   "expires": "2027-01-17T10:16:15.205457+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6774,6 +6784,11 @@
   "nuvama-group|swe|l1": {
    "expires": "2026-10-17T12:19:24.717949+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "nuvatrix-ai-private-limited|erp|l1": {
+   "expires": "2026-10-26T07:41:29.069330+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "status": "not_found"
   },
   "nuview-treatment|frontend|l1": {
@@ -10038,8 +10053,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T23:56:22.048201+00:00",
-   "looked_up": "2026-10-14T02:01:29+00:00",
+   "expires": "2027-01-11T03:55:04.351300+00:00",
+   "looked_up": "2026-10-14T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10562,8 +10577,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1268,
-  "lookups_today": 6,
+  "lookups_month": 1271,
+  "lookups_today": 9,
   "month": "2026-10"
  }
 }
