@@ -2543,8 +2543,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T19:48:48.453307+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-15T10:46:19.071435+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -3150,8 +3150,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T16:23:48.307312+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-08T12:30:56.303342+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -3558,6 +3558,11 @@
   "forbes-advisor|data|l1": {
    "expires": "2026-10-25T10:44:55.662071+00:00",
    "looked_up": "2026-10-10T17:01:20+00:00",
+   "status": "not_found"
+  },
+  "ford-motor-company|fullstack|l1": {
+   "expires": "2026-10-28T21:15:58.119291+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "status": "not_found"
   },
   "ford-motor-company|swe|l1": {
@@ -4339,8 +4344,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:50:05.324077+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-10T20:25:11.882588+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -5088,8 +5093,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T08:53:04.563763+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-17T07:17:55.261322+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5499,8 +5504,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T15:58:18.890841+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-12T07:40:31.001140+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7075,6 +7080,11 @@
     }
    ],
    "status": "found"
+  },
+  "payfinia|swe|l1": {
+   "expires": "2026-11-03T02:06:15.676222+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
+   "status": "not_found"
   },
   "paypal|devops|l1": {
    "expires": "2026-10-20T00:19:42.582486+00:00",
@@ -9593,6 +9603,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "trainingbasket.in|swe|l1": {
+   "expires": "2026-10-27T09:24:09.474046+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
+   "status": "not_found"
+  },
   "trandata-technology-solution-private-limited|erp|l1": {
    "expires": "2026-10-24T21:57:19.280233+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -10048,8 +10063,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T01:30:27.757263+00:00",
-   "looked_up": "2026-10-14T04:53:27+00:00",
+   "expires": "2027-01-14T17:42:55.959746+00:00",
+   "looked_up": "2026-10-14T05:02:59+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10572,8 +10587,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1271,
-  "lookups_today": 9,
+  "lookups_month": 1274,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
