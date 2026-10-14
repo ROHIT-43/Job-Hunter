@@ -696,6 +696,16 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "amgen|frontend|l1": {
+   "expires": "2026-10-25T05:52:45.353079+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
+   "status": "not_found"
+  },
+  "amgen|fullstack|l1": {
+   "expires": "2026-11-02T21:55:11.783167+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
+   "status": "not_found"
+  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1936,6 +1946,11 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
+  "clevanoo-llc|fullstack|l1": {
+   "expires": "2026-10-25T12:00:37.194949+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
+   "status": "not_found"
+  },
   "clevanoo-llc|swe|l1": {
    "expires": "2026-10-18T15:46:22.321405+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -2505,6 +2520,26 @@
    "status": "found",
    "year": 2026
   },
+  "dbs-bank|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T03:08:40.677528+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
+   "max_lpa": 12.2,
+   "min_lpa": 8.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/dbs-bank/salaries/software-engineer/locations/india"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-dbs_bank-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "deepsolv|swe|l1": {
    "expires": "2026-10-30T07:32:12.919842+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -2513,8 +2548,8 @@
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T21:15:21.045161+00:00",
-   "looked_up": "2026-10-13T23:18:42+00:00",
+   "expires": "2027-01-08T14:39:37.566595+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.2,
    "sources": [
@@ -4123,6 +4158,11 @@
    "status": "found",
    "year": null
   },
+  "guidewire-software|devops|l1": {
+   "expires": "2026-10-24T21:04:34.887016+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
+   "status": "not_found"
+  },
   "guidewire-software|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -4304,8 +4344,8 @@
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T19:07:39.598257+00:00",
-   "looked_up": "2026-10-13T23:18:42+00:00",
+   "expires": "2027-01-13T09:05:42.630944+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 9.0,
    "sources": [
@@ -5053,8 +5093,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T06:56:08.512622+00:00",
-   "looked_up": "2026-10-13T23:18:42+00:00",
+   "expires": "2027-01-11T13:26:43.660799+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5459,8 +5499,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T09:20:47.722322+00:00",
-   "looked_up": "2026-10-13T23:18:42+00:00",
+   "expires": "2027-01-14T02:14:51.966731+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6298,6 +6338,11 @@
   "mriti-infosystems|erp|l1": {
    "expires": "2026-10-23T00:52:39.558315+00:00",
    "looked_up": "2026-10-06T19:01:41+00:00",
+   "status": "not_found"
+  },
+  "msg-global|devops|l1": {
+   "expires": "2026-10-28T12:12:44.027602+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
   "msrcosmos-llc|data|l1": {
@@ -10003,8 +10048,8 @@
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T05:05:44.005480+00:00",
-   "looked_up": "2026-10-13T23:18:42+00:00",
+   "expires": "2027-01-17T05:58:11.752183+00:00",
+   "looked_up": "2026-10-14T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10526,9 +10571,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-13",
-  "lookups_month": 1262,
-  "lookups_today": 169,
+  "day": "2026-10-14",
+  "lookups_month": 1268,
+  "lookups_today": 6,
   "month": "2026-10"
  }
 }
