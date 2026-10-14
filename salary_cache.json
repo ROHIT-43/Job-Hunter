@@ -3321,8 +3321,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T03:48:38.102910+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
+   "expires": "2027-01-12T07:29:40.206316+00:00",
+   "looked_up": "2026-10-14T13:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5340,8 +5340,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T05:00:59.224401+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
+   "expires": "2027-01-11T08:38:54.657818+00:00",
+   "looked_up": "2026-10-14T13:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5761,8 +5761,8 @@
   "kasparro-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T14:21:13.128225+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
+   "expires": "2027-01-17T22:23:09.411791+00:00",
+   "looked_up": "2026-10-14T13:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8524,8 +8524,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T03:11:15.817335+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
+   "expires": "2027-01-05T15:30:32.467456+00:00",
+   "looked_up": "2026-10-14T13:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10008,8 +10008,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:10:10.146472+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
+   "expires": "2027-01-17T12:03:54.222626+00:00",
+   "looked_up": "2026-10-14T13:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
