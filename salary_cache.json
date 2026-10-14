@@ -3427,8 +3427,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:52:58.065552+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-13T16:06:19.994125+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5482,8 +5482,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T21:55:00.591058+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-07T08:10:16.859640+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6613,11 +6613,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "micron-technology|erp|l1": {
-   "expires": "2026-10-14T17:37:52.296391+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
-   "status": "not_found"
   },
   "microsoft|swe|l1": {
    "basis": "base",
@@ -8738,8 +8733,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T08:26:15.528065+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-10T13:17:55.459557+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8880,6 +8875,11 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
+  "sanjana-technologies|swe|l1": {
+   "expires": "2026-10-23T06:41:00.424846+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
+   "status": "not_found"
+  },
   "sanofi|security|l1": {
    "expires": "2026-11-01T23:47:22.054907+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -8888,8 +8888,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T16:40:46.094767+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-10T16:52:30.810253+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9801,11 +9801,6 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
-  "talentgigs|swe|l1": {
-   "expires": "2026-10-14T17:01:29.834384+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
-   "status": "not_found"
-  },
   "tally-experts-ind-uae|swe|l1": {
    "expires": "2026-10-19T03:16:32.693630+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -10319,8 +10314,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:19:48.210002+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-06T04:47:31.451040+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11315,8 +11310,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T15:39:19.808752+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
+   "expires": "2027-01-19T01:47:18.667669+00:00",
+   "looked_up": "2026-10-14T18:01:38+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11439,8 +11434,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1397,
-  "lookups_today": 135,
+  "lookups_month": 1398,
+  "lookups_today": 136,
   "month": "2026-10"
  }
 }
