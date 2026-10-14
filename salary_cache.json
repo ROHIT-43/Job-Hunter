@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2026-12-01T04:37:14.325090+00:00",
-   "looked_up": "2026-10-06T02:58:21+00:00",
+   "expires": "2027-01-18T16:20:24.464527+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -109,11 +109,6 @@
   "aayaninfotech|swe|l1": {
    "expires": "2026-10-27T11:31:26.333721+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "aayaninfotech|swe|l2": {
-   "expires": "2026-10-14T19:38:09.023334+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
   "academy-yt|swe|l1": {
@@ -2078,6 +2073,11 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "circor-international-inc-|swe|l1": {
+   "expires": "2026-10-28T03:43:27.825069+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
+   "status": "not_found"
+  },
   "cisco|data|l1": {
    "expires": "2026-10-21T09:10:00.152657+00:00",
    "looked_up": "2026-10-12T18:01:24+00:00",
@@ -3315,6 +3315,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "enterprise-bot|fullstack|l1": {
+   "expires": "2026-10-30T23:55:18.427419+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
+   "status": "not_found"
+  },
   "enterpriseminds|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3447,8 +3452,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T18:38:19.976510+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-14T17:57:49.341512+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4342,6 +4347,26 @@
    "status": "found",
    "year": 2022
   },
+  "google|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T00:32:51.885886+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 16.8,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1090324/google-software-engineernew-grad-l3-india"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1470673/google-l3-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "google|fullstack|l3": {
    "basis": "base",
    "confidence": "low",
@@ -4511,6 +4536,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "gwayerp|devops|l1": {
+   "expires": "2026-10-29T03:11:55.018667+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
+   "status": "not_found"
   },
   "hack-halt|security|l1": {
    "expires": "2026-10-22T03:16:01.867789+00:00",
@@ -5502,8 +5532,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T05:02:12.126820+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-13T00:18:14.797945+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7116,8 +7146,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T06:24:00.394149+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-11T14:17:20.501368+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8753,8 +8783,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:00:21.342100+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-06T16:15:59.605754+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8908,8 +8938,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:37:03.849513+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-12T17:11:05.940890+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10334,8 +10364,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T16:45:26.867506+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-06T19:02:44.997121+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10388,6 +10418,11 @@
   "trainingbasket.in|swe|l1": {
    "expires": "2026-10-27T09:24:09.474046+00:00",
    "looked_up": "2026-10-14T05:02:59+00:00",
+   "status": "not_found"
+  },
+  "traker-live|swe|l1": {
+   "expires": "2026-11-02T15:33:06.365791+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "status": "not_found"
   },
   "trandata-technology-solution-private-limited|erp|l1": {
@@ -11330,8 +11365,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T20:21:27.462195+00:00",
-   "looked_up": "2026-10-14T19:23:44+00:00",
+   "expires": "2027-01-09T06:36:27.547189+00:00",
+   "looked_up": "2026-10-14T20:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11454,8 +11489,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1399,
-  "lookups_today": 137,
+  "lookups_month": 1404,
+  "lookups_today": 142,
   "month": "2026-10"
  }
 }
