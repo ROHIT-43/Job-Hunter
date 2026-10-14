@@ -1740,6 +1740,26 @@
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
+  "broadcom|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-19T06:03:11.368196+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
+   "max_lpa": 40.2,
+   "min_lpa": 40.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/pl-pl/companies/broadcom/salaries/software-engineer/locations/india"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Broadcom/salaries/Software-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "broccoli-com|swe|l2": {
    "expires": "2026-10-25T15:12:32.967027+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3427,8 +3447,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T16:06:19.994125+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-18T14:35:03.575557+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5482,8 +5502,8 @@
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T08:10:16.859640+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-13T14:21:42.255990+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7096,8 +7116,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T17:25:36.865245+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
+   "expires": "2027-01-14T11:11:39.614391+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8733,8 +8753,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T13:17:55.459557+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-08T03:12:25.417035+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8888,8 +8908,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:52:30.810253+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-05T21:55:16.359605+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10314,8 +10334,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T04:47:31.451040+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-18T00:37:46.591315+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11310,8 +11330,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T01:47:18.667669+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
+   "expires": "2027-01-14T14:27:09.966706+00:00",
+   "looked_up": "2026-10-14T19:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11434,8 +11454,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1398,
-  "lookups_today": 136,
+  "lookups_month": 1399,
+  "lookups_today": 137,
   "month": "2026-10"
  }
 }
