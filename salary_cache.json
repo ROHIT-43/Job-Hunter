@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T23:20:13.822604+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-09T04:39:49.224225+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1915,6 +1915,26 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
+  "capgemini|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T22:48:39.024202+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
+   "max_lpa": 5.9,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/junior-software-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "careerxperts-consulting|swe|l1": {
    "expires": "2026-10-20T15:59:33.874401+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -3452,8 +3472,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T15:54:42.975812+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-07T17:06:19.065381+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -6796,11 +6816,6 @@
    "status": "found",
    "year": 2026
   },
-  "motorolasolutions|mobile|l1": {
-   "expires": "2026-10-14T22:10:32.272896+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
-   "status": "not_found"
-  },
   "motorolasolutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7027,6 +7042,22 @@
    "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
+  "netapp|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T23:40:20.071471+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
+   "max_lpa": 20.4,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Netapp/salaries/Information-Systems-Security-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "netapp|swe|l1": {
    "expires": "2026-10-25T20:28:12.212977+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -7166,8 +7197,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T19:17:31.701071+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-18T14:29:08.445802+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8803,8 +8834,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T13:05:36.881222+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-19T08:42:42.704373+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8958,8 +8989,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T05:33:13.880498+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-06T04:28:15.587856+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10414,8 +10445,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T01:44:57.068481+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-09T06:58:12.221444+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11415,8 +11446,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:54:18.422683+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
+   "expires": "2027-01-14T06:32:56.227389+00:00",
+   "looked_up": "2026-10-14T23:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11539,8 +11570,8 @@
  },
  "meta": {
   "day": "2026-10-14",
-  "lookups_month": 1413,
-  "lookups_today": 151,
+  "lookups_month": 1415,
+  "lookups_today": 153,
   "month": "2026-10"
  }
 }
