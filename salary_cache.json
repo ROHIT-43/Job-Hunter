@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T04:39:49.224225+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-11T06:14:32.907366+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1112,11 +1112,6 @@
   "astro-mandeep|erp|l1": {
    "expires": "2026-10-27T02:50:22.834560+00:00",
    "looked_up": "2026-10-13T01:01:23+00:00",
-   "status": "not_found"
-  },
-  "ata-freight|fullstack|l1": {
-   "expires": "2026-10-14T23:10:03.318216+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "athena-tech|data|l1": {
@@ -3472,8 +3467,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T17:06:19.065381+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-16T17:19:24.553881+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -7197,8 +7192,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:29:08.445802+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-16T06:21:23.831891+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8834,8 +8829,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T08:42:42.704373+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-19T19:29:49.975925+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8989,8 +8984,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T04:28:15.587856+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-14T02:30:19.241588+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10445,8 +10440,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T06:58:12.221444+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-09T14:19:22.827357+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11446,8 +11441,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T06:32:56.227389+00:00",
-   "looked_up": "2026-10-14T23:01:21+00:00",
+   "expires": "2027-01-11T15:00:44.880044+00:00",
+   "looked_up": "2026-10-14T23:14:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
