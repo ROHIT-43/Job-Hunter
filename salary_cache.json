@@ -75,8 +75,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T13:51:21.303819+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-18T12:29:22.416482+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -749,8 +749,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:33:02.097295+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-08T08:35:04.702463+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -997,6 +997,11 @@
    "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
+  "app-mechanic|frontend|l1": {
+   "expires": "2026-10-27T22:59:38.057765+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "appinventiv|swe|l1": {
    "expires": "2026-10-26T05:54:09.126812+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -1199,6 +1204,11 @@
   "aristostar|frontend|l1": {
    "expires": "2026-10-25T18:55:43.956960+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "arm|devops|l1": {
+   "expires": "2026-10-26T05:15:54.678945+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
   "arm|swe|l1": {
@@ -2220,6 +2230,22 @@
    "status": "found",
    "year": 2026
   },
+  "carelon-global-solutions-in|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T22:38:05.422657+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/carelon-global-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "carelon-global-solutions-in|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -2541,8 +2567,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T20:27:11.174317+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-10T10:04:00.948230+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2933,6 +2959,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "cruciferai|swe|l1": {
+   "expires": "2026-11-03T04:28:04.294314+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "crunchyroll|swe|l1": {
    "expires": "2026-10-23T20:11:10.204683+00:00",
    "looked_up": "2026-10-10T19:01:20+00:00",
@@ -3011,6 +3042,11 @@
   "cyan360-inc|erp|l1": {
    "expires": "2026-10-24T06:17:58.438375+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "cyber1armorofficial|fullstack|l1": {
+   "expires": "2026-10-24T14:54:11.689912+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
   "cyces-innovation-labs-llp|swe|l1": {
@@ -4216,8 +4252,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T10:18:30.219268+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-08T03:07:31.735963+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -7016,6 +7052,11 @@
    "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
+  "madebyfire|fullstack|l1": {
+   "expires": "2026-10-27T03:10:46.826484+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "madgeek|swe|l1": {
    "expires": "2026-10-28T00:10:04.534138+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -7749,6 +7790,11 @@
    "status": "found",
    "year": 2026
   },
+  "necsws|frontend|l1": {
+   "expires": "2026-10-29T16:05:43.206961+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "necsws|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7985,8 +8031,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:34:15.689303+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-17T17:44:47.799121+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8429,6 +8475,11 @@
   "overseas-cyber-technical-services-pvt-ltd|swe|l1": {
    "expires": "2026-10-27T07:26:29.139959+00:00",
    "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
+  "owens-minor|swe|l2": {
+   "expires": "2026-10-30T20:30:05.351719+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
   "paktolus|swe|l1": {
@@ -10676,8 +10727,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:04:12.281054+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-19T17:35:13.779674+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10784,8 +10835,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T10:56:38.376255+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-11T14:16:00.159496+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11268,6 +11319,22 @@
    "looked_up": "2026-10-11T18:01:25+00:00",
    "status": "not_found"
   },
+  "techolution-mobi|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T03:04:38.438417+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 7.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/techolution-overview"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "techtamer-studio|swe|l1": {
    "expires": "2026-10-22T04:26:37.992641+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
@@ -11505,8 +11572,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T01:29:22.015308+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-16T17:58:25.546391+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12592,6 +12659,11 @@
    "status": "found",
    "year": 2026
   },
+  "xhawk|swe|l1": {
+   "expires": "2026-10-31T06:42:06.649103+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "xpanceit|frontend|l1": {
    "expires": "2026-10-26T17:22:21.758955+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -12657,8 +12729,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T04:30:45.621320+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-17T08:36:31.414592+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -12753,6 +12825,11 @@
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
+  "zimmerbiomet|swe|l1": {
+   "expires": "2026-11-04T06:03:01.909462+00:00",
+   "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
   "zipaworld|ml|l1": {
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -12827,8 +12904,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1609,
-  "lookups_today": 194,
+  "lookups_month": 1620,
+  "lookups_today": 205,
   "month": "2026-10"
  }
 }
