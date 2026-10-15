@@ -75,8 +75,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T19:13:43.179466+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-12T09:48:31.077530+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -130,6 +130,34 @@
    "expires": "2026-11-01T10:45:50.992386+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
+  },
+  "abc-fitness|frontend|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-12T16:19:05.001059+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "abc-fitness|swe|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-17T11:55:59.450018+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "academy-yt|swe|l1": {
    "expires": "2026-10-18T17:50:49.373515+00:00",
@@ -335,6 +363,11 @@
   "aditiconsulting|erp|l1": {
    "expires": "2026-10-29T13:25:19.844024+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "aditya-birla-capital|swe|l1": {
+   "expires": "2026-10-25T11:01:12.963746+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "status": "not_found"
   },
   "adlife-enterprises|swe|l1": {
@@ -754,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T19:36:28.293897+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-17T12:49:47.841277+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2582,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T22:19:31.740359+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-16T22:22:00.358599+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2780,11 +2813,6 @@
   "commerceiq|devops|l1": {
    "expires": "2026-11-01T19:49:08.576697+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "commergence|swe|l1": {
-   "expires": "2026-10-15T18:37:25.836055+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "commure|swe|l1": {
@@ -3366,6 +3394,11 @@
   "designbrandshark|swe|l1": {
    "expires": "2026-10-20T11:24:35.494672+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "deutschebahn|swe|l1": {
+   "expires": "2026-10-31T01:24:39.821236+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "status": "not_found"
   },
   "devrabbit-it-solutions|fullstack|l1": {
@@ -4272,8 +4305,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T04:16:03.699375+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-10T10:40:52.449384+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4919,6 +4952,26 @@
    "expires": "2026-10-18T13:20:16.969647+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
+  },
+  "google|data|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-06T22:56:30.693986+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
+   "max_lpa": 68.0,
+   "min_lpa": 52.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2894166/Google-Offer-Bengaluru-India-L5L4"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1740831/google-l5-bengaluru-india"
+    }
+   ],
+   "status": "found",
+   "year": 2022
   },
   "google|devops|l2": {
    "basis": "base",
@@ -7742,6 +7795,11 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
+  "msx-international|swe|l1": {
+   "expires": "2026-10-28T01:38:37.502760+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
+   "status": "not_found"
+  },
   "mumba-technologies|swe|l1": {
    "expires": "2026-10-20T15:22:33.164202+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
@@ -8967,8 +9025,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:02:11.928181+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-07T06:38:28.691419+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10100,8 +10158,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T14:54:19.055655+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-11T01:44:05.947853+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10674,6 +10732,11 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "solventumhealth|erp|l1": {
+   "expires": "2026-10-23T02:10:51.760395+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
+   "status": "not_found"
+  },
   "solventumhealth|swe|l1": {
    "expires": "2026-10-18T03:19:01.404367+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
@@ -10825,8 +10888,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T16:47:18.218248+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-14T09:04:01.166498+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10933,8 +10996,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T08:09:56.617520+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-19T21:27:21.381249+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11670,8 +11733,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T15:53:42.654257+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-17T19:50:17.299877+00:00",
+   "looked_up": "2026-10-15T19:01:43+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13007,8 +13070,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1637,
-  "lookups_today": 222,
+  "lookups_month": 1642,
+  "lookups_today": 227,
   "month": "2026-10"
  }
 }
