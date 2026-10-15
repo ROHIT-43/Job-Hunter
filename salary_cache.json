@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T01:36:51.734315+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-12T16:26:14.348390+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1193,6 +1193,11 @@
   "atlas-copco-group|devops|l1": {
    "expires": "2026-10-28T22:51:48.127454+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "atlas-copco-group|erp|l1": {
+   "expires": "2026-11-02T23:30:47.223989+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
   "atlas-copco|security|l1": {
@@ -6169,6 +6174,11 @@
    ],
    "status": "found"
   },
+  "knorr-bremse|swe|l1": {
+   "expires": "2026-10-30T12:45:27.119045+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
+   "status": "not_found"
+  },
   "kochinc|erp|l1": {
    "expires": "2026-10-19T22:05:45.819428+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
@@ -6513,6 +6523,11 @@
   "maktechnologiesllc|erp|l1": {
    "expires": "2026-10-16T09:15:35.934393+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "manevaconsulting|erp|l1": {
+   "expires": "2026-11-02T22:45:55.534913+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
   "manevaconsulting|swe|l1": {
@@ -7312,8 +7327,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T09:33:38.430995+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-08T20:50:08.069260+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7695,6 +7710,11 @@
   "orbitaid-aerospace|swe|l1": {
    "expires": "2026-10-30T21:40:00.664231+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "oremda-infotech|erp|l1": {
+   "expires": "2026-10-24T18:53:31.090021+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
   "origin-autonomy|qa|l1": {
@@ -8954,8 +8974,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T18:36:06.469610+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-18T18:18:06.627967+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9109,8 +9129,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T00:23:08.292199+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-14T16:20:19.989459+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10565,8 +10585,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T04:11:39.700581+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-12T03:31:26.092051+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11576,8 +11596,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T01:16:15.859535+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
+   "expires": "2027-01-06T08:43:14.067524+00:00",
+   "looked_up": "2026-10-15T04:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11700,8 +11720,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1434,
-  "lookups_today": 19,
+  "lookups_month": 1438,
+  "lookups_today": 23,
   "month": "2026-10"
  }
 }
