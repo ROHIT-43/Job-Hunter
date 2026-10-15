@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T19:20:22.550517+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-19T02:56:53.563826+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T01:41:16.710067+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-10T05:45:02.185822+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -787,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:22:20.058070+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-20T16:26:05.519247+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2615,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T03:37:28.805488+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-12T01:06:52.263175+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4315,8 +4315,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T11:56:49.001239+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-15T18:18:12.568106+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4370,8 +4370,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T23:43:39.731160+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-11T08:55:54.720677+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9059,8 +9059,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T07:39:33.801838+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-13T05:26:05.893315+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10192,8 +10192,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:32:45.440690+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-09T03:08:59.570073+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10927,8 +10927,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:38:21.321744+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-18T22:29:32.929867+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11035,8 +11035,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T19:15:26.627913+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-18T14:53:06.893433+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11772,8 +11772,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T06:51:28.425673+00:00",
-   "looked_up": "2026-10-15T22:01:33+00:00",
+   "expires": "2027-01-16T14:16:15.481110+00:00",
+   "looked_up": "2026-10-15T22:17:57+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
