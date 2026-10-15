@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T12:41:56.853669+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-10T01:36:51.734315+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -346,6 +346,11 @@
   "adswerve-inc-|swe|l2": {
    "expires": "2026-10-23T19:59:24.455571+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "advance-techno-systems|swe|l1": {
+   "expires": "2026-10-29T21:43:25.723725+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "status": "not_found"
   },
   "advancesensing|swe|l1": {
@@ -5948,6 +5953,26 @@
    "status": "found",
    "year": 2024
   },
+  "jpmorganchase|frontend|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-10T13:23:06.558232+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
+   "max_lpa": 32.0,
+   "min_lpa": 29.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6285579/JP-Morgan-or-Associate-(SDE-2)-or-Bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6218673/JP-Morgan-and-Chase-(JPMC"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "jpmorganchase|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -7287,8 +7312,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T07:25:41.599381+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-14T09:33:38.430995+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8929,8 +8954,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T02:49:00.633474+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-12T18:36:06.469610+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9084,8 +9109,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T12:12:51.998284+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-14T00:23:08.292199+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10540,8 +10565,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T02:51:52.186288+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-17T04:11:39.700581+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11303,6 +11328,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "weaverminds|fullstack|l1": {
+   "expires": "2026-11-02T00:11:46.372084+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
+   "status": "not_found"
+  },
   "webbtree|fullstack|l1": {
    "expires": "2026-10-31T09:16:14.034076+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -11546,8 +11576,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T11:50:38.202625+00:00",
-   "looked_up": "2026-10-15T02:01:29+00:00",
+   "expires": "2027-01-08T01:16:15.859535+00:00",
+   "looked_up": "2026-10-15T03:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11670,8 +11700,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1431,
-  "lookups_today": 16,
+  "lookups_month": 1434,
+  "lookups_today": 19,
   "month": "2026-10"
  }
 }
