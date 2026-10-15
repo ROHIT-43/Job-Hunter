@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T06:14:32.907366+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-18T23:32:45.337795+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1967,6 +1967,11 @@
    "status": "found",
    "year": 2026
   },
+  "cargill|swe|l1": {
+   "expires": "2026-10-22T13:31:07.348749+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
+   "status": "not_found"
+  },
   "carmatec|mobile|l1": {
    "expires": "2026-10-29T09:32:16.015309+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -3467,8 +3472,8 @@
   "esperdev|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:19:24.553881+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-09T11:42:02.198721+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -7022,6 +7027,26 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "nekss-pvt-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T08:38:53.021673+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nekss-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/reviews/nekss-reviews"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nemetschekgroup|swe|l2": {
    "expires": "2026-10-30T10:21:17.082810+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -7192,8 +7217,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T06:21:23.831891+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-18T16:53:33.728865+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7953,6 +7978,11 @@
   "preciselydata|swe|l1": {
    "expires": "2026-10-18T12:10:56.106445+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "premier-plylam-marketing-company|swe|l1": {
+   "expires": "2026-11-01T01:38:36.596045+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "status": "not_found"
   },
   "prepay-nation|fullstack|l1": {
@@ -8829,8 +8859,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T19:29:49.975925+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-16T13:11:52.312802+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8984,8 +9014,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T02:30:19.241588+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-15T15:19:17.322347+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10440,8 +10470,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T14:19:22.827357+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-17T07:52:27.017894+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10812,6 +10842,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "uy-studios|swe|l1": {
+   "expires": "2026-11-04T04:40:40.556221+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
+   "status": "not_found"
   },
   "valarr|swe|l1": {
    "expires": "2026-10-30T15:22:22.322360+00:00",
@@ -11441,8 +11476,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T15:00:44.880044+00:00",
-   "looked_up": "2026-10-14T23:14:18+00:00",
+   "expires": "2027-01-19T18:29:25.778612+00:00",
+   "looked_up": "2026-10-15T00:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11564,9 +11599,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-14",
-  "lookups_month": 1415,
-  "lookups_today": 153,
+  "day": "2026-10-15",
+  "lookups_month": 1419,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
