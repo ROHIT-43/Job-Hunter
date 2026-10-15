@@ -75,8 +75,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:17:02.852432+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-08T05:11:48.316961+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -232,11 +232,6 @@
   "accompanyakki|swe|l1": {
    "expires": "2026-10-26T18:53:10.246736+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
-   "status": "not_found"
-  },
-  "accoona-it|fullstack|l1": {
-   "expires": "2026-10-15T17:01:31.396477+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "ace-data-analytics|swe|l1": {
@@ -759,8 +754,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T06:46:13.115361+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-15T01:14:31.276785+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1184,6 +1179,11 @@
   "arataindia|swe|l1": {
    "expires": "2026-10-25T13:05:07.367600+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "arc-advisory-group|frontend|l1": {
+   "expires": "2026-10-25T06:20:05.499579+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "status": "not_found"
   },
   "arcadis|swe|l2": {
@@ -2582,8 +2582,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T19:09:05.772705+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-17T07:28:57.794473+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3794,6 +3794,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "energyeta|swe|l1": {
+   "expires": "2026-10-31T12:02:55.890794+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
+   "status": "not_found"
+  },
   "engel-global|devops|l1": {
    "expires": "2026-10-17T00:08:23.602106+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -4267,8 +4272,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:41:55.279937+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-19T16:09:40.746748+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -5071,6 +5076,11 @@
   "griddable-io|swe|l1": {
    "expires": "2026-11-01T23:49:46.395959+00:00",
    "looked_up": "2026-10-13T18:01:29+00:00",
+   "status": "not_found"
+  },
+  "grovergaming|swe|l1": {
+   "expires": "2026-10-29T04:20:04.045833+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "status": "not_found"
   },
   "growe-global|swe|l1": {
@@ -7446,6 +7456,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "meridiansquare|devops|l1": {
+   "expires": "2026-10-28T10:43:06.946007+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
+   "status": "not_found"
+  },
   "meril|devops|l1": {
    "expires": "2026-10-29T02:43:36.099208+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -7608,6 +7623,11 @@
   "moengage|frontend|l1": {
    "expires": "2026-10-26T16:39:22.026358+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "molex|swe|l1": {
+   "expires": "2026-10-27T21:05:15.335884+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "status": "not_found"
   },
   "mondelezinternational|data|l1": {
@@ -8090,8 +8110,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T01:29:15.841176+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-20T00:51:54.080401+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8947,8 +8967,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T04:46:54.778189+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-17T17:04:06.364450+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10080,8 +10100,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T21:06:18.125433+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-17T17:24:22.712717+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10805,8 +10825,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T20:39:10.648533+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-18T11:28:17.973973+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10913,8 +10933,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T03:44:35.622323+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-06T18:03:32.377575+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11650,8 +11670,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T02:35:32.389350+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
+   "expires": "2027-01-12T03:32:59.159571+00:00",
+   "looked_up": "2026-10-15T18:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12987,8 +13007,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1632,
-  "lookups_today": 217,
+  "lookups_month": 1637,
+  "lookups_today": 222,
   "month": "2026-10"
  }
 }
