@@ -75,8 +75,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:42:08.326086+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-15T18:17:02.852432+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -759,8 +759,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:15:17.054954+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-10T06:46:13.115361+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1345,6 +1345,11 @@
   "athena-tech|data|l1": {
    "expires": "2026-10-26T07:07:53.778162+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
+  "athena-tech|swe|l1": {
+   "expires": "2026-10-27T07:13:25.405807+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "status": "not_found"
   },
   "athenahealth|swe|l1": {
@@ -2577,8 +2582,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T20:04:43.591100+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-15T19:09:05.772705+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4262,8 +4267,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T00:02:37.632657+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-07T21:41:55.279937+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -5128,6 +5133,11 @@
   "gwayerp|devops|l1": {
    "expires": "2026-10-29T03:11:55.018667+00:00",
    "looked_up": "2026-10-14T20:01:23+00:00",
+   "status": "not_found"
+  },
+  "h-g-nextgen-pvt-ltd|mobile|l1": {
+   "expires": "2026-10-24T16:45:53.863688+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "status": "not_found"
   },
   "hack-halt|security|l1": {
@@ -8080,8 +8090,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T22:48:22.560094+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-08T01:29:15.841176+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8933,6 +8943,20 @@
    "expires": "2026-10-20T08:34:26.532021+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
+  },
+  "prime-rishta|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T04:46:54.778189+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
+   "max_lpa": 1.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "primetrace|mobile|l1": {
    "expires": "2026-10-17T07:05:25.572908+00:00",
@@ -9821,11 +9845,6 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
-  "rohde-schwarz|erp|l1": {
-   "expires": "2026-10-15T16:36:26.239941+00:00",
-   "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
   "rohde-schwarz|swe|l1": {
    "expires": "2026-10-21T14:06:11.816294+00:00",
    "looked_up": "2026-10-09T22:01:25+00:00",
@@ -10061,8 +10080,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:11:16.880720+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-08T21:06:18.125433+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10235,6 +10254,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "semtech|swe|l1": {
+   "expires": "2026-10-22T22:46:12.801904+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
+   "status": "not_found"
+  },
   "servicenow|security|l1": {
    "expires": "2026-10-24T16:05:38.487961+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -10282,6 +10306,11 @@
   "sharqgulf|swe|l1": {
    "expires": "2026-10-22T06:53:49.532530+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "shoppers-stop|swe|l1": {
+   "expires": "2026-10-31T13:13:17.035536+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
@@ -10776,8 +10805,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:02:27.669505+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-07T20:39:10.648533+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10884,8 +10913,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:59:51.516695+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-10T03:44:35.622323+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11621,8 +11650,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T18:46:41.886418+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
+   "expires": "2027-01-08T02:35:32.389350+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12535,6 +12564,11 @@
    "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
+  "weq-technologies|mobile|l1": {
+   "expires": "2026-10-28T13:00:29.446861+00:00",
+   "looked_up": "2026-10-15T17:01:30+00:00",
+   "status": "not_found"
+  },
   "wesee-agi|swe|l1": {
    "expires": "2026-10-18T08:25:10.850206+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -12953,8 +12987,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1627,
-  "lookups_today": 212,
+  "lookups_month": 1632,
+  "lookups_today": 217,
   "month": "2026-10"
  }
 }
