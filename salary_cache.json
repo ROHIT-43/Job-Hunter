@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T12:29:25.390572+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-19T09:20:54.991522+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -306,11 +306,6 @@
   "acumenglobal-in|fullstack|l1": {
    "expires": "2026-10-26T07:43:55.061181+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
-  "acumenglobal-in|mobile|l1": {
-   "expires": "2026-10-15T07:32:48.614480+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
   "acura-solutions-ltd|swe|l1": {
@@ -1128,6 +1123,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "ascendion|erp|l1": {
+   "expires": "2026-11-03T06:55:28.739417+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "ascendion|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1267,6 +1267,11 @@
     }
    ],
    "status": "found"
+  },
+  "attributicslab|erp|l1": {
+   "expires": "2026-10-30T21:47:45.284698+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
   },
   "auditics|fullstack|l1": {
    "expires": "2026-10-24T01:03:41.079047+00:00",
@@ -2258,6 +2263,11 @@
    "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
+  "clanxai|swe|l1": {
+   "expires": "2026-10-24T12:35:29.396055+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "clapstickmedia|swe|l1": {
    "expires": "2026-11-03T04:59:24.253271+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -2352,6 +2362,11 @@
     }
    ],
    "status": "found"
+  },
+  "co-worker-technology-ab|swe|l1": {
+   "expires": "2026-10-27T03:21:39.193569+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
   },
   "codechaps|mobile|l2": {
    "expires": "2026-10-24T17:39:23.000170+00:00",
@@ -3074,6 +3089,11 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
+  "dexcom|swe|l2": {
+   "expires": "2026-11-02T11:00:35.351450+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "diamondatelierinc|frontend|l1": {
    "expires": "2026-10-26T05:17:15.204884+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -3179,6 +3199,11 @@
   "digitrix-software-llp|swe|l1": {
    "expires": "2026-11-02T05:51:54.252201+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "dimaag|frontend|l1": {
+   "expires": "2026-10-24T15:28:11.102907+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "doadlive|swe|l1": {
@@ -3991,6 +4016,11 @@
   "flsmidth|swe|l1": {
    "expires": "2026-10-27T22:48:05.903040+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "fluxusforge|fullstack|l1": {
+   "expires": "2026-10-28T00:13:37.247805+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "fnz|swe|l1": {
@@ -6514,6 +6544,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "lumberfi|swe|l1": {
+   "expires": "2026-11-01T12:45:58.817558+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6967,6 +7002,11 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
+  "mivaaero|swe|l1": {
+   "expires": "2026-10-27T14:13:07.255837+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "mmplrnc|swe|l1": {
    "expires": "2026-10-25T17:31:54.940803+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -7402,8 +7442,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T23:55:14.168933+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-13T02:56:13.678823+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7476,6 +7516,11 @@
   "nrconsultingllc|erp|l1": {
    "expires": "2026-10-26T15:39:11.325103+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "ns3-tech-solutions|security|l1": {
+   "expires": "2026-10-22T17:20:17.079285+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|data|l1": {
@@ -7612,6 +7657,22 @@
    "expires": "2026-10-22T20:21:56.092900+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
    "status": "not_found"
+  },
+  "nxp-semiconductors|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T08:45:37.526244+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "max_lpa": 18.8,
+   "min_lpa": 18.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/zh-tw/companies/nxp-semiconductors/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "nxtalign-innovation|swe|l1": {
    "expires": "2026-10-27T09:01:12.806261+00:00",
@@ -8854,6 +8915,11 @@
    "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
+  "resideo1|swe|l2": {
+   "expires": "2026-10-29T20:17:45.328472+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "resilient-technical-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-10-28T01:27:48.616813+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -9074,8 +9140,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T12:42:46.837726+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-12T09:21:28.829185+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9088,6 +9154,11 @@
   "rymo-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-25T07:00:15.039908+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "saama-technologies|data|l1": {
+   "expires": "2026-10-28T02:11:19.493608+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|frontend|l1": {
@@ -9229,8 +9300,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T20:45:45.567957+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-18T00:14:10.551552+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9895,6 +9966,20 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "stageworks-in|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-09T00:15:21.733508+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "stalwart-info|swe|l1": {
    "expires": "2026-10-27T11:10:49.181952+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
@@ -9992,8 +10077,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T13:43:32.964148+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-17T02:09:59.356579+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10016,6 +10101,16 @@
   "sweken-it-solutions|mobile|l1": {
    "expires": "2026-10-31T03:36:08.193914+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "swiftb2b|data|l1": {
+   "expires": "2026-10-30T19:53:14.924876+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
+  "swiftb2b|frontend|l1": {
+   "expires": "2026-10-26T16:21:02.043062+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "switsdigital|data|l1": {
@@ -10704,8 +10799,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T05:51:25.277784+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-18T02:28:16.926651+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10753,6 +10848,11 @@
   "towards-vision-technologies|swe|l1": {
    "expires": "2026-10-25T06:57:44.034911+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "trainingbasket.in|frontend|l1": {
+   "expires": "2026-11-05T01:03:27.126843+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "trainingbasket.in|swe|l1": {
@@ -10833,6 +10933,11 @@
   "trinity-unicepts-pvt-ltd-|swe|l1": {
    "expires": "2026-10-27T10:48:14.767687+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "trueidofficial|swe|l1": {
+   "expires": "2026-11-02T04:05:10.938059+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "trumpetmedia-co-in|swe|l1": {
@@ -11730,8 +11835,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T00:34:14.153081+00:00",
-   "looked_up": "2026-10-15T07:26:52+00:00",
+   "expires": "2027-01-11T01:29:44.971420+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11811,6 +11916,16 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "zoenixhq|frontend|l2": {
+   "expires": "2026-10-22T18:43:23.723688+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
+  "zoenixhq|swe|l2": {
+   "expires": "2026-10-23T21:11:30.856114+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
   "zoft-ai|fullstack|l1": {
    "expires": "2026-10-16T02:04:18.908094+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -11820,6 +11935,22 @@
    "expires": "2026-10-22T23:23:46.600341+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
+  },
+  "zscaler|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-06T13:17:45.510599+00:00",
+   "looked_up": "2026-10-15T08:01:35+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/zscaler-softech-salaries?page=1"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "zvisbtp|swe|l1": {
    "expires": "2026-10-18T06:53:30.708121+00:00",
@@ -11854,8 +11985,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1465,
-  "lookups_today": 50,
+  "lookups_month": 1485,
+  "lookups_today": 70,
   "month": "2026-10"
  }
 }
