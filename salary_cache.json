@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:28:05.019783+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-08T19:20:22.550517+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T04:20:56.946945+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-15T01:41:16.710067+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -787,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T23:46:34.701645+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-20T15:22:20.058070+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2615,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T04:15:58.131779+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-15T03:37:28.805488+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4315,8 +4315,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T02:20:04.335228+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-10T11:56:49.001239+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4370,8 +4370,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T07:16:00.037701+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-08T23:43:39.731160+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9059,8 +9059,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T07:55:05.798994+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-16T07:39:33.801838+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10192,8 +10192,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T11:00:07.746736+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-10T05:32:45.440690+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10927,8 +10927,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T13:42:14.260661+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-12T07:38:21.321744+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11035,8 +11035,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:55:54.613159+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-16T19:15:26.627913+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11772,8 +11772,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T16:04:58.571676+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
+   "expires": "2027-01-18T06:51:28.425673+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12686,6 +12686,26 @@
    "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
+  "wellsfargo|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T00:01:40.653101+00:00",
+   "looked_up": "2026-10-15T22:01:33+00:00",
+   "max_lpa": 19.1,
+   "min_lpa": 17.6,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/de-de/companies/wells-fargo/salaries/software-engineer/levels/l1/locations/greater-hyderabad-area"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/de-de/companies/wells-fargo/salaries/software-engineer/locations/greater-hyderabad-area"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "weq-technologies|mobile|l1": {
    "expires": "2026-10-28T13:00:29.446861+00:00",
    "looked_up": "2026-10-15T17:01:30+00:00",
@@ -13114,8 +13134,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1649,
-  "lookups_today": 234,
+  "lookups_month": 1650,
+  "lookups_today": 235,
   "month": "2026-10"
  }
 }
