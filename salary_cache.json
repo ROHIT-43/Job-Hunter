@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:56:53.563826+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-20T15:19:17.945495+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:45:02.185822+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-08T07:24:49.643811+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -787,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T16:26:05.519247+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-11T05:34:05.134482+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2615,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T01:06:52.263175+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-17T11:57:48.003887+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3373,6 +3373,11 @@
   "deltreq|swe|l2": {
    "expires": "2026-10-20T06:42:52.119823+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
+   "status": "not_found"
+  },
+  "dentsuglobalservices|devops|l1": {
+   "expires": "2026-11-05T18:31:09.215575+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "status": "not_found"
   },
   "dentsuglobalservices|swe|l1": {
@@ -4315,8 +4320,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:18:12.568106+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-13T18:38:54.793303+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4357,6 +4362,22 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
+  "fis|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T05:44:36.683813+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/fis-salaries/software-engineer/mohali-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "fis|swe|l2": {
    "expires": "2026-10-17T17:24:00.039617+00:00",
    "looked_up": "2026-10-09T19:01:24+00:00",
@@ -4370,8 +4391,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T08:55:54.720677+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-19T19:07:38.563363+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -6514,11 +6535,6 @@
    "status": "found",
    "year": 2025
   },
-  "jm-knitwear-private-limited|swe|l1": {
-   "expires": "2026-10-15T22:28:35.320190+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
-   "status": "not_found"
-  },
   "jmdtechnologies-inc|mobile|l1": {
    "expires": "2026-11-03T12:19:48.528818+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -7199,6 +7215,26 @@
    "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
+  "maersk-group|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T22:29:54.106834+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 9.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/maersk-salaries/associate-software-engineer/bengaluru-location"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/maersk/salaries/software-engineer/title/full-stack-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "maersk-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7872,11 +7908,6 @@
   "navan|swe|l2": {
    "expires": "2026-10-22T14:52:34.110456+00:00",
    "looked_up": "2026-10-10T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "navatech-ai|qa|l1": {
-   "expires": "2026-10-15T22:29:51.142398+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
   "navsan|data|l1": {
@@ -9059,8 +9090,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T05:26:05.893315+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-09T19:35:55.938168+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10192,8 +10223,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T03:08:59.570073+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-07T11:06:49.528935+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10927,8 +10958,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:29:32.929867+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-09T19:18:06.116002+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11035,8 +11066,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:53:06.893433+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-14T19:27:06.428208+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11725,6 +11756,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "thejobsmap|swe|l1": {
+   "expires": "2026-11-01T18:15:09.026116+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
+   "status": "not_found"
+  },
   "theladecoller|swe|l1": {
    "expires": "2026-10-28T14:53:46.760085+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
@@ -11772,8 +11808,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:16:15.481110+00:00",
-   "looked_up": "2026-10-15T22:17:57+00:00",
+   "expires": "2027-01-18T01:16:41.505787+00:00",
+   "looked_up": "2026-10-15T23:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13134,8 +13170,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1650,
-  "lookups_today": 235,
+  "lookups_month": 1654,
+  "lookups_today": 239,
   "month": "2026-10"
  }
 }
