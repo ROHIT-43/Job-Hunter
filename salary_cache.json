@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T19:47:05.581068+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-12T07:58:21.064740+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7262,8 +7262,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T00:22:02.727628+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-16T10:50:59.233208+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8904,8 +8904,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T22:01:14.223145+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-09T19:07:47.573797+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9059,8 +9059,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T20:00:36.955153+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-17T01:50:53.378349+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10515,8 +10515,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T07:52:18.930455+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-11T09:55:26.124522+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11521,8 +11521,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T12:13:09.879075+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
+   "expires": "2027-01-14T17:26:30.181857+00:00",
+   "looked_up": "2026-10-15T01:30:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
