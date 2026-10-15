@@ -75,8 +75,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T12:29:22.416482+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-16T22:42:08.326086+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -303,11 +303,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "activate-talent|swe|l1": {
-   "expires": "2026-10-15T15:42:12.784480+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
   },
   "acttconnect20|swe|l1": {
    "basis": "posted",
@@ -605,6 +600,21 @@
    "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
+  "algoleap|frontend|l1": {
+   "expires": "2026-10-29T08:31:48.860800+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
+   "status": "not_found"
+  },
+  "algoleap|fullstack|l1": {
+   "expires": "2026-10-24T05:53:08.621505+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
+   "status": "not_found"
+  },
+  "algoleap|security|l1": {
+   "expires": "2026-10-24T13:14:47.807710+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
+   "status": "not_found"
+  },
   "algoleap|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -749,8 +759,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T08:35:04.702463+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-14T23:15:17.054954+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2567,8 +2577,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T10:04:00.948230+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-17T20:04:43.591100+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4252,8 +4262,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:07:31.735963+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-17T00:02:37.632657+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4740,6 +4750,11 @@
   "glg|data|l1": {
    "expires": "2026-10-29T14:09:22.138356+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "global-enterprisetech-resources-inc|swe|l1": {
+   "expires": "2026-10-29T14:06:29.384360+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
   "global-payments|swe|l1": {
@@ -6407,6 +6422,11 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
+  "jnjinnovativemedicine|swe|l1": {
+   "expires": "2026-11-04T22:18:19.336328+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
+   "status": "not_found"
+  },
   "jobbricksglobal|swe|l1": {
    "expires": "2026-10-19T08:33:21.155343+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -6750,6 +6770,11 @@
   "kontoor-brands|erp|l1": {
    "expires": "2026-10-23T23:22:34.963568+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
+   "status": "not_found"
+  },
+  "kotak-mahindra-bank|swe|l1": {
+   "expires": "2026-10-27T09:23:43.341727+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
   "kpg-99-inc-|erp|l1": {
@@ -7290,6 +7315,30 @@
    "expires": "2026-10-24T10:12:51.996482+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
+  },
+  "mavenir|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T14:37:27.314614+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "elitmus.com",
+     "uri": "https://www.elitmus.com/jobs/31678"
+    },
+    {
+     "title": "elitmus.com",
+     "uri": "https://elitmus.com/jobs/31470"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-mavenir-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "maxwell-slitter-industries|swe|l1": {
    "expires": "2026-10-30T16:44:41.948871+00:00",
@@ -8031,8 +8080,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T17:44:47.799121+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-17T22:48:22.560094+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10012,8 +10061,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T09:49:48.513245+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
+   "expires": "2027-01-12T03:11:16.880720+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10727,8 +10776,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:35:13.779674+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-19T12:02:27.669505+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10835,8 +10884,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T14:16:00.159496+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-13T07:59:51.516695+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11572,8 +11621,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:58:25.546391+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
+   "expires": "2027-01-19T18:46:41.886418+00:00",
+   "looked_up": "2026-10-15T16:01:35+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12904,8 +12953,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1620,
-  "lookups_today": 205,
+  "lookups_month": 1627,
+  "lookups_today": 212,
   "month": "2026-10"
  }
 }
