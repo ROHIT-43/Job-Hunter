@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T02:53:25.060429+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-06T22:55:24.327940+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1187,6 +1187,11 @@
   "astro-mandeep|erp|l1": {
    "expires": "2026-10-27T02:50:22.834560+00:00",
    "looked_up": "2026-10-13T01:01:23+00:00",
+   "status": "not_found"
+  },
+  "astrological-services-and-technical-research-organisation|swe|l1": {
+   "expires": "2026-11-01T16:15:26.957648+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "athena-tech|data|l1": {
@@ -2882,6 +2887,11 @@
    "status": "found",
    "year": 2026
   },
+  "dazn|swe|l1": {
+   "expires": "2026-11-05T01:13:45.951841+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "dbs-bank|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3042,6 +3052,11 @@
   "designbrandshark|swe|l1": {
    "expires": "2026-10-20T11:24:35.494672+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "devrabbit-it-solutions|fullstack|l1": {
+   "expires": "2026-10-27T13:06:49.884478+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "devrabbit-it-solutions|swe|l1": {
@@ -3598,6 +3613,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ethelius|frontend|l1": {
+   "expires": "2026-11-01T02:21:56.232219+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
   },
   "everpure-data|fullstack|l1": {
    "expires": "2026-10-31T19:32:40.516876+00:00",
@@ -4251,6 +4271,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "gistimpact|data|l1": {
+   "expires": "2026-10-29T19:47:27.214872+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
   },
   "gistimpact|swe|l1": {
    "basis": "base",
@@ -6423,6 +6448,11 @@
    "looked_up": "2026-10-10T19:01:20+00:00",
    "status": "not_found"
   },
+  "logicmonitor|devops|l1": {
+   "expires": "2026-10-31T02:41:22.946683+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "login2design-technologies|swe|l1": {
    "expires": "2026-10-27T17:28:27.291182+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
@@ -6788,6 +6818,11 @@
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
+  "meet-cedric|swe|l1": {
+   "expires": "2026-11-04T16:01:33.455113+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "mega-nucleus|fullstack|l1": {
    "expires": "2026-10-25T08:57:22.314772+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -6932,6 +6967,11 @@
    "status": "found",
    "year": 2026
   },
+  "miraclesoft|swe|l1": {
+   "expires": "2026-11-01T12:00:37.485910+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "mmplrnc|swe|l1": {
    "expires": "2026-10-25T17:31:54.940803+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -7023,6 +7063,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mpms-mufg|swe|l1": {
+   "expires": "2026-10-27T12:01:26.426692+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
   },
   "mriti-infosystems|erp|l1": {
    "expires": "2026-10-23T00:52:39.558315+00:00",
@@ -7362,8 +7407,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T18:49:23.037187+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-16T00:06:31.850576+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7806,6 +7851,11 @@
   "paper-plane-solutions|fullstack|l3": {
    "expires": "2026-10-27T13:46:35.203749+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "paperchaseaccountancy|data|l1": {
+   "expires": "2026-10-28T21:27:22.394223+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "parexel|swe|l1": {
@@ -8486,6 +8536,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "quarkwiz|devops|l1": {
+   "expires": "2026-10-22T17:31:45.834806+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "qubist-solutions-private-limited|swe|l1": {
    "expires": "2026-10-29T09:55:49.266910+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
@@ -8674,6 +8729,16 @@
   "real-time-applications-center|swe|l1": {
    "expires": "2026-10-25T05:55:27.102925+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "realpage|fullstack|l2": {
+   "expires": "2026-11-04T00:50:06.082817+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
+  "realpage|swe|l2": {
+   "expires": "2026-10-29T12:36:21.515370+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "recollia|data|l1": {
@@ -9014,8 +9079,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T13:37:14.805193+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-11T21:01:14.001072+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9169,8 +9234,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:31:02.700372+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-11T16:42:39.626124+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9932,8 +9997,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:37:47.696686+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-11T15:23:13.179693+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10644,8 +10709,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:43:38.479368+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-13T14:24:11.561414+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11073,6 +11138,11 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
+  "vastika-inc|swe|l1": {
+   "expires": "2026-10-24T08:56:47.355937+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
   "vasudev-technolabs|frontend|l1": {
    "expires": "2026-10-19T01:38:49.715015+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
@@ -11296,6 +11366,11 @@
   "vmc-soft-technologies-inc|swe|l1": {
    "expires": "2026-10-23T09:43:46.329862+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "vohglobal|swe|l1": {
+   "expires": "2026-10-28T11:22:31.507995+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "vois|security|l1": {
@@ -11660,8 +11735,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:53:27.307113+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
+   "expires": "2027-01-12T04:36:23.463801+00:00",
+   "looked_up": "2026-10-15T07:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11784,8 +11859,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1450,
-  "lookups_today": 35,
+  "lookups_month": 1465,
+  "lookups_today": 50,
   "month": "2026-10"
  }
 }
