@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:08:09.459987+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-08T02:53:25.060429+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -109,6 +109,11 @@
   "aayaninfotech|swe|l1": {
    "expires": "2026-10-27T11:31:26.333721+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "aayaninfotech|swe|l2": {
+   "expires": "2026-11-01T10:45:50.992386+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "academy-yt|swe|l1": {
@@ -616,6 +621,11 @@
    "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
+  "allshore-technologies|swe|l1": {
+   "expires": "2026-11-02T07:07:58.618246+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
+   "status": "not_found"
+  },
   "alphabin|fullstack|l1": {
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -648,6 +658,11 @@
   "alphaklick-solutions|fullstack|l1": {
    "expires": "2026-10-27T22:14:02.150462+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "alpinohealthfoods|swe|l2": {
+   "expires": "2026-10-31T14:41:47.002417+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "alponent-digital-solutions|data|l1": {
@@ -1091,6 +1106,11 @@
   "arrow-electronics|mobile|l1": {
    "expires": "2026-10-19T09:26:57.541425+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "artechllc|devops|l1": {
+   "expires": "2026-10-30T12:07:01.325864+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "artechllc|frontend|l1": {
@@ -2524,11 +2544,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "comscore|frontend|l1": {
-   "expires": "2026-10-15T05:48:04.962475+00:00",
-   "looked_up": "2026-10-06T20:01:46+00:00",
-   "status": "not_found"
-  },
   "comscore|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3191,6 +3206,11 @@
    "looked_up": "2026-10-11T02:01:21+00:00",
    "status": "not_found"
   },
+  "dotsquares|erp|l1": {
+   "expires": "2026-10-31T08:06:09.582563+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
+   "status": "not_found"
+  },
   "dow-chemical|frontend|l1": {
    "expires": "2026-10-31T09:42:00.187151+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -3444,6 +3464,11 @@
   "envoyglobal|swe|l1": {
    "expires": "2026-10-27T06:29:20.667328+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "epiroc|swe|l1": {
+   "expires": "2026-10-30T08:26:16.193480+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "equifax|devops|l1": {
@@ -4016,6 +4041,11 @@
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "foundit-jobs|swe|l1": {
+   "expires": "2026-10-30T04:19:44.253321+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "franklin-templeton|swe|l1": {
@@ -4772,6 +4802,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hcltech|erp|l1": {
+   "expires": "2026-10-29T12:27:50.742624+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
+   "status": "not_found"
   },
   "hcltech|mobile|l1": {
    "expires": "2026-11-01T05:42:48.218761+00:00",
@@ -6778,6 +6813,11 @@
    "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
+  "metainfotech|security|l1": {
+   "expires": "2026-10-25T17:04:40.628918+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
+   "status": "not_found"
+  },
   "metalbook-app|mobile|l1": {
    "expires": "2026-10-18T11:26:38.001920+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -7322,8 +7362,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T13:10:37.793669+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-07T18:49:23.037187+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8974,8 +9014,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T15:44:35.095398+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-09T13:37:14.805193+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9129,8 +9169,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:05:31.303928+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-16T21:31:02.700372+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9889,6 +9929,20 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "sushena-health-pvt-ltd|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T05:37:47.696686+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "svags|swe|l1": {
    "expires": "2026-10-25T23:53:44.116056+00:00",
    "looked_up": "2026-10-10T12:01:23+00:00",
@@ -10050,6 +10104,11 @@
   "talent-hexa|frontend|l1": {
    "expires": "2026-10-26T11:22:34.455443+00:00",
    "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
+  "talent-master1|swe|l1": {
+   "expires": "2026-10-26T04:29:56.783282+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
   "talent-matics|frontend|l1": {
@@ -10585,8 +10644,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:31:09.160103+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-16T01:43:38.479368+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11601,8 +11660,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T20:12:43.880675+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2027-01-13T11:53:27.307113+00:00",
+   "looked_up": "2026-10-15T06:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11725,8 +11784,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1440,
-  "lookups_today": 25,
+  "lookups_month": 1450,
+  "lookups_today": 35,
   "month": "2026-10"
  }
 }
