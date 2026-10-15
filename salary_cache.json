@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T16:26:14.348390+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-08T15:08:09.459987+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7004,11 +7004,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "nandix-technologies|fullstack|l1": {
-   "expires": "2026-10-15T04:37:16.774842+00:00",
-   "looked_up": "2026-10-06T15:01:42+00:00",
-   "status": "not_found"
-  },
   "nasuni|devops|l1": {
    "expires": "2026-10-20T23:01:32.938993+00:00",
    "looked_up": "2026-10-11T11:01:20+00:00",
@@ -7327,8 +7322,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T20:50:08.069260+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-08T13:10:37.793669+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7602,6 +7597,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "olxindia|mobile|l1": {
+   "expires": "2026-11-03T10:22:42.057629+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
+   "status": "not_found"
   },
   "omnissa|security|l1": {
    "expires": "2026-10-24T00:21:52.631397+00:00",
@@ -8974,8 +8974,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T18:18:06.627967+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-11T15:44:35.095398+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9129,8 +9129,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T16:20:19.989459+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-17T07:05:31.303928+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10585,8 +10585,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:31:26.092051+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-17T09:31:09.160103+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11413,6 +11413,11 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "willware-technologies|swe|l1": {
+   "expires": "2026-11-03T18:21:21.914591+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
+   "status": "not_found"
+  },
   "wind-terpines|swe|l1": {
    "expires": "2026-10-18T17:07:28.195830+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -11596,8 +11601,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T08:43:14.067524+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
+   "expires": "2027-01-09T20:12:43.880675+00:00",
+   "looked_up": "2026-10-15T05:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11720,8 +11725,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1438,
-  "lookups_today": 23,
+  "lookups_month": 1440,
+  "lookups_today": 25,
   "month": "2026-10"
  }
 }
