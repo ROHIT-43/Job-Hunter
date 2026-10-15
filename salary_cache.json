@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T01:18:37.002587+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-17T09:28:05.019783+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T06:26:03.286536+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-14T04:20:56.946945+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -787,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T13:20:01.176113+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-09T23:46:34.701645+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2615,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T20:26:02.072092+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-08T04:15:58.131779+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2926,6 +2926,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "cosmic-coders-pvt-ltd-|swe|l1": {
+   "expires": "2026-11-03T04:56:53.537922+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
+   "status": "not_found"
   },
   "coupa|security|l1": {
    "expires": "2026-10-26T21:57:14.911625+00:00",
@@ -4292,6 +4297,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "findit-bangalore|frontend|l1": {
+   "expires": "2026-11-02T13:24:28.206111+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
+   "status": "not_found"
+  },
   "finnable-credit-pvt-ltd|security|l1": {
    "expires": "2026-10-28T01:40:28.256651+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
@@ -4305,8 +4315,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T05:52:43.666120+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-13T02:20:04.335228+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4356,6 +4366,20 @@
    "expires": "2026-10-31T23:05:47.130143+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
+  },
+  "flableai|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-18T07:16:00.037701+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "flexera|swe|l1": {
    "basis": "ctc",
@@ -5949,6 +5973,11 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
+  "indiasfutureinvestors|mobile|l1": {
+   "expires": "2026-11-01T10:22:09.429864+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
+   "status": "not_found"
+  },
   "indiasfutureinvestors|swe|l1": {
    "expires": "2026-10-19T14:53:43.748446+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
@@ -6223,6 +6252,11 @@
   "innspark-solutions|security|l1": {
    "expires": "2026-10-20T16:20:10.742024+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "insight-global|data|l1": {
+   "expires": "2026-10-26T01:07:56.588848+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "status": "not_found"
   },
   "insight-global|erp|l1": {
@@ -7632,11 +7666,6 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
-  "mipro-consulting|swe|l1": {
-   "expires": "2026-10-15T20:32:51.815246+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
-   "status": "not_found"
-  },
   "miq-digital|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9030,8 +9059,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T21:17:27.999909+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-16T07:55:05.798994+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10163,8 +10192,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-06T21:49:38.315287+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-07T11:00:07.746736+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10320,6 +10349,11 @@
   "secularlabs|swe|l1": {
    "expires": "2026-10-25T08:48:45.805529+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "security-brigade|swe|l1": {
+   "expires": "2026-10-30T16:57:13.434677+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "status": "not_found"
   },
   "securyofficial|fullstack|l1": {
@@ -10893,8 +10927,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T23:59:06.709303+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-14T13:42:14.260661+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11001,8 +11035,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T09:37:55.435890+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-14T15:55:54.613159+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11738,8 +11772,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:00:23.458982+00:00",
-   "looked_up": "2026-10-15T20:01:27+00:00",
+   "expires": "2027-01-07T16:04:58.571676+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12697,6 +12731,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "whitefield-careers|swe|l1": {
+   "expires": "2026-10-26T11:33:36.933499+00:00",
+   "looked_up": "2026-10-15T21:01:37+00:00",
+   "status": "not_found"
+  },
   "willware-technologies|mobile|l1": {
    "expires": "2026-10-17T19:31:31.297105+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -13075,8 +13114,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1643,
-  "lookups_today": 228,
+  "lookups_month": 1649,
+  "lookups_today": 234,
   "month": "2026-10"
  }
 }
