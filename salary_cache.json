@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:58:21.064740+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-11T12:41:56.853669+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -433,6 +433,26 @@
    "expires": "2026-11-01T05:06:55.109963+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
    "status": "not_found"
+  },
+  "aiprise|frontend|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T19:32:15.520553+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
+   "max_lpa": 50.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "peerlist.io",
+     "uri": "https://peerlist.io/company/aiprise/careers/software-engineer-i/jobh9objqaloqrmkm1gjdqlqnbqjga?page=3"
+    },
+    {
+     "title": "jobs.weekday.works",
+     "uri": "https://jobs.weekday.works/aiprise-frontend-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "air-arabia|mobile|l1": {
    "expires": "2026-10-21T13:12:34.911627+00:00",
@@ -3676,6 +3696,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "expert-listing|swe|l1": {
+   "expires": "2026-10-27T11:02:20.602756+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
+   "status": "not_found"
   },
   "ezdata-advisory|data|l1": {
    "expires": "2026-10-26T17:54:41.924649+00:00",
@@ -7262,8 +7287,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T10:50:59.233208+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-07T07:25:41.599381+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8904,8 +8929,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T19:07:47.573797+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-13T02:49:00.633474+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9059,8 +9084,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:50:53.378349+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-06T12:12:51.998284+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10515,8 +10540,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T09:55:26.124522+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-13T02:51:52.186288+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11521,8 +11546,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T17:26:30.181857+00:00",
-   "looked_up": "2026-10-15T01:30:30+00:00",
+   "expires": "2027-01-17T11:50:38.202625+00:00",
+   "looked_up": "2026-10-15T02:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11645,8 +11670,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1429,
-  "lookups_today": 14,
+  "lookups_month": 1431,
+  "lookups_today": 16,
   "month": "2026-10"
  }
 }
