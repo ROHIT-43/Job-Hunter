@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T16:19:05.001059+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-12T01:18:37.002587+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T11:55:59.450018+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-09T06:26:03.286536+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -787,8 +787,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T12:49:47.841277+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-09T13:20:01.176113+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2615,8 +2615,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:22:00.358599+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-11T20:26:02.072092+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4305,8 +4305,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T10:40:52.449384+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-07T05:52:43.666120+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -8199,6 +8199,11 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "nomni-ai|fullstack|l1": {
+   "expires": "2026-10-30T12:57:36.771961+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
+   "status": "not_found"
+  },
   "nopadvance|swe|l1": {
    "expires": "2026-10-21T08:21:21.939197+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -9025,8 +9030,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T06:38:28.691419+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-08T21:17:27.999909+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10158,8 +10163,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T01:44:05.947853+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-06T21:49:38.315287+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10888,8 +10893,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T09:04:01.166498+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-16T23:59:06.709303+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10996,8 +11001,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:27:21.381249+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-07T09:37:55.435890+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11733,8 +11738,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T19:50:17.299877+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
+   "expires": "2027-01-17T07:00:23.458982+00:00",
+   "looked_up": "2026-10-15T20:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13070,8 +13075,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1642,
-  "lookups_today": 227,
+  "lookups_month": 1643,
+  "lookups_today": 228,
   "month": "2026-10"
  }
 }
