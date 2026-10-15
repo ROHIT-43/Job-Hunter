@@ -70,8 +70,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T06:22:34.322145+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-07T05:44:59.484267+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -404,6 +404,11 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
+  "afforce-business-consulting|erp|l2": {
+   "expires": "2026-10-29T12:18:32.459297+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
   "aforro-groceries-pvt-ltd|swe|l2": {
    "expires": "2026-10-25T12:50:40.016495+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -457,6 +462,11 @@
   "ai-vidya|swe|l1": {
    "expires": "2026-10-20T10:10:12.606450+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "ai4process|swe|l1": {
+   "expires": "2026-10-25T09:58:19.957656+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "ainexushubofficial|swe|l1": {
@@ -719,8 +729,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:47:38.457246+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-10T19:14:54.928576+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1398,6 +1408,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "axionix-technologies|swe|l3": {
+   "expires": "2026-10-23T04:23:30.642585+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
   },
   "axismyindia1404|swe|l1": {
    "expires": "2026-10-29T22:37:18.305867+00:00",
@@ -2172,6 +2187,26 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
+  "cashfree|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-14T20:15:36.067175+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 25.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1670889/cashfree-sde-2"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/cashfree/salaries/software-engineer/levels/sde2/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -2438,6 +2473,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cloudhire1|swe|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-11T12:20:11.988716+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "cloudmotiv|fullstack|l1": {
    "expires": "2026-10-30T05:39:28.125789+00:00",
@@ -3861,6 +3910,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "exotel-techcom-private-limited|swe|l2": {
+   "expires": "2026-11-03T13:43:43.643271+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
   "expediagroup|data|l1": {
    "expires": "2026-10-25T19:07:58.853829+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
@@ -4491,6 +4545,11 @@
   "gitforce|swe|l1": {
    "expires": "2026-10-28T21:36:32.096697+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "gitlab-com|devops|l1": {
+   "expires": "2026-10-29T11:14:55.404827+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "gitlab-com|swe|l1": {
@@ -5579,6 +5638,11 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
+  "iitmatrix|swe|l1": {
+   "expires": "2026-10-29T13:02:50.896262+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
   "iivs-indianinstituteofvedicscience|swe|l1": {
    "expires": "2026-10-21T09:37:34.426857+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -6468,6 +6532,11 @@
     }
    ],
    "status": "found"
+  },
+  "klacorp|swe|l1": {
+   "expires": "2026-10-31T11:13:54.316756+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
   },
   "knorr-bremse|swe|l1": {
    "expires": "2026-10-30T12:45:27.119045+00:00",
@@ -7395,6 +7464,11 @@
    "looked_up": "2026-10-12T22:59:33+00:00",
    "status": "not_found"
   },
+  "nationwide|swe|l1": {
+   "expires": "2026-10-30T06:57:32.193034+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
   "natwest-group|data|l1": {
    "expires": "2026-10-29T19:48:57.111980+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -7718,8 +7792,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T22:55:56.530297+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-15T08:31:04.193398+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8214,6 +8288,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "park-place-technologies|swe|l1": {
+   "expires": "2026-10-26T13:37:29.485094+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
   },
   "parsewave|swe|l1": {
    "expires": "2026-10-17T18:11:54.926359+00:00",
@@ -9621,8 +9700,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T05:36:47.296101+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-19T21:25:56.894257+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10321,8 +10400,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:30:14.586108+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-09T04:02:04.590154+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10429,8 +10508,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:03:05.353958+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-19T18:59:27.317740+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10868,11 +10947,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "technoiogy-ia|swe|l1": {
-   "expires": "2026-10-15T11:09:14.164458+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
-  },
   "technosthan|fullstack|l1": {
    "expires": "2026-10-25T12:45:18.569693+00:00",
    "looked_up": "2026-10-10T11:01:20+00:00",
@@ -11125,8 +11199,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:22:16.985229+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-14T10:42:41.268544+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11779,6 +11853,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "victorflow|swe|l1": {
+   "expires": "2026-10-30T21:33:24.208190+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12262,8 +12341,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:58:45.338671+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
+   "expires": "2027-01-13T17:12:51.411178+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -12336,6 +12415,11 @@
   "zephico|fullstack|l1": {
    "expires": "2026-10-21T20:47:18.471360+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "zettamine-labs|erp|l1": {
+   "expires": "2026-10-26T02:03:26.853753+00:00",
+   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "zillow|swe|l1": {
@@ -12422,8 +12506,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1549,
-  "lookups_today": 134,
+  "lookups_month": 1561,
+  "lookups_today": 146,
   "month": "2026-10"
  }
 }
