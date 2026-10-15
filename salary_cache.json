@@ -60,8 +60,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T09:20:54.991522+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-14T23:01:28.403432+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -822,6 +822,11 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
+  "amgen|security|l1": {
+   "expires": "2026-10-31T03:03:05.572061+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1174,6 +1179,11 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
+  "assurant|devops|l1": {
+   "expires": "2026-10-25T08:32:23.678782+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "astellaspharmainc|erp|l1": {
    "expires": "2026-11-03T06:10:59.668439+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -1323,6 +1333,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "axaxl|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T02:20:52.809666+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "max_lpa": 7.1,
+   "min_lpa": 5.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/axa-xl-salaries/senior-associate"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "axismyindia1404|swe|l1": {
    "expires": "2026-10-29T22:37:18.305867+00:00",
@@ -2538,6 +2564,26 @@
    "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
+  "commvault|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T06:26:12.571005+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "max_lpa": 21.8,
+   "min_lpa": 12.4,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Commvault/salaries"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/he-il/companies/commvault/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3109,6 +3155,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "digihelic-solutions-pvt-ltd|erp|l1": {
+   "expires": "2026-10-31T13:14:01.968572+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "digiletechnologies|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3138,6 +3189,11 @@
   "digismein|swe|l1": {
    "expires": "2026-10-25T02:51:34.059193+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
+   "status": "not_found"
+  },
+  "digital-business-people|swe|l3": {
+   "expires": "2026-10-29T11:36:12.586100+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "digital-dhairya|fullstack|l1": {
@@ -5049,6 +5105,11 @@
    "looked_up": "2026-10-13T12:01:27+00:00",
    "status": "not_found"
   },
+  "hrc-consultng|swe|l1": {
+   "expires": "2026-10-24T04:35:35.516217+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "hrmcounselll|swe|l1": {
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -5913,6 +5974,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "jade-global|swe|l1": {
+   "expires": "2026-10-29T12:26:08.019704+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "jagdushah-technologies-private-limited|swe|l1": {
    "expires": "2026-10-16T21:41:04.417900+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -5921,6 +5987,11 @@
   "jeenasikho-lifecare-private-limited|erp|l1": {
    "expires": "2026-10-26T18:23:26.029293+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "jenvyqo|swe|l1": {
+   "expires": "2026-11-03T11:03:26.799734+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "jio-star|data|l2": {
@@ -6543,6 +6614,22 @@
    "expires": "2026-10-25T13:32:57.978047+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "ltm-larsenandtoubrocompany|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T04:14:18.089477+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/mindtree-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "lumberfi|swe|l1": {
    "expires": "2026-11-01T12:45:58.817558+00:00",
@@ -7442,8 +7529,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T02:56:13.678823+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-14T17:59:36.977632+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7937,6 +8024,11 @@
   "parsewave|swe|l1": {
    "expires": "2026-10-17T18:11:54.926359+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "patmold-engineering-pvt-ltd|swe|l1": {
+   "expires": "2026-10-28T23:44:44.628937+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "pavesoft|swe|l1": {
@@ -8667,6 +8759,11 @@
    "looked_up": "2026-10-10T09:01:19+00:00",
    "status": "not_found"
   },
+  "quikr|mobile|l1": {
+   "expires": "2026-11-04T12:25:35.032165+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "r-systems|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9140,8 +9237,8 @@
   "rxmen|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T09:21:28.829185+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-11T07:00:25.693786+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9300,8 +9397,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:14:10.551552+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-18T11:14:59.336988+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9386,6 +9483,11 @@
   "scoutit-in|frontend|l1": {
    "expires": "2026-10-26T01:59:55.057476+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "scoutit-in|fullstack|l1": {
+   "expires": "2026-10-31T08:24:41.837488+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "scoutit-in|swe|l1": {
@@ -9575,6 +9677,11 @@
   "simpliigence|swe|l1": {
    "expires": "2026-10-20T01:26:43.704865+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "siroclinpharm|erp|l1": {
+   "expires": "2026-10-25T02:13:00.417066+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "sitetracker|erp|l2": {
@@ -9969,8 +10076,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:15:21.733508+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-11T13:53:40.167493+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10077,8 +10184,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T02:09:59.356579+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-19T07:22:34.186357+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10363,6 +10470,22 @@
     {
      "title": "in.indeed.com",
      "uri": "https://in.indeed.com/cmp/Tata-Consultancy-Services-(tcs)/salaries/ServiceNow-Developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "tata-consultancy-services|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T22:20:55.795170+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tcs-salaries/full-stack-web-developer"
     }
    ],
    "status": "found",
@@ -10799,8 +10922,8 @@
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T02:28:16.926651+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-17T08:36:09.452389+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11494,6 +11617,11 @@
    "status": "found",
    "year": 2026
   },
+  "voitekk-softsol-pvt-ltd|fullstack|l1": {
+   "expires": "2026-10-30T09:54:39.690694+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
   "volody|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11835,8 +11963,8 @@
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T01:29:44.971420+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
+   "expires": "2027-01-09T05:12:54.445988+00:00",
+   "looked_up": "2026-10-15T09:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -11985,8 +12113,8 @@
  },
  "meta": {
   "day": "2026-10-15",
-  "lookups_month": 1485,
-  "lookups_today": 70,
+  "lookups_month": 1501,
+  "lookups_today": 86,
   "month": "2026-10"
  }
 }
