@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T04:36:30.041444+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-20T17:43:03.455315+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:23:17.847141+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-12T12:30:10.941797+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1623,8 +1623,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T07:17:53.375365+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-15T15:58:00.504402+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4567,8 +4567,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T02:05:06.755437+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-21T09:40:52.987876+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4658,8 +4658,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:57:18.221225+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-19T20:51:35.075033+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5754,8 +5754,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:17:52.351161+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-19T10:33:13.183261+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -9583,8 +9583,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T05:51:04.668899+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-16T12:48:07.754751+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10540,8 +10540,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T07:23:02.448466+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-09T15:33:25.468158+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10786,8 +10786,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T20:55:41.834831+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-15T07:56:05.271841+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10800,8 +10800,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T07:45:14.619886+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-09T15:06:26.061272+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12622,8 +12622,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:14:45.854119+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
+   "expires": "2027-01-16T08:54:39.947508+00:00",
+   "looked_up": "2026-10-16T12:26:56+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
