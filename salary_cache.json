@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:51:16.466680+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-19T00:46:38.184229+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T16:41:36.161242+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-10T14:04:24.228846+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -792,8 +792,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:36:17.827815+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-18T22:01:53.712338+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1088,6 +1088,26 @@
    "expires": "2026-10-24T18:51:49.083058+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
+  },
+  "applied-materials-india|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T00:26:51.093666+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "max_lpa": 14.7,
+   "min_lpa": 9.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/applied-materials-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/applied-materials-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "applied-materials-india|swe|l1": {
    "basis": "ctc",
@@ -2173,6 +2193,11 @@
    "status": "found",
    "year": 2026
   },
+  "candour-systems|fullstack|l1": {
+   "expires": "2026-11-05T23:40:38.956735+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "status": "not_found"
+  },
   "capco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2204,6 +2229,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "capgemini|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-19T09:59:11.982609+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "max_lpa": 16.2,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "capgemini|erp|l1": {
    "basis": "ctc",
@@ -2620,8 +2661,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T10:54:48.842485+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-08T22:54:26.689546+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3733,6 +3774,22 @@
    "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
+  "edgeverve|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-07T07:21:52.929823+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/edgeverve-systems-salaries/senior-soft-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "edwards|devops|l1": {
    "expires": "2026-10-17T21:37:59.466583+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -4330,8 +4387,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T18:43:07.549206+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-11T11:21:43.173048+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4401,8 +4458,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T05:02:42.501117+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-07T19:50:06.530424+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -7900,6 +7957,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "nasugroup-com|security|l1": {
+   "expires": "2026-11-04T06:38:30.864594+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "status": "not_found"
+  },
   "nasuni|devops|l1": {
    "expires": "2026-10-20T23:01:32.938993+00:00",
    "looked_up": "2026-10-11T11:01:20+00:00",
@@ -9110,8 +9172,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T06:42:21.890684+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-16T22:47:35.881700+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9611,6 +9673,11 @@
   "rapiddmls|swe|l1": {
    "expires": "2026-10-20T00:34:16.202749+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "rapsys-technologies|data|l1": {
+   "expires": "2026-10-26T21:49:33.299870+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "status": "not_found"
   },
   "rarrtech|swe|l1": {
@@ -10240,11 +10307,25 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-12T07:22:26.102985+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T08:36:37.954879+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-14T07:08:29.077961+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10863,6 +10944,22 @@
    "status": "found",
    "year": 2026
   },
+  "sonata-software|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-09T06:03:20.492995+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 3.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/sonata-software-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "sonicwall|frontend|l1": {
    "expires": "2026-11-03T04:10:15.333784+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -10978,8 +11075,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T19:22:24.458313+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-10T19:19:57.887429+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11091,8 +11188,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T16:54:37.259335+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-16T17:20:19.399061+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11833,8 +11930,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T21:56:17.199528+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
+   "expires": "2027-01-16T08:29:58.704555+00:00",
+   "looked_up": "2026-10-16T05:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13200,8 +13297,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1666,
-  "lookups_today": 12,
+  "lookups_month": 1673,
+  "lookups_today": 19,
   "month": "2026-10"
  }
 }
