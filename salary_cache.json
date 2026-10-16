@@ -398,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:40:15.500060+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-20T05:31:41.007558+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1698,8 +1698,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T12:43:57.450586+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-10T15:10:22.333730+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5990,8 +5990,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T20:57:48.482374+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-08T23:07:55.625371+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -8955,6 +8955,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "nike|swe|l2": {
+   "expires": "2026-10-29T04:13:01.003220+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
+   "status": "not_found"
+  },
   "niksun|security|l1": {
    "expires": "2026-10-31T07:04:50.919982+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -9004,8 +9009,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T11:53:42.432233+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-13T22:11:36.417558+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9930,8 +9935,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:17:04.324281+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-08T02:56:38.185328+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10917,8 +10922,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T06:54:26.886487+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-09T03:53:06.698930+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11163,8 +11168,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:23:58.667728+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-12T04:42:43.117994+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -13015,8 +13020,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:37:04.199580+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-15T03:22:42.112233+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13513,9 +13518,9 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "veradigm|swe|l1": {
-   "expires": "2026-10-16T22:55:58.564710+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
+  "vericence|devops|l1": {
+   "expires": "2026-11-06T10:57:49.311754+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "status": "not_found"
   },
   "verisk-analytics|devops|l1": {
@@ -13821,8 +13826,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T03:16:03.438820+00:00",
-   "looked_up": "2026-10-16T22:01:26+00:00",
+   "expires": "2027-01-14T21:56:30.939935+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14305,6 +14310,11 @@
    "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
+  "zinier-inc|swe|l1": {
+   "expires": "2026-10-31T19:47:23.211106+00:00",
+   "looked_up": "2026-10-16T23:01:23+00:00",
+   "status": "not_found"
+  },
   "zipaworld|ml|l1": {
    "expires": "2026-10-19T09:10:04.663198+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -14374,8 +14384,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1837,
-  "lookups_today": 183,
+  "lookups_month": 1840,
+  "lookups_today": 186,
   "month": "2026-10"
  }
 }
