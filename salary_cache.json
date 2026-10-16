@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T05:57:33.259226+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-19T15:39:35.840474+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T15:38:16.598663+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-08T18:03:10.629428+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -792,8 +792,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T19:22:39.861251+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-11T18:36:54.210614+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1282,6 +1282,11 @@
   "arrow-electronics|mobile|l1": {
    "expires": "2026-10-19T09:26:57.541425+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "arsecats|frontend|l1": {
+   "expires": "2026-11-03T07:59:13.181576+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
   "artechllc|devops|l1": {
@@ -2184,11 +2189,6 @@
    "status": "found",
    "year": 2026
   },
-  "capgemini-engineering|devops|l1": {
-   "expires": "2026-10-16T01:44:59.728610+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
-   "status": "not_found"
-  },
   "capgemini-engineering|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2620,8 +2620,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T00:26:33.853053+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-16T01:46:31.652321+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3020,6 +3020,11 @@
   "crunchyroll|swe|l1": {
    "expires": "2026-10-23T20:11:10.204683+00:00",
    "looked_up": "2026-10-10T19:01:20+00:00",
+   "status": "not_found"
+  },
+  "cube-hub|devops|l1": {
+   "expires": "2026-10-26T14:24:09.181044+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
   "cummins-india|data|l1": {
@@ -4330,8 +4335,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:39:16.402082+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-08T13:15:58.717664+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4401,8 +4406,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:37:00.403704+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-09T09:13:56.156268+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -6568,6 +6573,11 @@
   "jobbricksglobal|swe|l1": {
    "expires": "2026-10-19T08:33:21.155343+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "jobgether|devops|l1": {
+   "expires": "2026-10-29T13:28:15.404468+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
   "jobgether|erp|l1": {
@@ -9110,8 +9120,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T04:56:43.928727+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-07T09:52:21.273447+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10243,8 +10253,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T06:12:21.961326+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-19T17:10:44.754562+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10978,8 +10988,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T22:14:05.159382+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-08T03:09:00.879994+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11091,8 +11101,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T02:30:38.676191+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-20T13:02:10.043017+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11833,8 +11843,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:55:18.852401+00:00",
-   "looked_up": "2026-10-16T01:20:20+00:00",
+   "expires": "2027-01-11T05:04:03.366503+00:00",
+   "looked_up": "2026-10-16T02:01:40+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13200,8 +13210,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1662,
-  "lookups_today": 8,
+  "lookups_month": 1665,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
