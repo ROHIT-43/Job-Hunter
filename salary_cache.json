@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T20:07:27.140036+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-14T04:36:30.041444+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T18:29:36.823370+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-17T13:23:17.847141+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -938,6 +938,26 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "american-express|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-13T23:43:46.572269+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "max_lpa": 11.3,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/831787/american-express-software-engineer-1technology-domain-bengalurugurugram"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/556609/american-express-engineer-trainee-bangaloregurugram"
+    }
+   ],
+   "status": "found",
+   "year": 2020
+  },
   "american-express|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -999,6 +1019,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "amigoways|swe|l1": {
+   "expires": "2026-11-02T19:34:28.297267+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
   },
   "ami|swe|l1": {
    "expires": "2026-10-28T20:04:49.955424+00:00",
@@ -1569,6 +1594,11 @@
    "status": "found",
    "year": 2026
   },
+  "automatebuddy|mobile|l1": {
+   "expires": "2026-10-29T10:23:19.668896+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
   "aveva|swe|l2": {
    "expires": "2026-10-21T15:12:41.356496+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -1593,8 +1623,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T00:47:31.180087+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-20T07:17:53.375365+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -1633,11 +1663,6 @@
   "axitech-india|swe|l1": {
    "expires": "2026-10-30T02:02:10.233970+00:00",
    "looked_up": "2026-10-10T14:01:23+00:00",
-   "status": "not_found"
-  },
-  "ayurgrid|mobile|l1": {
-   "expires": "2026-10-16T11:09:32.035508+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "azilentechnologies|devops|l1": {
@@ -2811,6 +2836,11 @@
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
+  "coderkubetechnologies|mobile|l1": {
+   "expires": "2026-11-04T10:25:10.763511+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
   "codevibe-technology|frontend|l1": {
    "expires": "2026-10-23T03:11:13.447583+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
@@ -3789,6 +3819,11 @@
    "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
+  "doyengroup|swe|l1": {
+   "expires": "2026-11-05T01:20:33.917274+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
   "drc-systems|devops|l1": {
    "expires": "2026-10-24T00:18:42.402718+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -4062,6 +4097,11 @@
   "engradar|swe|l1": {
    "expires": "2026-10-25T21:17:20.754000+00:00",
    "looked_up": "2026-10-12T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "ensono|swe|l1": {
+   "expires": "2026-11-01T18:24:07.475202+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "enterprise-bot|fullstack|l1": {
@@ -4527,8 +4567,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T22:59:10.230224+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-11T02:05:06.755437+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4618,8 +4658,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T09:42:11.316385+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-18T16:57:18.221225+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -4628,6 +4668,11 @@
     }
    ],
    "status": "found"
+  },
+  "fleckslabs|swe|l1": {
+   "expires": "2026-11-05T08:05:54.239565+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
   },
   "flexera|swe|l1": {
    "basis": "ctc",
@@ -5709,8 +5754,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T21:19:08.755181+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-18T16:17:52.351161+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -7582,6 +7627,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "man-truck-and-bus-india-pvt-ltd|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T03:55:11.791720+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "max_lpa": 10.1,
+   "min_lpa": 7.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/man-truck-and-bus-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "man-truck-and-bus-india-pvt-ltd|devops|l1": {
    "expires": "2026-10-30T06:38:11.858842+00:00",
@@ -9522,8 +9583,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T06:57:26.104606+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-13T05:51:04.668899+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10479,8 +10540,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T22:52:26.080413+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-18T07:23:02.448466+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10558,6 +10619,11 @@
   "rymo-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-25T07:00:15.039908+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "s5-stratos|data|l1": {
+   "expires": "2026-11-06T11:09:11.898204+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "saama-technologies|data|l1": {
@@ -10720,8 +10786,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T14:19:19.863675+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-17T20:55:41.834831+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10734,8 +10800,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T21:49:16.823329+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-08T07:45:14.619886+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10901,6 +10967,11 @@
   "securyofficial|fullstack|l1": {
    "expires": "2026-10-28T03:52:31.169802+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "seekhoo|swe|l2": {
+   "expires": "2026-11-03T07:25:34.521107+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "seismic|swe|l2": {
@@ -12551,8 +12622,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T20:17:04.464458+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-01-19T02:14:45.854119+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13112,6 +13183,11 @@
   "victorflow|swe|l1": {
    "expires": "2026-10-30T21:33:24.208190+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
+  "vineforceit|frontend|l1": {
+   "expires": "2026-11-03T02:12:35.235432+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "virinnovations|swe|l1": {
@@ -13733,6 +13809,30 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "zensar|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-10T11:30:22.151870+00:00",
+   "looked_up": "2026-10-16T12:01:35+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Employer=Zensar/Salary"
+    },
+    {
+     "title": "freshershunt.in",
+     "uri": "https://freshershunt.in/zensar-fresher-off-campus/"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/zensar-technologies/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zenvior|fullstack|l1": {
    "expires": "2026-11-02T15:54:37.786615+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -13832,8 +13932,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1753,
-  "lookups_today": 99,
+  "lookups_month": 1765,
+  "lookups_today": 111,
   "month": "2026-10"
  }
 }
