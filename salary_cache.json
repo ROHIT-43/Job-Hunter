@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T07:34:44.931715+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-11T21:51:16.466680+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:00:21.256784+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-13T16:41:36.161242+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -792,8 +792,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T20:26:01.055147+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-16T05:36:17.827815+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2620,8 +2620,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:47:06.821257+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-07T10:54:48.842485+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2890,11 +2890,6 @@
   "consiliumsafety|swe|l1": {
    "expires": "2026-10-24T08:32:21.507299+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
-  "consulligent|mobile|l1": {
-   "expires": "2026-10-16T03:47:56.735996+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "consultixscorp|swe|l1": {
@@ -4335,8 +4330,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T07:44:50.232322+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-19T18:43:07.549206+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4406,8 +4401,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T12:01:15.167677+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-12T05:02:42.501117+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5817,11 +5812,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ibm|security|l1": {
-   "expires": "2026-10-16T03:59:41.148599+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
-   "status": "not_found"
   },
   "ibm|swe|l1": {
    "basis": "ctc",
@@ -9120,8 +9110,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:50:56.241589+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-09T06:42:21.890684+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10253,8 +10243,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T13:31:31.824296+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-14T08:36:37.954879+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10988,8 +10978,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T14:09:05.786567+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-10T19:22:24.458313+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11101,8 +11091,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:46:49.784397+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-19T16:54:37.259335+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11843,8 +11833,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T16:47:02.470221+00:00",
-   "looked_up": "2026-10-16T03:01:29+00:00",
+   "expires": "2027-01-11T21:56:17.199528+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12148,6 +12138,11 @@
   "unikloud-technext|swe|l1": {
    "expires": "2026-10-31T12:47:23.020186+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
+  "unistar-innovative-engineers-and-services|swe|l1": {
+   "expires": "2026-11-02T17:11:32.933995+00:00",
+   "looked_up": "2026-10-16T04:01:28+00:00",
    "status": "not_found"
   },
   "unisys|erp|l1": {
@@ -13205,8 +13200,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1665,
-  "lookups_today": 11,
+  "lookups_month": 1666,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
