@@ -311,11 +311,6 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
-  "ackplus-solutions|fullstack|l1": {
-   "expires": "2026-10-16T20:43:49.360299+00:00",
-   "looked_up": "2026-10-09T02:01:20+00:00",
-   "status": "not_found"
-  },
   "ackplus-solutions|swe|l1": {
    "expires": "2026-10-24T09:35:50.568767+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
@@ -403,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:37:39.693924+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-21T04:00:28.154707+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1698,8 +1693,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:41:05.374682+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-19T06:05:27.485206+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5970,8 +5965,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T03:56:41.563157+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-21T03:36:30.712772+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -8989,8 +8984,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T08:45:23.472662+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-12T20:00:31.371710+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9693,6 +9688,11 @@
    "status": "found",
    "year": 2026
   },
+  "pfi-innovation-centre-india|swe|l1": {
+   "expires": "2026-10-29T09:58:59.963802+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
+   "status": "not_found"
+  },
   "phenomai|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -9910,8 +9910,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:03:28.177903+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-10T11:49:46.927533+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10897,8 +10897,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:11:31.695523+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-11T03:52:34.554517+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11143,8 +11143,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T03:09:37.880739+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-19T23:10:53.168410+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -11329,11 +11329,6 @@
   "seekhoo|swe|l2": {
    "expires": "2026-11-03T07:25:34.521107+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "seismic|swe|l2": {
-   "expires": "2026-10-16T20:56:27.209793+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "sellergize-web-technology-solutions-pvt--ltd-|swe|l1": {
@@ -13000,8 +12995,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:06:10.809103+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-17T22:44:02.320590+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13806,8 +13801,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T20:14:08.922205+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2027-01-19T03:32:59.491034+00:00",
+   "looked_up": "2026-10-16T21:01:26+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14359,8 +14354,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1834,
-  "lookups_today": 180,
+  "lookups_month": 1835,
+  "lookups_today": 181,
   "month": "2026-10"
  }
 }
