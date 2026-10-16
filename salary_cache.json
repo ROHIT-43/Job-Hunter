@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:43:03.455315+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-11T02:40:34.927149+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T12:30:10.941797+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-16T17:21:57.246082+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1623,8 +1623,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:58:00.504402+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-19T22:10:55.539868+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -2927,6 +2927,11 @@
    "status": "found",
    "year": 2026
   },
+  "cognyte|swe|l1": {
+   "expires": "2026-10-29T11:05:49.535520+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
   "collabera|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3590,6 +3595,11 @@
   "designbrandshark|swe|l1": {
    "expires": "2026-10-20T11:24:35.494672+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "deutsche-bank|devops|l1": {
+   "expires": "2026-10-27T09:34:23.869202+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "deutschebahn|swe|l1": {
@@ -4567,8 +4577,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T09:40:52.987876+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-20T09:25:19.144431+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4658,8 +4668,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:51:35.075033+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-10T05:43:32.081990+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -4824,6 +4834,11 @@
   "forrester-research|erp|l1": {
    "expires": "2026-10-21T22:48:46.741576+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "fortive|security|l1": {
+   "expires": "2026-10-31T18:54:49.034872+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "foundit-jobs|swe|l1": {
@@ -5754,8 +5769,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T10:33:13.183261+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-21T01:38:44.013056+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -5904,6 +5919,11 @@
   "hsbc|devops|l1": {
    "expires": "2026-11-02T09:19:41.658835+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "hsbc|frontend|l1": {
+   "expires": "2026-10-30T10:45:26.826710+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "hsbc|swe|l1": {
@@ -6313,6 +6333,11 @@
   "incubics|erp|l1": {
    "expires": "2026-10-27T06:30:15.541593+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
+  "indiasfutureinvestors|devops|l1": {
+   "expires": "2026-10-29T08:42:11.516315+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "indiasfutureinvestors|frontend|l1": {
@@ -7373,6 +7398,11 @@
   "learn-with-anything|swe|l1": {
    "expires": "2026-10-31T00:48:50.876559+00:00",
    "looked_up": "2026-10-11T07:01:20+00:00",
+   "status": "not_found"
+  },
+  "legal-experts-ai|swe|l1": {
+   "expires": "2026-11-03T08:43:53.600804+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "leidos|swe|l1": {
@@ -9319,11 +9349,6 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
-  "peopleprimeww|erp|l1": {
-   "expires": "2026-10-16T12:45:17.958653+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
-   "status": "not_found"
-  },
   "peopleprimeww|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9583,8 +9608,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T12:48:07.754751+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-08T08:09:16.144717+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10336,6 +10361,11 @@
    "status": "found",
    "year": 2025
   },
+  "remote-wfh-india|data|l1": {
+   "expires": "2026-11-05T14:13:08.555338+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
   "rengy|mobile|l1": {
    "expires": "2026-10-21T03:03:29.879628+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -10540,8 +10570,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T15:33:25.468158+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-20T15:36:10.722983+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10786,8 +10816,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:56:05.271841+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-11T13:16:22.340614+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10800,8 +10830,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T15:06:26.061272+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-08T08:00:08.518093+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11893,6 +11923,11 @@
    "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
+  "talent-for-professionals|swe|l1": {
+   "expires": "2026-11-02T19:40:07.828023+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
   "talent-glider|swe|l1": {
    "expires": "2026-11-04T11:04:42.839381+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -11941,6 +11976,11 @@
   "tansorpay|fullstack|l1": {
    "expires": "2026-10-30T03:00:10.800389+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "tantranzm|erp|l1": {
+   "expires": "2026-10-25T22:11:07.771728+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "tantranzm|fullstack|l1": {
@@ -12622,8 +12662,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T08:54:39.947508+00:00",
-   "looked_up": "2026-10-16T12:26:56+00:00",
+   "expires": "2027-01-13T22:27:33.377025+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13576,6 +13616,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "work360ai|erp|l1": {
+   "expires": "2026-11-06T01:23:37.177614+00:00",
+   "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
   "workelate|fullstack|l3": {
    "expires": "2026-10-23T13:07:44.892215+00:00",
    "looked_up": "2026-10-10T04:01:22+00:00",
@@ -13932,8 +13977,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1765,
-  "lookups_today": 111,
+  "lookups_month": 1775,
+  "lookups_today": 121,
   "month": "2026-10"
  }
 }
