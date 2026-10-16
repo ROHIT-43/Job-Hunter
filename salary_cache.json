@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T15:39:35.840474+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-08T07:34:44.931715+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:03:10.629428+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-16T14:00:21.256784+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -792,8 +792,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T18:36:54.210614+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-16T20:26:01.055147+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2620,8 +2620,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:46:31.652321+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-12T03:47:06.821257+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4335,8 +4335,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T13:15:58.717664+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-18T07:44:50.232322+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4406,8 +4406,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:13:56.156268+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-08T12:01:15.167677+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9120,8 +9120,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T09:52:21.273447+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-18T14:50:56.241589+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10253,8 +10253,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:10:44.754562+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-16T13:31:31.824296+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10988,8 +10988,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T03:09:00.879994+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-17T14:09:05.786567+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11101,8 +11101,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T13:02:10.043017+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-18T14:46:49.784397+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11843,8 +11843,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T05:04:03.366503+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
+   "expires": "2027-01-12T16:47:02.470221+00:00",
+   "looked_up": "2026-10-16T03:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -13149,11 +13149,6 @@
   "zoenixhq|swe|l2": {
    "expires": "2026-10-23T21:11:30.856114+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
-  "zoft-ai|fullstack|l1": {
-   "expires": "2026-10-16T02:04:18.908094+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "zonesindia|fullstack|l1": {
