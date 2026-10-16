@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T12:06:53.052800+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-15T10:27:18.427871+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:59:16.946235+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-12T02:28:14.556738+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -802,8 +802,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T19:51:58.740964+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-21T02:18:51.152196+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -993,6 +993,11 @@
   "amrita-vishwa-vidyapeetham|frontend|l1": {
    "expires": "2026-10-24T07:54:28.428817+00:00",
    "looked_up": "2026-10-11T09:01:20+00:00",
+   "status": "not_found"
+  },
+  "amrita-vishwa-vidyapeetham|swe|l1": {
+   "expires": "2026-11-03T02:34:54.877928+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
   "amunra|swe|l1": {
@@ -1554,6 +1559,20 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "axalonsystems|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-07T23:29:26.167030+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "axaxl|swe|l1": {
    "basis": "ctc",
@@ -2173,6 +2192,11 @@
    "status": "found",
    "year": 2024
   },
+  "butterflyteck|swe|l1": {
+   "expires": "2026-10-29T21:11:46.558862+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "bytescare|fullstack|l1": {
    "expires": "2026-11-02T07:03:18.559905+00:00",
    "looked_up": "2026-10-12T16:01:29+00:00",
@@ -2697,8 +2721,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T23:02:46.669676+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-09T19:29:24.787609+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3735,6 +3759,11 @@
    "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
+  "dun-&amp;-bradstreet-india|data|l1": {
+   "expires": "2026-10-31T18:44:26.430722+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "duncit|swe|l1": {
    "expires": "2026-10-19T05:11:36.727316+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
@@ -4448,8 +4477,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:01:38.172087+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-10T04:16:18.295292+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4539,8 +4568,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T12:09:35.354597+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-13T08:35:07.034800+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5615,8 +5644,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T04:24:34.489467+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-10T17:20:01.263923+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -5970,6 +5999,26 @@
    "status": "found",
    "year": 2026
   },
+  "ibm|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T20:45:54.197445+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ibm-salaries/security-analyst/pune-location"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/IBM/salaries/Security-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ibm|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6145,6 +6194,11 @@
     }
    ],
    "status": "found"
+  },
+  "incredcapital|swe|l1": {
+   "expires": "2026-10-23T19:01:39.167521+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
   },
   "incubics|erp|l1": {
    "expires": "2026-10-27T06:30:15.541593+00:00",
@@ -6674,6 +6728,11 @@
   "jagdushah-technologies-private-limited|swe|l1": {
    "expires": "2026-10-16T21:41:04.417900+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
+   "status": "not_found"
+  },
+  "jark-world|swe|l1": {
+   "expires": "2026-11-02T15:17:54.851718+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
   "jeenasikho-lifecare-private-limited|erp|l1": {
@@ -8527,6 +8586,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "novotech|swe|l2": {
+   "expires": "2026-11-05T15:33:02.216395+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "novyte-materials|fullstack|l1": {
    "expires": "2026-10-18T18:49:32.585808+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -8847,6 +8911,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "optiminastic|fullstack|l1": {
+   "expires": "2026-10-24T22:09:50.655015+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
   },
   "optimizer360ai|fullstack|l1": {
    "expires": "2026-10-25T09:08:37.949809+00:00",
@@ -9333,8 +9402,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T22:17:24.309754+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-08T17:51:23.984410+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10251,6 +10320,20 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
+  "roi-hunt|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-17T11:30:43.716347+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "roomsmith-india|fullstack|l1": {
    "expires": "2026-10-25T04:12:45.782991+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -10481,8 +10564,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T16:21:47.516703+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-07T23:55:23.507373+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10495,8 +10578,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T14:39:31.711834+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-09T06:59:24.545958+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11593,6 +11676,11 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
+  "talentrabbit|swe|l1": {
+   "expires": "2026-11-06T07:53:27.500613+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "tally-experts-ind-uae|swe|l1": {
    "expires": "2026-10-19T03:16:32.693630+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -11909,6 +11997,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "telefonica-tech-en|data|l1": {
+   "expires": "2026-10-28T15:03:15.022324+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "telth|mobile|l1": {
    "expires": "2026-10-23T21:47:24.679157+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -12039,6 +12132,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "the-lit-school|frontend|l1": {
+   "expires": "2026-10-24T06:06:11.862665+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
   "the-retail-insights|devops|l1": {
    "expires": "2026-10-28T14:27:17.026204+00:00",
    "looked_up": "2026-10-09T23:01:19+00:00",
@@ -12116,8 +12214,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:18:45.190528+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-16T23:56:35.790949+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12251,8 +12349,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:43:51.575314+00:00",
-   "looked_up": "2026-10-16T08:01:25+00:00",
+   "expires": "2027-01-12T12:36:10.034296+00:00",
+   "looked_up": "2026-10-16T09:01:27+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13522,8 +13620,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1707,
-  "lookups_today": 53,
+  "lookups_month": 1718,
+  "lookups_today": 64,
   "month": "2026-10"
  }
 }
