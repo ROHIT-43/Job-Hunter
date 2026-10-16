@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:55:42.680388+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-09T20:56:08.657921+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -153,8 +153,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:42:45.574839+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-11T07:54:31.081325+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:30:10.227476+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-20T18:41:59.931870+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1499,6 +1499,11 @@
    "looked_up": "2026-10-16T17:01:24+00:00",
    "status": "not_found"
   },
+  "aspiringit|fullstack|l1": {
+   "expires": "2026-11-03T05:47:09.413944+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
+   "status": "not_found"
+  },
   "assurant|devops|l1": {
    "expires": "2026-10-25T08:32:23.678782+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -1693,8 +1698,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:41:27.748357+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-17T04:35:10.712360+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -1960,6 +1965,26 @@
    "expires": "2026-10-20T21:43:28.882206+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
+  },
+  "bikglobal|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-13T04:27:57.466694+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
+   "max_lpa": 8.7,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-bik-pay"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/es/companies/bik/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "birlasoft|erp|l1": {
    "expires": "2026-10-18T18:14:41.935802+00:00",
@@ -4647,6 +4672,11 @@
    "status": "found",
    "year": 2026
   },
+  "fedstack|swe|l1": {
+   "expires": "2026-10-23T20:47:34.534847+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
+   "status": "not_found"
+  },
   "fedstat|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4800,8 +4830,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T13:29:24.391126+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-19T21:48:33.020165+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5930,8 +5960,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T17:05:34.929166+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-16T09:57:54.831324+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -6590,6 +6620,11 @@
   "information-services-group|devops|l1": {
    "expires": "2026-10-31T21:28:30.564240+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "information-systems-associates-fze|swe|l1": {
+   "expires": "2026-10-24T11:49:02.037529+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "status": "not_found"
   },
   "infor|swe|l1": {
@@ -10832,8 +10867,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T15:57:55.062106+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-08T18:09:34.063666+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11078,8 +11113,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:07:55.850933+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-17T11:05:53.787224+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -12935,8 +12970,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T10:00:34.396351+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-16T18:57:04.640956+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13736,8 +13771,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T15:53:55.435470+00:00",
-   "looked_up": "2026-10-16T17:23:49+00:00",
+   "expires": "2027-01-17T02:15:05.639848+00:00",
+   "looked_up": "2026-10-16T18:01:27+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14289,8 +14324,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1819,
-  "lookups_today": 165,
+  "lookups_month": 1823,
+  "lookups_today": 169,
   "month": "2026-10"
  }
 }
