@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T14:15:26.519657+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-18T01:37:39.693924+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1698,8 +1698,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T15:09:29.855601+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-17T08:41:05.374682+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4046,6 +4046,16 @@
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
+  "e-khool|devops|l1": {
+   "expires": "2026-10-31T21:31:24.851172+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "e-khool|swe|l1": {
+   "expires": "2026-10-28T18:14:13.462657+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
+  },
   "eaton|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4835,8 +4845,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T05:09:56.363888+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-18T21:04:51.842961+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5202,11 +5212,6 @@
   },
   "getsupermoney|swe|l1": {
    "expires": "2026-10-26T20:14:18.548221+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
-  },
-  "getsupermoney|swe|l2": {
-   "expires": "2026-10-16T19:45:42.248897+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
@@ -5965,8 +5970,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T00:03:28.566247+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-16T03:56:41.563157+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -7956,11 +7961,6 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
-  "map-my-crop|devops|l1": {
-   "expires": "2026-10-16T19:27:37.670980+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
   "marduk-technologies|swe|l1": {
    "expires": "2026-10-30T17:59:03.718393+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -8611,6 +8611,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "nasdaq|swe|l1": {
+   "expires": "2026-11-04T08:59:17.987031+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
+  },
   "nasugroup-com|security|l1": {
    "expires": "2026-11-04T06:38:30.864594+00:00",
    "looked_up": "2026-10-16T05:01:25+00:00",
@@ -8752,6 +8757,11 @@
   "neer-info-solutions|erp|l1": {
    "expires": "2026-10-26T09:12:20.596768+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
+   "status": "not_found"
+  },
+  "neer-info-solutions|swe|l1": {
+   "expires": "2026-11-04T04:08:05.356114+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "status": "not_found"
   },
   "neevglobal|erp|l1": {
@@ -8979,8 +8989,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T07:47:05.299180+00:00",
-   "looked_up": "2026-10-15T18:26:55+00:00",
+   "expires": "2027-01-14T08:45:23.472662+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9153,6 +9163,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ntt-data-inc|devops|l1": {
+   "expires": "2026-11-02T09:00:57.994539+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
   },
   "nutanix|swe|l2": {
    "basis": "base",
@@ -9895,8 +9910,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T16:49:01.772268+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
+   "expires": "2027-01-19T00:03:28.177903+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10882,8 +10897,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T13:31:10.465103+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-08T03:11:31.695523+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10913,6 +10928,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ruhilfuturetechnologies|swe|l1": {
+   "expires": "2026-10-25T14:04:16.279282+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
   },
   "rws-group|fullstack|l1": {
    "basis": "base",
@@ -11123,8 +11143,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:13:45.754157+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-18T03:09:37.880739+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -12980,8 +13000,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T04:43:47.770926+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-09T00:06:10.809103+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13533,6 +13553,11 @@
    "status": "found",
    "year": 2026
   },
+  "vertiv|swe|l2": {
+   "expires": "2026-10-29T07:03:03.699120+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
+   "status": "not_found"
+  },
   "vgreentek|frontend|l1": {
    "expires": "2026-10-24T18:47:40.338024+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -13781,8 +13806,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T11:35:13.041797+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
+   "expires": "2027-01-20T20:14:08.922205+00:00",
+   "looked_up": "2026-10-16T20:01:24+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14334,8 +14359,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1827,
-  "lookups_today": 173,
+  "lookups_month": 1834,
+  "lookups_today": 180,
   "month": "2026-10"
  }
 }
