@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:26:26.510416+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-10T12:06:53.052800+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T05:53:39.134046+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-20T18:59:16.946235+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -802,8 +802,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:33:58.070400+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-17T19:51:58.740964+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2697,8 +2697,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:37:52.439137+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-11T23:02:46.669676+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4448,8 +4448,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T03:14:20.900066+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-21T04:01:38.172087+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4539,8 +4539,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T08:08:36.066350+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-20T12:09:35.354597+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5615,8 +5615,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:39:52.052544+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-14T04:24:34.489467+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -9333,8 +9333,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T04:13:28.910813+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-15T22:17:24.309754+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10481,8 +10481,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T19:31:48.252281+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-16T16:21:47.516703+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10495,8 +10495,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:58:53.252586+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-11T14:39:31.711834+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12116,8 +12116,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T22:30:42.315138+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-14T22:18:45.190528+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12251,8 +12251,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T10:39:48.433160+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
+   "expires": "2027-01-16T21:43:51.575314+00:00",
+   "looked_up": "2026-10-16T08:01:25+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
