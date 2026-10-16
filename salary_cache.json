@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:46:38.184229+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-19T05:15:24.016612+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T14:04:24.228846+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-18T02:44:49.864601+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -743,6 +743,16 @@
    "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
+  "alphahaq-technologies-pvt-ltd|erp|l3": {
+   "expires": "2026-10-23T15:21:00.210103+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "alphahaq-technologies-pvt-ltd|swe|l3": {
+   "expires": "2026-11-02T10:08:01.504587+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "alphaklick-solutions|fullstack|l1": {
    "expires": "2026-10-27T22:14:02.150462+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -792,8 +802,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:01:53.712338+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-07T11:27:10.817978+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2041,6 +2051,11 @@
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
+  "brandingbeez|mobile|l1": {
+   "expires": "2026-11-06T01:50:22.282551+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "brandkrit|mobile|l1": {
    "expires": "2026-10-25T21:03:56.816691+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
@@ -2661,8 +2676,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T22:54:26.689546+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-07T14:14:04.632951+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3250,6 +3265,11 @@
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
+  "data-nexus-ai|swe|l1": {
+   "expires": "2026-10-29T09:40:40.534356+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "dataframerai|fullstack|l1": {
    "expires": "2026-11-02T12:47:43.943227+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -3446,6 +3466,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "dermatouch-official|swe|l1": {
+   "expires": "2026-10-28T11:29:51.548055+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
   },
   "designbrandshark|swe|l1": {
    "expires": "2026-10-20T11:24:35.494672+00:00",
@@ -3924,11 +3949,6 @@
    "looked_up": "2026-10-12T18:01:24+00:00",
    "status": "not_found"
   },
-  "enkashbusiness|ml|l1": {
-   "expires": "2026-10-16T05:36:11.624625+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "enterprise-bot|fullstack|l1": {
    "expires": "2026-10-30T23:55:18.427419+00:00",
    "looked_up": "2026-10-14T20:01:23+00:00",
@@ -4387,8 +4407,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:21:43.173048+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-10T02:49:21.099252+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4458,8 +4478,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T19:50:06.530424+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-12T16:28:46.892979+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -4672,11 +4692,6 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
-  "fusionconsultingag|erp|l1": {
-   "expires": "2026-10-16T05:35:45.890150+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "fuziongrow|swe|l1": {
    "expires": "2026-10-24T17:32:51.682671+00:00",
    "looked_up": "2026-10-10T05:01:21+00:00",
@@ -4781,6 +4796,11 @@
   "generativx|swe|l1": {
    "expires": "2026-10-24T02:29:53.053647+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
+   "status": "not_found"
+  },
+  "genpact|swe|l1": {
+   "expires": "2026-10-26T14:46:26.726880+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
   "geoserve-maritime|fullstack|l1": {
@@ -6386,6 +6406,11 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
+  "intertec-systems|devops|l1": {
+   "expires": "2026-10-29T02:06:47.062534+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "intive|devops|l1": {
    "expires": "2026-10-30T09:41:16.150305+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -7352,6 +7377,16 @@
   "maktechnologiesllc|erp|l1": {
    "expires": "2026-10-16T09:15:35.934393+00:00",
    "looked_up": "2026-10-08T22:01:32+00:00",
+   "status": "not_found"
+  },
+  "man-truck-and-bus-india-pvt-ltd|devops|l1": {
+   "expires": "2026-10-30T06:38:11.858842+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "man-truck-and-bus-india-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-02T10:49:32.410304+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
   "manevaconsulting|erp|l1": {
@@ -8505,6 +8540,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "nuvo-aeon-diamond-jewellery-pvt-ltd|swe|l1": {
+   "expires": "2026-10-26T19:40:16.467464+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "nvent|erp|l1": {
    "expires": "2026-11-04T09:08:46.467057+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -9172,8 +9212,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:47:35.881700+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-12T04:38:29.877670+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9603,6 +9643,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "questhiring|swe|l1": {
+   "expires": "2026-11-05T10:07:57.894374+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
   },
   "quickfolks|frontend|l1": {
    "expires": "2026-10-23T17:41:17.271483+00:00",
@@ -10310,8 +10355,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T07:22:26.102985+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-15T00:01:30.224525+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10324,8 +10369,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T07:08:29.077961+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-12T11:38:23.031137+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11075,8 +11120,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T19:19:57.887429+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-14T15:03:29.557040+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11188,8 +11233,8 @@
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:20:19.399061+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-10T05:46:08.490103+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11385,6 +11430,11 @@
   "t1tech-group|swe|l1": {
    "expires": "2026-10-24T23:35:18.380870+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "talent-glider|swe|l1": {
+   "expires": "2026-11-04T11:04:42.839381+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
   "talent-hexa|frontend|l1": {
@@ -11930,8 +11980,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T08:29:58.704555+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
+   "expires": "2027-01-14T02:45:16.243141+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12055,6 +12105,11 @@
   "towards-vision-technologies|swe|l1": {
    "expires": "2026-10-25T06:57:44.034911+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "trainingbasket.in|devops|l1": {
+   "expires": "2026-10-29T14:05:33.595590+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
   "trainingbasket.in|frontend|l1": {
@@ -12960,6 +13015,11 @@
    "status": "found",
    "year": 2026
   },
+  "woger-trading-b.v.|devops|l1": {
+   "expires": "2026-10-24T10:41:37.045742+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
+   "status": "not_found"
+  },
   "wolftechnologiesllc|mobile|l1": {
    "expires": "2026-10-27T17:57:23.360585+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -12983,6 +13043,11 @@
   "workhallpvtltd|mobile|l1": {
    "expires": "2026-10-22T20:41:42.517523+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "world-wide-technology|swe|l1": {
+   "expires": "2026-11-02T03:13:08.214073+00:00",
+   "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
   "worldlineglobal|frontend|l1": {
@@ -13297,8 +13362,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1673,
-  "lookups_today": 19,
+  "lookups_month": 1688,
+  "lookups_today": 34,
   "month": "2026-10"
  }
 }
