@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:05:55.928742+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-16T17:45:48.817332+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T01:59:30.803120+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-07T21:27:10.189767+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -792,8 +792,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T18:21:44.233849+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-10T18:52:56.966553+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2620,8 +2620,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T12:56:19.870557+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-10T12:22:53.799673+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3638,6 +3638,11 @@
    "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
+  "droisys|devops|l1": {
+   "expires": "2026-10-24T06:15:21.186992+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
+   "status": "not_found"
+  },
   "duncit|swe|l1": {
    "expires": "2026-10-19T05:11:36.727316+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
@@ -4325,8 +4330,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T10:39:59.286882+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-11T21:39:30.018716+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4396,8 +4401,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:13:58.348716+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-07T11:44:09.175377+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -6573,6 +6578,11 @@
   "jobgether|frontend|l1": {
    "expires": "2026-10-20T10:42:51.915363+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "jobgether|fullstack|l1": {
+   "expires": "2026-11-03T06:47:41.677174+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
   "jobgether|mobile|l1": {
@@ -9100,8 +9110,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T07:13:30.710016+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-19T09:07:47.892493+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10233,8 +10243,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T09:30:36.586652+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-09T18:38:45.417734+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10968,8 +10978,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T21:35:54.698565+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-17T16:49:59.176110+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11073,11 +11083,16 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "surya-software-systems|swe|l1": {
+   "expires": "2026-10-30T10:01:58.601439+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
+   "status": "not_found"
+  },
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T12:18:12.821612+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-11T10:29:58.881358+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11150,11 +11165,6 @@
   "switsdigital|swe|l1": {
    "expires": "2026-10-23T00:42:52.550094+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
-  "symake|swe|l2": {
-   "expires": "2026-10-16T00:09:19.763861+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "synchrony-financial|swe|l1": {
@@ -11721,6 +11731,11 @@
    "looked_up": "2026-10-11T10:01:20+00:00",
    "status": "not_found"
   },
+  "tether|mobile|l1": {
+   "expires": "2026-11-01T00:14:39.823560+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
+   "status": "not_found"
+  },
   "thales|swe|l1": {
    "expires": "2026-10-25T19:22:16.047671+00:00",
    "looked_up": "2026-10-11T11:01:20+00:00",
@@ -11818,8 +11833,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T04:27:46.170790+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
+   "expires": "2027-01-14T05:10:45.684256+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12970,6 +12985,11 @@
    "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
+  "y&amp;l-consulting|data|l1": {
+   "expires": "2026-11-01T20:50:45.653587+00:00",
+   "looked_up": "2026-10-16T01:01:29+00:00",
+   "status": "not_found"
+  },
   "yash-technologies-middle-east-region|data|l1": {
    "basis": "base",
    "confidence": "low",
@@ -13180,8 +13200,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1657,
-  "lookups_today": 3,
+  "lookups_month": 1662,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
