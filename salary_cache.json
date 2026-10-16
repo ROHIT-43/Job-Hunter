@@ -134,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T05:15:24.016612+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-07T23:03:01.955408+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -148,8 +148,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T02:44:49.864601+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-12T14:49:34.566115+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -802,8 +802,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T11:27:10.817978+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-20T04:58:52.505179+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1063,6 +1063,11 @@
   "appleberrytech|swe|l1": {
    "expires": "2026-10-25T11:19:14.251263+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "applen-solutions|swe|l1": {
+   "expires": "2026-10-26T06:11:33.864596+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "apple|swe|l1": {
@@ -2462,6 +2467,22 @@
    "status": "found",
    "year": 2024
   },
+  "centera-tech|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-21T02:06:00.841678+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Centera-Tech/jobs"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "centotech|data|l1": {
    "expires": "2026-10-25T19:46:07.074906+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -2676,8 +2697,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-07T14:14:04.632951+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-17T00:44:19.461927+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2719,6 +2740,11 @@
   "codechaps|mobile|l2": {
    "expires": "2026-10-24T17:39:23.000170+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "codelancerofficial|security|l1": {
+   "expires": "2026-11-01T23:02:41.412716+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "codeplixai|erp|l1": {
@@ -3815,6 +3841,16 @@
    "status": "found",
    "year": 2025
   },
+  "edstruments|devops|l1": {
+   "expires": "2026-10-27T15:54:26.929829+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "edurun-virtuoso-pvt-ltd|security|l1": {
+   "expires": "2026-10-24T15:56:03.731879+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
+  },
   "edwards|devops|l1": {
    "expires": "2026-10-17T21:37:59.466583+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -4133,6 +4169,11 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
+  "everpure-data|devops|l1": {
+   "expires": "2026-10-27T12:56:04.390757+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
+  },
   "everpure-data|erp|l1": {
    "expires": "2026-11-04T00:34:19.815746+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -4407,8 +4448,8 @@
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T02:49:21.099252+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-11T09:04:35.167575+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.6,
    "sources": [
@@ -4433,6 +4474,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "first-american-india-pvt-ltd|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-16T08:48:14.021713+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/faa3a87c/First-American-Corporation-Early-Career"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/b37772e7/First-American-Corporation"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "first-cron|erp|l1": {
    "expires": "2026-10-20T07:45:52.485169+00:00",
@@ -4478,8 +4539,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T16:28:46.892979+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-13T06:49:22.475864+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -4864,6 +4925,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "giriraj-digital|swe|l1": {
+   "expires": "2026-10-26T15:15:10.686291+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
   },
   "gistimpact|data|l1": {
    "expires": "2026-10-29T19:47:27.214872+00:00",
@@ -5545,6 +5611,20 @@
    "expires": "2026-10-21T08:58:19.934455+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
+  },
+  "hevis-technologies-pvt-ltd|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-21T00:47:10.708621+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "hewlett-packard-enterprise|data|l1": {
    "expires": "2026-11-03T04:31:18.943136+00:00",
@@ -7389,6 +7469,22 @@
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
+  "man-truck-and-bus-india-pvt-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-11T18:46:54.039160+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "max_lpa": 10.1,
+   "min_lpa": 7.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/man-truck-and-bus-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "manevaconsulting|erp|l1": {
    "expires": "2026-11-02T22:45:55.534913+00:00",
    "looked_up": "2026-10-15T04:01:24+00:00",
@@ -7850,6 +7946,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "mobile-apps|security|l1": {
+   "expires": "2026-10-31T12:38:12.211345+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
+  },
   "moengage|frontend|l1": {
    "expires": "2026-10-26T16:39:22.026358+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -8124,6 +8225,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "needl-ai|swe|l1": {
+   "expires": "2026-10-23T07:26:16.594487+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
   },
   "neer-info-solutions|erp|l1": {
    "expires": "2026-10-26T09:12:20.596768+00:00",
@@ -9212,8 +9318,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:38:29.877670+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-11T03:19:03.618137+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9777,6 +9883,11 @@
   "real-time-applications-center|frontend|l1": {
    "expires": "2026-10-20T06:27:13.613472+00:00",
    "looked_up": "2026-10-10T12:01:23+00:00",
+   "status": "not_found"
+  },
+  "real-time-applications-center|mobile|l1": {
+   "expires": "2026-11-03T00:36:15.129631+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "real-time-applications-center|swe|l1": {
@@ -10355,8 +10466,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T00:01:30.224525+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-11T03:32:08.006033+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -10369,8 +10480,8 @@
   "sapiogen-ai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T11:38:23.031137+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-15T09:05:05.166280+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10450,6 +10561,11 @@
   "schneider-electric|swe|l2": {
    "expires": "2026-10-28T22:50:48.968045+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "scikiq|fullstack|l1": {
+   "expires": "2026-10-24T13:00:50.765501+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "sciplaygames|swe|l1": {
@@ -11120,8 +11236,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:03:29.557040+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-10T03:17:00.172562+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11491,6 +11607,11 @@
   "tarlton-io|mobile|l1": {
    "expires": "2026-10-18T04:23:11.732699+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
+   "status": "not_found"
+  },
+  "task-troopers|swe|l1": {
+   "expires": "2026-11-01T11:06:48.516279+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "tata-consultancy-services|data|l1": {
@@ -11980,8 +12101,8 @@
   "thetrendlab|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T02:45:16.243141+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
+   "expires": "2027-01-12T06:30:36.125945+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12020,6 +12141,11 @@
   "thornton-tomasetti|swe|l1": {
    "expires": "2026-10-21T19:17:42.498727+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "thoughtsol-infotech-ltd|swe|l1": {
+   "expires": "2026-11-01T06:13:43.104472+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "threeacross|swe|l1": {
@@ -12107,6 +12233,20 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "tpw-industries-llp-saksham|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-15T10:49:10.007294+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "max_lpa": 1.4,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "trainingbasket.in|devops|l1": {
    "expires": "2026-10-29T14:05:33.595590+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -12145,6 +12285,11 @@
     }
    ],
    "status": "found"
+  },
+  "tredence|security|l1": {
+   "expires": "2026-10-29T05:25:39.629468+00:00",
+   "looked_up": "2026-10-16T07:01:27+00:00",
+   "status": "not_found"
   },
   "tricog-health|frontend|l1": {
    "expires": "2026-10-25T18:59:47.990846+00:00",
@@ -13362,8 +13507,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1688,
-  "lookups_today": 34,
+  "lookups_month": 1704,
+  "lookups_today": 50,
   "month": "2026-10"
  }
 }
