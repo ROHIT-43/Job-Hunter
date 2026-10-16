@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:41:59.931870+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-10T14:15:26.519657+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1698,8 +1698,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T04:35:10.712360+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-12T15:09:29.855601+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -3214,6 +3214,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "confluentis-consulting-llp|devops|l1": {
+   "expires": "2026-11-03T13:08:13.396989+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
+   "status": "not_found"
   },
   "consiliumsafety|swe|l1": {
    "expires": "2026-10-24T08:32:21.507299+00:00",
@@ -4830,8 +4835,8 @@
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:48:33.020165+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-09T05:09:56.363888+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -5960,8 +5965,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T09:57:54.831324+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-10T00:03:28.566247+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -6837,6 +6842,11 @@
    "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
+  "insideoutva|swe|l1": {
+   "expires": "2026-11-06T00:37:36.376340+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
+   "status": "not_found"
+  },
   "insight-global|data|l1": {
    "expires": "2026-10-26T01:07:56.588848+00:00",
    "looked_up": "2026-10-15T21:01:37+00:00",
@@ -7340,6 +7350,11 @@
   "kainos-innovative-solutions|erp|l1": {
    "expires": "2026-10-24T12:27:01.464107+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "kainos|erp|l1": {
+   "expires": "2026-11-05T10:12:03.474830+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "status": "not_found"
   },
   "kaizen-dental-family|swe|l1": {
@@ -9961,11 +9976,6 @@
    "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
-  "proxelera|swe|l1": {
-   "expires": "2026-10-16T18:31:11.995986+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
-   "status": "not_found"
-  },
   "prudentfromdygnify|fullstack|l1": {
    "expires": "2026-10-17T12:53:43.073309+00:00",
    "looked_up": "2026-10-10T07:01:25+00:00",
@@ -10849,6 +10859,11 @@
    "status": "found",
    "year": 2026
   },
+  "roche|devops|l1": {
+   "expires": "2026-11-04T07:56:56.353364+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
+   "status": "not_found"
+  },
   "roche|fullstack|l1": {
    "expires": "2026-10-27T20:42:13.315787+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
@@ -10867,8 +10882,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:09:34.063666+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-16T13:31:10.465103+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -10966,11 +10981,6 @@
   "saatvik-agro-processors-private-limited|fullstack|l1": {
    "expires": "2026-11-03T01:59:38.291381+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "saatvik-agro-processors-private-limited|mobile|l1": {
-   "expires": "2026-10-16T18:42:06.927836+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|swe|l1": {
@@ -11113,8 +11123,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T11:05:53.787224+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-13T11:13:45.754157+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -12970,8 +12980,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:57:04.640956+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-08T04:43:47.770926+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13771,8 +13781,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T02:15:05.639848+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-21T11:35:13.041797+00:00",
+   "looked_up": "2026-10-16T19:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14324,8 +14334,8 @@
  },
  "meta": {
   "day": "2026-10-16",
-  "lookups_month": 1823,
-  "lookups_today": 169,
+  "lookups_month": 1827,
+  "lookups_today": 173,
   "month": "2026-10"
  }
 }
