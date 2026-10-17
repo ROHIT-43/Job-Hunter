@@ -4805,8 +4805,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T19:43:33.796938+00:00",
-   "looked_up": "2026-10-17T22:01:28+00:00",
+   "expires": "2027-01-19T13:04:36.395244+00:00",
+   "looked_up": "2026-10-17T22:18:14+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9150,8 +9150,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T06:02:13.090845+00:00",
-   "looked_up": "2026-10-17T22:01:28+00:00",
+   "expires": "2027-01-13T10:45:24.763724+00:00",
+   "looked_up": "2026-10-17T22:18:14+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
