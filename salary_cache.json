@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T05:34:55.943129+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
+   "expires": "2027-01-17T00:59:58.576635+00:00",
+   "looked_up": "2026-10-17T13:43:31+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -4774,8 +4774,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:35:37.284159+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
+   "expires": "2027-01-12T02:06:42.853139+00:00",
+   "looked_up": "2026-10-17T13:43:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9099,8 +9099,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T02:39:54.367392+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
+   "expires": "2027-01-17T15:42:56.115024+00:00",
+   "looked_up": "2026-10-17T13:43:31+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10035,8 +10035,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T01:35:15.013636+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
+   "expires": "2027-01-17T18:10:53.344995+00:00",
+   "looked_up": "2026-10-17T13:43:31+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13941,8 +13941,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:38:20.089286+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
+   "expires": "2027-01-11T17:31:00.804535+00:00",
+   "looked_up": "2026-10-17T13:43:31+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
