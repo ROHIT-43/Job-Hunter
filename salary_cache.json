@@ -4805,8 +4805,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T13:04:36.395244+00:00",
-   "looked_up": "2026-10-17T22:18:14+00:00",
+   "expires": "2027-01-19T06:50:11.864328+00:00",
+   "looked_up": "2026-10-17T23:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7816,11 +7816,6 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
-  "linde|data|l1": {
-   "expires": "2026-10-17T22:52:14.394313+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
-   "status": "not_found"
-  },
   "linde|erp|l1": {
    "expires": "2026-10-28T20:37:16.879764+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -9150,8 +9145,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T10:45:24.763724+00:00",
-   "looked_up": "2026-10-17T22:18:14+00:00",
+   "expires": "2027-01-15T08:59:45.986857+00:00",
+   "looked_up": "2026-10-17T23:01:25+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9174,11 +9169,6 @@
   "nmtronics|swe|l1": {
    "expires": "2026-11-01T16:10:38.327309+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "nocko|erp|l1": {
-   "expires": "2026-10-17T22:26:27.767771+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "nomni-ai|fullstack|l1": {
@@ -14336,6 +14326,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "xploreon|fullstack|l1": {
+   "expires": "2026-10-29T23:59:32.183427+00:00",
+   "looked_up": "2026-10-17T23:01:25+00:00",
+   "status": "not_found"
+  },
   "xpool|swe|l1": {
    "expires": "2026-11-06T17:11:10.455146+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
@@ -14605,8 +14600,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1903,
-  "lookups_today": 63,
+  "lookups_month": 1904,
+  "lookups_today": 64,
   "month": "2026-10"
  }
 }
