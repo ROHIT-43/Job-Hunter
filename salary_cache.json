@@ -398,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T13:07:03.114802+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-19T07:21:51.340125+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1708,8 +1708,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T05:11:07.331417+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-21T11:33:56.429379+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4766,6 +4766,20 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "financetimes|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-13T05:41:14.472999+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "findit-bangalore|frontend|l1": {
    "expires": "2026-11-02T13:24:28.206111+00:00",
    "looked_up": "2026-10-15T21:01:37+00:00",
@@ -6005,8 +6019,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:00:31.989427+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-12T08:48:01.827081+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -6531,6 +6545,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "iitjobs|erp|l1": {
+   "expires": "2026-11-02T12:36:15.623226+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
+   "status": "not_found"
   },
   "iitjobs|ml|l1": {
    "expires": "2026-10-24T17:49:50.620324+00:00",
@@ -9024,8 +9043,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:28:36.632526+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-09T00:03:15.954659+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9950,8 +9969,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T04:24:58.409831+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-15T17:23:08.538599+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10937,8 +10956,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T00:04:01.772655+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-12T19:08:10.647657+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11433,11 +11452,6 @@
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-10-25T12:57:40.621495+00:00",
    "looked_up": "2026-10-13T03:01:28+00:00",
-   "status": "not_found"
-  },
-  "shreeyaan-solusmart-pvt-ltd|swe|l1": {
-   "expires": "2026-10-17T04:48:52.457644+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
   "shriramgeneralinsurance|mobile|l1": {
@@ -13035,8 +13049,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T01:51:38.014445+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-20T13:27:14.705906+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13841,8 +13855,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:25:56.730989+00:00",
-   "looked_up": "2026-10-17T04:25:31+00:00",
+   "expires": "2027-01-21T16:19:28.031706+00:00",
+   "looked_up": "2026-10-17T05:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14399,8 +14413,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1851,
-  "lookups_today": 11,
+  "lookups_month": 1852,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
