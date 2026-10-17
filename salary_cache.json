@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T10:43:41.836242+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
+   "expires": "2027-01-17T01:40:53.816280+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -4769,8 +4769,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:21:43.224097+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
+   "expires": "2027-01-17T01:18:43.407589+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7892,6 +7892,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "lpl-global-capability-center|frontend|l1": {
+   "expires": "2026-11-03T04:55:45.055267+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
+   "status": "not_found"
+  },
   "ltm-larsenandtoubrocompany|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9084,8 +9089,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:25:29.711470+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
+   "expires": "2027-01-21T23:26:58.307195+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10020,8 +10025,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T19:43:01.030977+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
+   "expires": "2027-01-19T12:22:50.116618+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11608,6 +11613,11 @@
   "siroclinpharm|erp|l1": {
    "expires": "2026-10-25T02:13:00.417066+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
+  "sisnolabs|mobile|l1": {
+   "expires": "2026-10-29T18:56:01.281289+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "status": "not_found"
   },
   "sitetracker|erp|l2": {
@@ -13683,6 +13693,11 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
+  "vidhyutron-technology-private-limited|swe|l1": {
+   "expires": "2026-10-31T15:02:47.698078+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
+   "status": "not_found"
+  },
   "vineforceit|frontend|l1": {
    "expires": "2026-11-03T02:12:35.235432+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -13916,8 +13931,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T04:20:14.549967+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
+   "expires": "2027-01-20T13:58:42.318689+00:00",
+   "looked_up": "2026-10-17T12:01:27+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14479,8 +14494,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1872,
-  "lookups_today": 32,
+  "lookups_month": 1875,
+  "lookups_today": 35,
   "month": "2026-10"
  }
 }
