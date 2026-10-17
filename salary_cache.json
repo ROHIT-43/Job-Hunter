@@ -4203,11 +4203,6 @@
    "looked_up": "2026-10-17T01:01:28+00:00",
    "status": "not_found"
   },
-  "edwards|devops|l1": {
-   "expires": "2026-10-17T21:37:59.466583+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
-   "status": "not_found"
-  },
   "efforts-unlimited|swe|l1": {
    "expires": "2026-11-04T17:55:39.223534+00:00",
    "looked_up": "2026-10-15T01:01:23+00:00",
@@ -4810,8 +4805,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:24:19.901432+00:00",
-   "looked_up": "2026-10-17T21:01:26+00:00",
+   "expires": "2027-01-13T19:43:33.796938+00:00",
+   "looked_up": "2026-10-17T22:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5111,11 +5106,6 @@
   "franklin-templeton|swe|l1": {
    "expires": "2026-10-25T19:33:52.980393+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
-   "status": "not_found"
-  },
-  "freseniusmedicalcare|erp|l1": {
-   "expires": "2026-10-17T21:51:18.499381+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "frnsup|frontend|l1": {
@@ -9160,8 +9150,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T14:40:51.492913+00:00",
-   "looked_up": "2026-10-17T21:01:26+00:00",
+   "expires": "2027-01-20T06:02:13.090845+00:00",
+   "looked_up": "2026-10-17T22:01:28+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
