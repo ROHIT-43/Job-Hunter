@@ -91,11 +91,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "a-business-studio|erp|l1": {
-   "expires": "2026-10-17T15:47:45.469416+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
-  },
   "aahaas|devops|l1": {
    "expires": "2026-10-24T03:25:55.622632+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -403,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T02:44:43.337080+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
+   "expires": "2027-01-13T08:41:35.972533+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -3033,11 +3028,6 @@
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
-  "codeplixai|erp|l1": {
-   "expires": "2026-10-17T15:06:18.877975+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "coderkubetechnologies|mobile|l1": {
    "expires": "2026-11-04T10:25:10.763511+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -4712,6 +4702,26 @@
    "status": "found",
    "year": null
   },
+  "factset|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T05:30:17.404250+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/1cb41e14/Factset-Research-Systems-Inc.-Hyderabad"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1554454/factset-se-1-hydrabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "factual-tech-solutions|swe|l1": {
    "expires": "2026-10-31T17:12:22.548491+00:00",
    "looked_up": "2026-10-13T22:01:25+00:00",
@@ -4784,8 +4794,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T20:15:28.849440+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
+   "expires": "2027-01-09T05:12:44.134804+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8741,6 +8751,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "mvaak|fullstack|l1": {
+   "expires": "2026-10-27T03:16:05.812917+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
+   "status": "not_found"
+  },
   "mycareernet|swe|l1": {
    "expires": "2026-10-20T14:02:48.432437+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -9095,11 +9110,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "nippon-data-systems|fullstack|l1": {
-   "expires": "2026-10-17T15:44:20.462497+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "nippon-data-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9124,8 +9134,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T03:25:20.897780+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
+   "expires": "2027-01-15T18:12:25.081656+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9394,11 +9404,6 @@
   "ocean-infotech-rajkot|mobile|l1": {
    "expires": "2026-10-26T17:26:49.078030+00:00",
    "looked_up": "2026-10-17T08:01:23+00:00",
-   "status": "not_found"
-  },
-  "oceanstravel|swe|l1": {
-   "expires": "2026-10-17T15:14:05.834898+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "odox-softhub|swe|l1": {
@@ -10060,8 +10065,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:11:39.878864+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
+   "expires": "2027-01-11T22:09:23.653736+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13991,8 +13996,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T04:41:18.315205+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
+   "expires": "2027-01-13T09:42:12.091396+00:00",
+   "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14564,8 +14569,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1892,
-  "lookups_today": 52,
+  "lookups_month": 1894,
+  "lookups_today": 54,
   "month": "2026-10"
  }
 }
