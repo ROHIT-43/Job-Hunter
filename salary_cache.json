@@ -398,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T03:22:24.681110+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-09T16:49:50.758944+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -2591,6 +2591,11 @@
    "status": "found",
    "year": 2026
   },
+  "cargill|data|l1": {
+   "expires": "2026-10-26T13:54:44.883116+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
+   "status": "not_found"
+  },
   "cargill|swe|l1": {
    "expires": "2026-10-22T13:31:07.348749+00:00",
    "looked_up": "2026-10-15T00:01:24+00:00",
@@ -3358,11 +3363,6 @@
   "criclive-in|mobile|l1": {
    "expires": "2026-10-24T20:01:36.958730+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "crossinghurdles|swe|l1": {
-   "expires": "2026-10-17T08:39:46.878129+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "crossnibble|fullstack|l1": {
@@ -4769,8 +4769,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:29:23.974876+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-09T14:30:46.745429+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6955,6 +6955,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "intelliowl|erp|l1": {
+   "expires": "2026-11-04T07:32:26.820703+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
+   "status": "not_found"
+  },
   "intellisensetechnology|swe|l1": {
    "expires": "2026-10-22T15:47:32.286440+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -9038,8 +9043,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:03:33.656630+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-15T09:36:43.301235+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9969,8 +9974,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T15:04:17.008558+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-08T16:08:06.165576+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13845,8 +13850,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T01:18:40.220980+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-15T17:13:51.090793+00:00",
+   "looked_up": "2026-10-17T09:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14408,8 +14413,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1856,
-  "lookups_today": 16,
+  "lookups_month": 1858,
+  "lookups_today": 18,
   "month": "2026-10"
  }
 }
