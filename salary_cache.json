@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:40:53.816280+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
+   "expires": "2027-01-19T05:34:55.943129+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -2743,6 +2743,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "centotech|erp|l1": {
+   "expires": "2026-11-01T19:33:46.534446+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
+   "status": "not_found"
+  },
   "centotech|swe|l1": {
    "expires": "2026-10-23T15:45:48.999363+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
@@ -4769,8 +4774,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:18:43.407589+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
+   "expires": "2027-01-20T04:35:37.284159+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8634,6 +8639,11 @@
    "status": "found",
    "year": 2026
   },
+  "mouser-electronics|frontend|l1": {
+   "expires": "2026-11-07T06:01:29.938908+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
+   "status": "not_found"
+  },
   "mouser-electronics|swe|l1": {
    "expires": "2026-11-02T21:38:46.359206+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -9089,8 +9099,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T23:26:58.307195+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
+   "expires": "2027-01-09T02:39:54.367392+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9288,11 +9298,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "nuvama-group|swe|l1": {
-   "expires": "2026-10-17T12:19:24.717949+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
   },
   "nuvatrix-ai-private-limited|erp|l1": {
    "expires": "2026-10-26T07:41:29.069330+00:00",
@@ -9695,6 +9700,11 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
+  "paxos|data|l1": {
+   "expires": "2026-11-05T00:51:16.280960+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
+   "status": "not_found"
+  },
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10025,8 +10035,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:22:50.116618+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
+   "expires": "2027-01-09T01:35:15.013636+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10054,11 +10064,6 @@
   "principle-pride|devops|l1": {
    "expires": "2026-10-27T16:46:50.037968+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "principle-pride|swe|l1": {
-   "expires": "2026-10-17T12:23:51.737096+00:00",
-   "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
   "pro-team-solutions-private-limited|erp|l1": {
@@ -10099,11 +10104,6 @@
   "prospecta-software|devops|l1": {
    "expires": "2026-10-27T13:45:42.337712+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "prudentfromdygnify|fullstack|l1": {
-   "expires": "2026-10-17T12:53:43.073309+00:00",
-   "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
   "pt-global-tiket-network|frontend|l1": {
@@ -11365,6 +11365,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "schr-dinger|swe|l1": {
+   "expires": "2026-10-29T00:05:17.103506+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
+   "status": "not_found"
+  },
   "scikiq|fullstack|l1": {
    "expires": "2026-10-24T13:00:50.765501+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
@@ -12459,6 +12464,11 @@
   "tantranzm|fullstack|l1": {
    "expires": "2026-11-02T17:08:03.652825+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
+   "status": "not_found"
+  },
+  "tarana-wireless-inc|devops|l1": {
+   "expires": "2026-11-06T17:25:02.161128+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
   "target|mobile|l1": {
@@ -13931,8 +13941,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T13:58:42.318689+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
+   "expires": "2027-01-17T13:38:20.089286+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14065,6 +14075,11 @@
   "willware-technologies|swe|l1": {
    "expires": "2026-11-03T18:21:21.914591+00:00",
    "looked_up": "2026-10-15T05:01:24+00:00",
+   "status": "not_found"
+  },
+  "win-solutions|swe|l1": {
+   "expires": "2026-10-30T05:38:50.617690+00:00",
+   "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
   "wind-terpines|swe|l1": {
@@ -14494,8 +14509,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1875,
-  "lookups_today": 35,
+  "lookups_month": 1881,
+  "lookups_today": 41,
   "month": "2026-10"
  }
 }
