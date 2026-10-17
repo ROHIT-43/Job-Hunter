@@ -398,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T00:16:04.933399+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-12T17:33:40.643732+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1698,8 +1698,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:47:14.797561+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-21T12:36:10.893957+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5990,8 +5990,8 @@
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T15:22:29.053517+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-08T19:09:02.700803+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.4,
    "sources": [
@@ -6199,6 +6199,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "htc-global-services|erp|l1": {
+   "expires": "2026-11-06T08:30:07.284285+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
+   "status": "not_found"
   },
   "htc-global-services|fullstack|l1": {
    "expires": "2026-10-24T18:19:25.883946+00:00",
@@ -9009,8 +9014,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T21:41:16.027057+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-16T05:19:45.621786+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9935,8 +9940,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T18:46:08.201067+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-20T12:25:13.165737+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10922,8 +10927,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:14:41.346181+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-12T15:39:25.139577+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -11168,8 +11173,8 @@
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T14:19:04.726893+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-11T02:51:55.511961+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -11951,6 +11956,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "srinivasa-supply-chain-solutions-private-limited|erp|l1": {
+   "expires": "2026-10-28T08:59:59.186991+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
+   "status": "not_found"
+  },
   "ssigma|swe|l1": {
    "expires": "2026-10-25T09:28:51.257342+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -11983,11 +11993,6 @@
   "standard-profile-industries-private-limited|swe|l1": {
    "expires": "2026-10-24T16:39:56.678714+00:00",
    "looked_up": "2026-10-10T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "star-knowledge-ventures|mobile|l1": {
-   "expires": "2026-10-17T01:33:26.786455+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
   "starsoftware-official|swe|l1": {
@@ -12072,6 +12077,11 @@
   "surya-software-systems|swe|l1": {
    "expires": "2026-10-30T10:01:58.601439+00:00",
    "looked_up": "2026-10-16T01:01:29+00:00",
+   "status": "not_found"
+  },
+  "suryawave|fullstack|l1": {
+   "expires": "2026-11-01T10:52:18.490472+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "status": "not_found"
   },
   "sushena-health-pvt-ltd|swe|l1": {
@@ -12587,11 +12597,6 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
-  "technogenindia|frontend|l1": {
-   "expires": "2026-10-17T01:26:31.595619+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "technosthan|fullstack|l1": {
    "expires": "2026-10-25T12:45:18.569693+00:00",
    "looked_up": "2026-10-10T11:01:20+00:00",
@@ -13020,8 +13025,8 @@
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T15:34:49.380910+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-17T09:44:14.549693+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 1.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13826,8 +13831,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T08:19:30.921188+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
+   "expires": "2027-01-17T06:26:57.181669+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14115,6 +14120,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "xpool|swe|l1": {
+   "expires": "2026-11-06T17:11:10.455146+00:00",
+   "looked_up": "2026-10-17T02:01:21+00:00",
+   "status": "not_found"
+  },
   "xuman-ai|fullstack|l1": {
    "expires": "2026-10-22T05:44:36.776873+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -14379,8 +14389,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1841,
-  "lookups_today": 1,
+  "lookups_month": 1845,
+  "lookups_today": 5,
   "month": "2026-10"
  }
 }
