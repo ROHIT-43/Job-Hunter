@@ -1013,11 +1013,6 @@
    "looked_up": "2026-10-13T21:01:25+00:00",
    "status": "not_found"
   },
-  "amgen|erp|l1": {
-   "expires": "2026-10-17T17:06:57.842239+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "amgen|frontend|l1": {
    "expires": "2026-10-25T05:52:45.353079+00:00",
    "looked_up": "2026-10-14T00:01:31+00:00",
@@ -4799,8 +4794,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T17:36:41.904955+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
+   "expires": "2027-01-22T00:57:13.809766+00:00",
+   "looked_up": "2026-10-17T17:10:16+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9144,8 +9139,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T21:30:04.111968+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
+   "expires": "2027-01-22T09:33:23.890086+00:00",
+   "looked_up": "2026-10-17T17:10:16+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10075,8 +10070,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T05:59:25.204767+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
+   "expires": "2027-01-14T19:25:07.944919+00:00",
+   "looked_up": "2026-10-17T17:10:16+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
