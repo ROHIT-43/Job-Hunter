@@ -4794,8 +4794,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T00:57:13.809766+00:00",
-   "looked_up": "2026-10-17T17:10:16+00:00",
+   "expires": "2027-01-10T18:30:41.140766+00:00",
+   "looked_up": "2026-10-17T18:01:21+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4900,11 +4900,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "fis|swe|l2": {
-   "expires": "2026-10-17T17:24:00.039617+00:00",
-   "looked_up": "2026-10-09T19:01:24+00:00",
-   "status": "not_found"
   },
   "five9|swe|l2": {
    "expires": "2026-10-31T23:05:47.130143+00:00",
@@ -8658,6 +8653,11 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
+  "motorolasolutions|devops|l1": {
+   "expires": "2026-11-05T02:33:43.584553+00:00",
+   "looked_up": "2026-10-17T18:01:21+00:00",
+   "status": "not_found"
+  },
   "motorolasolutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9139,8 +9139,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:33:23.890086+00:00",
-   "looked_up": "2026-10-17T17:10:16+00:00",
+   "expires": "2027-01-12T18:25:35.376951+00:00",
+   "looked_up": "2026-10-17T18:01:21+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10070,8 +10070,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T19:25:07.944919+00:00",
-   "looked_up": "2026-10-17T17:10:16+00:00",
+   "expires": "2027-01-17T03:37:49.065187+00:00",
+   "looked_up": "2026-10-17T18:01:21+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12848,6 +12848,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "telus-digital|swe|l1": {
+   "expires": "2026-10-31T06:41:38.789282+00:00",
+   "looked_up": "2026-10-17T18:01:21+00:00",
+   "status": "not_found"
+  },
   "teradata|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13646,11 +13651,6 @@
   },
   "vasudev-technolabs|frontend|l1": {
    "expires": "2026-10-19T01:38:49.715015+00:00",
-   "looked_up": "2026-10-10T00:01:23+00:00",
-   "status": "not_found"
-  },
-  "vasudev-technolabs|swe|l1": {
-   "expires": "2026-10-17T17:28:25.025731+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
@@ -14584,8 +14584,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1898,
-  "lookups_today": 58,
+  "lookups_month": 1900,
+  "lookups_today": 60,
   "month": "2026-10"
  }
 }
