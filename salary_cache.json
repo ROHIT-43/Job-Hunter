@@ -4810,8 +4810,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T05:26:25.647803+00:00",
-   "looked_up": "2026-10-17T19:01:23+00:00",
+   "expires": "2027-01-22T17:39:39.858581+00:00",
+   "looked_up": "2026-10-17T19:23:46+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9160,8 +9160,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:44:56.865058+00:00",
-   "looked_up": "2026-10-17T19:01:23+00:00",
+   "expires": "2027-01-10T20:58:47.985495+00:00",
+   "looked_up": "2026-10-17T19:23:46+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10086,8 +10086,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:57:45.568047+00:00",
-   "looked_up": "2026-10-17T19:01:23+00:00",
+   "expires": "2027-01-18T23:23:33.861350+00:00",
+   "looked_up": "2026-10-17T19:23:46+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
