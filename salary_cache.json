@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:26:28.597378+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
+   "expires": "2027-01-20T02:44:43.337080+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -2382,6 +2382,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "bunge|erp|l1": {
+   "expires": "2026-10-26T11:00:07.297234+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
+   "status": "not_found"
   },
   "butterflyteck|swe|l1": {
    "expires": "2026-10-29T21:11:46.558862+00:00",
@@ -4779,8 +4784,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:39:48.300861+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
+   "expires": "2027-01-14T20:15:28.849440+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5702,6 +5707,11 @@
   "greif|erp|l1": {
    "expires": "2026-11-01T19:12:08.794865+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "grey-machines|swe|l1": {
+   "expires": "2026-10-29T18:20:09.550090+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
   "griddable-io|swe|l1": {
@@ -7800,6 +7810,11 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
+  "linde|fullstack|l1": {
+   "expires": "2026-11-02T13:23:03.850108+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
+   "status": "not_found"
+  },
   "linkedin|swe|l1": {
    "expires": "2026-10-31T06:53:35.388754+00:00",
    "looked_up": "2026-10-13T05:01:29+00:00",
@@ -9109,8 +9124,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T04:11:33.036639+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
+   "expires": "2027-01-17T03:25:20.897780+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10045,8 +10060,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T14:34:44.776754+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
+   "expires": "2027-01-15T07:11:39.878864+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11618,6 +11633,11 @@
   "signifycompany|swe|l1": {
    "expires": "2026-11-05T02:50:58.632197+00:00",
    "looked_up": "2026-10-16T11:01:36+00:00",
+   "status": "not_found"
+  },
+  "silicon-pin|swe|l1": {
+   "expires": "2026-11-02T23:40:56.554557+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
   "simpliigence|swe|l1": {
@@ -13971,8 +13991,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T09:56:13.218218+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
+   "expires": "2027-01-09T04:41:18.315205+00:00",
+   "looked_up": "2026-10-17T15:01:24+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14544,8 +14564,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1888,
-  "lookups_today": 48,
+  "lookups_month": 1892,
+  "lookups_today": 52,
   "month": "2026-10"
  }
 }
