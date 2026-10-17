@@ -398,8 +398,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T10:25:34.933532+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-16T03:22:24.681110+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1708,8 +1708,8 @@
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:49:12.409814+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-21T15:45:18.753705+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4769,8 +4769,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T05:49:39.735394+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-14T11:29:23.974876+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7765,11 +7765,6 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
-  "linde|swe|l1": {
-   "expires": "2026-10-17T07:34:08.972417+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "linkedin|swe|l1": {
    "expires": "2026-10-31T06:53:35.388754+00:00",
    "looked_up": "2026-10-13T05:01:29+00:00",
@@ -9043,8 +9038,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T05:19:07.315510+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-19T17:03:33.656630+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9313,6 +9308,11 @@
   "oaktree-capital-management|erp|l1": {
    "expires": "2026-11-01T19:59:19.693596+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "ocean-infotech-rajkot|mobile|l1": {
+   "expires": "2026-10-26T17:26:49.078030+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "status": "not_found"
   },
   "oceanstravel|swe|l1": {
@@ -9969,8 +9969,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T10:46:47.394827+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-16T15:04:17.008558+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -9979,11 +9979,6 @@
     }
    ],
    "status": "found"
-  },
-  "primetrace|mobile|l1": {
-   "expires": "2026-10-17T07:05:25.572908+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
   },
   "primetrace|mobile|l2": {
    "expires": "2026-10-22T11:32:05.418044+00:00",
@@ -10956,8 +10951,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T02:22:25.495313+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-21T18:37:46.564443+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13850,8 +13845,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-08T18:41:48.514861+00:00",
-   "looked_up": "2026-10-17T07:01:23+00:00",
+   "expires": "2027-01-10T01:18:40.220980+00:00",
+   "looked_up": "2026-10-17T08:01:23+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14413,8 +14408,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1855,
-  "lookups_today": 15,
+  "lookups_month": 1856,
+  "lookups_today": 16,
   "month": "2026-10"
  }
 }
