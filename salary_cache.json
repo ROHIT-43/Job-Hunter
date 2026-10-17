@@ -1689,6 +1689,22 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
+  "aveva|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-22T13:42:27.479691+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
+   "max_lpa": 7.8,
+   "min_lpa": 5.6,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/82825801/AVEVA-Solutions-Ltd-Hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "aveva|swe|l2": {
    "expires": "2026-10-21T15:12:41.356496+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4794,8 +4810,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T18:30:41.140766+00:00",
-   "looked_up": "2026-10-17T18:01:21+00:00",
+   "expires": "2027-01-14T05:26:25.647803+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6980,6 +6996,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "insight|devops|l3": {
+   "expires": "2026-10-28T09:45:10.468972+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
+   "status": "not_found"
+  },
   "insight|swe|l3": {
    "expires": "2026-10-21T12:15:43.337716+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
@@ -9139,8 +9160,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T18:25:35.376951+00:00",
-   "looked_up": "2026-10-17T18:01:21+00:00",
+   "expires": "2027-01-15T07:44:56.865058+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9715,11 +9736,6 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
-  "parsewave|swe|l1": {
-   "expires": "2026-10-17T18:11:54.926359+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
-   "status": "not_found"
-  },
   "patmold-engineering-pvt-ltd|swe|l1": {
    "expires": "2026-10-28T23:44:44.628937+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -10070,8 +10086,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T03:37:49.065187+00:00",
-   "looked_up": "2026-10-17T18:01:21+00:00",
+   "expires": "2027-01-21T13:57:45.568047+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11347,6 +11363,26 @@
    "expires": "2026-10-24T07:48:58.566421+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
+  },
+  "sap|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T07:24:39.149982+00:00",
+   "looked_up": "2026-10-17T19:01:23+00:00",
+   "max_lpa": 9.5,
+   "min_lpa": 8.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/978996/sap-labs-associate-developer-india-on-campus-offer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/843380/sap-labs-india-associate-developer-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2020
   },
   "saskentechnologieslimited|mobile|l1": {
    "basis": "ctc",
@@ -14584,8 +14620,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1900,
-  "lookups_today": 60,
+  "lookups_month": 1903,
+  "lookups_today": 63,
   "month": "2026-10"
  }
 }
