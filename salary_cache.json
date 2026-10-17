@@ -205,6 +205,11 @@
    "status": "found",
    "year": null
   },
+  "accendra-health|erp|l1": {
+   "expires": "2026-10-29T22:51:48.623592+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
   "accendra-health|erp|l2": {
    "expires": "2026-10-29T03:26:27.699507+00:00",
    "looked_up": "2026-10-16T11:01:36+00:00",
@@ -398,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T05:56:19.302185+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
+   "expires": "2027-01-12T10:43:41.836242+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1679,6 +1684,11 @@
    "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
+  "autovyn|swe|l1": {
+   "expires": "2026-11-03T05:36:02.019371+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
   "avance-clinical|swe|l1": {
    "expires": "2026-10-27T07:11:35.810569+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
@@ -2847,11 +2857,6 @@
   "citadel-securities|swe|l1": {
    "expires": "2026-10-28T03:25:19.742016+00:00",
    "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "cite-ai|swe|l1": {
-   "expires": "2026-10-17T10:04:20.808509+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "citi|data|l1": {
@@ -4761,16 +4766,11 @@
    "status": "found",
    "year": 2026
   },
-  "finacle|swe|l1": {
-   "expires": "2026-10-17T10:21:45.400852+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T20:44:25.205367+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
+   "expires": "2027-01-21T02:21:43.224097+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6065,6 +6065,11 @@
    "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
+  "hirealpha|fullstack|l1": {
+   "expires": "2026-10-30T15:08:14.140480+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
   "hireflexperts|frontend|l1": {
    "expires": "2026-10-29T01:29:56.829397+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -6988,6 +6993,16 @@
   "intuitive1|swe|l1": {
    "expires": "2026-10-21T23:45:44.661966+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
+   "status": "not_found"
+  },
+  "inventam-tech-solution|fullstack|l1": {
+   "expires": "2026-11-06T20:28:13.731916+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
+  "inventam-tech-solution|swe|l1": {
+   "expires": "2026-11-06T04:40:53.119872+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
   "ipaxx-nord-gmbh|frontend|l1": {
@@ -9069,8 +9084,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:53:15.664857+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
+   "expires": "2027-01-18T09:25:29.711470+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9906,6 +9921,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "planfirma-technologies-private-limited|swe|l1": {
+   "expires": "2026-10-27T10:34:19.943510+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
   "planview|swe|l2": {
    "expires": "2026-11-03T23:29:53.342858+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -10000,8 +10020,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T03:16:30.314297+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
+   "expires": "2027-01-15T19:43:01.030977+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -10254,6 +10274,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qbyss|fullstack|l1": {
+   "expires": "2026-10-26T10:00:44.519151+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
+  "qbyss|swe|l1": {
+   "expires": "2026-11-06T05:28:08.242028+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
   },
   "qloron|erp|l1": {
    "expires": "2026-10-29T12:56:08.855848+00:00",
@@ -13886,8 +13916,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T09:53:56.768464+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
+   "expires": "2027-01-09T04:20:14.549967+00:00",
+   "looked_up": "2026-10-17T11:01:23+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14449,8 +14479,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1864,
-  "lookups_today": 24,
+  "lookups_month": 1872,
+  "lookups_today": 32,
   "month": "2026-10"
  }
 }
