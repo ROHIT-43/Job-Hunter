@@ -403,8 +403,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T00:59:58.576635+00:00",
-   "looked_up": "2026-10-17T13:43:31+00:00",
+   "expires": "2027-01-22T09:26:28.597378+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -4016,6 +4016,11 @@
    "status": "found",
    "year": 2026
   },
+  "dooritt|devops|l1": {
+   "expires": "2026-11-06T22:00:07.915616+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
   "dotsolved|swe|l1": {
    "expires": "2026-10-29T04:40:03.329014+00:00",
    "looked_up": "2026-10-11T02:01:21+00:00",
@@ -4774,8 +4779,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T02:06:42.853139+00:00",
-   "looked_up": "2026-10-17T13:43:31+00:00",
+   "expires": "2027-01-15T14:39:48.300861+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8574,6 +8579,11 @@
    "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
+  "mizuora-software|swe|l1": {
+   "expires": "2026-11-04T18:57:07.635862+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
   "mmplrnc|swe|l1": {
    "expires": "2026-10-25T17:31:54.940803+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
@@ -9099,8 +9109,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T15:42:56.115024+00:00",
-   "looked_up": "2026-10-17T13:43:31+00:00",
+   "expires": "2027-01-22T04:11:33.036639+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10035,8 +10045,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T18:10:53.344995+00:00",
-   "looked_up": "2026-10-17T13:43:31+00:00",
+   "expires": "2027-01-17T14:34:44.776754+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -11484,6 +11494,11 @@
   "servicenow|swe|l1": {
    "expires": "2026-10-30T16:08:25.853072+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "servqual|fullstack|l1": {
+   "expires": "2026-11-03T20:02:33.128124+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "status": "not_found"
   },
   "setlmint.com|swe|l1": {
@@ -13256,6 +13271,21 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "trutalent-ai|devops|l1": {
+   "expires": "2026-11-03T09:44:21.867743+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "trutalent-ai|erp|l1": {
+   "expires": "2026-11-07T04:31:19.267823+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "trutalent-ai|mobile|l1": {
+   "expires": "2026-10-27T12:01:11.950411+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
   "truveta|fullstack|l1": {
    "expires": "2026-10-26T15:26:47.116343+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
@@ -13941,8 +13971,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T17:31:00.804535+00:00",
-   "looked_up": "2026-10-17T13:43:31+00:00",
+   "expires": "2027-01-09T09:56:13.218218+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14035,6 +14065,11 @@
   "wexinc|swe|l3": {
    "expires": "2026-10-30T06:09:50.862109+00:00",
    "looked_up": "2026-10-10T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "whatsapp.|mobile|l1": {
+   "expires": "2026-10-27T01:42:50.540758+00:00",
+   "looked_up": "2026-10-17T14:01:30+00:00",
    "status": "not_found"
   },
   "whatsapp.|swe|l1": {
@@ -14509,8 +14544,8 @@
  },
  "meta": {
   "day": "2026-10-17",
-  "lookups_month": 1881,
-  "lookups_today": 41,
+  "lookups_month": 1888,
+  "lookups_today": 48,
   "month": "2026-10"
  }
 }
