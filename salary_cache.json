@@ -5572,11 +5572,6 @@
    ],
    "status": "found"
   },
-  "googleoperationscenter|swe|l1": {
-   "expires": "2026-10-18T13:20:16.969647+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
-   "status": "not_found"
-  },
   "google|data|l3": {
    "basis": "base",
    "confidence": "low",
@@ -5898,6 +5893,11 @@
   "hakkoda|erp|l1": {
    "expires": "2026-10-31T00:08:32.072803+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
+  "hallmark-search-partners|mobile|l1": {
+   "expires": "2026-10-30T06:52:53.814910+00:00",
+   "looked_up": "2026-10-18T14:01:28+00:00",
    "status": "not_found"
   },
   "halma-plc|erp|l1": {
@@ -6970,11 +6970,6 @@
   "innovaesi|swe|l1": {
    "expires": "2026-10-21T01:00:40.333801+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
-  "innovative-instruments-controls|swe|l1": {
-   "expires": "2026-10-18T13:12:56.784581+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "innspark-solutions|security|l1": {
@@ -9175,8 +9170,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T04:40:35.005055+00:00",
-   "looked_up": "2026-10-18T13:01:22+00:00",
+   "expires": "2027-01-11T15:25:57.278290+00:00",
+   "looked_up": "2026-10-18T14:01:28+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10562,8 +10557,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T04:21:01.859514+00:00",
-   "looked_up": "2026-10-18T13:01:22+00:00",
+   "expires": "2027-01-16T19:48:22.199914+00:00",
+   "looked_up": "2026-10-18T14:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10840,11 +10835,6 @@
   "redswanlabs|frontend|l1": {
    "expires": "2026-10-26T16:12:39.698393+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "redwing-automation|swe|l1": {
-   "expires": "2026-10-18T13:33:32.379025+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
   "reerhub|swe|l1": {
@@ -11738,6 +11728,11 @@
   "skildai|mobile|l1": {
    "expires": "2026-10-27T21:00:10.936149+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "skillcollege|mobile|l1": {
+   "expires": "2026-10-30T19:42:56.238658+00:00",
+   "looked_up": "2026-10-18T14:01:28+00:00",
    "status": "not_found"
   },
   "skillorbil|data|l1": {
@@ -13111,8 +13106,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T14:18:26.159928+00:00",
-   "looked_up": "2026-10-18T13:01:22+00:00",
+   "expires": "2027-01-15T03:32:02.294210+00:00",
+   "looked_up": "2026-10-18T14:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14654,8 +14649,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1933,
-  "lookups_today": 29,
+  "lookups_month": 1935,
+  "lookups_today": 31,
   "month": "2026-10"
  }
 }
