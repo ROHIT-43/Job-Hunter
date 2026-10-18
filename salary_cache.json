@@ -2297,11 +2297,6 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
-  "bristol-myers-squibb|data|l1": {
-   "expires": "2026-10-18T06:40:32.729967+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "bristol-myers-squibb|security|l1": {
    "expires": "2026-11-01T22:04:03.340582+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -9140,8 +9135,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T01:09:20.616657+00:00",
-   "looked_up": "2026-10-18T06:01:26+00:00",
+   "expires": "2027-01-19T20:52:49.341940+00:00",
+   "looked_up": "2026-10-18T07:01:21+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9574,11 +9569,6 @@
   "optimizer360ai|fullstack|l1": {
    "expires": "2026-10-25T09:08:37.949809+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "optiserv-solutions|swe|l1": {
-   "expires": "2026-10-18T06:41:10.286570+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
   "oracle|devops|l2": {
@@ -10532,8 +10522,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T11:33:36.206115+00:00",
-   "looked_up": "2026-10-18T06:01:26+00:00",
+   "expires": "2027-01-14T19:45:45.320740+00:00",
+   "looked_up": "2026-10-18T07:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10954,11 +10944,6 @@
    ],
    "status": "found",
    "year": 2022
-  },
-  "rippling|swe|l1": {
-   "expires": "2026-10-18T06:05:22.515942+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
   },
   "rivi-consulting-group-l-l-c|swe|l1": {
    "basis": "ctc",
@@ -11524,11 +11509,6 @@
   "seekhoo|swe|l2": {
    "expires": "2026-11-03T07:25:34.521107+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "sellergize-web-technology-solutions-pvt--ltd-|swe|l1": {
-   "expires": "2026-10-18T06:25:16.809360+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "semtech|swe|l1": {
@@ -12361,11 +12341,6 @@
   "syncupindia|mobile|l1": {
    "expires": "2026-10-22T23:10:13.085175+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
-  "syncupindia|swe|l1": {
-   "expires": "2026-10-18T06:10:13.601645+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "synechron|frontend|l1": {
@@ -14555,11 +14530,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zvisbtp|swe|l1": {
-   "expires": "2026-10-18T06:53:30.708121+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
   },
   "zycus|fullstack|l1": {
    "expires": "2026-10-27T15:04:34.760793+00:00",
