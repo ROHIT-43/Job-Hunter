@@ -4800,8 +4800,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T01:37:53.862754+00:00",
-   "looked_up": "2026-10-18T01:09:50+00:00",
+   "expires": "2027-01-16T12:29:41.683023+00:00",
+   "looked_up": "2026-10-18T02:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9140,8 +9140,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T10:24:36.780200+00:00",
-   "looked_up": "2026-10-18T01:09:50+00:00",
+   "expires": "2027-01-20T11:53:36.755895+00:00",
+   "looked_up": "2026-10-18T02:01:28+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -14526,6 +14526,11 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
+  "zmitra|swe|l1": {
+   "expires": "2026-11-06T09:03:21.592417+00:00",
+   "looked_up": "2026-10-18T02:01:28+00:00",
+   "status": "not_found"
+  },
   "zoenixhq|frontend|l2": {
    "expires": "2026-10-22T18:43:23.723688+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -14590,8 +14595,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1905,
-  "lookups_today": 1,
+  "lookups_month": 1906,
+  "lookups_today": 2,
   "month": "2026-10"
  }
 }
