@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:24:37.483855+00:00",
-   "looked_up": "2026-10-18T21:01:29+00:00",
+   "expires": "2027-01-21T03:37:09.285183+00:00",
+   "looked_up": "2026-10-18T22:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10612,8 +10612,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T16:05:35.026197+00:00",
-   "looked_up": "2026-10-18T21:01:29+00:00",
+   "expires": "2027-01-22T20:34:46.621954+00:00",
+   "looked_up": "2026-10-18T22:01:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -11024,6 +11024,22 @@
    "confidence": "low",
    "expires": "2027-01-04T07:58:55.067596+00:00",
    "looked_up": "2026-10-12T00:01:29+00:00",
+   "max_lpa": 33.0,
+   "min_lpa": 33.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1870230/Rippling"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
+  "rippling|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-15T00:27:56.757033+00:00",
+   "looked_up": "2026-10-18T22:01:26+00:00",
    "max_lpa": 33.0,
    "min_lpa": 33.0,
    "sources": [
@@ -13166,8 +13182,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T15:39:53.166046+00:00",
-   "looked_up": "2026-10-18T21:01:29+00:00",
+   "expires": "2027-01-19T00:27:32.634688+00:00",
+   "looked_up": "2026-10-18T22:01:26+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14719,8 +14735,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1954,
-  "lookups_today": 50,
+  "lookups_month": 1955,
+  "lookups_today": 51,
   "month": "2026-10"
  }
 }
