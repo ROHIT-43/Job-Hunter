@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T05:52:18.670638+00:00",
-   "looked_up": "2026-10-18T20:42:43+00:00",
+   "expires": "2027-01-12T04:24:37.483855+00:00",
+   "looked_up": "2026-10-18T21:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2695,6 +2695,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "caterpillar-inc|data|l1": {
+   "expires": "2026-11-03T16:52:35.633914+00:00",
+   "looked_up": "2026-10-18T21:01:29+00:00",
+   "status": "not_found"
   },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
@@ -9070,6 +9075,11 @@
    "looked_up": "2026-10-16T11:01:36+00:00",
    "status": "not_found"
   },
+  "neurodrift|fullstack|l1": {
+   "expires": "2026-10-30T02:44:12.041195+00:00",
+   "looked_up": "2026-10-18T21:01:29+00:00",
+   "status": "not_found"
+  },
   "neuvayscounsulting|erp|l1": {
    "expires": "2026-10-30T12:13:27.098852+00:00",
    "looked_up": "2026-10-12T21:01:28+00:00",
@@ -10602,8 +10612,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:46:54.732399+00:00",
-   "looked_up": "2026-10-18T20:42:43+00:00",
+   "expires": "2027-01-10T16:05:35.026197+00:00",
+   "looked_up": "2026-10-18T21:01:29+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13156,8 +13166,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T06:39:26.164942+00:00",
-   "looked_up": "2026-10-18T20:42:43+00:00",
+   "expires": "2027-01-12T15:39:53.166046+00:00",
+   "looked_up": "2026-10-18T21:01:29+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14709,8 +14719,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1952,
-  "lookups_today": 48,
+  "lookups_month": 1954,
+  "lookups_today": 50,
   "month": "2026-10"
  }
 }
