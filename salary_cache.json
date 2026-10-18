@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:57:41.577437+00:00",
-   "looked_up": "2026-10-18T19:01:24+00:00",
+   "expires": "2027-01-22T13:01:27.161402+00:00",
+   "looked_up": "2026-10-18T20:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10051,6 +10051,11 @@
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
+  "pnazo|frontend|l1": {
+   "expires": "2026-11-07T21:32:10.740022+00:00",
+   "looked_up": "2026-10-18T20:01:25+00:00",
+   "status": "not_found"
+  },
   "pocketpills|frontend|l2": {
    "expires": "2026-10-25T06:13:26.588022+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -10597,8 +10602,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T07:08:48.231572+00:00",
-   "looked_up": "2026-10-18T19:01:24+00:00",
+   "expires": "2027-01-14T21:40:58.576772+00:00",
+   "looked_up": "2026-10-18T20:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13151,8 +13156,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:08:16.683443+00:00",
-   "looked_up": "2026-10-18T19:01:24+00:00",
+   "expires": "2027-01-10T12:27:32.336960+00:00",
+   "looked_up": "2026-10-18T20:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13191,11 +13196,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "thinkdatax|fullstack|l2": {
-   "expires": "2026-10-18T19:07:00.623492+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
-   "status": "not_found"
   },
   "thinkwise-consulting-llp|data|l1": {
    "expires": "2026-10-22T03:24:39.526850+00:00",
@@ -14709,8 +14709,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1951,
-  "lookups_today": 47,
+  "lookups_month": 1952,
+  "lookups_today": 48,
   "month": "2026-10"
  }
 }
