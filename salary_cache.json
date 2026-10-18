@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T09:02:40.202191+00:00",
-   "looked_up": "2026-10-18T18:07:40+00:00",
+   "expires": "2027-01-20T19:57:41.577437+00:00",
+   "looked_up": "2026-10-18T19:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -498,6 +498,11 @@
   "afterquery|mobile|l1": {
    "expires": "2026-11-06T15:46:39.813750+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "agamin|erp|l1": {
+   "expires": "2026-10-29T00:01:30.830228+00:00",
+   "looked_up": "2026-10-18T19:01:24+00:00",
    "status": "not_found"
   },
   "agco-corporation|erp|l1": {
@@ -2035,11 +2040,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "birlasoft|erp|l1": {
-   "expires": "2026-10-18T18:14:41.935802+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
   },
   "birlasoft|swe|l1": {
    "basis": "ctc",
@@ -7870,6 +7870,11 @@
    "looked_up": "2026-10-18T16:01:26+00:00",
    "status": "not_found"
   },
+  "linkedintechnologies|swe|l1": {
+   "expires": "2026-10-28T07:45:24.601270+00:00",
+   "looked_up": "2026-10-18T19:01:24+00:00",
+   "status": "not_found"
+  },
   "linkedin|swe|l1": {
    "expires": "2026-10-31T06:53:35.388754+00:00",
    "looked_up": "2026-10-13T05:01:29+00:00",
@@ -9270,11 +9275,6 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
-  "novyte-materials|fullstack|l1": {
-   "expires": "2026-10-18T18:49:32.585808+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "nowwin|swe|l1": {
    "expires": "2026-10-25T04:27:53.162436+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -10597,8 +10597,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T23:55:54.807094+00:00",
-   "looked_up": "2026-10-18T18:07:40+00:00",
+   "expires": "2027-01-16T07:08:48.231572+00:00",
+   "looked_up": "2026-10-18T19:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13151,8 +13151,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T20:35:14.020776+00:00",
-   "looked_up": "2026-10-18T18:07:40+00:00",
+   "expires": "2027-01-22T05:08:16.683443+00:00",
+   "looked_up": "2026-10-18T19:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14709,8 +14709,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1949,
-  "lookups_today": 45,
+  "lookups_month": 1951,
+  "lookups_today": 47,
   "month": "2026-10"
  }
 }
