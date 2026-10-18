@@ -172,8 +172,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:44:46.857876+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
+   "expires": "2027-01-16T23:02:12.913091+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1275,11 +1275,6 @@
   "appscrip|fullstack|l1": {
    "expires": "2026-11-02T05:20:11.282650+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "aptita-talent-experts|erp|l1": {
-   "expires": "2026-10-18T16:20:43.525471+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
   "aptiv|data|l1": {
@@ -3388,6 +3383,11 @@
   "creuto|swe|l1": {
    "expires": "2026-10-19T03:01:20.980989+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
+   "status": "not_found"
+  },
+  "crewliajobs|devops|l1": {
+   "expires": "2026-11-07T05:40:06.934278+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
    "status": "not_found"
   },
   "crewliajobs|frontend|l1": {
@@ -7845,6 +7845,16 @@
    "looked_up": "2026-10-16T17:01:24+00:00",
    "status": "not_found"
   },
+  "linde-india-ltd|fullstack|l1": {
+   "expires": "2026-11-07T17:58:36.881171+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
+   "status": "not_found"
+  },
+  "linde-india-ltd|security|l1": {
+   "expires": "2026-11-02T22:58:46.788111+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
+   "status": "not_found"
+  },
   "linde-india-ltd|swe|l1": {
    "expires": "2026-10-19T17:38:13.841872+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
@@ -10592,8 +10602,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T13:46:41.183870+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
+   "expires": "2027-01-10T09:49:05.201959+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13146,8 +13156,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T10:09:13.582185+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
+   "expires": "2027-01-22T16:07:27.865160+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13291,6 +13301,26 @@
    "expires": "2026-10-25T06:57:44.034911+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
+  },
+  "tower-research-capital|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-19T23:57:30.126488+00:00",
+   "looked_up": "2026-10-18T17:01:21+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 27.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/tower-research-capital/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/220944/tower-research-sde-1-new-grad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
@@ -14689,8 +14719,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1942,
-  "lookups_today": 38,
+  "lookups_month": 1946,
+  "lookups_today": 42,
   "month": "2026-10"
  }
 }
