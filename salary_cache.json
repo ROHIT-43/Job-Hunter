@@ -15,11 +15,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "360technology-usa|ml|l1": {
-   "expires": "2026-10-18T08:36:04.715735+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "3m|data|l1": {
    "expires": "2026-10-30T17:23:15.319031+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -9150,8 +9145,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:19:27.265998+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
+   "expires": "2027-01-23T05:14:41.998823+00:00",
+   "looked_up": "2026-10-18T09:01:27+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10537,8 +10532,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T11:28:21.744111+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
+   "expires": "2027-01-16T09:42:24.263985+00:00",
+   "looked_up": "2026-10-18T09:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -12501,6 +12496,11 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
+  "talentxo|swe|l3": {
+   "expires": "2026-10-29T18:32:23.986977+00:00",
+   "looked_up": "2026-10-18T09:01:27+00:00",
+   "status": "not_found"
+  },
   "tally-experts-ind-uae|swe|l1": {
    "expires": "2026-10-19T03:16:32.693630+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -14093,11 +14093,6 @@
    "looked_up": "2026-10-15T17:01:30+00:00",
    "status": "not_found"
   },
-  "wesee-agi|swe|l1": {
-   "expires": "2026-10-18T08:25:10.850206+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "wexinc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14600,8 +14595,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1915,
-  "lookups_today": 11,
+  "lookups_month": 1916,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
