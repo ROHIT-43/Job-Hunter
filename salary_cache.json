@@ -5721,6 +5721,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "grabapp|mobile|l1": {
+   "expires": "2026-10-27T16:27:48.415077+00:00",
+   "looked_up": "2026-10-18T13:01:22+00:00",
+   "status": "not_found"
+  },
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -9170,8 +9175,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T13:56:39.605361+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
+   "expires": "2027-01-15T04:40:35.005055+00:00",
+   "looked_up": "2026-10-18T13:01:22+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10073,11 +10078,6 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
-  "preciselydata|swe|l1": {
-   "expires": "2026-10-18T12:10:56.106445+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "premier-plylam-marketing-company|swe|l1": {
    "expires": "2026-11-01T01:38:36.596045+00:00",
    "looked_up": "2026-10-15T00:01:24+00:00",
@@ -10562,8 +10562,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T22:44:05.691768+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
+   "expires": "2027-01-18T04:21:01.859514+00:00",
+   "looked_up": "2026-10-18T13:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13111,8 +13111,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:40:57.968972+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
+   "expires": "2027-01-14T14:18:26.159928+00:00",
+   "looked_up": "2026-10-18T13:01:22+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14021,6 +14021,11 @@
    "looked_up": "2026-10-13T05:01:29+00:00",
    "status": "not_found"
   },
+  "vontier|swe|l1": {
+   "expires": "2026-11-05T18:25:16.056543+00:00",
+   "looked_up": "2026-10-18T13:01:22+00:00",
+   "status": "not_found"
+  },
   "vymotech|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14649,8 +14654,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1931,
-  "lookups_today": 27,
+  "lookups_month": 1933,
+  "lookups_today": 29,
   "month": "2026-10"
  }
 }
