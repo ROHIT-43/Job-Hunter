@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T15:41:13.819087+00:00",
-   "looked_up": "2026-10-18T18:01:24+00:00",
+   "expires": "2027-01-13T09:02:40.202191+00:00",
+   "looked_up": "2026-10-18T18:07:40+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1131,11 +1131,6 @@
   "anything-anywhere|mobile|l1": {
    "expires": "2026-10-29T07:12:31.307784+00:00",
    "looked_up": "2026-10-10T01:01:20+00:00",
-   "status": "not_found"
-  },
-  "apac-relocation|fullstack|l1": {
-   "expires": "2026-10-18T18:07:37.466302+00:00",
-   "looked_up": "2026-10-11T14:01:21+00:00",
    "status": "not_found"
   },
   "apex-orbital-x|swe|l1": {
@@ -10602,8 +10597,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:08:46.401254+00:00",
-   "looked_up": "2026-10-18T18:01:24+00:00",
+   "expires": "2027-01-18T23:55:54.807094+00:00",
+   "looked_up": "2026-10-18T18:07:40+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13156,8 +13151,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T03:08:36.602174+00:00",
-   "looked_up": "2026-10-18T18:01:24+00:00",
+   "expires": "2027-01-09T20:35:14.020776+00:00",
+   "looked_up": "2026-10-18T18:07:40+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
