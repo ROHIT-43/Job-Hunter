@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:37:09.285183+00:00",
-   "looked_up": "2026-10-18T22:01:26+00:00",
+   "expires": "2027-01-22T19:40:05.046057+00:00",
+   "looked_up": "2026-10-18T23:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3632,11 +3632,6 @@
    "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
-  "datapmi|erp|l1": {
-   "expires": "2026-10-18T22:35:29.310689+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
   "dazn-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4274,11 +4269,6 @@
   "elico-healthcare-services-ltd|swe|l1": {
    "expires": "2026-10-24T20:15:51.463835+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
-   "status": "not_found"
-  },
-  "elliott-moss-consulting|devops|l1": {
-   "expires": "2026-10-18T22:18:26.389578+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "emagine|data|l1": {
@@ -10612,8 +10602,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:34:46.621954+00:00",
-   "looked_up": "2026-10-18T22:01:26+00:00",
+   "expires": "2027-01-19T11:29:29.219181+00:00",
+   "looked_up": "2026-10-18T23:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -11824,6 +11814,11 @@
   "skillupblox|swe|l1": {
    "expires": "2026-10-23T14:07:17.046548+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "sky-systems-inc-skysys|fullstack|l1": {
+   "expires": "2026-11-07T14:56:43.508741+00:00",
+   "looked_up": "2026-10-18T23:01:24+00:00",
    "status": "not_found"
   },
   "skyetrip|frontend|l1": {
@@ -13050,11 +13045,6 @@
    "status": "found",
    "year": 2020
   },
-  "tesco-technology|security|l1": {
-   "expires": "2026-10-18T22:22:32.654011+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "tesco-technology|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -13182,8 +13172,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:27:32.634688+00:00",
-   "looked_up": "2026-10-18T22:01:26+00:00",
+   "expires": "2027-01-22T05:28:36.699153+00:00",
+   "looked_up": "2026-10-18T23:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14735,8 +14725,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1955,
-  "lookups_today": 51,
+  "lookups_month": 1956,
+  "lookups_today": 52,
   "month": "2026-10"
  }
 }
