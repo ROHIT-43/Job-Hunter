@@ -169,6 +169,20 @@
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
+  "accedepro-private-limited|frontend|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-17T06:59:22.904876+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "accel-digtial-ad-operations|data|l1": {
    "expires": "2026-10-20T13:50:02.116664+00:00",
    "looked_up": "2026-10-10T12:01:23+00:00",
@@ -1779,6 +1793,11 @@
   "azilentechnologies|devops|l1": {
    "expires": "2026-10-25T15:07:36.520843+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "babaclick|fullstack|l1": {
+   "expires": "2026-11-07T20:00:19.816363+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
    "status": "not_found"
   },
   "backbase|swe|l1": {
@@ -4285,6 +4304,11 @@
   "emagine|swe|l1": {
    "expires": "2026-10-27T11:55:20.676337+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "embitel-technologies-india|data|l1": {
+   "expires": "2026-11-06T01:39:24.126993+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
    "status": "not_found"
   },
   "emerson|erp|l1": {
@@ -9170,8 +9194,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:53:54.190366+00:00",
-   "looked_up": "2026-10-18T14:34:26+00:00",
+   "expires": "2027-01-13T05:07:32.057842+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10132,6 +10156,22 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "project-44|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-10T16:37:22.691714+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Project44/salaries/Software+Engineer/KA"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "proofpoint|swe|l1": {
    "expires": "2026-10-28T14:42:17.946903+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
@@ -10557,8 +10597,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T02:28:37.103924+00:00",
-   "looked_up": "2026-10-18T14:34:26+00:00",
+   "expires": "2027-01-16T08:29:33.840809+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13106,8 +13146,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T11:15:03.648838+00:00",
-   "looked_up": "2026-10-18T14:34:26+00:00",
+   "expires": "2027-01-21T20:02:33.196103+00:00",
+   "looked_up": "2026-10-18T15:01:22+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14649,8 +14689,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1935,
-  "lookups_today": 31,
+  "lookups_month": 1938,
+  "lookups_today": 34,
   "month": "2026-10"
  }
 }
