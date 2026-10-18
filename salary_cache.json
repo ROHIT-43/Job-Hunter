@@ -159,11 +159,6 @@
    "looked_up": "2026-10-16T00:01:34+00:00",
    "status": "not_found"
   },
-  "academy-yt|swe|l1": {
-   "expires": "2026-10-18T17:50:49.373515+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
-   "status": "not_found"
-  },
   "academydesk|swe|l1": {
    "expires": "2026-10-20T02:47:46.195741+00:00",
    "looked_up": "2026-10-06T13:01:46+00:00",
@@ -172,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T23:02:12.913091+00:00",
-   "looked_up": "2026-10-18T17:01:21+00:00",
+   "expires": "2027-01-21T15:41:13.819087+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6150,6 +6145,11 @@
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
+  "hiredddd|data|l1": {
+   "expires": "2026-10-31T02:07:26.407567+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
+   "status": "not_found"
+  },
   "hireflexperts|frontend|l1": {
    "expires": "2026-10-29T01:29:56.829397+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -8449,6 +8449,11 @@
    "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
+  "megrisoft-limited|mobile|l1": {
+   "expires": "2026-11-08T01:42:02.477485+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
+   "status": "not_found"
+  },
   "mentara-global-technologies|erp|l1": {
    "expires": "2026-10-27T00:14:04.430496+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -10341,11 +10346,6 @@
    "status": "found",
    "year": 2026
   },
-  "pyaasdairy|swe|l1": {
-   "expires": "2026-10-18T17:52:03.816917+00:00",
-   "looked_up": "2026-10-08T21:01:23+00:00",
-   "status": "not_found"
-  },
   "qaagility-technologies|data|l1": {
    "expires": "2026-10-21T11:58:14.462183+00:00",
    "looked_up": "2026-10-13T01:01:23+00:00",
@@ -10602,8 +10602,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T09:49:05.201959+00:00",
-   "looked_up": "2026-10-18T17:01:21+00:00",
+   "expires": "2027-01-20T15:08:46.401254+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10737,6 +10737,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "rcktechiees|swe|l1": {
+   "expires": "2026-11-08T06:00:28.470066+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
+   "status": "not_found"
   },
   "real-jobs-consulting-services2|mobile|l1": {
    "expires": "2026-10-24T05:55:18.169034+00:00",
@@ -11719,11 +11724,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "signifycompany|erp|l1": {
-   "expires": "2026-10-18T17:02:22.918536+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
   },
   "signifycompany|swe|l1": {
    "expires": "2026-11-05T02:50:58.632197+00:00",
@@ -13156,8 +13156,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T16:07:27.865160+00:00",
-   "looked_up": "2026-10-18T17:01:21+00:00",
+   "expires": "2027-01-19T03:08:36.602174+00:00",
+   "looked_up": "2026-10-18T18:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14292,11 +14292,6 @@
    "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
-  "wind-terpines|swe|l1": {
-   "expires": "2026-10-18T17:07:28.195830+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
   "winggo-soft|mobile|l1": {
    "expires": "2026-10-29T06:27:55.845850+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
@@ -14719,8 +14714,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1946,
-  "lookups_today": 42,
+  "lookups_month": 1949,
+  "lookups_today": 45,
   "month": "2026-10"
  }
 }
