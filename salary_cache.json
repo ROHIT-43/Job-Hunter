@@ -486,6 +486,11 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
+  "afterquery|mobile|l1": {
+   "expires": "2026-11-06T15:46:39.813750+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
   "agco-corporation|erp|l1": {
    "expires": "2026-11-01T23:18:26.186123+00:00",
    "looked_up": "2026-10-12T21:01:28+00:00",
@@ -3469,6 +3474,11 @@
   "cvali|swe|l1": {
    "expires": "2026-10-24T09:28:31.545045+00:00",
    "looked_up": "2026-10-12T05:57:40+00:00",
+   "status": "not_found"
+  },
+  "cwc-mohali|mobile|l1": {
+   "expires": "2026-10-30T12:01:56.079974+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
    "status": "not_found"
   },
   "cwl-technology-private-limited|mobile|l2": {
@@ -8370,6 +8380,11 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
+  "medpace|swe|l1": {
+   "expires": "2026-10-25T22:29:40.658662+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
   "meenakshi-sundararajan-group-of-institutions|swe|l1": {
    "expires": "2026-11-02T02:38:42.035423+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -9140,8 +9155,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:25:34.940158+00:00",
-   "looked_up": "2026-10-18T10:01:24+00:00",
+   "expires": "2027-01-18T05:09:45.330250+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10527,8 +10542,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T20:06:37.411621+00:00",
-   "looked_up": "2026-10-18T10:01:24+00:00",
+   "expires": "2027-01-21T04:25:17.775197+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -11698,6 +11713,11 @@
   "siyanee-analytics|mobile|l1": {
    "expires": "2026-10-22T21:18:05.723522+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "skildai|mobile|l1": {
+   "expires": "2026-10-27T21:00:10.936149+00:00",
+   "looked_up": "2026-10-18T11:01:24+00:00",
    "status": "not_found"
   },
   "skillorbil|data|l1": {
@@ -14412,11 +14432,6 @@
    ],
    "status": "found"
   },
-  "yodaplus|security|l1": {
-   "expires": "2026-10-18T10:14:08.482892+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
-   "status": "not_found"
-  },
   "yumzip|mobile|l1": {
    "expires": "2026-10-28T05:28:17.833030+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -14600,8 +14615,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1921,
-  "lookups_today": 17,
+  "lookups_month": 1925,
+  "lookups_today": 21,
   "month": "2026-10"
  }
 }
