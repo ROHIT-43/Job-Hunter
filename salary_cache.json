@@ -1992,6 +1992,11 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "big-cash-web|swe|l1": {
+   "expires": "2026-10-31T20:29:59.551682+00:00",
+   "looked_up": "2026-10-18T06:01:26+00:00",
+   "status": "not_found"
+  },
   "bikglobal|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9135,8 +9140,8 @@
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:43:11.665175+00:00",
-   "looked_up": "2026-10-18T05:53:52+00:00",
+   "expires": "2027-01-10T01:09:20.616657+00:00",
+   "looked_up": "2026-10-18T06:01:26+00:00",
    "max_lpa": 23.0,
    "min_lpa": 18.0,
    "sources": [
@@ -10523,6 +10528,20 @@
    "expires": "2026-11-05T10:07:57.894374+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
+  },
+  "quick-code-pty-ltd|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-11T11:33:36.206115+00:00",
+   "looked_up": "2026-10-18T06:01:26+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "quickfolks|frontend|l1": {
    "expires": "2026-10-23T17:41:17.271483+00:00",
@@ -14570,8 +14589,8 @@
  },
  "meta": {
   "day": "2026-10-18",
-  "lookups_month": 1908,
-  "lookups_today": 4,
+  "lookups_month": 1909,
+  "lookups_today": 5,
   "month": "2026-10"
  }
 }
