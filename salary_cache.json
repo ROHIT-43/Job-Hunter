@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T04:41:30.877548+00:00",
-   "looked_up": "2026-10-19T01:16:31+00:00",
+   "expires": "2027-01-23T15:22:23.092420+00:00",
+   "looked_up": "2026-10-19T02:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -181,11 +181,6 @@
   "accel-digtial-ad-operations|data|l1": {
    "expires": "2026-10-20T13:50:02.116664+00:00",
    "looked_up": "2026-10-10T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "accelleron-industries|swe|l1": {
-   "expires": "2026-10-19T01:23:37.507397+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
   "accelya|swe|l1": {
@@ -464,6 +459,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aetheldefense|swe|l1": {
+   "expires": "2026-11-05T10:33:43.979413+00:00",
+   "looked_up": "2026-10-19T02:01:25+00:00",
+   "status": "not_found"
   },
   "aethereal-logic|swe|l1": {
    "expires": "2026-10-31T21:01:43.761197+00:00",
@@ -4155,11 +4155,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "eatwithposha|swe|l3": {
-   "expires": "2026-10-19T01:38:37.413386+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
   },
   "ebay|devops|l1": {
    "expires": "2026-10-20T14:34:42.955260+00:00",
@@ -10592,8 +10587,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T16:35:25.724809+00:00",
-   "looked_up": "2026-10-19T01:16:31+00:00",
+   "expires": "2027-01-20T09:50:14.489327+00:00",
+   "looked_up": "2026-10-19T02:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -12290,11 +12285,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "suitable-ai|swe|l1": {
-   "expires": "2026-10-19T01:19:45.027575+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "sulzer|erp|l1": {
    "expires": "2026-10-30T18:39:18.661677+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -13120,11 +13110,6 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
-  "themesoft-inc.|swe|l1": {
-   "expires": "2026-10-19T01:37:29.618416+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "thermo-fisher-scientific|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -13152,8 +13137,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T23:10:08.670111+00:00",
-   "looked_up": "2026-10-19T01:16:31+00:00",
+   "expires": "2027-01-15T18:45:29.248698+00:00",
+   "looked_up": "2026-10-19T02:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13773,11 +13758,6 @@
   "vastika-inc|swe|l1": {
    "expires": "2026-10-24T08:56:47.355937+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
-  },
-  "vasudev-technolabs|frontend|l1": {
-   "expires": "2026-10-19T01:38:49.715015+00:00",
-   "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
   "vationdigital|swe|l1": {
@@ -14700,8 +14680,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 1956,
-  "lookups_today": 0,
+  "lookups_month": 1957,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
