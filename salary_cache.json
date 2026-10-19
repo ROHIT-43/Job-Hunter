@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T18:09:48.775216+00:00",
-   "looked_up": "2026-10-19T05:01:25+00:00",
+   "expires": "2027-01-17T19:39:53.938149+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1163,6 +1163,11 @@
    "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
+  "appinventiv|frontend|l1": {
+   "expires": "2026-10-29T11:12:26.585999+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
   "appinventiv|swe|l1": {
    "expires": "2026-10-26T05:54:09.126812+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -2135,6 +2140,11 @@
   "blockchain-aiweb3-group|swe|l1": {
    "expires": "2026-10-25T17:02:41.383073+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "bloomfieldinnovations|frontend|l1": {
+   "expires": "2026-10-30T19:26:24.240850+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "blueera-softech|frontend|l1": {
@@ -3359,6 +3369,11 @@
    "looked_up": "2026-10-15T21:01:37+00:00",
    "status": "not_found"
   },
+  "cosmic-it|erp|l1": {
+   "expires": "2026-10-27T12:09:53.771876+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
   "coupa|security|l1": {
    "expires": "2026-10-26T21:57:14.911625+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
@@ -4115,11 +4130,6 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
-  "duncit|swe|l1": {
-   "expires": "2026-10-19T05:11:36.727316+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
-   "status": "not_found"
-  },
   "duobridge-learning-institute|data|l1": {
    "expires": "2026-10-23T17:20:01.027567+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -4552,6 +4562,11 @@
   "ethelius|frontend|l1": {
    "expires": "2026-11-01T02:21:56.232219+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
+   "status": "not_found"
+  },
+  "eurofins|swe|l1": {
+   "expires": "2026-10-31T11:45:18.156362+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "everpure-data|devops|l1": {
@@ -5281,6 +5296,11 @@
   "general-mills|devops|l1": {
    "expires": "2026-10-25T02:10:26.204301+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "generative-futures|swe|l1": {
+   "expires": "2026-10-31T12:52:40.502012+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "generativx|swe|l1": {
@@ -7789,6 +7809,11 @@
    "looked_up": "2026-10-11T07:01:20+00:00",
    "status": "not_found"
   },
+  "learningpadedu|swe|l1": {
+   "expires": "2026-11-05T01:24:46.475719+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
   "legal-experts-ai|swe|l1": {
    "expires": "2026-11-03T08:43:53.600804+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -8456,6 +8481,11 @@
   "mentara-global-technologies|erp|l1": {
    "expires": "2026-10-27T00:14:04.430496+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "mercari-india|frontend|l1": {
+   "expires": "2026-11-05T22:07:25.173686+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "merck-healthcare|data|l1": {
@@ -9480,6 +9510,11 @@
    "looked_up": "2026-10-17T08:01:23+00:00",
    "status": "not_found"
   },
+  "oceanfriends|swe|l1": {
+   "expires": "2026-11-02T15:27:11.784074+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
   "odox-softhub|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10209,6 +10244,11 @@
   "prospecta-software|devops|l1": {
    "expires": "2026-10-27T13:45:42.337712+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "prudent-corporate-advisory-services|swe|l1": {
+   "expires": "2026-10-30T12:14:35.496252+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "pt-global-tiket-network|frontend|l1": {
@@ -12408,6 +12448,11 @@
    "looked_up": "2026-10-12T05:01:24+00:00",
    "status": "not_found"
   },
+  "switsdigital|erp|l1": {
+   "expires": "2026-10-31T07:39:34.335299+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
   "switsdigital|frontend|l1": {
    "expires": "2026-10-21T18:25:28.471894+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -13151,8 +13196,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T10:02:31.165649+00:00",
-   "looked_up": "2026-10-19T05:01:25+00:00",
+   "expires": "2027-01-15T14:20:40.568034+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13535,6 +13580,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "umanistna|swe|l1": {
+   "expires": "2026-11-03T04:59:06.245689+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
   },
   "unboxrobotics|swe|l1": {
    "expires": "2026-10-24T18:09:06.484096+00:00",
@@ -14115,6 +14165,11 @@
   "vysystems|swe|l1": {
    "expires": "2026-10-23T11:36:38.204171+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "waferwire|swe|l1": {
+   "expires": "2026-11-04T21:01:14.137473+00:00",
+   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "wander-trip|fullstack|l1": {
@@ -14704,8 +14759,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 1964,
-  "lookups_today": 8,
+  "lookups_month": 1976,
+  "lookups_today": 20,
   "month": "2026-10"
  }
 }
