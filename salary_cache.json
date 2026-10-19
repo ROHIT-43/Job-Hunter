@@ -3185,8 +3185,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:17:15.151931+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
+   "expires": "2027-01-14T18:29:42.098154+00:00",
+   "looked_up": "2026-10-19T18:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4497,8 +4497,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T16:26:07.647074+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
+   "expires": "2027-01-18T05:04:27.112498+00:00",
+   "looked_up": "2026-10-19T18:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6447,8 +6447,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:46:52.299922+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
+   "expires": "2027-01-19T18:34:08.550915+00:00",
+   "looked_up": "2026-10-19T18:01:31+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -8106,11 +8106,6 @@
   "linde-india-ltd|security|l1": {
    "expires": "2026-11-02T22:58:46.788111+00:00",
    "looked_up": "2026-10-18T17:01:21+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|swe|l1": {
-   "expires": "2026-10-19T17:38:13.841872+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
   "linde|erp|l1": {
@@ -10061,11 +10056,6 @@
    "status": "found",
    "year": 2026
   },
-  "paper-plane-solutions|frontend|l3": {
-   "expires": "2026-10-19T17:10:24.593433+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "paper-plane-solutions|fullstack|l3": {
    "expires": "2026-10-27T13:46:35.203749+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -10992,8 +10982,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T20:41:30.087925+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
+   "expires": "2027-01-23T06:39:22.180054+00:00",
+   "looked_up": "2026-10-19T18:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14910,6 +14900,26 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "wolters-kluwer|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-22T14:45:23.494547+00:00",
+   "looked_up": "2026-10-19T18:01:31+00:00",
+   "max_lpa": 7.8,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/wolters-kluwer/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/dc258ced/Wolters-Kluwer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "wonder-worth-solutions-llc|swe|l1": {
    "expires": "2026-10-29T01:26:24.348036+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -15306,8 +15316,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2069,
-  "lookups_today": 113,
+  "lookups_month": 2070,
+  "lookups_today": 114,
   "month": "2026-10"
  }
 }
