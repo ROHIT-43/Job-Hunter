@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T06:55:17.352061+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
+   "expires": "2027-01-24T02:46:30.115734+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2998,6 +2998,11 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
+  "clevanoo-llc|swe|l1": {
+   "expires": "2026-11-03T04:50:56.337020+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "clicksoftsolutions|fullstack|l1": {
    "expires": "2026-10-26T04:50:09.076048+00:00",
    "looked_up": "2026-10-06T15:01:42+00:00",
@@ -4403,8 +4408,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T00:37:36.489373+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
+   "expires": "2027-01-16T04:00:15.657353+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5230,6 +5235,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "fundbnk|erp|l1": {
+   "expires": "2026-10-29T06:03:11.620489+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "fusion-practices|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5494,6 +5504,11 @@
   "global-enterprisetech-resources-inc|swe|l1": {
    "expires": "2026-10-29T14:06:29.384360+00:00",
    "looked_up": "2026-10-15T16:01:35+00:00",
+   "status": "not_found"
+  },
+  "global-payex-private-limited|security|l1": {
+   "expires": "2026-11-06T21:24:16.159130+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
   "global-payments|swe|l1": {
@@ -6302,8 +6317,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T15:13:19.919812+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
+   "expires": "2027-01-10T18:39:16.584585+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -8063,6 +8078,34 @@
    "expires": "2026-10-25T13:32:57.978047+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "lowe-s-india|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-12T08:03:02.738929+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/752333/lowes-associate-software-engineer-bangalore/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1423395/lowes-india-associate-software-engineer-bangalore"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/lowe's"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/lowes/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2021
   },
   "lpl-global-capability-center|frontend|l1": {
    "expires": "2026-11-03T04:55:45.055267+00:00",
@@ -10123,6 +10166,11 @@
    "status": "found",
    "year": 2025
   },
+  "php-experts-india|swe|l1": {
+   "expires": "2026-10-30T08:23:20.301896+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-01T15:52:31.251645+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -10753,8 +10801,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T00:52:22.292523+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
+   "expires": "2027-01-12T16:38:55.973786+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11410,6 +11458,11 @@
    "looked_up": "2026-10-17T10:01:25+00:00",
    "status": "not_found"
   },
+  "saatvik-agro-processors-private-limited|frontend|l1": {
+   "expires": "2026-11-06T02:32:56.951433+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "saatvik-agro-processors-private-limited|fullstack|l1": {
    "expires": "2026-11-03T01:59:38.291381+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -11430,6 +11483,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sage-software|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T15:25:42.111662+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 6.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/sage-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "sahajanandinfotech|mobile|l1": {
    "basis": "ctc",
@@ -12224,6 +12293,11 @@
    "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
   },
+  "solvitx|swe|l1": {
+   "expires": "2026-10-28T23:43:41.574408+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "somewhere|frontend|l1": {
    "expires": "2026-10-30T03:21:54.617281+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -12434,6 +12508,11 @@
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-10-27T00:03:23.346769+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "stepsai-aide|mobile|l1": {
+   "expires": "2026-10-31T15:53:51.925556+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
   "stepsai-aide|swe|l1": {
@@ -13257,6 +13336,30 @@
    "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
+  "thales|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T09:27:02.679152+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 5.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/thales-salaries?page=3"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/thales"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/thales/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "thales|swe|l1": {
    "expires": "2026-10-25T19:22:16.047671+00:00",
    "looked_up": "2026-10-11T11:01:20+00:00",
@@ -13349,8 +13452,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T01:30:39.729752+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
+   "expires": "2027-01-15T13:15:46.951317+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14345,6 +14448,11 @@
    "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
+  "wastefull-insights|devops|l1": {
+   "expires": "2026-11-03T11:45:22.615326+00:00",
+   "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
   "weareeccentric|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -14917,8 +15025,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2004,
-  "lookups_today": 48,
+  "lookups_month": 2015,
+  "lookups_today": 59,
   "month": "2026-10"
  }
 }
