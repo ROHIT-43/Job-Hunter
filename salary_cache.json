@@ -3185,8 +3185,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T18:29:42.098154+00:00",
-   "looked_up": "2026-10-19T18:01:31+00:00",
+   "expires": "2027-01-11T00:23:49.157317+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3285,6 +3285,11 @@
   "cognyte|swe|l1": {
    "expires": "2026-10-29T11:05:49.535520+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
+  "cohesity|frontend|l1": {
+   "expires": "2026-11-07T13:44:29.680170+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "status": "not_found"
   },
   "collabera|frontend|l1": {
@@ -4497,8 +4502,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T05:04:27.112498+00:00",
-   "looked_up": "2026-10-19T18:01:31+00:00",
+   "expires": "2027-01-17T04:08:31.796371+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5417,6 +5422,11 @@
    "looked_up": "2026-10-10T01:01:20+00:00",
    "status": "not_found"
   },
+  "gantec-corporation|erp|l1": {
+   "expires": "2026-10-31T19:54:51.655941+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
+   "status": "not_found"
+  },
   "gartner|security|l1": {
    "expires": "2026-11-02T09:24:45.242670+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -6197,6 +6207,11 @@
    "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
+  "haseln-agency|swe|l1": {
+   "expires": "2026-11-04T15:20:23.621272+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
+   "status": "not_found"
+  },
   "hca-healthcare-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6447,8 +6462,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T18:34:08.550915+00:00",
-   "looked_up": "2026-10-19T18:01:31+00:00",
+   "expires": "2027-01-23T07:59:50.124520+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -9122,9 +9137,19 @@
    "looked_up": "2026-10-15T19:01:43+00:00",
    "status": "not_found"
   },
+  "mufg|fullstack|l1": {
+   "expires": "2026-11-08T08:25:05.639913+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
+   "status": "not_found"
+  },
   "mumba-technologies|swe|l1": {
    "expires": "2026-10-20T15:22:33.164202+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "murunah|fullstack|l1": {
+   "expires": "2026-10-30T19:52:27.776411+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "status": "not_found"
   },
   "muthoot-fincorp-limited|security|l1": {
@@ -10473,6 +10498,11 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
+  "priceline-com|swe|l1": {
+   "expires": "2026-11-02T20:47:15.072541+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
+   "status": "not_found"
+  },
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10982,8 +11012,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T06:39:22.180054+00:00",
-   "looked_up": "2026-10-19T18:01:31+00:00",
+   "expires": "2027-01-20T04:40:24.174867+00:00",
+   "looked_up": "2026-10-19T19:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11780,11 +11810,6 @@
   "san-engineering-solutions|erp|l1": {
    "expires": "2026-10-22T00:47:50.246436+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
-  "sandcup|swe|l1": {
-   "expires": "2026-10-19T18:22:39.484807+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "sandisk|swe|l1": {
@@ -15232,11 +15257,6 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
-  "zillow|swe|l1": {
-   "expires": "2026-10-19T18:45:24.253440+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "zimmerbiomet|fullstack|l1": {
    "expires": "2026-10-26T01:48:38.673266+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -15316,8 +15336,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2070,
-  "lookups_today": 114,
+  "lookups_month": 2076,
+  "lookups_today": 120,
   "month": "2026-10"
  }
 }
