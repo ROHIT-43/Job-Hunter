@@ -91,6 +91,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "_hire-a-friend_|frontend|l1": {
+   "expires": "2026-10-31T18:30:45.880019+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
   "aahaas|devops|l1": {
    "expires": "2026-10-24T03:25:55.622632+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -212,6 +217,11 @@
   "accendra-health|erp|l2": {
    "expires": "2026-10-29T03:26:27.699507+00:00",
    "looked_up": "2026-10-16T11:01:36+00:00",
+   "status": "not_found"
+  },
+  "accentureindia|data|l1": {
+   "expires": "2026-11-03T10:30:48.740670+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
   "accentureindia|devops|l1": {
@@ -2841,6 +2851,11 @@
    "status": "found",
    "year": 2024
   },
+  "cencoraglobal|fullstack|l2": {
+   "expires": "2026-11-02T07:28:18.577303+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
   "centera-tech|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3160,8 +3175,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T11:19:17.375900+00:00",
-   "looked_up": "2026-10-19T14:40:34+00:00",
+   "expires": "2027-01-14T23:33:18.434682+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4467,8 +4482,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T04:43:38.054571+00:00",
-   "looked_up": "2026-10-19T14:40:34+00:00",
+   "expires": "2027-01-19T12:15:56.580883+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6417,8 +6432,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:54:30.903383+00:00",
-   "looked_up": "2026-10-19T14:40:34+00:00",
+   "expires": "2027-01-13T21:50:24.886094+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -6918,8 +6933,8 @@
    "status": "not_found"
   },
   "indiasfutureinvestors|swe|l1": {
-   "expires": "2026-10-19T14:53:43.748446+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
+   "expires": "2026-11-01T12:10:40.686564+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
   "indusnovateur|erp|l1": {
@@ -10951,8 +10966,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:12:31.716551+00:00",
-   "looked_up": "2026-10-19T14:40:34+00:00",
+   "expires": "2027-01-11T13:34:11.565597+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11917,6 +11932,16 @@
    "status": "found",
    "year": 2026
   },
+  "scout-ai-official|fullstack|l1": {
+   "expires": "2026-11-06T08:17:07.488566+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "scout-ai-official|swe|l1": {
+   "expires": "2026-11-05T15:28:18.989528+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
   "scoutit-in|data|l1": {
    "expires": "2026-10-24T10:31:02.380342+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -11972,6 +11997,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "seclodian|fullstack|l1": {
+   "expires": "2026-11-05T22:18:25.625947+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
   "secondwind-by-joveo|swe|l1": {
    "expires": "2026-10-24T17:25:52.235860+00:00",
    "looked_up": "2026-10-10T16:01:23+00:00",
@@ -12005,6 +12035,11 @@
   "sentraforge-ai|swe|l1": {
    "expires": "2026-11-04T00:57:00.374958+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "sentrique|fullstack|l1": {
+   "expires": "2026-10-30T16:01:15.383633+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
   "servicenow|security|l1": {
@@ -12867,6 +12902,11 @@
   "syncupindia|mobile|l1": {
    "expires": "2026-10-22T23:10:13.085175+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "syndigo|swe|l2": {
+   "expires": "2026-10-30T21:20:59.505904+00:00",
+   "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
   "synechron|frontend|l1": {
@@ -15235,8 +15275,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2049,
-  "lookups_today": 93,
+  "lookups_month": 2058,
+  "lookups_today": 102,
   "month": "2026-10"
  }
 }
