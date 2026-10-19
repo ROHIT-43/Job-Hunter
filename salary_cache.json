@@ -3196,8 +3196,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:52:58.117614+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
+   "expires": "2027-01-19T21:00:47.425758+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4508,8 +4508,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T08:54:58.189240+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
+   "expires": "2027-01-23T01:40:54.942228+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6484,8 +6484,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:57:27.512214+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
+   "expires": "2027-01-20T13:22:09.830100+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -7352,6 +7352,16 @@
   "inventam-tech-solution|swe|l1": {
    "expires": "2026-11-06T04:40:53.119872+00:00",
    "looked_up": "2026-10-17T11:01:23+00:00",
+   "status": "not_found"
+  },
+  "iot-solutions-world|erp|l1": {
+   "expires": "2026-11-07T07:17:22.415398+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
+   "status": "not_found"
+  },
+  "iot-solutions-world|swe|l1": {
+   "expires": "2026-10-28T13:18:20.788810+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
   "ipaxx-nord-gmbh|frontend|l1": {
@@ -10495,6 +10505,11 @@
    "status": "found",
    "year": 2024
   },
+  "ppfas-mutual-fund|mobile|l1": {
+   "expires": "2026-11-03T12:01:52.675685+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
+   "status": "not_found"
+  },
   "ppfas-mutual-fund|swe|l1": {
    "expires": "2026-10-25T18:24:18.819627+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -11044,8 +11059,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T19:11:40.965168+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
+   "expires": "2027-01-18T00:18:23.390722+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -13459,8 +13474,8 @@
    "status": "not_found"
   },
   "techolution-mobi|frontend|l1": {
-   "expires": "2026-10-19T21:17:07.235926+00:00",
-   "looked_up": "2026-10-11T18:01:25+00:00",
+   "expires": "2026-11-02T10:29:55.700100+00:00",
+   "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
   "techolution-mobi|security|l1": {
@@ -15383,8 +15398,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2085,
-  "lookups_today": 129,
+  "lookups_month": 2089,
+  "lookups_today": 133,
   "month": "2026-10"
  }
 }
