@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T23:34:06.897509+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
+   "expires": "2027-01-21T02:04:49.393399+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1217,11 +1217,6 @@
    "status": "found",
    "year": 2025
   },
-  "applicantz-com|security|l1": {
-   "expires": "2026-10-19T08:02:17.345987+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
-   "status": "not_found"
-  },
   "application-software-centre-iit-bombay|fullstack|l1": {
    "expires": "2026-10-24T18:51:49.083058+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -1663,6 +1658,11 @@
    "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
+  "audaxfinancialtech|devops|l2": {
+   "expires": "2026-10-28T03:12:30.740410+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
+  },
   "auditics|fullstack|l1": {
    "expires": "2026-10-24T01:03:41.079047+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
@@ -2024,6 +2024,11 @@
   "beyoung-in|fullstack|l1": {
    "expires": "2026-10-20T21:43:28.882206+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
+   "status": "not_found"
+  },
+  "bhanzu|swe|l3": {
+   "expires": "2026-11-02T17:41:35.867665+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "big-cash-web|swe|l1": {
@@ -4398,8 +4403,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T00:10:58.315238+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
+   "expires": "2027-01-17T08:04:57.211274+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5190,6 +5195,11 @@
    "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
+  "four-f-and-associates|frontend|l1": {
+   "expires": "2026-10-31T03:10:10.934670+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
+  },
   "foxtechteam|swe|l1": {
    "expires": "2026-10-28T11:37:24.239557+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -5203,6 +5213,11 @@
   "frnsup|frontend|l1": {
    "expires": "2026-10-28T21:15:13.400937+00:00",
    "looked_up": "2026-10-11T13:01:20+00:00",
+   "status": "not_found"
+  },
+  "fruitbowl-digital|swe|l1": {
+   "expires": "2026-10-28T15:24:44.413390+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "ftdinfocom|swe|l1": {
@@ -6287,8 +6302,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T22:35:53.414239+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
+   "expires": "2027-01-22T18:44:40.628315+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -6471,6 +6486,11 @@
     }
    ],
    "status": "found"
+  },
+  "i-novate-technologies-ltd|erp|l1": {
+   "expires": "2026-11-09T06:34:35.628961+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
   },
   "i2btechnologies-pvt-ltd|data|l1": {
    "expires": "2026-10-24T19:53:46.515915+00:00",
@@ -6800,11 +6820,6 @@
   "infiltra-technologies-private-limited|mobile|l1": {
    "expires": "2026-10-27T13:26:55.251245+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "infinnium|qa|l1": {
-   "expires": "2026-10-19T08:09:15.491244+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
   "inflexion-technology-solutions|erp|l1": {
@@ -7356,11 +7371,6 @@
   "jnjinnovativemedicine|swe|l1": {
    "expires": "2026-11-04T22:18:19.336328+00:00",
    "looked_up": "2026-10-15T16:01:35+00:00",
-   "status": "not_found"
-  },
-  "jobbricksglobal|swe|l1": {
-   "expires": "2026-10-19T08:33:21.155343+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "jobgether|devops|l1": {
@@ -9941,6 +9951,16 @@
   "peepul-agri|swe|l1": {
    "expires": "2026-10-28T04:04:52.520412+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "pelfinfotech|swe|l1": {
+   "expires": "2026-11-05T01:41:04.565306+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
+  },
+  "peoplefoundry-in|erp|l1": {
+   "expires": "2026-10-29T19:45:33.673221+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "peoplelogic-business-solutions|erp|l1": {
@@ -12654,6 +12674,11 @@
    "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
+  "take-2-interactive-software-inc-|data|l1": {
+   "expires": "2026-11-04T09:26:22.041273+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
+  },
   "talent-for-professionals|swe|l1": {
    "expires": "2026-11-02T19:40:07.828023+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -13295,8 +13320,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T08:17:33.978560+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
+   "expires": "2027-01-11T09:32:40.713588+00:00",
+   "looked_up": "2026-10-19T09:01:23+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14868,8 +14893,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 1992,
-  "lookups_today": 36,
+  "lookups_month": 2000,
+  "lookups_today": 44,
   "month": "2026-10"
  }
 }
