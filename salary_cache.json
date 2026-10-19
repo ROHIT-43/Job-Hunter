@@ -1655,11 +1655,6 @@
    "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
-  "atlas-copco|security|l1": {
-   "expires": "2026-10-19T22:09:15.594325+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
-   "status": "not_found"
-  },
   "atlassian|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -3196,8 +3191,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:00:47.425758+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
+   "expires": "2027-01-10T23:40:08.768249+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4400,11 +4395,6 @@
    "looked_up": "2026-10-10T18:01:20+00:00",
    "status": "not_found"
   },
-  "elevate-ai-ug|mobile|l1": {
-   "expires": "2026-10-19T22:27:13.643212+00:00",
-   "looked_up": "2026-10-11T22:01:22+00:00",
-   "status": "not_found"
-  },
   "elevate-ai-ug|swe|l1": {
    "expires": "2026-11-03T21:46:10.331584+00:00",
    "looked_up": "2026-10-14T21:01:27+00:00",
@@ -4508,8 +4498,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:40:54.942228+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
+   "expires": "2027-01-11T15:44:21.798595+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6229,6 +6219,11 @@
    "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
+  "haseln-agency|fullstack|l1": {
+   "expires": "2026-11-03T06:32:08.878514+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
+   "status": "not_found"
+  },
   "haseln-agency|swe|l1": {
    "expires": "2026-11-04T15:20:23.621272+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
@@ -6484,8 +6479,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T13:22:09.830100+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
+   "expires": "2027-01-16T11:38:27.262146+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -7918,11 +7913,6 @@
   "knorr-bremse|swe|l1": {
    "expires": "2026-10-30T12:45:27.119045+00:00",
    "looked_up": "2026-10-15T04:01:24+00:00",
-   "status": "not_found"
-  },
-  "kochinc|erp|l1": {
-   "expires": "2026-10-19T22:05:45.819428+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
   "koderxpert|mobile|l1": {
@@ -10057,6 +10047,22 @@
    "status": "found",
    "year": 2022
   },
+  "oracle|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-18T21:45:54.841196+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
+   "max_lpa": 30.8,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/oracle-salaries/software-development-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "orbitaid-aerospace|swe|l1": {
    "expires": "2026-10-30T21:40:00.664231+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -11059,8 +11065,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:18:23.390722+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
+   "expires": "2027-01-20T20:33:15.744679+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14120,11 +14126,6 @@
    "looked_up": "2026-10-19T05:01:25+00:00",
    "status": "not_found"
   },
-  "turium-ai|fullstack|l1": {
-   "expires": "2026-10-19T22:43:44.338731+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
-   "status": "not_found"
-  },
   "tusk-and-dot|mobile|l1": {
    "expires": "2026-10-30T13:47:59.023417+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -15215,6 +15216,11 @@
    ],
    "status": "found"
   },
+  "york-digital-consulting-inc|devops|l1": {
+   "expires": "2026-11-06T06:46:40.963448+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
+   "status": "not_found"
+  },
   "yumzip|mobile|l1": {
    "expires": "2026-10-28T05:28:17.833030+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -15243,6 +15249,11 @@
   "zebra-technologies|devops|l2": {
    "expires": "2026-10-30T18:14:28.124946+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "zendesk|swe|l2": {
+   "expires": "2026-11-05T22:53:58.295570+00:00",
+   "looked_up": "2026-10-19T23:01:26+00:00",
    "status": "not_found"
   },
   "zensar|data|l1": {
@@ -15398,8 +15409,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2089,
-  "lookups_today": 133,
+  "lookups_month": 2093,
+  "lookups_today": 137,
   "month": "2026-10"
  }
 }
