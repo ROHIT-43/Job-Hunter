@@ -86,6 +86,11 @@
    ],
    "status": "found"
   },
+  "7dxperts|data|l1": {
+   "expires": "2026-11-05T10:03:11.431736+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
+   "status": "not_found"
+  },
   "7figurelocal|frontend|l1": {
    "expires": "2026-10-27T14:23:49.516895+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -2046,11 +2051,6 @@
    "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
-  "berrybytes|devops|l1": {
-   "expires": "2026-10-19T15:01:55.148505+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
-  },
   "bestex-research-group|data|l1": {
    "expires": "2026-10-25T18:02:50.150081+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -3175,8 +3175,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:33:18.434682+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
+   "expires": "2027-01-23T05:45:04.949980+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4482,8 +4482,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:15:56.580883+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
+   "expires": "2027-01-16T07:25:20.195097+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6432,8 +6432,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T21:50:24.886094+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
+   "expires": "2027-01-15T04:34:21.446615+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -6920,6 +6920,11 @@
   "indiasfutureinvestors|devops|l1": {
    "expires": "2026-10-29T08:42:11.516315+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
+  "indiasfutureinvestors|erp|l1": {
+   "expires": "2026-11-04T11:51:43.749579+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "status": "not_found"
   },
   "indiasfutureinvestors|frontend|l1": {
@@ -8903,11 +8908,6 @@
    "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
-  "mindtelg|ml|l1": {
-   "expires": "2026-10-19T15:35:11.300671+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
   "miq-digital|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -8962,6 +8962,11 @@
   "molex|swe|l1": {
    "expires": "2026-10-27T21:05:15.335884+00:00",
    "looked_up": "2026-10-15T18:01:34+00:00",
+   "status": "not_found"
+  },
+  "mongodbinc|swe|l3": {
+   "expires": "2026-11-07T09:09:49.972764+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "status": "not_found"
   },
   "moonstack-co-in|frontend|l1": {
@@ -10396,11 +10401,6 @@
    "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
-  "positiwise|devops|l1": {
-   "expires": "2026-10-19T16:01:17.737938+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "postman-platform|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10474,11 +10474,6 @@
   "principalfinancialgroup|data|l1": {
    "expires": "2026-10-27T04:35:06.569307+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "principle-pride|data|l1": {
-   "expires": "2026-10-19T15:29:50.950291+00:00",
-   "looked_up": "2026-10-06T15:01:42+00:00",
    "status": "not_found"
   },
   "principle-pride|devops|l1": {
@@ -10966,8 +10961,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T13:34:11.565597+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
+   "expires": "2027-01-19T12:56:49.109053+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -12740,6 +12735,11 @@
    "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
+  "stranbysinfosolutions|mobile|l1": {
+   "expires": "2026-11-08T13:06:36.263958+00:00",
+   "looked_up": "2026-10-19T16:01:34+00:00",
+   "status": "not_found"
+  },
   "stratign|swe|l1": {
    "expires": "2026-10-27T15:54:49.566525+00:00",
    "looked_up": "2026-10-12T05:01:24+00:00",
@@ -14379,11 +14379,6 @@
    "looked_up": "2026-10-16T23:01:23+00:00",
    "status": "not_found"
   },
-  "verisk-analytics|devops|l1": {
-   "expires": "2026-10-19T15:29:49.769387+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
   "versatile-employer-of-record|mobile|l1": {
    "expires": "2026-10-21T01:28:03.943055+00:00",
    "looked_up": "2026-10-12T05:57:40+00:00",
@@ -15275,8 +15270,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2058,
-  "lookups_today": 102,
+  "lookups_month": 2062,
+  "lookups_today": 106,
   "month": "2026-10"
  }
 }
