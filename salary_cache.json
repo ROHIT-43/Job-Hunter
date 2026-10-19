@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:04:49.393399+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
+   "expires": "2027-01-20T06:55:17.352061+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1362,6 +1362,11 @@
    "looked_up": "2026-10-10T19:01:20+00:00",
    "status": "not_found"
   },
+  "arabellesolutions|swe|l1": {
+   "expires": "2026-10-28T05:41:58.345710+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
+   "status": "not_found"
+  },
   "arataindia|swe|l1": {
    "expires": "2026-10-25T13:05:07.367600+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -1431,11 +1436,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "arrow-electronics|mobile|l1": {
-   "expires": "2026-10-19T09:26:57.541425+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
-   "status": "not_found"
   },
   "arsecats|frontend|l1": {
    "expires": "2026-11-03T07:59:13.181576+00:00",
@@ -4403,8 +4403,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:04:57.211274+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
+   "expires": "2027-01-16T00:37:36.489373+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6302,8 +6302,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:44:40.628315+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
+   "expires": "2027-01-19T15:13:19.919812+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -8873,6 +8873,11 @@
    "status": "found",
    "year": 2026
   },
+  "mple|swe|l1": {
+   "expires": "2026-10-27T06:25:03.906412+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
+   "status": "not_found"
+  },
   "mpms-mufg|swe|l1": {
    "expires": "2026-10-27T12:01:26.426692+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -10183,6 +10188,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "populace-world-solutions|devops|l1": {
+   "expires": "2026-11-09T02:28:26.801713+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
+   "status": "not_found"
+  },
   "positiwise|devops|l1": {
    "expires": "2026-10-19T16:01:17.737938+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -10733,6 +10743,20 @@
    "looked_up": "2026-10-19T05:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "quickdropdelivery|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-13T00:52:22.292523+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.4,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -12349,6 +12373,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
+   "expires": "2026-11-05T02:57:40.806839+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
+   "status": "not_found"
+  },
   "stackfusion-pvt-ltd|mobile|l1": {
    "expires": "2026-10-24T15:59:34.012481+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -13320,8 +13349,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T09:32:40.713588+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
+   "expires": "2027-01-15T01:30:39.729752+00:00",
+   "looked_up": "2026-10-19T10:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14824,11 +14853,6 @@
    "looked_up": "2026-10-16T23:01:23+00:00",
    "status": "not_found"
   },
-  "zipaworld|ml|l1": {
-   "expires": "2026-10-19T09:10:04.663198+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
   "zmitra|swe|l1": {
    "expires": "2026-11-06T09:03:21.592417+00:00",
    "looked_up": "2026-10-18T02:01:28+00:00",
@@ -14893,8 +14917,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2000,
-  "lookups_today": 44,
+  "lookups_month": 2004,
+  "lookups_today": 48,
   "month": "2026-10"
  }
 }
