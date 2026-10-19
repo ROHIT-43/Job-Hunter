@@ -172,8 +172,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:14:23.205078+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
+   "expires": "2027-01-12T19:38:15.792495+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -442,6 +442,11 @@
   "advancesensing|swe|l1": {
    "expires": "2026-10-26T16:16:37.038728+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "advancetech-controls|swe|l1": {
+   "expires": "2026-10-31T14:48:06.033134+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "status": "not_found"
   },
   "adzzat|fullstack|l1": {
@@ -3155,8 +3160,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T05:46:14.499436+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
+   "expires": "2027-01-11T23:38:14.277064+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4462,8 +4467,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T01:45:33.222813+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
+   "expires": "2027-01-18T02:32:15.078855+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6245,6 +6250,11 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
+  "helical-consulting|swe|l1": {
+   "expires": "2026-11-04T21:32:31.863071+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6407,8 +6417,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T06:10:46.611243+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
+   "expires": "2027-01-16T07:14:47.028632+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -7202,6 +7212,11 @@
    ],
    "status": "found"
   },
+  "insight-global|fullstack|l1": {
+   "expires": "2026-10-31T09:24:36.808271+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
   "insight-global|security|l1": {
    "expires": "2026-10-24T15:12:21.746395+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
@@ -7245,6 +7260,11 @@
   "intozi|swe|l1": {
    "expires": "2026-10-24T04:29:38.163537+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "intraedge|swe|l1": {
+   "expires": "2026-10-29T15:31:10.637956+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "status": "not_found"
   },
   "intuitive1|swe|l1": {
@@ -7400,11 +7420,6 @@
   "ixia-solutions-llp|swe|l1": {
    "expires": "2026-10-29T11:30:00.436492+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
-   "status": "not_found"
-  },
-  "izen-labs|devops|l1": {
-   "expires": "2026-10-19T13:52:29.284458+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "izicart|swe|l1": {
@@ -10471,6 +10486,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "project-44|swe|l1": {
+   "expires": "2026-11-07T19:12:38.320359+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
   "project-44|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -10931,8 +10951,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T19:38:51.989845+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
+   "expires": "2027-01-11T01:27:10.916395+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11980,6 +12000,11 @@
   "semtech|swe|l1": {
    "expires": "2026-10-22T22:46:12.801904+00:00",
    "looked_up": "2026-10-15T17:01:30+00:00",
+   "status": "not_found"
+  },
+  "sentraforge-ai|swe|l1": {
+   "expires": "2026-11-04T00:57:00.374958+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "status": "not_found"
   },
   "servicenow|security|l1": {
@@ -13336,6 +13361,11 @@
    "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
+  "techxsherpa|frontend|l1": {
+   "expires": "2026-10-31T19:19:55.693751+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
   "tek-grove|swe|l2": {
    "expires": "2026-11-02T08:04:13.107073+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -13482,8 +13512,8 @@
    "year": 2026
   },
   "tesco-technology|swe|l3": {
-   "expires": "2026-10-19T13:25:10.329787+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
+   "expires": "2026-10-30T03:38:25.993611+00:00",
+   "looked_up": "2026-10-19T14:01:30+00:00",
    "status": "not_found"
   },
   "tether|mobile|l1": {
@@ -15205,8 +15235,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2041,
-  "lookups_today": 85,
+  "lookups_month": 2049,
+  "lookups_today": 93,
   "month": "2026-10"
  }
 }
