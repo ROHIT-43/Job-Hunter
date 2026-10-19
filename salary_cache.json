@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T23:53:12.791694+00:00",
-   "looked_up": "2026-10-19T04:01:22+00:00",
+   "expires": "2027-01-14T18:09:48.775216+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5228,11 +5228,6 @@
    "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
-  "gbs4u|swe|l1": {
-   "expires": "2026-10-19T04:48:43.040309+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "geappliancesco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6980,6 +6975,11 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
+  "innovyatech|swe|l2": {
+   "expires": "2026-10-28T04:57:06.581256+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
+  },
   "innspark-solutions|security|l1": {
    "expires": "2026-10-20T16:20:10.742024+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
@@ -7713,6 +7713,11 @@
     }
    ],
    "status": "found"
+  },
+  "kulfi-app|fullstack|l1": {
+   "expires": "2026-11-01T12:27:18.330918+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
   },
   "kumaran-systems|swe|l1": {
    "basis": "ctc",
@@ -10549,6 +10554,11 @@
    "status": "found",
    "year": 2024
   },
+  "quest-global|fullstack|l1": {
+   "expires": "2026-11-08T03:41:06.086675+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
+  },
   "quest-global|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10601,8 +10611,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T01:35:49.226414+00:00",
-   "looked_up": "2026-10-19T04:01:22+00:00",
+   "expires": "2027-01-14T20:46:59.803411+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -12125,11 +12135,6 @@
    "status": "found",
    "year": 2025
   },
-  "sourcebae|fullstack|l1": {
-   "expires": "2026-10-19T04:20:57.654049+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "sourcebae|swe|l1": {
    "expires": "2026-11-01T07:04:26.074233+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
@@ -13146,8 +13151,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:34:19.300341+00:00",
-   "looked_up": "2026-10-19T04:01:22+00:00",
+   "expires": "2027-01-21T10:02:31.165649+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13459,6 +13464,16 @@
   "truveta|swe|l1": {
    "expires": "2026-10-27T06:03:15.954344+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "truwave-software-llc|frontend|l1": {
+   "expires": "2026-10-28T20:51:37.257845+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
+  },
+  "truwave-software-llc|swe|l1": {
+   "expires": "2026-11-06T01:28:20.238057+00:00",
+   "looked_up": "2026-10-19T05:01:25+00:00",
    "status": "not_found"
   },
   "tsmnexus|swe|l1": {
@@ -14689,8 +14704,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 1959,
-  "lookups_today": 3,
+  "lookups_month": 1964,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
