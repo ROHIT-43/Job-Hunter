@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T23:27:13.078410+00:00",
-   "looked_up": "2026-10-19T00:01:32+00:00",
+   "expires": "2027-01-19T15:07:46.959399+00:00",
+   "looked_up": "2026-10-19T01:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6221,11 +6221,6 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
-  "hpengineers|swe|l1": {
-   "expires": "2026-10-19T00:49:21.057064+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "hp|data|l1": {
    "expires": "2026-11-03T05:57:31.468881+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -7023,11 +7018,6 @@
   "insight|swe|l3": {
    "expires": "2026-10-21T12:15:43.337716+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
-  "intel-corporation|swe|l1": {
-   "expires": "2026-10-19T00:56:41.578595+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "intelliowl|erp|l1": {
@@ -10602,8 +10592,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:25:03.989976+00:00",
-   "looked_up": "2026-10-19T00:01:32+00:00",
+   "expires": "2027-01-15T18:22:24.513677+00:00",
+   "looked_up": "2026-10-19T01:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -11773,11 +11763,6 @@
   },
   "siyanee-analytics|data|l1": {
    "expires": "2026-10-20T15:51:43.051717+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
-  "siyanee-analytics|frontend|l1": {
-   "expires": "2026-10-19T00:53:57.918328+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
@@ -13167,8 +13152,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T19:28:19.685558+00:00",
-   "looked_up": "2026-10-19T00:01:32+00:00",
+   "expires": "2027-01-11T01:47:19.122652+00:00",
+   "looked_up": "2026-10-19T01:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14261,11 +14246,6 @@
   "whatsapp.|swe|l1": {
    "expires": "2026-10-28T03:20:17.238793+00:00",
    "looked_up": "2026-10-17T06:01:19+00:00",
-   "status": "not_found"
-  },
-  "whileone-techsoft-pvt-ltd|devops|l1": {
-   "expires": "2026-10-19T00:16:41.870970+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
   "whileone-techsoft-pvt-ltd|swe|l1": {
