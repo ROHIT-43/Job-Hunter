@@ -3185,8 +3185,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T00:23:49.157317+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
+   "expires": "2027-01-24T19:12:32.425662+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3320,11 +3320,6 @@
   "collins-aerospace|swe|l1": {
    "expires": "2026-11-03T08:08:42.268327+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "colt-technology-services|frontend|l1": {
-   "expires": "2026-10-19T19:50:48.963734+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
   "comcast|data|l2": {
@@ -4502,8 +4497,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T04:08:31.796371+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
+   "expires": "2027-01-16T08:36:47.066225+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5097,6 +5092,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "first-advantage|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T16:06:36.506084+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
+   "max_lpa": 7.7,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/first-advantage-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "first-american-india-pvt-ltd|swe|l1": {
    "basis": "base",
@@ -6462,8 +6473,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:59:50.124520+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
+   "expires": "2027-01-23T02:12:20.236804+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -7891,6 +7902,11 @@
   "kochinc|erp|l1": {
    "expires": "2026-10-19T22:05:45.819428+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
+   "status": "not_found"
+  },
+  "koderxpert|mobile|l1": {
+   "expires": "2026-11-09T11:04:49.345466+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "status": "not_found"
   },
   "kognivera|swe|l1": {
@@ -11012,8 +11028,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:40:24.174867+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
+   "expires": "2027-01-16T05:30:07.863986+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11672,6 +11688,11 @@
   "saasta-software-services|fullstack|l1": {
    "expires": "2026-10-27T06:41:22.684179+00:00",
    "looked_up": "2026-10-17T10:01:25+00:00",
+   "status": "not_found"
+  },
+  "saathapp-tech|swe|l1": {
+   "expires": "2026-11-04T21:32:17.877075+00:00",
+   "looked_up": "2026-10-19T20:01:28+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|data|l1": {
@@ -15336,8 +15357,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2076,
-  "lookups_today": 120,
+  "lookups_month": 2079,
+  "lookups_today": 123,
   "month": "2026-10"
  }
 }
