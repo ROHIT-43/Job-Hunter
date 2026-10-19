@@ -172,8 +172,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:00:01.967882+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
+   "expires": "2027-01-15T15:14:23.205078+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -851,6 +851,11 @@
    "looked_up": "2026-10-09T06:01:28+00:00",
    "status": "not_found"
   },
+  "alstom|erp|l1": {
+   "expires": "2026-11-05T04:12:27.972834+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
   "alten-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1282,6 +1287,11 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
+  "aptean-india|data|l1": {
+   "expires": "2026-11-01T18:10:58.635163+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
   "aptiv|data|l1": {
    "expires": "2026-10-25T04:47:49.434489+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -1385,6 +1395,11 @@
   "arcadis|swe|l2": {
    "expires": "2026-10-23T01:29:52.113048+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "arcanaanalytics|devops|l1": {
+   "expires": "2026-11-06T07:55:14.762219+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
   "arcticwolf|swe|l1": {
@@ -1676,6 +1691,11 @@
   "auric-ai|swe|l1": {
    "expires": "2026-10-27T12:09:02.506379+00:00",
    "looked_up": "2026-10-06T17:02:30+00:00",
+   "status": "not_found"
+  },
+  "auronix-tech|swe|l1": {
+   "expires": "2026-10-31T18:59:55.912798+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
   "autodesk|swe|l1": {
@@ -3135,8 +3155,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T05:23:06.089216+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
+   "expires": "2027-01-23T05:46:14.499436+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4249,6 +4269,11 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
+  "eclinical-solutions|swe|l1": {
+   "expires": "2026-10-29T16:23:38.742000+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
   "ecobillz-private-limited|swe|l1": {
    "expires": "2026-11-01T04:53:07.844496+00:00",
    "looked_up": "2026-10-13T18:01:29+00:00",
@@ -4437,8 +4462,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:01:43.363818+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
+   "expires": "2027-01-20T01:45:33.222813+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4723,6 +4748,42 @@
    "expires": "2026-11-01T10:02:24.209284+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
+  },
+  "exl-service|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-20T18:10:26.156405+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "max_lpa": 11.7,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/exl-service-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "exl-service|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T11:06:32.110609+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/exl-service-salaries/associate-software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/exl-service-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "exotel-techcom-private-limited|swe|l2": {
    "expires": "2026-11-03T13:43:43.643271+00:00",
@@ -6346,8 +6407,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T02:15:09.553413+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
+   "expires": "2027-01-15T06:10:46.611243+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -10230,6 +10291,11 @@
    "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
+  "pinelabs|swe|l1": {
+   "expires": "2026-11-07T06:21:30.084155+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-01T15:52:31.251645+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -10865,8 +10931,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:53:53.316854+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
+   "expires": "2027-01-11T19:38:51.989845+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -12617,6 +12683,11 @@
   "stratign|swe|l1": {
    "expires": "2026-10-27T15:54:49.566525+00:00",
    "looked_up": "2026-10-12T05:01:24+00:00",
+   "status": "not_found"
+  },
+  "sublimedata|frontend|l1": {
+   "expires": "2026-11-01T11:59:29.555411+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
   "sugar-rush-agency|frontend|l1": {
@@ -14966,6 +15037,16 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
+  "zealantconsulting|swe|l3": {
+   "expires": "2026-11-01T09:26:29.675466+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "zebra-technologies|devops|l2": {
+   "expires": "2026-10-30T18:14:28.124946+00:00",
+   "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
   "zensar|data|l1": {
    "expires": "2026-10-29T08:03:49.789180+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -15124,8 +15205,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 2030,
-  "lookups_today": 74,
+  "lookups_month": 2041,
+  "lookups_today": 85,
   "month": "2026-10"
  }
 }
