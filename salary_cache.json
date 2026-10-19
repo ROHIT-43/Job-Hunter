@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:26:44.092418+00:00",
-   "looked_up": "2026-10-19T03:01:25+00:00",
+   "expires": "2027-01-12T23:53:12.791694+00:00",
+   "looked_up": "2026-10-19T04:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2317,9 +2317,28 @@
    "year": 2025
   },
   "bristlecone|erp|l1": {
-   "expires": "2026-10-19T04:00:51.351009+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T19:59:32.648610+00:00",
+   "looked_up": "2026-10-19T04:01:22+00:00",
+   "max_lpa": 5.3,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-bristlecone-pay"
+    },
+    {
+     "title": "freshershunt.in",
+     "uri": "https://freshershunt.in/?p=22065"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Bristlecone/salaries/Associate"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "bristol-myers-squibb|security|l1": {
    "expires": "2026-11-01T22:04:03.340582+00:00",
@@ -9649,11 +9668,6 @@
    "status": "found",
    "year": 2022
   },
-  "orbion-infotech|erp|l1": {
-   "expires": "2026-10-19T03:30:10.056155+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "orbitaid-aerospace|swe|l1": {
    "expires": "2026-10-30T21:40:00.664231+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -10587,8 +10601,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:38:10.686685+00:00",
-   "looked_up": "2026-10-19T03:01:25+00:00",
+   "expires": "2027-01-15T01:35:49.226414+00:00",
+   "looked_up": "2026-10-19T04:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -12577,11 +12591,6 @@
    "looked_up": "2026-10-18T09:01:27+00:00",
    "status": "not_found"
   },
-  "tally-experts-ind-uae|swe|l1": {
-   "expires": "2026-10-19T03:16:32.693630+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
-   "status": "not_found"
-  },
   "tansorpay|fullstack|l1": {
    "expires": "2026-10-30T03:00:10.800389+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -13137,8 +13146,8 @@
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T02:56:50.665804+00:00",
-   "looked_up": "2026-10-19T03:01:25+00:00",
+   "expires": "2027-01-15T07:34:19.300341+00:00",
+   "looked_up": "2026-10-19T04:01:22+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14680,8 +14689,8 @@
  },
  "meta": {
   "day": "2026-10-19",
-  "lookups_month": 1958,
-  "lookups_today": 2,
+  "lookups_month": 1959,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
