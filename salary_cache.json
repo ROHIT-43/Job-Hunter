@@ -167,8 +167,8 @@
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T12:22:17.407890+00:00",
-   "looked_up": "2026-10-18T23:12:16+00:00",
+   "expires": "2027-01-12T23:27:13.078410+00:00",
+   "looked_up": "2026-10-19T00:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10602,8 +10602,8 @@
   "quick-code-pty-ltd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:20:19.678100+00:00",
-   "looked_up": "2026-10-18T23:12:16+00:00",
+   "expires": "2027-01-16T02:25:03.989976+00:00",
+   "looked_up": "2026-10-19T00:01:32+00:00",
    "max_lpa": 7.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13164,16 +13164,11 @@
    "status": "found",
    "year": 2026
   },
-  "thermo-fisher-scientific|swe|l3": {
-   "expires": "2026-10-18T23:41:08.931743+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
-   "status": "not_found"
-  },
   "theroboticsledger|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T21:06:16.703113+00:00",
-   "looked_up": "2026-10-18T23:12:16+00:00",
+   "expires": "2027-01-22T19:28:19.685558+00:00",
+   "looked_up": "2026-10-19T00:01:32+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14724,9 +14719,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-18",
+  "day": "2026-10-19",
   "lookups_month": 1956,
-  "lookups_today": 52,
+  "lookups_today": 0,
   "month": "2026-10"
  }
 }
