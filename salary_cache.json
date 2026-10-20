@@ -2933,8 +2933,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:42:15.119566+00:00",
-   "looked_up": "2026-10-20T03:01:29+00:00",
+   "expires": "2027-01-20T03:09:39.628910+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3206,8 +3206,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T08:09:38.379941+00:00",
-   "looked_up": "2026-10-20T03:01:29+00:00",
+   "expires": "2027-01-23T15:38:20.881073+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4518,8 +4518,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T22:30:50.999830+00:00",
-   "looked_up": "2026-10-20T03:01:29+00:00",
+   "expires": "2027-01-19T21:25:45.289366+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6179,11 +6179,6 @@
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
-  "hanoch-automations|swe|l1": {
-   "expires": "2026-10-20T03:09:39.799197+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
-   "status": "not_found"
-  },
   "hansen-technologies|swe|l1": {
    "expires": "2026-10-25T18:45:14.215613+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -6499,8 +6494,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:49:25.446718+00:00",
-   "looked_up": "2026-10-20T03:01:29+00:00",
+   "expires": "2027-01-12T04:32:29.740930+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -10058,6 +10053,11 @@
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
+  "optumindia|data|l1": {
+   "expires": "2026-11-02T07:14:16.688218+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
+   "status": "not_found"
+  },
   "oracle|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -11090,8 +11090,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:12:27.412806+00:00",
-   "looked_up": "2026-10-20T03:01:29+00:00",
+   "expires": "2027-01-17T01:15:10.523605+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -12764,6 +12764,11 @@
   "srest|swe|l1": {
    "expires": "2026-10-28T04:03:16.000674+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "sri-sai-lakshmi-die-castings-limited-tirupati|swe|l1": {
+   "expires": "2026-10-30T10:27:14.003821+00:00",
+   "looked_up": "2026-10-20T04:01:26+00:00",
    "status": "not_found"
   },
   "srinivasa-supply-chain-solutions-private-limited|erp|l1": {
@@ -15449,8 +15454,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2102,
-  "lookups_today": 9,
+  "lookups_month": 2104,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
