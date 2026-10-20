@@ -2939,8 +2939,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:21:19.887534+00:00",
-   "looked_up": "2026-10-20T23:01:29+00:00",
+   "expires": "2027-01-22T05:58:25.044784+00:00",
+   "looked_up": "2026-10-20T23:52:12+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -7901,8 +7901,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T11:25:45.143711+00:00",
-   "looked_up": "2026-10-20T23:01:29+00:00",
+   "expires": "2027-01-25T04:01:47.825596+00:00",
+   "looked_up": "2026-10-20T23:52:12+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -9400,11 +9400,6 @@
   "nasugroup-com|security|l1": {
    "expires": "2026-11-04T06:38:30.864594+00:00",
    "looked_up": "2026-10-16T05:01:25+00:00",
-   "status": "not_found"
-  },
-  "nasuni|devops|l1": {
-   "expires": "2026-10-20T23:01:32.938993+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
    "status": "not_found"
   },
   "nasuni|swe|l1": {
@@ -13608,11 +13603,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "teamware-solutions|security|l1": {
-   "expires": "2026-10-20T23:38:48.954770+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
-   "status": "not_found"
-  },
   "teamware-solutions|swe|l1": {
    "expires": "2026-10-30T02:07:48.489255+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -14988,11 +14978,6 @@
   "voiceindia-ai|fullstack|l1": {
    "expires": "2026-11-02T15:18:34.120233+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "vois|security|l1": {
-   "expires": "2026-10-20T23:12:49.816919+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
   "vois|swe|l1": {
