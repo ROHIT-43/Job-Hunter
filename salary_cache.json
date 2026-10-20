@@ -2088,11 +2088,6 @@
    "looked_up": "2026-10-10T21:01:24+00:00",
    "status": "not_found"
   },
-  "beyoung-in|fullstack|l1": {
-   "expires": "2026-10-20T21:43:28.882206+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
-   "status": "not_found"
-  },
   "bhanzu|swe|l3": {
    "expires": "2026-11-02T17:41:35.867665+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
@@ -2346,11 +2341,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bookleaf-publishing|fullstack|l1": {
-   "expires": "2026-10-20T21:36:36.860085+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
   },
   "boomlet|swe|l1": {
    "expires": "2026-10-21T07:13:29.611214+00:00",
@@ -2959,8 +2949,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T04:37:17.601288+00:00",
-   "looked_up": "2026-10-20T21:01:27+00:00",
+   "expires": "2027-01-18T08:44:50.753271+00:00",
+   "looked_up": "2026-10-20T22:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5353,8 +5343,8 @@
    "status": "not_found"
   },
   "flexipletech|mobile|l1": {
-   "expires": "2026-10-20T21:49:29.608427+00:00",
-   "looked_up": "2026-10-11T19:01:18+00:00",
+   "expires": "2026-11-01T21:40:28.880118+00:00",
+   "looked_up": "2026-10-20T22:01:27+00:00",
    "status": "not_found"
   },
   "flexipletech|swe|l1": {
@@ -6489,11 +6479,6 @@
   "hh-global|devops|l1": {
    "expires": "2026-11-04T02:43:53.858808+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
-  "hi-tech-audio-and-image-llp|swe|l1": {
-   "expires": "2026-10-20T21:30:11.865472+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
    "status": "not_found"
   },
   "highlevel|swe|l2": {
@@ -7926,8 +7911,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:12:35.049308+00:00",
-   "looked_up": "2026-10-20T21:01:27+00:00",
+   "expires": "2027-01-21T04:43:24.468977+00:00",
+   "looked_up": "2026-10-20T22:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8008,6 +7993,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "karat|swe|l1": {
+   "expires": "2026-11-07T23:08:29.787872+00:00",
+   "looked_up": "2026-10-20T22:01:27+00:00",
+   "status": "not_found"
   },
   "karobidai|mobile|l1": {
    "expires": "2026-10-29T02:47:12.453131+00:00",
@@ -15243,11 +15233,6 @@
    "looked_up": "2026-10-17T06:01:19+00:00",
    "status": "not_found"
   },
-  "whileone-techsoft-pvt-ltd|swe|l1": {
-   "expires": "2026-10-20T21:44:03.064517+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "whitefield-careers|swe|l1": {
    "expires": "2026-10-26T11:33:36.933499+00:00",
    "looked_up": "2026-10-15T21:01:37+00:00",
@@ -15780,8 +15765,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2198,
-  "lookups_today": 105,
+  "lookups_month": 2200,
+  "lookups_today": 107,
   "month": "2026-10"
  }
 }
