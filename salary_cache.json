@@ -1886,11 +1886,6 @@
    "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
-  "bancapp-automation|swe|l1": {
-   "expires": "2026-10-19T23:52:42.073544+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
-   "status": "not_found"
-  },
   "bank-of-america|swe|l1": {
    "expires": "2026-11-03T03:12:04.193849+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
@@ -3191,8 +3186,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-10T23:40:08.768249+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
+   "expires": "2027-01-11T00:44:05.247053+00:00",
+   "looked_up": "2026-10-20T00:01:32+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4498,8 +4493,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T15:44:21.798595+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
+   "expires": "2027-01-15T22:23:46.108446+00:00",
+   "looked_up": "2026-10-20T00:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6479,8 +6474,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T11:38:27.262146+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
+   "expires": "2027-01-12T04:20:43.128944+00:00",
+   "looked_up": "2026-10-20T00:01:32+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -7302,6 +7297,11 @@
   "insight|swe|l3": {
    "expires": "2026-10-21T12:15:43.337716+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
+   "status": "not_found"
+  },
+  "instaastro-spritual-guide|swe|l1": {
+   "expires": "2026-10-29T04:24:44.793433+00:00",
+   "looked_up": "2026-10-20T00:01:32+00:00",
    "status": "not_found"
   },
   "intelliowl|erp|l1": {
@@ -10835,11 +10835,6 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
-  "qmize|fullstack|l1": {
-   "expires": "2026-10-19T23:29:33.694570+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "qnn-global|swe|l1": {
    "expires": "2026-10-31T16:31:16.648068+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
@@ -11065,8 +11060,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T20:33:15.744679+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
+   "expires": "2027-01-24T05:49:01.786240+00:00",
+   "looked_up": "2026-10-20T00:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -12576,11 +12571,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "software-testing-service|swe|l1": {
-   "expires": "2026-10-19T23:16:04.590101+00:00",
-   "looked_up": "2026-10-11T03:01:24+00:00",
-   "status": "not_found"
   },
   "sofvare|swe|l1": {
    "expires": "2026-10-26T18:45:24.191681+00:00",
@@ -15408,9 +15398,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-19",
-  "lookups_month": 2093,
-  "lookups_today": 137,
+  "day": "2026-10-20",
+  "lookups_month": 2094,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
