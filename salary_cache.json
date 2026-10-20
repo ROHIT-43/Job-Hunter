@@ -2534,6 +2534,11 @@
    "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
+  "burns-mcdonnell-india|data|l1": {
+   "expires": "2026-11-03T10:44:56.231043+00:00",
+   "looked_up": "2026-10-20T15:01:31+00:00",
+   "status": "not_found"
+  },
   "butterflyteck|swe|l1": {
    "expires": "2026-10-29T21:11:46.558862+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -2964,8 +2969,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T10:43:52.939975+00:00",
-   "looked_up": "2026-10-20T14:01:32+00:00",
+   "expires": "2027-01-17T23:44:56.263087+00:00",
+   "looked_up": "2026-10-20T15:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4266,11 +4271,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "docusign|mobile|l1": {
-   "expires": "2026-10-20T14:06:16.263342+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "dodopayments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4385,11 +4385,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ebay|devops|l1": {
-   "expires": "2026-10-20T14:34:42.955260+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
   },
   "eclerx|swe|l1": {
    "expires": "2026-11-01T23:25:26.095371+00:00",
@@ -5560,11 +5555,6 @@
    "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
-  "gbs4u|mobile|l1": {
-   "expires": "2026-10-20T14:29:59.274104+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "geappliancesco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6329,11 +6319,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "harris-computer.|security|l1": {
-   "expires": "2026-10-20T14:42:46.287834+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
-   "status": "not_found"
   },
   "haseln-agency|fullstack|l1": {
    "expires": "2026-11-03T06:32:08.878514+00:00",
@@ -7151,6 +7136,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "information-systems-associates-fze|mobile|l1": {
+   "expires": "2026-11-03T15:17:26.129683+00:00",
+   "looked_up": "2026-10-20T15:01:31+00:00",
+   "status": "not_found"
+  },
   "information-systems-associates-fze|swe|l1": {
    "expires": "2026-10-24T11:49:02.037529+00:00",
    "looked_up": "2026-10-16T18:01:27+00:00",
@@ -7229,6 +7219,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/infosys-salaries/salesforce-developer/mumbai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "infosys|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-19T03:04:36.570441+00:00",
+   "looked_up": "2026-10-20T15:01:31+00:00",
+   "max_lpa": 12.9,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infosys-salaries/ui-developer"
     }
    ],
    "status": "found",
@@ -9362,11 +9368,6 @@
    "looked_up": "2026-10-17T16:01:22+00:00",
    "status": "not_found"
   },
-  "mycareernet|swe|l1": {
-   "expires": "2026-10-20T14:02:48.432437+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "nasdaq|swe|l1": {
    "expires": "2026-11-04T08:59:17.987031+00:00",
    "looked_up": "2026-10-16T20:01:24+00:00",
@@ -11310,11 +11311,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "rampwin|swe|l1": {
-   "expires": "2026-10-20T14:06:03.493607+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "rampwork|mobile|l1": {
    "expires": "2026-10-29T17:05:49.205229+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
@@ -12417,11 +12413,6 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
-  "sigma-software|swe|l1": {
-   "expires": "2026-10-20T14:26:40.142408+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "signant-health|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -13333,11 +13324,6 @@
   "talent-matics|frontend|l1": {
    "expires": "2026-10-28T11:03:40.835876+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
-  "talentdraftme|fullstack|l1": {
-   "expires": "2026-10-20T14:33:50.279792+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "talentgigs|devops|l1": {
@@ -14699,6 +14685,11 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
+  "vena-solutions|devops|l1": {
+   "expires": "2026-11-06T14:40:54.035969+00:00",
+   "looked_up": "2026-10-20T15:01:31+00:00",
+   "status": "not_found"
+  },
   "vensurehr|swe|l1": {
    "expires": "2026-10-23T08:53:01.905257+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -15719,8 +15710,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2171,
-  "lookups_today": 78,
+  "lookups_month": 2175,
+  "lookups_today": 82,
   "month": "2026-10"
  }
 }
