@@ -136,6 +136,11 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
+  "abacustechnology|swe|l1": {
+   "expires": "2026-10-30T10:07:49.708479+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
+  },
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -2959,8 +2964,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T17:57:14.457346+00:00",
-   "looked_up": "2026-10-20T09:01:36+00:00",
+   "expires": "2027-01-22T15:55:42.362476+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3003,6 +3008,11 @@
   "cisco|data|l1": {
    "expires": "2026-10-21T09:10:00.152657+00:00",
    "looked_up": "2026-10-12T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "cisco|devops|l1": {
+   "expires": "2026-11-06T20:57:09.804005+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
   "cisco|frontend|l2": {
@@ -3237,8 +3247,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T19:20:05.388646+00:00",
-   "looked_up": "2026-10-20T09:01:36+00:00",
+   "expires": "2027-01-13T03:17:29.657670+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3915,6 +3925,11 @@
     }
    ],
    "status": "found"
+  },
+  "dekhore|mobile|l1": {
+   "expires": "2026-11-05T07:39:43.246092+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
   },
   "delaplex|swe|l1": {
    "basis": "ctc",
@@ -5095,6 +5110,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "fifo-international|devops|l1": {
+   "expires": "2026-11-01T09:33:27.825879+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
   },
   "filmample|fullstack|l1": {
    "expires": "2026-11-05T11:41:32.484677+00:00",
@@ -7755,6 +7775,22 @@
    "status": "found",
    "year": 2024
   },
+  "jpmorganchase|frontend|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T08:50:18.668584+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "max_lpa": 29.0,
+   "min_lpa": 29.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5434625/jp-morgan-compensation-se3-bengaluru/"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "jpmorganchase|fullstack|l2": {
    "expires": "2026-10-28T13:22:15.210918+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -7936,6 +7972,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "keystone-partnerspl|swe|l1": {
+   "expires": "2026-11-04T01:47:47.512400+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
   },
   "keywordsstudios|devops|l1": {
    "expires": "2026-10-24T17:49:34.538489+00:00",
@@ -9534,6 +9575,11 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
+  "new-age-4|mobile|l1": {
+   "expires": "2026-11-07T05:52:22.145033+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
+  },
   "newspacert|swe|l3": {
    "expires": "2026-10-24T20:46:49.374039+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -9552,11 +9598,6 @@
   "nexgen-techsolutions|swe|l1": {
    "expires": "2026-10-30T05:07:18.888938+00:00",
    "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
-  "nexla|swe|l1": {
-   "expires": "2026-10-20T09:09:13.694627+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
   "nexortest-technologies|swe|l1": {
@@ -13798,6 +13839,26 @@
    "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
+  "texas-instruments-india|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-18T01:29:54.608095+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "max_lpa": 31.0,
+   "min_lpa": 17.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Texas-Instruments-Embeddded-Software-Engineer-Salaries-E651_D_KO18,45.htm"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5685745/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "thales|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14202,6 +14263,11 @@
   "trumpetmedia-co-in|swe|l1": {
    "expires": "2026-10-28T04:18:33.213975+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "trustinoptimal|devops|l1": {
+   "expires": "2026-11-04T10:50:10.657757+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
   "trustworkstreet|security|l1": {
@@ -14782,6 +14848,31 @@
    ],
    "status": "found"
   },
+  "visteon|mobile|l1": {
+   "expires": "2026-11-07T04:04:40.998684+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
+  },
+  "visteon|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-12T00:58:41.631397+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "max_lpa": 6.7,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/visteon/salaries/software-engineer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Visteon/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "vithamas-tech|mobile|l1": {
    "expires": "2026-11-04T04:46:53.250182+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -15176,6 +15267,11 @@
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
+  "worldlineglobal|devops|l1": {
+   "expires": "2026-11-07T04:29:45.950315+00:00",
+   "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
+  },
   "worldlineglobal|frontend|l1": {
    "expires": "2026-10-26T07:50:00.114694+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -15542,8 +15638,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2135,
-  "lookups_today": 42,
+  "lookups_month": 2147,
+  "lookups_today": 54,
   "month": "2026-10"
  }
 }
