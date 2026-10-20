@@ -1344,11 +1344,6 @@
    "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
-  "aptiv|security|l1": {
-   "expires": "2026-10-20T16:21:47.494845+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
-  },
   "aptiv|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1532,6 +1527,11 @@
   "arteria_2|mobile|l1": {
    "expires": "2026-10-29T01:57:59.338812+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "aruba-a-hewlett-packard-enterprise-company|swe|l1": {
+   "expires": "2026-11-08T19:41:45.790999+00:00",
+   "looked_up": "2026-10-20T17:01:29+00:00",
    "status": "not_found"
   },
   "ascendion|data|l1": {
@@ -2959,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T02:37:27.860923+00:00",
-   "looked_up": "2026-10-20T16:01:30+00:00",
+   "expires": "2027-01-23T20:11:36.860742+00:00",
+   "looked_up": "2026-10-20T17:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5478,11 +5478,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "ftprotech|swe|l1": {
-   "expires": "2026-10-20T16:26:57.238494+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "fundbnk|erp|l1": {
    "expires": "2026-10-29T06:03:11.620489+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -7378,11 +7373,6 @@
    "looked_up": "2026-10-19T05:01:25+00:00",
    "status": "not_found"
   },
-  "innspark-solutions|security|l1": {
-   "expires": "2026-10-20T16:20:10.742024+00:00",
-   "looked_up": "2026-10-10T13:01:29+00:00",
-   "status": "not_found"
-  },
   "insideoutva|swe|l1": {
    "expires": "2026-11-06T00:37:36.376340+00:00",
    "looked_up": "2026-10-16T19:01:22+00:00",
@@ -9240,6 +9230,11 @@
    "looked_up": "2026-10-17T18:01:21+00:00",
    "status": "not_found"
   },
+  "motorolasolutions|frontend|l1": {
+   "expires": "2026-10-29T23:56:14.525802+00:00",
+   "looked_up": "2026-10-20T17:01:29+00:00",
+   "status": "not_found"
+  },
   "motorolasolutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9635,6 +9630,11 @@
   "newspacert|swe|l3": {
    "expires": "2026-10-24T20:46:49.374039+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "nexacaretalent|frontend|l1": {
+   "expires": "2026-10-29T16:12:24.520388+00:00",
+   "looked_up": "2026-10-20T17:01:29+00:00",
    "status": "not_found"
   },
   "nexduo|frontend|l1": {
@@ -15715,8 +15715,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2181,
-  "lookups_today": 88,
+  "lookups_month": 2184,
+  "lookups_today": 91,
   "month": "2026-10"
  }
 }
