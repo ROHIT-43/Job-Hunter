@@ -1228,6 +1228,22 @@
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
+  "apple|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-11T20:57:17.932124+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 17.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1812834/apple-sde1-hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "apple|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3186,8 +3202,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T06:16:41.636743+00:00",
-   "looked_up": "2026-10-20T00:20:04+00:00",
+   "expires": "2027-01-23T07:41:22.877029+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3200,6 +3216,11 @@
   "codevibe-technology|frontend|l1": {
    "expires": "2026-10-23T03:11:13.447583+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
+  "codewinglet|devops|l1": {
+   "expires": "2026-10-27T10:32:43.940164+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
    "status": "not_found"
   },
   "codexalters|frontend|l1": {
@@ -4493,8 +4514,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:12:31.389828+00:00",
-   "looked_up": "2026-10-20T00:20:04+00:00",
+   "expires": "2027-01-13T19:06:16.730896+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6144,6 +6165,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "hamon-techonologies-llp|swe|l1": {
+   "expires": "2026-11-09T23:39:51.950587+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
+   "status": "not_found"
+  },
   "handbuiltapps|frontend|l1": {
    "expires": "2026-10-29T19:12:05.840293+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -6474,8 +6500,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:12:04.067920+00:00",
-   "looked_up": "2026-10-20T00:20:04+00:00",
+   "expires": "2027-01-18T21:42:35.037959+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -9159,6 +9185,11 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
+  "msphere-io|devops|l1": {
+   "expires": "2026-10-29T22:00:22.391197+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
+   "status": "not_found"
+  },
   "msx-international|swe|l1": {
    "expires": "2026-10-28T01:38:37.502760+00:00",
    "looked_up": "2026-10-15T19:01:43+00:00",
@@ -11055,8 +11086,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T14:13:03.342166+00:00",
-   "looked_up": "2026-10-20T00:20:04+00:00",
+   "expires": "2027-01-20T06:36:15.238903+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -11140,11 +11171,6 @@
   "rapidbrains|erp|l1": {
    "expires": "2026-10-20T22:29:38.154175+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "rapiddmls|swe|l1": {
-   "expires": "2026-10-20T00:34:16.202749+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "rapsys-technologies|data|l1": {
@@ -13397,6 +13423,11 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
+  "techbrein-india|fullstack|l1": {
+   "expires": "2026-10-31T17:15:31.881268+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
+   "status": "not_found"
+  },
   "techcarvings-consultancy-pvt-ltd|erp|l1": {
    "expires": "2026-10-31T07:01:55.938183+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -14942,6 +14973,26 @@
    "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
+  "wipro|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T15:59:49.795058+00:00",
+   "looked_up": "2026-10-20T01:01:24+00:00",
+   "max_lpa": 3.8,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "fresherjobinfo.in",
+     "uri": "https://fresherjobinfo.in/wipro-freshers-hiring-2026/"
+    },
+    {
+     "title": "jobrise.io",
+     "uri": "https://jobrise.io/en/blog/fresher-salary-city-wise-2026/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "wisdomai-inc|swe|l1": {
    "expires": "2026-10-28T05:16:25.702706+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -15394,8 +15445,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2094,
-  "lookups_today": 1,
+  "lookups_month": 2100,
+  "lookups_today": 7,
   "month": "2026-10"
  }
 }
