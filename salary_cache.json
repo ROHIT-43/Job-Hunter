@@ -2290,6 +2290,11 @@
    "status": "found",
    "year": 2026
   },
+  "bmc-software|swe|l1": {
+   "expires": "2026-11-05T03:27:36.085191+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
   "bnp-paribas|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2959,8 +2964,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T13:01:22.691156+00:00",
-   "looked_up": "2026-10-20T18:01:29+00:00",
+   "expires": "2027-01-22T01:45:42.572632+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -7131,6 +7136,11 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
+  "infonetdev|fullstack|l1": {
+   "expires": "2026-11-04T09:41:42.001415+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
   "information-services-group|devops|l1": {
    "expires": "2026-10-31T21:28:30.564240+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -8317,6 +8327,11 @@
   "linde|security|l1": {
    "expires": "2026-11-03T21:37:19.286503+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
+   "status": "not_found"
+  },
+  "linedata|swe|l1": {
+   "expires": "2026-11-01T13:07:28.020664+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
   "linkedintechnologies|swe|l1": {
@@ -9627,6 +9642,11 @@
    "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
+  "newage-tech|swe|l1": {
+   "expires": "2026-11-03T18:58:56.809820+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
   "newspacert|swe|l3": {
    "expires": "2026-10-24T20:46:49.374039+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -9835,11 +9855,6 @@
   "nsr-information-systems|frontend|l1": {
    "expires": "2026-10-27T06:03:28.185629+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
-  "ntt-data-americas|data|l1": {
-   "expires": "2026-10-20T18:33:39.457382+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|devops|l1": {
@@ -10649,6 +10664,11 @@
    "looked_up": "2026-10-10T02:01:21+00:00",
    "status": "not_found"
   },
+  "plomid|swe|l2": {
+   "expires": "2026-11-10T01:09:21.714214+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
   "plutas-analytics|swe|l1": {
    "expires": "2026-10-26T08:23:26.963597+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
@@ -10762,6 +10782,11 @@
   "procore-technologies|mobile|l2": {
    "expires": "2026-10-25T12:25:54.314751+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "procter-and-gamble|security|l1": {
+   "expires": "2026-10-30T19:21:09.780345+00:00",
+   "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
   "prodify-innovatives|fullstack|l1": {
@@ -15715,8 +15740,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2186,
-  "lookups_today": 93,
+  "lookups_month": 2192,
+  "lookups_today": 99,
   "month": "2026-10"
  }
 }
