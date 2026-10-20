@@ -867,11 +867,6 @@
    ],
    "status": "found"
   },
-  "alphadroid|security|l1": {
-   "expires": "2026-10-20T20:04:21.834290+00:00",
-   "looked_up": "2026-10-06T14:01:43+00:00",
-   "status": "not_found"
-  },
   "alphahaq-technologies-pvt-ltd|erp|l3": {
    "expires": "2026-10-23T15:21:00.210103+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -917,11 +912,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "altera-health|security|l1": {
-   "expires": "2026-10-20T20:13:17.641087+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
-   "status": "not_found"
   },
   "alteredsecurity|security|l1": {
    "expires": "2026-10-31T00:27:04.354503+00:00",
@@ -2969,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:44:17.762073+00:00",
-   "looked_up": "2026-10-20T20:01:26+00:00",
+   "expires": "2027-01-18T03:29:33.503250+00:00",
+   "looked_up": "2026-10-20T20:34:45+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
