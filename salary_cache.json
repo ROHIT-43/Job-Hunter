@@ -3186,8 +3186,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T00:44:05.247053+00:00",
-   "looked_up": "2026-10-20T00:01:32+00:00",
+   "expires": "2027-01-16T06:16:41.636743+00:00",
+   "looked_up": "2026-10-20T00:20:04+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4493,8 +4493,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T22:23:46.108446+00:00",
-   "looked_up": "2026-10-20T00:01:32+00:00",
+   "expires": "2027-01-18T09:12:31.389828+00:00",
+   "looked_up": "2026-10-20T00:20:04+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6474,8 +6474,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:20:43.128944+00:00",
-   "looked_up": "2026-10-20T00:01:32+00:00",
+   "expires": "2027-01-18T09:12:04.067920+00:00",
+   "looked_up": "2026-10-20T00:20:04+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -10203,11 +10203,6 @@
    "looked_up": "2026-10-14T05:02:59+00:00",
    "status": "not_found"
   },
-  "paypal|devops|l1": {
-   "expires": "2026-10-20T00:19:42.582486+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
   "paypal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11060,8 +11055,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:49:01.786240+00:00",
-   "looked_up": "2026-10-20T00:01:32+00:00",
+   "expires": "2027-01-13T14:13:03.342166+00:00",
+   "looked_up": "2026-10-20T00:20:04+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
