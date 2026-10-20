@@ -1453,6 +1453,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "arinovaa-labs|swe|l1": {
+   "expires": "2026-10-29T22:06:32.188387+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
+   "status": "not_found"
+  },
   "aristocratcorporate|swe|l2": {
    "expires": "2026-10-23T19:10:11.163024+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -2060,6 +2065,11 @@
   "bestex-research-group|data|l1": {
    "expires": "2026-10-25T18:02:50.150081+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "beta-soft-net|swe|l1": {
+   "expires": "2026-11-05T14:29:05.992319+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "status": "not_found"
   },
   "betasoft-solutions|swe|l2": {
@@ -2933,8 +2943,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T03:09:39.628910+00:00",
-   "looked_up": "2026-10-20T04:01:26+00:00",
+   "expires": "2027-01-21T13:13:07.806206+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3206,8 +3216,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:38:20.881073+00:00",
-   "looked_up": "2026-10-20T04:01:26+00:00",
+   "expires": "2027-01-16T20:45:50.634933+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4089,11 +4099,6 @@
    "status": "found",
    "year": 2026
   },
-  "digiletechnologies|fullstack|l1": {
-   "expires": "2026-10-20T04:47:10.729480+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
-   "status": "not_found"
-  },
   "digiletechnologies|swe|l1": {
    "expires": "2026-10-27T20:27:00.199756+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
@@ -4518,8 +4523,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:25:45.289366+00:00",
-   "looked_up": "2026-10-20T04:01:26+00:00",
+   "expires": "2027-01-13T18:12:07.023518+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6224,11 +6229,6 @@
    "status": "found",
    "year": 2026
   },
-  "harmanindia|swe|l2": {
-   "expires": "2026-10-20T04:03:57.275822+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
-   "status": "not_found"
-  },
   "harris-computer.|security|l1": {
    "expires": "2026-10-20T14:42:46.287834+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -6380,6 +6380,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "hh-global|devops|l1": {
+   "expires": "2026-11-04T02:43:53.858808+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
+   "status": "not_found"
+  },
   "hi-tech-audio-and-image-llp|swe|l1": {
    "expires": "2026-10-20T21:30:11.865472+00:00",
    "looked_up": "2026-10-06T14:01:43+00:00",
@@ -6494,8 +6499,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T04:32:29.740930+00:00",
-   "looked_up": "2026-10-20T04:01:26+00:00",
+   "expires": "2027-01-21T01:02:29.581618+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -10133,6 +10138,11 @@
    "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
+  "oxybills|swe|l1": {
+   "expires": "2026-11-01T01:24:02.094285+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
+   "status": "not_found"
+  },
   "paktolus|swe|l1": {
    "expires": "2026-10-21T06:36:25.753929+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -11090,8 +11100,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:15:10.523605+00:00",
-   "looked_up": "2026-10-20T04:01:26+00:00",
+   "expires": "2027-01-15T07:12:25.623592+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -12449,6 +12459,22 @@
    "expires": "2026-10-29T11:44:59.123686+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
+  },
+  "smiths-detection|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T12:53:14.938707+00:00",
+   "looked_up": "2026-10-20T05:01:23+00:00",
+   "max_lpa": 8.1,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/smiths-detection-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "snowrelic|frontend|l1": {
    "expires": "2026-10-22T10:53:36.911645+00:00",
@@ -15454,8 +15480,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2104,
-  "lookups_today": 11,
+  "lookups_month": 2109,
+  "lookups_today": 16,
   "month": "2026-10"
  }
 }
