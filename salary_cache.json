@@ -2321,11 +2321,6 @@
    "status": "found",
    "year": 2026
   },
-  "bookingholdings|data|l2": {
-   "expires": "2026-10-20T22:17:57.176476+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "bookingholdings|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -2537,11 +2532,6 @@
   "bytescare|fullstack|l1": {
    "expires": "2026-11-02T07:03:18.559905+00:00",
    "looked_up": "2026-10-12T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "bytespoke|swe|l1": {
-   "expires": "2026-10-20T22:51:05.992827+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
   "c3-ai-enterprise-ai|swe|l1": {
@@ -2949,8 +2939,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T08:44:50.753271+00:00",
-   "looked_up": "2026-10-20T22:01:27+00:00",
+   "expires": "2027-01-24T09:21:19.887534+00:00",
+   "looked_up": "2026-10-20T23:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4561,11 +4551,6 @@
    "looked_up": "2026-10-13T18:01:29+00:00",
    "status": "not_found"
   },
-  "employlabs|swe|l1": {
-   "expires": "2026-10-20T22:52:46.606579+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "encoreitsolutions|security|l1": {
    "expires": "2026-10-21T15:04:53.463439+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -5336,6 +5321,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "flexipletech|data|l1": {
+   "expires": "2026-10-28T03:36:39.279211+00:00",
+   "looked_up": "2026-10-20T23:01:29+00:00",
+   "status": "not_found"
   },
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
@@ -7911,8 +7901,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:43:24.468977+00:00",
-   "looked_up": "2026-10-20T22:01:27+00:00",
+   "expires": "2027-01-21T11:25:45.143711+00:00",
+   "looked_up": "2026-10-20T23:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -11368,11 +11358,6 @@
   "rankgrids|swe|l1": {
    "expires": "2026-10-25T11:33:06.387361+00:00",
    "looked_up": "2026-10-10T14:01:23+00:00",
-   "status": "not_found"
-  },
-  "rapidbrains|erp|l1": {
-   "expires": "2026-10-20T22:29:38.154175+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "rapsys-technologies|data|l1": {
@@ -15765,8 +15750,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2200,
-  "lookups_today": 107,
+  "lookups_month": 2201,
+  "lookups_today": 108,
   "month": "2026-10"
  }
 }
