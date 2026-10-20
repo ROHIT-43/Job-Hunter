@@ -341,11 +341,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "acira-consultancy|data|l1": {
-   "expires": "2026-10-20T11:41:01.274744+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "ackplus-solutions|swe|l1": {
    "expires": "2026-10-24T09:35:50.568767+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
@@ -2959,8 +2954,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:52:21.781876+00:00",
-   "looked_up": "2026-10-20T11:35:56+00:00",
+   "expires": "2027-01-18T06:40:01.169922+00:00",
+   "looked_up": "2026-10-20T12:01:35+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -9305,6 +9300,11 @@
   "mufg|fullstack|l1": {
    "expires": "2026-11-08T08:25:05.639913+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
+   "status": "not_found"
+  },
+  "multivac-technology-solutions-india-private-limited|erp|l1": {
+   "expires": "2026-11-07T19:44:24.316037+00:00",
+   "looked_up": "2026-10-20T12:01:35+00:00",
    "status": "not_found"
   },
   "mumba-technologies|swe|l1": {
@@ -15664,8 +15664,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2157,
-  "lookups_today": 64,
+  "lookups_month": 2158,
+  "lookups_today": 65,
   "month": "2026-10"
  }
 }
