@@ -2959,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:14:06.135327+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
+   "expires": "2027-01-23T17:57:14.457346+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3237,8 +3237,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T12:17:10.090780+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
+   "expires": "2027-01-15T19:20:05.388646+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -7080,11 +7080,6 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
-  "infobeans|erp|l1": {
-   "expires": "2026-10-20T08:05:08.887712+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "infobeans|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10632,11 +10627,6 @@
    "looked_up": "2026-10-15T00:01:24+00:00",
    "status": "not_found"
   },
-  "prepay-nation|fullstack|l1": {
-   "expires": "2026-10-20T08:34:26.532021+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
   "priceline-com|swe|l1": {
    "expires": "2026-11-02T20:47:15.072541+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
@@ -10740,6 +10730,11 @@
   "prudent-corporate-advisory-services|swe|l1": {
    "expires": "2026-10-30T12:14:35.496252+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "prudent-technologies-and-consulting-inc|swe|l1": {
+   "expires": "2026-11-07T09:22:42.895163+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
    "status": "not_found"
   },
   "pt-global-tiket-network|frontend|l1": {
@@ -11156,8 +11151,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:05:43.785111+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
+   "expires": "2027-01-21T19:14:57.607087+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -13623,6 +13618,11 @@
    "status": "found",
    "year": 2026
   },
+  "techtalentresourcing|swe|l1": {
+   "expires": "2026-10-28T15:12:41.920864+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
+   "status": "not_found"
+  },
   "techtamer-studio|swe|l1": {
    "expires": "2026-10-22T04:26:37.992641+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
@@ -14013,6 +14013,11 @@
   "tjxindia|swe|l2": {
    "expires": "2026-10-29T11:07:25.017339+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "tmusglobalsolutions|fullstack|l1": {
+   "expires": "2026-11-02T18:15:04.770662+00:00",
+   "looked_up": "2026-10-20T09:01:36+00:00",
    "status": "not_found"
   },
   "tns|swe|l1": {
@@ -15537,8 +15542,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2132,
-  "lookups_today": 39,
+  "lookups_month": 2135,
+  "lookups_today": 42,
   "month": "2026-10"
  }
 }
