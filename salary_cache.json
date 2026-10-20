@@ -5,11 +5,6 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
-  "11zaofficial|mobile|l1": {
-   "expires": "2026-10-20T05:55:11.041865+00:00",
-   "looked_up": "2026-10-10T11:01:20+00:00",
-   "status": "not_found"
-  },
   "1onestory|qa|l1": {
    "expires": "2026-10-25T00:47:11.099848+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -350,6 +345,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "acrapath|fullstack|l1": {
+   "expires": "2026-10-31T07:47:23.741622+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
   },
   "acttconnect20|swe|l1": {
    "basis": "posted",
@@ -1003,11 +1003,6 @@
   },
   "amd|swe|l1": {
    "expires": "2026-10-30T04:22:11.335192+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "american-express|devops|l1": {
-   "expires": "2026-10-20T05:44:34.823157+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
@@ -2943,8 +2938,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:13:07.806206+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
+   "expires": "2027-01-17T04:28:53.375318+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3119,11 +3114,6 @@
    "status": "found",
    "year": 2026
   },
-  "cloudbitz-technologies-private-ltd|erp|l1": {
-   "expires": "2026-10-20T05:28:29.077184+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
-   "status": "not_found"
-  },
   "cloudesign|data|l1": {
    "expires": "2026-11-04T21:03:00.267658+00:00",
    "looked_up": "2026-10-17T03:01:23+00:00",
@@ -3216,8 +3206,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T20:45:50.634933+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
+   "expires": "2027-01-12T02:58:51.930496+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3245,6 +3235,11 @@
   "codiansai|frontend|l1": {
    "expires": "2026-10-27T21:59:21.273405+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "coface|swe|l1": {
+   "expires": "2026-11-03T20:41:25.549846+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
   "coffeebeans-brewinginnovations|data|l1": {
@@ -3631,8 +3626,8 @@
    "year": 2026
   },
   "cummins-india|swe|l1": {
-   "expires": "2026-10-20T05:12:34.115282+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
+   "expires": "2026-10-28T23:27:12.741754+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
   "cupid-compusoft|swe|l1": {
@@ -3781,9 +3776,24 @@
    "status": "found",
    "year": 2026
   },
+  "data-eminence|data|l1": {
+   "expires": "2026-10-31T18:33:53.327542+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
+  "data-eminence|devops|l1": {
+   "expires": "2026-11-02T03:42:12.479886+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
   "data-eminence|frontend|l1": {
    "expires": "2026-10-27T12:54:51.219329+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "data-eminence|fullstack|l1": {
+   "expires": "2026-10-28T18:22:47.598674+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
   "data-eminence|mobile|l1": {
@@ -4280,6 +4290,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "duruperbasecamp|frontend|l1": {
+   "expires": "2026-10-30T12:25:57.616374+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
   "dynetic-products-pvt-ltd|swe|l1": {
    "expires": "2026-10-27T14:05:42.439253+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -4523,8 +4538,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T18:12:07.023518+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
+   "expires": "2027-01-22T10:44:12.043756+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6499,8 +6514,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T01:02:29.581618+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
+   "expires": "2027-01-15T01:11:29.334369+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -9412,6 +9427,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "neobium-technologies|fullstack|l1": {
+   "expires": "2026-10-28T18:28:03.831206+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
   "nest-digital-pvt-ltd|swe|l1": {
    "expires": "2026-10-29T00:41:10.950255+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
@@ -10640,6 +10660,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "prodigy-technovations|swe|l1": {
+   "expires": "2026-11-02T15:51:27.216354+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
   "project-44|swe|l1": {
    "expires": "2026-11-07T19:12:38.320359+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
@@ -10726,6 +10751,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "pulp-education|swe|l1": {
+   "expires": "2026-10-29T04:21:35.446826+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
   },
   "purplemerit|frontend|l1": {
    "expires": "2026-10-31T11:16:53.332344+00:00",
@@ -11100,8 +11130,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:12:25.623592+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
+   "expires": "2027-01-20T09:23:03.181533+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -13222,6 +13252,11 @@
    "looked_up": "2026-10-18T09:01:27+00:00",
    "status": "not_found"
   },
+  "talkdesk|mobile|l2": {
+   "expires": "2026-11-05T07:04:23.564084+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
   "tandem-interim|devops|l1": {
    "expires": "2026-10-30T14:45:36.391426+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -13371,6 +13406,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tataelxsi|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T16:47:20.289794+00:00",
+   "looked_up": "2026-10-20T06:00:29+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tata-elxsi-salaries/project-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "teacode-technologies|mobile|l1": {
    "expires": "2026-10-27T00:26:07.105026+00:00",
@@ -13906,11 +13957,6 @@
   "threeacross|swe|l1": {
    "expires": "2026-10-27T12:40:54.796810+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "thyssenkrupp-nucera|erp|l1": {
-   "expires": "2026-10-20T05:36:22.914937+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "tiaa|data|l1": {
@@ -15480,8 +15526,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2109,
-  "lookups_today": 16,
+  "lookups_month": 2121,
+  "lookups_today": 28,
   "month": "2026-10"
  }
 }
