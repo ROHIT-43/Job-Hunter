@@ -475,6 +475,11 @@
    "looked_up": "2026-10-08T22:01:32+00:00",
    "status": "not_found"
   },
+  "adtran|swe|l1": {
+   "expires": "2026-10-29T18:48:14.817275+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
+   "status": "not_found"
+  },
   "advance-techno-systems|swe|l1": {
    "expires": "2026-10-29T21:43:25.723725+00:00",
    "looked_up": "2026-10-15T03:01:34+00:00",
@@ -604,11 +609,6 @@
   "ai-stack-technologies|mobile|l1": {
    "expires": "2026-10-29T11:49:24.187780+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
-   "status": "not_found"
-  },
-  "ai-vidya|swe|l1": {
-   "expires": "2026-10-20T10:10:12.606450+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "ai4process|swe|l1": {
@@ -2964,8 +2964,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T15:55:42.362476+00:00",
-   "looked_up": "2026-10-20T10:01:30+00:00",
+   "expires": "2027-01-21T16:29:49.983609+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3247,8 +3247,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T03:17:29.657670+00:00",
-   "looked_up": "2026-10-20T10:01:30+00:00",
+   "expires": "2027-01-23T08:26:45.958831+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3907,6 +3907,11 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
+  "deehar-solutions-private-limted|swe|l1": {
+   "expires": "2026-11-03T21:41:11.866995+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
+   "status": "not_found"
+  },
   "deepsolv|swe|l1": {
    "expires": "2026-10-30T07:32:12.919842+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -4535,6 +4540,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "emerson|swe|l2": {
+   "expires": "2026-11-04T19:30:01.311513+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
+   "status": "not_found"
   },
   "empenofore-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-26T10:28:49.505928+00:00",
@@ -5588,6 +5598,11 @@
   "general-mills|devops|l1": {
    "expires": "2026-10-25T02:10:26.204301+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "general-tech-works|fullstack|l1": {
+   "expires": "2026-10-31T06:38:40.014171+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
   "generative-futures|swe|l1": {
@@ -6955,11 +6970,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "iff|swe|l1": {
-   "expires": "2026-10-20T10:19:17.438292+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
-   "status": "not_found"
-  },
   "iit-bombay|fullstack|l1": {
    "expires": "2026-10-27T08:58:13.978640+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -7254,6 +7264,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/en-GB/companies/infosys/salaries/software-engineer/locations/chennai-metropolitan-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "infotel|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T05:56:36.858493+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
+   "max_lpa": 7.9,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infotel-salaries/java-full-stack-developer"
     }
    ],
    "status": "found",
@@ -7672,8 +7698,8 @@
    "status": "not_found"
   },
   "jobgether|frontend|l1": {
-   "expires": "2026-10-20T10:42:51.915363+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
+   "expires": "2026-11-04T07:18:15.650008+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
   "jobgether|fullstack|l1": {
@@ -8614,6 +8640,11 @@
   "marrinadecisions|frontend|l1": {
    "expires": "2026-10-24T03:47:43.030188+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "marshglobal|frontend|l1": {
+   "expires": "2026-11-01T03:28:56.152833+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
   "martian-wall|security|l1": {
@@ -11452,11 +11483,6 @@
    "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
-  "redgrape|frontend|l1": {
-   "expires": "2026-10-20T10:52:16.161364+00:00",
-   "looked_up": "2026-10-10T01:01:20+00:00",
-   "status": "not_found"
-  },
   "redswanlabs|frontend|l1": {
    "expires": "2026-10-26T16:12:39.698393+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -12300,6 +12326,11 @@
   "sharqgulf|swe|l1": {
    "expires": "2026-10-22T06:53:49.532530+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "shishya-beml-public-school|fullstack|l1": {
+   "expires": "2026-11-04T08:43:58.066130+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
   "shoppers-stop|swe|l1": {
@@ -13196,6 +13227,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "synmatch-ai|mobile|l1": {
+   "expires": "2026-11-05T04:31:45.929168+00:00",
+   "looked_up": "2026-10-20T11:01:36+00:00",
+   "status": "not_found"
   },
   "syntel-private-limited|swe|l1": {
    "basis": "ctc",
@@ -15638,8 +15674,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2147,
-  "lookups_today": 54,
+  "lookups_month": 2156,
+  "lookups_today": 63,
   "month": "2026-10"
  }
 }
