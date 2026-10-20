@@ -1449,6 +1449,11 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
+  "arcticwolf|swe|l2": {
+   "expires": "2026-11-02T02:13:10.836654+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
+   "status": "not_found"
+  },
   "ares-management|fullstack|l1": {
    "expires": "2026-10-22T02:51:34.816899+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
@@ -2954,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T06:40:01.169922+00:00",
-   "looked_up": "2026-10-20T12:01:35+00:00",
+   "expires": "2027-01-21T04:33:59.512149+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3772,11 +3777,6 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
-  "d2n-solutions|data|l1": {
-   "expires": "2026-10-20T12:02:30.630059+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
-   "status": "not_found"
-  },
   "daily-code-solutions|swe|l1": {
    "expires": "2026-10-23T23:15:03.385594+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -3900,6 +3900,11 @@
   "deehar-solutions-private-limted|swe|l1": {
    "expires": "2026-11-03T21:41:11.866995+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
+   "status": "not_found"
+  },
+  "deep-bi|swe|l1": {
+   "expires": "2026-11-01T01:29:24.642164+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
   "deepsolv|swe|l1": {
@@ -5066,6 +5071,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "fedex|fullstack|l1": {
+   "expires": "2026-11-01T04:27:05.305275+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
+   "status": "not_found"
   },
   "fedstack|swe|l1": {
    "expires": "2026-10-23T20:47:34.534847+00:00",
@@ -7116,11 +7126,6 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
-  "infomatics-services-pvt.-ltd.|swe|l1": {
-   "expires": "2026-10-20T12:41:30.162743+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "information-services-group|devops|l1": {
    "expires": "2026-10-31T21:28:30.564240+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -8398,6 +8403,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "lorventech|data|l1": {
+   "expires": "2026-11-03T18:32:09.053406+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
+   "status": "not_found"
   },
   "lorventech|swe|l1": {
    "basis": "base",
@@ -10164,6 +10174,11 @@
   "optumindia|data|l1": {
    "expires": "2026-11-02T07:14:16.688218+00:00",
    "looked_up": "2026-10-20T04:01:26+00:00",
+   "status": "not_found"
+  },
+  "opviain|data|l1": {
+   "expires": "2026-11-08T16:05:19.111232+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
   "oracle|devops|l2": {
@@ -13008,6 +13023,11 @@
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
+  "suffescom|erp|l1": {
+   "expires": "2026-10-30T10:54:25.368253+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
+   "status": "not_found"
+  },
   "sugar-rush-agency|frontend|l1": {
    "expires": "2026-10-21T18:46:57.326490+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -15506,6 +15526,11 @@
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
+  "zenarahealth|devops|l1": {
+   "expires": "2026-11-06T18:42:47.616228+00:00",
+   "looked_up": "2026-10-20T13:01:28+00:00",
+   "status": "not_found"
+  },
   "zendesk|swe|l2": {
    "expires": "2026-11-05T22:53:58.295570+00:00",
    "looked_up": "2026-10-19T23:01:26+00:00",
@@ -15664,8 +15689,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2158,
-  "lookups_today": 65,
+  "lookups_month": 2165,
+  "lookups_today": 72,
   "month": "2026-10"
  }
 }
