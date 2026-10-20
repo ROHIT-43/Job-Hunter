@@ -209,11 +209,6 @@
    ],
    "status": "found"
   },
-  "accel-digtial-ad-operations|data|l1": {
-   "expires": "2026-10-20T13:50:02.116664+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
-   "status": "not_found"
-  },
   "accelya|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -380,6 +375,11 @@
     }
    ],
    "status": "found"
+  },
+  "acuityanalytics|data|l1": {
+   "expires": "2026-10-30T08:39:19.331446+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
+   "status": "not_found"
   },
   "acumenglobal-in|fullstack|l1": {
    "expires": "2026-10-26T07:43:55.061181+00:00",
@@ -740,6 +740,11 @@
   "albemarlecorp|devops|l1": {
    "expires": "2026-11-05T07:20:12.071169+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
+   "status": "not_found"
+  },
+  "albertsons-companies-india|swe|l1": {
+   "expires": "2026-11-03T02:13:10.281793+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
    "status": "not_found"
   },
   "algoleap|data|l1": {
@@ -2959,8 +2964,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:33:59.512149+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
+   "expires": "2027-01-23T10:43:52.939975+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3785,6 +3790,11 @@
   "dariohealth|erp|l1": {
    "expires": "2026-10-26T03:56:23.016565+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "dart-browser|swe|l1": {
+   "expires": "2026-11-07T07:14:42.139746+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
    "status": "not_found"
   },
   "dassaultsystemes|swe|l1": {
@@ -5052,6 +5062,11 @@
    "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
+  "fedex-global-capability-services-–-hyderabad|fullstack|l1": {
+   "expires": "2026-11-05T18:54:12.893880+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
+   "status": "not_found"
+  },
   "fedex-global-capability-services-–-hyderabad|fullstack|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -5426,6 +5441,11 @@
   "fortive|security|l1": {
    "expires": "2026-10-31T18:54:49.034872+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
+  "foundever|security|l1": {
+   "expires": "2026-10-30T09:28:42.013020+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
    "status": "not_found"
   },
   "foundit-jobs|swe|l1": {
@@ -9925,11 +9945,6 @@
    "looked_up": "2026-10-14T03:01:31+00:00",
    "status": "not_found"
   },
-  "nuview-treatment|frontend|l1": {
-   "expires": "2026-10-20T13:21:43.705880+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
-   "status": "not_found"
-  },
   "nuvo-aeon-diamond-jewellery-pvt-ltd|swe|l1": {
    "expires": "2026-10-26T19:40:16.467464+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -11323,11 +11338,6 @@
   "rarecv|frontend|l1": {
    "expires": "2026-11-05T19:07:02.008744+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
-  "razorpay|devops|l1": {
-   "expires": "2026-10-20T13:16:57.199121+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
   "razorpay|frontend|l1": {
@@ -15571,6 +15581,26 @@
    "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
+  "zensar|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T03:54:10.575881+00:00",
+   "looked_up": "2026-10-20T14:01:32+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/zensar-technologies-salaries/dot-net-developer/pune-location"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/4ba7eaeb/Zensar-Early-Career"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zensar|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15689,8 +15719,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2165,
-  "lookups_today": 72,
+  "lookups_month": 2171,
+  "lookups_today": 78,
   "month": "2026-10"
  }
 }
