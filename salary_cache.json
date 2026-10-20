@@ -2073,11 +2073,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "beroe-inc|swe|l1": {
-   "expires": "2026-10-20T11:13:23.069491+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
-   "status": "not_found"
-  },
   "bestex-research-group|data|l1": {
    "expires": "2026-10-25T18:02:50.150081+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -2964,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T16:29:49.983609+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
+   "expires": "2027-01-14T15:52:21.781876+00:00",
+   "looked_up": "2026-10-20T11:35:56+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4065,8 +4060,8 @@
    "status": "not_found"
   },
   "designbrandshark|swe|l1": {
-   "expires": "2026-10-20T11:24:35.494672+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
+   "expires": "2026-11-01T14:50:13.633390+00:00",
+   "looked_up": "2026-10-20T11:35:56+00:00",
    "status": "not_found"
   },
   "deutsche-bank|devops|l1": {
@@ -7103,11 +7098,6 @@
   "inflexion-technology-solutions|erp|l1": {
    "expires": "2026-11-01T07:46:01.117118+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "infobeans|data|l1": {
-   "expires": "2026-10-20T11:01:53.584256+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "infobeans|swe|l1": {
@@ -15674,8 +15664,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2156,
-  "lookups_today": 63,
+  "lookups_month": 2157,
+  "lookups_today": 64,
   "month": "2026-10"
  }
 }
