@@ -179,11 +179,6 @@
    "looked_up": "2026-10-16T00:01:34+00:00",
    "status": "not_found"
   },
-  "academydesk|swe|l1": {
-   "expires": "2026-10-20T02:47:46.195741+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
-   "status": "not_found"
-  },
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -632,11 +627,6 @@
   },
   "air-arabia|mobile|l1": {
    "expires": "2026-10-21T13:12:34.911627+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "air-arabia|swe|l1": {
-   "expires": "2026-10-20T02:30:39.725543+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
@@ -2940,6 +2930,20 @@
    "status": "found",
    "year": 2026
   },
+  "cgtsolutions|security|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-22T01:42:15.119566+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 25.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "chatsparkk|swe|l1": {
    "expires": "2026-10-30T23:35:18.382292+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -3202,8 +3206,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T00:46:12.504330+00:00",
-   "looked_up": "2026-10-20T02:01:21+00:00",
+   "expires": "2027-01-12T08:09:38.379941+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4514,8 +4518,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T02:24:01.323717+00:00",
-   "looked_up": "2026-10-20T02:01:21+00:00",
+   "expires": "2027-01-13T22:30:50.999830+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4779,11 +4783,6 @@
   "evolent|devops|l1": {
    "expires": "2026-10-25T20:50:59.020392+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
-  "exillar|data|l1": {
-   "expires": "2026-10-20T02:17:01.728215+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
   "exillar|devops|l1": {
@@ -6500,8 +6499,8 @@
   "hookebike|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T06:07:00.925069+00:00",
-   "looked_up": "2026-10-20T02:01:21+00:00",
+   "expires": "2027-01-18T01:49:25.446718+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -10044,6 +10043,11 @@
    "status": "found",
    "year": 2026
   },
+  "opsarmycareers|erp|l1": {
+   "expires": "2026-11-06T02:18:11.931693+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
+   "status": "not_found"
+  },
   "optiminastic|fullstack|l1": {
    "expires": "2026-10-24T22:09:50.655015+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -11086,8 +11090,8 @@
   "quickdropdelivery|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T21:05:40.458035+00:00",
-   "looked_up": "2026-10-20T02:01:21+00:00",
+   "expires": "2027-01-17T07:12:27.412806+00:00",
+   "looked_up": "2026-10-20T03:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15445,8 +15449,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2101,
-  "lookups_today": 8,
+  "lookups_month": 2102,
+  "lookups_today": 9,
   "month": "2026-10"
  }
 }
