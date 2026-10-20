@@ -2959,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T03:29:33.503250+00:00",
-   "looked_up": "2026-10-20T20:34:45+00:00",
+   "expires": "2027-01-23T04:37:17.601288+00:00",
+   "looked_up": "2026-10-20T21:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4996,6 +4996,11 @@
   "expert-listing|swe|l1": {
    "expires": "2026-10-27T11:02:20.602756+00:00",
    "looked_up": "2026-10-15T02:01:29+00:00",
+   "status": "not_found"
+  },
+  "expinator-web-technology|fullstack|l1": {
+   "expires": "2026-11-04T01:53:47.675238+00:00",
+   "looked_up": "2026-10-20T21:01:27+00:00",
    "status": "not_found"
   },
   "ezdata-advisory|data|l1": {
@@ -7917,6 +7922,20 @@
    "expires": "2026-10-28T13:21:44.158004+00:00",
    "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
+  },
+  "jumbooconsulting|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T14:12:35.049308+00:00",
+   "looked_up": "2026-10-20T21:01:27+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "juspay-technologies|frontend|l1": {
    "basis": "ctc",
@@ -14775,11 +14794,6 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
-  "versich|swe|l1": {
-   "expires": "2026-10-20T20:46:06.917290+00:00",
-   "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
   "versoaltimaindia|erp|l1": {
    "expires": "2026-10-25T15:09:05.419028+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -15766,8 +15780,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2197,
-  "lookups_today": 104,
+  "lookups_month": 2198,
+  "lookups_today": 105,
   "month": "2026-10"
  }
 }
