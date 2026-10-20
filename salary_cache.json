@@ -2959,8 +2959,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:32:40.161195+00:00",
-   "looked_up": "2026-10-20T17:15:12+00:00",
+   "expires": "2027-01-14T13:01:22.691156+00:00",
+   "looked_up": "2026-10-20T18:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4953,11 +4953,6 @@
    "status": "found",
    "year": 2026
   },
-  "expediagroup|security|l1": {
-   "expires": "2026-10-20T17:25:16.375101+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
-   "status": "not_found"
-  },
   "expediagroup|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -5239,6 +5234,11 @@
   "firstpick-talent|swe|l1": {
    "expires": "2026-10-26T18:19:07.620774+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "fis|devops|l1": {
+   "expires": "2026-11-01T09:28:30.818987+00:00",
+   "looked_up": "2026-10-20T18:01:29+00:00",
    "status": "not_found"
   },
   "fis|erp|l1": {
@@ -11791,6 +11791,11 @@
    "looked_up": "2026-10-18T05:01:24+00:00",
    "status": "not_found"
   },
+  "rsm-us-llp|swe|l1": {
+   "expires": "2026-10-30T14:57:17.828185+00:00",
+   "looked_up": "2026-10-20T18:01:29+00:00",
+   "status": "not_found"
+  },
   "rubrik-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -13002,11 +13007,6 @@
   "stepsinfotech|data|l1": {
    "expires": "2026-10-30T04:26:07.282799+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "stradaglobal|erp|l1": {
-   "expires": "2026-10-20T17:47:21.233807+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
   "stranbysinfosolutions|mobile|l1": {
@@ -15715,8 +15715,8 @@
  },
  "meta": {
   "day": "2026-10-20",
-  "lookups_month": 2184,
-  "lookups_today": 91,
+  "lookups_month": 2186,
+  "lookups_today": 93,
   "month": "2026-10"
  }
 }
