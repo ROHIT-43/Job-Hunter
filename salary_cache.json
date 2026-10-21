@@ -848,6 +848,11 @@
    "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
+  "alphabin|swe|l1": {
+   "expires": "2026-10-28T14:23:17.316554+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "alphacom-systems-and-solutions-private-limited|swe|l1": {
    "expires": "2026-10-22T07:26:56.268135+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -1334,6 +1339,11 @@
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
+  "aptita-talent-experts|swe|l1": {
+   "expires": "2026-10-28T23:48:40.353821+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "aptiv|data|l1": {
    "expires": "2026-10-25T04:47:49.434489+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -1517,6 +1527,11 @@
   "artechllc|swe|l1": {
    "expires": "2026-10-29T21:35:19.283977+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
+  "artefact-global|erp|l1": {
+   "expires": "2026-11-01T23:12:17.822508+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "arteria_2|mobile|l1": {
@@ -2689,6 +2704,11 @@
    "status": "found",
    "year": 2025
   },
+  "cardoneventures|fullstack|l1": {
+   "expires": "2026-11-10T05:54:44.260876+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "careerxperts-consulting|data|l1": {
    "expires": "2026-11-05T15:52:56.394582+00:00",
    "looked_up": "2026-10-21T03:02:05+00:00",
@@ -3149,6 +3169,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cloud-raptor|erp|l1": {
+   "expires": "2026-11-08T02:20:34.158177+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
   },
   "cloudesign|data|l1": {
    "expires": "2026-11-04T21:03:00.267658+00:00",
@@ -3760,6 +3785,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "cyient|data|l1": {
+   "expires": "2026-10-28T16:01:19.004314+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "cyient|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4360,6 +4390,20 @@
    "expires": "2026-10-31T18:44:26.430722+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
+  },
+  "dunnhumby|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-17T13:34:15.484915+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "duobridge-learning-institute|data|l1": {
    "expires": "2026-10-23T17:20:01.027567+00:00",
@@ -5188,11 +5232,6 @@
   "finnable-credit-pvt-ltd|security|l1": {
    "expires": "2026-10-28T01:40:28.256651+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
-   "status": "not_found"
-  },
-  "fireblaze-ai-school|fullstack|l1": {
-   "expires": "2026-10-21T05:44:24.510656+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
    "status": "not_found"
   },
   "firestorm-internet|swe|l1": {
@@ -7822,6 +7861,11 @@
    "looked_up": "2026-10-14T03:01:31+00:00",
    "status": "not_found"
   },
+  "joinsaarthi|erp|l1": {
+   "expires": "2026-11-08T05:37:31.017852+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "jpmorganchase|data|l3": {
    "expires": "2026-10-26T05:42:10.654122+00:00",
    "looked_up": "2026-10-13T03:01:28+00:00",
@@ -7946,8 +7990,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T06:06:48.983926+00:00",
-   "looked_up": "2026-10-21T05:01:26+00:00",
+   "expires": "2027-01-22T18:00:44.325837+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -9498,11 +9542,6 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
-  "nazztec|swe|l1": {
-   "expires": "2026-10-21T05:21:35.297292+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "ncratleos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9846,6 +9885,11 @@
     }
    ],
    "status": "found"
+  },
+  "nividence|swe|l1": {
+   "expires": "2026-10-28T15:32:21.344533+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
   },
   "nkcindia|swe|l1": {
    "expires": "2026-10-22T05:38:37.155075+00:00",
@@ -11946,6 +11990,11 @@
    ],
    "status": "found"
   },
+  "ryewalk|swe|l1": {
+   "expires": "2026-11-02T22:35:49.390512+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
   "rymo-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-25T07:00:15.039908+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -12320,6 +12369,20 @@
    "looked_up": "2026-10-18T16:01:26+00:00",
    "status": "not_found"
   },
+  "searchboxed|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T18:17:17.561188+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "seceon|swe|l1": {
    "expires": "2026-11-02T17:19:03.265372+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -12442,6 +12505,16 @@
   "shridhi-softwares|fullstack|l1": {
    "expires": "2026-10-27T15:33:13.191908+00:00",
    "looked_up": "2026-10-20T02:01:21+00:00",
+   "status": "not_found"
+  },
+  "shriramgeneralinsurance|devops|l1": {
+   "expires": "2026-11-05T00:21:24.702584+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "shriramgeneralinsurance|frontend|l1": {
+   "expires": "2026-11-09T20:21:00.138339+00:00",
+   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "shriramgeneralinsurance|mobile|l1": {
@@ -15781,8 +15854,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2215,
-  "lookups_today": 14,
+  "lookups_month": 2226,
+  "lookups_today": 25,
   "month": "2026-10"
  }
 }
