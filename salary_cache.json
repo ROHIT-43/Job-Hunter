@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T22:18:25.442362+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-23T13:15:51.924217+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1168,11 +1168,6 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
-  "amunra|swe|l1": {
-   "expires": "2026-10-21T15:13:06.747985+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "anewswire|fullstack|l1": {
    "expires": "2026-10-26T04:58:47.131514+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -1202,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T04:34:46.015630+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-12T17:42:52.327282+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1880,11 +1875,6 @@
    "status": "found",
    "year": 2026
   },
-  "aveva|swe|l2": {
-   "expires": "2026-10-21T15:12:41.356496+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "aviocian-technologies|swe|l1": {
    "expires": "2026-11-05T12:20:29.976034+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
@@ -2496,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:45:16.240057+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-24T17:12:53.204648+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4619,8 +4609,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T08:56:48.769088+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-16T05:15:48.733712+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4853,11 +4843,6 @@
   "employia|swe|l1": {
    "expires": "2026-10-28T23:56:58.566361+00:00",
    "looked_up": "2026-10-13T18:01:29+00:00",
-   "status": "not_found"
-  },
-  "encoreitsolutions|security|l1": {
-   "expires": "2026-10-21T15:04:53.463439+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "energyeta|swe|l1": {
@@ -6053,11 +6038,6 @@
    "status": "found",
    "year": 2026
   },
-  "gitforce|frontend|l1": {
-   "expires": "2026-10-21T15:03:56.953008+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
-   "status": "not_found"
-  },
   "gitforce|swe|l1": {
    "expires": "2026-10-28T21:36:32.096697+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -6855,8 +6835,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T23:45:41.642225+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-25T07:24:48.467236+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7850,8 +7830,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T03:40:37.203706+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-17T09:22:07.293031+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8355,8 +8335,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:39:47.288667+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-21T15:15:36.481565+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -12470,8 +12450,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:08:20.673319+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-21T05:44:12.270840+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12958,8 +12938,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T20:25:56.961499+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2027-01-24T21:16:08.508129+00:00",
+   "looked_up": "2026-10-21T15:19:04+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
