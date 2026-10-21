@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:01:43.601542+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-22T22:23:55.871681+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T00:41:15.695815+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-15T07:19:21.146946+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2486,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T00:45:16.251402+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-25T22:28:38.062167+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2496,11 +2496,6 @@
     }
    ],
    "status": "found"
-  },
-  "brahmaverse-ai|swe|l1": {
-   "expires": "2026-10-21T20:59:25.803401+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
   },
   "brainstorm-force|devops|l1": {
    "expires": "2026-11-06T23:10:27.935061+00:00",
@@ -2682,6 +2677,11 @@
   "bytescare|fullstack|l1": {
    "expires": "2026-11-02T07:03:18.559905+00:00",
    "looked_up": "2026-10-12T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "bytize|swe|l1": {
+   "expires": "2026-11-11T19:38:11.418603+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
   "c3-ai-enterprise-ai|swe|l1": {
@@ -3106,6 +3106,31 @@
     {
      "title": "in.indeed.com",
      "uri": "https://in.indeed.com/cmp/CGI/salaries/Data+Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "cgi|erp|l1": {
+   "expires": "2026-11-01T13:42:29.422373+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
+   "status": "not_found"
+  },
+  "cgi|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T11:30:34.664917+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
+   "max_lpa": 10.2,
+   "min_lpa": 4.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cgi-group-salaries/java-full-stack-developer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/CGI/salaries/Full-Stack-Developer"
     }
    ],
    "status": "found",
@@ -4623,6 +4648,11 @@
    "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
+  "dover-solutions-india|swe|l1": {
+   "expires": "2026-11-03T14:16:10.991315+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
+   "status": "not_found"
+  },
   "dow-chemical|frontend|l1": {
    "expires": "2026-10-31T09:42:00.187151+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -4651,8 +4681,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T14:18:01.729953+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-13T20:28:38.616613+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6002,11 +6032,6 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
-  "geoserve-maritime|fullstack|l1": {
-   "expires": "2026-10-21T20:56:06.518018+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
-  },
   "getathletiq|mobile|l1": {
    "expires": "2026-10-23T05:24:35.635239+00:00",
    "looked_up": "2026-10-06T11:01:39+00:00",
@@ -6882,8 +6907,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T07:35:28.162958+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-14T03:51:52.295464+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7882,8 +7907,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:32:31.669238+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-22T05:44:32.180021+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8918,6 +8943,11 @@
   "liquidity-services-inc|swe|l1": {
    "expires": "2026-11-02T06:23:42.905084+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
+  "little-feet-baby-care-tracker|fullstack|l1": {
+   "expires": "2026-11-08T05:19:56.710809+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
   "localbutcher|swe|l1": {
@@ -11451,8 +11481,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T01:35:38.582847+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-13T07:28:40.134148+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12541,8 +12571,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:54:40.917681+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-24T02:36:33.190876+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12692,6 +12722,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sabre-corporation|swe|l2": {
+   "expires": "2026-11-11T13:57:48.535152+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
+   "status": "not_found"
   },
   "sage-software|swe|l1": {
    "basis": "ctc",
@@ -13039,8 +13074,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:46:39.032451+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
+   "expires": "2027-01-13T23:04:53.261734+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -15865,6 +15900,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "vision-media-india|fullstack|l1": {
+   "expires": "2026-11-11T08:09:57.864340+00:00",
+   "looked_up": "2026-10-21T21:01:29+00:00",
+   "status": "not_found"
+  },
   "vision30schoolplus|mobile|l1": {
    "expires": "2026-10-23T00:23:19.107939+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
@@ -16657,11 +16697,6 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
-  "zephico|fullstack|l1": {
-   "expires": "2026-10-21T20:47:18.471360+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "zettamine-labs|erp|l1": {
    "expires": "2026-10-26T02:03:26.853753+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
@@ -16746,8 +16781,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2365,
-  "lookups_today": 164,
+  "lookups_month": 2372,
+  "lookups_today": 171,
   "month": "2026-10"
  }
 }
