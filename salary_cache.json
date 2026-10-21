@@ -3877,6 +3877,16 @@
    "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
+  "datapoint-info-solutions-p-ltd|swe|l1": {
+   "expires": "2026-11-02T14:49:54.819275+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
+  },
+  "dayal-opticals-india-pvt-ltd|swe|l1": {
+   "expires": "2026-10-29T06:31:37.976089+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
+  },
   "dazn-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3896,6 +3906,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "dazn|devops|l1": {
+   "expires": "2026-11-01T17:32:57.768140+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
   },
   "dazn|swe|l1": {
    "expires": "2026-11-05T01:13:45.951841+00:00",
@@ -5372,11 +5387,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "flowserve|swe|l1": {
-   "expires": "2026-10-21T04:56:29.173773+00:00",
-   "looked_up": "2026-10-09T19:01:24+00:00",
-   "status": "not_found"
   },
   "flsmidth|swe|l1": {
    "expires": "2026-10-27T22:48:05.903040+00:00",
@@ -7936,8 +7946,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T14:35:34.386552+00:00",
-   "looked_up": "2026-10-21T04:46:20+00:00",
+   "expires": "2027-01-14T06:06:48.983926+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8342,6 +8352,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "lilac-infotech|mobile|l1": {
+   "expires": "2026-11-05T00:10:33.752815+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
   },
   "linde-india-ltd|data|l1": {
    "expires": "2026-10-29T10:17:52.093055+00:00",
@@ -8917,6 +8932,22 @@
    "expires": "2026-10-30T16:44:41.948871+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
+  },
+  "mcafeeenterprise|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T08:30:42.148310+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "max_lpa": 14.3,
+   "min_lpa": 14.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/trellix/salaries/software-engineer.md"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "mccainfoods|security|l1": {
    "basis": "base",
@@ -13074,6 +13105,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "straive_|data|l1": {
+   "expires": "2026-11-07T13:17:33.255401+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
+  },
   "stranbysinfosolutions|mobile|l1": {
    "expires": "2026-11-08T13:06:36.263958+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
@@ -14035,11 +14071,6 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
-  "themesoft-inc.|data|l1": {
-   "expires": "2026-10-21T04:53:27.887077+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "thermo-fisher-scientific|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -14107,6 +14138,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "thinkinnov-solution-technologies-private-limited|swe|l1": {
+   "expires": "2026-11-05T08:01:14.539770+00:00",
+   "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
   },
   "thinkwise-consulting-llp|data|l1": {
    "expires": "2026-10-22T03:24:39.526850+00:00",
@@ -15745,8 +15781,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2208,
-  "lookups_today": 7,
+  "lookups_month": 2215,
+  "lookups_today": 14,
   "month": "2026-10"
  }
 }
