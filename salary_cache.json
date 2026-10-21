@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:37:17.684483+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-17T22:18:25.442362+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:41:04.489919+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-13T04:34:46.015630+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1809,6 +1809,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "aurnex-group|swe|l1": {
+   "expires": "2026-10-29T21:02:17.452578+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "status": "not_found"
+  },
   "auronix-tech|swe|l1": {
    "expires": "2026-10-31T18:59:55.912798+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
@@ -2116,6 +2121,26 @@
    "max_lpa": 6.4,
    "min_lpa": 4.0,
    "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/baryons-software-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
+  "baryons-software-solutions-pvt-ltd|swe|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-16T10:14:41.175796+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/baryons-software-solutions-salaries/senior-soft-engineer"
+    },
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/baryons-software-solutions-salaries"
@@ -2471,8 +2496,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:18:33.905840+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-19T20:45:16.240057+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3940,6 +3965,26 @@
    "status": "found",
    "year": 2026
   },
+  "cyber-infrastructure|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-14T20:51:52.051631+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Cyber-Infrastructure/salaries"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Cis/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cyber1armorofficial|fullstack|l1": {
    "expires": "2026-10-24T14:54:11.689912+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -4574,8 +4619,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:07:23.855377+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-22T08:56:48.769088+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6810,8 +6855,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T01:20:10.714463+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-15T23:45:41.642225+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7802,6 +7847,20 @@
    "looked_up": "2026-10-20T00:01:32+00:00",
    "status": "not_found"
   },
+  "intellimeet|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-17T03:40:37.203706+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "intelliowl|erp|l1": {
    "expires": "2026-11-04T07:32:26.820703+00:00",
    "looked_up": "2026-10-17T09:01:22+00:00",
@@ -8296,8 +8355,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T17:54:36.753381+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-26T01:39:47.288667+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8985,6 +9044,11 @@
    "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
+  "lunatechnologiespvtltd|swe|l1": {
+   "expires": "2026-11-02T09:56:17.895306+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "status": "not_found"
+  },
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -9440,6 +9504,11 @@
   "medpace|swe|l1": {
    "expires": "2026-10-25T22:29:40.658662+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "medtronic|devops|l1": {
+   "expires": "2026-11-01T20:32:12.274570+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "status": "not_found"
   },
   "meenakshi-sundararajan-group-of-institutions|swe|l1": {
@@ -12398,16 +12467,11 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
-  "rohde-schwarz|swe|l1": {
-   "expires": "2026-10-21T14:06:11.816294+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
-  },
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T00:19:04.240881+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-24T04:08:20.673319+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12894,8 +12958,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:58:10.468685+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
+   "expires": "2027-01-25T20:25:56.961499+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -15342,6 +15406,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "ustglobal|devops|l1": {
+   "expires": "2026-10-30T20:54:40.168009+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "status": "not_found"
+  },
   "ustglobal|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16048,6 +16117,11 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
+  "winapps.co.in|swe|l1": {
+   "expires": "2026-10-30T01:52:58.352082+00:00",
+   "looked_up": "2026-10-21T15:01:33+00:00",
+   "status": "not_found"
+  },
   "winggo-soft|mobile|l1": {
    "expires": "2026-10-29T06:27:55.845850+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
@@ -16571,8 +16645,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2328,
-  "lookups_today": 127,
+  "lookups_month": 2335,
+  "lookups_today": 134,
   "month": "2026-10"
  }
 }
