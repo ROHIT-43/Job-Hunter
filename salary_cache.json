@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:57:25.786313+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-12T21:39:27.190341+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T21:54:27.744569+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-14T10:33:18.710885+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2330,11 +2330,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "blitzquickcommerce|frontend|l2": {
-   "expires": "2026-10-21T18:16:58.313961+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "blitzquickcommerce|swe|l2": {
    "expires": "2026-10-29T22:05:55.856164+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -2491,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:39:40.584343+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-25T14:43:55.210703+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2946,6 +2941,22 @@
    "expires": "2026-10-25T11:09:48.971501+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
+  },
+  "cashfree|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T12:45:53.652946+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "max_lpa": 23.6,
+   "min_lpa": 23.6,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/hi-in/companies/cashfree/salaries/software-engineer/levels/sde-1/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "cashfree|swe|l2": {
    "basis": "base",
@@ -4640,8 +4651,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:55:42.336588+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-14T18:21:22.016412+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6871,8 +6882,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:28:42.801288+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-16T01:52:11.204785+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7871,8 +7882,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:11:46.915460+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-14T23:29:13.890114+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8376,8 +8387,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T08:21:23.245284+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-23T21:03:37.392188+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8904,6 +8915,11 @@
    "looked_up": "2026-10-21T08:01:34+00:00",
    "status": "not_found"
   },
+  "liquidity-services-inc|swe|l1": {
+   "expires": "2026-11-02T06:23:42.905084+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
   "localbutcher|swe|l1": {
    "expires": "2026-10-31T08:54:23.790855+00:00",
    "looked_up": "2026-10-10T19:01:20+00:00",
@@ -9238,9 +9254,19 @@
    "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
+  "marslytics|data|l1": {
+   "expires": "2026-11-09T01:15:37.367869+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
   "martian-wall|security|l1": {
    "expires": "2026-10-25T08:17:07.506140+00:00",
    "looked_up": "2026-10-09T22:01:25+00:00",
+   "status": "not_found"
+  },
+  "marvell|security|l1": {
+   "expires": "2026-11-04T17:45:57.641122+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
   "masco-home-products-private-limited|data|l1": {
@@ -10282,11 +10308,6 @@
   "nexucon-consultancy-services-pvt-ltd|erp|l1": {
    "expires": "2026-10-30T01:38:34.712399+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "nexus-aidc-inc|devops|l3": {
-   "expires": "2026-10-21T18:35:51.836962+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
   "nielseniq|swe|l1": {
@@ -11430,8 +11451,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:26:10.488466+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-21T05:50:37.465770+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12015,6 +12036,11 @@
    "looked_up": "2026-10-17T17:01:26+00:00",
    "status": "not_found"
   },
+  "radancy|frontend|l1": {
+   "expires": "2026-11-07T15:32:52.902688+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
   "radiometer-medical|swe|l1": {
    "expires": "2026-10-29T12:08:09.494534+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -12510,8 +12536,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T19:19:01.972261+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-20T10:50:16.525745+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12879,6 +12905,11 @@
    "status": "found",
    "year": 2021
   },
+  "sauce-labs|swe|l1": {
+   "expires": "2026-11-04T10:16:40.010202+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
   "saxo-bank|devops|l1": {
    "expires": "2026-11-08T11:34:12.828566+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
@@ -13003,8 +13034,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T19:17:01.707942+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
+   "expires": "2027-01-16T17:52:23.131833+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13885,11 +13916,6 @@
    "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
-  "sugar-rush-agency|frontend|l1": {
-   "expires": "2026-10-21T18:46:57.326490+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "sulzer|erp|l1": {
    "expires": "2026-10-30T18:39:18.661677+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -14007,11 +14033,6 @@
   "switsdigital|erp|l1": {
    "expires": "2026-10-31T07:39:34.335299+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "switsdigital|frontend|l1": {
-   "expires": "2026-10-21T18:25:28.471894+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "switsdigital|swe|l1": {
@@ -14524,6 +14545,11 @@
   "technix-acs-pvt-ltd-|swe|l1": {
    "expires": "2026-10-28T09:21:40.964148+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "technonex-software-development-partner-for-healthcare-saas-leaders|swe|l1": {
+   "expires": "2026-11-04T10:49:16.751371+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
   "technosthan|fullstack|l1": {
@@ -15440,6 +15466,11 @@
     }
    ],
    "status": "found"
+  },
+  "us-tech-solutions|erp|l1": {
+   "expires": "2026-10-31T17:44:35.705688+00:00",
+   "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
   },
   "usdcllc|swe|l1": {
    "basis": "posted",
@@ -16720,8 +16751,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2355,
-  "lookups_today": 154,
+  "lookups_month": 2363,
+  "lookups_today": 162,
   "month": "2026-10"
  }
 }
