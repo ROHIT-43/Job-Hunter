@@ -2684,6 +2684,16 @@
    "status": "found",
    "year": 2025
   },
+  "careerxperts-consulting|data|l1": {
+   "expires": "2026-11-05T15:52:56.394582+00:00",
+   "looked_up": "2026-10-21T03:02:05+00:00",
+   "status": "not_found"
+  },
+  "careerxperts-consulting|devops|l2": {
+   "expires": "2026-10-30T02:10:42.748464+00:00",
+   "looked_up": "2026-10-21T03:02:05+00:00",
+   "status": "not_found"
+  },
   "carelon-global-solutions-in|data|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -7911,8 +7921,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T10:36:33.378191+00:00",
-   "looked_up": "2026-10-21T02:01:24+00:00",
+   "expires": "2027-01-17T19:33:13.923819+00:00",
+   "looked_up": "2026-10-21T03:02:05+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -12068,11 +12078,6 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
-  "sandisk|swe|l2": {
-   "expires": "2026-10-21T02:03:16.507830+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
-  },
   "sanjana-technologies|swe|l1": {
    "expires": "2026-10-23T06:41:00.424846+00:00",
    "looked_up": "2026-10-14T18:01:38+00:00",
@@ -12791,6 +12796,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "softwarepac|swe|l1": {
+   "expires": "2026-11-09T03:06:54.535025+00:00",
+   "looked_up": "2026-10-21T03:02:05+00:00",
+   "status": "not_found"
   },
   "sofvare|swe|l1": {
    "expires": "2026-10-26T18:45:24.191681+00:00",
@@ -15740,8 +15750,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2202,
-  "lookups_today": 1,
+  "lookups_month": 2205,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
