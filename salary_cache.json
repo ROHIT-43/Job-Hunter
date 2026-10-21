@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T13:15:51.924217+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-23T20:52:53.118453+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1197,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T17:42:52.327282+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-21T11:41:16.918453+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2486,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T17:12:53.204648+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-25T19:30:28.932831+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3139,6 +3139,22 @@
    "expires": "2026-11-02T06:46:12.138718+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
+  },
+  "ciklumindia|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-20T14:44:11.446795+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ciklum-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cimpress|frontend|l1": {
    "expires": "2026-10-25T02:05:48.679367+00:00",
@@ -3853,6 +3869,11 @@
   "crunchyroll|swe|l1": {
    "expires": "2026-10-23T20:11:10.204683+00:00",
    "looked_up": "2026-10-10T19:01:20+00:00",
+   "status": "not_found"
+  },
+  "cryscol-solutions|frontend|l1": {
+   "expires": "2026-11-07T13:27:47.263650+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "status": "not_found"
   },
   "cube-hub|devops|l1": {
@@ -4609,8 +4630,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:15:48.733712+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-23T04:14:36.127942+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6835,8 +6856,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:24:48.467236+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-21T12:41:17.273343+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7830,8 +7851,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:22:07.293031+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-22T04:32:56.617862+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8335,8 +8356,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T15:15:36.481565+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-18T16:44:23.214244+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8831,6 +8852,11 @@
   "linedata|swe|l1": {
    "expires": "2026-11-01T13:07:28.020664+00:00",
    "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
+  "lingatech|erp|l1": {
+   "expires": "2026-10-31T11:29:18.268169+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "status": "not_found"
   },
   "linkedintechnologies|swe|l1": {
@@ -9344,6 +9370,11 @@
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
+  "matthews-robinson|swe|l1": {
+   "expires": "2026-10-31T04:55:41.482349+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
+   "status": "not_found"
+  },
   "mavenir|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9438,11 +9469,6 @@
   "mechademy|swe|l1": {
    "expires": "2026-10-30T00:13:55.804858+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
-  "media-nv|devops|l1": {
-   "expires": "2026-10-21T15:52:17.309141+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
   "media.net|mobile|l2": {
@@ -11376,6 +11402,20 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "pro5-ai|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T11:53:25.116284+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 22.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "probuddysoftware|swe|l1": {
    "expires": "2026-11-02T13:57:17.776504+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -12450,8 +12490,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T05:44:12.270840+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-20T18:34:29.579447+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12819,6 +12859,11 @@
    "status": "found",
    "year": 2021
   },
+  "saxo-bank|devops|l1": {
+   "expires": "2026-11-08T11:34:12.828566+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
+   "status": "not_found"
+  },
   "saxonglobalinc|erp|l1": {
    "expires": "2026-11-01T03:33:46.520201+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
@@ -12916,6 +12961,11 @@
    "status": "found",
    "year": 2026
   },
+  "script-assist-uk|swe|l1": {
+   "expires": "2026-10-29T23:59:05.863661+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
+   "status": "not_found"
+  },
   "scyverge|security|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12938,8 +12988,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:16:08.508129+00:00",
-   "looked_up": "2026-10-21T15:19:04+00:00",
+   "expires": "2027-01-15T17:29:23.139364+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13221,6 +13271,11 @@
   "skillupblox|swe|l1": {
    "expires": "2026-10-23T14:07:17.046548+00:00",
    "looked_up": "2026-10-10T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "skinaa|mobile|l1": {
+   "expires": "2026-11-07T03:51:36.907312+00:00",
+   "looked_up": "2026-10-21T16:01:31+00:00",
    "status": "not_found"
   },
   "sky-systems-inc-skysys|fullstack|l1": {
@@ -16625,8 +16680,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2335,
-  "lookups_today": 134,
+  "lookups_month": 2342,
+  "lookups_today": 141,
   "month": "2026-10"
  }
 }
