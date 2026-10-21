@@ -843,6 +843,20 @@
    "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
+  "almashines|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-19T04:59:48.945425+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "alphabin|fullstack|l1": {
    "expires": "2026-10-25T11:37:16.249400+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -2027,6 +2041,22 @@
    "expires": "2026-10-27T10:34:32.254816+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
+  },
+  "baryons-software-solutions-pvt-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T10:10:04.994952+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "max_lpa": 6.4,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/baryons-software-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "basf|devops|l1": {
    "expires": "2026-10-31T10:32:49.674625+00:00",
@@ -4394,8 +4424,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:34:15.484915+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
+   "expires": "2027-01-26T05:18:12.583326+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5699,6 +5729,11 @@
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
+  "genxaitech|erp|l1": {
+   "expires": "2026-11-07T08:01:45.599774+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "geoserve-maritime|fullstack|l1": {
    "expires": "2026-10-21T20:56:06.518018+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -6560,6 +6595,20 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "hextgenai|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-15T23:19:53.908521+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "hh-global|devops|l1": {
    "expires": "2026-11-04T02:43:53.858808+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
@@ -6783,6 +6832,11 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
+  "huntingcubeai|frontend|l1": {
+   "expires": "2026-11-06T13:29:49.853905+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "huntingcubeai|frontend|l2": {
    "expires": "2026-10-27T03:29:51.557719+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -6801,6 +6855,11 @@
   "huntingcubeai|swe|l1": {
    "expires": "2026-10-26T05:47:44.346449+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "huntingcubeai|swe|l2": {
+   "expires": "2026-11-06T08:45:41.392534+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
   "huronconsulting|erp|l1": {
@@ -7731,6 +7790,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "jade-global|erp|l1": {
+   "expires": "2026-11-06T18:13:10.743771+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "jade-global|swe|l1": {
    "expires": "2026-10-29T12:26:08.019704+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -7990,8 +8054,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:00:44.325837+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
+   "expires": "2027-01-24T08:37:42.633363+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8185,6 +8249,11 @@
   "koderxpert|mobile|l1": {
    "expires": "2026-11-09T11:04:49.345466+00:00",
    "looked_up": "2026-10-19T20:01:28+00:00",
+   "status": "not_found"
+  },
+  "kodohq|devops|l1": {
+   "expires": "2026-11-07T11:05:24.021984+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
   "kognivera|swe|l1": {
@@ -9227,6 +9296,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "midtownsoftware|swe|l1": {
+   "expires": "2026-11-03T12:38:13.554873+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
   },
   "miimansa|devops|l1": {
    "expires": "2026-10-22T06:26:04.182183+00:00",
@@ -10401,11 +10475,6 @@
    "looked_up": "2026-10-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "paktolus|swe|l1": {
-   "expires": "2026-10-21T06:36:25.753929+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "palletbees|erp|l1": {
    "expires": "2026-10-23T08:32:22.272197+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -10656,6 +10725,26 @@
    "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
+  "phonepe-internet|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-24T00:26:24.623539+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 17.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1674376/phonepe-sde-1-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1532849/PhonePe-or-SDE-1-or-Bangalore/"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "phonepe-internet|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -10888,6 +10977,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "probuddysoftware|swe|l1": {
+   "expires": "2026-11-02T13:57:17.776504+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "procore-technologies|mobile|l2": {
    "expires": "2026-10-25T12:25:54.314751+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -11004,6 +11098,22 @@
    "expires": "2026-10-29T04:21:35.446826+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
+  },
+  "purple-drive|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-24T12:01:17.083255+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "max_lpa": 4.7,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Purple-Drive-Technologies/salaries/Java-Developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "purplemerit|frontend|l1": {
    "expires": "2026-10-31T11:16:53.332344+00:00",
@@ -11664,6 +11774,11 @@
    "status": "found",
    "year": 2025
   },
+  "remote-pajama-jobs|data|l1": {
+   "expires": "2026-11-01T09:45:36.166182+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "remote-wfh-india|data|l1": {
    "expires": "2026-11-05T14:13:08.555338+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -11753,6 +11868,11 @@
   "ribbon-communications|swe|l2": {
    "expires": "2026-10-28T01:11:15.053782+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
+   "status": "not_found"
+  },
+  "right-advisors-pvt-ltd|swe|l1": {
+   "expires": "2026-11-01T17:04:06.608091+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
   "rippling|fullstack|l1": {
@@ -12372,8 +12492,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:17:17.561188+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
+   "expires": "2027-01-15T10:49:05.129377+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -12905,6 +13025,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "softwarepac|mobile|l1": {
+   "expires": "2026-10-29T02:43:10.078309+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
   },
   "softwarepac|swe|l1": {
    "expires": "2026-11-09T03:06:54.535025+00:00",
@@ -15025,11 +15150,6 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
-  "vision-and-solutions|frontend|l1": {
-   "expires": "2026-10-21T06:10:54.232348+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "vision30schoolplus|mobile|l1": {
    "expires": "2026-10-23T00:23:19.107939+00:00",
    "looked_up": "2026-10-06T18:01:44+00:00",
@@ -15350,6 +15470,11 @@
   "win-solutions|swe|l1": {
    "expires": "2026-10-30T05:38:50.617690+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
+   "status": "not_found"
+  },
+  "winapps.co.in|fullstack|l1": {
+   "expires": "2026-11-10T20:28:54.493416+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
   "winggo-soft|mobile|l1": {
@@ -15676,6 +15801,11 @@
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
+  "zemaglobal|swe|l1": {
+   "expires": "2026-11-06T19:35:42.149066+00:00",
+   "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
   "zenarahealth|devops|l1": {
    "expires": "2026-11-06T18:42:47.616228+00:00",
    "looked_up": "2026-10-20T13:01:28+00:00",
@@ -15854,8 +15984,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2226,
-  "lookups_today": 25,
+  "lookups_month": 2241,
+  "lookups_today": 40,
   "month": "2026-10"
  }
 }
