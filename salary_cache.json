@@ -651,11 +651,6 @@
    "status": "found",
    "year": 2026
   },
-  "air-arabia|mobile|l1": {
-   "expires": "2026-10-21T13:12:34.911627+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -861,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:40:26.123032+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-17T08:37:17.684483+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1207,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T09:15:53.289558+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-25T02:41:04.489919+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1667,6 +1662,11 @@
   "assetmark-global-wealth|swe|l1": {
    "expires": "2026-10-29T03:13:47.149469+00:00",
    "looked_up": "2026-10-21T04:01:37+00:00",
+   "status": "not_found"
+  },
+  "assetze|swe|l1": {
+   "expires": "2026-11-04T07:05:37.926816+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
   "assurant|devops|l1": {
@@ -2471,8 +2471,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T13:18:51.764976+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-16T18:18:33.905840+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3255,6 +3255,11 @@
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
+  "clearroute|fullstack|l1": {
+   "expires": "2026-11-05T08:42:15.429973+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
   "clearwateranalytics|swe|l2": {
    "expires": "2026-10-29T00:52:25.132561+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -3915,9 +3920,34 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
+  "cyber-infrastructure|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-24T18:24:45.893399+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Cyber-Infrastructure/salaries"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Cyber-Infrastructure/jobs"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cyber1armorofficial|fullstack|l1": {
    "expires": "2026-10-24T14:54:11.689912+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
+   "status": "not_found"
+  },
+  "cybrain-software-solutions|frontend|l1": {
+   "expires": "2026-11-03T11:56:05.821980+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
   "cyderes|security|l1": {
@@ -4544,8 +4574,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T21:26:07.969925+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-16T14:07:23.855377+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6780,8 +6810,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:44:44.265628+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-14T01:20:10.714463+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -6934,6 +6964,11 @@
   "hp|swe|l1": {
    "expires": "2026-10-28T04:56:24.027270+00:00",
    "looked_up": "2026-10-13T12:01:27+00:00",
+   "status": "not_found"
+  },
+  "hr-actowiz-solutions|fullstack|l1": {
+   "expires": "2026-10-30T18:45:41.961236+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
   "hrc-consultng|swe|l1": {
@@ -8261,8 +8296,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T05:42:59.608826+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-13T17:54:36.753381+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8376,6 +8411,11 @@
   "keka-hr|erp|l1": {
    "expires": "2026-10-24T07:28:14.058788+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "keka-hr|swe|l1": {
+   "expires": "2026-11-07T04:47:31.279920+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
   "keylogic-infotech|swe|l1": {
@@ -9617,6 +9657,22 @@
    "status": "found",
    "year": 2026
   },
+  "miq-digital|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T02:03:24.729761+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "max_lpa": 28.7,
+   "min_lpa": 22.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/miq/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "miraclesoft|swe|l1": {
    "expires": "2026-11-01T12:00:37.485910+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -10248,6 +10304,22 @@
    "looked_up": "2026-10-19T03:01:25+00:00",
    "status": "not_found"
   },
+  "northern-trust|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T15:44:53.870908+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "max_lpa": 14.9,
+   "min_lpa": 10.2,
+   "sources": [
+    {
+     "title": "next.levels.fyi",
+     "uri": "https://next.levels.fyi/companies/northern-trust/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "novbliss-consultancy-private-limited|data|l1": {
    "expires": "2026-10-29T18:55:57.976244+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -10537,11 +10609,6 @@
   "omnissa|swe|l1": {
    "expires": "2026-10-27T10:54:51.197055+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "omnix-chain|devops|l1": {
-   "expires": "2026-10-21T14:00:05.612649+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
   "onarrival-travel|swe|l1": {
@@ -12339,8 +12406,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T18:44:35.468577+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-15T00:19:04.240881+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12708,6 +12775,11 @@
    "status": "found",
    "year": 2021
   },
+  "saxonglobalinc|erp|l1": {
+   "expires": "2026-11-01T03:33:46.520201+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
   "schaeffler|swe|l1": {
    "expires": "2026-10-25T00:27:56.732732+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -12822,8 +12894,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:50:54.667649+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
+   "expires": "2027-01-24T20:58:10.468685+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13904,6 +13976,11 @@
    "status": "found",
    "year": 2025
   },
+  "synedyne-systems|swe|l1": {
+   "expires": "2026-11-03T12:26:10.102761+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
   "synmatch-ai|mobile|l1": {
    "expires": "2026-11-05T04:31:45.929168+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
@@ -14384,11 +14461,6 @@
   "tek-grove|swe|l2": {
    "expires": "2026-11-02T08:04:13.107073+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "tekgenio|erp|l1": {
-   "expires": "2026-10-21T13:28:49.698596+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "tekgenio|swe|l1": {
@@ -15071,6 +15143,34 @@
    "expires": "2026-10-27T21:01:34.188066+00:00",
    "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
+  },
+  "uber-com|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-19T15:57:24.806622+00:00",
+   "looked_up": "2026-10-21T14:01:30+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1909239/uber-l3-sde-1-india"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1694742/uber-sde1-l3-hyderabad"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/552139/uber-sde1-india"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2022
   },
   "ubsforums|swe|l1": {
    "basis": "posted",
@@ -16471,8 +16571,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2317,
-  "lookups_today": 116,
+  "lookups_month": 2328,
+  "lookups_today": 127,
   "month": "2026-10"
  }
 }
