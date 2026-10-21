@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T04:30:21.237757+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-22T17:25:23.073343+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4444,8 +4444,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:48:42.567301+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-13T13:45:43.894679+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6623,8 +6623,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:09:58.980475+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-18T15:23:02.323059+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -8084,8 +8084,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:21:19.806582+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-14T03:55:36.698393+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -12059,8 +12059,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T14:19:22.614663+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-19T09:01:51.621845+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12532,8 +12532,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T16:36:51.439254+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
+   "expires": "2027-01-14T23:58:03.701826+00:00",
+   "looked_up": "2026-10-21T10:13:07+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
