@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:10:45.449987+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-26T08:57:25.786313+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T11:12:57.785330+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-17T21:54:27.744569+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1854,6 +1854,11 @@
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
+  "autozone|erp|l1": {
+   "expires": "2026-11-09T16:51:33.242254+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
+   "status": "not_found"
+  },
   "avaloq|devops|l1": {
    "expires": "2026-11-10T20:32:12.661195+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -2486,8 +2491,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T10:36:37.863577+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-15T07:39:40.584343+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4567,6 +4572,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "docusign|swe|l1": {
+   "expires": "2026-10-29T15:54:11.254467+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
+   "status": "not_found"
+  },
   "dodopayments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4630,8 +4640,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T23:08:13.676209+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-24T06:55:42.336588+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6090,11 +6100,6 @@
    "status": "found",
    "year": 2026
   },
-  "glencore|swe|l1": {
-   "expires": "2026-10-21T17:02:57.460782+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "glg|data|l1": {
    "expires": "2026-10-29T14:09:22.138356+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -6866,8 +6871,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T17:10:38.774932+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-18T16:28:42.801288+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7577,6 +7582,11 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "information-systems-associates-fze|data|l1": {
+   "expires": "2026-10-31T22:41:27.512851+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
+   "status": "not_found"
+  },
   "information-systems-associates-fze|mobile|l1": {
    "expires": "2026-11-03T15:17:26.129683+00:00",
    "looked_up": "2026-10-20T15:01:31+00:00",
@@ -7861,8 +7871,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T02:40:48.979485+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-26T15:11:46.915460+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8366,8 +8376,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T23:02:13.450645+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-19T08:21:23.245284+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -11420,8 +11430,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T12:24:12.411410+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-21T12:26:10.488466+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12020,11 +12030,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "railscarma|swe|l1": {
-   "expires": "2026-10-21T17:03:39.276747+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "rampwork|mobile|l1": {
    "expires": "2026-10-29T17:05:49.205229+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
@@ -12505,8 +12510,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T21:22:08.174577+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-13T19:19:01.972261+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12889,11 +12894,6 @@
    "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
-  "schengen-visa-consultancy-limited|swe|l1": {
-   "expires": "2026-10-21T17:56:31.318604+00:00",
-   "looked_up": "2026-10-12T21:01:28+00:00",
-   "status": "not_found"
-  },
   "schneider-electric|swe|l1": {
    "expires": "2026-11-01T19:17:27.666642+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -13003,8 +13003,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T04:17:43.082568+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
+   "expires": "2027-01-17T19:17:01.707942+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13301,6 +13301,11 @@
   "skyetrip|frontend|l1": {
    "expires": "2026-11-05T09:24:43.179636+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
+   "status": "not_found"
+  },
+  "skygalaxy-infotech-llp|fullstack|l1": {
+   "expires": "2026-11-05T16:12:53.072153+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
    "status": "not_found"
   },
   "skyhighsecurity|swe|l1": {
@@ -13732,6 +13737,11 @@
    "status": "found",
    "year": 2026
   },
+  "spire-systems|swe|l1": {
+   "expires": "2026-10-29T06:25:30.895724+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
+   "status": "not_found"
+  },
   "splat-studio|swe|l1": {
    "expires": "2026-10-28T03:22:21.903206+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -13978,6 +13988,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "swiss-re|swe|l1": {
+   "expires": "2026-11-04T00:58:37.812708+00:00",
+   "looked_up": "2026-10-21T18:01:33+00:00",
+   "status": "not_found"
   },
   "switsdigital|data|l1": {
    "expires": "2026-10-22T06:37:17.717701+00:00",
@@ -16705,8 +16720,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2349,
-  "lookups_today": 148,
+  "lookups_month": 2355,
+  "lookups_today": 154,
   "month": "2026-10"
  }
 }
