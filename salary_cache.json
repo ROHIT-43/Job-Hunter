@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:25:23.073343+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-24T10:11:20.138092+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1182,6 +1182,20 @@
    "expires": "2026-10-23T09:05:48.883088+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
+  },
+  "angler-careers|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-15T15:57:01.501202+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "anjusmriti|erp|l1": {
    "expires": "2026-10-29T22:17:30.081255+00:00",
@@ -1782,6 +1796,11 @@
   "auronix-tech|swe|l1": {
    "expires": "2026-10-31T18:59:55.912798+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "auswide-global-india|swe|l1": {
+   "expires": "2026-11-02T12:52:07.634365+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "autodesk|swe|l1": {
@@ -3060,6 +3079,11 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "circles1|data|l1": {
+   "expires": "2026-11-01T08:58:17.963241+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "circles1|devops|l2": {
    "expires": "2026-10-31T15:45:03.600085+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -3377,6 +3401,26 @@
    ],
    "status": "found",
    "year": null
+  },
+  "coforge-tech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-20T23:24:00.838991+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/coforge-salaries/pune-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/coforge-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cognitedata|swe|l1": {
    "expires": "2026-10-27T17:32:28.733714+00:00",
@@ -4444,8 +4488,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T13:45:43.894679+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-17T10:21:47.286104+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5477,9 +5521,35 @@
    "status": "found",
    "year": 2026
   },
+  "flowserve|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T15:04:38.829962+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "max_lpa": 14.2,
+   "min_lpa": 10.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/flowserve/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "flsmidth|swe|l1": {
    "expires": "2026-10-27T22:48:05.903040+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "fluke-corporation|devops|l1": {
+   "expires": "2026-10-31T21:23:02.860389+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "fluke-corporation|security|l1": {
+   "expires": "2026-10-29T23:10:05.770315+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "fluxusforge|fullstack|l1": {
@@ -5580,6 +5650,11 @@
   "franklin-templeton|swe|l1": {
    "expires": "2026-10-25T19:33:52.980393+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
+  "freelnace|security|l1": {
+   "expires": "2026-11-10T14:52:38.588269+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "frnsup|frontend|l1": {
@@ -6389,6 +6464,11 @@
    "looked_up": "2026-10-12T17:01:25+00:00",
    "status": "not_found"
   },
+  "hallmark-search-partners|devops|l1": {
+   "expires": "2026-10-29T10:26:11.824291+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "hallmark-search-partners|mobile|l1": {
    "expires": "2026-10-30T06:52:53.814910+00:00",
    "looked_up": "2026-10-18T14:01:28+00:00",
@@ -6623,8 +6703,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T15:23:02.323059+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-26T10:52:21.706290+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -6682,6 +6762,11 @@
   "hirojet|fullstack|l1": {
    "expires": "2026-10-24T14:25:20.463478+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "hitachi-digital-services|erp|l1": {
+   "expires": "2026-11-06T22:26:38.072055+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "hitachienergy|swe|l1": {
@@ -7123,6 +7208,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "ideaelanindia|swe|l1": {
+   "expires": "2026-11-03T10:14:30.770348+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "ideahelix|erp|l1": {
    "expires": "2026-10-28T14:56:30.565812+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -7207,11 +7297,6 @@
   "impronics-technologies|erp|l1": {
    "expires": "2026-10-31T06:58:04.803951+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "in2itebs|erp|l1": {
-   "expires": "2026-10-21T10:31:11.797644+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "includehelp|mobile|l1": {
@@ -7886,6 +7971,11 @@
    "looked_up": "2026-10-20T08:01:29+00:00",
    "status": "not_found"
   },
+  "jobgether|data|l1": {
+   "expires": "2026-11-01T03:19:23.524621+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "jobgether|devops|l1": {
    "expires": "2026-10-29T13:28:15.404468+00:00",
    "looked_up": "2026-10-16T02:01:40+00:00",
@@ -8084,8 +8174,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T03:55:36.698393+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-12T18:05:43.951716+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8212,6 +8302,22 @@
     {
      "title": "internshala.com",
      "uri": "https://internshala.com/company/keylogic-infotech-private-limited-1672906254/salaries-perks/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "keysight-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-18T11:58:47.097246+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "max_lpa": 11.8,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/keysight-technologies-salaries/new-delhi-location?page=2"
     }
    ],
    "status": "found",
@@ -8356,6 +8462,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "krishna-s-herbal-ayurveda|fullstack|l1": {
+   "expires": "2026-11-09T20:53:39.437915+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
   },
   "kt2i-technologies|frontend|l1": {
    "expires": "2026-10-29T05:47:44.647577+00:00",
@@ -9252,6 +9363,11 @@
   "metlife|devops|l1": {
    "expires": "2026-10-31T06:07:48.838328+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
+   "status": "not_found"
+  },
+  "metlife|swe|l1": {
+   "expires": "2026-10-29T02:19:31.304905+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "metsoofficial|erp|l1": {
@@ -10326,6 +10442,11 @@
    "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
+  "onarrival-travel|swe|l1": {
+   "expires": "2026-11-09T02:39:54.955613+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "one-advanced|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10857,6 +10978,11 @@
    "looked_up": "2026-10-09T23:01:19+00:00",
    "status": "not_found"
   },
+  "pinkerton-comprehensive-risk-management|erp|l1": {
+   "expires": "2026-11-08T16:48:43.559351+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "pinnaxel|frontend|l1": {
    "expires": "2026-10-31T16:59:16.442939+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -10920,6 +11046,11 @@
   "populace-world-solutions|devops|l1": {
    "expires": "2026-11-09T02:28:26.801713+00:00",
    "looked_up": "2026-10-19T10:01:24+00:00",
+   "status": "not_found"
+  },
+  "positiwise|devops|l1": {
+   "expires": "2026-11-03T21:59:44.371062+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "postman-platform|frontend|l1": {
@@ -12059,8 +12190,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T09:01:51.621845+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-20T14:01:00.278394+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12532,8 +12663,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:58:03.701826+00:00",
-   "looked_up": "2026-10-21T10:13:07+00:00",
+   "expires": "2027-01-16T00:51:23.863201+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13527,6 +13658,11 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
+  "syncupindia|fullstack|l2": {
+   "expires": "2026-10-28T11:12:18.447452+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "syncupindia|mobile|l1": {
    "expires": "2026-10-22T23:10:13.085175+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -14397,6 +14533,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "thoughtsol-infotech-ltd|fullstack|l1": {
+   "expires": "2026-10-30T08:22:41.416357+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
   "thoughtsol-infotech-ltd|swe|l1": {
    "expires": "2026-11-01T06:13:43.104472+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
@@ -14554,6 +14695,11 @@
   "trandata-technology-solution-private-limited|erp|l1": {
    "expires": "2026-10-24T21:57:19.280233+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "tranetechnologies|swe|l1": {
+   "expires": "2026-11-10T11:28:37.541317+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "trantronix-private-limited|swe|l1": {
@@ -14728,6 +14874,11 @@
   "ubuy-india|devops|l1": {
    "expires": "2026-11-07T11:56:08.167637+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
+   "status": "not_found"
+  },
+  "ueducation|fullstack|l1": {
+   "expires": "2026-11-03T00:18:43.301132+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "ukg|swe|l2": {
@@ -15422,6 +15573,22 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
+  "weareuplers|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-18T20:19:25.012635+00:00",
+   "looked_up": "2026-10-21T11:01:28+00:00",
+   "max_lpa": 16.8,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/uplers-salaries/senior-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "weaverminds|fullstack|l1": {
    "expires": "2026-11-02T00:11:46.372084+00:00",
    "looked_up": "2026-10-15T03:01:34+00:00",
@@ -16044,8 +16211,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2262,
-  "lookups_today": 61,
+  "lookups_month": 2284,
+  "lookups_today": 83,
   "month": "2026-10"
  }
 }
