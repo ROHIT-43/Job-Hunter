@@ -2939,8 +2939,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T20:59:20.816492+00:00",
-   "looked_up": "2026-10-21T00:01:33+00:00",
+   "expires": "2027-01-21T14:53:38.805970+00:00",
+   "looked_up": "2026-10-21T01:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -7388,11 +7388,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "innovaesi|swe|l1": {
-   "expires": "2026-10-21T01:00:40.333801+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "innovyatech|swe|l2": {
    "expires": "2026-10-28T04:57:06.581256+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
@@ -7921,8 +7916,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:19:40.972275+00:00",
-   "looked_up": "2026-10-21T00:01:33+00:00",
+   "expires": "2027-01-24T03:51:38.349153+00:00",
+   "looked_up": "2026-10-21T01:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
