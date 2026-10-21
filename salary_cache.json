@@ -737,6 +737,11 @@
    "status": "found",
    "year": 2025
   },
+  "akriveia-technologies-pvt-ltd|swe|l1": {
+   "expires": "2026-11-11T04:04:42.187444+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
   "alaanpay|swe|l1": {
    "expires": "2026-10-25T16:28:13.803043+00:00",
    "looked_up": "2026-10-13T22:01:25+00:00",
@@ -856,8 +861,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T10:11:20.138092+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-21T02:58:37.709223+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1186,8 +1191,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:57:01.501202+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-25T13:13:18.690013+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2076,6 +2081,22 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
+  "baryons-software-solutions-pvt-ltd|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T23:35:56.275085+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "max_lpa": 4.1,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/baryons-software-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "baryons-software-solutions-pvt-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2435,6 +2456,20 @@
    "expires": "2026-10-23T15:42:32.745200+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
+  },
+  "bracketsagency|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T17:45:26.795620+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "brahmaverse-ai|swe|l1": {
    "expires": "2026-10-21T20:59:25.803401+00:00",
@@ -3659,6 +3694,11 @@
    "looked_up": "2026-10-09T18:01:26+00:00",
    "status": "not_found"
   },
+  "coram-ai|swe|l1": {
+   "expires": "2026-11-05T19:46:45.289027+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
   "cornerstoneondemand|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4488,8 +4528,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T10:21:47.286104+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-23T07:45:11.428158+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4638,6 +4678,11 @@
     }
    ],
    "status": "found"
+  },
+  "elanco|data|l1": {
+   "expires": "2026-11-07T16:36:40.955605+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
   },
   "elements.energies|swe|l1": {
    "expires": "2026-10-29T14:37:16.121029+00:00",
@@ -6703,8 +6748,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T10:52:21.706290+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-12T15:08:37.089284+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -6717,6 +6762,11 @@
   "hh-global|devops|l1": {
    "expires": "2026-11-04T02:43:53.858808+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
+   "status": "not_found"
+  },
+  "highlevel|frontend|l2": {
+   "expires": "2026-11-04T11:05:46.188484+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "highlevel|swe|l2": {
@@ -7935,6 +7985,11 @@
    "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
+  "jio-star|security|l1": {
+   "expires": "2026-11-06T22:29:49.823278+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
   "jio-star|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -8174,8 +8229,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T18:05:43.951716+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-22T18:11:53.412860+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -9200,6 +9255,11 @@
   "maxwell-slitter-industries|swe|l1": {
    "expires": "2026-10-30T16:44:41.948871+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "mbtygl|frontend|l1": {
+   "expires": "2026-11-10T22:00:44.852567+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "mcafeeenterprise|swe|l1": {
@@ -10275,6 +10335,11 @@
    "looked_up": "2026-10-18T12:01:26+00:00",
    "status": "not_found"
   },
+  "nuswipeofficial|mobile|l1": {
+   "expires": "2026-11-11T08:21:22.192395+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
   "nutanix|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -10729,6 +10794,11 @@
   "payfinia|swe|l1": {
    "expires": "2026-11-03T02:06:15.676222+00:00",
    "looked_up": "2026-10-14T05:02:59+00:00",
+   "status": "not_found"
+  },
+  "paypal|data|l1": {
+   "expires": "2026-11-03T08:34:25.831445+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "paypal|swe|l1": {
@@ -11389,11 +11459,6 @@
    "status": "found",
    "year": 2026
   },
-  "qaagility-technologies|data|l1": {
-   "expires": "2026-10-21T11:58:14.462183+00:00",
-   "looked_up": "2026-10-13T01:01:23+00:00",
-   "status": "not_found"
-  },
   "qaagility-technologies|erp|l1": {
    "expires": "2026-10-29T02:46:25.967888+00:00",
    "looked_up": "2026-10-13T01:01:23+00:00",
@@ -11437,6 +11502,11 @@
   "qnn-global|swe|l1": {
    "expires": "2026-10-31T16:31:16.648068+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
+  "qrusibleltd|swe|l1": {
+   "expires": "2026-11-10T07:20:35.508983+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "quadeye|swe|l1": {
@@ -12190,8 +12260,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T14:01:00.278394+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-12T15:52:58.152532+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12423,6 +12493,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "samintekmindz|frontend|l1": {
+   "expires": "2026-11-04T00:04:50.870273+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
   },
   "samlicon-int|erp|l1": {
    "expires": "2026-10-22T15:59:41.411596+00:00",
@@ -12663,8 +12738,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T00:51:23.863201+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
+   "expires": "2027-01-18T22:31:05.479270+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -14623,6 +14698,11 @@
    "status": "found",
    "year": 2026
   },
+  "toppan-merrill|swe|l1": {
+   "expires": "2026-11-07T01:37:28.939945+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
   "topsunrenewable|swe|l1": {
    "expires": "2026-10-28T13:24:20.591857+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -14657,6 +14737,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tower-research-capital|swe|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-16T14:41:56.296931+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
+   "max_lpa": 67.0,
+   "min_lpa": 55.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/1583793/tower-research-capital-senior-software-engineer-gurgaon/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1341458/Tower-Research-Capital-or-Senior-Software-Engineer-or-Gurugram"
+    }
+   ],
+   "status": "found",
+   "year": 2021
   },
   "tpw-industries-llp-saksham|swe|l1": {
    "basis": "posted",
@@ -14695,6 +14795,11 @@
   "trandata-technology-solution-private-limited|erp|l1": {
    "expires": "2026-10-24T21:57:19.280233+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
+   "status": "not_found"
+  },
+  "tranetechnologies|security|l1": {
+   "expires": "2026-11-06T01:07:02.996255+00:00",
+   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "tranetechnologies|swe|l1": {
@@ -16211,8 +16316,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2284,
-  "lookups_today": 83,
+  "lookups_month": 2298,
+  "lookups_today": 97,
   "month": "2026-10"
  }
 }
