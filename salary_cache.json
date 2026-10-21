@@ -2939,8 +2939,8 @@
   "cgtsolutions|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:58:25.044784+00:00",
-   "looked_up": "2026-10-20T23:52:12+00:00",
+   "expires": "2027-01-17T20:59:20.816492+00:00",
+   "looked_up": "2026-10-21T00:01:33+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6320,6 +6320,26 @@
    "status": "found",
    "year": 2026
   },
+  "harris-computer.|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-13T14:38:35.312884+00:00",
+   "looked_up": "2026-10-21T00:01:33+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 5.8,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Harris-Computer-Associate-Software-Engineer-Salaries-E222321_D_KO16,43.htm"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Harris-Computer-Salaries-E222321.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "haseln-agency|fullstack|l1": {
    "expires": "2026-11-03T06:32:08.878514+00:00",
    "looked_up": "2026-10-19T23:01:26+00:00",
@@ -7901,8 +7921,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T04:01:47.825596+00:00",
-   "looked_up": "2026-10-20T23:52:12+00:00",
+   "expires": "2027-01-25T14:19:40.972275+00:00",
+   "looked_up": "2026-10-21T00:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15734,9 +15754,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-20",
-  "lookups_month": 2201,
-  "lookups_today": 108,
+  "day": "2026-10-21",
+  "lookups_month": 2202,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
