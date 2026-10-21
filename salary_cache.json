@@ -675,11 +675,6 @@
    "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
-  "akaispace|swe|l1": {
-   "expires": "2026-10-21T22:48:19.016557+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
-   "status": "not_found"
-  },
   "akamai-technologies|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -856,8 +851,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:17:20.040775+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-19T19:20:56.624085+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T13:51:51.331935+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-18T10:23:44.793552+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2486,8 +2481,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T08:53:06.189197+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-19T20:05:45.875046+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3169,11 +3164,6 @@
   "chatsparkk|swe|l1": {
    "expires": "2026-10-30T23:35:18.382292+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
-   "status": "not_found"
-  },
-  "chessbrainz-chessacademy|fullstack|l1": {
-   "expires": "2026-10-21T22:15:04.981742+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
   "cibc-india|security|l1": {
@@ -4691,8 +4681,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T12:48:15.321725+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-19T02:03:35.145862+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5825,11 +5815,6 @@
    "looked_up": "2026-10-13T04:01:36+00:00",
    "status": "not_found"
   },
-  "forrester-research|erp|l1": {
-   "expires": "2026-10-21T22:48:46.741576+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
   "fortive|security|l1": {
    "expires": "2026-10-31T18:54:49.034872+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -6912,8 +6897,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T20:52:29.793665+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-16T18:53:08.763388+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7912,8 +7897,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T18:44:00.455587+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-26T16:33:45.987374+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8933,11 +8918,6 @@
   "linkedin|swe|l1": {
    "expires": "2026-10-31T06:53:35.388754+00:00",
    "looked_up": "2026-10-13T05:01:29+00:00",
-   "status": "not_found"
-  },
-  "links4engg|fullstack|l1": {
-   "expires": "2026-10-21T22:10:43.901773+00:00",
-   "looked_up": "2026-10-10T20:01:20+00:00",
    "status": "not_found"
   },
   "linux-kernel-foundation|swe|l1": {
@@ -11481,8 +11461,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T23:53:22.353490+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-21T21:46:52.459854+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12571,8 +12551,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T20:00:00.044296+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-13T15:57:21.763306+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13074,8 +13054,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:45:50.986937+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
+   "expires": "2027-01-20T19:18:53.700805+00:00",
+   "looked_up": "2026-10-21T23:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13770,11 +13750,6 @@
   "sourceright|swe|l1": {
    "expires": "2026-11-01T14:45:37.994484+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
-  "sourcingxpress|swe|l2": {
-   "expires": "2026-10-21T22:02:33.192916+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "southwest-airlines|swe|l1": {
