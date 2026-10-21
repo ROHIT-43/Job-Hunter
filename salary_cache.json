@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-12T21:39:27.190341+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-26T03:53:51.192142+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T10:33:18.710885+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-14T22:34:54.249124+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2486,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:43:55.210703+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-19T11:46:23.829867+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4651,8 +4651,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T18:21:22.016412+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-18T22:28:14.706258+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6882,8 +6882,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:52:11.204785+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-21T03:37:57.390424+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7882,8 +7882,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T23:29:13.890114+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-20T23:47:36.255260+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8387,8 +8387,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T21:03:37.392188+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-24T17:26:49.038295+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -11451,8 +11451,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T05:50:37.465770+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-17T18:06:31.955344+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12536,8 +12536,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:50:16.525745+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-18T04:51:05.970120+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13034,8 +13034,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T17:52:23.131833+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
+   "expires": "2027-01-26T02:43:25.770281+00:00",
+   "looked_up": "2026-10-21T19:18:54+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -14943,11 +14943,6 @@
   "thinkwise-consulting-llp|data|l1": {
    "expires": "2026-10-22T03:24:39.526850+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "thornton-tomasetti|swe|l1": {
-   "expires": "2026-10-21T19:17:42.498727+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "thoughtsol-infotech-ltd|fullstack|l1": {
