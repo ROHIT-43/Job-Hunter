@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T20:52:53.118453+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-15T18:10:45.449987+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1005,6 +1005,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "amazon|erp|l1": {
+   "expires": "2026-11-07T21:28:50.717575+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
   },
   "amazon|swe|l1": {
    "basis": "base",
@@ -1197,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T11:41:16.918453+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-16T11:12:57.785330+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1972,11 +1977,6 @@
    "status": "found",
    "year": 2026
   },
-  "bain-and-company|fullstack|l1": {
-   "expires": "2026-10-21T16:52:58.367271+00:00",
-   "looked_up": "2026-10-11T10:01:20+00:00",
-   "status": "not_found"
-  },
   "bain-and-company|swe|l1": {
    "expires": "2026-10-31T08:30:08.191146+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
@@ -2486,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:30:28.932831+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-19T10:36:37.863577+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4630,8 +4630,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T04:14:36.127942+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-21T23:08:13.676209+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5291,6 +5291,11 @@
   "expinator-web-technology|fullstack|l1": {
    "expires": "2026-11-04T01:53:47.675238+00:00",
    "looked_up": "2026-10-20T21:01:27+00:00",
+   "status": "not_found"
+  },
+  "exxonmobil-india-careers|swe|l1": {
+   "expires": "2026-11-07T09:42:08.115377+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
   "ezdata-advisory|data|l1": {
@@ -6162,6 +6167,11 @@
    "status": "found",
    "year": 2026
   },
+  "globus-academy|swe|l1": {
+   "expires": "2026-11-09T16:27:29.329711+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
+  },
   "gm-moto-private-limited-robotics|swe|l1": {
    "expires": "2026-10-29T20:48:50.461077+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
@@ -6856,8 +6866,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:41:17.273343+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-17T17:10:38.774932+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7851,8 +7861,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T04:32:56.617862+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-23T02:40:48.979485+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8356,8 +8366,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:44:23.214244+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-17T23:02:13.450645+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -8762,6 +8772,11 @@
   "learningpadedu|swe|l1": {
    "expires": "2026-11-05T01:24:46.475719+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "leegality|swe|l1": {
+   "expires": "2026-11-08T12:02:45.177715+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
   "legal-experts-ai|swe|l1": {
@@ -10405,6 +10420,11 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
+  "novglobal|security|l1": {
+   "expires": "2026-11-06T21:49:23.295970+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
+  },
   "novo-nordisk|swe|l1": {
    "expires": "2026-11-01T09:48:28.166003+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -11353,11 +11373,6 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
-  "prasaar-technologies|swe|l1": {
-   "expires": "2026-10-21T16:54:50.972325+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "premier-plylam-marketing-company|swe|l1": {
    "expires": "2026-11-01T01:38:36.596045+00:00",
    "looked_up": "2026-10-15T00:01:24+00:00",
@@ -11405,8 +11420,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:53:25.116284+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-13T12:24:12.411410+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12490,8 +12505,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:34:29.579447+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-22T21:22:08.174577+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12988,8 +13003,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:29:23.139364+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
+   "expires": "2027-01-14T04:17:43.082568+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -15163,6 +15178,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "triveni-it|devops|l1": {
+   "expires": "2026-10-30T12:20:09.739172+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
+  },
   "troy-consultancy|erp|l1": {
    "expires": "2026-11-04T14:53:34.738092+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -15852,6 +15872,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "visynth-labs-pvt-ltd|mobile|l1": {
+   "expires": "2026-11-01T19:08:43.198099+00:00",
+   "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
   },
   "vithamas-tech|mobile|l1": {
    "expires": "2026-11-04T04:46:53.250182+00:00",
@@ -16680,8 +16705,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2342,
-  "lookups_today": 141,
+  "lookups_month": 2349,
+  "lookups_today": 148,
   "month": "2026-10"
  }
 }
