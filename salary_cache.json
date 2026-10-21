@@ -675,6 +675,11 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
+  "ajiledone-technologies-private-limited|erp|l1": {
+   "expires": "2026-10-29T20:15:29.278430+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
+   "status": "not_found"
+  },
   "akaispace|swe|l1": {
    "expires": "2026-10-21T22:48:19.016557+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
@@ -851,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T19:49:31.330334+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
+   "expires": "2027-01-25T04:30:21.237757+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3065,11 +3070,6 @@
    "looked_up": "2026-10-14T20:01:23+00:00",
    "status": "not_found"
   },
-  "cisco|data|l1": {
-   "expires": "2026-10-21T09:10:00.152657+00:00",
-   "looked_up": "2026-10-12T18:01:24+00:00",
-   "status": "not_found"
-  },
   "cisco|devops|l1": {
    "expires": "2026-11-06T20:57:09.804005+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
@@ -4444,8 +4444,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T10:30:48.380967+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
+   "expires": "2027-01-25T22:48:42.567301+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5669,6 +5669,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "gartner|swe|l2": {
+   "expires": "2026-10-30T22:30:24.938240+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
+   "status": "not_found"
+  },
   "gbs4u|devops|l1": {
    "expires": "2026-10-21T21:33:35.156520+00:00",
    "looked_up": "2026-10-06T05:53:41+00:00",
@@ -6214,6 +6219,11 @@
    "looked_up": "2026-10-12T21:01:28+00:00",
    "status": "not_found"
   },
+  "green-tree-immigration|frontend|l1": {
+   "expires": "2026-10-29T07:27:00.278116+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
+   "status": "not_found"
+  },
   "greif|erp|l1": {
    "expires": "2026-11-01T19:12:08.794865+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -6613,8 +6623,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T19:48:52.653955+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
+   "expires": "2027-01-18T00:09:58.980475+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7179,11 +7189,6 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
-  "iivs-indianinstituteofvedicscience|swe|l1": {
-   "expires": "2026-10-21T09:37:34.426857+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "ikea|swe|l1": {
    "expires": "2026-10-29T06:18:46.300844+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -7192,6 +7197,11 @@
   "ilizien|frontend|l1": {
    "expires": "2026-10-27T18:29:28.700039+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "imi|swe|l1": {
+   "expires": "2026-11-02T20:16:57.821731+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
   "impronics-technologies|erp|l1": {
@@ -8074,8 +8084,8 @@
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T06:45:40.589304+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
+   "expires": "2027-01-14T11:21:19.806582+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -11555,11 +11565,6 @@
    "status": "found",
    "year": 2025
   },
-  "raasagency|swe|l1": {
-   "expires": "2026-10-21T09:30:46.932056+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
-  },
   "rackloom|swe|l1": {
    "expires": "2026-10-28T13:45:16.208422+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -11593,6 +11598,11 @@
   "rankgrids|swe|l1": {
    "expires": "2026-10-25T11:33:06.387361+00:00",
    "looked_up": "2026-10-10T14:01:23+00:00",
+   "status": "not_found"
+  },
+  "rapidbrains|erp|l1": {
+   "expires": "2026-11-09T11:07:35.705987+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
   "rapsys-technologies|data|l1": {
@@ -12049,8 +12059,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:37:46.564443+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
+   "expires": "2027-01-12T14:19:22.614663+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12522,8 +12532,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T01:20:23.887189+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
+   "expires": "2027-01-19T16:36:51.439254+00:00",
+   "looked_up": "2026-10-21T10:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -16034,8 +16044,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2257,
-  "lookups_today": 56,
+  "lookups_month": 2262,
+  "lookups_today": 61,
   "month": "2026-10"
  }
 }
