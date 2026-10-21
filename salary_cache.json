@@ -856,8 +856,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T22:23:55.871681+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-18T09:17:20.040775+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1202,8 +1202,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:19:21.146946+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-14T13:51:51.331935+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2486,8 +2486,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:28:38.062167+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-19T08:53:06.189197+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3962,6 +3962,16 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "custodos|fullstack|l1": {
+   "expires": "2026-11-04T03:57:32.276027+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
+   "status": "not_found"
+  },
+  "custodos|swe|l1": {
+   "expires": "2026-11-05T04:09:16.206288+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
+   "status": "not_found"
+  },
   "cv-raman-academy|swe|l1": {
    "expires": "2026-10-31T08:12:01.490406+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -4681,8 +4691,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T20:28:38.616613+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-16T12:48:15.321725+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5947,11 +5957,6 @@
    "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
-  "gbs4u|devops|l1": {
-   "expires": "2026-10-21T21:33:35.156520+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
   "geappliancesco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6907,8 +6912,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T03:51:52.295464+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-21T20:52:29.793665+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7907,8 +7912,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:44:32.180021+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-18T18:44:00.455587+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10081,11 +10086,6 @@
    "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
-  "navsan|data|l1": {
-   "expires": "2026-10-21T21:58:38.452141+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "ncratleos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11087,6 +11087,11 @@
    "status": "found",
    "year": 2021
   },
+  "pdi-technologies|data|l2": {
+   "expires": "2026-10-29T13:22:20.202936+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
+   "status": "not_found"
+  },
   "pdi-technologies|swe|l3": {
    "basis": "ctc",
    "confidence": "medium",
@@ -11214,11 +11219,6 @@
   "phillipcapital-india|fullstack|l1": {
    "expires": "2026-10-27T00:21:39.712889+00:00",
    "looked_up": "2026-10-10T05:01:21+00:00",
-   "status": "not_found"
-  },
-  "phoenix-technologies-ag|devops|l1": {
-   "expires": "2026-10-21T21:57:27.130583+00:00",
-   "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
   "phonepe-internet|devops|l1": {
@@ -11481,8 +11481,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T07:28:40.134148+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-21T23:53:22.353490+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12571,8 +12571,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T02:36:33.190876+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-25T20:00:00.044296+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13074,8 +13074,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T23:04:53.261734+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
+   "expires": "2027-01-14T22:45:50.986937+00:00",
+   "looked_up": "2026-10-21T22:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -16781,8 +16781,8 @@
  },
  "meta": {
   "day": "2026-10-21",
-  "lookups_month": 2372,
-  "lookups_today": 171,
+  "lookups_month": 2375,
+  "lookups_today": 174,
   "month": "2026-10"
  }
 }
