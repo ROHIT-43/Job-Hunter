@@ -851,8 +851,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T01:03:41.571992+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-23T21:32:21.593791+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1197,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T20:54:51.597686+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-16T23:47:51.858148+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1501,11 +1501,6 @@
   "arcticwolf|swe|l2": {
    "expires": "2026-11-02T02:13:10.836654+00:00",
    "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
-  "ares-management|fullstack|l1": {
-   "expires": "2026-10-22T02:51:34.816899+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
   "argano|erp|l1": {
@@ -2299,11 +2294,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "blackline|swe|l1": {
-   "expires": "2026-10-22T02:59:46.184538+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
-   "status": "not_found"
-  },
   "blackrock-it-solutions|fullstack|l1": {
    "expires": "2026-11-01T13:22:40.110669+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
@@ -2481,8 +2471,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:31:37.205736+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-26T21:47:58.737292+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3164,6 +3154,11 @@
   "chatsparkk|swe|l1": {
    "expires": "2026-10-30T23:35:18.382292+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
+   "status": "not_found"
+  },
+  "chryselys|data|l1": {
+   "expires": "2026-11-06T04:12:56.467661+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "status": "not_found"
   },
   "cibc-india|security|l1": {
@@ -4681,8 +4676,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:24:11.219233+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-14T09:06:17.153211+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6897,8 +6892,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T15:13:46.274319+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-13T23:16:03.640900+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -6951,11 +6946,6 @@
   "hireflexperts|frontend|l1": {
    "expires": "2026-10-29T01:29:56.829397+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "hirequotient|swe|l1": {
-   "expires": "2026-10-22T02:03:48.709734+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "hirojet|fullstack|l1": {
@@ -7902,8 +7892,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T08:33:27.767647+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-16T04:27:42.420932+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8227,6 +8217,11 @@
   "jobgether|mobile|l1": {
    "expires": "2026-10-27T02:18:02.935961+00:00",
    "looked_up": "2026-10-15T01:01:23+00:00",
+   "status": "not_found"
+  },
+  "jobgether|security|l1": {
+   "expires": "2026-11-10T11:38:58.935686+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "status": "not_found"
   },
   "jobgether|security|l3": {
@@ -11461,8 +11456,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T04:53:04.901591+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-17T01:57:01.740738+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12387,11 +12382,6 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
-  "rhombus-power|data|l1": {
-   "expires": "2026-10-22T02:51:36.220559+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
-   "status": "not_found"
-  },
   "ribbon-communications|swe|l2": {
    "expires": "2026-10-28T01:11:15.053782+00:00",
    "looked_up": "2026-10-08T20:01:19+00:00",
@@ -12546,8 +12536,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T05:01:22.068768+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-20T06:30:59.101783+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13044,8 +13034,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T02:42:45.484315+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
+   "expires": "2027-01-20T04:34:30.320987+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13576,11 +13566,6 @@
   "sofodel|frontend|l1": {
    "expires": "2026-10-30T05:03:03.490461+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
-   "status": "not_found"
-  },
-  "softcrayons-it-education|frontend|l1": {
-   "expires": "2026-10-22T02:47:03.634803+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
   "softcrayons-it-education|fullstack|l1": {
@@ -14498,6 +14483,11 @@
   "techcarvings-consultancy-pvt-ltd|erp|l1": {
    "expires": "2026-10-31T07:01:55.938183+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
+   "status": "not_found"
+  },
+  "techcognate|swe|l1": {
+   "expires": "2026-11-06T03:01:40.887836+00:00",
+   "looked_up": "2026-10-22T03:01:25+00:00",
    "status": "not_found"
   },
   "techinfinity-io|fullstack|l1": {
@@ -16446,11 +16436,6 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
-  "xuman-ai|swe|l1": {
-   "expires": "2026-10-22T02:09:58.803327+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "xylem|swe|l1": {
    "expires": "2026-11-01T23:17:15.794039+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
@@ -16746,8 +16731,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2380,
-  "lookups_today": 5,
+  "lookups_month": 2383,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
