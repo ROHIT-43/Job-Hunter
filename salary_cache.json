@@ -947,6 +947,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "amadeus|swe|l1": {
+   "expires": "2026-11-01T02:47:20.852067+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "amadeus|swe|l2": {
    "expires": "2026-10-28T07:03:28.371729+00:00",
    "looked_up": "2026-10-12T09:01:32+00:00",
@@ -1212,8 +1217,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:26:33.716668+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-14T15:49:24.490350+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1819,6 +1824,11 @@
    "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
+  "aurigait|swe|l1": {
+   "expires": "2026-11-05T22:29:37.358876+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "aurnex-group|swe|l1": {
    "expires": "2026-10-29T21:02:17.452578+00:00",
    "looked_up": "2026-10-21T15:01:33+00:00",
@@ -1869,9 +1879,19 @@
    "looked_up": "2026-10-21T18:01:33+00:00",
    "status": "not_found"
   },
+  "auxgen|fullstack|l1": {
+   "expires": "2026-11-07T20:55:33.737583+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "avaloq|devops|l1": {
    "expires": "2026-11-10T20:32:12.661195+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
+   "status": "not_found"
+  },
+  "avaloq|swe|l1": {
+   "expires": "2026-11-02T15:49:51.817109+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "avance-clinical|swe|l1": {
@@ -1920,6 +1940,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "avnet|swe|l1": {
+   "expires": "2026-11-05T09:18:40.043931+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
   },
   "axalonsystems|swe|l1": {
    "basis": "posted",
@@ -2491,8 +2516,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T01:40:03.808141+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-19T01:39:19.936310+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2849,6 +2874,11 @@
    "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
+  "careerpointltd|swe|l1": {
+   "expires": "2026-11-07T23:04:29.367625+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "careerxperts-consulting|data|l1": {
    "expires": "2026-11-05T15:52:56.394582+00:00",
    "looked_up": "2026-10-21T03:02:05+00:00",
@@ -2988,6 +3018,11 @@
    "looked_up": "2026-10-18T21:01:29+00:00",
    "status": "not_found"
   },
+  "caterpillar-inc|fullstack|l1": {
+   "expires": "2026-10-29T11:36:03.308852+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -3109,11 +3144,6 @@
   "centricasoft|swe|l1": {
    "expires": "2026-11-08T22:17:37.277033+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "certifyos|swe|l2": {
-   "expires": "2026-10-22T08:16:01.655970+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "ces|swe|l1": {
@@ -3677,6 +3707,11 @@
    "status": "found",
    "year": 2025
   },
+  "collegedunia|swe|l1": {
+   "expires": "2026-11-04T22:39:41.574998+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "colleve|erp|l1": {
    "expires": "2026-10-26T01:41:38.297671+00:00",
    "looked_up": "2026-10-11T07:01:20+00:00",
@@ -3843,6 +3878,11 @@
    "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
+  "coreops-ai|erp|l1": {
+   "expires": "2026-11-03T10:59:57.865700+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
   "cornerstoneondemand|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3876,6 +3916,11 @@
   "coupa|security|l1": {
    "expires": "2026-10-26T21:57:14.911625+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
+   "status": "not_found"
+  },
+  "crawlapps|frontend|l1": {
+   "expires": "2026-11-03T13:18:18.747181+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "credit-agricole-cib|devops|l1": {
@@ -4248,6 +4293,16 @@
   "datapoint-info-solutions-p-ltd|swe|l1": {
    "expires": "2026-11-02T14:49:54.819275+00:00",
    "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
+  },
+  "datavail|erp|l1": {
+   "expires": "2026-11-10T07:37:04.881041+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "datavail|erp|l3": {
+   "expires": "2026-11-01T09:34:29.861770+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "dayal-opticals-india-pvt-ltd|swe|l1": {
@@ -8008,8 +8063,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:52:42.417665+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-22T13:29:11.278042+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8949,8 +9004,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T14:41:43.381624+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-22T20:21:39.140337+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11625,8 +11680,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:39:01.389402+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-19T13:46:08.252668+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12720,8 +12775,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T20:50:27.893325+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-20T15:07:44.325392+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12977,6 +13032,11 @@
   "samosys-technologies|swe|l1": {
    "expires": "2026-11-02T06:31:28.696269+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
+   "status": "not_found"
+  },
+  "sams-precision-components|swe|l1": {
+   "expires": "2026-10-29T09:26:28.570383+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "samsdigitalin|fullstack|l1": {
@@ -13582,6 +13642,11 @@
   "smallest|devops|l1": {
    "expires": "2026-11-03T01:59:03.777435+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "smallest|swe|l1": {
+   "expires": "2026-11-01T08:22:09.393684+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "smart-ims|data|l1": {
@@ -15361,6 +15426,26 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "transunion|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-18T05:50:52.965043+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/TransUnion-DeveloperII-Salaries-E11441_D_KO11,22.htm"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4381900/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "trantronix-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16818,8 +16903,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:57:16.671312+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
+   "expires": "2027-01-25T00:13:53.584185+00:00",
+   "looked_up": "2026-10-22T09:01:30+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17013,8 +17098,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2431,
-  "lookups_today": 56,
+  "lookups_month": 2446,
+  "lookups_today": 71,
   "month": "2026-10"
  }
 }
