@@ -1604,6 +1604,11 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "aritioninfotech|swe|l1": {
+   "expires": "2026-11-10T05:41:50.749275+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
+   "status": "not_found"
+  },
   "arm|devops|l1": {
    "expires": "2026-10-26T05:15:54.678945+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -1863,8 +1868,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T18:04:37.780086+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-25T08:02:04.702137+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -1882,6 +1887,11 @@
   "attributicslab|erp|l1": {
    "expires": "2026-10-30T21:47:45.284698+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
+   "status": "not_found"
+  },
+  "att|devops|l1": {
+   "expires": "2026-11-03T14:04:01.884702+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "status": "not_found"
   },
   "audaxfinancialtech|devops|l2": {
@@ -2206,6 +2216,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "barncops|swe|l1": {
+   "expires": "2026-11-01T13:23:49.278359+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
+   "status": "not_found"
   },
   "barry-wehmiller|security|l1": {
    "expires": "2026-10-27T10:34:32.254816+00:00",
@@ -2765,11 +2780,6 @@
   "bryka-electrosystems-and-software-pvt-ltd|swe|l1": {
    "expires": "2026-11-05T13:19:10.309846+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "btranzsoftware|erp|l1": {
-   "expires": "2026-10-22T19:53:59.621005+00:00",
-   "looked_up": "2026-10-09T01:01:22+00:00",
    "status": "not_found"
   },
   "bt|data|l1": {
@@ -3699,8 +3709,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:19:09.518176+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-17T00:31:20.664267+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5796,8 +5806,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T03:25:32.612793+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-14T18:09:31.941878+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6256,6 +6266,11 @@
    "status": "found",
    "year": 2022
   },
+  "foreseesecurity|security|l1": {
+   "expires": "2026-10-30T13:35:25.479267+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
+   "status": "not_found"
+  },
   "fornexet|fullstack|l1": {
    "expires": "2026-11-02T19:53:27.515013+00:00",
    "looked_up": "2026-10-13T04:01:36+00:00",
@@ -6367,11 +6382,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "fynbosys|erp|l1": {
-   "expires": "2026-10-22T19:52:15.378062+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
   },
   "gacsol|erp|l1": {
    "expires": "2026-11-02T01:03:07.682607+00:00",
@@ -8156,11 +8166,6 @@
    "status": "found",
    "year": 2025
   },
-  "infocepts|data|l1": {
-   "expires": "2026-10-22T19:41:13.536904+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "infolitz-software|swe|l1": {
    "expires": "2026-11-09T01:55:30.055937+00:00",
    "looked_up": "2026-10-20T20:01:26+00:00",
@@ -9497,8 +9502,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T10:49:38.970945+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-21T07:49:43.593551+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11540,6 +11545,22 @@
    "expires": "2026-10-23T21:45:51.778458+00:00",
    "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
+  },
+  "opengov-inc|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T04:16:50.772849+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
+   "max_lpa": 29.7,
+   "min_lpa": 27.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/opengov-salaries/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "openstars|frontend|l1": {
    "expires": "2026-10-31T23:13:40.758909+00:00",
@@ -15789,8 +15810,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T06:48:41.342597+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-14T19:24:39.298243+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17480,8 +17501,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T22:16:41.331301+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-27T01:58:41.482907+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17696,8 +17717,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:17:43.784977+00:00",
-   "looked_up": "2026-10-22T19:15:37+00:00",
+   "expires": "2027-01-25T00:16:31.217138+00:00",
+   "looked_up": "2026-10-22T20:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17907,8 +17928,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2563,
-  "lookups_today": 188,
+  "lookups_month": 2568,
+  "lookups_today": 193,
   "month": "2026-10"
  }
 }
