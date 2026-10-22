@@ -851,8 +851,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T17:47:12.949387+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-19T11:59:00.777985+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1197,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T05:34:39.317325+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-24T08:27:04.126033+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1864,6 +1864,11 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
+  "aventra-group|swe|l1": {
+   "expires": "2026-11-08T10:54:05.468387+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
+   "status": "not_found"
+  },
   "aveva|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2340,11 +2345,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "blueera-softech|frontend|l1": {
-   "expires": "2026-10-21T23:45:39.760727+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "blueflute-software|mobile|l1": {
    "expires": "2026-11-04T07:01:16.170805+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
@@ -2481,8 +2481,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T03:09:34.219370+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-19T15:47:01.690135+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4673,6 +4673,11 @@
    "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
+  "droisys|frontend|l1": {
+   "expires": "2026-11-04T18:53:39.172906+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
+   "status": "not_found"
+  },
   "dun-&amp;-bradstreet-india|data|l1": {
    "expires": "2026-10-31T18:44:26.430722+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -4681,8 +4686,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T15:19:37.848384+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-22T09:23:32.628068+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5466,6 +5471,11 @@
     }
    ],
    "status": "found"
+  },
+  "festo|devops|l1": {
+   "expires": "2026-11-08T19:56:23.757949+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
+   "status": "not_found"
   },
   "fidelity-international|data|l1": {
    "expires": "2026-11-02T05:09:21.968633+00:00",
@@ -6897,8 +6907,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T21:44:09.219584+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-20T18:58:04.835098+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7897,8 +7907,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:38:24.554404+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-17T22:35:56.601529+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7936,11 +7946,6 @@
   "intraedge|swe|l1": {
    "expires": "2026-10-29T15:31:10.637956+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "intuitive1|swe|l1": {
-   "expires": "2026-10-21T23:45:44.661966+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
    "status": "not_found"
   },
   "inventam-tech-solution|fullstack|l1": {
@@ -11461,8 +11466,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T07:49:45.233449+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-14T15:24:35.172077+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12330,11 +12335,6 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
-  "responsiveio|swe|l1": {
-   "expires": "2026-10-21T23:53:51.540405+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
   "revantage|erp|l1": {
    "expires": "2026-11-01T18:41:30.320932+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -12551,8 +12551,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T07:40:18.157480+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-23T20:29:36.624549+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13054,8 +13054,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:19:38.078198+00:00",
-   "looked_up": "2026-10-21T23:18:55+00:00",
+   "expires": "2027-01-26T08:39:58.231915+00:00",
+   "looked_up": "2026-10-22T00:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -16755,9 +16755,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-21",
-  "lookups_month": 2375,
-  "lookups_today": 174,
+  "day": "2026-10-22",
+  "lookups_month": 2378,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
