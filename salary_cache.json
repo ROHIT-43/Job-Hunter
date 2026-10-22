@@ -851,8 +851,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T21:32:21.593791+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-16T03:08:26.826049+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1197,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T23:47:51.858148+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-14T03:32:31.623449+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1216,11 +1216,6 @@
   "ankush-aggarwal-associates|swe|l1": {
    "expires": "2026-10-28T19:43:24.980032+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
-  "ansira|devops|l1": {
-   "expires": "2026-10-22T03:13:07.669060+00:00",
-   "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
   "ansira|swe|l2": {
@@ -2471,8 +2466,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:47:58.737292+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-21T00:04:03.765558+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4676,8 +4671,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T09:06:17.153211+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-23T22:03:37.322124+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6603,11 +6598,6 @@
    "looked_up": "2026-10-15T17:01:30+00:00",
    "status": "not_found"
   },
-  "hack-halt|security|l1": {
-   "expires": "2026-10-22T03:16:01.867789+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "hackerkernel|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6892,8 +6882,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T23:16:03.640900+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-23T06:47:41.102100+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7892,8 +7882,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T04:27:42.420932+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-26T08:20:07.134670+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10851,6 +10841,30 @@
    "looked_up": "2026-10-20T04:01:26+00:00",
    "status": "not_found"
   },
+  "optumindia|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T05:52:06.795289+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
+   "max_lpa": 12.3,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/optum/salaries/software-engineer/title/data-engineer/locations/india"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4585515/"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/optum-global-solutions-salaries/associate-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "opviain|data|l1": {
    "expires": "2026-11-08T16:05:19.111232+00:00",
    "looked_up": "2026-10-20T13:01:28+00:00",
@@ -11456,8 +11470,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T01:57:01.740738+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-20T16:56:09.571574+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12367,11 +12381,6 @@
    "status": "found",
    "year": 2026
   },
-  "revx-hospitality|fullstack|l1": {
-   "expires": "2026-10-22T03:15:41.165523+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "rgbwebtech|swe|l1": {
    "expires": "2026-10-27T01:14:10.058559+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -12536,8 +12545,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T06:30:59.101783+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-22T01:38:45.816159+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -13034,8 +13043,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:34:30.320987+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
+   "expires": "2027-01-16T16:17:14.408367+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -13612,6 +13621,11 @@
   "sofvare|swe|l1": {
    "expires": "2026-10-26T18:45:24.191681+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "solarsys-innovations-private-ltd|swe|l1": {
+   "expires": "2026-11-02T00:00:56.210743+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
    "status": "not_found"
   },
   "solarwinds|devops|l1": {
@@ -14812,11 +14826,6 @@
    "looked_up": "2026-10-11T01:01:27+00:00",
    "status": "not_found"
   },
-  "the-kashin|frontend|l1": {
-   "expires": "2026-10-22T03:12:02.292834+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "the-knowledge-academy|swe|l1": {
    "expires": "2026-10-28T02:48:33.108391+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -14928,11 +14937,6 @@
   "thinkinnov-solution-technologies-private-limited|swe|l1": {
    "expires": "2026-11-05T08:01:14.539770+00:00",
    "looked_up": "2026-10-21T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "thinkwise-consulting-llp|data|l1": {
-   "expires": "2026-10-22T03:24:39.526850+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "thoughtsol-infotech-ltd|fullstack|l1": {
@@ -16037,6 +16041,11 @@
    "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
+  "we-plm|swe|l1": {
+   "expires": "2026-11-04T22:37:16.875369+00:00",
+   "looked_up": "2026-10-22T04:01:26+00:00",
+   "status": "not_found"
+  },
   "wealthy-in|devops|l1": {
    "expires": "2026-11-05T17:02:59.970421+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -16731,8 +16740,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2383,
-  "lookups_today": 8,
+  "lookups_month": 2386,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
