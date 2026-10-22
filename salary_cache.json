@@ -882,11 +882,6 @@
    "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
-  "alphacom-systems-and-solutions-private-limited|swe|l1": {
-   "expires": "2026-10-22T07:26:56.268135+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
-   "status": "not_found"
-  },
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1056,6 +1051,11 @@
    "status": "found",
    "year": 2022
   },
+  "amazure-technologies-pvt-ltd|swe|l1": {
+   "expires": "2026-10-31T03:30:00.638207+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
   "amd|swe|l1": {
    "expires": "2026-10-30T04:22:11.335192+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -1168,6 +1168,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "amrit-autotech-engineers|swe|l1": {
+   "expires": "2026-11-10T06:29:43.455489+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
   "amrita-vishwa-vidyapeetham|frontend|l1": {
    "expires": "2026-10-24T07:54:28.428817+00:00",
    "looked_up": "2026-10-11T09:01:20+00:00",
@@ -1207,8 +1212,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T16:47:54.775671+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-26T08:26:33.716668+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -1789,6 +1794,11 @@
    ],
    "status": "found"
   },
+  "atsmantra|data|l1": {
+   "expires": "2026-11-04T22:42:04.280345+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
   "attributicslab|erp|l1": {
    "expires": "2026-10-30T21:47:45.284698+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -2174,11 +2184,6 @@
    "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
-  "bctglobal|fullstack|l1": {
-   "expires": "2026-10-22T07:35:39.141635+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "bdoinindia|security|l1": {
    "expires": "2026-11-05T22:25:42.957395+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -2468,6 +2473,11 @@
    "status": "found",
    "year": 2026
   },
+  "botanix-labs2linkedin.com|swe|l1": {
+   "expires": "2026-11-10T15:57:54.246022+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
   "botlab-dynamics|swe|l1": {
    "expires": "2026-10-31T16:32:19.854583+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -2481,8 +2491,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:55:26.101495+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-27T01:40:03.808141+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6309,6 +6319,11 @@
    "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
+  "go-unicrew|mobile|l1": {
+   "expires": "2026-10-31T12:16:07.689581+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
   "goamouldcrafters|swe|l1": {
    "expires": "2026-11-04T10:03:56.180298+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
@@ -7993,8 +8008,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:05:21.897076+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-15T07:52:42.417665+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8934,8 +8949,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T16:45:55.584003+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-15T14:41:43.381624+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11610,8 +11625,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T23:32:32.248568+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-24T04:39:01.389402+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12705,8 +12720,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T19:46:37.574589+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
+   "expires": "2027-01-21T20:50:27.893325+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12839,6 +12854,11 @@
   "saatvik-agro-processors-private-limited|fullstack|l1": {
    "expires": "2026-11-03T01:59:38.291381+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "saatvik-agro-processors-private-limited|mobile|l1": {
+   "expires": "2026-11-06T05:29:21.532353+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|swe|l1": {
@@ -13117,6 +13137,11 @@
   "schwab-india|swe|l1": {
    "expires": "2026-11-05T17:11:15.778113+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
+   "status": "not_found"
+  },
+  "scientific-games-lottery|swe|l1": {
+   "expires": "2026-11-11T18:13:58.144723+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "scikiq|fullstack|l1": {
@@ -14009,6 +14034,16 @@
   "state-street|data|l1": {
    "expires": "2026-10-25T04:59:09.129754+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
+   "status": "not_found"
+  },
+  "statusneo|frontend|l1": {
+   "expires": "2026-11-05T20:28:10.057536+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
+  "statusneo|swe|l1": {
+   "expires": "2026-10-30T08:18:48.659683+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "stealth-startup-community|fullstack|l1": {
@@ -14938,6 +14973,11 @@
   "tesco-technology|swe|l3": {
    "expires": "2026-10-30T03:38:25.993611+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "testbasesolutions-ltd|swe|l1": {
+   "expires": "2026-11-02T10:37:00.007228+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "tether|mobile|l1": {
@@ -16254,6 +16294,22 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
+  "weareallendigital|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-16T02:42:13.119769+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "max_lpa": 38.0,
+   "min_lpa": 36.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5217044/"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "weareeccentric|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16759,6 +16815,20 @@
    "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
+  "zenbourg|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T21:57:16.671312+00:00",
+   "looked_up": "2026-10-22T08:01:30+00:00",
+   "max_lpa": 2.2,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "zendesk|swe|l2": {
    "expires": "2026-11-05T22:53:58.295570+00:00",
    "looked_up": "2026-10-19T23:01:26+00:00",
@@ -16943,8 +17013,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2420,
-  "lookups_today": 45,
+  "lookups_month": 2431,
+  "lookups_today": 56,
   "month": "2026-10"
  }
 }
