@@ -1863,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:16:23.926352+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-20T15:28:34.625578+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3699,8 +3699,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T15:00:14.620603+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-14T08:43:47.751890+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5495,6 +5495,11 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
+  "eternal9-foodworks-private-limited|frontend|l1": {
+   "expires": "2026-11-10T12:34:09.955704+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
+   "status": "not_found"
+  },
   "ethelius|frontend|l1": {
    "expires": "2026-11-01T02:21:56.232219+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -5791,8 +5796,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T20:25:03.157179+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-21T02:15:16.004315+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6026,6 +6031,22 @@
    "expires": "2026-10-31T08:55:18.789702+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
+  },
+  "fis|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T09:12:41.695923+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/fis-salaries/software-engineer/mohali-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "fis|swe|l1": {
    "basis": "ctc",
@@ -9476,8 +9497,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:56:35.544118+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-15T00:45:26.959349+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10439,6 +10460,11 @@
    "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
+  "millennium-partners|frontend|l1": {
+   "expires": "2026-11-02T20:40:02.563336+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
+   "status": "not_found"
+  },
   "millennium-partners|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10484,6 +10510,11 @@
   "mindset-consulting-llc|erp|l1": {
    "expires": "2026-10-30T08:42:22.322202+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
+   "status": "not_found"
+  },
+  "mindtelg|fullstack|l1": {
+   "expires": "2026-10-31T13:14:03.999338+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "status": "not_found"
   },
   "minfy|security|l1": {
@@ -13878,6 +13909,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "seekeragencyai|devops|l1": {
+   "expires": "2026-11-11T02:17:09.438770+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
+   "status": "not_found"
+  },
   "seekhoo|swe|l2": {
    "expires": "2026-11-03T07:25:34.521107+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -13986,6 +14022,26 @@
    "expires": "2026-10-30T21:03:22.743233+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
    "status": "not_found"
+  },
+  "siemens-energy|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T19:50:54.579568+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/siemens-energy-salaries/solution-engineer/gurgaon-location"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1291962/siemens-energy-software-engineer-gurgaon"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "siemens-healthineers|fullstack|l1": {
    "basis": "ctc",
@@ -15733,8 +15789,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T06:28:12.737657+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-17T23:54:56.456339+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17424,8 +17480,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T00:48:11.211844+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-26T10:28:22.409864+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17640,8 +17696,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T10:29:30.396189+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
+   "expires": "2027-01-22T04:01:49.036361+00:00",
+   "looked_up": "2026-10-22T19:01:24+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17797,11 +17853,6 @@
    "looked_up": "2026-10-18T02:01:28+00:00",
    "status": "not_found"
   },
-  "zoenixhq|frontend|l2": {
-   "expires": "2026-10-22T18:43:23.723688+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "zoenixhq|swe|l2": {
    "expires": "2026-10-23T21:11:30.856114+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -17856,8 +17907,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2557,
-  "lookups_today": 182,
+  "lookups_month": 2563,
+  "lookups_today": 188,
   "month": "2026-10"
  }
 }
