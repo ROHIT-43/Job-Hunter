@@ -1204,6 +1204,11 @@
    "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
+  "amiseq-inc.|swe|l1": {
+   "expires": "2026-11-09T18:16:52.655282+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
+   "status": "not_found"
+  },
   "ami|swe|l1": {
    "expires": "2026-10-28T20:04:49.955424+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -1232,6 +1237,11 @@
   "amrita-vishwa-vidyapeetham|swe|l1": {
    "expires": "2026-11-03T02:34:54.877928+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
+   "status": "not_found"
+  },
+  "analytix-global|mobile|l1": {
+   "expires": "2026-11-01T12:39:50.919974+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
   "anewswire|fullstack|l1": {
@@ -1848,8 +1858,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T22:51:52.400122+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-23T06:31:39.306529+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3679,8 +3689,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:17:34.930538+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-17T09:04:00.752309+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -3738,6 +3748,11 @@
   "coffeebeans-brewinginnovations|data|l1": {
    "expires": "2026-10-26T18:34:44.093725+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
+   "status": "not_found"
+  },
+  "cofidential|security|l1": {
+   "expires": "2026-11-11T02:39:00.390783+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
   "coforge-tech|erp|l1": {
@@ -5766,8 +5781,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T10:27:19.075228+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-24T23:37:32.683948+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6327,6 +6342,11 @@
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
+  "gacsol|erp|l1": {
+   "expires": "2026-11-02T01:03:07.682607+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
+   "status": "not_found"
+  },
   "galaxeye|swe|l1": {
    "expires": "2026-11-02T15:59:20.484863+00:00",
    "looked_up": "2026-10-21T04:01:37+00:00",
@@ -6355,6 +6375,11 @@
   "gartner|swe|l2": {
    "expires": "2026-10-30T22:30:24.938240+00:00",
    "looked_up": "2026-10-21T10:01:27+00:00",
+   "status": "not_found"
+  },
+  "gather-ai|data|l2": {
+   "expires": "2026-11-05T10:07:21.118684+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
   "gcrs-group|swe|l1": {
@@ -9441,8 +9466,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T19:22:09.047863+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-19T08:26:46.911325+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -14001,6 +14026,22 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
+  "siemenssoftware|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-18T03:22:01.025014+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/siemens-india/jobs-internships/fresher-developertester"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "siemenssoftware|swe|l1": {
    "expires": "2026-11-06T16:00:54.639645+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -14410,6 +14451,11 @@
   "solventumhealth|erp|l1": {
    "expires": "2026-10-23T02:10:51.760395+00:00",
    "looked_up": "2026-10-15T19:01:43+00:00",
+   "status": "not_found"
+  },
+  "solventumhealth|swe|l1": {
+   "expires": "2026-10-30T16:09:50.300921+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
   "solvex-solutions|devops|l1": {
@@ -15484,6 +15530,22 @@
    "looked_up": "2026-10-17T18:01:21+00:00",
    "status": "not_found"
   },
+  "teradata|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-25T05:03:42.231483+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2116322/teradata-associate-software-engineer-internfte"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "teradata|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15666,8 +15728,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:18:23.812807+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-20T19:31:02.185983+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17336,8 +17398,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T08:35:27.975063+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-15T07:44:42.773728+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17552,8 +17614,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:20:51.386575+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
+   "expires": "2027-01-24T17:27:47.805103+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17613,6 +17675,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "zensar|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T22:36:44.619293+00:00",
+   "looked_up": "2026-10-22T17:01:27+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/zensar-technologies-salaries/dot-net-developer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "zensar|mobile|l1": {
    "expires": "2026-11-04T01:09:24.173920+00:00",
@@ -17752,8 +17830,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2540,
-  "lookups_today": 165,
+  "lookups_month": 2549,
+  "lookups_today": 174,
   "month": "2026-10"
  }
 }
