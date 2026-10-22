@@ -1217,8 +1217,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:44:41.372922+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-15T19:39:55.943443+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2516,8 +2516,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:06:35.413350+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-22T10:59:14.313789+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6655,6 +6655,11 @@
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
+  "gpunet|swe|l1": {
+   "expires": "2026-10-30T01:15:57.509478+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
+   "status": "not_found"
+  },
   "grabapp|mobile|l1": {
    "expires": "2026-10-27T16:27:48.415077+00:00",
    "looked_up": "2026-10-18T13:01:22+00:00",
@@ -8119,8 +8124,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T04:36:30.256259+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-13T14:01:49.984246+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8751,6 +8756,11 @@
    ],
    "status": "found"
   },
+  "kasparro-ai|swe|l1": {
+   "expires": "2026-11-04T02:01:46.930673+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
+   "status": "not_found"
+  },
   "kastech-software-solutions-group|erp|l1": {
    "expires": "2026-10-24T05:57:08.842738+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
@@ -9090,8 +9100,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T21:02:06.975663+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-14T11:14:59.963272+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11772,8 +11782,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:31:55.548743+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-18T22:08:55.525240+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -15244,8 +15254,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:10:33.960167+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-22T14:37:24.240674+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17071,8 +17081,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:45:26.947574+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
+   "expires": "2027-01-24T10:07:53.976345+00:00",
+   "looked_up": "2026-10-22T10:17:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17266,8 +17276,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2468,
-  "lookups_today": 93,
+  "lookups_month": 2470,
+  "lookups_today": 95,
   "month": "2026-10"
  }
 }
