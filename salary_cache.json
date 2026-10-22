@@ -1868,8 +1868,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T21:32:08.158950+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-25T05:52:53.222541+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3709,8 +3709,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:10:29.355706+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-20T22:53:15.933087+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5801,8 +5801,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T19:40:46.495859+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-20T15:44:32.395126+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -8808,11 +8808,6 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
-  "jmj-medical-equipment-device|swe|l1": {
-   "expires": "2026-10-22T22:17:37.255640+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
-   "status": "not_found"
-  },
   "jnjinnovativemedicine|swe|l1": {
    "expires": "2026-11-04T22:18:19.336328+00:00",
    "looked_up": "2026-10-15T16:01:35+00:00",
@@ -9497,8 +9492,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T19:23:41.908377+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-27T08:30:33.140793+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -15785,8 +15780,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:29:18.815910+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-20T15:40:26.030149+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17461,8 +17456,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:07:46.278330+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-19T08:57:36.334067+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17677,8 +17672,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T03:10:50.119289+00:00",
-   "looked_up": "2026-10-22T22:01:28+00:00",
+   "expires": "2027-01-22T00:11:28.821115+00:00",
+   "looked_up": "2026-10-22T22:22:05+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
