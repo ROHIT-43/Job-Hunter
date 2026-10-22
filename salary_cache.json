@@ -851,8 +851,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:59:00.777985+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-17T02:50:02.090045+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1197,8 +1197,8 @@
   "angler-careers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T08:27:04.126033+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-22T15:25:20.162913+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 5.2,
    "min_lpa": 3.8,
    "sources": [
@@ -2481,8 +2481,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T15:47:01.690135+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-24T18:22:22.470843+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4686,8 +4686,8 @@
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:23:32.628068+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-18T22:50:46.250213+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6907,8 +6907,8 @@
   "hextgenai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:58:04.835098+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-19T06:15:44.851680+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.6,
    "sources": [
@@ -6981,6 +6981,11 @@
   "hitachienergy|swe|l1": {
    "expires": "2026-10-23T05:44:40.552768+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "hivekra|fullstack|l1": {
+   "expires": "2026-11-01T07:55:21.692633+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "status": "not_found"
   },
   "honeywell|fullstack|l1": {
@@ -7907,8 +7912,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T22:35:56.601529+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-21T09:29:16.456181+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -11466,8 +11471,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T15:24:35.172077+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-18T19:57:09.344384+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -12551,8 +12556,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T20:29:36.624549+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-21T21:49:05.211730+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -12815,11 +12820,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "san-engineering-solutions|erp|l1": {
-   "expires": "2026-10-22T00:47:50.246436+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "sandisk|swe|l1": {
    "expires": "2026-10-25T22:01:25.088064+00:00",
    "looked_up": "2026-10-09T22:01:25+00:00",
@@ -13054,8 +13054,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:39:58.231915+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
+   "expires": "2027-01-14T16:54:03.395843+00:00",
+   "looked_up": "2026-10-22T01:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -16756,8 +16756,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2378,
-  "lookups_today": 3,
+  "lookups_month": 2379,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
