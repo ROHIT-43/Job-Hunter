@@ -121,11 +121,6 @@
    "looked_up": "2026-10-22T07:01:24+00:00",
    "status": "not_found"
   },
-  "aavad-instrument-pvt-ltd|swe|l1": {
-   "expires": "2026-10-22T18:00:07.867441+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
-   "status": "not_found"
-  },
   "aavish-ai-lab|swe|l1": {
    "expires": "2026-10-23T20:47:11.815640+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
@@ -761,6 +756,11 @@
   "akriveia-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-11-11T04:04:42.187444+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "akron-intel|mobile|l1": {
+   "expires": "2026-10-30T08:00:14.652501+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "status": "not_found"
   },
   "alaanpay|swe|l1": {
@@ -1715,6 +1715,11 @@
    "status": "found",
    "year": 2026
   },
+  "aspen-technology|swe|l1": {
+   "expires": "2026-11-06T05:38:32.560980+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
   "aspen-technology|swe|l2": {
    "expires": "2026-11-03T17:16:17.288707+00:00",
    "looked_up": "2026-10-16T17:01:24+00:00",
@@ -1858,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T06:31:39.306529+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-22T05:16:23.926352+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3367,6 +3372,11 @@
    ],
    "status": "found"
   },
+  "chanax|frontend|l1": {
+   "expires": "2026-11-05T01:21:27.914520+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
   "chatsparkk|swe|l1": {
    "expires": "2026-10-30T23:35:18.382292+00:00",
    "looked_up": "2026-10-12T20:01:23+00:00",
@@ -3689,8 +3699,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:04:00.752309+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-27T15:00:14.620603+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5781,8 +5791,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T23:37:32.683948+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-16T20:25:03.157179+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9466,8 +9476,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T08:26:46.911325+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-21T02:56:35.544118+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11190,11 +11200,6 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
-  "ns3-tech-solutions|security|l1": {
-   "expires": "2026-10-22T17:20:17.079285+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "nsr-information-systems|frontend|l1": {
    "expires": "2026-10-27T06:03:28.185629+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -12031,11 +12036,6 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
-  "pinterview|swe|l1": {
-   "expires": "2026-10-22T17:30:29.944023+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "pione-data|swe|l1": {
    "expires": "2026-11-04T10:03:02.486292+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
@@ -12415,11 +12415,6 @@
    "status": "found",
    "year": 2026
   },
-  "pwc-india|data|l1": {
-   "expires": "2026-10-22T17:43:31.022131+00:00",
-   "looked_up": "2026-10-09T15:01:26+00:00",
-   "status": "not_found"
-  },
   "pwc-india|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12652,11 +12647,6 @@
   "quantum|swe|l3": {
    "expires": "2026-10-31T13:27:59.818744+00:00",
    "looked_up": "2026-10-17T10:01:25+00:00",
-   "status": "not_found"
-  },
-  "quarkwiz|devops|l1": {
-   "expires": "2026-10-22T17:31:45.834806+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "qubist-solutions-private-limited|swe|l1": {
@@ -15725,11 +15715,26 @@
    "looked_up": "2026-10-09T23:01:19+00:00",
    "status": "not_found"
   },
+  "the-urbanindia|erp|l1": {
+   "expires": "2026-11-11T03:58:57.594981+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
+  "the-urbanindia|frontend|l1": {
+   "expires": "2026-11-09T14:56:28.630999+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
+  "the-urbanindia|swe|l1": {
+   "expires": "2026-11-08T15:51:30.087578+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:31:02.185983+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-21T06:28:12.737657+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -16080,6 +16085,11 @@
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
+  "trexquant-investment-lp|swe|l1": {
+   "expires": "2026-11-10T05:48:42.370230+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
   "tricog-health|frontend|l1": {
    "expires": "2026-10-25T18:59:47.990846+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -16323,6 +16333,22 @@
    "expires": "2026-10-29T18:36:18.600032+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
+  },
+  "united-airlines-india-knowledge-center|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T11:28:20.861987+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/united-airlines-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "unrollloop|frontend|l1": {
    "expires": "2026-10-28T16:28:18.414833+00:00",
@@ -17398,8 +17424,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:44:42.773728+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-27T00:48:11.211844+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17614,8 +17640,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T17:27:47.805103+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
+   "expires": "2027-01-18T10:29:30.396189+00:00",
+   "looked_up": "2026-10-22T18:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17830,8 +17856,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2549,
-  "lookups_today": 174,
+  "lookups_month": 2557,
+  "lookups_today": 182,
   "month": "2026-10"
  }
 }
