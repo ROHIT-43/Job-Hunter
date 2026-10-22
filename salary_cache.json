@@ -874,6 +874,11 @@
    "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
+  "allianceit-inc|swe|l1": {
+   "expires": "2026-11-04T15:42:08.619099+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "allshore-technologies|swe|l1": {
    "expires": "2026-11-02T07:07:58.618246+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
@@ -1504,11 +1509,6 @@
    "status": "found",
    "year": 2026
   },
-  "aqm-technologies|swe|l1": {
-   "expires": "2026-10-22T13:43:23.078409+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "aqr-capital-management|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1848,8 +1848,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:03:49.611596+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-20T04:54:10.109761+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -2563,6 +2563,30 @@
    "status": "found",
    "year": 2026
   },
+  "boeing|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T04:10:32.338342+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "max_lpa": 11.2,
+   "min_lpa": 8.1,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/zh-cn/companies/boeing/salaries/software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1987810/boeing-sde-1-bangalore"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/0a80b64f/The-Boeing-Company-Bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "bold-business|fullstack|l1": {
    "expires": "2026-10-31T11:54:07.481995+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -2860,6 +2884,11 @@
    "status": "found",
    "year": 2026
   },
+  "caidya|swe|l1": {
+   "expires": "2026-11-09T12:13:13.333823+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "calibitsystems|swe|l1": {
    "expires": "2026-11-01T00:06:38.184461+00:00",
    "looked_up": "2026-10-17T06:01:19+00:00",
@@ -3051,11 +3080,6 @@
   "cargill|data|l1": {
    "expires": "2026-10-26T13:54:44.883116+00:00",
    "looked_up": "2026-10-17T09:01:22+00:00",
-   "status": "not_found"
-  },
-  "cargill|swe|l1": {
-   "expires": "2026-10-22T13:31:07.348749+00:00",
-   "looked_up": "2026-10-15T00:01:24+00:00",
    "status": "not_found"
   },
   "carmatec|mobile|l1": {
@@ -3655,8 +3679,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:25:12.365931+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-16T17:02:17.833696+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -4993,6 +5017,11 @@
    "looked_up": "2026-10-16T20:01:24+00:00",
    "status": "not_found"
   },
+  "eagleburgmann|erp|l1": {
+   "expires": "2026-11-05T13:14:31.494088+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "eaton|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5146,6 +5175,11 @@
   "emagine|data|l1": {
    "expires": "2026-11-01T13:01:25.932659+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "emagine|fullstack|l1": {
+   "expires": "2026-11-11T21:12:51.561239+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
   "emagine|swe|l1": {
@@ -5523,6 +5557,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "exl-service|erp|l1": {
+   "expires": "2026-10-29T19:37:14.778994+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "exl-service|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5722,8 +5761,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T17:24:56.593602+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-19T14:05:20.569247+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5762,6 +5801,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "fedex-global-capability-services-–-hyderabad|swe|l2": {
+   "expires": "2026-11-04T01:23:41.483076+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
   },
   "fedex|fullstack|l1": {
    "expires": "2026-11-01T04:27:05.305275+00:00",
@@ -6579,6 +6623,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "globant|data|l1": {
+   "expires": "2026-10-29T23:38:19.401100+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
   },
   "globus-academy|swe|l1": {
    "expires": "2026-11-09T16:27:29.329711+00:00",
@@ -7860,6 +7909,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "idfcfirstbank|data|l1": {
+   "expires": "2026-11-06T16:43:26.836245+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "idfcfirstbank|swe|l1": {
    "expires": "2026-11-01T02:11:51.843186+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -8350,8 +8404,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T23:26:27.596080+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-26T01:59:33.000184+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8400,6 +8454,22 @@
    "expires": "2026-11-06T04:40:53.119872+00:00",
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
+  },
+  "iongroup|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-23T06:03:53.527854+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6211614/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "iot-solutions-world|erp|l1": {
    "expires": "2026-11-07T07:17:22.415398+00:00",
@@ -9336,8 +9406,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T19:10:06.794348+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-21T03:14:37.466519+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11514,11 +11584,6 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
-  "osswal-infosystem-pvt-ltd|mobile|l1": {
-   "expires": "2026-10-22T13:41:43.851999+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "outstafferai|erp|l1": {
    "expires": "2026-11-02T16:20:13.818702+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
@@ -12064,8 +12129,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T05:05:29.132021+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-15T04:33:34.580321+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -14400,6 +14465,11 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
+  "sourcingninza|fullstack|l1": {
+   "expires": "2026-11-09T00:07:08.762377+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "southwest-airlines|swe|l1": {
    "expires": "2026-10-26T20:33:20.119154+00:00",
    "looked_up": "2026-10-13T03:01:28+00:00",
@@ -15551,8 +15621,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:10:46.787413+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-25T21:26:29.418088+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -16391,6 +16461,11 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
+  "valeo|swe|l1": {
+   "expires": "2026-11-10T16:03:54.777431+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
   "valgenesis-inc|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16744,6 +16819,11 @@
   "voiceindia-ai|fullstack|l1": {
    "expires": "2026-11-02T15:18:34.120233+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
+   "status": "not_found"
+  },
+  "vois|mobile|l1": {
+   "expires": "2026-10-30T23:22:40.135444+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
   "vois|swe|l1": {
@@ -17203,6 +17283,20 @@
    "looked_up": "2026-10-11T09:01:20+00:00",
    "status": "not_found"
   },
+  "wri-india|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T19:28:17.078886+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 9.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "wsp-consultants-india-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17403,8 +17497,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:00:10.069404+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
+   "expires": "2027-01-16T16:13:47.067291+00:00",
+   "looked_up": "2026-10-22T14:01:29+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17603,8 +17697,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2516,
-  "lookups_today": 141,
+  "lookups_month": 2529,
+  "lookups_today": 154,
   "month": "2026-10"
  }
 }
