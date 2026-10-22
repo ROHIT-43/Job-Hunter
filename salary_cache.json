@@ -2516,8 +2516,8 @@
   "bracketsagency|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T10:59:14.313789+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-18T05:38:04.284097+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8124,8 +8124,8 @@
   "intellimeet|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T14:01:49.984246+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-15T04:28:50.363403+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9100,8 +9100,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T11:14:59.963272+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-25T00:09:57.864869+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9281,11 +9281,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "london-stock-exchange-group|devops|l1": {
-   "expires": "2026-10-22T10:54:12.060804+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
   },
   "london-stock-exchange-group|security|l1": {
    "expires": "2026-10-25T17:58:48.361671+00:00",
@@ -11782,8 +11777,8 @@
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:08:55.525240+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-16T19:47:00.630242+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 24.0,
    "min_lpa": 22.0,
    "sources": [
@@ -13822,11 +13817,6 @@
    "status": "found",
    "year": 2025
   },
-  "snowrelic|frontend|l1": {
-   "expires": "2026-10-22T10:53:36.911645+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
-   "status": "not_found"
-  },
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15254,8 +15244,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:37:24.240674+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-26T22:53:15.471623+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17081,8 +17071,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T10:07:53.976345+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
+   "expires": "2027-01-25T22:02:58.665746+00:00",
+   "looked_up": "2026-10-22T11:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
