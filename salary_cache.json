@@ -1848,8 +1848,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:05:40.847778+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-24T22:51:52.400122+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -2655,6 +2655,11 @@
   "brandkrit|mobile|l1": {
    "expires": "2026-10-25T21:03:56.816691+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
+   "status": "not_found"
+  },
+  "brandsafway|erp|l1": {
+   "expires": "2026-11-02T07:34:50.711840+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "status": "not_found"
   },
   "bridgestone|erp|l1": {
@@ -3674,8 +3679,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T23:11:09.803733+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-20T04:17:34.930538+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5761,8 +5766,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T06:41:00.845565+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-16T10:27:19.075228+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6289,6 +6294,11 @@
   "fusion-practices|swe|l1": {
    "expires": "2026-11-02T07:24:42.301921+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "futuredesks|mobile|l1": {
+   "expires": "2026-11-12T08:34:42.744858+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "status": "not_found"
   },
   "fuziongrow|swe|l1": {
@@ -8450,11 +8460,6 @@
    "looked_up": "2026-10-17T09:01:22+00:00",
    "status": "not_found"
   },
-  "intellisensetechnology|swe|l1": {
-   "expires": "2026-10-22T15:47:32.286440+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "intertec-systems|devops|l1": {
    "expires": "2026-10-29T02:06:47.062534+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -9436,8 +9441,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T03:35:25.336679+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-23T19:22:09.047863+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -12779,6 +12784,26 @@
    "looked_up": "2026-10-17T17:01:26+00:00",
    "status": "not_found"
   },
+  "rackspace-technology|devops|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-22T15:41:07.485613+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
+   "max_lpa": 27.0,
+   "min_lpa": 20.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/rackspace-salaries/technical-lead"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Rackspace-Technology/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "radancy|frontend|l1": {
    "expires": "2026-11-07T15:32:52.902688+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
@@ -13528,11 +13553,6 @@
    "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
-  "samlicon-int|erp|l1": {
-   "expires": "2026-10-22T15:59:41.411596+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "samosys-technologies|swe|l1": {
    "expires": "2026-11-02T06:31:28.696269+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
@@ -13671,6 +13691,11 @@
   "saxonglobalinc|erp|l1": {
    "expires": "2026-11-01T03:33:46.520201+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "schaeffler|erp|l1": {
+   "expires": "2026-10-31T20:03:31.103898+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "status": "not_found"
   },
   "schaeffler|swe|l1": {
@@ -15641,8 +15666,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T19:00:02.512292+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-17T07:18:23.812807+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17311,8 +17336,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T07:32:46.625165+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-22T08:35:27.975063+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17527,8 +17552,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T11:07:53.974729+00:00",
-   "looked_up": "2026-10-22T15:19:13+00:00",
+   "expires": "2027-01-19T02:20:51.386575+00:00",
+   "looked_up": "2026-10-22T16:01:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17727,8 +17752,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2536,
-  "lookups_today": 161,
+  "lookups_month": 2540,
+  "lookups_today": 165,
   "month": "2026-10"
  }
 }
