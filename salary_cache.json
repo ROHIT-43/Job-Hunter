@@ -1868,8 +1868,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:48:57.779793+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-15T21:32:08.158950+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3709,8 +3709,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:37:47.427145+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-18T16:10:29.355706+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -4149,11 +4149,6 @@
   },
   "creuto|fullstack|l1": {
    "expires": "2026-10-31T21:25:04.396093+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "creuto|mobile|l1": {
-   "expires": "2026-10-22T21:21:07.342631+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
    "status": "not_found"
   },
@@ -5806,8 +5801,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T03:27:57.888287+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-26T19:40:46.495859+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9502,8 +9497,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T02:51:26.336288+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-19T19:23:41.908377+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10370,11 +10365,6 @@
   "metsoofficial|erp|l1": {
    "expires": "2026-10-25T07:23:46.091549+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
-   "status": "not_found"
-  },
-  "mettlertoledo|erp|l1": {
-   "expires": "2026-10-22T21:57:22.511331+00:00",
-   "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
   "mettlertoledo|mobile|l1": {
@@ -13130,11 +13120,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "reqpedia|fullstack|l1": {
-   "expires": "2026-10-22T21:57:00.722809+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "reserve-bank-information-technology-pvt-ltd|devops|l1": {
    "expires": "2026-10-30T07:48:26.434335+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
@@ -14170,11 +14155,6 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
-  "siyanee-analytics|mobile|l1": {
-   "expires": "2026-10-22T21:18:05.723522+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "skildai|mobile|l1": {
    "expires": "2026-10-27T21:00:10.936149+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
@@ -14498,11 +14478,6 @@
   "solarsys-innovations-private-ltd|swe|l1": {
    "expires": "2026-11-02T00:00:56.210743+00:00",
    "looked_up": "2026-10-22T04:01:26+00:00",
-   "status": "not_found"
-  },
-  "solarwinds|devops|l1": {
-   "expires": "2026-10-22T21:21:22.814638+00:00",
-   "looked_up": "2026-10-12T14:01:35+00:00",
    "status": "not_found"
   },
   "solventumhealth|devops|l1": {
@@ -15310,6 +15285,11 @@
    "status": "found",
    "year": 2025
   },
+  "teachpad-in|frontend|l1": {
+   "expires": "2026-11-06T03:40:02.457297+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
+   "status": "not_found"
+  },
   "teacode-technologies|mobile|l1": {
    "expires": "2026-10-27T00:26:07.105026+00:00",
    "looked_up": "2026-10-11T13:01:20+00:00",
@@ -15805,8 +15785,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:41:28.637658+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-19T11:29:18.815910+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17011,11 +16991,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "vmc-soft-technologies-inc|erp|l1": {
-   "expires": "2026-10-22T21:59:03.043023+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "vmc-soft-technologies-inc|swe|l1": {
    "expires": "2026-10-23T09:43:46.329862+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -17239,11 +17214,6 @@
   "webkit24.com|frontend|l1": {
    "expires": "2026-10-28T23:26:06.412114+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
-   "status": "not_found"
-  },
-  "weir-plc|fullstack|l1": {
-   "expires": "2026-10-22T21:03:42.427493+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
   "wellsfargo|swe|l1": {
@@ -17491,8 +17461,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T10:11:00.153210+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-24T21:07:46.278330+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17707,8 +17677,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T11:18:30.623218+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
+   "expires": "2027-01-20T03:10:50.119289+00:00",
+   "looked_up": "2026-10-22T22:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17918,8 +17888,8 @@
  },
  "meta": {
   "day": "2026-10-22",
-  "lookups_month": 2570,
-  "lookups_today": 195,
+  "lookups_month": 2571,
+  "lookups_today": 196,
   "month": "2026-10"
  }
 }
