@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T23:17:57.899419+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-18T23:38:13.794454+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -8744,8 +8744,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T13:51:05.575980+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-26T21:00:02.158512+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9880,8 +9880,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T12:47:58.974833+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-16T02:59:01.896032+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10224,8 +10224,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:34:17.038753+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-28T08:54:12.611079+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12739,8 +12739,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T01:22:33.209705+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-18T20:40:09.452592+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13751,11 +13751,6 @@
   "redblink-technologies|swe|l1": {
    "expires": "2026-10-31T07:27:28.984639+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "redgates-it-solution|swe|l1": {
-   "expires": "2026-10-23T22:32:09.930089+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
   "redswanlabs|frontend|l1": {
@@ -17606,8 +17601,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:35:23.424069+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-20T11:03:24.780892+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17695,8 +17690,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T17:00:59.315280+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-24T23:07:30.117096+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18556,8 +18551,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:39:48.420055+00:00",
-   "looked_up": "2026-10-23T22:15:14+00:00",
+   "expires": "2027-01-17T05:29:22.140523+00:00",
+   "looked_up": "2026-10-23T23:01:21+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
