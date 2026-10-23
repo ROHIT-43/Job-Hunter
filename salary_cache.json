@@ -1858,8 +1858,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:26:28.482034+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-22T07:11:15.421592+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -1892,6 +1892,11 @@
   "auditics|fullstack|l1": {
    "expires": "2026-10-24T01:03:41.079047+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
+   "status": "not_found"
+  },
+  "aumraa|frontend|l1": {
+   "expires": "2026-11-04T21:29:52.710715+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "auric-ai|swe|l1": {
@@ -2147,11 +2152,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "barclays-bank|devops|l1": {
-   "expires": "2026-10-23T05:10:49.414092+00:00",
-   "looked_up": "2026-10-08T22:01:32+00:00",
-   "status": "not_found"
   },
   "barclays-bank|fullstack|l1": {
    "basis": "ctc",
@@ -3694,8 +3694,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T03:24:30.102193+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-21T18:44:25.463504+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5403,6 +5403,11 @@
    "status": "found",
    "year": 2023
   },
+  "erptree-consulting-services-pvt-ltd|erp|l1": {
+   "expires": "2026-11-07T06:56:46.976600+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "esecforte-technologies|security|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5781,8 +5786,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T12:58:08.272733+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-28T01:25:08.253167+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6347,6 +6352,11 @@
    "looked_up": "2026-10-10T05:01:21+00:00",
    "status": "not_found"
   },
+  "fuzixel-technologies-private-limited|erp|l1": {
+   "expires": "2026-11-08T07:39:47.863937+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "fuzixel-technologies-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6507,11 +6517,6 @@
   "genxaitech|erp|l1": {
    "expires": "2026-11-07T08:01:45.599774+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
-  },
-  "getathletiq|mobile|l1": {
-   "expires": "2026-10-23T05:24:35.635239+00:00",
-   "looked_up": "2026-10-06T11:01:39+00:00",
    "status": "not_found"
   },
   "getronics|erp|l1": {
@@ -7496,11 +7501,6 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
-  "hitachienergy|swe|l1": {
-   "expires": "2026-10-23T05:44:40.552768+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "hivekra|fullstack|l1": {
    "expires": "2026-11-01T07:55:21.692633+00:00",
    "looked_up": "2026-10-22T01:01:24+00:00",
@@ -7575,6 +7575,22 @@
     }
    ],
    "status": "found"
+  },
+  "hpengineers|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-25T16:20:51.656160+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 2.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/hydro-pneumatic-engineers-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "hp|data|l1": {
    "expires": "2026-11-03T05:57:31.468881+00:00",
@@ -9609,6 +9625,11 @@
    "looked_up": "2026-10-10T19:01:20+00:00",
    "status": "not_found"
   },
+  "logichive-global|swe|l2": {
+   "expires": "2026-10-31T06:45:10.269116+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "logicmonitor|devops|l1": {
    "expires": "2026-10-31T02:41:22.946683+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -11538,6 +11559,11 @@
    "status": "found",
    "year": 2026
   },
+  "opmobility|swe|l1": {
+   "expires": "2026-11-06T12:20:29.937431+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "opsarmycareers|erp|l1": {
    "expires": "2026-11-06T02:18:11.931693+00:00",
    "looked_up": "2026-10-20T03:01:29+00:00",
@@ -12133,6 +12159,11 @@
   "prameela-onesuite|fullstack|l1": {
    "expires": "2026-10-24T03:42:16.771015+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
+   "status": "not_found"
+  },
+  "prayosha-automation-private-limited|swe|l1": {
+   "expires": "2026-11-01T18:52:12.439045+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "precise-3d-metrology-design-solutions|swe|l1": {
@@ -12821,6 +12852,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "rackspace-technology|security|l2": {
+   "expires": "2026-11-11T02:18:36.336219+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
   },
   "radancy|frontend|l1": {
    "expires": "2026-11-07T15:32:52.902688+00:00",
@@ -13906,6 +13942,11 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
+  "seranai|swe|l1": {
+   "expires": "2026-11-02T09:02:59.624382+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "servicenow|security|l1": {
    "expires": "2026-10-24T16:05:38.487961+00:00",
    "looked_up": "2026-10-06T12:01:46+00:00",
@@ -14106,6 +14147,11 @@
    "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
+  "sintraxcreations|swe|l1": {
+   "expires": "2026-11-10T08:52:45.765615+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
   "siriuslync|swe|l3": {
    "expires": "2026-10-27T17:32:23.011884+00:00",
    "looked_up": "2026-10-15T14:01:36+00:00",
@@ -14235,6 +14281,16 @@
   "smallest|swe|l1": {
    "expires": "2026-11-01T08:22:09.393684+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "smart-ims|frontend|l1": {
+   "expires": "2026-11-10T13:18:59.162407+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "smart-ims|fullstack|l1": {
+   "expires": "2026-11-04T08:42:43.906079+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "smart-ims|swe|l1": {
@@ -14403,11 +14459,6 @@
   "softcrayons-it-education|swe|l1": {
    "expires": "2026-10-25T20:46:00.648203+00:00",
    "looked_up": "2026-10-14T22:01:29+00:00",
-   "status": "not_found"
-  },
-  "softkode|frontend|l1": {
-   "expires": "2026-10-23T05:20:56.979782+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
   "softnotions-technologies|swe|l1": {
@@ -15224,6 +15275,22 @@
    "status": "found",
    "year": 2026
   },
+  "tata-consultancy-services|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-19T03:39:40.312109+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tcs-salaries/network-security-engineer-l1"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "tata-consultancy-services|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15751,8 +15818,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:19:54.010753+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-18T09:54:26.989828+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17438,8 +17505,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:38:41.497043+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-16T08:07:30.119380+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17654,8 +17721,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T11:22:53.377150+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
+   "expires": "2027-01-20T10:33:35.954648+00:00",
+   "looked_up": "2026-10-23T06:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17860,8 +17927,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2585,
-  "lookups_today": 13,
+  "lookups_month": 2598,
+  "lookups_today": 26,
   "month": "2026-10"
  }
 }
