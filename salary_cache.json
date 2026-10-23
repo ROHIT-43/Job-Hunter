@@ -1879,8 +1879,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T15:39:46.307993+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-25T17:50:38.710990+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3740,8 +3740,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:47:43.655289+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-26T06:38:22.851107+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5919,8 +5919,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T05:57:36.940287+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-18T10:26:15.662916+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6925,11 +6925,6 @@
    "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
-  "goldman-sachs|swe|l1": {
-   "expires": "2026-10-23T10:50:02.898642+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
-  },
   "goldmedalindia|swe|l1": {
    "expires": "2026-10-28T13:24:58.916482+00:00",
    "looked_up": "2026-10-17T10:01:25+00:00",
@@ -7361,11 +7356,6 @@
   "harisan-technologies|swe|l1": {
    "expires": "2026-10-29T15:16:01.233602+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "harisand-co|swe|l1": {
-   "expires": "2026-10-23T10:25:05.370874+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "harjaicomputers|devops|l1": {
@@ -8618,8 +8608,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T06:22:04.591431+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-23T20:48:34.005466+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9719,8 +9709,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:41:07.689196+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-20T05:01:56.723571+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10288,6 +10278,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mastercard|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-22T07:50:35.930182+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
+   "max_lpa": 15.5,
+   "min_lpa": 15.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/5042984/Mastercard-or-Software-Engineer-1(L9)-or-Pune/"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "mastercard|frontend|l2": {
    "basis": "ctc",
@@ -16844,6 +16850,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "unicornisai|swe|l2": {
+   "expires": "2026-11-13T09:17:44.079103+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
+   "status": "not_found"
+  },
   "unikloud-technext|swe|l1": {
    "expires": "2026-10-31T12:47:23.020186+00:00",
    "looked_up": "2026-10-11T04:01:20+00:00",
@@ -17175,6 +17186,11 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
+  "varite|swe|l1": {
+   "expires": "2026-11-03T23:32:02.541802+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
+   "status": "not_found"
+  },
   "vastika-inc|swe|l1": {
    "expires": "2026-10-24T08:56:47.355937+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -17208,8 +17224,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-05T12:12:01.863232+00:00",
-   "looked_up": "2026-10-10T11:01:20+00:00",
+   "expires": "2027-01-20T21:07:24.872116+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17292,8 +17308,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T11:28:52.630482+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-22T03:12:08.944914+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -17466,6 +17482,11 @@
   "vithamas-tech|mobile|l1": {
    "expires": "2026-11-04T04:46:53.250182+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "vmc-soft-technologies-inc|erp|l1": {
+   "expires": "2026-10-31T01:22:28.668568+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
   "vohglobal|swe|l1": {
@@ -17928,8 +17949,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:51:02.371540+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-24T15:45:50.067023+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -18158,8 +18179,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T09:56:14.352710+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
+   "expires": "2027-01-27T01:28:20.990080+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18365,12 +18386,17 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "zynder-tech|erp|l1": {
+   "expires": "2026-11-02T08:13:41.348130+00:00",
+   "looked_up": "2026-10-23T11:01:26+00:00",
+   "status": "not_found"
   }
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2658,
-  "lookups_today": 86,
+  "lookups_month": 2663,
+  "lookups_today": 91,
   "month": "2026-10"
  }
 }
