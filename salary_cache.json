@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T07:29:39.641063+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-28T04:06:12.283115+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -454,6 +454,11 @@
   "aditiconsulting|swe|l1": {
    "expires": "2026-10-25T12:19:20.075043+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
+   "status": "not_found"
+  },
+  "aditya-birla-capital|data|l1": {
+   "expires": "2026-11-06T09:10:20.835125+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
   "aditya-birla-capital|swe|l1": {
@@ -6783,6 +6788,22 @@
    "status": "found",
    "year": 2026
   },
+  "getweave|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T01:42:58.696272+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 9.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/weave-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "gevernova|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7811,6 +7832,11 @@
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
+  "honeywell-aerospace|swe|l2": {
+   "expires": "2026-11-06T01:29:16.315072+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
+   "status": "not_found"
+  },
   "honeywell|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8738,8 +8764,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T23:53:56.359548+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-25T05:27:34.095774+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9062,6 +9088,11 @@
   "izicart|swe|l1": {
    "expires": "2026-10-30T00:01:26.233322+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "j-s-held|swe|l1": {
+   "expires": "2026-11-03T13:41:15.877398+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
   "jabil|swe|l1": {
@@ -9869,8 +9900,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T01:40:07.915442+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-25T08:08:28.383226+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10213,8 +10244,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:16:06.566841+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-25T23:46:53.943178+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12728,8 +12759,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T12:41:08.275432+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-18T13:08:46.303516+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14050,6 +14081,11 @@
    "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
+  "routemobile|devops|l1": {
+   "expires": "2026-11-03T01:21:44.267108+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
+   "status": "not_found"
+  },
   "rptechindia|erp|l1": {
    "expires": "2026-10-26T15:27:17.414442+00:00",
    "looked_up": "2026-10-18T05:01:24+00:00",
@@ -14631,6 +14667,11 @@
   "seekhoo|swe|l2": {
    "expires": "2026-11-03T07:25:34.521107+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "seismic|swe|l1": {
+   "expires": "2026-11-03T23:44:48.544429+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
   "sellergize-web-technology-solutions-pvt--ltd-|mobile|l1": {
@@ -15769,6 +15810,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "synectics-apac|swe|l1": {
+   "expires": "2026-11-13T14:30:15.313860+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
+   "status": "not_found"
   },
   "synedyne-systems|swe|l1": {
    "expires": "2026-11-03T12:26:10.102761+00:00",
@@ -17585,8 +17631,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T12:43:08.960784+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-24T05:04:17.453629+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17669,8 +17715,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T11:40:01.149339+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-24T08:50:19.217542+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18535,8 +18581,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:37:46.693064+00:00",
-   "looked_up": "2026-10-23T18:27:37+00:00",
+   "expires": "2027-01-27T14:15:59.602549+00:00",
+   "looked_up": "2026-10-23T19:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18751,8 +18797,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2728,
-  "lookups_today": 156,
+  "lookups_month": 2735,
+  "lookups_today": 163,
   "month": "2026-10"
  }
 }
