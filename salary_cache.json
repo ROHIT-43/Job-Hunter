@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T14:02:48.446253+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-15T11:33:10.317595+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -8744,8 +8744,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T16:18:42.646187+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-28T14:27:10.481283+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9880,8 +9880,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T00:13:02.758223+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-16T22:48:33.780196+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10224,8 +10224,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:43:12.655539+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-20T05:50:20.818434+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12084,11 +12084,6 @@
    "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
-  "open-teq|swe|l1": {
-   "expires": "2026-10-23T21:45:51.778458+00:00",
-   "looked_up": "2026-10-12T14:01:35+00:00",
-   "status": "not_found"
-  },
   "opengov-inc|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -12744,8 +12739,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T23:10:44.152639+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-25T02:01:19.648337+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13097,6 +13092,11 @@
   "pwc-ac-india|fullstack|l1": {
    "expires": "2026-11-08T04:57:34.899032+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
+   "status": "not_found"
+  },
+  "pwc-ac-india|security|l1": {
+   "expires": "2026-11-03T01:49:47.889165+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "status": "not_found"
   },
   "pwc-ac-india|swe|l1": {
@@ -16412,11 +16412,6 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
-  "telth|mobile|l1": {
-   "expires": "2026-10-23T21:47:24.679157+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "telus-digital|swe|l1": {
    "expires": "2026-10-31T06:41:38.789282+00:00",
    "looked_up": "2026-10-17T18:01:21+00:00",
@@ -17611,8 +17606,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:54:00.403437+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-26T21:46:22.657569+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17687,6 +17682,11 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
+  "viasat|devops|l1": {
+   "expires": "2026-11-12T20:16:51.907897+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
+   "status": "not_found"
+  },
   "victorflow|swe|l1": {
    "expires": "2026-10-30T21:33:24.208190+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
@@ -17695,8 +17695,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T07:05:39.423831+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-21T10:47:49.524752+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18556,8 +18556,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T00:42:57.506375+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
+   "expires": "2027-01-22T17:26:36.281309+00:00",
+   "looked_up": "2026-10-23T22:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18713,11 +18713,6 @@
    "looked_up": "2026-10-18T02:01:28+00:00",
    "status": "not_found"
   },
-  "zoenixhq|swe|l2": {
-   "expires": "2026-10-23T21:11:30.856114+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "zorba-consulting-india|swe|l1": {
    "expires": "2026-11-12T11:22:56.166285+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -18772,8 +18767,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2738,
-  "lookups_today": 166,
+  "lookups_month": 2740,
+  "lookups_today": 168,
   "month": "2026-10"
  }
 }
