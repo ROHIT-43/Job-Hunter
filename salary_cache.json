@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T07:29:35.235328+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-22T10:13:25.500107+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -863,11 +863,6 @@
   "alightsolutions|fullstack|l2": {
    "expires": "2026-10-27T13:05:28.895131+00:00",
    "looked_up": "2026-10-18T12:01:26+00:00",
-   "status": "not_found"
-  },
-  "alightsolutions|swe|l1": {
-   "expires": "2026-10-23T13:50:37.744013+00:00",
-   "looked_up": "2026-10-11T14:01:21+00:00",
    "status": "not_found"
   },
   "alignerr|security|l1": {
@@ -4078,11 +4073,6 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "compunetconnections|swe|l1": {
-   "expires": "2026-10-23T13:33:33.339114+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "comscore|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5106,6 +5096,11 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
+  "dunnhumby|data|l1": {
+   "expires": "2026-11-09T21:07:21.278650+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -5740,6 +5735,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "excelya|swe|l1": {
+   "expires": "2026-11-08T02:25:28.934652+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "exillar|devops|l1": {
    "expires": "2026-10-30T02:24:24.409558+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
@@ -6053,6 +6053,11 @@
   "festo|devops|l1": {
    "expires": "2026-11-08T19:56:23.757949+00:00",
    "looked_up": "2026-10-22T00:01:31+00:00",
+   "status": "not_found"
+  },
+  "fico|security|l2": {
+   "expires": "2026-11-06T19:59:38.098060+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
   "fidelity-international|data|l1": {
@@ -7202,6 +7207,22 @@
    "expires": "2026-11-03T17:06:02.572271+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
+  },
+  "greenway-health|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T15:30:58.053864+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "freshersvoice.com",
+     "uri": "https://www.freshersvoice.com/greenway-health-off-campus-drive"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "greif|erp|l1": {
    "expires": "2026-11-01T19:12:08.794865+00:00",
@@ -8683,8 +8704,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:53:39.269027+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-20T15:35:41.289893+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9007,6 +9028,11 @@
   "izicart|swe|l1": {
    "expires": "2026-10-30T00:01:26.233322+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "jabil|swe|l1": {
+   "expires": "2026-11-05T02:04:30.139030+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
   "jabil|swe|l2": {
@@ -9814,8 +9840,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:48:04.883451+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-23T10:05:10.359672+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10153,8 +10179,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T00:45:10.541368+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-16T23:20:23.657217+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11447,6 +11473,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "nexsap-solutions|erp|l1": {
+   "expires": "2026-11-11T12:03:22.632619+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "nextdealnow|mobile|l1": {
    "expires": "2026-10-31T04:28:10.061435+00:00",
    "looked_up": "2026-10-23T00:01:37+00:00",
@@ -11668,6 +11699,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/ntt-data/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "ntt-data-americas|erp|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T09:14:07.844462+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "max_lpa": 9.2,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ntt-data-inc-salaries/servicenow-developer"
     }
    ],
    "status": "found",
@@ -12293,6 +12340,11 @@
    "status": "found",
    "year": 2021
   },
+  "payway-ltd|mobile|l1": {
+   "expires": "2026-11-01T02:50:21.797545+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "pdi-technologies|data|l2": {
    "expires": "2026-10-29T13:22:20.202936+00:00",
    "looked_up": "2026-10-21T22:01:33+00:00",
@@ -12602,8 +12654,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T01:35:53.710573+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-26T22:38:14.491632+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14404,6 +14456,11 @@
    "status": "found",
    "year": 2026
   },
+  "scrapingdog|swe|l1": {
+   "expires": "2026-11-04T10:34:17.843136+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "script-assist-uk|swe|l1": {
    "expires": "2026-10-29T23:59:05.863661+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
@@ -14600,6 +14657,26 @@
    "expires": "2026-10-24T03:14:10.893927+00:00",
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
+  },
+  "shyam-kumar-sahoo|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T04:59:12.613706+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "max_lpa": 8.5,
+   "min_lpa": 1.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tcs-salaries/software-engineer-intern"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tcs-salaries?page=10"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "sideglobal|devops|l1": {
    "expires": "2026-10-30T21:03:22.743233+00:00",
@@ -15041,6 +15118,11 @@
    "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
+  "softnice-ug|data|l1": {
+   "expires": "2026-11-03T04:51:49.236232+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
   "softnotions-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15198,6 +15280,11 @@
   "sozomo-technology|swe|l1": {
    "expires": "2026-10-28T15:13:42.183567+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "sparkt-india|fullstack|l1": {
+   "expires": "2026-11-07T09:49:11.716813+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
   "speedradio|swe|l1": {
@@ -17409,8 +17496,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T04:33:31.419995+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-19T21:40:29.708271+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17493,8 +17580,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T00:53:19.599624+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-18T00:54:31.260415+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18354,8 +18441,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T08:10:34.347353+00:00",
-   "looked_up": "2026-10-23T13:26:39+00:00",
+   "expires": "2027-01-15T17:24:10.247826+00:00",
+   "looked_up": "2026-10-23T14:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18570,8 +18657,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2692,
-  "lookups_today": 120,
+  "lookups_month": 2704,
+  "lookups_today": 132,
   "month": "2026-10"
  }
 }
