@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T20:56:08.657921+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-27T16:01:23.357806+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2300,6 +2300,11 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
+  "bceglobaltech|erp|l1": {
+   "expires": "2026-11-06T05:28:05.534482+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "bcg-x|swe|l1": {
    "expires": "2026-10-28T06:01:16.822839+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -3968,6 +3973,11 @@
    "looked_up": "2026-10-11T07:01:20+00:00",
    "status": "not_found"
   },
+  "collinearai|swe|l1": {
+   "expires": "2026-11-10T08:53:38.338619+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "collins-aerospace|swe|l1": {
    "expires": "2026-11-03T08:08:42.268327+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
@@ -4174,6 +4184,11 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
+  "cosmicport|swe|l1": {
+   "expires": "2026-11-11T21:47:31.057462+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "coupa|security|l1": {
    "expires": "2026-10-26T21:57:14.911625+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
@@ -4237,6 +4252,11 @@
   "criclive-in|swe|l1": {
    "expires": "2026-11-04T18:35:39.482288+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
+   "status": "not_found"
+  },
+  "crossinghurdles|devops|l1": {
+   "expires": "2026-11-02T02:51:25.705053+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
   "crossinghurdles|swe|l1": {
@@ -7119,6 +7139,11 @@
    "status": "found",
    "year": 2026
   },
+  "gorenvio|swe|l1": {
+   "expires": "2026-11-03T13:51:52.709534+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "goshdigital|swe|l1": {
    "expires": "2026-10-25T15:15:50.775516+00:00",
    "looked_up": "2026-10-09T22:01:25+00:00",
@@ -7724,6 +7749,11 @@
   "hivekra|fullstack|l1": {
    "expires": "2026-11-01T07:55:21.692633+00:00",
    "looked_up": "2026-10-22T01:01:24+00:00",
+   "status": "not_found"
+  },
+  "hoichoitv|data|l1": {
+   "expires": "2026-11-01T03:13:20.463828+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
   "honeywell|fullstack|l1": {
@@ -8653,8 +8683,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T21:19:09.688523+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-15T06:39:38.450759+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9784,8 +9814,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T04:01:01.113893+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-22T23:38:42.315325+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10123,8 +10153,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:15:16.023551+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-16T21:00:05.994395+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12577,8 +12607,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:52:31.072905+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-16T11:31:39.884743+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12726,6 +12756,22 @@
    "expires": "2026-11-02T15:51:27.216354+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
+  },
+  "programmers-io|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T14:27:48.185872+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "max_lpa": 10.2,
+   "min_lpa": 6.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/programmers-dot-io-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "project-44|swe|l1": {
    "expires": "2026-11-07T19:12:38.320359+00:00",
@@ -15512,6 +15558,11 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
+  "synechron|data|l1": {
+   "expires": "2026-11-01T03:58:37.829155+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "synechron|devops|l1": {
    "expires": "2026-10-28T21:58:18.949590+00:00",
    "looked_up": "2026-10-19T21:01:25+00:00",
@@ -15897,6 +15948,11 @@
    "looked_up": "2026-10-18T10:01:24+00:00",
    "status": "not_found"
   },
+  "teamviewer|swe|l1": {
+   "expires": "2026-11-05T14:05:25.625509+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
   "teamware-solutions|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16137,6 +16193,11 @@
   "teknowxa.ai|fullstack|l1": {
    "expires": "2026-10-26T12:45:07.203229+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "tekwissenindia|erp|l1": {
+   "expires": "2026-11-11T06:53:36.763788+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
   "tekwissenindia|swe|l1": {
@@ -17353,8 +17414,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:23:06.409767+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-25T21:25:32.310902+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17437,8 +17498,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:19:08.898243+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-27T10:58:48.104373+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18073,8 +18134,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T20:37:41.658329+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-23T02:46:44.446456+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -18303,8 +18364,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T18:13:56.975698+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
+   "expires": "2027-01-20T00:09:48.091057+00:00",
+   "looked_up": "2026-10-23T13:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18519,8 +18580,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2682,
-  "lookups_today": 110,
+  "lookups_month": 2692,
+  "lookups_today": 120,
   "month": "2026-10"
  }
 }
