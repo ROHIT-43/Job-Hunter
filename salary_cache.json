@@ -15,6 +15,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "360technology-usa|erp|l1": {
+   "expires": "2026-11-06T18:31:29.370288+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "3m|data|l1": {
    "expires": "2026-10-30T17:23:15.319031+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -1440,8 +1445,8 @@
    "year": 2025
   },
   "appliedbusinessconsulting|erp|l1": {
-   "expires": "2026-10-23T06:16:16.447160+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
+   "expires": "2026-10-31T11:48:40.690816+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
   "apprely-technologies|frontend|l1": {
@@ -1858,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T07:11:15.421592+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-24T11:45:46.508364+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3694,8 +3699,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:44:25.463504+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-17T16:28:12.102013+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -4247,6 +4252,11 @@
    "looked_up": "2026-10-21T22:01:33+00:00",
    "status": "not_found"
   },
+  "customertimes|erp|l1": {
+   "expires": "2026-11-08T12:06:45.596558+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "cv-raman-academy|swe|l1": {
    "expires": "2026-10-31T08:12:01.490406+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -4615,6 +4625,22 @@
     {
      "title": "payscale.com",
      "uri": "https://www.payscale.com/research/IN/Job=Salesforce_Developer/Salary/ea6d20de/Deloitte-Hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "deloitte|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-15T10:58:24.382117+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/deloitte-salaries/full-stack-dot-net-developer"
     }
    ],
    "status": "found",
@@ -5786,8 +5812,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:25:08.253167+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-16T09:29:16.896406+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6517,6 +6543,11 @@
   "genxaitech|erp|l1": {
    "expires": "2026-11-07T08:01:45.599774+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
+   "status": "not_found"
+  },
+  "geoserve-maritime|swe|l1": {
+   "expires": "2026-11-04T14:01:10.171052+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
   "getronics|erp|l1": {
@@ -8394,6 +8425,11 @@
    "status": "found",
    "year": 2026
   },
+  "infyshine-inc|erp|l1": {
+   "expires": "2026-11-05T17:55:03.291661+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "ingersoll-rand|security|l1": {
    "expires": "2026-11-08T15:39:10.417545+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -8443,11 +8479,6 @@
   "innovaesi|erp|l1": {
    "expires": "2026-11-01T11:29:48.813037+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "innovaesi|frontend|l1": {
-   "expires": "2026-10-23T06:18:44.726954+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "innovyatech|swe|l2": {
@@ -9949,6 +9980,16 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
+  "mariinox|frontend|l1": {
+   "expires": "2026-11-03T05:41:12.344755+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "mariinox|swe|l1": {
+   "expires": "2026-11-08T10:27:00.184346+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "marrinadecisions|frontend|l1": {
    "expires": "2026-10-24T03:47:43.030188+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -10263,6 +10304,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mediotix|swe|l1": {
+   "expires": "2026-11-08T17:19:42.927514+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
   },
   "medlineinc|swe|l1": {
    "expires": "2026-11-02T14:31:30.637649+00:00",
@@ -11007,6 +11053,11 @@
    "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
+  "newspacert|swe|l2": {
+   "expires": "2026-11-11T01:18:38.274701+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "newspacert|swe|l3": {
    "expires": "2026-10-24T20:46:49.374039+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -11698,6 +11749,11 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "paisalo-digital-ltd|mobile|l1": {
+   "expires": "2026-11-13T03:11:19.539623+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "palletbees|erp|l1": {
    "expires": "2026-10-23T08:32:22.272197+00:00",
    "looked_up": "2026-10-09T06:01:28+00:00",
@@ -11753,6 +11809,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "paribus-ai|swe|l1": {
+   "expires": "2026-11-03T01:23:28.617778+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
   },
   "park-place-technologies|swe|l1": {
    "expires": "2026-10-26T13:37:29.485094+00:00",
@@ -13630,11 +13691,6 @@
   "sandjgroup|swe|l1": {
    "expires": "2026-11-04T20:54:36.256200+00:00",
    "looked_up": "2026-10-23T04:01:23+00:00",
-   "status": "not_found"
-  },
-  "sanjana-technologies|swe|l1": {
-   "expires": "2026-10-23T06:41:00.424846+00:00",
-   "looked_up": "2026-10-14T18:01:38+00:00",
    "status": "not_found"
   },
   "sanofi|security|l1": {
@@ -15818,8 +15874,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:54:26.989828+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-14T07:26:02.310559+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -16866,9 +16922,18 @@
    "status": "not_found"
   },
   "vidhyutron-technology-private-limited|swe|l1": {
-   "expires": "2026-10-31T15:02:47.698078+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-19T09:11:14.646920+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "max_lpa": 1.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "vineforceit|frontend|l1": {
    "expires": "2026-11-03T02:12:35.235432+00:00",
@@ -17505,8 +17570,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T08:07:30.119380+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-22T20:28:04.574147+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17721,8 +17786,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:33:35.954648+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
+   "expires": "2027-01-25T02:19:26.946713+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17883,6 +17948,11 @@
    "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
+  "zorba-consulting-india|swe|l1": {
+   "expires": "2026-11-12T11:22:56.166285+00:00",
+   "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
   "zscaler|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17927,8 +17997,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2598,
-  "lookups_today": 26,
+  "lookups_month": 2611,
+  "lookups_today": 39,
   "month": "2026-10"
  }
 }
