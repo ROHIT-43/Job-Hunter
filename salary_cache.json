@@ -67,11 +67,6 @@
    "status": "found",
    "year": null
   },
-  "73systems|swe|l1": {
-   "expires": "2026-10-23T01:02:29.847910+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1564,11 +1559,6 @@
    "looked_up": "2026-10-15T18:01:34+00:00",
    "status": "not_found"
   },
-  "arcadis|swe|l2": {
-   "expires": "2026-10-23T01:29:52.113048+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "arcanaanalytics|devops|l1": {
    "expires": "2026-11-06T07:55:14.762219+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
@@ -1873,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T09:47:13.644448+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-15T01:03:05.996872+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3714,8 +3704,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:34:10.435715+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-23T23:11:12.858356+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5811,8 +5801,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:31:29.938767+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-24T17:41:43.677021+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9502,8 +9492,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:19:53.588866+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-14T19:58:17.615896+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -15765,8 +15755,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:24:13.852830+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-24T16:52:57.462774+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17452,8 +17442,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:38:04.038213+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-17T16:29:06.419259+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17668,8 +17658,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T22:22:15.291015+00:00",
-   "looked_up": "2026-10-23T01:01:23+00:00",
+   "expires": "2027-01-25T06:48:41.426731+00:00",
+   "looked_up": "2026-10-23T01:31:22+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
