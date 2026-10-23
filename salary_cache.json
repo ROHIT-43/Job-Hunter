@@ -1863,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:45:46.508364+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-24T20:24:19.486211+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3699,8 +3699,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T16:28:12.102013+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-21T00:15:30.735932+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5812,8 +5812,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T09:29:16.896406+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-16T06:00:18.956395+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10927,11 +10927,6 @@
    "status": "found",
    "year": 2026
   },
-  "needl-ai|swe|l1": {
-   "expires": "2026-10-23T07:26:16.594487+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
-   "status": "not_found"
-  },
   "neer-info-solutions|erp|l1": {
    "expires": "2026-10-26T09:12:20.596768+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -15874,8 +15869,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T07:26:02.310559+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-15T13:38:18.843432+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -16924,8 +16919,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T09:11:14.646920+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-23T09:36:27.977032+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -17570,8 +17565,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:28:04.574147+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-18T12:48:08.913348+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17786,8 +17781,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:19:26.946713+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
+   "expires": "2027-01-22T18:51:13.178004+00:00",
+   "looked_up": "2026-10-23T07:31:51+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
