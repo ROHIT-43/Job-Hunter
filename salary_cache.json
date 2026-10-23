@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:19:45.856678+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-20T03:35:29.173118+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -620,6 +620,11 @@
   "agilityit|swe|l1": {
    "expires": "2026-10-25T11:49:25.290788+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
+   "status": "not_found"
+  },
+  "agilonhealth|swe|l1": {
+   "expires": "2026-11-05T19:52:38.398434+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
   "agochar|swe|l1": {
@@ -5040,6 +5045,11 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
+  "dnv|erp|l1": {
+   "expires": "2026-11-04T03:41:38.755413+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
+   "status": "not_found"
+  },
   "dnyan-automation|swe|l1": {
    "expires": "2026-10-24T08:43:21.752613+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -5143,11 +5153,6 @@
     }
    ],
    "status": "found"
-  },
-  "duobridge-learning-institute|data|l1": {
-   "expires": "2026-10-23T17:20:01.027567+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
   },
   "durapidtechnologies|data|l1": {
    "expires": "2026-11-13T07:59:13.824700+00:00",
@@ -8733,8 +8738,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T17:38:13.307907+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-23T11:53:22.867669+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9786,11 +9791,6 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
-  "labcorp|swe|l1": {
-   "expires": "2026-10-23T17:14:38.989851+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
-   "status": "not_found"
-  },
   "lalacompany|fullstack|l1": {
    "expires": "2026-11-01T14:59:13.541708+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
@@ -9869,8 +9869,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T19:15:27.592435+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-23T17:31:02.294181+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10213,8 +10213,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:48:02.136467+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-23T01:04:54.342543+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11074,6 +11074,11 @@
   "mongodbinc|swe|l3": {
    "expires": "2026-11-07T09:09:49.972764+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
+   "status": "not_found"
+  },
+  "monospear|swe|l1": {
+   "expires": "2026-11-01T05:03:06.130149+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
   "moonstack-co-in|frontend|l1": {
@@ -12723,8 +12728,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:07:53.737218+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-28T08:11:26.406888+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13451,11 +13456,6 @@
     }
    ],
    "status": "found"
-  },
-  "quickfolks|frontend|l1": {
-   "expires": "2026-10-23T17:41:17.271483+00:00",
-   "looked_up": "2026-10-10T09:01:19+00:00",
-   "status": "not_found"
   },
   "quikr|mobile|l1": {
    "expires": "2026-11-04T12:25:35.032165+00:00",
@@ -15034,11 +15034,6 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
-  "smartbytes-technology-services|mobile|l1": {
-   "expires": "2026-10-23T17:45:33.496266+00:00",
-   "looked_up": "2026-10-12T02:01:20+00:00",
-   "status": "not_found"
-  },
   "smartnode|swe|l1": {
    "expires": "2026-10-24T11:10:47.495114+00:00",
    "looked_up": "2026-10-09T09:01:30+00:00",
@@ -15195,6 +15190,11 @@
   "softcrayons-it-education|swe|l1": {
    "expires": "2026-10-25T20:46:00.648203+00:00",
    "looked_up": "2026-10-14T22:01:29+00:00",
+   "status": "not_found"
+  },
+  "softnice-inc|data|l1": {
+   "expires": "2026-11-01T01:50:25.203197+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
   "softnice-ug|data|l1": {
@@ -17585,8 +17585,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T04:43:59.357348+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-22T17:10:19.668913+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17669,8 +17669,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:57:41.054554+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-19T04:42:53.657877+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -17679,6 +17679,11 @@
     }
    ],
    "status": "found"
+  },
+  "vighnesh-inc|swe|l1": {
+   "expires": "2026-11-11T15:11:41.687711+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
+   "status": "not_found"
   },
   "vineforceit|frontend|l1": {
    "expires": "2026-11-03T02:12:35.235432+00:00",
@@ -18530,8 +18535,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:02:33.205999+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
+   "expires": "2027-01-15T22:09:45.029505+00:00",
+   "looked_up": "2026-10-23T18:01:24+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18746,8 +18751,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2723,
-  "lookups_today": 151,
+  "lookups_month": 2728,
+  "lookups_today": 156,
   "month": "2026-10"
  }
 }
