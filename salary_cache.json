@@ -1260,11 +1260,6 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
-  "anexeedotcom|swe|l1": {
-   "expires": "2026-10-23T09:05:48.883088+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "angelone|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1884,8 +1879,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:11:06.923247+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-27T15:39:46.307993+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -1948,6 +1943,11 @@
   "auswide-global-india|swe|l1": {
    "expires": "2026-11-02T12:52:07.634365+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "autodesk|security|l1": {
+   "expires": "2026-11-06T15:23:21.365720+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "autodesk|swe|l1": {
@@ -3239,6 +3239,16 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
+  "cdknorthamerica|security|l1": {
+   "expires": "2026-11-04T09:09:43.390509+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
+  "cdknorthamerica|swe|l1": {
+   "expires": "2026-11-10T00:56:39.438893+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
   "celebaltechnologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3730,8 +3740,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:41:44.445595+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-16T22:47:43.655289+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -4242,6 +4252,11 @@
   "cryscol-solutions|frontend|l1": {
    "expires": "2026-11-07T13:27:47.263650+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
+   "status": "not_found"
+  },
+  "ctrl-plus-z|swe|l1": {
+   "expires": "2026-11-05T23:03:44.048916+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "cube-hub|devops|l1": {
@@ -5420,6 +5435,26 @@
    "looked_up": "2026-10-15T06:01:30+00:00",
    "status": "not_found"
   },
+  "epsilon|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-21T08:24:12.610610+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 9.3,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1655943/epsilon-sdei-bangalore"
+    },
+    {
+     "title": "fresherjobinfo.in",
+     "uri": "https://fresherjobinfo.in/?p=15105"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "equifax|devops|l1": {
    "expires": "2026-10-30T23:28:53.263317+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
@@ -5884,8 +5919,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:56:42.743346+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-23T05:57:36.940287+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6607,6 +6642,22 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
+  "genpact|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-22T23:54:40.682681+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/genpact-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "genpact|swe|l1": {
    "expires": "2026-10-26T14:46:26.726880+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -7182,6 +7233,11 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
+  "guidewire-software|devops|l3": {
+   "expires": "2026-11-03T00:31:46.416261+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
   "guidewire-software|swe|l1": {
    "expires": "2026-10-31T05:38:19.106048+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -7614,6 +7670,22 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "hitachi-vantara|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-14T11:23:56.161281+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "max_lpa": 8.7,
+   "min_lpa": 6.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/hitachi-vantara-salaries/software-engineer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "hivekra|fullstack|l1": {
    "expires": "2026-11-01T07:55:21.692633+00:00",
    "looked_up": "2026-10-22T01:01:24+00:00",
@@ -7869,11 +7941,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "hypersoft-technologies-ltd|erp|l1": {
-   "expires": "2026-10-23T09:28:26.371190+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
-   "status": "not_found"
   },
   "hyprel|swe|l1": {
    "expires": "2026-11-02T12:29:32.650446+00:00",
@@ -8548,6 +8615,20 @@
    "looked_up": "2026-10-23T01:01:23+00:00",
    "status": "not_found"
   },
+  "innov-karo|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-19T06:22:04.591431+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 1.9,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "innovaesi|data|l1": {
    "expires": "2026-10-30T06:06:36.815682+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -9004,6 +9085,11 @@
    "looked_up": "2026-10-09T06:01:28+00:00",
    "status": "not_found"
   },
+  "joblet-ai|data|l1": {
+   "expires": "2026-11-11T05:54:45.729820+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
   "joblet-ai|security|l1": {
    "expires": "2026-11-03T20:27:08.591885+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -9188,6 +9274,11 @@
    ],
    "status": "found"
   },
+  "juniordelhischool|swe|l1": {
+   "expires": "2026-11-12T04:22:35.278414+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
   "juspay-technologies|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9232,11 +9323,6 @@
   "kaizen-dental-family|swe|l1": {
    "expires": "2026-10-30T05:10:07.231333+00:00",
    "looked_up": "2026-10-11T00:01:26+00:00",
-   "status": "not_found"
-  },
-  "kalvi-higher-education-and-research-institute-dindigul|swe|l1": {
-   "expires": "2026-10-23T09:09:37.527363+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
   "kapivaayurveda|fullstack|l2": {
@@ -9629,6 +9715,20 @@
    "expires": "2026-10-24T10:32:01.290813+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
+  },
+  "levelxmicrosystemes|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-19T17:41:07.689196+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "max_lpa": 2.2,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "lexhive.us|swe|l1": {
    "expires": "2026-10-31T12:35:53.286567+00:00",
@@ -11816,6 +11916,11 @@
    "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
+  "opviain|fullstack|l1": {
+   "expires": "2026-11-11T02:57:41.244862+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
+   "status": "not_found"
+  },
   "oracle|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -11985,6 +12090,11 @@
   "park-place-technologies|swe|l1": {
    "expires": "2026-10-26T13:37:29.485094+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
+   "status": "not_found"
+  },
+  "partechnology|swe|l2": {
+   "expires": "2026-11-05T06:27:03.896878+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "patmold-engineering-pvt-ltd|swe|l1": {
@@ -13048,6 +13158,11 @@
   "quikr|mobile|l1": {
    "expires": "2026-11-04T12:25:35.032165+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
+   "status": "not_found"
+  },
+  "qure.ai|swe|l3": {
+   "expires": "2026-11-01T12:12:41.325773+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "r-systems|data|l1": {
@@ -14224,6 +14339,11 @@
   "seranai|swe|l1": {
    "expires": "2026-11-02T09:02:59.624382+00:00",
    "looked_up": "2026-10-23T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "servcrust|devops|l1": {
+   "expires": "2026-11-05T02:44:40.865457+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "servicenow|security|l1": {
@@ -17172,8 +17292,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:38:43.771894+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-21T11:28:52.630482+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -17348,11 +17468,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "vmc-soft-technologies-inc|swe|l1": {
-   "expires": "2026-10-23T09:43:46.329862+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "vohglobal|swe|l1": {
    "expires": "2026-10-28T11:22:31.507995+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
@@ -17434,11 +17549,6 @@
   "vymotech|mobile|l1": {
    "expires": "2026-11-04T23:17:44.794489+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
-  "vysystems|erp|l1": {
-   "expires": "2026-10-23T09:03:06.004941+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "vysystems|swe|l1": {
@@ -17818,8 +17928,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T05:23:44.786886+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-26T08:51:02.371540+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -18048,8 +18158,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T01:26:26.399011+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
+   "expires": "2027-01-27T09:56:14.352710+00:00",
+   "looked_up": "2026-10-23T10:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18259,8 +18369,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2644,
-  "lookups_today": 72,
+  "lookups_month": 2658,
+  "lookups_today": 86,
   "month": "2026-10"
  }
 }
