@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T10:13:25.500107+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-24T05:37:32.727829+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1639,6 +1639,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "arohanatechsolutions|erp|l1": {
+   "expires": "2026-11-02T13:44:02.472482+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
   },
   "arsecats|frontend|l1": {
    "expires": "2026-11-03T07:59:13.181576+00:00",
@@ -4189,6 +4194,11 @@
    "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
+  "credhive-fintech|swe|l2": {
+   "expires": "2026-11-05T23:21:51.327958+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
+  },
   "credit-agricole-cib|devops|l1": {
    "expires": "2026-10-24T21:54:14.541216+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
@@ -4576,6 +4586,11 @@
    "looked_up": "2026-10-21T05:01:26+00:00",
    "status": "not_found"
   },
+  "dayforce|swe|l1": {
+   "expires": "2026-10-30T16:31:09.811805+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
+  },
   "dazn-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4872,11 +4887,6 @@
   "diamondatelierinc|frontend|l1": {
    "expires": "2026-10-26T05:17:15.204884+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "dicetek-llc-dubai|fullstack|l1": {
-   "expires": "2026-10-23T14:24:44.162562+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
    "status": "not_found"
   },
   "digicert-inc-|swe|l1": {
@@ -8704,8 +8714,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:35:41.289893+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-24T04:46:49.225400+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9840,8 +9850,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T10:05:10.359672+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-20T15:34:07.491833+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10179,8 +10189,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T23:20:23.657217+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-14T22:33:21.640046+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11488,6 +11498,26 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "nice-systems|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-16T08:04:09.748117+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "max_lpa": 8.2,
+   "min_lpa": 5.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nice-salaries"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/nice/salaries/software-engineer/locations/pune-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nielseniq|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12654,8 +12684,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:38:14.491632+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-15T20:24:29.583253+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14122,6 +14152,11 @@
    "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
+  "saeculumsolutions|frontend|l1": {
+   "expires": "2026-11-11T19:50:34.683562+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
+  },
   "sage-software|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14854,11 +14889,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "skillupblox|swe|l1": {
-   "expires": "2026-10-23T14:07:17.046548+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
-   "status": "not_found"
-  },
   "skinaa|mobile|l1": {
    "expires": "2026-11-07T03:51:36.907312+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
@@ -15123,6 +15153,11 @@
    "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
+  "softniceuklimited|data|l1": {
+   "expires": "2026-11-08T15:25:23.182880+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
+  },
   "softnotions-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15157,11 +15192,6 @@
   "solarsys-innovations-private-ltd|swe|l1": {
    "expires": "2026-11-02T00:00:56.210743+00:00",
    "looked_up": "2026-10-22T04:01:26+00:00",
-   "status": "not_found"
-  },
-  "solventumhealth|devops|l1": {
-   "expires": "2026-10-23T14:56:21.421275+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
   "solventumhealth|swe|l1": {
@@ -15444,6 +15474,11 @@
   "stranbysinfosolutions|mobile|l1": {
    "expires": "2026-11-08T13:06:36.263958+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
+   "status": "not_found"
+  },
+  "strategic-ventures-co-in|swe|l1": {
+   "expires": "2026-11-08T14:55:31.025832+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "status": "not_found"
   },
   "stratign|swe|l1": {
@@ -17496,8 +17531,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T21:40:29.708271+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-22T22:52:53.217794+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17580,8 +17615,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:54:31.260415+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-25T19:06:36.661917+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18441,8 +18476,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:24:10.247826+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
+   "expires": "2027-01-24T00:10:50.895884+00:00",
+   "looked_up": "2026-10-23T15:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18657,8 +18692,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2704,
-  "lookups_today": 132,
+  "lookups_month": 2711,
+  "lookups_today": 139,
   "month": "2026-10"
  }
 }
