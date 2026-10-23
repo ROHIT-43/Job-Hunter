@@ -106,11 +106,6 @@
    "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
-  "aara-tech-pvt-ltd|fullstack|l1": {
-   "expires": "2026-10-23T03:13:05.994694+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "aarleez-consultancy-services-acs-pvt-ltd|mobile|l1": {
    "expires": "2026-11-09T19:22:31.326267+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -1863,8 +1858,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:22:41.484010+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-25T13:11:39.476952+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3704,8 +3699,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T07:23:28.635053+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-15T17:26:17.093250+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -3714,11 +3709,6 @@
     }
    ],
    "status": "found"
-  },
-  "codevibe-technology|frontend|l1": {
-   "expires": "2026-10-23T03:11:13.447583+00:00",
-   "looked_up": "2026-10-13T19:01:28+00:00",
-   "status": "not_found"
   },
   "codewinglet|devops|l1": {
    "expires": "2026-10-27T10:32:43.940164+00:00",
@@ -5791,8 +5781,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T03:32:42.545607+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-18T00:49:04.462244+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9467,8 +9457,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T07:26:33.802416+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-22T01:07:09.738505+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -13575,6 +13565,11 @@
    "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
+  "sandjgroup|swe|l1": {
+   "expires": "2026-11-04T20:54:36.256200+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
+   "status": "not_found"
+  },
   "sanjana-technologies|swe|l1": {
    "expires": "2026-10-23T06:41:00.424846+00:00",
    "looked_up": "2026-10-14T18:01:38+00:00",
@@ -15715,8 +15710,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T09:33:40.797392+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-16T14:45:56.152095+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17402,8 +17397,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T06:39:30.344109+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-19T10:22:28.806245+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17618,8 +17613,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T22:00:01.783208+00:00",
-   "looked_up": "2026-10-23T03:01:22+00:00",
+   "expires": "2027-01-27T04:51:11.565703+00:00",
+   "looked_up": "2026-10-23T04:01:23+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17824,8 +17819,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2578,
-  "lookups_today": 6,
+  "lookups_month": 2579,
+  "lookups_today": 7,
   "month": "2026-10"
  }
 }
