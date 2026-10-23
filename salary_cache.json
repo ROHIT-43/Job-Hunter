@@ -1863,8 +1863,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T01:16:57.564032+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-26T01:22:41.484010+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -3704,8 +3704,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T21:57:54.780009+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-18T07:23:28.635053+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -4345,11 +4345,6 @@
   "cybrain-software-solutions|frontend|l1": {
    "expires": "2026-11-03T11:56:05.821980+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "cyderes|security|l1": {
-   "expires": "2026-10-23T02:54:56.005725+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "cygnus-professionals-inc-|data|l1": {
@@ -5796,8 +5791,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T22:57:00.652908+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-25T03:32:42.545607+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7985,11 +7980,6 @@
    "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
-  "idiotic-media|frontend|l1": {
-   "expires": "2026-10-23T02:53:31.708252+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "iepcc-solutions|swe|l1": {
    "expires": "2026-11-02T12:43:08.254667+00:00",
    "looked_up": "2026-10-17T04:01:27+00:00",
@@ -9477,8 +9467,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T07:52:13.908242+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-14T07:26:33.802416+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -14445,11 +14435,6 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
-  "solventumhealth|erp|l1": {
-   "expires": "2026-10-23T02:10:51.760395+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
-   "status": "not_found"
-  },
   "solventumhealth|swe|l1": {
    "expires": "2026-10-30T16:09:50.300921+00:00",
    "looked_up": "2026-10-22T17:01:27+00:00",
@@ -15271,11 +15256,6 @@
    "status": "found",
    "year": 2025
   },
-  "teamware-solutions|frontend|l1": {
-   "expires": "2026-10-23T02:25:36.619488+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
-  },
   "teamware-solutions|fullstack|l1": {
    "expires": "2026-10-23T11:56:14.851192+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -15735,8 +15715,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T04:59:43.359969+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-15T09:33:40.797392+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17422,8 +17402,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T05:25:16.828075+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-15T06:39:30.344109+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17638,8 +17618,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:09:33.177609+00:00",
-   "looked_up": "2026-10-23T02:01:21+00:00",
+   "expires": "2027-01-27T22:00:01.783208+00:00",
+   "looked_up": "2026-10-23T03:01:22+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
