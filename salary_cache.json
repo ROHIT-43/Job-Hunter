@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:27:26.108116+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-22T09:19:45.856678+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -307,9 +307,19 @@
    "status": "found",
    "year": 2026
   },
+  "accentureindia|swe|l3": {
+   "expires": "2026-11-11T13:11:09.321031+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
+   "status": "not_found"
+  },
   "accompanyakki|swe|l1": {
    "expires": "2026-10-26T18:53:10.246736+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "accurisco|swe|l1": {
+   "expires": "2026-11-02T08:59:58.805394+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
   "ace-data-analytics|swe|l1": {
@@ -1063,6 +1073,30 @@
    "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
+  "amazon|security|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-15T20:37:38.064830+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 13.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1898864/amazon-sde-1-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1311771/amazon-sde1-bangalore"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Amazon.com/salaries/Security-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "amazon|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -1218,11 +1252,6 @@
   "ampstek|fullstack|l1": {
    "expires": "2026-10-25T13:29:31.670684+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "ampstek|swe|l1": {
-   "expires": "2026-10-23T16:48:00.536591+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "amrit-autotech-engineers|swe|l1": {
@@ -8704,8 +8733,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:51:24.637883+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-17T17:38:13.307907+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9840,8 +9869,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T05:32:45.159668+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-26T19:15:27.592435+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10056,6 +10085,11 @@
    "status": "found",
    "year": 2026
   },
+  "london-stock-exchange-group|devops|l1": {
+   "expires": "2026-11-08T13:31:10.651489+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
+   "status": "not_found"
+  },
   "london-stock-exchange-group|security|l1": {
    "expires": "2026-10-25T17:58:48.361671+00:00",
    "looked_up": "2026-10-16T00:01:34+00:00",
@@ -10179,8 +10213,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T18:23:59.760486+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-22T05:48:02.136467+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12689,8 +12723,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:21:37.287613+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-16T14:07:53.737218+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -16537,6 +16571,11 @@
    "looked_up": "2026-10-11T01:01:27+00:00",
    "status": "not_found"
   },
+  "the-hartford-india|swe|l1": {
+   "expires": "2026-11-05T06:23:35.223360+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
+   "status": "not_found"
+  },
   "the-knowledge-academy|swe|l1": {
    "expires": "2026-10-28T02:48:33.108391+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -17546,8 +17585,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T13:11:15.245532+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-26T04:43:59.357348+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17630,8 +17669,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:54:28.755402+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-21T12:57:41.054554+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18491,8 +18530,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:44:37.510688+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
+   "expires": "2027-01-20T21:02:33.205999+00:00",
+   "looked_up": "2026-10-23T17:01:26+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18707,8 +18746,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2718,
-  "lookups_today": 146,
+  "lookups_month": 2723,
+  "lookups_today": 151,
   "month": "2026-10"
  }
 }
