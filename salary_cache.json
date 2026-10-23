@@ -1858,8 +1858,8 @@
   "atraskiofficial|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:11:39.476952+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-26T22:26:28.482034+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.4,
    "sources": [
@@ -2055,11 +2055,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "axionix-technologies|swe|l3": {
-   "expires": "2026-10-23T04:23:30.642585+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
-   "status": "not_found"
   },
   "axismyindia1404|swe|l1": {
    "expires": "2026-10-29T22:37:18.305867+00:00",
@@ -3699,8 +3694,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T17:26:17.093250+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-18T03:24:30.102193+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 67.0,
    "min_lpa": 67.0,
    "sources": [
@@ -5162,6 +5157,11 @@
    ],
    "status": "found"
   },
+  "ekloud|erp|l1": {
+   "expires": "2026-11-04T09:34:48.875401+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
+   "status": "not_found"
+  },
   "elanco|data|l1": {
    "expires": "2026-11-07T16:36:40.955605+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -5781,8 +5781,8 @@
   "fathershops|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:49:04.462244+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-14T12:58:08.272733+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5934,6 +5934,11 @@
   "finnable-credit-pvt-ltd|security|l1": {
    "expires": "2026-10-28T01:40:28.256651+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
+   "status": "not_found"
+  },
+  "fioneer|erp|l1": {
+   "expires": "2026-11-06T12:31:30.215080+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "status": "not_found"
   },
   "firestorm-internet|swe|l1": {
@@ -6718,11 +6723,6 @@
   "goaudits|data|l1": {
    "expires": "2026-10-24T04:21:36.098774+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "goaudits|swe|l1": {
-   "expires": "2026-10-23T04:22:51.687217+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "gobefisc|swe|l1": {
@@ -7890,6 +7890,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "icare-infosystems-private-limited|frontend|l1": {
+   "expires": "2026-11-08T01:34:24.354258+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
+   "status": "not_found"
+  },
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8176,6 +8181,22 @@
    "expires": "2026-10-29T23:16:45.929836+00:00",
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
+  },
+  "infosec-ventures|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-20T02:48:14.109183+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
+   "max_lpa": 23.7,
+   "min_lpa": 17.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/infosec-ventures/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "infosharesystems|erp|l1": {
    "expires": "2026-10-28T10:16:31.852940+00:00",
@@ -9457,8 +9478,8 @@
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:07:09.738505+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-17T22:44:28.728253+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -13302,6 +13323,11 @@
    ],
    "status": "found"
   },
+  "rojrojgar|frontend|l1": {
+   "expires": "2026-11-04T17:13:45.072729+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
+   "status": "not_found"
+  },
   "roomsmith-india|fullstack|l1": {
    "expires": "2026-10-25T04:12:45.782991+00:00",
    "looked_up": "2026-10-06T08:01:40+00:00",
@@ -14209,11 +14235,6 @@
   "smallest|swe|l1": {
    "expires": "2026-11-01T08:22:09.393684+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
-  "smart-ims|data|l1": {
-   "expires": "2026-10-23T04:29:20.193061+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
   "smart-ims|swe|l1": {
@@ -15151,6 +15172,26 @@
    "status": "found",
    "year": 2026
   },
+  "tata-consultancy-services|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T06:58:17.775855+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tcs-salaries/front-end-developer/chennai-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tcs-salaries/ui-developer/chennai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "tata-consultancy-services|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15710,8 +15751,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T14:45:56.152095+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-25T02:19:54.010753+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17397,8 +17438,8 @@
   "wri-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T10:22:28.806245+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-24T21:38:41.497043+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.5,
    "sources": [
@@ -17613,8 +17654,8 @@
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:51:11.565703+00:00",
-   "looked_up": "2026-10-23T04:01:23+00:00",
+   "expires": "2027-01-18T11:22:53.377150+00:00",
+   "looked_up": "2026-10-23T05:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 2.2,
    "sources": [
@@ -17819,8 +17860,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2579,
-  "lookups_today": 7,
+  "lookups_month": 2585,
+  "lookups_today": 13,
   "month": "2026-10"
  }
 }
