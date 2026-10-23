@@ -144,8 +144,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:37:32.727829+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-15T17:27:26.108116+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -927,11 +927,6 @@
     }
    ],
    "status": "found"
-  },
-  "alphahaq-technologies-pvt-ltd|erp|l3": {
-   "expires": "2026-10-23T15:21:00.210103+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
   },
   "alphahaq-technologies-pvt-ltd|swe|l3": {
    "expires": "2026-11-02T10:08:01.504587+00:00",
@@ -2670,8 +2665,8 @@
    "status": "not_found"
   },
   "bp|swe|l1": {
-   "expires": "2026-10-23T15:42:32.745200+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
+   "expires": "2026-11-02T21:14:43.361238+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
   "bracketsagency|fullstack|l1": {
@@ -3330,11 +3325,6 @@
   "centotech|erp|l1": {
    "expires": "2026-11-01T19:33:46.534446+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
-   "status": "not_found"
-  },
-  "centotech|swe|l1": {
-   "expires": "2026-10-23T15:45:48.999363+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "centricasoft|swe|l1": {
@@ -5465,11 +5455,6 @@
    "looked_up": "2026-10-15T01:01:23+00:00",
    "status": "not_found"
   },
-  "enviropolengineers|frontend|l1": {
-   "expires": "2026-10-23T15:29:36.852396+00:00",
-   "looked_up": "2026-10-12T05:57:40+00:00",
-   "status": "not_found"
-  },
   "envisionstudioglobal|swe|l1": {
    "expires": "2026-10-31T06:34:54.525872+00:00",
    "looked_up": "2026-10-18T12:01:26+00:00",
@@ -6412,6 +6397,11 @@
   "foliox-ai|mobile|l1": {
    "expires": "2026-10-24T03:07:19.117513+00:00",
    "looked_up": "2026-10-10T03:01:20+00:00",
+   "status": "not_found"
+  },
+  "for-demo-live|swe|l1": {
+   "expires": "2026-11-06T02:47:45.075350+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
   "forbes-advisor|data|l1": {
@@ -8714,8 +8704,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:46:49.225400+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-22T18:51:24.637883+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9850,8 +9840,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:34:07.491833+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-15T05:32:45.159668+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10189,8 +10179,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-14T22:33:21.640046+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-18T18:23:59.760486+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10740,6 +10730,11 @@
    "looked_up": "2026-10-21T15:01:33+00:00",
    "status": "not_found"
   },
+  "medvirtual|swe|l1": {
+   "expires": "2026-11-11T22:07:21.145398+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
+   "status": "not_found"
+  },
   "meenakshi-sundararajan-group-of-institutions|swe|l1": {
    "expires": "2026-11-02T02:38:42.035423+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -11162,6 +11157,11 @@
   "mrengineeringnoida|swe|l1": {
    "expires": "2026-10-27T11:29:31.779064+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "msci-inc|swe|l1": {
+   "expires": "2026-11-04T16:08:39.072982+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
   "msd-global|data|l1": {
@@ -12209,6 +12209,11 @@
    "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
+  "oxmiq-labs|swe|l1": {
+   "expires": "2026-11-09T17:44:44.775754+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
+   "status": "not_found"
+  },
   "oxybills|swe|l1": {
    "expires": "2026-11-01T01:24:02.094285+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
@@ -12684,8 +12689,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T20:24:29.583253+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-24T04:21:37.287613+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12778,6 +12783,11 @@
   "principalfinancialgroup|data|l1": {
    "expires": "2026-10-27T04:35:06.569307+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "principalfinancialgroup|swe|l1": {
+   "expires": "2026-10-30T20:10:15.983813+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
   "principle-pride|devops|l1": {
@@ -13023,6 +13033,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "pwc-ac-india|frontend|l1": {
+   "expires": "2026-11-12T05:11:10.516437+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
+   "status": "not_found"
   },
   "pwc-ac-india|fullstack|l1": {
    "expires": "2026-11-08T04:57:34.899032+00:00",
@@ -17531,8 +17546,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T22:52:53.217794+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-16T13:11:15.245532+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17615,8 +17630,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:06:36.661917+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-18T01:54:28.755402+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18476,8 +18491,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T00:10:50.895884+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
+   "expires": "2027-01-24T04:44:37.510688+00:00",
+   "looked_up": "2026-10-23T16:01:28+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18692,8 +18707,8 @@
  },
  "meta": {
   "day": "2026-10-23",
-  "lookups_month": 2711,
-  "lookups_today": 139,
+  "lookups_month": 2718,
+  "lookups_today": 146,
   "month": "2026-10"
  }
 }
