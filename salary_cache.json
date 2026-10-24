@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T19:35:26.848655+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-24T13:47:09.073626+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5105,11 +5105,6 @@
    "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
-  "drc-systems|devops|l1": {
-   "expires": "2026-10-24T00:18:42.402718+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
-   "status": "not_found"
-  },
   "droisys|devops|l1": {
    "expires": "2026-10-24T06:15:21.186992+00:00",
    "looked_up": "2026-10-16T01:01:29+00:00",
@@ -7667,11 +7662,6 @@
    "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
-  "herbalife-international-india-pvt-ltd|swe|l3": {
-   "expires": "2026-10-24T00:21:44.208770+00:00",
-   "looked_up": "2026-10-13T22:01:25+00:00",
-   "status": "not_found"
-  },
   "hevis-technologies-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8755,8 +8745,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T23:15:20.949053+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-28T19:56:27.497568+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9886,8 +9876,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:02:34.137191+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-25T05:20:36.350095+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10230,8 +10220,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T03:28:44.958976+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-22T20:52:18.240367+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12021,11 +12011,6 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
-  "omnissa|security|l1": {
-   "expires": "2026-10-24T00:21:52.631397+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "omnissa|swe|l1": {
    "expires": "2026-10-27T10:54:51.197055+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -12750,8 +12735,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T23:01:16.517428+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-24T07:06:09.503195+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -17612,8 +17597,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T03:08:25.862501+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-22T22:53:48.276170+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17701,8 +17686,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:53:43.411824+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-18T14:14:37.697139+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18562,8 +18547,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:25:08.323665+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
+   "expires": "2027-01-15T13:48:21.667637+00:00",
+   "looked_up": "2026-10-24T00:42:16+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
