@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T18:46:48.322394+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
+   "expires": "2027-01-26T22:25:13.955818+00:00",
+   "looked_up": "2026-10-24T11:22:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2584,6 +2584,11 @@
   "bmc-software|swe|l1": {
    "expires": "2026-11-05T03:27:36.085191+00:00",
    "looked_up": "2026-10-20T19:01:31+00:00",
+   "status": "not_found"
+  },
+  "bmchelix|swe|l1": {
+   "expires": "2026-11-13T15:26:29.081575+00:00",
+   "looked_up": "2026-10-24T11:22:21+00:00",
    "status": "not_found"
   },
   "bnp-paribas|swe|l1": {
@@ -11358,6 +11363,11 @@
    "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
+  "neospec-services|mobile|l1": {
+   "expires": "2026-11-13T05:21:24.304737+00:00",
+   "looked_up": "2026-10-24T11:22:21+00:00",
+   "status": "not_found"
+  },
   "nest-digital-pvt-ltd|swe|l1": {
    "expires": "2026-10-29T00:41:10.950255+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
@@ -12685,8 +12695,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:10:55.106545+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
+   "expires": "2027-01-27T07:56:28.668134+00:00",
+   "looked_up": "2026-10-24T11:22:21+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -15004,11 +15014,6 @@
   "smart-ims|swe|l1": {
    "expires": "2026-10-30T14:10:44.817919+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "smartnode|swe|l1": {
-   "expires": "2026-10-24T11:10:47.495114+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
   "smartworkingsolutions|mobile|l1": {
@@ -18703,8 +18708,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2776,
-  "lookups_today": 35,
+  "lookups_month": 2778,
+  "lookups_today": 37,
   "month": "2026-10"
  }
 }
