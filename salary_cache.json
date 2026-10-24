@@ -4262,11 +4262,6 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
-  "criclive-in|mobile|l1": {
-   "expires": "2026-10-24T20:01:36.958730+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "criclive-in|swe|l1": {
    "expires": "2026-11-04T18:35:39.482288+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
@@ -5297,11 +5292,6 @@
   "elevate-ai-ug|swe|l1": {
    "expires": "2026-11-03T21:46:10.331584+00:00",
    "looked_up": "2026-10-14T21:01:27+00:00",
-   "status": "not_found"
-  },
-  "elico-healthcare-services-ltd|swe|l1": {
-   "expires": "2026-10-24T20:15:51.463835+00:00",
-   "looked_up": "2026-10-06T09:01:44+00:00",
    "status": "not_found"
   },
   "emagine|data|l1": {
@@ -11436,11 +11426,6 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
-  "newspacert|swe|l3": {
-   "expires": "2026-10-24T20:46:49.374039+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "nexacaretalent|frontend|l1": {
    "expires": "2026-10-29T16:12:24.520388+00:00",
    "looked_up": "2026-10-20T17:01:29+00:00",
@@ -12692,8 +12677,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T21:39:41.255482+00:00",
-   "looked_up": "2026-10-24T20:01:27+00:00",
+   "expires": "2027-01-16T07:01:13.217588+00:00",
+   "looked_up": "2026-10-24T20:49:21+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14920,8 +14905,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:13:35.948824+00:00",
-   "looked_up": "2026-10-24T20:01:27+00:00",
+   "expires": "2027-01-23T18:50:05.666672+00:00",
+   "looked_up": "2026-10-24T20:49:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
