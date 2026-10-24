@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:46:02.018256+00:00",
-   "looked_up": "2026-10-24T09:01:23+00:00",
+   "expires": "2027-01-26T04:34:51.529047+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -334,11 +334,6 @@
   "aci-worldwide|swe|l1": {
    "expires": "2026-10-28T21:20:04.359117+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "ackplus-solutions|swe|l1": {
-   "expires": "2026-10-24T09:35:50.568767+00:00",
-   "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
   "acl-digital|swe|l1": {
@@ -4363,11 +4358,6 @@
    "looked_up": "2026-10-12T05:57:40+00:00",
    "status": "not_found"
   },
-  "cvali|swe|l1": {
-   "expires": "2026-10-24T09:28:31.545045+00:00",
-   "looked_up": "2026-10-12T05:57:40+00:00",
-   "status": "not_found"
-  },
   "cwc-mohali|mobile|l1": {
    "expires": "2026-10-30T12:01:56.079974+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
@@ -8178,11 +8168,6 @@
    "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
-  "icapital-network-inc|swe|l1": {
-   "expires": "2026-10-24T09:14:43.496983+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "icare-infosystems-private-limited|frontend|l1": {
    "expires": "2026-11-08T01:34:24.354258+00:00",
    "looked_up": "2026-10-23T05:01:28+00:00",
@@ -8305,8 +8290,8 @@
    "status": "not_found"
   },
   "iitmatrix|data|l1": {
-   "expires": "2026-10-24T09:18:06.818031+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
+   "expires": "2026-11-05T12:40:31.715495+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
    "status": "not_found"
   },
   "iitmatrix|swe|l1": {
@@ -8671,11 +8656,6 @@
    "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
-  "ingold-solutions-private-limited|erp|l1": {
-   "expires": "2026-10-24T09:55:52.383321+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
   "ingram-micro|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -8719,11 +8699,6 @@
   "innovaesi|data|l1": {
    "expires": "2026-10-30T06:06:36.815682+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "innovaesi|devops|l1": {
-   "expires": "2026-10-24T09:49:19.614410+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
   "innovaesi|erp|l1": {
@@ -10165,8 +10140,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:27:37.846088+00:00",
-   "looked_up": "2026-10-24T09:01:23+00:00",
+   "expires": "2027-01-20T22:16:44.287424+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11256,6 +11231,22 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/NCR-Voyix-Salaries-E10016304.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ncrvoyix|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T13:10:48.372493+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
+   "max_lpa": 9.8,
+   "min_lpa": 6.2,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/d5617d50/NCR-Corp-Early-Career"
     }
    ],
    "status": "found",
@@ -12675,8 +12666,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:59:47.113038+00:00",
-   "looked_up": "2026-10-24T09:01:23+00:00",
+   "expires": "2027-01-21T14:14:46.416139+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -16313,11 +16304,6 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
-  "teknikoz|erp|l1": {
-   "expires": "2026-10-24T09:05:27.251567+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
-   "status": "not_found"
-  },
   "teknophile|swe|l1": {
    "expires": "2026-10-28T01:51:27.725059+00:00",
    "looked_up": "2026-10-11T03:01:24+00:00",
@@ -17532,8 +17518,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T18:20:17.328514+00:00",
-   "looked_up": "2026-10-24T09:01:23+00:00",
+   "expires": "2027-01-24T13:05:50.574962+00:00",
+   "looked_up": "2026-10-24T10:01:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -18698,8 +18684,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2768,
-  "lookups_today": 27,
+  "lookups_month": 2770,
+  "lookups_today": 29,
   "month": "2026-10"
  }
 }
