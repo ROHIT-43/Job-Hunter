@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T23:38:13.794454+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-17T19:35:26.848655+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1196,11 +1196,6 @@
   "ametek|swe|l1": {
    "expires": "2026-10-24T22:45:50.461904+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "amgen|data|l1": {
-   "expires": "2026-10-23T23:21:51.045222+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
    "status": "not_found"
   },
   "amgen|frontend|l1": {
@@ -2468,6 +2463,11 @@
   "bizconnect-pvt-ltd|mobile|l1": {
    "expires": "2026-11-01T06:59:07.441891+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
+   "status": "not_found"
+  },
+  "bizzaidev|fullstack|l1": {
+   "expires": "2026-11-13T10:02:48.947670+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "status": "not_found"
   },
   "black-and-veatch|swe|l1": {
@@ -4508,11 +4508,6 @@
   "dabstergroupuk|erp|l1": {
    "expires": "2026-11-09T08:28:02.200048+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
-   "status": "not_found"
-  },
-  "daily-code-solutions|swe|l1": {
-   "expires": "2026-10-23T23:15:03.385594+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "danfoss|data|l1": {
@@ -7812,6 +7807,22 @@
    "looked_up": "2026-10-22T01:01:24+00:00",
    "status": "not_found"
   },
+  "hjinfotech|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T18:25:25.976615+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "in.jooble.org",
+     "uri": "https://in.jooble.org/jobs-devops/Jaipur"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "hoichoitv|data|l1": {
    "expires": "2026-11-01T03:13:20.463828+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
@@ -8744,8 +8755,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:00:02.158512+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-26T23:15:20.949053+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9662,11 +9673,6 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
-  "kontoor-brands|erp|l1": {
-   "expires": "2026-10-23T23:22:34.963568+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
   "kotak-mahindra-bank|swe|l1": {
    "expires": "2026-10-27T09:23:43.341727+00:00",
    "looked_up": "2026-10-15T16:01:35+00:00",
@@ -9880,8 +9886,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:59:01.896032+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-16T02:02:34.137191+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10224,8 +10230,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:54:12.611079+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-20T03:28:44.958976+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10857,11 +10863,6 @@
   },
   "mettlertoledo|mobile|l1": {
    "expires": "2026-11-02T13:46:39.521395+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
-   "status": "not_found"
-  },
-  "mettlertoledo|swe|l1": {
-   "expires": "2026-10-23T23:04:20.000358+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
    "status": "not_found"
   },
@@ -12239,6 +12240,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "outcome-school|swe|l1": {
+   "expires": "2026-11-12T03:13:52.232009+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
+   "status": "not_found"
+  },
   "outstafferai|erp|l1": {
    "expires": "2026-11-02T16:20:13.818702+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
@@ -12676,6 +12682,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "pinnacle99-inc|erp|l1": {
+   "expires": "2026-11-03T06:35:19.287297+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
+   "status": "not_found"
+  },
   "pinnaxel|frontend|l1": {
    "expires": "2026-10-31T16:59:16.442939+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -12739,8 +12750,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T20:40:09.452592+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-15T23:01:16.517428+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -17601,8 +17612,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T11:03:24.780892+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-20T03:08:25.862501+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17690,8 +17701,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T23:07:30.117096+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-28T10:53:43.411824+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18551,8 +18562,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T05:29:22.140523+00:00",
-   "looked_up": "2026-10-23T23:01:21+00:00",
+   "expires": "2027-01-28T15:25:08.323665+00:00",
+   "looked_up": "2026-10-24T00:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18761,9 +18772,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-23",
-  "lookups_month": 2741,
-  "lookups_today": 169,
+  "day": "2026-10-24",
+  "lookups_month": 2745,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
