@@ -12652,8 +12652,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T06:19:32.611070+00:00",
-   "looked_up": "2026-10-24T23:01:28+00:00",
+   "expires": "2027-01-29T09:12:36.743121+00:00",
+   "looked_up": "2026-10-24T23:14:01+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12727,8 +12727,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:55:31.134417+00:00",
-   "looked_up": "2026-10-24T23:01:28+00:00",
+   "expires": "2027-01-17T13:57:13.771839+00:00",
+   "looked_up": "2026-10-24T23:14:01+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13544,11 +13544,6 @@
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-10-28T15:15:10.782099+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "real-time-applications-center|devops|l1": {
-   "expires": "2026-10-24T23:13:25.053004+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
    "status": "not_found"
   },
   "real-time-applications-center|mobile|l1": {
@@ -14880,8 +14875,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T23:15:24.554688+00:00",
-   "looked_up": "2026-10-24T23:01:28+00:00",
+   "expires": "2027-01-17T07:52:45.670349+00:00",
+   "looked_up": "2026-10-24T23:14:01+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
