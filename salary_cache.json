@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T19:12:29.717065+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-18T20:58:30.116291+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -380,6 +380,11 @@
     }
    ],
    "status": "found"
+  },
+  "acuitas360|swe|l1": {
+   "expires": "2026-11-07T10:28:39.701701+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
+   "status": "not_found"
   },
   "acuityanalytics|data|l1": {
    "expires": "2026-10-30T08:39:19.331446+00:00",
@@ -2509,6 +2514,11 @@
   "blueflute-software|mobile|l1": {
    "expires": "2026-11-04T07:01:16.170805+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
+   "status": "not_found"
+  },
+  "bluefoxsystems|swe|l1": {
+   "expires": "2026-11-13T01:16:07.324783+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "blueyonder|fullstack|l1": {
@@ -5329,11 +5339,6 @@
    "looked_up": "2026-10-14T21:01:27+00:00",
    "status": "not_found"
   },
-  "eli-lilly-and-company|swe|l1": {
-   "expires": "2026-10-24T06:00:26.676384+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
-  },
   "elico-healthcare-services-ltd|swe|l1": {
    "expires": "2026-10-24T20:15:51.463835+00:00",
    "looked_up": "2026-10-06T09:01:44+00:00",
@@ -6932,6 +6937,11 @@
   "gnani-ai|devops|l1": {
    "expires": "2026-11-04T07:23:40.666716+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
+   "status": "not_found"
+  },
+  "gnext-data-solutions|swe|l1": {
+   "expires": "2026-11-07T17:25:50.865392+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "go-scopify|frontend|l1": {
@@ -8725,8 +8735,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T04:13:27.867233+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-29T06:01:11.935092+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9492,11 +9502,6 @@
    "looked_up": "2026-10-22T10:17:31+00:00",
    "status": "not_found"
   },
-  "kastech-software-solutions-group|erp|l1": {
-   "expires": "2026-10-24T05:57:08.842738+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "katbotz|erp|l1": {
    "expires": "2026-11-02T09:40:42.516073+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -9851,8 +9856,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T05:11:11.663302+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-27T19:08:21.944938+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10195,8 +10200,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T02:25:53.518895+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-26T07:23:33.326997+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12695,8 +12700,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T09:08:10.794453+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-24T08:09:07.864601+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13559,11 +13564,6 @@
    "looked_up": "2026-10-18T18:01:24+00:00",
    "status": "not_found"
   },
-  "real-jobs-consulting-services2|mobile|l1": {
-   "expires": "2026-10-24T05:55:18.169034+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-10-28T15:15:10.782099+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -13805,6 +13805,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "reveation-labs|fullstack|l1": {
+   "expires": "2026-11-13T07:50:08.145804+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
+   "status": "not_found"
   },
   "reveation-labs|swe|l1": {
    "expires": "2026-10-28T08:34:47.685227+00:00",
@@ -14890,6 +14895,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "skatesupplyindia|frontend|l1": {
+   "expires": "2026-11-07T19:29:15.912251+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
+   "status": "not_found"
+  },
   "skildai|mobile|l1": {
    "expires": "2026-10-27T21:00:10.936149+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
@@ -15377,6 +15387,11 @@
   "sprrg-internet-pvt-ltd|swe|l1": {
    "expires": "2026-10-31T05:42:06.190576+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
+  "sreeramengineeringworks|swe|l1": {
+   "expires": "2026-11-08T16:05:51.010426+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "srest|swe|l1": {
@@ -17547,8 +17562,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:54:32.903889+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-26T06:21:35.029924+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17636,8 +17651,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T06:37:36.934576+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-20T00:52:29.720632+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18497,8 +18512,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:50:33.562937+00:00",
-   "looked_up": "2026-10-24T05:53:22+00:00",
+   "expires": "2027-01-25T05:11:33.207081+00:00",
+   "looked_up": "2026-10-24T06:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18708,8 +18723,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2753,
-  "lookups_today": 12,
+  "lookups_month": 2759,
+  "lookups_today": 18,
   "month": "2026-10"
  }
 }
