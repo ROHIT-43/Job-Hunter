@@ -2933,6 +2933,11 @@
    "looked_up": "2026-10-16T15:01:36+00:00",
    "status": "not_found"
   },
+  "cadence|swe|l1": {
+   "expires": "2026-11-11T17:33:58.163862+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
+   "status": "not_found"
+  },
   "cadence|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -4262,11 +4267,6 @@
    "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
-  "crewliajobs|swe|l1": {
-   "expires": "2026-10-24T15:28:08.461732+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
-   "status": "not_found"
-  },
   "criclive-in|mobile|l1": {
    "expires": "2026-10-24T20:01:36.958730+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -4498,6 +4498,22 @@
    "expires": "2026-10-31T21:35:57.713949+00:00",
    "looked_up": "2026-10-20T16:01:30+00:00",
    "status": "not_found"
+  },
+  "danfoss|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-22T13:17:50.737184+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 5.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/danfoss-power-solutions-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "dariohealth|erp|l1": {
    "expires": "2026-10-26T03:56:23.016565+00:00",
@@ -4989,11 +5005,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "dimaag|frontend|l1": {
-   "expires": "2026-10-24T15:28:11.102907+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "discoverintl|erp|l1": {
    "expires": "2026-11-06T07:10:13.587945+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
@@ -5236,11 +5247,6 @@
   },
   "edstruments|devops|l1": {
    "expires": "2026-10-27T15:54:26.929829+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
-   "status": "not_found"
-  },
-  "edurun-virtuoso-pvt-ltd|security|l1": {
-   "expires": "2026-10-24T15:56:03.731879+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
@@ -8011,11 +8017,6 @@
    "looked_up": "2026-10-11T19:01:18+00:00",
    "status": "not_found"
   },
-  "huntingcubeai|security|l1": {
-   "expires": "2026-10-24T15:37:58.532408+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
   "huntingcubeai|swe|l1": {
    "expires": "2026-10-26T05:47:44.346449+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -8772,11 +8773,6 @@
   "insight-global|fullstack|l1": {
    "expires": "2026-10-31T09:24:36.808271+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "insight-global|security|l1": {
-   "expires": "2026-10-24T15:12:21.746395+00:00",
-   "looked_up": "2026-10-06T16:01:43+00:00",
    "status": "not_found"
   },
   "insight-international-uk-ltd|data|l1": {
@@ -10229,6 +10225,11 @@
   "maestrotech1|swe|l1": {
    "expires": "2026-10-24T22:46:20.111078+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
+   "status": "not_found"
+  },
+  "maieuticedutech|swe|l1": {
+   "expires": "2026-11-04T15:01:29.318759+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
    "status": "not_found"
   },
   "makoitlab|swe|l1": {
@@ -11784,6 +11785,11 @@
    "looked_up": "2026-10-18T12:01:26+00:00",
    "status": "not_found"
   },
+  "numentica-llc|frontend|l1": {
+   "expires": "2026-11-13T00:17:43.553284+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
+   "status": "not_found"
+  },
   "nuswipeofficial|mobile|l1": {
    "expires": "2026-11-11T08:21:22.192395+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -12695,8 +12701,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:39:56.358230+00:00",
-   "looked_up": "2026-10-24T15:01:33+00:00",
+   "expires": "2027-01-29T09:02:38.425087+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12843,6 +12849,11 @@
   "prodigy-technovations|swe|l1": {
    "expires": "2026-11-02T15:51:27.216354+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
+  "profoundme|fullstack|l3": {
+   "expires": "2026-11-14T08:10:15.616290+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
    "status": "not_found"
   },
   "profoundme|swe|l3": {
@@ -14928,8 +14939,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T10:10:23.653555+00:00",
-   "looked_up": "2026-10-24T15:01:33+00:00",
+   "expires": "2027-01-17T00:27:57.939716+00:00",
+   "looked_up": "2026-10-24T16:01:37+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15441,11 +15452,6 @@
   "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
    "expires": "2026-11-05T02:57:40.806839+00:00",
    "looked_up": "2026-10-19T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "stackfusion-pvt-ltd|mobile|l1": {
-   "expires": "2026-10-24T15:59:34.012481+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "stageworks-in|swe|l1": {
@@ -18747,8 +18753,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2790,
-  "lookups_today": 49,
+  "lookups_month": 2795,
+  "lookups_today": 54,
   "month": "2026-10"
  }
 }
