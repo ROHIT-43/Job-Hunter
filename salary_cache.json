@@ -149,6 +149,11 @@
    ],
    "status": "found"
   },
+  "abilispath|swe|l1": {
+   "expires": "2026-11-05T13:09:42.021800+00:00",
+   "looked_up": "2026-10-24T20:01:27+00:00",
+   "status": "not_found"
+  },
   "abnormal-ai|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -8089,11 +8094,6 @@
    "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
-  "i2btechnologies-pvt-ltd|data|l1": {
-   "expires": "2026-10-24T19:53:46.515915+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
-  },
   "ibm|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12692,8 +12692,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T10:49:01.695799+00:00",
-   "looked_up": "2026-10-24T19:01:25+00:00",
+   "expires": "2027-01-28T21:39:41.255482+00:00",
+   "looked_up": "2026-10-24T20:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14920,8 +14920,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T04:19:13.663898+00:00",
-   "looked_up": "2026-10-24T19:01:25+00:00",
+   "expires": "2027-01-19T12:13:35.948824+00:00",
+   "looked_up": "2026-10-24T20:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -16911,6 +16911,11 @@
    "looked_up": "2026-10-14T05:02:59+00:00",
    "status": "not_found"
   },
+  "traker-live|frontend|l1": {
+   "expires": "2026-11-08T17:33:10.709014+00:00",
+   "looked_up": "2026-10-24T20:01:27+00:00",
+   "status": "not_found"
+  },
   "traker-live|swe|l1": {
    "expires": "2026-11-02T15:33:06.365791+00:00",
    "looked_up": "2026-10-14T20:01:23+00:00",
@@ -18724,8 +18729,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2806,
-  "lookups_today": 65,
+  "lookups_month": 2808,
+  "lookups_today": 67,
   "month": "2026-10"
  }
 }
