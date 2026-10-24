@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:25:13.955818+00:00",
-   "looked_up": "2026-10-24T11:22:21+00:00",
+   "expires": "2027-01-19T18:09:24.812542+00:00",
+   "looked_up": "2026-10-24T12:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -8453,11 +8453,6 @@
    "looked_up": "2026-10-20T15:01:31+00:00",
    "status": "not_found"
   },
-  "information-systems-associates-fze|swe|l1": {
-   "expires": "2026-10-24T11:49:02.037529+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
-   "status": "not_found"
-  },
   "infor|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11699,11 +11694,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "ntt-data-americas|devops|l1": {
-   "expires": "2026-10-24T11:51:23.023521+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "ntt-data-americas|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13910,11 +13900,6 @@
    "status": "found",
    "year": 2022
   },
-  "rivirtual|swe|l1": {
-   "expires": "2026-10-24T11:45:10.291450+00:00",
-   "looked_up": "2026-10-12T05:01:24+00:00",
-   "status": "not_found"
-  },
   "riyalabs-ai|security|l1": {
    "expires": "2026-10-25T08:32:54.390271+00:00",
    "looked_up": "2026-10-18T08:01:23+00:00",
@@ -15847,11 +15832,6 @@
   "talentmicro-corporation|swe|l1": {
    "expires": "2026-11-03T16:18:00.404546+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "talentrabbit|frontend|l1": {
-   "expires": "2026-10-24T11:34:24.176106+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
   "talentrabbit|swe|l1": {
