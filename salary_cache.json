@@ -1608,6 +1608,11 @@
    "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
+  "arcticwolf|swe|l3": {
+   "expires": "2026-11-12T16:15:19.545732+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
   "argano|erp|l1": {
    "expires": "2026-10-31T20:20:05.282282+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -3461,6 +3466,11 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
+  "chinmay-finlease-limited|security|l1": {
+   "expires": "2026-11-07T03:29:11.537677+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
   "chryselys|data|l1": {
    "expires": "2026-11-06T04:12:56.467661+00:00",
    "looked_up": "2026-10-22T03:01:25+00:00",
@@ -3605,11 +3615,6 @@
   "cladbe|swe|l1": {
    "expires": "2026-11-04T12:37:21.975876+00:00",
    "looked_up": "2026-10-20T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "clanxai|swe|l1": {
-   "expires": "2026-10-24T12:35:29.396055+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "clapstickmedia|swe|l1": {
@@ -4857,11 +4862,6 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
-  "devsatva|swe|l1": {
-   "expires": "2026-10-24T12:13:56.209936+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
-   "status": "not_found"
-  },
   "dexcom|swe|l1": {
    "expires": "2026-10-25T20:48:53.601900+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
@@ -5514,6 +5514,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "ericsson|swe|l2": {
+   "expires": "2026-11-08T07:10:13.412561+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
   "ernstandyoung|devops|l1": {
    "expires": "2026-10-26T11:44:15.883682+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
@@ -5757,6 +5762,26 @@
    "expires": "2026-10-29T19:37:14.778994+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
+  },
+  "exl-service|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T09:15:53.872042+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/exl-service-salaries/associate-software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/exl-service-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "exl-service|fullstack|l1": {
    "basis": "ctc",
@@ -9401,11 +9426,6 @@
    "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
-  "kainos-innovative-solutions|erp|l1": {
-   "expires": "2026-10-24T12:27:01.464107+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "kainos|erp|l1": {
    "expires": "2026-11-05T10:12:03.474830+00:00",
    "looked_up": "2026-10-16T19:01:22+00:00",
@@ -12246,6 +12266,11 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
+  "paperlite|mobile|l1": {
+   "expires": "2026-11-08T13:36:40.874446+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
   "parentpaygroup|swe|l1": {
    "expires": "2026-10-29T21:49:55.915631+00:00",
    "looked_up": "2026-10-19T21:01:25+00:00",
@@ -12685,8 +12710,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T07:56:28.668134+00:00",
-   "looked_up": "2026-10-24T11:22:21+00:00",
+   "expires": "2027-01-20T15:16:36.633833+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12833,6 +12858,11 @@
   "prodigy-technovations|swe|l1": {
    "expires": "2026-11-02T15:51:27.216354+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
+  "profoundme|swe|l3": {
+   "expires": "2026-11-02T08:12:08.306744+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
    "status": "not_found"
   },
   "programmers-io|swe|l1": {
@@ -14445,11 +14475,6 @@
    "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
-  "scikiq|fullstack|l1": {
-   "expires": "2026-10-24T13:00:50.765501+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
-   "status": "not_found"
-  },
   "sciplaygames|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -14889,6 +14914,20 @@
    "expires": "2026-10-30T19:42:56.238658+00:00",
    "looked_up": "2026-10-18T14:01:28+00:00",
    "status": "not_found"
+  },
+  "skillinabox|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-27T18:59:15.129790+00:00",
+   "looked_up": "2026-10-24T13:01:30+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "skillorbil|data|l1": {
    "expires": "2026-10-27T23:24:11.444109+00:00",
@@ -18688,8 +18727,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2778,
-  "lookups_today": 37,
+  "lookups_month": 2784,
+  "lookups_today": 43,
   "month": "2026-10"
  }
 }
