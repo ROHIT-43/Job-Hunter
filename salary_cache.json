@@ -6342,6 +6342,11 @@
    "looked_up": "2026-10-20T23:01:29+00:00",
    "status": "not_found"
   },
+  "flexipletech|frontend|l1": {
+   "expires": "2026-11-10T21:17:48.301480+00:00",
+   "looked_up": "2026-10-24T21:01:27+00:00",
+   "status": "not_found"
+  },
   "flexipletech|fullstack|l1": {
    "expires": "2026-10-25T20:38:06.446691+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -12677,8 +12682,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T07:01:13.217588+00:00",
-   "looked_up": "2026-10-24T20:49:21+00:00",
+   "expires": "2027-01-21T04:33:27.151028+00:00",
+   "looked_up": "2026-10-24T21:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12752,8 +12757,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T23:23:33.861350+00:00",
-   "looked_up": "2026-10-17T19:23:46+00:00",
+   "expires": "2027-01-27T22:58:26.803489+00:00",
+   "looked_up": "2026-10-24T21:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14905,8 +14910,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T18:50:05.666672+00:00",
-   "looked_up": "2026-10-24T20:49:21+00:00",
+   "expires": "2027-01-29T12:25:31.492332+00:00",
+   "looked_up": "2026-10-24T21:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15541,11 +15546,6 @@
   "sulzer|swe|l1": {
    "expires": "2026-10-30T14:27:15.561974+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "superfan-ng|devops|l1": {
-   "expires": "2026-10-24T20:51:20.151768+00:00",
-   "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
   "suramyaco|swe|l1": {
@@ -18471,6 +18471,22 @@
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
   },
+  "zecdata|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-26T20:19:57.408155+00:00",
+   "looked_up": "2026-10-24T21:01:27+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Zecdata-Technology/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zemaglobal|swe|l1": {
    "expires": "2026-11-06T19:35:42.149066+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -18714,8 +18730,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2808,
-  "lookups_today": 67,
+  "lookups_month": 2810,
+  "lookups_today": 69,
   "month": "2026-10"
  }
 }
