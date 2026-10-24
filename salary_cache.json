@@ -12696,8 +12696,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T19:48:12.144462+00:00",
-   "looked_up": "2026-10-24T18:01:42+00:00",
+   "expires": "2027-01-24T06:32:08.001818+00:00",
+   "looked_up": "2026-10-24T18:08:57+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14924,8 +14924,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T22:04:11.495474+00:00",
-   "looked_up": "2026-10-24T18:01:42+00:00",
+   "expires": "2027-01-23T21:01:44.370271+00:00",
+   "looked_up": "2026-10-24T18:08:57+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
