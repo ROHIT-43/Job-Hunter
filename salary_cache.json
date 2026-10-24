@@ -814,11 +814,6 @@
    "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
-  "algoleap|security|l1": {
-   "expires": "2026-10-24T13:14:47.807710+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
-   "status": "not_found"
-  },
   "algoleap|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2883,6 +2878,11 @@
    "status": "found",
    "year": 2024
   },
+  "budventuretechnology|swe|l1": {
+   "expires": "2026-11-06T02:42:29.730318+00:00",
+   "looked_up": "2026-10-24T14:01:34+00:00",
+   "status": "not_found"
+  },
   "bunge|erp|l1": {
    "expires": "2026-10-26T11:00:07.297234+00:00",
    "looked_up": "2026-10-17T15:01:24+00:00",
@@ -4870,11 +4870,6 @@
   "dexcom|swe|l2": {
    "expires": "2026-11-02T11:00:35.351450+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
-  "dhl-supply-chain|devops|l1": {
-   "expires": "2026-10-24T13:57:28.922309+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "dhruv-soft|swe|l1": {
@@ -8127,11 +8122,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ibm|devops|l1": {
-   "expires": "2026-10-24T13:31:56.779412+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
   },
   "ibm|erp|l1": {
    "basis": "ctc",
@@ -12710,8 +12700,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T15:16:36.633833+00:00",
-   "looked_up": "2026-10-24T13:01:30+00:00",
+   "expires": "2027-01-27T05:46:49.410344+00:00",
+   "looked_up": "2026-10-24T14:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14709,6 +14699,11 @@
    "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
+  "shreeyaan-solusmart-pvt-ltd|swe|l1": {
+   "expires": "2026-11-09T03:22:27.376867+00:00",
+   "looked_up": "2026-10-24T14:01:34+00:00",
+   "status": "not_found"
+  },
   "shridhi-softwares|fullstack|l1": {
    "expires": "2026-10-27T15:33:13.191908+00:00",
    "looked_up": "2026-10-20T02:01:21+00:00",
@@ -14824,6 +14819,26 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "siemens|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T19:54:01.526852+00:00",
+   "looked_up": "2026-10-24T14:01:34+00:00",
+   "max_lpa": 6.2,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/siemens-india/jobs-internships/fresher-developertester"
+    },
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/siemens-india/jobs-internships/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "sigma-software|mobile|l1": {
    "expires": "2026-10-27T22:41:06.500146+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
@@ -14918,8 +14933,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:59:15.129790+00:00",
-   "looked_up": "2026-10-24T13:01:30+00:00",
+   "expires": "2027-01-21T10:01:08.292898+00:00",
+   "looked_up": "2026-10-24T14:01:34+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -17577,11 +17592,6 @@
    ],
    "status": "found"
   },
-  "venturesathi|frontend|l1": {
-   "expires": "2026-10-24T13:58:17.475225+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "vericence|devops|l1": {
    "expires": "2026-11-06T10:57:49.311754+00:00",
    "looked_up": "2026-10-16T23:01:23+00:00",
@@ -18727,8 +18737,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2784,
-  "lookups_today": 43,
+  "lookups_month": 2787,
+  "lookups_today": 46,
   "month": "2026-10"
  }
 }
