@@ -2358,6 +2358,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "bestex-research-group|swe|l1": {
+   "expires": "2026-11-11T17:22:39.624707+00:00",
+   "looked_up": "2026-10-24T18:01:42+00:00",
+   "status": "not_found"
+  },
   "beta-soft-net|swe|l1": {
    "expires": "2026-11-05T14:29:05.992319+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
@@ -3272,11 +3277,6 @@
    "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
-  "cdcubes-private-limited|swe|l1": {
-   "expires": "2026-10-24T17:07:03.926336+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "cdknorthamerica|security|l1": {
    "expires": "2026-11-04T09:09:43.390509+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -3764,11 +3764,6 @@
   "codagram-edtech|swe|l1": {
    "expires": "2026-11-06T21:47:04.087903+00:00",
    "looked_up": "2026-10-23T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "codechaps|mobile|l2": {
-   "expires": "2026-10-24T17:39:23.000170+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "codelancerofficial|security|l1": {
@@ -6559,11 +6554,6 @@
    "looked_up": "2026-10-22T16:01:31+00:00",
    "status": "not_found"
   },
-  "fuziongrow|swe|l1": {
-   "expires": "2026-10-24T17:32:51.682671+00:00",
-   "looked_up": "2026-10-10T05:01:21+00:00",
-   "status": "not_found"
-  },
   "fuzixel-technologies-private-limited|erp|l1": {
    "expires": "2026-11-08T07:39:47.863937+00:00",
    "looked_up": "2026-10-23T06:01:26+00:00",
@@ -8324,11 +8314,6 @@
    "looked_up": "2026-10-17T05:01:22+00:00",
    "status": "not_found"
   },
-  "iitjobs|ml|l1": {
-   "expires": "2026-10-24T17:49:50.620324+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
-   "status": "not_found"
-  },
   "iitmatrix|data|l1": {
    "expires": "2026-11-05T12:40:31.715495+00:00",
    "looked_up": "2026-10-24T10:01:26+00:00",
@@ -9192,6 +9177,11 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
+  "jobofdreams|data|l1": {
+   "expires": "2026-11-11T16:32:54.995350+00:00",
+   "looked_up": "2026-10-24T18:01:42+00:00",
+   "status": "not_found"
+  },
   "johnson-controls|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9517,11 +9507,6 @@
   "keystone-partnerspl|swe|l1": {
    "expires": "2026-11-04T01:47:47.512400+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
-   "status": "not_found"
-  },
-  "keywordsstudios|devops|l1": {
-   "expires": "2026-10-24T17:49:34.538489+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "kheewaincorporation|mobile|l1": {
@@ -12711,8 +12696,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:40:27.895056+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
+   "expires": "2027-01-23T19:48:12.144462+00:00",
+   "looked_up": "2026-10-24T18:01:42+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13988,11 +13973,6 @@
    "status": "found",
    "year": 2026
   },
-  "roadcast-tech|devops|l1": {
-   "expires": "2026-10-24T17:08:35.612981+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "roche|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14596,11 +14576,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "secondwind-by-joveo|swe|l1": {
-   "expires": "2026-10-24T17:25:52.235860+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
-   "status": "not_found"
-  },
   "secularlabs|swe|l1": {
    "expires": "2026-10-25T08:48:45.805529+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -14949,8 +14924,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:11:57.228325+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
+   "expires": "2027-01-16T22:04:11.495474+00:00",
+   "looked_up": "2026-10-24T18:01:42+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -18036,11 +18011,6 @@
    ],
    "status": "found"
   },
-  "weareuplers|swe|l1": {
-   "expires": "2026-10-24T17:50:42.477339+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "weareuplers|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -18763,8 +18733,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2801,
-  "lookups_today": 60,
+  "lookups_month": 2803,
+  "lookups_today": 62,
   "month": "2026-10"
  }
 }
