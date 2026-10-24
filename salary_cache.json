@@ -101,11 +101,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "aanseacore|data|l1": {
-   "expires": "2026-10-24T04:15:48.188566+00:00",
-   "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
   "aarleez-consultancy-services-acs-pvt-ltd|mobile|l1": {
    "expires": "2026-11-09T19:22:31.326267+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -134,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:28:55.434849+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-24T19:48:26.170069+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -365,6 +360,11 @@
   "acrapath|fullstack|l1": {
    "expires": "2026-10-31T07:47:23.741622+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
+  "actowiz|fullstack|l1": {
+   "expires": "2026-11-11T00:21:07.531017+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "status": "not_found"
   },
   "acttconnect20|swe|l1": {
@@ -6954,11 +6954,6 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
-  "goaudits|data|l1": {
-   "expires": "2026-10-24T04:21:36.098774+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
   "gobefisc|swe|l1": {
    "expires": "2026-10-25T19:30:29.101498+00:00",
    "looked_up": "2026-10-09T13:01:32+00:00",
@@ -7919,11 +7914,6 @@
    "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
-  "hrc-consultng|swe|l1": {
-   "expires": "2026-10-24T04:35:35.516217+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
-   "status": "not_found"
-  },
   "hrmcounselll|swe|l1": {
    "expires": "2026-10-26T19:37:32.962483+00:00",
    "looked_up": "2026-10-06T05:35:27+00:00",
@@ -8740,8 +8730,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:10:46.440890+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-21T06:19:42.233361+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -8857,11 +8847,6 @@
   "intive|devops|l1": {
    "expires": "2026-10-30T09:41:16.150305+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "intozi|swe|l1": {
-   "expires": "2026-10-24T04:29:38.163537+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "intraedge|swe|l1": {
@@ -9871,8 +9856,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T19:29:19.913322+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-26T17:59:48.044271+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10215,8 +10200,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T09:45:44.878579+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-25T20:19:04.980378+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10395,11 +10380,6 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
-  "masco-home-products-private-limited|data|l1": {
-   "expires": "2026-10-24T04:27:10.815651+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "mastek|data|l1": {
    "expires": "2026-10-30T12:36:59.167727+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -10563,11 +10543,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "masterclassspace|swe|l1": {
-   "expires": "2026-10-24T04:38:26.734943+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
-   "status": "not_found"
   },
   "matrix-comsec|devops|l1": {
    "basis": "ctc",
@@ -12725,8 +12700,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T00:58:52.221314+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-25T08:13:34.038780+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -17577,8 +17552,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T10:27:52.077459+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-23T04:44:23.200825+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17666,8 +17641,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T16:55:09.478368+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-28T23:22:17.712580+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18527,8 +18502,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T13:16:32.077048+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
+   "expires": "2027-01-17T05:31:20.896710+00:00",
+   "looked_up": "2026-10-24T05:01:36+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18738,8 +18713,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2752,
-  "lookups_today": 11,
+  "lookups_month": 2753,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
