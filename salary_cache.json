@@ -3741,6 +3741,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "co-worker-technology-ab|data|l1": {
+   "expires": "2026-11-01T17:40:26.688389+00:00",
+   "looked_up": "2026-10-24T15:01:33+00:00",
+   "status": "not_found"
+  },
   "co-worker-technology-ab|swe|l1": {
    "expires": "2026-10-27T03:21:39.193569+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -4431,11 +4436,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "cyber1armorofficial|fullstack|l1": {
-   "expires": "2026-10-24T14:54:11.689912+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
   },
   "cybrain-software-solutions|frontend|l1": {
    "expires": "2026-11-03T11:56:05.821980+00:00",
@@ -12682,6 +12682,11 @@
    "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
+  "portage-point-partners|devops|l1": {
+   "expires": "2026-11-01T09:12:55.672753+00:00",
+   "looked_up": "2026-10-24T15:01:33+00:00",
+   "status": "not_found"
+  },
   "positiwise|devops|l1": {
    "expires": "2026-11-03T21:59:44.371062+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -12690,8 +12695,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:57:36.602592+00:00",
-   "looked_up": "2026-10-24T14:32:50+00:00",
+   "expires": "2027-01-24T06:39:56.358230+00:00",
+   "looked_up": "2026-10-24T15:01:33+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14923,8 +14928,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T08:42:54.492037+00:00",
-   "looked_up": "2026-10-24T14:32:50+00:00",
+   "expires": "2027-01-29T10:10:23.653555+00:00",
+   "looked_up": "2026-10-24T15:01:33+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -14942,11 +14947,6 @@
   "skillovilla|swe|l1": {
    "expires": "2026-10-30T08:02:05.744357+00:00",
    "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "skills-agency|swe|l1": {
-   "expires": "2026-10-24T14:49:44.926508+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "skinaa|mobile|l1": {
@@ -16860,6 +16860,26 @@
    "status": "found",
    "year": 2026
   },
+  "tower-research-capital|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T19:00:38.990799+00:00",
+   "looked_up": "2026-10-24T15:01:33+00:00",
+   "max_lpa": 72.6,
+   "min_lpa": 39.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/tower-research-capital/salaries/software-engineer/title/full-stack-software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/tr-tr/companies/tower-research-capital/salaries/software-engineer/title/backend-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "tower-research-capital|swe|l3": {
    "basis": "base",
    "confidence": "low",
@@ -18727,8 +18747,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2787,
-  "lookups_today": 46,
+  "lookups_month": 2790,
+  "lookups_today": 49,
   "month": "2026-10"
  }
 }
