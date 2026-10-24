@@ -139,8 +139,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T13:47:09.073626+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-19T12:34:51.250760+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -8745,8 +8745,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T19:56:27.497568+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-23T01:19:17.984943+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9876,8 +9876,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:20:36.350095+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-15T11:02:41.145500+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10220,8 +10220,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:52:18.240367+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-28T05:07:11.987345+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12735,8 +12735,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:06:09.503195+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-23T07:29:37.554986+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -17597,8 +17597,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T22:53:48.276170+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-16T05:05:33.816135+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17686,8 +17686,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:14:37.697139+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-16T09:28:32.849712+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18547,8 +18547,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T13:48:21.667637+00:00",
-   "looked_up": "2026-10-24T00:42:16+00:00",
+   "expires": "2027-01-23T22:54:54.129260+00:00",
+   "looked_up": "2026-10-24T01:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
