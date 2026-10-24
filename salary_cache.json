@@ -1188,11 +1188,6 @@
    "status": "found",
    "year": 2026
   },
-  "ametek|swe|l1": {
-   "expires": "2026-10-24T22:45:50.461904+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
   "amgen|frontend|l1": {
    "expires": "2026-10-25T05:52:45.353079+00:00",
    "looked_up": "2026-10-14T00:01:31+00:00",
@@ -10193,11 +10188,6 @@
    "status": "found",
    "year": 2026
   },
-  "maestrotech1|swe|l1": {
-   "expires": "2026-10-24T22:46:20.111078+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "maieuticedutech|swe|l1": {
    "expires": "2026-11-04T15:01:29.318759+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
@@ -12028,11 +12018,6 @@
    "looked_up": "2026-10-20T03:01:29+00:00",
    "status": "not_found"
   },
-  "optiminastic|fullstack|l1": {
-   "expires": "2026-10-24T22:09:50.655015+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
   "optimizer360ai|fullstack|l1": {
    "expires": "2026-10-25T09:08:37.949809+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
@@ -12667,8 +12652,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:52:09.031113+00:00",
-   "looked_up": "2026-10-24T22:01:32+00:00",
+   "expires": "2027-01-17T06:19:32.611070+00:00",
+   "looked_up": "2026-10-24T23:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12742,8 +12727,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T03:56:07.935472+00:00",
-   "looked_up": "2026-10-24T22:01:32+00:00",
+   "expires": "2027-01-24T09:55:31.134417+00:00",
+   "looked_up": "2026-10-24T23:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14895,8 +14880,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:01:57.283754+00:00",
-   "looked_up": "2026-10-24T22:01:32+00:00",
+   "expires": "2027-01-27T23:15:24.554688+00:00",
+   "looked_up": "2026-10-24T23:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
