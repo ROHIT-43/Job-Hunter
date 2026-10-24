@@ -101,11 +101,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "aahaas|devops|l1": {
-   "expires": "2026-10-24T03:25:55.622632+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "aanseacore|data|l1": {
    "expires": "2026-10-24T04:15:48.188566+00:00",
    "looked_up": "2026-10-06T16:01:43+00:00",
@@ -139,8 +134,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T14:29:14.123474+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-28T15:28:55.434849+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -898,6 +893,11 @@
   "allshore-technologies|swe|l1": {
    "expires": "2026-11-02T07:07:58.618246+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
+   "status": "not_found"
+  },
+  "alluraa|frontend|l1": {
+   "expires": "2026-11-09T00:47:33.270182+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "status": "not_found"
   },
   "almashines|fullstack|l1": {
@@ -2342,11 +2342,6 @@
   "beachclubs-ae|swe|l1": {
    "expires": "2026-10-24T18:56:28.225651+00:00",
    "looked_up": "2026-10-10T09:01:19+00:00",
-   "status": "not_found"
-  },
-  "beghou-consulting|swe|l1": {
-   "expires": "2026-10-24T03:56:58.647909+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "believeglobal|swe|l1": {
@@ -5184,6 +5179,11 @@
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
+  "easytive|swe|l1": {
+   "expires": "2026-10-31T21:22:54.665495+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
+   "status": "not_found"
+  },
   "eaton|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6412,11 +6412,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "foliox-ai|mobile|l1": {
-   "expires": "2026-10-24T03:07:19.117513+00:00",
-   "looked_up": "2026-10-10T03:01:20+00:00",
-   "status": "not_found"
   },
   "for-demo-live|swe|l1": {
    "expires": "2026-11-06T02:47:45.075350+00:00",
@@ -8745,8 +8740,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:58:58.532680+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-17T08:10:46.440890+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9876,8 +9871,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T08:06:08.174337+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-23T19:29:19.913322+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10220,8 +10215,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:00:34.776493+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-17T09:45:44.878579+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10373,11 +10368,6 @@
   "mariinox|swe|l1": {
    "expires": "2026-11-08T10:27:00.184346+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "marrinadecisions|frontend|l1": {
-   "expires": "2026-10-24T03:47:43.030188+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
   "marriott-tech-accelerator|swe|l1": {
@@ -12735,8 +12725,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T21:49:18.360489+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-20T00:58:52.221314+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12785,11 +12775,6 @@
   "pracyva-ltd|devops|l1": {
    "expires": "2026-11-02T17:51:55.272896+00:00",
    "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
-  "prameela-onesuite|fullstack|l1": {
-   "expires": "2026-10-24T03:42:16.771015+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "prayosha-automation-private-limited|swe|l1": {
@@ -14408,6 +14393,11 @@
    "status": "found",
    "year": 2020
   },
+  "sarvi-creation-llp|swe|l1": {
+   "expires": "2026-11-13T12:34:12.610883+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
+   "status": "not_found"
+  },
   "saskentechnologieslimited|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14757,11 +14747,6 @@
   "shriramgeneralinsurance|mobile|l1": {
    "expires": "2026-10-25T15:42:50.442068+00:00",
    "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
-  "shriramgeneralinsurance|swe|l1": {
-   "expires": "2026-10-24T03:14:10.893927+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "shyam-kumar-sahoo|swe|l1": {
@@ -17592,8 +17577,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T23:51:38.313273+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-16T10:27:52.077459+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -17681,8 +17666,8 @@
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T22:36:55.334593+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-26T16:55:09.478368+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -18542,8 +18527,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T12:31:16.865029+00:00",
-   "looked_up": "2026-10-24T03:01:23+00:00",
+   "expires": "2027-01-19T13:16:32.077048+00:00",
+   "looked_up": "2026-10-24T04:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18753,8 +18738,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2749,
-  "lookups_today": 8,
+  "lookups_month": 2752,
+  "lookups_today": 11,
   "month": "2026-10"
  }
 }
