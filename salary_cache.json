@@ -3466,6 +3466,11 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
+  "chezzion-solutions|erp|l1": {
+   "expires": "2026-11-06T00:25:02.550092+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
+   "status": "not_found"
+  },
   "chinmay-finlease-limited|security|l1": {
    "expires": "2026-11-07T03:29:11.537677+00:00",
    "looked_up": "2026-10-24T13:01:30+00:00",
@@ -5407,6 +5412,11 @@
     }
    ],
    "status": "found"
+  },
+  "engradar|fullstack|l1": {
+   "expires": "2026-11-05T21:33:31.828972+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
+   "status": "not_found"
   },
   "engradar|swe|l1": {
    "expires": "2026-10-25T21:17:20.754000+00:00",
@@ -7375,11 +7385,6 @@
    "looked_up": "2026-10-20T16:01:30+00:00",
    "status": "not_found"
   },
-  "h-g-nextgen-pvt-ltd|mobile|l1": {
-   "expires": "2026-10-24T16:45:53.863688+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
-   "status": "not_found"
-  },
   "hackerkernel|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9337,11 +9342,6 @@
    "status": "found",
    "year": 2024
   },
-  "jrd-systems|devops|l1": {
-   "expires": "2026-10-24T16:08:43.366189+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "jsan-publishing|swe|l1": {
    "expires": "2026-10-29T22:19:31.889710+00:00",
    "looked_up": "2026-10-09T23:01:19+00:00",
@@ -9441,6 +9441,11 @@
   "karobidai|mobile|l1": {
    "expires": "2026-10-29T02:47:12.453131+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "karunashri-software|erp|l1": {
+   "expires": "2026-11-13T23:54:58.445534+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
   "kasparro-ai|fullstack|l1": {
@@ -10628,6 +10633,11 @@
   "meatec-batteryintelligence|data|l1": {
    "expires": "2026-10-26T03:13:29.252165+00:00",
    "looked_up": "2026-10-10T17:01:20+00:00",
+   "status": "not_found"
+  },
+  "meatec-batteryintelligence|security|l1": {
+   "expires": "2026-11-12T14:06:49.856444+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
   "meatec-batteryintelligence|swe|l1": {
@@ -12701,8 +12711,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T09:02:38.425087+00:00",
-   "looked_up": "2026-10-24T16:01:37+00:00",
+   "expires": "2027-01-28T12:40:27.895056+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13329,6 +13339,11 @@
   "quantura-consulting|swe|l1": {
    "expires": "2026-11-03T07:03:45.780722+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
+   "status": "not_found"
+  },
+  "quasarengg|swe|l1": {
+   "expires": "2026-11-01T22:00:16.312068+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
   "qubist-solutions-private-limited|swe|l1": {
@@ -14646,11 +14661,6 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
-  "servicenow|security|l1": {
-   "expires": "2026-10-24T16:05:38.487961+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
-   "status": "not_found"
-  },
   "servicenow|swe|l1": {
    "expires": "2026-10-30T16:08:25.853072+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
@@ -14939,8 +14949,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T00:27:57.939716+00:00",
-   "looked_up": "2026-10-24T16:01:37+00:00",
+   "expires": "2027-01-24T05:11:57.228325+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15471,11 +15481,6 @@
   "stalwart-info|swe|l1": {
    "expires": "2026-10-27T11:10:49.181952+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
-   "status": "not_found"
-  },
-  "standard-profile-industries-private-limited|swe|l1": {
-   "expires": "2026-10-24T16:39:56.678714+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
   "starsoftware-official|swe|l1": {
@@ -18263,6 +18268,11 @@
    "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
+  "workowon|swe|l1": {
+   "expires": "2026-11-11T02:04:12.715874+00:00",
+   "looked_up": "2026-10-24T17:01:32+00:00",
+   "status": "not_found"
+  },
   "world-wide-technology|swe|l1": {
    "expires": "2026-11-02T03:13:08.214073+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -18753,8 +18763,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2795,
-  "lookups_today": 54,
+  "lookups_month": 2801,
+  "lookups_today": 60,
   "month": "2026-10"
  }
 }
