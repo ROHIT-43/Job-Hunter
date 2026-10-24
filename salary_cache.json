@@ -1428,11 +1428,6 @@
    "status": "found",
    "year": 2025
   },
-  "application-software-centre-iit-bombay|fullstack|l1": {
-   "expires": "2026-10-24T18:51:49.083058+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "applied-materials-india|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2323,11 +2318,6 @@
    "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
-  "bctglobal|devops|l1": {
-   "expires": "2026-10-24T18:37:10.079304+00:00",
-   "looked_up": "2026-10-06T12:01:46+00:00",
-   "status": "not_found"
-  },
   "bdoinindia|security|l1": {
    "expires": "2026-11-05T22:25:42.957395+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -2336,11 +2326,6 @@
   "bds-ai-digital-solutions-pvt-ltd|data|l1": {
    "expires": "2026-10-26T08:47:39.038840+00:00",
    "looked_up": "2026-10-10T11:01:20+00:00",
-   "status": "not_found"
-  },
-  "beachclubs-ae|swe|l1": {
-   "expires": "2026-10-24T18:56:28.225651+00:00",
-   "looked_up": "2026-10-10T09:01:19+00:00",
    "status": "not_found"
   },
   "believeglobal|swe|l1": {
@@ -2477,6 +2462,11 @@
   "blackrock-it-solutions|fullstack|l1": {
    "expires": "2026-11-01T13:22:40.110669+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "blackrock|frontend|l1": {
+   "expires": "2026-11-12T13:06:05.451213+00:00",
+   "looked_up": "2026-10-24T19:01:25+00:00",
    "status": "not_found"
   },
   "blackrock|fullstack|l1": {
@@ -6261,6 +6251,22 @@
    "status": "found",
    "year": 2026
   },
+  "fis|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-26T20:47:45.211640+00:00",
+   "looked_up": "2026-10-24T19:01:25+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-fis-pay"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "five9|swe|l2": {
    "expires": "2026-10-31T23:05:47.130143+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
@@ -7985,11 +7991,6 @@
   "htc-global-services|erp|l1": {
    "expires": "2026-11-06T08:30:07.284285+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
-   "status": "not_found"
-  },
-  "htc-global-services|fullstack|l1": {
-   "expires": "2026-10-24T18:19:25.883946+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
    "status": "not_found"
   },
   "htc-global-services|swe|l1": {
@@ -12146,11 +12147,6 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "oremda-infotech|erp|l1": {
-   "expires": "2026-10-24T18:53:31.090021+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
-   "status": "not_found"
-  },
   "origin-autonomy|qa|l1": {
    "expires": "2026-10-26T02:02:05.650208+00:00",
    "looked_up": "2026-10-06T07:02:30+00:00",
@@ -12696,8 +12692,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:32:08.001818+00:00",
-   "looked_up": "2026-10-24T18:08:57+00:00",
+   "expires": "2027-01-19T10:49:01.695799+00:00",
+   "looked_up": "2026-10-24T19:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14924,8 +14920,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T21:01:44.370271+00:00",
-   "looked_up": "2026-10-24T18:08:57+00:00",
+   "expires": "2027-01-18T04:19:13.663898+00:00",
+   "looked_up": "2026-10-24T19:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -17198,11 +17194,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "unboxrobotics|swe|l1": {
-   "expires": "2026-10-24T18:09:06.484096+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "unicornisai|swe|l2": {
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
@@ -17564,6 +17555,11 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
+  "vectormind-labs|erp|l1": {
+   "expires": "2026-11-10T04:54:11.546825+00:00",
+   "looked_up": "2026-10-24T19:01:25+00:00",
+   "status": "not_found"
+  },
   "vena-solutions|devops|l1": {
    "expires": "2026-11-06T14:40:54.035969+00:00",
    "looked_up": "2026-10-20T15:01:31+00:00",
@@ -17636,11 +17632,6 @@
   "vertiv|swe|l2": {
    "expires": "2026-10-29T07:03:03.699120+00:00",
    "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "vgreentek|frontend|l1": {
-   "expires": "2026-10-24T18:47:40.338024+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "vgroupmaritime|devops|l1": {
@@ -18733,8 +18724,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2803,
-  "lookups_today": 62,
+  "lookups_month": 2806,
+  "lookups_today": 65,
   "month": "2026-10"
  }
 }
