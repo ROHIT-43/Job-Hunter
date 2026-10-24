@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T20:53:55.440488+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-24T07:46:02.018256+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3708,11 +3708,6 @@
    "looked_up": "2026-10-09T09:01:30+00:00",
    "status": "not_found"
   },
-  "cloudran-communications-llc|swe|l1": {
-   "expires": "2026-10-24T08:21:45.398027+00:00",
-   "looked_up": "2026-10-14T03:01:31+00:00",
-   "status": "not_found"
-  },
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4111,11 +4106,6 @@
   "confluentis-consulting-llp|devops|l1": {
    "expires": "2026-11-03T13:08:13.396989+00:00",
    "looked_up": "2026-10-16T19:01:22+00:00",
-   "status": "not_found"
-  },
-  "consiliumsafety|swe|l1": {
-   "expires": "2026-10-24T08:32:21.507299+00:00",
-   "looked_up": "2026-10-06T05:53:41+00:00",
    "status": "not_found"
   },
   "consultixscorp|swe|l1": {
@@ -5023,11 +5013,6 @@
   "dnv|erp|l1": {
    "expires": "2026-11-04T03:41:38.755413+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "dnyan-automation|swe|l1": {
-   "expires": "2026-10-24T08:43:21.752613+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
   "document-it-llc|erp|l1": {
@@ -8068,6 +8053,11 @@
    ],
    "status": "found"
   },
+  "hyrezy-tech-solutions|swe|l1": {
+   "expires": "2026-11-03T15:11:14.370558+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
+   "status": "not_found"
+  },
   "i-novate-technologies-ltd|erp|l1": {
    "expires": "2026-11-09T06:34:35.628961+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
@@ -8715,8 +8705,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T08:19:03.624730+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-23T20:50:46.380832+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9831,8 +9821,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:55:31.131780+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-21T02:45:29.007503+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10175,8 +10165,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:25:29.133220+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-28T15:27:37.846088+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12685,8 +12675,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:02:44.475050+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-28T08:59:47.113038+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -17514,11 +17504,6 @@
    "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
-  "vastika-inc|swe|l1": {
-   "expires": "2026-10-24T08:56:47.355937+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
-  },
   "vationdigital|swe|l1": {
    "expires": "2026-10-30T21:56:26.255102+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -17547,8 +17532,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T14:38:23.967145+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
+   "expires": "2027-01-15T18:20:17.328514+00:00",
+   "looked_up": "2026-10-24T09:01:23+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -18713,8 +18698,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2767,
-  "lookups_today": 26,
+  "lookups_month": 2768,
+  "lookups_today": 27,
   "month": "2026-10"
  }
 }
