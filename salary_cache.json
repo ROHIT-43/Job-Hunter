@@ -51,11 +51,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "5exceptions-software-solutions-pvt-ltd|security|l1": {
-   "expires": "2026-10-24T14:14:43.787734+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "5exceptions-software-solutions-pvt-ltd|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7765,11 +7760,6 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
-  "hirojet|fullstack|l1": {
-   "expires": "2026-10-24T14:25:20.463478+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "hitachi-digital-services|erp|l1": {
    "expires": "2026-11-06T22:26:38.072055+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -12700,8 +12690,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T05:46:49.410344+00:00",
-   "looked_up": "2026-10-24T14:01:34+00:00",
+   "expires": "2027-01-18T14:57:36.602592+00:00",
+   "looked_up": "2026-10-24T14:32:50+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14933,8 +14923,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T10:01:08.292898+00:00",
-   "looked_up": "2026-10-24T14:01:34+00:00",
+   "expires": "2027-01-25T08:42:54.492037+00:00",
+   "looked_up": "2026-10-24T14:32:50+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
