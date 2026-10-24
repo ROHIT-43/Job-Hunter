@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T04:34:51.529047+00:00",
-   "looked_up": "2026-10-24T10:01:26+00:00",
+   "expires": "2027-01-19T18:46:48.322394+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1263,6 +1263,20 @@
    "expires": "2026-11-01T12:39:50.919974+00:00",
    "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
+  },
+  "andromedaloans|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T16:11:31.186087+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "anewswire|fullstack|l1": {
    "expires": "2026-10-26T04:58:47.131514+00:00",
@@ -5485,6 +5499,11 @@
    "status": "found",
    "year": 2025
   },
+  "erbatech-machinery-private-limited.|swe|l1": {
+   "expires": "2026-11-12T06:40:31.753362+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
   "ericsson|security|l1": {
    "expires": "2026-10-31T20:28:11.495835+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -5697,6 +5716,11 @@
   "evince-infosoft|swe|l1": {
    "expires": "2026-10-30T06:53:39.236618+00:00",
    "looked_up": "2026-10-12T22:01:28+00:00",
+   "status": "not_found"
+  },
+  "evobe-technologies|frontend|l1": {
+   "expires": "2026-11-03T22:49:52.428686+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
   "evolent|devops|l1": {
@@ -9122,11 +9146,6 @@
    "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
-  "jobgether|erp|l1": {
-   "expires": "2026-10-24T10:32:52.151203+00:00",
-   "looked_up": "2026-10-12T02:01:20+00:00",
-   "status": "not_found"
-  },
   "jobgether|frontend|l1": {
    "expires": "2026-11-04T07:18:15.650008+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
@@ -9789,8 +9808,8 @@
    "status": "not_found"
   },
   "leidos|swe|l1": {
-   "expires": "2026-10-24T10:32:01.290813+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
+   "expires": "2026-11-01T09:33:47.491033+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
   "levelxmicrosystemes|swe|l1": {
@@ -10140,8 +10159,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T22:16:44.287424+00:00",
-   "looked_up": "2026-10-24T10:01:26+00:00",
+   "expires": "2027-01-22T18:08:14.067869+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10507,11 +10526,6 @@
   "matrixcare|swe|l1": {
    "expires": "2026-11-05T20:47:51.997012+00:00",
    "looked_up": "2026-10-23T21:01:28+00:00",
-   "status": "not_found"
-  },
-  "mattel|data|l1": {
-   "expires": "2026-10-24T10:12:51.996482+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
   "mattel|swe|l1": {
@@ -12618,6 +12632,11 @@
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
+  "plante-moran|erp|l1": {
+   "expires": "2026-11-07T12:55:12.629875+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
   "planview|swe|l2": {
    "expires": "2026-11-03T23:29:53.342858+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -12666,8 +12685,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T14:14:46.416139+00:00",
-   "looked_up": "2026-10-24T10:01:26+00:00",
+   "expires": "2027-01-25T07:10:55.106545+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -14462,11 +14481,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "scoutit-in|data|l1": {
-   "expires": "2026-10-24T10:31:02.380342+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|frontend|l1": {
    "expires": "2026-10-26T01:59:55.057476+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -15317,6 +15331,11 @@
   "sozomo-technology|swe|l1": {
    "expires": "2026-10-28T15:13:42.183567+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "spacekaur|swe|l1": {
+   "expires": "2026-11-03T18:15:13.523682+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
   "sparkt-india|fullstack|l1": {
@@ -17270,6 +17289,11 @@
    "status": "found",
    "year": 2024
   },
+  "urbanmistriistudio|swe|l1": {
+   "expires": "2026-11-08T11:04:50.924640+00:00",
+   "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
   "us-tech-solutions|erp|l1": {
    "expires": "2026-10-31T17:44:35.705688+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
@@ -18144,11 +18168,6 @@
    "status": "found",
    "year": 2026
   },
-  "woger-trading-b.v.|devops|l1": {
-   "expires": "2026-10-24T10:41:37.045742+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
   "wolftechnologiesllc|mobile|l1": {
    "expires": "2026-10-27T17:57:23.360585+00:00",
    "looked_up": "2026-10-09T16:01:27+00:00",
@@ -18684,8 +18703,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2770,
-  "lookups_today": 29,
+  "lookups_month": 2776,
+  "lookups_today": 35,
   "month": "2026-10"
  }
 }
