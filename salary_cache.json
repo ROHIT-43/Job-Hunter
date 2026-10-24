@@ -129,8 +129,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:25:07.192124+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-26T20:53:55.440488+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1257,11 +1257,6 @@
   "amrit-autotech-engineers|swe|l1": {
    "expires": "2026-11-10T06:29:43.455489+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
-  "amrita-vishwa-vidyapeetham|frontend|l1": {
-   "expires": "2026-10-24T07:54:28.428817+00:00",
-   "looked_up": "2026-10-11T09:01:20+00:00",
    "status": "not_found"
   },
   "amrita-vishwa-vidyapeetham|swe|l1": {
@@ -5015,11 +5010,6 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
-  "discusbusinesssolutions|erp|l1": {
-   "expires": "2026-10-24T07:25:07.327752+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "dish-network-technologies|swe|l1": {
    "expires": "2026-11-02T01:19:54.869070+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
@@ -8725,8 +8715,8 @@
   "innov-karo|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T00:19:39.566619+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-22T08:19:03.624730+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.9,
    "sources": [
@@ -9502,11 +9492,6 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
-  "keka-hr|erp|l1": {
-   "expires": "2026-10-24T07:28:14.058788+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "keka-hr|swe|l1": {
    "expires": "2026-11-07T04:47:31.279920+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
@@ -9846,8 +9831,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:15:26.109084+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-26T15:55:31.131780+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10190,8 +10175,8 @@
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:32:04.119097+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-25T15:25:29.133220+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 9.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12662,6 +12647,11 @@
    "looked_up": "2026-10-16T07:19:03+00:00",
    "status": "not_found"
   },
+  "plexitechsolutions|data|l1": {
+   "expires": "2026-11-03T18:38:24.130470+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
+   "status": "not_found"
+  },
   "plomid|swe|l2": {
    "expires": "2026-11-10T01:09:21.714214+00:00",
    "looked_up": "2026-10-20T19:01:31+00:00",
@@ -12695,8 +12685,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T21:44:02.342891+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-25T13:02:44.475050+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -13559,6 +13549,11 @@
    "status": "found",
    "year": 2022
   },
+  "rbis-technology-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-01T19:32:57.536408+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
+   "status": "not_found"
+  },
   "rcktechiees|swe|l1": {
    "expires": "2026-11-08T06:00:28.470066+00:00",
    "looked_up": "2026-10-18T18:01:24+00:00",
@@ -14341,11 +14336,6 @@
   "sapphiresoftwaresolutionsinc|swe|l1": {
    "expires": "2026-10-29T23:21:39.062253+00:00",
    "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "sapphirestreamtechnology|swe|l2": {
-   "expires": "2026-10-24T07:48:58.566421+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
   "sap|erp|l1": {
@@ -17557,8 +17547,8 @@
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T04:51:15.965154+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-19T14:38:23.967145+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -18507,8 +18497,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T00:46:21.881441+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
+   "expires": "2027-01-28T19:24:54.576676+00:00",
+   "looked_up": "2026-10-24T08:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -18723,8 +18713,8 @@
  },
  "meta": {
   "day": "2026-10-24",
-  "lookups_month": 2765,
-  "lookups_today": 24,
+  "lookups_month": 2767,
+  "lookups_today": 26,
   "month": "2026-10"
  }
 }
