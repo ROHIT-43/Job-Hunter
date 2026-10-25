@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:17:59.120405+00:00",
-   "looked_up": "2026-10-25T15:01:25+00:00",
+   "expires": "2027-01-19T20:14:04.222678+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -2059,11 +2059,6 @@
    "looked_up": "2026-10-10T14:01:23+00:00",
    "status": "not_found"
   },
-  "azilentechnologies|devops|l1": {
-   "expires": "2026-10-25T15:07:36.520843+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "babaclick|fullstack|l1": {
    "expires": "2026-11-07T20:00:19.816363+00:00",
    "looked_up": "2026-10-18T15:01:22+00:00",
@@ -2744,11 +2739,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "broccoli-com|swe|l2": {
-   "expires": "2026-10-25T15:12:32.967027+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
   },
   "bruntworkcareers|fullstack|l1": {
    "expires": "2026-10-30T13:37:41.227895+00:00",
@@ -6298,6 +6288,11 @@
    "status": "found",
    "year": 2026
   },
+  "floydee-infotech-private-limited|fullstack|l1": {
+   "expires": "2026-11-04T18:38:16.054596+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
+   "status": "not_found"
+  },
   "flsmidth|swe|l1": {
    "expires": "2026-10-27T22:48:05.903040+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -7087,11 +7082,6 @@
   "gorenvio|swe|l1": {
    "expires": "2026-11-03T13:51:52.709534+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
-  "goshdigital|swe|l1": {
-   "expires": "2026-10-25T15:15:50.775516+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
    "status": "not_found"
   },
   "gostride-ventures|fullstack|l1": {
@@ -12448,11 +12438,6 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
-  "placeelements-hr|swe|l1": {
-   "expires": "2026-10-25T15:03:21.417101+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "planfirma-technologies-private-limited|swe|l1": {
    "expires": "2026-10-27T10:34:19.943510+00:00",
    "looked_up": "2026-10-17T11:01:23+00:00",
@@ -12586,8 +12571,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T16:16:50.768767+00:00",
-   "looked_up": "2026-10-25T15:01:25+00:00",
+   "expires": "2027-01-25T13:10:44.617231+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14409,8 +14394,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T06:07:23.287508+00:00",
-   "looked_up": "2026-10-25T15:01:25+00:00",
+   "expires": "2027-01-27T19:03:53.970436+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14517,11 +14502,6 @@
   "shriramgeneralinsurance|frontend|l1": {
    "expires": "2026-11-09T20:21:00.138339+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "shriramgeneralinsurance|mobile|l1": {
-   "expires": "2026-10-25T15:42:50.442068+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
    "status": "not_found"
   },
   "shyam-kumar-sahoo|swe|l1": {
@@ -14843,6 +14823,11 @@
   "smart-ims|swe|l1": {
    "expires": "2026-10-30T14:10:44.817919+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "smart4cloud|devops|l1": {
+   "expires": "2026-11-03T19:43:03.036688+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
    "status": "not_found"
   },
   "smartworkingsolutions|mobile|l1": {
@@ -16520,11 +16505,6 @@
    "status": "found",
    "year": 2025
   },
-  "tijoree-money|mobile|l1": {
-   "expires": "2026-10-25T15:21:12.450116+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "timesofev|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16834,11 +16814,6 @@
    "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
-  "trustworkstreet|security|l1": {
-   "expires": "2026-10-25T15:43:23.104055+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "trutalent-ai|devops|l1": {
    "expires": "2026-11-03T09:44:21.867743+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
@@ -16872,6 +16847,11 @@
   "truwave-software-llc|swe|l1": {
    "expires": "2026-11-06T01:28:20.238057+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
+  },
+  "tryzent-tech|fullstack|l1": {
+   "expires": "2026-11-14T07:00:09.355171+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
    "status": "not_found"
   },
   "turtletechtribe|erp|l1": {
@@ -17328,6 +17308,11 @@
    "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
+  "vasudhare-sales-force|frontend|l1": {
+   "expires": "2026-11-05T08:39:51.172933+00:00",
+   "looked_up": "2026-10-25T16:01:25+00:00",
+   "status": "not_found"
+  },
   "vationdigital|swe|l1": {
    "expires": "2026-10-30T21:56:26.255102+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -17375,11 +17360,6 @@
   "vericence|devops|l1": {
    "expires": "2026-11-06T10:57:49.311754+00:00",
    "looked_up": "2026-10-16T23:01:23+00:00",
-   "status": "not_found"
-  },
-  "versoaltimaindia|erp|l1": {
-   "expires": "2026-10-25T15:09:05.419028+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
    "status": "not_found"
   },
   "vertafore|swe|l2": {
@@ -18528,8 +18508,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2846,
-  "lookups_today": 36,
+  "lookups_month": 2850,
+  "lookups_today": 40,
   "month": "2026-10"
  }
 }
