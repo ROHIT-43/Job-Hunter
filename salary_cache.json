@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T21:32:24.519016+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
+   "expires": "2027-01-27T19:52:06.990020+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -609,11 +609,6 @@
   "ageddoms|frontend|l1": {
    "expires": "2026-11-08T16:54:47.841146+00:00",
    "looked_up": "2026-10-20T20:01:26+00:00",
-   "status": "not_found"
-  },
-  "agilegrid-solutions|swe|l1": {
-   "expires": "2026-10-25T05:15:49.822959+00:00",
-   "looked_up": "2026-10-10T02:01:21+00:00",
    "status": "not_found"
   },
   "agilityit|erp|l1": {
@@ -1196,11 +1191,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "amgen|frontend|l1": {
-   "expires": "2026-10-25T05:52:45.353079+00:00",
-   "looked_up": "2026-10-14T00:01:31+00:00",
-   "status": "not_found"
   },
   "amgen|fullstack|l1": {
    "expires": "2026-11-02T21:55:11.783167+00:00",
@@ -2446,11 +2436,6 @@
   "bizzaidev|fullstack|l1": {
    "expires": "2026-11-13T10:02:48.947670+00:00",
    "looked_up": "2026-10-24T00:01:32+00:00",
-   "status": "not_found"
-  },
-  "black-and-veatch|swe|l1": {
-   "expires": "2026-10-25T05:46:27.087935+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
    "status": "not_found"
   },
   "blackbaud-india|frontend|l1": {
@@ -8024,6 +8009,11 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
+  "hyrezy-tech-solutions|frontend|l1": {
+   "expires": "2026-11-07T08:58:57.969991+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
+   "status": "not_found"
+  },
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -11430,6 +11420,11 @@
    "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "nexus-automation-solutions|swe|l1": {
+   "expires": "2026-11-02T10:12:28.104852+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
+   "status": "not_found"
+  },
   "nice-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12631,8 +12626,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:42:49.439314+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
+   "expires": "2027-01-16T22:14:39.286813+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12706,8 +12701,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T15:59:46.283350+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
+   "expires": "2027-01-21T06:19:14.079832+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13528,11 +13523,6 @@
   "real-time-applications-center|mobile|l1": {
    "expires": "2026-11-03T00:36:15.129631+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
-   "status": "not_found"
-  },
-  "real-time-applications-center|swe|l1": {
-   "expires": "2026-10-25T05:55:27.102925+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
   "realpage-india|fullstack|l2": {
@@ -14844,8 +14834,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T00:14:14.324105+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
+   "expires": "2027-01-18T10:41:15.323258+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -18316,11 +18306,6 @@
    "status": "found",
    "year": 2026
   },
-  "yavda|data|l1": {
-   "expires": "2026-10-25T05:14:31.279241+00:00",
-   "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
-  },
   "yebelo|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -18334,6 +18319,11 @@
     }
    ],
    "status": "found"
+  },
+  "ym-automation|frontend|l1": {
+   "expires": "2026-11-01T13:19:48.920069+00:00",
+   "looked_up": "2026-10-25T06:01:25+00:00",
+   "status": "not_found"
   },
   "yokogawa|swe|l1": {
    "basis": "ctc",
@@ -18649,8 +18639,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2819,
-  "lookups_today": 9,
+  "lookups_month": 2822,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
