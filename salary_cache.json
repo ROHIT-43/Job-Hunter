@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:01:40.480260+00:00",
-   "looked_up": "2026-10-25T16:18:35+00:00",
+   "expires": "2027-01-29T06:13:19.512129+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -771,11 +771,6 @@
   "akron-intel|mobile|l1": {
    "expires": "2026-10-30T08:00:14.652501+00:00",
    "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
-  },
-  "alaanpay|swe|l1": {
-   "expires": "2026-10-25T16:28:13.803043+00:00",
-   "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
   "alamance-it-solutions-llp|erp|l1": {
@@ -4061,6 +4056,11 @@
    "looked_up": "2026-10-09T18:01:26+00:00",
    "status": "not_found"
   },
+  "copart|swe|l1": {
+   "expires": "2026-11-03T06:28:30.956747+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
+   "status": "not_found"
+  },
   "coram-ai|frontend|l1": {
    "expires": "2026-11-11T15:32:35.546847+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -4099,6 +4099,11 @@
   "corpay|swe|l1": {
    "expires": "2026-11-05T22:44:20.000594+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "corporatesteps|swe|l1": {
+   "expires": "2026-11-09T00:36:18.057968+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
    "status": "not_found"
   },
   "cosmic-coders-pvt-ltd-|swe|l1": {
@@ -12571,8 +12576,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:30:21.857361+00:00",
-   "looked_up": "2026-10-25T16:18:35+00:00",
+   "expires": "2027-01-18T01:52:31.387157+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14394,8 +14399,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T17:05:50.844265+00:00",
-   "looked_up": "2026-10-25T16:18:35+00:00",
+   "expires": "2027-01-18T05:31:56.058348+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14458,6 +14463,11 @@
     }
    ],
    "status": "found"
+  },
+  "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
+   "expires": "2026-11-10T08:46:38.280310+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
+   "status": "not_found"
   },
   "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
    "expires": "2026-10-28T11:32:28.144555+00:00",
@@ -15339,6 +15349,11 @@
   "sulzer|swe|l1": {
    "expires": "2026-10-30T14:27:15.561974+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "superfan-ng|fullstack|l1": {
+   "expires": "2026-11-15T14:04:27.843847+00:00",
+   "looked_up": "2026-10-25T17:01:23+00:00",
    "status": "not_found"
   },
   "superfan-ng|swe|l1": {
@@ -18508,8 +18523,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2850,
-  "lookups_today": 40,
+  "lookups_month": 2854,
+  "lookups_today": 44,
   "month": "2026-10"
  }
 }
