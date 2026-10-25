@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T06:51:49.188415+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
+   "expires": "2027-01-21T12:20:34.297757+00:00",
+   "looked_up": "2026-10-25T09:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1751,11 +1751,6 @@
   "assetze|swe|l1": {
    "expires": "2026-11-04T07:05:37.926816+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "assurant|devops|l1": {
-   "expires": "2026-10-25T08:32:23.678782+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "astek|data|l1": {
@@ -9312,11 +9307,6 @@
    "status": "found",
    "year": 2025
   },
-  "justaddwater|swe|l1": {
-   "expires": "2026-10-25T08:32:02.110950+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "kaaliber|swe|l1": {
    "expires": "2026-10-28T09:46:48.711887+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -10245,11 +10235,6 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
-  "martian-wall|security|l1": {
-   "expires": "2026-10-25T08:17:07.506140+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
-  },
   "marvell|security|l1": {
    "expires": "2026-11-04T17:45:57.641122+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
@@ -10619,11 +10604,6 @@
   "meet-cedric|swe|l1": {
    "expires": "2026-11-04T16:01:33.455113+00:00",
    "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
-  },
-  "mega-nucleus|fullstack|l1": {
-   "expires": "2026-10-25T08:57:22.314772+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
   "megrisoft-limited|mobile|l1": {
@@ -12596,8 +12576,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:32:10.269280+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
+   "expires": "2027-01-23T03:31:43.553494+00:00",
+   "looked_up": "2026-10-25T09:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12671,8 +12651,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T20:08:44.636732+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
+   "expires": "2027-01-20T07:49:05.011391+00:00",
+   "looked_up": "2026-10-25T09:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13816,11 +13796,6 @@
    "status": "found",
    "year": 2022
   },
-  "riyalabs-ai|security|l1": {
-   "expires": "2026-10-25T08:32:54.390271+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
-   "status": "not_found"
-  },
   "rmsi|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -14451,11 +14426,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "secularlabs|swe|l1": {
-   "expires": "2026-10-25T08:48:45.805529+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "securegen|swe|l1": {
    "expires": "2026-11-07T23:18:49.081836+00:00",
    "looked_up": "2026-10-22T21:01:31+00:00",
@@ -14489,8 +14459,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T20:47:15.168430+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
+   "expires": "2027-01-24T19:16:06.632096+00:00",
+   "looked_up": "2026-10-25T09:01:26+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14813,8 +14783,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:20:53.129121+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
+   "expires": "2027-01-19T17:34:03.978382+00:00",
+   "looked_up": "2026-10-25T09:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
