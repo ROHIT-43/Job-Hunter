@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:54:01.669093+00:00",
-   "looked_up": "2026-10-25T22:33:05+00:00",
+   "expires": "2027-01-21T22:45:13.677565+00:00",
+   "looked_up": "2026-10-25T23:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7171,11 +7171,6 @@
    "status": "found",
    "year": 2022
   },
-  "groz-beckert-kg|erp|l1": {
-   "expires": "2026-10-25T22:35:05.510546+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
   "guidehouse|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8897,8 +8892,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T08:47:00.967859+00:00",
-   "looked_up": "2026-10-25T22:33:05+00:00",
+   "expires": "2027-01-21T13:05:54.859376+00:00",
+   "looked_up": "2026-10-25T23:01:28+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -14336,8 +14331,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:41:48.620325+00:00",
-   "looked_up": "2026-10-25T22:33:05+00:00",
+   "expires": "2027-01-22T11:55:11.275445+00:00",
+   "looked_up": "2026-10-25T23:01:28+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14495,6 +14490,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "siemens-healthineers|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T00:13:37.660399+00:00",
+   "looked_up": "2026-10-25T23:01:28+00:00",
+   "max_lpa": 12.2,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/siemens-healthineers-salaries/full-stack-developer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/610672/siemens-heathineers-software-developer-lv10-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "siemens-healthineers|fullstack|l1": {
    "basis": "ctc",
@@ -16292,8 +16307,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:43:38.244832+00:00",
-   "looked_up": "2026-10-25T22:33:05+00:00",
+   "expires": "2027-01-21T03:55:52.495309+00:00",
+   "looked_up": "2026-10-25T23:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17665,11 +17680,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "waphire|swe|l1": {
-   "expires": "2026-10-25T22:38:33.945520+00:00",
-   "looked_up": "2026-10-09T02:01:20+00:00",
-   "status": "not_found"
-  },
   "wastefull-insights|devops|l1": {
    "expires": "2026-11-03T11:45:22.615326+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -18484,8 +18494,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2861,
-  "lookups_today": 51,
+  "lookups_month": 2862,
+  "lookups_today": 52,
   "month": "2026-10"
  }
 }
