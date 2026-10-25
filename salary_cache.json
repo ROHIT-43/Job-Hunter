@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T06:37:34.939096+00:00",
-   "looked_up": "2026-10-25T07:01:30+00:00",
+   "expires": "2027-01-28T06:51:49.188415+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7646,6 +7646,11 @@
    ],
    "status": "found"
   },
+  "hg-catalyst|swe|l1": {
+   "expires": "2026-11-10T05:39:13.862312+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
+   "status": "not_found"
+  },
   "hh-global|devops|l1": {
    "expires": "2026-11-04T02:43:53.858808+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
@@ -10353,11 +10358,6 @@
    "status": "found",
    "year": 2026
   },
-  "mastercard|security|l1": {
-   "expires": "2026-10-25T07:59:53.178184+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "mastercard|security|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -10674,11 +10674,6 @@
   "metlife|swe|l1": {
    "expires": "2026-10-29T02:19:31.304905+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "metsoofficial|erp|l1": {
-   "expires": "2026-10-25T07:23:46.091549+00:00",
-   "looked_up": "2026-10-08T23:01:19+00:00",
    "status": "not_found"
   },
   "mettlertoledo|mobile|l1": {
@@ -12601,8 +12596,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:18:09.551679+00:00",
-   "looked_up": "2026-10-25T07:01:30+00:00",
+   "expires": "2027-01-28T03:32:10.269280+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12676,8 +12671,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T14:47:08.827990+00:00",
-   "looked_up": "2026-10-25T07:01:30+00:00",
+   "expires": "2027-01-23T20:08:44.636732+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14494,8 +14489,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:37:19.303324+00:00",
-   "looked_up": "2026-10-25T07:01:30+00:00",
+   "expires": "2027-01-27T20:47:15.168430+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14818,8 +14813,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:58:46.841344+00:00",
-   "looked_up": "2026-10-25T07:01:30+00:00",
+   "expires": "2027-01-25T07:20:53.129121+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15357,6 +15352,11 @@
    "looked_up": "2026-10-20T16:01:30+00:00",
    "status": "not_found"
   },
+  "starzen|swe|l1": {
+   "expires": "2026-11-05T18:42:24.505871+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
+   "status": "not_found"
+  },
   "statusneo|frontend|l1": {
    "expires": "2026-11-05T20:28:10.057536+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
@@ -15671,11 +15671,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "syntrace|swe|l1": {
-   "expires": "2026-10-25T07:58:06.050191+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
-   "status": "not_found"
   },
   "systemsofttech|frontend|l1": {
    "basis": "base",
@@ -16572,6 +16567,11 @@
   "thinkinnov-solution-technologies-private-limited|swe|l1": {
    "expires": "2026-11-05T08:01:14.539770+00:00",
    "looked_up": "2026-10-21T05:01:26+00:00",
+   "status": "not_found"
+  },
+  "thoughtaddict|swe|l1": {
+   "expires": "2026-11-09T11:33:54.492379+00:00",
+   "looked_up": "2026-10-25T08:01:27+00:00",
    "status": "not_found"
   },
   "thoughtsol-infotech-ltd|fullstack|l1": {
@@ -18613,8 +18613,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2822,
-  "lookups_today": 12,
+  "lookups_month": 2825,
+  "lookups_today": 15,
   "month": "2026-10"
  }
 }
