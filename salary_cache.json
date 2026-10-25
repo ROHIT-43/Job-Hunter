@@ -537,6 +537,20 @@
    "status": "found",
    "year": 2026
   },
+  "aervon|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-16T21:32:24.519016+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "aetheldefense|swe|l1": {
    "expires": "2026-11-05T10:33:43.979413+00:00",
    "looked_up": "2026-10-19T02:01:25+00:00",
@@ -1486,11 +1500,6 @@
   "aptita-talent-experts|swe|l1": {
    "expires": "2026-10-28T23:48:40.353821+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "aptiv|data|l1": {
-   "expires": "2026-10-25T04:47:49.434489+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "aptiv|swe|l1": {
@@ -8760,6 +8769,11 @@
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
+  "interviewglide|frontend|l1": {
+   "expires": "2026-11-06T19:48:12.423881+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
+   "status": "not_found"
+  },
   "intive|devops|l1": {
    "expires": "2026-10-30T09:41:16.150305+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -11611,11 +11625,6 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
-  "nowwin|swe|l1": {
-   "expires": "2026-10-25T04:27:53.162436+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "nrconsultingllc|erp|l1": {
    "expires": "2026-10-26T15:39:11.325103+00:00",
    "looked_up": "2026-10-13T07:01:27+00:00",
@@ -12622,8 +12631,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:26:02.678231+00:00",
-   "looked_up": "2026-10-25T04:01:28+00:00",
+   "expires": "2027-01-20T17:42:49.439314+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12697,8 +12706,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T23:08:05.318311+00:00",
-   "looked_up": "2026-10-25T04:01:28+00:00",
+   "expires": "2027-01-18T15:59:46.283350+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12827,11 +12836,6 @@
   "proofpoint|swe|l1": {
    "expires": "2026-10-28T14:42:17.946903+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "propartinn|erp|l1": {
-   "expires": "2026-10-25T04:13:24.865578+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
   "propbulls-solutions|swe|l1": {
@@ -13954,11 +13958,6 @@
    "looked_up": "2026-10-23T05:01:28+00:00",
    "status": "not_found"
   },
-  "roomsmith-india|fullstack|l1": {
-   "expires": "2026-10-25T04:12:45.782991+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
-   "status": "not_found"
-  },
   "routemobile|devops|l1": {
    "expires": "2026-11-03T01:21:44.267108+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -14845,8 +14844,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T08:07:20.628754+00:00",
-   "looked_up": "2026-10-25T04:01:28+00:00",
+   "expires": "2027-01-27T00:14:14.324105+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15259,11 +15258,6 @@
    "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
-  "sourceright|fullstack|l1": {
-   "expires": "2026-10-25T04:44:31.425349+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "sourceright|swe|l1": {
    "expires": "2026-11-01T14:45:37.994484+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -15387,11 +15381,6 @@
   "startupstorymedia|swe|l1": {
    "expires": "2026-10-29T19:33:45.860331+00:00",
    "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
-  "state-street|data|l1": {
-   "expires": "2026-10-25T04:59:09.129754+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
   "statusneo|frontend|l1": {
@@ -15773,6 +15762,11 @@
   "talentmicro-corporation|swe|l1": {
    "expires": "2026-11-03T16:18:00.404546+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
+   "status": "not_found"
+  },
+  "talentrabbit|frontend|l1": {
+   "expires": "2026-11-12T01:02:33.621175+00:00",
+   "looked_up": "2026-10-25T05:01:26+00:00",
    "status": "not_found"
   },
   "talentrabbit|swe|l1": {
@@ -18655,8 +18649,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2817,
-  "lookups_today": 7,
+  "lookups_month": 2819,
+  "lookups_today": 9,
   "month": "2026-10"
  }
 }
