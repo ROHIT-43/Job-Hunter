@@ -3477,11 +3477,6 @@
    "status": "found",
    "year": 2025
   },
-  "cimpress|frontend|l1": {
-   "expires": "2026-10-25T02:05:48.679367+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "circles1|data|l1": {
    "expires": "2026-11-01T08:58:17.963241+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -4449,11 +4444,6 @@
    "status": "found",
    "year": 2025
   },
-  "cyreneai|erp|l1": {
-   "expires": "2026-10-25T02:58:49.908911+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "dabstergroupuk|erp|l1": {
    "expires": "2026-11-09T08:28:02.200048+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -4902,11 +4892,6 @@
   "digireach|swe|l1": {
    "expires": "2026-10-26T09:18:27.747493+00:00",
    "looked_up": "2026-10-18T04:01:29+00:00",
-   "status": "not_found"
-  },
-  "digismein|swe|l1": {
-   "expires": "2026-10-25T02:51:34.059193+00:00",
-   "looked_up": "2026-10-06T13:01:46+00:00",
    "status": "not_found"
   },
   "digital-business-people|swe|l3": {
@@ -6654,11 +6639,6 @@
   "generac-power-systems|swe|l2": {
    "expires": "2026-11-04T01:45:22.126077+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
-  "general-mills|devops|l1": {
-   "expires": "2026-10-25T02:10:26.204301+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "general-mills|swe|l2": {
@@ -11126,6 +11106,11 @@
    "looked_up": "2026-10-17T16:01:22+00:00",
    "status": "not_found"
   },
+  "naresh-i-technologies|fullstack|l1": {
+   "expires": "2026-11-14T00:24:49.435252+00:00",
+   "looked_up": "2026-10-25T03:01:37+00:00",
+   "status": "not_found"
+  },
   "nasdaq|swe|l1": {
    "expires": "2026-11-04T08:59:17.987031+00:00",
    "looked_up": "2026-10-16T20:01:24+00:00",
@@ -11303,6 +11288,11 @@
   "neobium-technologies|fullstack|l1": {
    "expires": "2026-10-28T18:28:03.831206+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
+   "status": "not_found"
+  },
+  "neologic-automation-systems|swe|l1": {
+   "expires": "2026-11-03T09:54:39.199372+00:00",
+   "looked_up": "2026-10-25T03:01:37+00:00",
    "status": "not_found"
   },
   "neospec-services|mobile|l1": {
@@ -12632,8 +12622,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T18:45:52.034085+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
+   "expires": "2027-01-27T05:18:45.489290+00:00",
+   "looked_up": "2026-10-25T03:01:37+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12707,8 +12697,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T05:25:49.629312+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
+   "expires": "2027-01-22T10:38:26.162841+00:00",
+   "looked_up": "2026-10-25T03:01:37+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14827,11 +14817,6 @@
    "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
-  "siroclinpharm|erp|l1": {
-   "expires": "2026-10-25T02:13:00.417066+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
-   "status": "not_found"
-  },
   "sisnolabs|mobile|l1": {
    "expires": "2026-10-29T18:56:01.281289+00:00",
    "looked_up": "2026-10-17T12:01:27+00:00",
@@ -14860,8 +14845,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:34:45.967091+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
+   "expires": "2027-01-27T00:36:50.806058+00:00",
+   "looked_up": "2026-10-25T03:01:37+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -18670,8 +18655,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2815,
-  "lookups_today": 5,
+  "lookups_month": 2817,
+  "lookups_today": 7,
   "month": "2026-10"
  }
 }
