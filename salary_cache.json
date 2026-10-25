@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:13:19.512129+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
+   "expires": "2027-01-27T11:03:28.155492+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -614,11 +614,6 @@
   "agilonhealth|swe|l1": {
    "expires": "2026-11-05T19:52:38.398434+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "agochar|swe|l1": {
-   "expires": "2026-10-25T17:01:30.511599+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "agrocorp-international|swe|l1": {
@@ -2427,11 +2422,6 @@
   "blitzquickcommerce|swe|l2": {
    "expires": "2026-10-29T22:05:55.856164+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
-  "blockchain-aiweb3-group|swe|l1": {
-   "expires": "2026-10-25T17:02:41.383073+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
    "status": "not_found"
   },
   "bloomfieldinnovations|frontend|l1": {
@@ -5397,6 +5387,11 @@
   "erbatech-machinery-private-limited.|swe|l1": {
    "expires": "2026-11-12T06:40:31.753362+00:00",
    "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
+  "ericsson|devops|l1": {
+   "expires": "2026-11-10T13:12:16.706020+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
    "status": "not_found"
   },
   "ericsson|security|l1": {
@@ -9897,11 +9892,6 @@
    "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
-  "london-stock-exchange-group|security|l1": {
-   "expires": "2026-10-25T17:58:48.361671+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
-   "status": "not_found"
-  },
   "london-stock-exchange-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10586,11 +10576,6 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
-  "metainfotech|security|l1": {
-   "expires": "2026-10-25T17:04:40.628918+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
-   "status": "not_found"
-  },
   "metasys-tech|erp|l1": {
    "expires": "2026-10-31T13:10:02.949488+00:00",
    "looked_up": "2026-10-16T07:19:03+00:00",
@@ -10806,11 +10791,6 @@
   "mizuora-software|swe|l1": {
    "expires": "2026-11-04T18:57:07.635862+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "mmplrnc|swe|l1": {
-   "expires": "2026-10-25T17:31:54.940803+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
   "mobile-apps|security|l1": {
@@ -12576,8 +12556,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:52:31.387157+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
+   "expires": "2027-01-28T21:32:39.398255+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14399,8 +14379,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T05:31:56.058348+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
+   "expires": "2027-01-20T18:24:28.702160+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -15571,6 +15551,11 @@
    "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
+  "synopsys|erp|l1": {
+   "expires": "2026-11-13T23:47:55.953317+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
+   "status": "not_found"
+  },
   "syntel-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16345,6 +16330,11 @@
   "the-knowledge-academy|swe|l1": {
    "expires": "2026-10-28T02:48:33.108391+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "the-manitowoc-company|swe|l1": {
+   "expires": "2026-11-04T06:37:46.870983+00:00",
+   "looked_up": "2026-10-25T18:01:23+00:00",
    "status": "not_found"
   },
   "the-retail-insights|devops|l1": {
@@ -18523,8 +18513,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2854,
-  "lookups_today": 44,
+  "lookups_month": 2857,
+  "lookups_today": 47,
   "month": "2026-10"
  }
 }
