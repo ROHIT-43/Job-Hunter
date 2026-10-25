@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T16:52:31.615469+00:00",
-   "looked_up": "2026-10-25T20:01:22+00:00",
+   "expires": "2027-01-19T10:27:52.169416+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4747,11 +4747,6 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
-  "dexcom|swe|l1": {
-   "expires": "2026-10-25T20:48:53.601900+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "dexcom|swe|l2": {
    "expires": "2026-11-02T11:00:35.351450+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -5593,11 +5588,6 @@
    "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
-  "evolent|devops|l1": {
-   "expires": "2026-10-25T20:50:59.020392+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "excelya|swe|l1": {
    "expires": "2026-11-08T02:25:28.934652+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
@@ -6217,8 +6207,8 @@
    "status": "not_found"
   },
   "flexipletech|fullstack|l1": {
-   "expires": "2026-10-25T20:38:06.446691+00:00",
-   "looked_up": "2026-10-06T05:35:27+00:00",
+   "expires": "2026-11-02T13:03:56.245705+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
    "status": "not_found"
   },
   "flexipletech|mobile|l1": {
@@ -6237,6 +6227,34 @@
     {
      "title": "flexiple.com",
      "uri": "https://flexiple.com/salary/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "flipkart|swe|l3": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-19T18:26:48.871382+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
+   "max_lpa": 50.0,
+   "min_lpa": 41.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/flipkart/salaries/software-engineer/title/frontend-software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/flipkart/salaries/software-engineer/title/site-reliability-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1681201/flipkart-sde-3-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1450327/flipkart-sde-iii-bangalore"
     }
    ],
    "status": "found",
@@ -8886,6 +8904,20 @@
    "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
+  "jane-aerospace|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-22T18:13:45.430291+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "jark-world|swe|l1": {
    "expires": "2026-11-02T15:17:54.851718+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -11164,11 +11196,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "netapp|swe|l1": {
-   "expires": "2026-10-25T20:28:12.212977+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
   },
   "netpuppysagency|frontend|l1": {
    "expires": "2026-10-31T19:13:13.335798+00:00",
@@ -14329,8 +14356,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T04:00:02.127044+00:00",
-   "looked_up": "2026-10-25T20:01:22+00:00",
+   "expires": "2027-01-22T20:44:21.624121+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14935,11 +14962,6 @@
   },
   "softcrayons-it-education|fullstack|l1": {
    "expires": "2026-11-04T00:54:15.428585+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
-   "status": "not_found"
-  },
-  "softcrayons-it-education|swe|l1": {
-   "expires": "2026-10-25T20:46:00.648203+00:00",
    "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
@@ -16295,8 +16317,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T16:48:22.891769+00:00",
-   "looked_up": "2026-10-25T20:01:22+00:00",
+   "expires": "2027-01-28T19:15:17.949578+00:00",
+   "looked_up": "2026-10-25T21:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18492,8 +18514,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2859,
-  "lookups_today": 49,
+  "lookups_month": 2861,
+  "lookups_today": 51,
   "month": "2026-10"
  }
 }
