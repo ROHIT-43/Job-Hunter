@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:20:34.297757+00:00",
-   "looked_up": "2026-10-25T09:01:26+00:00",
+   "expires": "2027-01-29T09:25:23.590311+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -644,11 +644,6 @@
   "ai-stack-technologies|mobile|l1": {
    "expires": "2026-10-29T11:49:24.187780+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
-   "status": "not_found"
-  },
-  "ai4process|swe|l1": {
-   "expires": "2026-10-25T09:58:19.957656+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "aifa-labs-official|erp|l1": {
@@ -1642,6 +1637,11 @@
    "looked_up": "2026-10-23T15:01:32+00:00",
    "status": "not_found"
   },
+  "arsecats|erp|l1": {
+   "expires": "2026-11-03T14:22:43.626697+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
+   "status": "not_found"
+  },
   "arsecats|frontend|l1": {
    "expires": "2026-11-03T07:59:13.181576+00:00",
    "looked_up": "2026-10-16T02:01:40+00:00",
@@ -1900,6 +1900,11 @@
   "audaxfinancialtech|devops|l2": {
    "expires": "2026-10-28T03:12:30.740410+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
+   "status": "not_found"
+  },
+  "aumi-robotics|swe|l1": {
+   "expires": "2026-11-13T15:20:34.303473+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "status": "not_found"
   },
   "aumraa|frontend|l1": {
@@ -4706,6 +4711,11 @@
    "status": "found",
    "year": 2026
   },
+  "deloitte|fullstack|l2": {
+   "expires": "2026-11-01T15:42:55.591210+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
+   "status": "not_found"
+  },
   "deloitte|mobile|l1": {
    "expires": "2026-11-02T08:36:04.387389+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -5141,11 +5151,6 @@
   "ecolab|swe|l1": {
    "expires": "2026-10-27T06:11:39.788883+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "edgeforce-solutions|swe|l1": {
-   "expires": "2026-10-25T09:16:10.199292+00:00",
-   "looked_up": "2026-10-06T19:01:41+00:00",
    "status": "not_found"
   },
   "edgeverve|frontend|l1": {
@@ -11162,11 +11167,6 @@
    "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
-  "ncrvoyix|swe|l2": {
-   "expires": "2026-10-25T09:45:08.420995+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "necsws-india|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -11353,11 +11353,6 @@
   "nexgen-techsolutions|swe|l1": {
    "expires": "2026-10-30T05:07:18.888938+00:00",
    "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
-  "nexortest-technologies|swe|l1": {
-   "expires": "2026-10-25T09:30:11.271600+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "nexsap-solutions|erp|l1": {
@@ -11945,11 +11940,6 @@
   "opsarmycareers|erp|l1": {
    "expires": "2026-11-06T02:18:11.931693+00:00",
    "looked_up": "2026-10-20T03:01:29+00:00",
-   "status": "not_found"
-  },
-  "optimizer360ai|fullstack|l1": {
-   "expires": "2026-10-25T09:08:37.949809+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
   "optumindia|data|l1": {
@@ -12576,8 +12566,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T03:31:43.553494+00:00",
-   "looked_up": "2026-10-25T09:01:26+00:00",
+   "expires": "2027-01-20T23:08:01.326029+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12651,8 +12641,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T07:49:05.011391+00:00",
-   "looked_up": "2026-10-25T09:01:26+00:00",
+   "expires": "2027-01-27T15:12:47.846596+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14342,6 +14332,11 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
+  "scoutit-in|data|l1": {
+   "expires": "2026-11-13T10:16:13.150238+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
+   "status": "not_found"
+  },
   "scoutit-in|frontend|l1": {
    "expires": "2026-10-26T01:59:55.057476+00:00",
    "looked_up": "2026-10-06T10:01:43+00:00",
@@ -14459,8 +14454,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:16:06.632096+00:00",
-   "looked_up": "2026-10-25T09:01:26+00:00",
+   "expires": "2027-01-26T11:10:39.517860+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14783,8 +14778,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:34:03.978382+00:00",
-   "looked_up": "2026-10-25T09:01:26+00:00",
+   "expires": "2027-01-23T05:48:55.212221+00:00",
+   "looked_up": "2026-10-25T10:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15281,11 +15276,6 @@
   "srinivasa-supply-chain-solutions-private-limited|erp|l1": {
    "expires": "2026-10-28T08:59:59.186991+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
-   "status": "not_found"
-  },
-  "ssigma|swe|l1": {
-   "expires": "2026-10-25T09:28:51.257342+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
   "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
@@ -18583,8 +18573,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2825,
-  "lookups_today": 15,
+  "lookups_month": 2829,
+  "lookups_today": 19,
   "month": "2026-10"
  }
 }
