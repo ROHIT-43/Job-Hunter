@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:23:35.906480+00:00",
-   "looked_up": "2026-10-25T14:01:30+00:00",
+   "expires": "2027-01-24T14:17:59.120405+00:00",
+   "looked_up": "2026-10-25T15:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11240,11 +11240,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "netomi|devops|l1": {
-   "expires": "2026-10-25T15:00:09.250248+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "netpuppysagency|frontend|l1": {
    "expires": "2026-10-31T19:13:13.335798+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
@@ -12591,8 +12586,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T11:55:15.991802+00:00",
-   "looked_up": "2026-10-25T14:01:30+00:00",
+   "expires": "2027-01-16T16:16:50.768767+00:00",
+   "looked_up": "2026-10-25T15:01:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -13869,11 +13864,6 @@
    "status": "found",
    "year": 2026
   },
-  "ruhilfuturetechnologies|swe|l1": {
-   "expires": "2026-10-25T14:04:16.279282+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
-  },
   "ruloans-distribution-services-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-07T03:44:17.073067+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -14419,8 +14409,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T01:04:39.024915+00:00",
-   "looked_up": "2026-10-25T14:01:30+00:00",
+   "expires": "2027-01-27T06:07:23.287508+00:00",
+   "looked_up": "2026-10-25T15:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14487,6 +14477,11 @@
   "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
    "expires": "2026-10-28T11:32:28.144555+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "shi-india|security|l1": {
+   "expires": "2026-11-14T08:00:55.222519+00:00",
+   "looked_up": "2026-10-25T15:01:25+00:00",
    "status": "not_found"
   },
   "shishya-beml-public-school|fullstack|l1": {
@@ -14797,11 +14792,6 @@
   },
   "skytrainings|data|l1": {
    "expires": "2026-10-26T10:33:02.301844+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
-  "skytrainings|swe|l1": {
-   "expires": "2026-10-25T14:35:58.892358+00:00",
    "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
@@ -15202,6 +15192,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "spinach-experience-design|frontend|l2": {
+   "expires": "2026-11-12T07:21:45.710131+00:00",
+   "looked_up": "2026-10-25T15:01:25+00:00",
+   "status": "not_found"
   },
   "spire-systems|swe|l1": {
    "expires": "2026-10-29T06:25:30.895724+00:00",
@@ -18533,8 +18528,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2844,
-  "lookups_today": 34,
+  "lookups_month": 2846,
+  "lookups_today": 36,
   "month": "2026-10"
  }
 }
