@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:26:12.441775+00:00",
-   "looked_up": "2026-10-25T19:36:43+00:00",
+   "expires": "2027-01-22T16:52:31.615469+00:00",
+   "looked_up": "2026-10-25T20:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3238,11 +3238,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "centotech|data|l1": {
-   "expires": "2026-10-25T19:46:07.074906+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
-   "status": "not_found"
   },
   "centotech|erp|l1": {
    "expires": "2026-11-01T19:33:46.534446+00:00",
@@ -12511,8 +12506,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T10:39:53.351367+00:00",
-   "looked_up": "2026-10-25T19:36:43+00:00",
+   "expires": "2027-01-26T16:41:11.855762+00:00",
+   "looked_up": "2026-10-25T20:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14334,8 +14329,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:08:37.289748+00:00",
-   "looked_up": "2026-10-25T19:36:43+00:00",
+   "expires": "2027-01-17T04:00:02.127044+00:00",
+   "looked_up": "2026-10-25T20:01:22+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14724,6 +14719,26 @@
    "expires": "2026-10-27T13:45:04.755605+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
+  },
+  "slbglobal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T21:19:32.083655+00:00",
+   "looked_up": "2026-10-25T20:01:22+00:00",
+   "max_lpa": 20.2,
+   "min_lpa": 14.4,
+   "sources": [
+    {
+     "title": "static.glassdoor.co.in",
+     "uri": "https://static.glassdoor.co.in/Salary/SLB-Associate-Software-Engineer-Salaries-E588_D_KO4,31_P2.htm"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Slb/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "sliceit|mobile|l1": {
    "basis": "ctc",
@@ -16280,8 +16295,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:44:56.764194+00:00",
-   "looked_up": "2026-10-25T19:36:43+00:00",
+   "expires": "2027-01-24T16:48:22.891769+00:00",
+   "looked_up": "2026-10-25T20:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18477,8 +18492,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2858,
-  "lookups_today": 48,
+  "lookups_month": 2859,
+  "lookups_today": 49,
   "month": "2026-10"
  }
 }
