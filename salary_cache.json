@@ -7430,11 +7430,6 @@
    "looked_up": "2026-10-17T04:01:27+00:00",
    "status": "not_found"
   },
-  "harisan-technologies|devops|l1": {
-   "expires": "2026-10-24T23:22:04.827270+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "harisan-technologies|swe|l1": {
    "expires": "2026-10-29T15:16:01.233602+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
@@ -12559,6 +12554,11 @@
    "looked_up": "2026-10-23T22:15:14+00:00",
    "status": "not_found"
   },
+  "pink-gorilla|fullstack|l1": {
+   "expires": "2026-11-12T13:12:00.214605+00:00",
+   "looked_up": "2026-10-25T00:01:34+00:00",
+   "status": "not_found"
+  },
   "pinkerton-comprehensive-risk-management|erp|l1": {
    "expires": "2026-11-08T16:48:43.559351+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -12652,8 +12652,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T09:12:36.743121+00:00",
-   "looked_up": "2026-10-24T23:14:01+00:00",
+   "expires": "2027-01-23T15:43:46.307149+00:00",
+   "looked_up": "2026-10-25T00:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12727,8 +12727,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T13:57:13.771839+00:00",
-   "looked_up": "2026-10-24T23:14:01+00:00",
+   "expires": "2027-01-26T13:41:47.130127+00:00",
+   "looked_up": "2026-10-25T00:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14875,8 +14875,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T07:52:45.670349+00:00",
-   "looked_up": "2026-10-24T23:14:01+00:00",
+   "expires": "2027-01-21T10:45:41.089745+00:00",
+   "looked_up": "2026-10-25T00:01:34+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15768,11 +15768,6 @@
   "t-systems-ict-india-pvt.-ltd.|erp|l1": {
    "expires": "2026-10-28T21:39:50.004034+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "t1tech-group|swe|l1": {
-   "expires": "2026-10-24T23:35:18.380870+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "take-2-interactive-software-inc-|data|l1": {
@@ -18689,9 +18684,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-24",
-  "lookups_month": 2810,
-  "lookups_today": 69,
+  "day": "2026-10-25",
+  "lookups_month": 2811,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
