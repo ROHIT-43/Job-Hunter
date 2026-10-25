@@ -371,6 +371,11 @@
    ],
    "status": "found"
   },
+  "actualizece|erp|l1": {
+   "expires": "2026-11-07T01:01:38.539756+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
+   "status": "not_found"
+  },
   "acuitas360|swe|l1": {
    "expires": "2026-11-07T10:28:39.701701+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
@@ -832,11 +837,6 @@
   },
   "algorian-software-solutions|frontend|l1": {
    "expires": "2026-10-28T13:00:08.727140+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
-   "status": "not_found"
-  },
-  "algorian-software-solutions|fullstack|l1": {
-   "expires": "2026-10-25T01:22:50.116102+00:00",
    "looked_up": "2026-10-15T01:01:23+00:00",
    "status": "not_found"
   },
@@ -2200,11 +2200,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "barclays-bank|mobile|l1": {
-   "expires": "2026-10-25T01:58:17.662409+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
   },
   "barclays-bank|swe|l1": {
    "basis": "ctc",
@@ -6494,6 +6489,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "fressers|swe|l1": {
+   "expires": "2026-11-12T05:34:37.645604+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
+   "status": "not_found"
+  },
   "frnsup|frontend|l1": {
    "expires": "2026-10-28T21:15:13.400937+00:00",
    "looked_up": "2026-10-11T13:01:20+00:00",
@@ -9694,11 +9694,6 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
-  "lam-research|swe|l1": {
-   "expires": "2026-10-25T01:37:21.012327+00:00",
-   "looked_up": "2026-10-12T18:01:24+00:00",
-   "status": "not_found"
-  },
   "lancesoftindia|swe|l1": {
    "expires": "2026-11-08T07:50:59.432630+00:00",
    "looked_up": "2026-10-21T08:01:34+00:00",
@@ -10594,11 +10589,6 @@
   "mechademy|swe|l1": {
    "expires": "2026-10-30T00:13:55.804858+00:00",
    "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
-  "media.net|mobile|l2": {
-   "expires": "2026-10-25T01:37:03.278239+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "media.net|swe|l1": {
@@ -12344,11 +12334,6 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
-  "peoplelogic-business-solutions|erp|l1": {
-   "expires": "2026-10-25T01:16:42.465860+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "peopleprimeww|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12647,8 +12632,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:28:15.990878+00:00",
-   "looked_up": "2026-10-25T01:12:14+00:00",
+   "expires": "2027-01-23T18:45:52.034085+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12722,8 +12707,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T23:28:07.977405+00:00",
-   "looked_up": "2026-10-25T01:12:14+00:00",
+   "expires": "2027-01-19T05:25:49.629312+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12746,6 +12731,11 @@
   "principle-pride|devops|l1": {
    "expires": "2026-10-27T16:46:50.037968+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "privet-ventures|swe|l1": {
+   "expires": "2026-11-04T06:25:47.725002+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
    "status": "not_found"
   },
   "pro-team-solutions-private-limited|erp|l1": {
@@ -14812,6 +14802,11 @@
    "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
+  "singhania-tableting|swe|l1": {
+   "expires": "2026-11-11T07:42:27.091426+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
+   "status": "not_found"
+  },
   "sintraxcreations|swe|l1": {
    "expires": "2026-11-10T08:52:45.765615+00:00",
    "looked_up": "2026-10-23T06:01:26+00:00",
@@ -14865,8 +14860,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T07:11:31.279009+00:00",
-   "looked_up": "2026-10-25T01:12:14+00:00",
+   "expires": "2027-01-28T10:34:45.967091+00:00",
+   "looked_up": "2026-10-25T02:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -18675,8 +18670,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2811,
-  "lookups_today": 1,
+  "lookups_month": 2815,
+  "lookups_today": 5,
   "month": "2026-10"
  }
 }
