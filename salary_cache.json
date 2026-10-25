@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T08:02:22.749636+00:00",
-   "looked_up": "2026-10-25T19:01:30+00:00",
+   "expires": "2027-01-20T10:26:12.441775+00:00",
+   "looked_up": "2026-10-25T19:36:43+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5689,11 +5689,6 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
-  "expediagroup|data|l1": {
-   "expires": "2026-10-25T19:07:58.853829+00:00",
-   "looked_up": "2026-10-09T18:01:26+00:00",
-   "status": "not_found"
-  },
   "expediagroup|frontend|l2": {
    "basis": "base",
    "confidence": "low",
@@ -6383,11 +6378,6 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
-  "franklin-templeton|swe|l1": {
-   "expires": "2026-10-25T19:33:52.980393+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
-   "status": "not_found"
-  },
   "freelnace|security|l1": {
    "expires": "2026-11-10T14:52:38.588269+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -6847,11 +6837,6 @@
   "goamouldcrafters|swe|l1": {
    "expires": "2026-11-04T10:03:56.180298+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "gobefisc|swe|l1": {
-   "expires": "2026-10-25T19:30:29.101498+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
    "status": "not_found"
   },
   "gogreater|frontend|l1": {
@@ -12526,8 +12511,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:49:41.526627+00:00",
-   "looked_up": "2026-10-25T19:01:30+00:00",
+   "expires": "2027-01-18T10:39:53.351367+00:00",
+   "looked_up": "2026-10-25T19:36:43+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14349,8 +14334,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:04:41.896437+00:00",
-   "looked_up": "2026-10-25T19:01:30+00:00",
+   "expires": "2027-01-24T19:08:37.289748+00:00",
+   "looked_up": "2026-10-25T19:36:43+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -16282,11 +16267,6 @@
    "status": "found",
    "year": 2026
   },
-  "thales|swe|l1": {
-   "expires": "2026-10-25T19:22:16.047671+00:00",
-   "looked_up": "2026-10-11T11:01:20+00:00",
-   "status": "not_found"
-  },
   "the-1-clubfws|swe|l1": {
    "expires": "2026-11-04T04:58:46.961919+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -16300,8 +16280,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:24:23.939864+00:00",
-   "looked_up": "2026-10-25T19:01:30+00:00",
+   "expires": "2027-01-20T21:44:56.764194+00:00",
+   "looked_up": "2026-10-25T19:36:43+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
