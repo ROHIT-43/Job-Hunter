@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:03:28.155492+00:00",
-   "looked_up": "2026-10-25T18:01:23+00:00",
+   "expires": "2027-01-21T08:02:22.749636+00:00",
+   "looked_up": "2026-10-25T19:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1557,11 +1557,6 @@
    "looked_up": "2026-10-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "aristostar|frontend|l1": {
-   "expires": "2026-10-25T18:55:43.956960+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "aritioninfotech|swe|l1": {
    "expires": "2026-11-10T05:41:50.749275+00:00",
    "looked_up": "2026-10-22T20:01:26+00:00",
@@ -2270,11 +2265,6 @@
   "berkadia|data|l1": {
    "expires": "2026-10-26T14:20:20.082704+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "bestex-research-group|data|l1": {
-   "expires": "2026-10-25T18:02:50.150081+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "bestex-research-group|swe|l1": {
@@ -4131,11 +4121,6 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
-  "creospan|erp|l1": {
-   "expires": "2026-10-25T18:35:01.883013+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "creuto|devops|l1": {
    "expires": "2026-10-26T11:46:39.601656+00:00",
    "looked_up": "2026-10-11T06:01:27+00:00",
@@ -5091,11 +5076,6 @@
   "ecobillz-private-limited|swe|l1": {
    "expires": "2026-11-01T04:53:07.844496+00:00",
    "looked_up": "2026-10-13T18:01:29+00:00",
-   "status": "not_found"
-  },
-  "ecodesoft|swe|l1": {
-   "expires": "2026-10-25T18:18:22.731795+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "ecolab|swe|l1": {
@@ -7327,11 +7307,6 @@
   "handbuiltapps|swe|l1": {
    "expires": "2026-11-03T14:49:34.823943+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "hansen-technologies|swe|l1": {
-   "expires": "2026-10-25T18:45:14.215613+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
   "hari-om-thalassic-private-limited|fullstack|l1": {
@@ -12518,11 +12493,6 @@
    "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
-  "ppfas-mutual-fund|swe|l1": {
-   "expires": "2026-10-25T18:24:18.819627+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
   "ppstack|swe|l1": {
    "expires": "2026-11-01T10:50:37.751868+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
@@ -12556,8 +12526,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T21:32:39.398255+00:00",
-   "looked_up": "2026-10-25T18:01:23+00:00",
+   "expires": "2027-01-25T05:49:41.526627+00:00",
+   "looked_up": "2026-10-25T19:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14379,8 +14349,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:24:28.702160+00:00",
-   "looked_up": "2026-10-25T18:01:23+00:00",
+   "expires": "2027-01-24T11:04:41.896437+00:00",
+   "looked_up": "2026-10-25T19:01:30+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -15284,6 +15254,11 @@
   "stepsinfotech|data|l1": {
    "expires": "2026-10-30T04:26:07.282799+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "stormfinance|swe|l1": {
+   "expires": "2026-11-05T05:48:22.032797+00:00",
+   "looked_up": "2026-10-25T19:01:30+00:00",
    "status": "not_found"
   },
   "straive_|data|l1": {
@@ -16322,6 +16297,20 @@
    "looked_up": "2026-10-11T01:01:27+00:00",
    "status": "not_found"
   },
+  "the-factual-holding-co|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-23T15:24:23.939864+00:00",
+   "looked_up": "2026-10-25T19:01:30+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "the-hartford-india|swe|l1": {
    "expires": "2026-11-05T06:23:35.223360+00:00",
    "looked_up": "2026-10-23T17:01:26+00:00",
@@ -16746,11 +16735,6 @@
   "trexquant-investment-lp|swe|l1": {
    "expires": "2026-11-10T05:48:42.370230+00:00",
    "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
-  },
-  "tricog-health|frontend|l1": {
-   "expires": "2026-10-25T18:59:47.990846+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "trigent-professional-services|swe|l1": {
@@ -18513,8 +18497,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2857,
-  "lookups_today": 47,
+  "lookups_month": 2858,
+  "lookups_today": 48,
   "month": "2026-10"
  }
 }
