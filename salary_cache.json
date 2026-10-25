@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:12:10.543024+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
+   "expires": "2027-01-23T14:12:45.662206+00:00",
+   "looked_up": "2026-10-25T11:28:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -1365,11 +1365,6 @@
   "appinventiv|swe|l1": {
    "expires": "2026-10-26T05:54:09.126812+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "appleberrytech|swe|l1": {
-   "expires": "2026-10-25T11:19:14.251263+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "appleelectroniks|swe|l1": {
@@ -3149,11 +3144,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "casepoint-llc|devops|l1": {
-   "expires": "2026-10-25T11:09:48.971501+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
   },
   "cashfree|frontend|l1": {
    "basis": "base",
@@ -12571,8 +12561,8 @@
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T17:07:24.138889+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
+   "expires": "2027-01-21T14:20:44.864212+00:00",
+   "looked_up": "2026-10-25T11:28:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
    "sources": [
@@ -12646,8 +12636,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-16T19:02:50.239500+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
+   "expires": "2027-01-18T09:29:55.998060+00:00",
+   "looked_up": "2026-10-25T11:28:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -14459,8 +14449,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T21:44:22.196333+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
+   "expires": "2027-01-24T13:23:07.658815+00:00",
+   "looked_up": "2026-10-25T11:28:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14783,8 +14773,8 @@
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T07:43:17.406390+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
+   "expires": "2027-01-19T14:47:57.372205+00:00",
+   "looked_up": "2026-10-25T11:28:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
