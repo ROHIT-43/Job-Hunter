@@ -446,11 +446,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|swe|l1": {
-   "expires": "2026-10-25T12:19:20.075043+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
   "aditya-birla-capital|data|l1": {
    "expires": "2026-11-06T09:10:20.835125+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -545,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T11:48:05.438285+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
+   "expires": "2027-01-18T23:10:22.437458+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -574,11 +569,6 @@
   "afforce-business-consulting|erp|l2": {
    "expires": "2026-10-29T12:18:32.459297+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
-   "status": "not_found"
-  },
-  "aforro-groceries-pvt-ltd|swe|l2": {
-   "expires": "2026-10-25T12:50:40.016495+00:00",
-   "looked_up": "2026-10-10T08:01:24+00:00",
    "status": "not_found"
   },
   "afterquery-experts|frontend|l1": {
@@ -2113,11 +2103,6 @@
   "bain-and-company|swe|l1": {
    "expires": "2026-10-31T08:30:08.191146+00:00",
    "looked_up": "2026-10-11T08:01:20+00:00",
-   "status": "not_found"
-  },
-  "bakerhughes|swe|l1": {
-   "expires": "2026-10-25T12:05:00.554168+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
   "bank-of-america|swe|l1": {
@@ -6852,6 +6837,11 @@
   "globant|data|l1": {
    "expires": "2026-10-29T23:38:19.401100+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
+   "status": "not_found"
+  },
+  "globant|erp|l1": {
+   "expires": "2026-11-10T02:31:58.084228+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
    "status": "not_found"
   },
   "globus-academy|swe|l1": {
@@ -12626,8 +12616,8 @@
   "prime-rishta|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:41:01.361349+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
+   "expires": "2027-01-27T04:50:17.451543+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -12679,11 +12669,6 @@
   "probuddysoftware|swe|l1": {
    "expires": "2026-11-02T13:57:17.776504+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
-  },
-  "procore-technologies|mobile|l2": {
-   "expires": "2026-10-25T12:25:54.314751+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "procter-and-gamble|security|l1": {
@@ -12803,6 +12788,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "ptcinc|erp|l1": {
+   "expires": "2026-11-10T12:35:29.187671+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
+   "status": "not_found"
   },
   "ptcinc|swe|l1": {
    "basis": "base",
@@ -14246,6 +14236,11 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
+  "savvy-signature|frontend|l1": {
+   "expires": "2026-11-04T09:57:39.117115+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
+   "status": "not_found"
+  },
   "saxo-bank|devops|l1": {
    "expires": "2026-11-08T11:34:12.828566+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
@@ -14439,8 +14434,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:46:29.654199+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
+   "expires": "2027-01-22T01:12:24.680377+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14522,11 +14517,6 @@
   "shortlistconsulting|mobile|l1": {
    "expires": "2026-10-27T16:44:49.660255+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
-   "expires": "2026-10-25T12:57:40.621495+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|swe|l1": {
@@ -16029,6 +16019,11 @@
    "looked_up": "2026-10-22T03:01:25+00:00",
    "status": "not_found"
   },
+  "techdoquest|swe|l1": {
+   "expires": "2026-11-09T05:19:13.957400+00:00",
+   "looked_up": "2026-10-25T13:01:26+00:00",
+   "status": "not_found"
+  },
   "techindustan|swe|l1": {
    "expires": "2026-11-07T12:19:38.898357+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -16086,11 +16081,6 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
-  "technosthan|fullstack|l1": {
-   "expires": "2026-10-25T12:45:18.569693+00:00",
-   "looked_up": "2026-10-10T11:01:20+00:00",
-   "status": "not_found"
-  },
   "technosys-solutions-inc|swe|l1": {
    "expires": "2026-11-01T10:42:26.668495+00:00",
    "looked_up": "2026-10-20T06:16:42+00:00",
@@ -16125,11 +16115,6 @@
   "techtalentresourcing|swe|l1": {
    "expires": "2026-10-28T15:12:41.920864+00:00",
    "looked_up": "2026-10-20T09:01:36+00:00",
-   "status": "not_found"
-  },
-  "techxlns|fullstack|l1": {
-   "expires": "2026-10-25T12:10:57.444206+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
   "techxsherpa|frontend|l1": {
@@ -17739,11 +17724,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "wander-trip|fullstack|l1": {
-   "expires": "2026-10-25T12:32:15.866043+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "waphire|swe|l1": {
    "expires": "2026-10-25T22:38:33.945520+00:00",
    "looked_up": "2026-10-09T02:01:20+00:00",
@@ -18563,8 +18543,8 @@
  },
  "meta": {
   "day": "2026-10-25",
-  "lookups_month": 2837,
-  "lookups_today": 27,
+  "lookups_month": 2841,
+  "lookups_today": 31,
   "month": "2026-10"
  }
 }
