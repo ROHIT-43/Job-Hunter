@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T09:48:00.741410+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-26T18:51:32.714410+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -964,8 +964,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T22:56:43.949118+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-27T02:28:10.206902+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1019,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T17:02:22.276929+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-24T14:52:51.183064+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1608,8 +1608,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T18:40:37.584814+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-30T22:53:49.345172+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2182,6 +2182,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "barclays-bank|devops|l1": {
+   "expires": "2026-11-04T22:23:09.321887+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
   },
   "barclays-bank|fullstack|l1": {
    "basis": "ctc",
@@ -2767,6 +2772,11 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
+  "bristol-myers-squibb|data|l2": {
+   "expires": "2026-11-09T06:11:52.414217+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "bristol-myers-squibb|security|l1": {
    "expires": "2026-11-01T22:04:03.340582+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -3049,6 +3059,11 @@
    "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
+  "careerblocc|swe|l1": {
+   "expires": "2026-11-04T01:45:47.833623+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "careerpointltd|swe|l1": {
    "expires": "2026-11-07T23:04:29.367625+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
@@ -3253,11 +3268,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "celestialtec|swe|l1": {
-   "expires": "2026-10-26T17:07:04.304515+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
-   "status": "not_found"
   },
   "celestica|erp|l1": {
    "expires": "2026-11-01T09:10:18.607888+00:00",
@@ -3710,8 +3720,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T15:47:50.487021+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-29T00:30:43.366660+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4172,8 +4182,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T20:51:46.103516+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-30T16:41:43.452718+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5100,6 +5110,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "durapidtechnologies|fullstack|l1": {
+   "expires": "2026-11-14T09:39:06.013147+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "duruperbasecamp|frontend|l1": {
    "expires": "2026-10-30T12:25:57.616374+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
@@ -5896,11 +5911,6 @@
   "exxonmobil-india-careers|swe|l1": {
    "expires": "2026-11-07T09:42:08.115377+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "ezdata-advisory|data|l1": {
-   "expires": "2026-10-26T17:54:41.924649+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "f5|devops|l2": {
@@ -8407,6 +8417,11 @@
    "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
+  "implex-edu|swe|l1": {
+   "expires": "2026-11-07T12:32:16.820749+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "impronics-technologies|erp|l1": {
    "expires": "2026-10-31T06:58:04.803951+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -9153,8 +9168,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T21:38:46.191579+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-18T22:28:33.059180+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9332,6 +9347,11 @@
   "joinsaarthi|erp|l1": {
    "expires": "2026-11-08T05:37:31.017852+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "jpmorganchase|data|l2": {
+   "expires": "2026-11-06T03:47:17.642623+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
   "jpmorganchase|devops|l2": {
@@ -10070,6 +10090,20 @@
    "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
+  "livesupr|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T01:44:20.644624+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "livine-software|swe|l1": {
    "expires": "2026-10-30T16:12:24.776424+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
@@ -10617,8 +10651,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:02:57.727052+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-19T06:30:53.891780+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11041,6 +11075,20 @@
    "expires": "2026-11-08T09:17:09.552128+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
+  },
+  "mirum-gmbh|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-22T16:54:08.995783+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "mitchell-martin|devops|l1": {
    "expires": "2026-11-03T13:40:39.762318+00:00",
@@ -11957,6 +12005,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "oaknorth-bank|security|l1": {
+   "expires": "2026-11-14T06:48:23.944275+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "oaknorth-in-india|security|l1": {
    "expires": "2026-11-10T19:44:47.148017+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
@@ -11965,11 +12018,6 @@
   "oaktree-capital-management|erp|l1": {
    "expires": "2026-11-01T19:59:19.693596+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "ocean-infotech-rajkot|mobile|l1": {
-   "expires": "2026-10-26T17:26:49.078030+00:00",
-   "looked_up": "2026-10-17T08:01:23+00:00",
    "status": "not_found"
   },
   "oceanfriends|swe|l1": {
@@ -12520,11 +12568,6 @@
    "status": "found",
    "year": 2026
   },
-  "peopleprimeww|swe|l1": {
-   "expires": "2026-10-26T17:49:38.390157+00:00",
-   "looked_up": "2026-10-06T18:01:44+00:00",
-   "status": "not_found"
-  },
   "persistent-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12992,8 +13035,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T16:01:24.408244+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-21T05:08:42.991822+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15711,6 +15754,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "stefanini-na-apac|erp|l2": {
+   "expires": "2026-11-15T19:18:32.982688+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
   "stepsai-aide|mobile|l1": {
    "expires": "2026-10-31T15:53:51.925556+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -15729,6 +15777,11 @@
   "stormfinance|swe|l1": {
    "expires": "2026-11-05T05:48:22.032797+00:00",
    "looked_up": "2026-10-25T19:01:30+00:00",
+   "status": "not_found"
+  },
+  "stradaglobal|erp|l1": {
+   "expires": "2026-11-06T05:48:23.037144+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
   "straive_|data|l1": {
@@ -16780,8 +16833,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:16:51.095040+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-18T01:35:18.769369+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -16978,6 +17031,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "tide-banking|swe|l1": {
+   "expires": "2026-11-13T01:06:37.535748+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
   },
   "timesofev|swe|l1": {
    "basis": "posted",
@@ -17231,6 +17289,20 @@
    "expires": "2026-10-29T05:25:39.629468+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
+  },
+  "trendwick|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-26T02:46:19.511217+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "trexquant-investment-lp|swe|l1": {
    "expires": "2026-11-10T05:48:42.370230+00:00",
@@ -17542,6 +17614,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ups|frontend|l1": {
+   "expires": "2026-11-03T15:48:15.266025+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
+  },
+  "ups|fullstack|l1": {
+   "expires": "2026-11-04T09:32:49.009742+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
   },
   "ups|swe|l1": {
    "basis": "base",
@@ -18187,6 +18269,20 @@
    "looked_up": "2026-10-18T13:01:22+00:00",
    "status": "not_found"
   },
+  "vowels-of-the-people|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-28T16:26:40.689315+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "vymotech|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18543,8 +18639,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T16:33:14.629987+00:00",
-   "looked_up": "2026-10-26T17:03:27+00:00",
+   "expires": "2027-01-29T21:49:43.696864+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18553,6 +18649,11 @@
     }
    ],
    "status": "found"
+  },
+  "workowon|data|l1": {
+   "expires": "2026-11-12T20:06:52.052797+00:00",
+   "looked_up": "2026-10-26T18:01:27+00:00",
+   "status": "not_found"
   },
   "workowon|swe|l1": {
    "expires": "2026-11-11T02:04:12.715874+00:00",
@@ -18663,11 +18764,6 @@
   "xhawk|swe|l1": {
    "expires": "2026-10-31T06:42:06.649103+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
-  "xpanceit|frontend|l1": {
-   "expires": "2026-10-26T17:22:21.758955+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "xploreon|fullstack|l1": {
@@ -19070,8 +19166,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2991,
-  "lookups_today": 129,
+  "lookups_month": 3004,
+  "lookups_today": 142,
   "month": "2026-10"
  }
 }
