@@ -175,6 +175,11 @@
    "looked_up": "2026-10-16T00:01:34+00:00",
    "status": "not_found"
   },
+  "acadvizen-digital-marketing-institute|swe|l1": {
+   "expires": "2026-11-09T16:31:20.313642+00:00",
+   "looked_up": "2026-10-26T04:01:24+00:00",
+   "status": "not_found"
+  },
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -540,8 +545,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:42:14.437508+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
+   "expires": "2027-01-23T04:43:38.853675+00:00",
+   "looked_up": "2026-10-26T04:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4374,11 +4379,6 @@
    "status": "found",
    "year": 2025
   },
-  "dariohealth|erp|l1": {
-   "expires": "2026-10-26T03:56:23.016565+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "dart-browser|swe|l1": {
    "expires": "2026-11-07T07:14:42.139746+00:00",
    "looked_up": "2026-10-20T14:01:32+00:00",
@@ -7579,11 +7579,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "hijob-work|frontend|l1": {
-   "expires": "2026-10-26T03:45:51.342781+00:00",
-   "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
-  },
   "hire-hangar|swe|l1": {
    "expires": "2026-11-02T11:13:02.861963+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -8882,8 +8877,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:03:46.216312+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
+   "expires": "2027-01-23T15:48:47.236019+00:00",
+   "looked_up": "2026-10-26T04:01:24+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10097,11 +10092,6 @@
    "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
-  "manevaconsulting|swe|l1": {
-   "expires": "2026-10-26T03:59:59.203465+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
   "marduk-technologies|swe|l1": {
    "expires": "2026-10-30T17:59:03.718393+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -10410,11 +10400,6 @@
   "me100|mobile|l1": {
    "expires": "2026-11-05T23:11:19.727232+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
-  "meatec-batteryintelligence|data|l1": {
-   "expires": "2026-10-26T03:13:29.252165+00:00",
-   "looked_up": "2026-10-10T17:01:20+00:00",
    "status": "not_found"
   },
   "meatec-batteryintelligence|security|l1": {
@@ -14301,8 +14286,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:54:48.393277+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
+   "expires": "2027-01-30T08:49:03.234874+00:00",
+   "looked_up": "2026-10-26T04:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -16302,8 +16287,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T16:53:30.738430+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
+   "expires": "2027-01-18T20:36:08.911700+00:00",
+   "looked_up": "2026-10-26T04:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18474,8 +18459,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2870,
-  "lookups_today": 8,
+  "lookups_month": 2871,
+  "lookups_today": 9,
   "month": "2026-10"
  }
 }
