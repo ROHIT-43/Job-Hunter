@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T11:47:48.101948+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-30T23:56:33.977016+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -974,8 +974,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T02:38:04.266914+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-23T14:27:10.957305+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:40:45.043916+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-25T17:09:29.190051+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1618,8 +1618,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:36:08.021299+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-30T05:46:45.919389+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2147,6 +2147,11 @@
    "looked_up": "2026-10-11T08:01:20+00:00",
    "status": "not_found"
   },
+  "bangdb|fullstack|l1": {
+   "expires": "2026-11-12T11:04:48.282212+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
+   "status": "not_found"
+  },
   "bank-of-america|swe|l1": {
    "expires": "2026-11-03T03:12:04.193849+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
@@ -2337,11 +2342,6 @@
   "believeglobal|swe|l1": {
    "expires": "2026-10-31T03:52:13.570212+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "berkadia|data|l1": {
-   "expires": "2026-10-26T14:20:20.082704+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "bestex-research-group|swe|l1": {
@@ -3720,8 +3720,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:22:36.527161+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-19T03:12:32.352116+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4182,8 +4182,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T02:20:14.843766+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-20T21:21:04.841878+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4276,11 +4276,6 @@
   "ctrl-plus-z|swe|l1": {
    "expires": "2026-11-05T23:03:44.048916+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
-  },
-  "cube-hub|devops|l1": {
-   "expires": "2026-10-26T14:24:09.181044+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
   "cult.fit|swe|l2": {
@@ -5064,6 +5059,11 @@
   "doyengroup|swe|l1": {
    "expires": "2026-11-05T01:20:33.917274+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "driif-ai|swe|l1": {
+   "expires": "2026-11-14T08:57:44.897547+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "droisys|frontend|l1": {
@@ -6775,11 +6775,6 @@
    "status": "found",
    "year": 2025
   },
-  "genpact|swe|l1": {
-   "expires": "2026-10-26T14:46:26.726880+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
   "genxaitech|erp|l1": {
    "expires": "2026-11-07T08:01:45.599774+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -7256,11 +7251,6 @@
   "gostride-ventures|swe|l1": {
    "expires": "2026-11-08T19:56:04.289338+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
-   "status": "not_found"
-  },
-  "goveva-official|swe|l1": {
-   "expires": "2026-10-26T14:35:14.057469+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
   "gpunet|swe|l1": {
@@ -8056,6 +8046,11 @@
    "looked_up": "2026-10-17T02:01:21+00:00",
    "status": "not_found"
   },
+  "huntingcubeai|data|l1": {
+   "expires": "2026-11-03T01:12:15.314598+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
+   "status": "not_found"
+  },
   "huntingcubeai|frontend|l1": {
    "expires": "2026-11-06T13:29:49.853905+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -8485,11 +8480,6 @@
   "indiasfutureinvestors|swe|l1": {
    "expires": "2026-11-01T12:10:40.686564+00:00",
    "looked_up": "2026-10-19T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "indusnovateur|erp|l1": {
-   "expires": "2026-10-26T14:36:16.603955+00:00",
-   "looked_up": "2026-10-17T04:01:27+00:00",
    "status": "not_found"
   },
   "infai-systems-pvt-ltd|frontend|l1": {
@@ -9153,8 +9143,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:34:22.136927+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-26T03:11:56.469367+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10614,6 +10604,20 @@
    "status": "found",
    "year": 2026
   },
+  "matriofficial|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-31T11:11:48.181734+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "matrix-comsec|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11963,6 +11967,11 @@
    "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
+  "oaknorth-in-india|security|l1": {
+   "expires": "2026-11-10T19:44:47.148017+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
+   "status": "not_found"
+  },
   "oaktree-capital-management|erp|l1": {
    "expires": "2026-11-01T19:59:19.693596+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
@@ -12121,6 +12130,11 @@
   "openstars|frontend|l1": {
    "expires": "2026-10-31T23:13:40.758909+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
+   "status": "not_found"
+  },
+  "opensystems|swe|l1": {
+   "expires": "2026-11-15T00:32:56.119032+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "opentext|erp|l1": {
@@ -12988,8 +13002,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:00:03.420248+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-23T08:30:53.881867+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15036,6 +15050,11 @@
    "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
+  "simple-energy-pvt-ltd|mobile|l1": {
+   "expires": "2026-11-16T02:52:09.150354+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
+   "status": "not_found"
+  },
   "singhania-tableting|swe|l1": {
    "expires": "2026-11-11T07:42:27.091426+00:00",
    "looked_up": "2026-10-25T02:01:27+00:00",
@@ -15785,6 +15804,11 @@
   "superfan-ng|swe|l1": {
    "expires": "2026-11-15T02:31:57.285033+00:00",
    "looked_up": "2026-10-25T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "supersquareai|fullstack|l1": {
+   "expires": "2026-11-14T15:20:44.689895+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "suramyaco|swe|l1": {
@@ -16781,8 +16805,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T02:40:14.543849+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-23T17:12:47.325560+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18534,8 +18558,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T08:16:45.512360+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
+   "expires": "2027-01-26T21:22:00.355447+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18628,6 +18652,11 @@
   "www.linkedin.com-avihs|swe|l1": {
    "expires": "2026-10-29T06:07:17.161934+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
+   "status": "not_found"
+  },
+  "xencia-technology-solutions|swe|l1": {
+   "expires": "2026-11-08T20:59:22.001625+00:00",
+   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "xerox|swe|l1": {
@@ -19061,8 +19090,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2977,
-  "lookups_today": 115,
+  "lookups_month": 2985,
+  "lookups_today": 123,
   "month": "2026-10"
  }
 }
