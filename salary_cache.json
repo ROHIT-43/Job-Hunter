@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:24:29.301183+00:00",
-   "looked_up": "2026-10-26T01:10:14+00:00",
+   "expires": "2027-01-20T23:01:33.977043+00:00",
+   "looked_up": "2026-10-26T02:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3863,11 +3863,6 @@
   "collegedunia|swe|l1": {
    "expires": "2026-11-04T22:39:41.574998+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
-  "colleve|erp|l1": {
-   "expires": "2026-10-26T01:41:38.297671+00:00",
-   "looked_up": "2026-10-11T07:01:20+00:00",
    "status": "not_found"
   },
   "collinearai|swe|l1": {
@@ -8887,8 +8882,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:21:31.678961+00:00",
-   "looked_up": "2026-10-26T01:10:14+00:00",
+   "expires": "2027-01-28T01:23:30.900170+00:00",
+   "looked_up": "2026-10-26T02:01:25+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10359,11 +10354,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "maxval-group-inc.|fullstack|l1": {
-   "expires": "2026-10-26T01:16:32.104997+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
   },
   "maxwell-slitter-industries|swe|l1": {
    "expires": "2026-10-30T16:44:41.948871+00:00",
@@ -14199,11 +14189,6 @@
    "looked_up": "2026-10-25T10:01:24+00:00",
    "status": "not_found"
   },
-  "scoutit-in|frontend|l1": {
-   "expires": "2026-10-26T01:59:55.057476+00:00",
-   "looked_up": "2026-10-06T10:01:43+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|fullstack|l1": {
    "expires": "2026-10-31T08:24:41.837488+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -14321,8 +14306,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T02:21:25.833655+00:00",
-   "looked_up": "2026-10-26T01:10:14+00:00",
+   "expires": "2027-01-19T04:46:00.355412+00:00",
+   "looked_up": "2026-10-26T02:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -16034,9 +16019,24 @@
    "status": "not_found"
   },
   "techolution-mobi|security|l1": {
-   "expires": "2026-10-26T01:59:04.217450+00:00",
-   "looked_up": "2026-10-11T18:01:25+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-17T09:58:35.222226+00:00",
+   "looked_up": "2026-10-26T02:01:25+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 7.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/techolution-overview"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Techolution/salaries/Software-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "techolution-mobi|swe|l1": {
    "basis": "ctc",
@@ -16292,8 +16292,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T15:50:22.331798+00:00",
-   "looked_up": "2026-10-26T01:10:14+00:00",
+   "expires": "2027-01-21T12:22:59.181102+00:00",
+   "looked_up": "2026-10-26T02:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18400,11 +18400,6 @@
    "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
-  "zimmerbiomet|fullstack|l1": {
-   "expires": "2026-10-26T01:48:38.673266+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-04T06:03:01.909462+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -18479,8 +18474,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2864,
-  "lookups_today": 2,
+  "lookups_month": 2865,
+  "lookups_today": 3,
   "month": "2026-10"
  }
 }
