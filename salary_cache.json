@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T18:51:32.714410+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-26T04:07:35.593827+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -309,11 +309,6 @@
   "accentureindia|swe|l3": {
    "expires": "2026-11-11T13:11:09.321031+00:00",
    "looked_up": "2026-10-23T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "accompanyakki|swe|l1": {
-   "expires": "2026-10-26T18:53:10.246736+00:00",
-   "looked_up": "2026-10-09T02:01:20+00:00",
    "status": "not_found"
   },
   "accurisco|swe|l1": {
@@ -964,8 +959,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T02:28:10.206902+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-28T00:33:55.180609+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1019,8 +1014,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:52:51.183064+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-25T08:19:23.950229+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1608,8 +1603,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:53:49.345172+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-24T21:48:01.741983+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2017,6 +2012,11 @@
   "avance-clinical|swe|l1": {
    "expires": "2026-10-27T07:11:35.810569+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
+   "status": "not_found"
+  },
+  "avathonai|mobile|l1": {
+   "expires": "2026-11-09T06:14:14.350244+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "status": "not_found"
   },
   "aventra-group|swe|l1": {
@@ -3720,8 +3720,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T00:30:43.366660+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-21T18:00:55.049622+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3783,11 +3783,6 @@
   "coface|swe|l1": {
    "expires": "2026-11-03T20:41:25.549846+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
-   "status": "not_found"
-  },
-  "coffeebeans-brewinginnovations|data|l1": {
-   "expires": "2026-10-26T18:34:44.093725+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
    "status": "not_found"
   },
   "cofidential|security|l1": {
@@ -4182,8 +4177,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T16:41:43.452718+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-30T10:41:30.106892+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6242,11 +6237,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "firstpick-talent|swe|l1": {
-   "expires": "2026-10-26T18:19:07.620774+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
   },
   "fis|devops|l1": {
    "expires": "2026-11-01T09:28:30.818987+00:00",
@@ -8979,11 +8969,6 @@
    "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
-  "ipaxx-nord-gmbh|frontend|l1": {
-   "expires": "2026-10-26T18:43:17.187622+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "iqra-digital-solutions|swe|l1": {
    "expires": "2026-10-31T22:54:18.025317+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
@@ -9032,6 +9017,22 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/IQVIA-Informatica-Developer-Salaries-E8347_D_KO6,27.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "iqvia|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-19T03:05:59.515217+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 8.0,
    "sources": [
     {
      "title": "glassdoor.co.in",
@@ -9168,8 +9169,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T22:28:33.059180+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-18T08:26:22.170028+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9182,11 +9183,6 @@
   "jark-world|swe|l1": {
    "expires": "2026-11-02T15:17:54.851718+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "jeenasikho-lifecare-private-limited|erp|l1": {
-   "expires": "2026-10-26T18:23:26.029293+00:00",
-   "looked_up": "2026-10-06T08:01:40+00:00",
    "status": "not_found"
   },
   "jenvyqo|swe|l1": {
@@ -10093,8 +10089,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T01:44:20.644624+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-18T10:17:05.703062+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10651,8 +10647,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T06:30:53.891780+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-21T22:58:52.376401+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11079,8 +11075,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T16:54:08.995783+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-29T12:03:56.690454+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13035,8 +13031,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T05:08:42.991822+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-31T10:21:19.193276+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15462,11 +15458,6 @@
    "looked_up": "2026-10-21T03:02:05+00:00",
    "status": "not_found"
   },
-  "sofvare|swe|l1": {
-   "expires": "2026-10-26T18:45:24.191681+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "solarsys-innovations-private-ltd|swe|l1": {
    "expires": "2026-11-02T00:00:56.210743+00:00",
    "looked_up": "2026-10-22T04:01:26+00:00",
@@ -15562,6 +15553,11 @@
   "sonicwall|frontend|l1": {
    "expires": "2026-11-03T04:10:15.333784+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "sorsiri|fullstack|l1": {
+   "expires": "2026-11-07T22:07:29.655279+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "status": "not_found"
   },
   "soti|swe|l2": {
@@ -17293,8 +17289,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T02:46:19.511217+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-22T12:51:28.152206+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18272,8 +18268,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T16:26:40.689315+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-22T17:13:50.515352+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18639,8 +18635,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T21:49:43.696864+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2027-01-26T00:44:01.678362+00:00",
+   "looked_up": "2026-10-26T19:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19166,8 +19162,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 3004,
-  "lookups_today": 142,
+  "lookups_month": 3007,
+  "lookups_today": 145,
   "month": "2026-10"
  }
 }
