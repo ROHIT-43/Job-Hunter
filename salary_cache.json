@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:36:14.543512+00:00",
-   "looked_up": "2026-10-26T01:01:29+00:00",
+   "expires": "2027-01-22T20:24:29.301183+00:00",
+   "looked_up": "2026-10-26T01:10:14+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8579,11 +8579,6 @@
    "looked_up": "2026-10-16T19:01:22+00:00",
    "status": "not_found"
   },
-  "insight-global|data|l1": {
-   "expires": "2026-10-26T01:07:56.588848+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
-   "status": "not_found"
-  },
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8892,8 +8887,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T15:46:40.628265+00:00",
-   "looked_up": "2026-10-26T01:01:29+00:00",
+   "expires": "2027-01-29T12:21:31.678961+00:00",
+   "looked_up": "2026-10-26T01:10:14+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -14326,8 +14321,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T03:31:39.806724+00:00",
-   "looked_up": "2026-10-26T01:01:29+00:00",
+   "expires": "2027-01-30T02:21:25.833655+00:00",
+   "looked_up": "2026-10-26T01:10:14+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -16297,8 +16292,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T20:45:28.206722+00:00",
-   "looked_up": "2026-10-26T01:01:29+00:00",
+   "expires": "2027-01-24T15:50:22.331798+00:00",
+   "looked_up": "2026-10-26T01:10:14+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
