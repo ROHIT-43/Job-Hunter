@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T22:45:13.677565+00:00",
-   "looked_up": "2026-10-25T23:01:28+00:00",
+   "expires": "2027-01-19T12:31:27.044284+00:00",
+   "looked_up": "2026-10-26T00:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8892,8 +8892,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:05:54.859376+00:00",
-   "looked_up": "2026-10-25T23:01:28+00:00",
+   "expires": "2027-01-19T12:32:46.502063+00:00",
+   "looked_up": "2026-10-26T00:01:30+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -11180,11 +11180,6 @@
   "netpuppysagency|frontend|l1": {
    "expires": "2026-10-31T19:13:13.335798+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
-  "netsysconconsulting|mobile|l1": {
-   "expires": "2026-10-25T23:01:40.769343+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
   "networkscience|swe|l1": {
@@ -14331,8 +14326,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T11:55:11.275445+00:00",
-   "looked_up": "2026-10-25T23:01:28+00:00",
+   "expires": "2027-01-30T09:22:56.226812+00:00",
+   "looked_up": "2026-10-26T00:01:30+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -15362,11 +15357,6 @@
    ],
    "status": "found"
   },
-  "svags|swe|l1": {
-   "expires": "2026-10-25T23:53:44.116056+00:00",
-   "looked_up": "2026-10-10T12:01:23+00:00",
-   "status": "not_found"
-  },
   "swanirmit-technologies|swe|l1": {
    "expires": "2026-11-05T19:54:41.913075+00:00",
    "looked_up": "2026-10-20T08:01:29+00:00",
@@ -16307,8 +16297,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:55:52.495309+00:00",
-   "looked_up": "2026-10-25T23:01:28+00:00",
+   "expires": "2027-01-22T09:33:45.958112+00:00",
+   "looked_up": "2026-10-26T00:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18493,9 +18483,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-25",
+  "day": "2026-10-26",
   "lookups_month": 2862,
-  "lookups_today": 52,
+  "lookups_today": 0,
   "month": "2026-10"
  }
 }
