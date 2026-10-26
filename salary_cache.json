@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:27:09.885935+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-31T05:04:36.022125+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -974,8 +974,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T00:15:53.984082+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-18T02:27:03.149418+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T21:22:03.344323+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-24T05:42:52.837496+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1610,6 +1610,20 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "argyll-infotech-inc|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-30T00:36:59.864221+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "arinovaa-labs|swe|l1": {
    "expires": "2026-10-29T22:06:32.188387+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
@@ -1769,11 +1783,6 @@
   "astellaspharmainc|erp|l1": {
    "expires": "2026-11-03T06:10:59.668439+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
-  "astreya|swe|l2": {
-   "expires": "2026-10-26T12:50:18.893057+00:00",
-   "looked_up": "2026-10-12T18:01:24+00:00",
    "status": "not_found"
   },
   "astro-mandeep|erp|l1": {
@@ -3711,8 +3720,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T00:21:03.672405+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-31T01:34:58.955320+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4173,8 +4182,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:50:35.808720+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-20T06:41:01.941630+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5488,6 +5497,11 @@
    "status": "found",
    "year": 2025
   },
+  "equifax|swe|l1": {
+   "expires": "2026-11-15T18:19:22.883705+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
   "erbatech-machinery-private-limited.|swe|l1": {
    "expires": "2026-11-12T06:40:31.753362+00:00",
    "looked_up": "2026-10-24T11:00:03+00:00",
@@ -6138,6 +6152,11 @@
    ],
    "status": "found"
   },
+  "findassign|fullstack|l1": {
+   "expires": "2026-11-03T03:34:03.327129+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
   "findit-bangalore|frontend|l1": {
    "expires": "2026-11-02T13:24:28.206111+00:00",
    "looked_up": "2026-10-15T21:01:37+00:00",
@@ -6695,11 +6714,6 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
-  "gehealthcare|swe|l1": {
-   "expires": "2026-10-26T12:57:27.750977+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7242,6 +7256,11 @@
   "gostride-ventures|fullstack|l1": {
    "expires": "2026-10-28T05:16:21.932585+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
+   "status": "not_found"
+  },
+  "gostride-ventures|swe|l1": {
+   "expires": "2026-11-08T19:56:04.289338+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
   "goveva-official|swe|l1": {
@@ -8337,6 +8356,11 @@
    "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
+  "idrms-technologies-pvt-ltd|erp|l1": {
+   "expires": "2026-11-05T22:42:38.029950+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
   "iepcc-solutions|swe|l1": {
    "expires": "2026-11-02T12:43:08.254667+00:00",
    "looked_up": "2026-10-17T04:01:27+00:00",
@@ -9129,8 +9153,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:11:47.875636+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-22T15:50:11.994317+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -12969,8 +12993,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:16:55.634217+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-21T09:15:51.433901+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -13675,6 +13699,11 @@
   "rbis-technology-pvt-ltd|frontend|l1": {
    "expires": "2026-11-01T19:32:57.536408+00:00",
    "looked_up": "2026-10-24T08:01:22+00:00",
+   "status": "not_found"
+  },
+  "rchilli-inc-|swe|l1": {
+   "expires": "2026-11-15T01:23:05.705618+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
   "rcktechiees|swe|l1": {
@@ -15519,6 +15548,11 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
+  "sourceright|data|l1": {
+   "expires": "2026-11-10T06:30:09.423801+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
   "sourceright|swe|l1": {
    "expires": "2026-11-01T14:45:37.994484+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -16544,11 +16578,6 @@
    "looked_up": "2026-10-11T03:01:24+00:00",
    "status": "not_found"
   },
-  "teknowxa.ai|fullstack|l1": {
-   "expires": "2026-10-26T12:45:07.203229+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "tekwissenindia|erp|l1": {
    "expires": "2026-11-11T06:53:36.763788+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
@@ -16752,8 +16781,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T19:57:00.803814+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
+   "expires": "2027-01-30T21:45:13.027035+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17248,6 +17277,11 @@
   "trinity-unicepts-pvt-ltd-|swe|l1": {
    "expires": "2026-10-27T10:48:14.767687+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "triton-infotech-fzc|data|l1": {
+   "expires": "2026-11-07T05:22:34.029077+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
   "triveni-it|devops|l1": {
@@ -18165,6 +18199,30 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
+  "walmartglobaltechindia|swe|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T16:48:16.347343+00:00",
+   "looked_up": "2026-10-26T13:01:30+00:00",
+   "max_lpa": 32.1,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1417259/walmart-sde-3-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1192867/walmart-se-iii-bangalore/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1675274/walmart-sde-3-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "wastefull-insights|devops|l1": {
    "expires": "2026-11-03T11:45:22.615326+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -18979,8 +19037,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2963,
-  "lookups_today": 101,
+  "lookups_month": 2971,
+  "lookups_today": 109,
   "month": "2026-10"
  }
 }
