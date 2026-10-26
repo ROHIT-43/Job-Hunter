@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:31:27.044284+00:00",
-   "looked_up": "2026-10-26T00:01:30+00:00",
+   "expires": "2027-01-21T03:36:14.543512+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -920,11 +920,6 @@
   "alpinohealthfoods|swe|l2": {
    "expires": "2026-10-31T14:41:47.002417+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
-   "status": "not_found"
-  },
-  "alponent-digital-solutions|data|l1": {
-   "expires": "2026-10-26T00:25:11.079480+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
    "status": "not_found"
   },
   "alstom|erp|l1": {
@@ -4562,6 +4557,11 @@
     }
    ],
    "status": "found"
+  },
+  "deepzin|frontend|l1": {
+   "expires": "2026-11-07T07:36:47.259905+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
+   "status": "not_found"
   },
   "dekhore|mobile|l1": {
    "expires": "2026-11-05T07:39:43.246092+00:00",
@@ -8892,8 +8892,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T12:32:46.502063+00:00",
-   "looked_up": "2026-10-26T00:01:30+00:00",
+   "expires": "2027-01-22T15:46:40.628265+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9564,11 +9564,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "kuwait-food-company-americana|devops|l1": {
-   "expires": "2026-10-26T00:03:29.220489+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
   },
   "lalacompany|fullstack|l1": {
    "expires": "2026-11-01T14:59:13.541708+00:00",
@@ -12350,6 +12345,11 @@
    "looked_up": "2026-10-23T22:15:14+00:00",
    "status": "not_found"
   },
+  "pinion-services-limited|swe|l1": {
+   "expires": "2026-11-13T03:46:16.108231+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
+   "status": "not_found"
+  },
   "pink-gorilla|fullstack|l1": {
    "expires": "2026-11-12T13:12:00.214605+00:00",
    "looked_up": "2026-10-25T00:01:34+00:00",
@@ -14326,8 +14326,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:22:56.226812+00:00",
-   "looked_up": "2026-10-26T00:01:30+00:00",
+   "expires": "2027-01-29T03:31:39.806724+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -16297,8 +16297,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:33:45.958112+00:00",
-   "looked_up": "2026-10-26T00:01:30+00:00",
+   "expires": "2027-01-26T20:45:28.206722+00:00",
+   "looked_up": "2026-10-26T01:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18484,8 +18484,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2862,
-  "lookups_today": 0,
+  "lookups_month": 2864,
+  "lookups_today": 2,
   "month": "2026-10"
  }
 }
