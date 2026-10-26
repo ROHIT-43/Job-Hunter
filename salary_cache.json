@@ -116,6 +116,20 @@
    "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
+  "abc-fitness|data|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-20T08:30:15.972872+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -494,6 +508,11 @@
   "adroit-innovative-india|erp|l1": {
    "expires": "2026-11-13T22:04:39.776623+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
+  "adsparkx|swe|l1": {
+   "expires": "2026-11-05T19:19:21.762948+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
   "adtran|swe|l1": {
@@ -942,6 +961,20 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "alphaspec-consulting-llp|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-18T01:30:59.315405+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "alpinohealthfoods|swe|l2": {
    "expires": "2026-10-31T14:41:47.002417+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
@@ -986,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T17:41:16.407683+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
+   "expires": "2027-01-25T09:07:18.097953+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1310,6 +1343,11 @@
   "anything-anywhere|mobile|l1": {
    "expires": "2026-10-29T07:12:31.307784+00:00",
    "looked_up": "2026-10-10T01:01:20+00:00",
+   "status": "not_found"
+  },
+  "anzo-controls|swe|l1": {
+   "expires": "2026-11-11T18:36:10.825212+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
   "apex-orbital-x|swe|l1": {
@@ -1932,6 +1970,11 @@
    "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
+  "auxilium-global-softech-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-08T19:46:55.123273+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
   "avaloq|devops|l1": {
    "expires": "2026-11-10T20:32:12.661195+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -2519,6 +2562,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "bnyglobal|devops|l1": {
+   "expires": "2026-11-14T21:54:16.485622+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
   },
   "bnyglobal|swe|l2": {
    "basis": "ctc",
@@ -3561,11 +3609,6 @@
    "looked_up": "2026-10-17T03:01:23+00:00",
    "status": "not_found"
   },
-  "cloudesign|mobile|l1": {
-   "expires": "2026-10-26T09:23:31.880822+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
-  },
   "cloudflare|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -4094,8 +4137,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T14:04:22.409844+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
+   "expires": "2027-01-21T03:18:18.327073+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4837,11 +4880,6 @@
    "looked_up": "2026-10-09T17:01:22+00:00",
    "status": "not_found"
   },
-  "digireach|swe|l1": {
-   "expires": "2026-10-26T09:18:27.747493+00:00",
-   "looked_up": "2026-10-18T04:01:29+00:00",
-   "status": "not_found"
-  },
   "digital-business-people|swe|l3": {
    "expires": "2026-10-29T11:36:12.586100+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -5216,6 +5254,22 @@
    "expires": "2026-11-06T01:39:24.126993+00:00",
    "looked_up": "2026-10-18T15:01:22+00:00",
    "status": "not_found"
+  },
+  "embitel-technologies-india|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-20T15:29:12.090193+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 6.2,
+   "min_lpa": 6.2,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Embitel-Technologies/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "emerson|erp|l1": {
    "expires": "2026-10-28T01:04:19.676185+00:00",
@@ -8955,8 +9009,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T20:54:36.232721+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
+   "expires": "2027-01-22T00:30:09.575627+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9712,10 +9766,31 @@
    ],
    "status": "found"
   },
+  "levi-strauss-&amp;-co-|swe|l1": {
+   "expires": "2026-11-10T02:02:05.533764+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
   "levi-strauss-&amp;-co-|swe|l2": {
    "expires": "2026-11-03T20:28:28.895239+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
+  },
+  "levi-strauss-&amp;-co-|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-19T05:14:40.877164+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 28.3,
+   "min_lpa": 28.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/pl-pl/companies/levi-strauss-and-co/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "lexhive.us|swe|l1": {
    "expires": "2026-10-31T12:35:53.286567+00:00",
@@ -10622,6 +10697,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "metro-services-private-limited|devops|l1": {
+   "expires": "2026-11-04T00:07:39.773709+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
   "mettlertoledo|mobile|l1": {
    "expires": "2026-11-02T13:46:39.521395+00:00",
    "looked_up": "2026-10-13T21:01:25+00:00",
@@ -11174,11 +11254,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "neer-info-solutions|erp|l1": {
-   "expires": "2026-10-26T09:12:20.596768+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
   },
   "neer-info-solutions|swe|l1": {
    "expires": "2026-11-04T04:08:05.356114+00:00",
@@ -11884,6 +11959,22 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "opentext|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T16:56:29.594450+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 6.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/opentext-technologies-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "opentext|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12078,6 +12169,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "palvex-tech-opc-pvt-ltd|fullstack|l1": {
+   "expires": "2026-11-03T03:12:19.952471+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
   },
   "paper-plane-solutions|fullstack|l3": {
    "expires": "2026-10-27T13:46:35.203749+00:00",
@@ -12730,10 +12826,19 @@
    "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
-  "prophecytechs|security|l1": {
-   "expires": "2026-10-26T09:08:12.516773+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
-   "status": "not_found"
+  "property-solvers|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-21T18:27:44.776871+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 6.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "prospecta-software|devops|l1": {
    "expires": "2026-10-27T13:45:42.337712+00:00",
@@ -12998,11 +13103,6 @@
   "qbyss|frontend|l1": {
    "expires": "2026-11-15T03:04:21.966123+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
-   "status": "not_found"
-  },
-  "qbyss|fullstack|l1": {
-   "expires": "2026-10-26T10:00:44.519151+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
   "qbyss|swe|l1": {
@@ -15567,6 +15667,11 @@
    "status": "found",
    "year": 2021
   },
+  "swipeloan|swe|l1": {
+   "expires": "2026-11-03T01:12:40.788231+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
   "swiss-re|swe|l1": {
    "expires": "2026-11-04T00:58:37.812708+00:00",
    "looked_up": "2026-10-21T18:01:33+00:00",
@@ -16487,8 +16592,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T12:03:59.762191+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
+   "expires": "2027-01-26T02:22:56.460649+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18067,6 +18172,11 @@
    "looked_up": "2026-10-15T05:01:24+00:00",
    "status": "not_found"
   },
+  "win-quoter|frontend|l1": {
+   "expires": "2026-11-15T11:56:57.575530+00:00",
+   "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
   "win-solutions|swe|l1": {
    "expires": "2026-10-30T05:38:50.617690+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
@@ -18689,8 +18799,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2917,
-  "lookups_today": 55,
+  "lookups_month": 2929,
+  "lookups_today": 67,
   "month": "2026-10"
  }
 }
