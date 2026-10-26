@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:04:36.022125+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-21T10:50:35.129693+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -974,8 +974,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T02:27:03.149418+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-25T08:36:09.945996+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:42:52.837496+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-29T17:13:43.825163+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1585,6 +1585,11 @@
    "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
+  "arcadiahq|swe|l2": {
+   "expires": "2026-11-13T04:46:43.144908+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
+   "status": "not_found"
+  },
   "arcanaanalytics|devops|l1": {
    "expires": "2026-11-06T07:55:14.762219+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
@@ -1613,8 +1618,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T00:36:59.864221+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-24T05:02:10.991553+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3720,8 +3725,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:34:58.955320+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-24T15:31:51.434180+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4182,8 +4187,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T06:41:01.941630+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-18T11:45:54.365319+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -7353,6 +7358,11 @@
    "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
+  "growthed-in|mobile|l1": {
+   "expires": "2026-11-04T23:23:43.497598+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
+   "status": "not_found"
+  },
   "groww.in|security|l2": {
    "basis": "base",
    "confidence": "low",
@@ -9153,8 +9163,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T15:50:11.994317+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-18T16:57:25.416283+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -12993,8 +13003,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T09:15:51.433901+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-24T05:09:12.196284+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15066,6 +15076,11 @@
    "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
+  "sisir-radar|swe|l1": {
+   "expires": "2026-11-05T02:20:35.112903+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
+   "status": "not_found"
+  },
   "sisnolabs|mobile|l1": {
    "expires": "2026-10-29T18:56:01.281289+00:00",
    "looked_up": "2026-10-17T12:01:27+00:00",
@@ -16781,8 +16796,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:45:13.027035+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
+   "expires": "2027-01-31T00:10:59.372022+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17236,6 +17251,11 @@
   "trexquant-investment-lp|swe|l1": {
    "expires": "2026-11-10T05:48:42.370230+00:00",
    "looked_up": "2026-10-22T18:01:28+00:00",
+   "status": "not_found"
+  },
+  "trigent-professional-services|security|l1": {
+   "expires": "2026-11-13T21:18:18.006276+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
   "trigent-professional-services|swe|l1": {
@@ -17865,6 +17885,11 @@
   "vericence|devops|l1": {
    "expires": "2026-11-06T10:57:49.311754+00:00",
    "looked_up": "2026-10-16T23:01:23+00:00",
+   "status": "not_found"
+  },
+  "vericoreapi|frontend|l1": {
+   "expires": "2026-11-16T09:56:56.404070+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
   "veritymd|swe|l1": {
@@ -18521,6 +18546,20 @@
    "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
+  "workelate|fullstack|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-27T17:24:22.617482+00:00",
+   "looked_up": "2026-10-26T13:14:58+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "workowon|swe|l1": {
    "expires": "2026-11-11T02:04:12.715874+00:00",
    "looked_up": "2026-10-24T17:01:32+00:00",
@@ -19037,8 +19076,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2971,
-  "lookups_today": 109,
+  "lookups_month": 2976,
+  "lookups_today": 114,
   "month": "2026-10"
  }
 }
