@@ -496,6 +496,11 @@
    "status": "found",
    "year": 2026
   },
+  "adroit-innovative-india|erp|l1": {
+   "expires": "2026-11-13T22:04:39.776623+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "adtran|swe|l1": {
    "expires": "2026-10-29T18:48:14.817275+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
@@ -893,6 +898,11 @@
    ],
    "status": "found"
   },
+  "alphabin|devops|l1": {
+   "expires": "2026-11-04T12:25:07.060507+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "alphabin|swe|l1": {
    "expires": "2026-10-28T14:23:17.316554+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -966,8 +976,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T23:25:10.616306+00:00",
-   "looked_up": "2026-10-26T05:01:26+00:00",
+   "expires": "2027-01-18T06:08:52.305943+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1327,11 +1337,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "appinventiv|swe|l1": {
-   "expires": "2026-10-26T05:54:09.126812+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "appleelectroniks|swe|l1": {
    "expires": "2026-10-27T18:32:22.855329+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
@@ -1555,11 +1560,6 @@
   "aritioninfotech|swe|l1": {
    "expires": "2026-11-10T05:41:50.749275+00:00",
    "looked_up": "2026-10-22T20:01:26+00:00",
-   "status": "not_found"
-  },
-  "arm|devops|l1": {
-   "expires": "2026-10-26T05:15:54.678945+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
    "status": "not_found"
   },
   "arm|swe|l1": {
@@ -3325,6 +3325,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "chalhoubgroup|data|l1": {
+   "expires": "2026-11-05T17:20:05.401233+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "chanax|frontend|l1": {
    "expires": "2026-11-05T01:21:27.914520+00:00",
    "looked_up": "2026-10-22T18:01:28+00:00",
@@ -4311,6 +4316,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "cygnus-professionals-inc-|devops|l1": {
+   "expires": "2026-11-09T02:48:30.462986+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "cyient|data|l1": {
    "expires": "2026-10-28T16:01:19.004314+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -4740,11 +4750,6 @@
   "dhruv-soft|swe|l1": {
    "expires": "2026-11-09T14:37:18.667684+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "diamondatelierinc|frontend|l1": {
-   "expires": "2026-10-26T05:17:15.204884+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "digicert-inc-|swe|l1": {
@@ -6663,6 +6668,11 @@
    "status": "found",
    "year": 2026
   },
+  "ggst-innovations-private-limited|data|l1": {
+   "expires": "2026-11-02T22:45:12.011734+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "giriraj-digital|swe|l1": {
    "expires": "2026-10-26T15:15:10.686291+00:00",
    "looked_up": "2026-10-16T07:01:27+00:00",
@@ -7835,11 +7845,6 @@
    "looked_up": "2026-10-11T19:01:18+00:00",
    "status": "not_found"
   },
-  "huntingcubeai|swe|l1": {
-   "expires": "2026-10-26T05:47:44.346449+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "huntingcubeai|swe|l2": {
    "expires": "2026-11-06T08:45:41.392534+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -8891,8 +8896,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T12:29:08.645558+00:00",
-   "looked_up": "2026-10-26T05:01:26+00:00",
+   "expires": "2027-01-30T17:58:51.898261+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9070,11 +9075,6 @@
   "joinsaarthi|erp|l1": {
    "expires": "2026-11-08T05:37:31.017852+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "jpmorganchase|data|l3": {
-   "expires": "2026-10-26T05:42:10.654122+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
    "status": "not_found"
   },
   "jpmorganchase|devops|l2": {
@@ -9602,6 +9602,11 @@
   "lazer-ken-it-services-india-private-limited|swe|l1": {
    "expires": "2026-11-01T15:05:14.183638+00:00",
    "looked_up": "2026-10-21T08:01:34+00:00",
+   "status": "not_found"
+  },
+  "leadsoc-technologies-india-pvt-ltd|swe|l2": {
+   "expires": "2026-11-09T00:40:19.765034+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "learn-with-anything|swe|l1": {
@@ -10981,6 +10986,11 @@
    "looked_up": "2026-10-12T16:01:29+00:00",
    "status": "not_found"
   },
+  "nazztec|erp|l1": {
+   "expires": "2026-11-08T12:30:41.284688+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "ncratleos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11396,6 +11406,22 @@
     {
      "title": "next.levels.fyi",
      "uri": "https://next.levels.fyi/companies/northern-trust/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "novactech|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-19T11:35:29.909053+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 1.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/novac-technology-solutions-salaries/software-engineer-trainee"
     }
    ],
    "status": "found",
@@ -12700,6 +12726,26 @@
    "looked_up": "2026-10-21T20:01:26+00:00",
    "status": "not_found"
   },
+  "purestorage|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-17T06:53:30.494461+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "max_lpa": 27.0,
+   "min_lpa": 27.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/7013990/"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/pure-storage"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "purple-drive|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -13314,6 +13360,11 @@
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-10-28T15:15:10.782099+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "real-time-applications-center|frontend|l1": {
+   "expires": "2026-11-06T03:19:05.239975+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "real-time-applications-center|mobile|l1": {
@@ -14305,8 +14356,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:36:46.929295+00:00",
-   "looked_up": "2026-10-26T05:01:26+00:00",
+   "expires": "2027-01-30T06:51:54.236200+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14443,6 +14494,11 @@
   "sideglobal|devops|l1": {
    "expires": "2026-10-30T21:03:22.743233+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
+   "status": "not_found"
+  },
+  "sidhyati-technology-solutions-private-limited|mobile|l1": {
+   "expires": "2026-11-03T22:02:50.491525+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "siemens-energy|security|l1": {
@@ -14589,6 +14645,11 @@
   "signifycompany|swe|l1": {
    "expires": "2026-11-05T02:50:58.632197+00:00",
    "looked_up": "2026-10-16T11:01:36+00:00",
+   "status": "not_found"
+  },
+  "siiindia|swe|l1": {
+   "expires": "2026-11-07T09:16:52.434183+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "silicon-pin|swe|l1": {
@@ -16301,8 +16362,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:25:04.053938+00:00",
-   "looked_up": "2026-10-26T05:01:26+00:00",
+   "expires": "2027-01-29T12:39:43.085954+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -16844,6 +16905,11 @@
    "looked_up": "2026-10-25T16:01:25+00:00",
    "status": "not_found"
   },
+  "turium-ai|mobile|l1": {
+   "expires": "2026-11-10T09:45:07.056969+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
   "turtletechtribe|erp|l1": {
    "expires": "2026-11-12T06:59:10.279336+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -16914,6 +16980,11 @@
   "ubs|data|l1": {
    "expires": "2026-11-01T04:37:15.185130+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "ubs|erp|l1": {
+   "expires": "2026-11-09T06:36:28.809451+00:00",
+   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "ubuy-india|devops|l1": {
@@ -18473,8 +18544,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2874,
-  "lookups_today": 12,
+  "lookups_month": 2888,
+  "lookups_today": 26,
   "month": "2026-10"
  }
 }
