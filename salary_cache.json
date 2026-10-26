@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:28:00.334244+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-21T05:55:31.809016+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -954,8 +954,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T17:14:04.548325+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-30T23:56:07.846205+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1009,8 +1009,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T09:15:40.079082+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-23T06:06:50.343937+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1598,8 +1598,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T12:09:20.476685+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-23T13:08:59.882617+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3755,8 +3755,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T00:48:32.772653+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-31T07:34:02.470712+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4212,8 +4212,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:50:35.293119+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-23T21:24:07.235520+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6818,11 +6818,6 @@
   "getronics|erp|l1": {
    "expires": "2026-10-29T05:20:47.734820+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "getsupermoney|swe|l1": {
-   "expires": "2026-10-26T20:14:18.548221+00:00",
-   "looked_up": "2026-10-06T17:02:30+00:00",
    "status": "not_found"
   },
   "getvisitapp|fullstack|l1": {
@@ -10124,8 +10119,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:18:55.562667+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-30T10:31:27.768247+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10682,8 +10677,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T09:24:49.829698+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-27T10:38:17.739359+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11110,8 +11105,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T14:53:19.291590+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-26T12:26:09.044947+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13061,8 +13056,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T23:36:56.998853+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-18T13:26:02.603052+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15626,11 +15621,6 @@
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
-  "southwest-airlines|swe|l1": {
-   "expires": "2026-10-26T20:33:20.119154+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
-   "status": "not_found"
-  },
   "sozomo-technology|swe|l1": {
    "expires": "2026-10-28T15:13:42.183567+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -17314,8 +17304,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T23:32:40.595549+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-27T00:55:41.396050+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18293,8 +18283,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T16:31:29.076615+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-24T15:09:31.938838+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18660,8 +18650,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:18:29.736475+00:00",
-   "looked_up": "2026-10-26T20:01:24+00:00",
+   "expires": "2027-01-27T01:00:59.817660+00:00",
+   "looked_up": "2026-10-26T21:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
