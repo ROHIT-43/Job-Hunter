@@ -966,8 +966,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:18:51.152196+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
+   "expires": "2027-01-17T23:25:10.616306+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1231,11 +1231,6 @@
     }
    ],
    "status": "found"
-  },
-  "anewswire|fullstack|l1": {
-   "expires": "2026-10-26T04:58:47.131514+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
   },
   "angelone|mobile|l1": {
    "basis": "ctc",
@@ -3521,11 +3516,6 @@
    "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
-  "clicksoftsolutions|fullstack|l1": {
-   "expires": "2026-10-26T04:50:09.076048+00:00",
-   "looked_up": "2026-10-06T15:01:42+00:00",
-   "status": "not_found"
-  },
   "clinisys|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4264,6 +4254,11 @@
   "cxo-magazine-global|swe|l1": {
    "expires": "2026-10-26T13:25:58.808597+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "cxoinc|swe|l1": {
+   "expires": "2026-11-02T06:58:51.973598+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "status": "not_found"
   },
   "cyber-infrastructure|mobile|l1": {
@@ -8096,6 +8091,30 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "idemiagroup|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-23T01:31:43.564665+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/idemia-salaries/associate-software-engineer/noida-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/idemia-salaries/fresher"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/IDEMIA-Associate-Software-Engineer-Salaries-E1835341_D_KO7,34.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "idfcfirstbank|data|l1": {
    "expires": "2026-11-06T16:43:26.836245+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
@@ -8471,11 +8490,6 @@
   "infovision|fullstack|l1": {
    "expires": "2026-10-30T12:15:59.805667+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "infovision|mobile|l1": {
-   "expires": "2026-10-26T04:20:18.539249+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "infovision|swe|l1": {
@@ -8877,8 +8891,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:48:47.236019+00:00",
-   "looked_up": "2026-10-26T04:01:24+00:00",
+   "expires": "2027-01-17T12:29:08.645558+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10090,6 +10104,11 @@
   "manevaconsulting|erp|l1": {
    "expires": "2026-11-02T22:45:55.534913+00:00",
    "looked_up": "2026-10-15T04:01:24+00:00",
+   "status": "not_found"
+  },
+  "manevaconsulting|swe|l1": {
+   "expires": "2026-11-05T07:39:46.157121+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "status": "not_found"
   },
   "marduk-technologies|swe|l1": {
@@ -14286,8 +14305,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T08:49:03.234874+00:00",
-   "looked_up": "2026-10-26T04:01:24+00:00",
+   "expires": "2027-01-29T13:36:46.929295+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -15570,11 +15589,6 @@
    "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
-  "talent-master1|swe|l1": {
-   "expires": "2026-10-26T04:29:56.783282+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
-   "status": "not_found"
-  },
   "talent-matics|frontend|l1": {
    "expires": "2026-10-28T11:03:40.835876+00:00",
    "looked_up": "2026-10-09T08:01:20+00:00",
@@ -16287,8 +16301,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T20:36:08.911700+00:00",
-   "looked_up": "2026-10-26T04:01:24+00:00",
+   "expires": "2027-01-29T06:25:04.053938+00:00",
+   "looked_up": "2026-10-26T05:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18459,8 +18473,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2871,
-  "lookups_today": 9,
+  "lookups_month": 2874,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
