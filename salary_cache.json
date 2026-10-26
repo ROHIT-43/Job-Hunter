@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T23:56:33.977016+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-24T05:33:49.296647+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -182,11 +182,6 @@
   "academik-ai|fullstack|l1": {
    "expires": "2026-11-02T18:43:38.677744+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
-   "status": "not_found"
-  },
-  "academy-of-sciences-of-the-czech-republic|swe|l1": {
-   "expires": "2026-10-26T15:30:20.652760+00:00",
-   "looked_up": "2026-10-16T00:01:34+00:00",
    "status": "not_found"
   },
   "acadvizen-digital-marketing-institute|swe|l1": {
@@ -974,8 +969,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T14:27:10.957305+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-29T17:27:51.913054+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1029,8 +1024,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T17:09:29.190051+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-23T00:04:56.523448+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1618,8 +1613,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T05:46:45.919389+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-24T17:08:30.377669+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3720,8 +3715,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T03:12:32.352116+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-23T18:01:30.637064+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4182,8 +4177,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:21:04.841878+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-21T00:01:59.290758+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4918,6 +4913,11 @@
   "digiletechnologies|swe|l1": {
    "expires": "2026-10-27T20:27:00.199756+00:00",
    "looked_up": "2026-10-09T17:01:22+00:00",
+   "status": "not_found"
+  },
+  "digital-business-people|swe|l1": {
+   "expires": "2026-11-06T18:45:18.747972+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
   "digital-business-people|swe|l3": {
@@ -6851,11 +6851,6 @@
   "ggst-innovations-private-limited|data|l1": {
    "expires": "2026-11-02T22:45:12.011734+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "giriraj-digital|swe|l1": {
-   "expires": "2026-10-26T15:15:10.686291+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "gistimpact|data|l1": {
@@ -8805,6 +8800,26 @@
    ],
    "status": "found"
   },
+  "innovaccer|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T18:28:03.777649+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 22.0,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-innovaccer-pay"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/innovaccer/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "innovaesi|data|l1": {
    "expires": "2026-10-30T06:06:36.815682+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -9143,8 +9158,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:11:56.469367+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-22T22:24:13.839716+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10607,8 +10622,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T11:11:48.181734+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-18T20:52:42.581063+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -10979,11 +10994,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mind-over-matter-technologies|fullstack|l1": {
-   "expires": "2026-10-26T15:57:50.684061+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
-   "status": "not_found"
   },
   "mindset-consulting-llc|erp|l1": {
    "expires": "2026-10-30T08:42:22.322202+00:00",
@@ -11783,11 +11793,6 @@
   "novotech|swe|l2": {
    "expires": "2026-11-05T15:33:02.216395+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "nrconsultingllc|erp|l1": {
-   "expires": "2026-10-26T15:39:11.325103+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
    "status": "not_found"
   },
   "nsr-information-systems|frontend|l1": {
@@ -13002,8 +13007,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:30:53.881867+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-30T07:08:43.068940+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -13875,11 +13880,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "reliance-intelligence|mobile|l1": {
-   "expires": "2026-10-26T15:43:38.628846+00:00",
-   "looked_up": "2026-10-14T06:01:27+00:00",
-   "status": "not_found"
-  },
   "reliaquest|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -14163,11 +14163,6 @@
    "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
-  "rptechindia|erp|l1": {
-   "expires": "2026-10-26T15:27:17.414442+00:00",
-   "looked_up": "2026-10-18T05:01:24+00:00",
-   "status": "not_found"
-  },
   "rsm-us-llp|swe|l1": {
    "expires": "2026-10-30T14:57:17.828185+00:00",
    "looked_up": "2026-10-20T18:01:29+00:00",
@@ -14312,6 +14307,11 @@
   "saeculumsolutions|frontend|l1": {
    "expires": "2026-11-11T19:50:34.683562+00:00",
    "looked_up": "2026-10-23T15:01:32+00:00",
+   "status": "not_found"
+  },
+  "safartrak|swe|l1": {
+   "expires": "2026-11-08T16:01:15.207348+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
   "sage-software|swe|l1": {
@@ -16805,8 +16805,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T17:12:47.325560+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-24T04:59:10.178947+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17323,6 +17323,11 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
+  "trucktec|swe|l1": {
+   "expires": "2026-11-16T03:11:37.816120+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
+   "status": "not_found"
+  },
   "trueidofficial|swe|l1": {
    "expires": "2026-11-02T04:05:10.938059+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -17351,11 +17356,6 @@
   "trutalent-ai|mobile|l1": {
    "expires": "2026-10-27T12:01:11.950411+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "truveta|fullstack|l1": {
-   "expires": "2026-10-26T15:26:47.116343+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
   "truveta|swe|l1": {
@@ -17468,6 +17468,11 @@
   "ubuy-india|devops|l1": {
    "expires": "2026-11-07T11:56:08.167637+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
+   "status": "not_found"
+  },
+  "udshaa|data|l1": {
+   "expires": "2026-11-13T08:55:09.072149+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
   "ueducation|fullstack|l1": {
@@ -18520,6 +18525,11 @@
    "looked_up": "2026-10-09T16:01:27+00:00",
    "status": "not_found"
   },
+  "wolters-kluwer|devops|l1": {
+   "expires": "2026-11-07T21:33:44.763024+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
+   "status": "not_found"
+  },
   "wolters-kluwer|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18558,8 +18568,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:22:00.355447+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
+   "expires": "2027-01-22T15:55:07.377795+00:00",
+   "looked_up": "2026-10-26T16:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18819,11 +18829,6 @@
   "zag-services|fullstack|l1": {
    "expires": "2026-10-26T21:58:35.858822+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "zarf-studios|swe|l1": {
-   "expires": "2026-10-26T15:48:16.995609+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
   "zealantconsulting|swe|l3": {
@@ -19090,8 +19095,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2985,
-  "lookups_today": 123,
+  "lookups_month": 2991,
+  "lookups_today": 129,
   "month": "2026-10"
  }
 }
