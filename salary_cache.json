@@ -986,8 +986,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T13:31:39.483249+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
+   "expires": "2027-01-23T17:41:16.407683+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2222,6 +2222,11 @@
    "looked_up": "2026-10-11T20:01:22+00:00",
    "status": "not_found"
   },
+  "bayer|security|l1": {
+   "expires": "2026-11-11T22:14:00.020485+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
+  },
   "bayone-solutions|swe|l1": {
    "expires": "2026-11-02T14:50:24.960893+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -2250,11 +2255,6 @@
   "bdoinindia|security|l1": {
    "expires": "2026-11-05T22:25:42.957395+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "bds-ai-digital-solutions-pvt-ltd|data|l1": {
-   "expires": "2026-10-26T08:47:39.038840+00:00",
-   "looked_up": "2026-10-10T11:01:20+00:00",
    "status": "not_found"
   },
   "believeglobal|swe|l1": {
@@ -4094,8 +4094,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T17:27:37.252887+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
+   "expires": "2027-01-29T14:04:22.409844+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4804,11 +4804,6 @@
   "digicert-inc-|swe|l1": {
    "expires": "2026-11-01T16:42:48.602824+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "digichorus-technologies-private-limited|swe|l1": {
-   "expires": "2026-10-26T08:42:15.750242+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
    "status": "not_found"
   },
   "digihelic-solutions-pvt-ltd|erp|l1": {
@@ -7663,6 +7658,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "hitachi-digital-services|swe|l1": {
+   "expires": "2026-11-15T01:39:04.973727+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
+  },
   "hitachi-vantara|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -8955,8 +8955,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T14:43:00.886433+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
+   "expires": "2027-01-18T20:54:36.232721+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9711,6 +9711,11 @@
     }
    ],
    "status": "found"
+  },
+  "levi-strauss-&amp;-co-|swe|l2": {
+   "expires": "2026-11-03T20:28:28.895239+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
   },
   "lexhive.us|swe|l1": {
    "expires": "2026-10-31T12:35:53.286567+00:00",
@@ -10542,11 +10547,6 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
-  "medpace|data|l1": {
-   "expires": "2026-10-26T08:31:54.270358+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "medpace|devops|l1": {
    "expires": "2026-10-31T10:21:32.814367+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -10852,6 +10852,11 @@
   "monospear|swe|l1": {
    "expires": "2026-11-01T05:03:06.130149+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "monty-mobile|swe|l1": {
+   "expires": "2026-11-04T15:29:13.804074+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
   "moonstack-co-in|frontend|l1": {
@@ -12500,11 +12505,6 @@
    "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
-  "plutas-analytics|swe|l1": {
-   "expires": "2026-10-26T08:23:26.963597+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "pnazo|frontend|l1": {
    "expires": "2026-11-07T21:32:10.740022+00:00",
    "looked_up": "2026-10-18T20:01:25+00:00",
@@ -13906,6 +13906,11 @@
    "status": "found",
    "year": 2026
   },
+  "rudraitnetworks|frontend|l1": {
+   "expires": "2026-11-08T15:28:57.223165+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
+  },
   "ruloans-distribution-services-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-07T03:44:17.073067+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -15141,6 +15146,11 @@
    "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
+  "solvex-solutions|data|l1": {
+   "expires": "2026-11-06T11:04:05.953138+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
+  },
   "solvex-solutions|devops|l1": {
    "expires": "2026-10-30T19:40:25.201760+00:00",
    "looked_up": "2026-10-12T14:01:35+00:00",
@@ -15357,6 +15367,11 @@
   "stalwart-info|swe|l1": {
    "expires": "2026-10-27T11:10:49.181952+00:00",
    "looked_up": "2026-10-13T19:01:28+00:00",
+   "status": "not_found"
+  },
+  "starclinch|swe|l1": {
+   "expires": "2026-11-14T05:32:11.176731+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
   "startupstorymedia|swe|l1": {
@@ -16472,8 +16487,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:44:27.273608+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
+   "expires": "2027-01-22T12:03:59.762191+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17526,6 +17541,11 @@
   "vericence|devops|l1": {
    "expires": "2026-11-06T10:57:49.311754+00:00",
    "looked_up": "2026-10-16T23:01:23+00:00",
+   "status": "not_found"
+  },
+  "veritymd|swe|l1": {
+   "expires": "2026-11-10T01:23:07.511586+00:00",
+   "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
   "vertafore|swe|l2": {
@@ -18669,8 +18689,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2909,
-  "lookups_today": 47,
+  "lookups_month": 2917,
+  "lookups_today": 55,
   "month": "2026-10"
  }
 }
