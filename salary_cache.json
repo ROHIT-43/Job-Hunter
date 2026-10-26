@@ -540,8 +540,8 @@
   "aervon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T23:01:33.977043+00:00",
-   "looked_up": "2026-10-26T02:01:25+00:00",
+   "expires": "2027-01-19T17:42:14.437508+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5109,6 +5109,11 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
+  "effulgent-inc|swe|l1": {
+   "expires": "2026-11-11T06:24:14.480621+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
+   "status": "not_found"
+  },
   "eglogics-softech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6820,11 +6825,6 @@
   "gnext-data-solutions|swe|l1": {
    "expires": "2026-11-07T17:25:50.865392+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "go-scopify|frontend|l1": {
-   "expires": "2026-10-26T02:52:22.906690+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "go-unicrew|mobile|l1": {
@@ -8882,8 +8882,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:23:30.900170+00:00",
-   "looked_up": "2026-10-26T02:01:25+00:00",
+   "expires": "2027-01-22T17:03:46.216312+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -11883,11 +11883,6 @@
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "origin-autonomy|qa|l1": {
-   "expires": "2026-10-26T02:02:05.650208+00:00",
-   "looked_up": "2026-10-06T07:02:30+00:00",
-   "status": "not_found"
-  },
   "osf-digital|swe|l1": {
    "expires": "2026-11-06T10:32:51.090972+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -14306,8 +14301,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T04:46:00.355412+00:00",
-   "looked_up": "2026-10-26T02:01:25+00:00",
+   "expires": "2027-01-21T02:54:48.393277+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -15074,11 +15069,6 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
-  "sourceright|frontend|l1": {
-   "expires": "2026-10-26T02:25:53.525592+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "sourceright|swe|l1": {
    "expires": "2026-11-01T14:45:37.994484+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
@@ -15565,6 +15555,21 @@
    "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
+  "talemexa-private-limited|frontend|l1": {
+   "expires": "2026-11-07T14:34:46.497295+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
+   "status": "not_found"
+  },
+  "talemexa-private-limited|mobile|l1": {
+   "expires": "2026-11-02T18:58:39.882844+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
+   "status": "not_found"
+  },
+  "talemexa-private-limited|swe|l1": {
+   "expires": "2026-11-08T21:11:52.149436+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
+   "status": "not_found"
+  },
   "talent-for-professionals|swe|l1": {
    "expires": "2026-11-02T19:40:07.828023+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -16003,6 +16008,11 @@
    "looked_up": "2026-10-12T07:01:26+00:00",
    "status": "not_found"
   },
+  "technometics|swe|l1": {
+   "expires": "2026-11-10T16:41:36.293035+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
+   "status": "not_found"
+  },
   "technonex-software-development-partner-for-healthcare-saas-leaders|swe|l1": {
    "expires": "2026-11-04T10:49:16.751371+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
@@ -16292,8 +16302,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:22:59.181102+00:00",
-   "looked_up": "2026-10-26T02:01:25+00:00",
+   "expires": "2027-01-18T16:53:30.738430+00:00",
+   "looked_up": "2026-10-26T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18190,11 +18200,6 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
-  "yumzip|swe|l1": {
-   "expires": "2026-10-26T02:43:09.002854+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "zag-services|fullstack|l1": {
    "expires": "2026-10-26T21:58:35.858822+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -18395,11 +18400,6 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
-  "zettamine-labs|erp|l1": {
-   "expires": "2026-10-26T02:03:26.853753+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
-   "status": "not_found"
-  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-04T06:03:01.909462+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -18474,8 +18474,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2865,
-  "lookups_today": 3,
+  "lookups_month": 2870,
+  "lookups_today": 8,
   "month": "2026-10"
  }
 }
