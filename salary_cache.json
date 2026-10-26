@@ -626,6 +626,11 @@
    "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
+  "agivanttech|fullstack|l1": {
+   "expires": "2026-11-03T00:01:31.105418+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
+   "status": "not_found"
+  },
   "agrocorp-international|swe|l1": {
    "expires": "2026-10-31T10:43:31.888372+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
@@ -976,8 +981,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T06:08:52.305943+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
+   "expires": "2027-01-25T14:31:50.389330+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1340,11 +1345,6 @@
   "appleelectroniks|swe|l1": {
    "expires": "2026-10-27T18:32:22.855329+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
-   "status": "not_found"
-  },
-  "applen-solutions|swe|l1": {
-   "expires": "2026-10-26T06:11:33.864596+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "apple|devops|l1": {
@@ -4080,6 +4080,20 @@
    "expires": "2026-11-11T21:47:31.057462+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
+  },
+  "cosmostechnologiesusa|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T21:21:56.549450+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "coupa|security|l1": {
    "expires": "2026-10-26T21:57:14.911625+00:00",
@@ -7292,6 +7306,11 @@
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
+  "happiest-minds-technologies|data|l1": {
+   "expires": "2026-11-08T18:19:56.797384+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
+   "status": "not_found"
+  },
   "hari-om-thalassic-private-limited|fullstack|l1": {
    "expires": "2026-11-02T06:13:03.473230+00:00",
    "looked_up": "2026-10-17T04:01:27+00:00",
@@ -8276,6 +8295,11 @@
    "status": "found",
    "year": 2025
   },
+  "infocus-technologies-pvt-ltd|erp|l1": {
+   "expires": "2026-11-12T23:31:29.370247+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
+   "status": "not_found"
+  },
   "infolitz-software|swe|l1": {
    "expires": "2026-11-09T01:55:30.055937+00:00",
    "looked_up": "2026-10-20T20:01:26+00:00",
@@ -8896,8 +8920,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T17:58:51.898261+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
+   "expires": "2027-01-17T17:38:37.761998+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -14356,8 +14380,8 @@
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:51:54.236200+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
+   "expires": "2027-01-19T09:33:19.709135+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
    "max_lpa": 7.2,
    "min_lpa": 7.2,
    "sources": [
@@ -14370,6 +14394,11 @@
   "sellergize-web-technology-solutions-pvt--ltd-|mobile|l1": {
    "expires": "2026-11-01T16:27:28.800854+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "sel|swe|l1": {
+   "expires": "2026-11-15T06:53:12.287265+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
    "status": "not_found"
   },
   "sentraforge-ai|swe|l1": {
@@ -15102,6 +15131,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sonata-software|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-18T01:10:02.091218+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/sonata-software-salaries/associate-software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/sonata-software-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "sonicwall|frontend|l1": {
    "expires": "2026-11-03T04:10:15.333784+00:00",
@@ -16362,8 +16411,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:39:43.085954+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
+   "expires": "2027-01-24T20:50:56.761112+00:00",
+   "looked_up": "2026-10-26T06:17:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18544,8 +18593,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2888,
-  "lookups_today": 26,
+  "lookups_month": 2893,
+  "lookups_today": 31,
   "month": "2026-10"
  }
 }
