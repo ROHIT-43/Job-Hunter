@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T08:30:15.972872+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-18T05:55:08.565759+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -964,8 +964,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T01:30:59.315405+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-17T22:02:07.113670+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1019,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T09:07:18.097953+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-24T15:42:02.757823+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1841,6 +1841,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "atomicads|swe|l1": {
+   "expires": "2026-11-02T14:26:03.572160+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
   },
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
@@ -2738,6 +2743,11 @@
    "status": "found",
    "year": 2023
   },
+  "bristol-myers-squibb|data|l1": {
+   "expires": "2026-11-12T06:57:55.898368+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "bristol-myers-squibb|security|l1": {
    "expires": "2026-11-01T22:04:03.340582+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
@@ -2825,11 +2835,6 @@
    "looked_up": "2026-10-24T14:01:34+00:00",
    "status": "not_found"
   },
-  "bunge|erp|l1": {
-   "expires": "2026-10-26T11:00:07.297234+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
-   "status": "not_found"
-  },
   "bupa-capability-centre-india|devops|l1": {
    "expires": "2026-11-12T15:30:05.017194+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -2868,11 +2873,6 @@
   "c3i-hub|security|l1": {
    "expires": "2026-10-28T21:30:53.854888+00:00",
    "looked_up": "2026-10-21T08:01:34+00:00",
-   "status": "not_found"
-  },
-  "c3i-hub|swe|l1": {
-   "expires": "2026-10-26T10:37:31.180725+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
    "status": "not_found"
   },
   "c4-technical-services|swe|l1": {
@@ -3696,8 +3696,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:26:45.958831+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
+   "expires": "2027-01-24T08:27:27.807829+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3852,6 +3852,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cognizant|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-22T17:51:32.642109+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "max_lpa": 3.7,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cognizant-salaries/salesforce-cpq-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cognizant|frontend|l1": {
    "expires": "2026-11-03T18:20:16.905737+00:00",
@@ -4137,8 +4153,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:18:18.327073+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-27T09:53:22.430792+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4531,6 +4547,11 @@
    "looked_up": "2026-10-16T06:01:25+00:00",
    "status": "not_found"
   },
+  "datae2e|devops|l1": {
+   "expires": "2026-11-04T13:17:30.780895+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "dataframerai|fullstack|l1": {
    "expires": "2026-11-02T12:47:43.943227+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
@@ -4549,6 +4570,11 @@
   "datavail|erp|l3": {
    "expires": "2026-11-01T09:34:29.861770+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "datavinyasolutions|erp|l1": {
+   "expires": "2026-11-14T18:25:08.186332+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
   "dayal-opticals-india-pvt-ltd|swe|l1": {
@@ -4809,11 +4835,6 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
-  "design-lyric|frontend|l1": {
-   "expires": "2026-10-26T10:22:07.870324+00:00",
-   "looked_up": "2026-10-19T06:17:36+00:00",
-   "status": "not_found"
-  },
   "designbrandshark|swe|l1": {
    "expires": "2026-11-01T14:50:13.633390+00:00",
    "looked_up": "2026-10-20T11:35:56+00:00",
@@ -5026,6 +5047,11 @@
    "looked_up": "2026-10-22T00:01:31+00:00",
    "status": "not_found"
   },
+  "dtcc|data|l1": {
+   "expires": "2026-11-15T09:14:25.874170+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "dun-&amp;-bradstreet-india|data|l1": {
    "expires": "2026-10-31T18:44:26.430722+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -5235,6 +5261,11 @@
    "looked_up": "2026-10-14T21:01:27+00:00",
    "status": "not_found"
   },
+  "eloeloapp|data|l1": {
+   "expires": "2026-11-08T23:59:24.015508+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "emagine|data|l1": {
    "expires": "2026-11-01T13:01:25.932659+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
@@ -5304,11 +5335,6 @@
   "emerson|swe|l2": {
    "expires": "2026-11-04T19:30:01.311513+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
-  },
-  "empenofore-technologies-pvt-ltd|swe|l1": {
-   "expires": "2026-10-26T10:28:49.505928+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "employia|swe|l1": {
@@ -6852,6 +6878,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "globallogic|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T17:02:26.810775+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/companies/globallogic?batch=2026"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "globallogic|devops|l1": {
    "expires": "2026-10-28T10:06:19.480837+00:00",
@@ -9009,8 +9051,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T00:30:09.575627+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-22T16:38:12.409986+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -12586,11 +12628,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "playspotsapp|swe|l1": {
-   "expires": "2026-10-26T10:05:50.559747+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
-   "status": "not_found"
-  },
   "plexitechsolutions|data|l1": {
    "expires": "2026-11-03T18:38:24.130470+00:00",
    "looked_up": "2026-10-24T08:01:22+00:00",
@@ -12829,8 +12866,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:27:44.776871+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-23T12:45:54.550759+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -14306,6 +14343,11 @@
    "status": "found",
    "year": 2020
   },
+  "sarvam-ai|devops|l1": {
+   "expires": "2026-11-07T07:59:25.627903+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "sarvi-creation-llp|swe|l1": {
    "expires": "2026-11-13T12:34:12.610883+00:00",
    "looked_up": "2026-10-24T04:01:22+00:00",
@@ -14538,6 +14580,11 @@
    "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
+  "segula-technologies|swe|l1": {
+   "expires": "2026-11-08T04:52:36.892360+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "seismic|swe|l1": {
    "expires": "2026-11-03T23:44:48.544429+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -14715,6 +14762,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "siemens-healthineers|devops|l1": {
+   "expires": "2026-11-09T08:09:14.305916+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
   },
   "siemens-healthineers|frontend|l1": {
    "basis": "ctc",
@@ -14962,11 +15014,6 @@
    "status": "found",
    "year": 2026
   },
-  "skytrainings|data|l1": {
-   "expires": "2026-10-26T10:33:02.301844+00:00",
-   "looked_up": "2026-10-09T09:10:33+00:00",
-   "status": "not_found"
-  },
   "sl-india-software-center|security|l1": {
    "expires": "2026-10-27T13:45:04.755605+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
@@ -15045,6 +15092,11 @@
   "smartworkingsolutions|mobile|l1": {
    "expires": "2026-10-29T11:44:59.123686+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "sme-careers|swe|l1": {
+   "expires": "2026-11-08T07:51:56.404219+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
   "smiths-detection|swe|l1": {
@@ -16592,8 +16644,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T02:22:56.460649+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
+   "expires": "2027-01-20T23:13:09.936572+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -16984,6 +17036,26 @@
    "expires": "2026-11-10T11:28:37.541317+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
+  },
+  "transunion|data|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-21T19:45:35.025638+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "max_lpa": 10.5,
+   "min_lpa": 6.9,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/companies/transunion?salary_city=pune"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4381900/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "transunion|swe|l1": {
    "basis": "base",
@@ -18177,6 +18249,11 @@
    "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
+  "win-quoter|swe|l1": {
+   "expires": "2026-11-06T09:01:14.458239+00:00",
+   "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
   "win-solutions|swe|l1": {
    "expires": "2026-10-30T05:38:50.617690+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
@@ -18402,11 +18479,6 @@
   "xtsworld|swe|l1": {
    "expires": "2026-11-07T15:37:37.708713+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "xuman-ai|mobile|l1": {
-   "expires": "2026-10-26T10:03:41.108723+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
   "xurrent|devops|l1": {
@@ -18799,8 +18871,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2929,
-  "lookups_today": 67,
+  "lookups_month": 2943,
+  "lookups_today": 81,
   "month": "2026-10"
  }
 }
