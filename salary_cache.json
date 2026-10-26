@@ -981,8 +981,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:31:50.389330+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
+   "expires": "2027-01-20T02:42:59.904724+00:00",
+   "looked_up": "2026-10-26T07:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4084,8 +4084,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:21:56.549450+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
+   "expires": "2027-01-25T05:25:14.811229+00:00",
+   "looked_up": "2026-10-26T07:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -7036,11 +7036,6 @@
    "status": "found",
    "year": 2022
   },
-  "google|swe|l2": {
-   "expires": "2026-10-26T06:29:54.659959+00:00",
-   "looked_up": "2026-10-10T13:01:29+00:00",
-   "status": "not_found"
-  },
   "google|swe|l3": {
    "basis": "base",
    "confidence": "low",
@@ -8920,8 +8915,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-17T17:38:37.761998+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
+   "expires": "2027-01-19T16:46:48.284504+00:00",
+   "looked_up": "2026-10-26T07:01:31+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -16411,8 +16406,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:50:56.761112+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
+   "expires": "2027-01-25T21:30:49.646786+00:00",
+   "looked_up": "2026-10-26T07:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
