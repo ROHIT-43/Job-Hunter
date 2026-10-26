@@ -396,11 +396,6 @@
    "looked_up": "2026-10-20T14:01:32+00:00",
    "status": "not_found"
   },
-  "acumenglobal-in|fullstack|l1": {
-   "expires": "2026-10-26T07:43:55.061181+00:00",
-   "looked_up": "2026-10-06T16:01:43+00:00",
-   "status": "not_found"
-  },
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -626,6 +621,11 @@
    "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
+  "agivanttech|data|l1": {
+   "expires": "2026-11-10T10:51:02.657748+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "agivanttech|fullstack|l1": {
    "expires": "2026-11-03T00:01:31.105418+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
@@ -715,6 +715,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "aitrillion|frontend|l1": {
+   "expires": "2026-11-15T21:44:10.426064+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
   },
   "ajiledone-technologies-private-limited|erp|l1": {
    "expires": "2026-10-29T20:15:29.278430+00:00",
@@ -981,8 +986,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T02:42:59.904724+00:00",
-   "looked_up": "2026-10-26T07:01:31+00:00",
+   "expires": "2027-01-24T13:31:39.483249+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1728,11 +1733,6 @@
    "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
-  "athena-tech|data|l1": {
-   "expires": "2026-10-26T07:07:53.778162+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
-   "status": "not_found"
-  },
   "athena-tech|swe|l1": {
    "expires": "2026-10-27T07:13:25.405807+00:00",
    "looked_up": "2026-10-15T17:01:30+00:00",
@@ -2222,6 +2222,11 @@
    "looked_up": "2026-10-11T20:01:22+00:00",
    "status": "not_found"
   },
+  "bayone-solutions|swe|l1": {
+   "expires": "2026-11-02T14:50:24.960893+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "bcd-travel|security|l1": {
    "expires": "2026-10-31T10:40:49.315891+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
@@ -2280,6 +2285,11 @@
   "beyondata-gmbh|devops|l1": {
    "expires": "2026-10-31T09:35:45.612779+00:00",
    "looked_up": "2026-10-10T21:01:24+00:00",
+   "status": "not_found"
+  },
+  "bhanzu|fullstack|l1": {
+   "expires": "2026-11-04T20:47:19.671537+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "bhanzu|swe|l3": {
@@ -4084,8 +4094,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:25:14.811229+00:00",
-   "looked_up": "2026-10-26T07:01:31+00:00",
+   "expires": "2027-01-29T17:27:37.252887+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4189,6 +4199,26 @@
    "expires": "2026-10-26T14:24:09.181044+00:00",
    "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
+  },
+  "cult.fit|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-21T09:43:00.307425+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "max_lpa": 46.5,
+   "min_lpa": 45.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1545569/cure-fit-sde2-bengaluru"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1607894/curefit-sde-2-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2021
   },
   "cummins-india|data|l1": {
    "basis": "ctc",
@@ -4679,6 +4709,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "delphie-consulting-services|mobile|l1": {
+   "expires": "2026-11-11T00:20:29.777026+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
   },
   "delta-ssi|erp|l1": {
    "expires": "2026-11-01T13:20:20.719994+00:00",
@@ -6179,11 +6214,6 @@
    "looked_up": "2026-10-24T07:01:21+00:00",
    "status": "not_found"
   },
-  "flexing-it|fullstack|l1": {
-   "expires": "2026-10-26T07:51:09.390478+00:00",
-   "looked_up": "2026-10-12T16:01:29+00:00",
-   "status": "not_found"
-  },
   "flexintl|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7408,6 +7438,11 @@
    "status": "found",
    "year": 2026
   },
+  "hclsoftware|swe|l1": {
+   "expires": "2026-11-04T19:46:10.156971+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "hcltech|erp|l1": {
    "expires": "2026-10-29T12:27:50.742624+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
@@ -7596,6 +7631,11 @@
   "highlevel|swe|l2": {
    "expires": "2026-10-29T14:08:18.838149+00:00",
    "looked_up": "2026-10-08T19:01:26+00:00",
+   "status": "not_found"
+  },
+  "hinduja-global-solutions-inc--|swe|l1": {
+   "expires": "2026-11-09T05:25:57.418676+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "hire-hangar|swe|l1": {
@@ -8915,8 +8955,8 @@
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T16:46:48.284504+00:00",
-   "looked_up": "2026-10-26T07:01:31+00:00",
+   "expires": "2027-01-18T14:43:00.886433+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
    "sources": [
@@ -9992,6 +10032,22 @@
    "looked_up": "2026-10-21T15:01:33+00:00",
    "status": "not_found"
   },
+  "luxoft-india|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-18T11:18:25.896141+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/luxoft-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10970,6 +11026,11 @@
    "looked_up": "2026-10-17T16:01:22+00:00",
    "status": "not_found"
   },
+  "mycareernet|swe|l1": {
+   "expires": "2026-11-08T20:59:24.918212+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "naresh-i-technologies|fullstack|l1": {
    "expires": "2026-11-14T00:24:49.435252+00:00",
    "looked_up": "2026-10-25T03:01:37+00:00",
@@ -11375,6 +11436,11 @@
    "looked_up": "2026-10-16T17:01:24+00:00",
    "status": "not_found"
   },
+  "nityo-infotech|swe|l1": {
+   "expires": "2026-11-10T16:48:20.890417+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -11605,11 +11671,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "nuvatrix-ai-private-limited|erp|l1": {
-   "expires": "2026-10-26T07:41:29.069330+00:00",
-   "looked_up": "2026-10-14T03:01:31+00:00",
-   "status": "not_found"
   },
   "nuvo-aeon-diamond-jewellery-pvt-ltd|swe|l1": {
    "expires": "2026-10-26T19:40:16.467464+00:00",
@@ -13120,6 +13181,11 @@
   "quantura-consulting|swe|l1": {
    "expires": "2026-11-03T07:03:45.780722+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
+   "status": "not_found"
+  },
+  "quarticainc|swe|l1": {
+   "expires": "2026-11-08T03:25:57.953707+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "quasarengg|swe|l1": {
@@ -16406,8 +16472,8 @@
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T21:30:49.646786+00:00",
-   "looked_up": "2026-10-26T07:01:31+00:00",
+   "expires": "2027-01-23T01:44:27.273608+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -18087,6 +18153,11 @@
    "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
+  "world-wide-technology|devops|l1": {
+   "expires": "2026-11-05T17:30:47.292682+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
   "world-wide-technology|swe|l1": {
    "expires": "2026-11-02T03:13:08.214073+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -18095,11 +18166,6 @@
   "worldlineglobal|devops|l1": {
    "expires": "2026-11-07T04:29:45.950315+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
-   "status": "not_found"
-  },
-  "worldlineglobal|frontend|l1": {
-   "expires": "2026-10-26T07:50:00.114694+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
   "worldlineglobal|swe|l1": {
@@ -18201,6 +18267,11 @@
   "xpool|swe|l1": {
    "expires": "2026-11-06T17:11:10.455146+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
+   "status": "not_found"
+  },
+  "xtsworld|swe|l1": {
+   "expires": "2026-11-07T15:37:37.708713+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "xuman-ai|mobile|l1": {
@@ -18307,6 +18378,16 @@
   "york-digital-consulting-inc|devops|l1": {
    "expires": "2026-11-06T06:46:40.963448+00:00",
    "looked_up": "2026-10-19T23:01:26+00:00",
+   "status": "not_found"
+  },
+  "your-website-io|swe|l1": {
+   "expires": "2026-11-10T16:10:22.798712+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "yulu|mobile|l1": {
+   "expires": "2026-11-06T20:07:20.570341+00:00",
+   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "yumzip|mobile|l1": {
@@ -18588,8 +18669,8 @@
  },
  "meta": {
   "day": "2026-10-26",
-  "lookups_month": 2893,
-  "lookups_today": 31,
+  "lookups_month": 2909,
+  "lookups_today": 47,
   "month": "2026-10"
  }
 }
