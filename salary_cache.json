@@ -1055,8 +1055,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T21:51:07.233784+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-28T02:40:09.938981+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1069,8 +1069,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:15:35.601971+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-25T12:11:00.416587+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1652,8 +1652,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T22:48:44.424163+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-25T20:39:30.401275+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3357,11 +3357,6 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
-  "cbts-technology-covered|swe|l1": {
-   "expires": "2026-10-27T10:07:24.581117+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
-   "status": "not_found"
-  },
   "cdknorthamerica|security|l1": {
    "expires": "2026-11-04T09:09:43.390509+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -3844,8 +3839,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T00:25:47.913413+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-20T23:04:50.835564+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3868,11 +3863,6 @@
     }
    ],
    "status": "found"
-  },
-  "codewinglet|devops|l1": {
-   "expires": "2026-10-27T10:32:43.940164+00:00",
-   "looked_up": "2026-10-20T01:01:24+00:00",
-   "status": "not_found"
   },
   "codexalters|frontend|l1": {
    "expires": "2026-10-31T18:24:06.151290+00:00",
@@ -7197,8 +7187,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T09:09:15.051649+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-19T23:53:51.377841+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -10218,8 +10208,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T19:14:37.048881+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-19T02:04:21.690792+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10592,8 +10582,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:38:07.469212+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-29T21:48:08.017428+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10785,8 +10775,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:23:16.200997+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-23T14:55:07.397278+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11218,8 +11208,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T18:24:20.744695+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-19T13:03:20.060279+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12458,8 +12448,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T04:53:38.220107+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-28T10:30:21.344690+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14374,8 +14364,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:58:18.017635+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-25T10:54:32.375434+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15833,8 +15823,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T18:51:21.221540+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-25T12:27:48.648360+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17543,8 +17533,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T11:55:51.164681+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-25T14:49:41.738603+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18558,8 +18548,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T14:02:10.425808+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-31T14:42:11.544995+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18977,8 +18967,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:32:04.797429+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
+   "expires": "2027-01-30T07:09:29.331484+00:00",
+   "looked_up": "2026-10-27T10:33:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
