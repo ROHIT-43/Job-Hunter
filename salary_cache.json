@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:10:11.901574+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-20T19:28:17.737284+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -827,6 +827,11 @@
    "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
+  "algoleap|fullstack|l1": {
+   "expires": "2026-11-17T02:23:27.071114+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
+  },
   "algoleap|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -954,8 +959,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:59:48.855209+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-26T23:40:21.856884+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1021,20 +1026,18 @@
    "status": "found"
   },
   "amagicorporation|swe|l2": {
-   "basis": "ctc",
-   "confidence": "low",
-   "expires": "2027-01-04T18:56:55.894078+00:00",
-   "looked_up": "2026-10-12T05:01:24+00:00",
-   "max_lpa": 34.5,
-   "min_lpa": 34.5,
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-23T18:06:40.375682+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
    "sources": [
     {
-     "title": "levels.fyi",
-     "uri": "https://www.levels.fyi/zh-tw/companies/amagi/salaries/software-engineer/locations/greater-bengaluru"
+     "title": "LinkedIn job posting"
     }
    ],
-   "status": "found",
-   "year": 2026
+   "status": "found"
   },
   "amazon-web-services|swe|l1": {
    "basis": "base",
@@ -1148,6 +1151,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "amazure-technologies-pvt-ltd|erp|l1": {
+   "expires": "2026-11-15T00:55:13.334301+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
   },
   "amazure-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-10-31T03:30:00.638207+00:00",
@@ -1598,8 +1606,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T00:36:33.980050+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-26T18:31:34.434989+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2101,11 +2109,6 @@
    "looked_up": "2026-10-18T15:01:22+00:00",
    "status": "not_found"
   },
-  "backbase|swe|l1": {
-   "expires": "2026-10-27T04:22:02.779341+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "bain-and-company|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2314,11 +2317,6 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
-  "bctglobal|data|l1": {
-   "expires": "2026-10-27T04:47:48.519620+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
   "bdoinindia|security|l1": {
    "expires": "2026-11-05T22:25:42.957395+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -2484,6 +2482,11 @@
   "bloomfieldinnovations|frontend|l1": {
    "expires": "2026-10-30T19:26:24.240850+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "bluebex|fullstack|l1": {
+   "expires": "2026-11-14T05:13:56.870827+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "blueflute-software|mobile|l1": {
@@ -3745,8 +3748,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T23:42:17.544698+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-31T00:48:24.148609+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4099,6 +4102,11 @@
    "status": "found",
    "year": 2021
   },
+  "comtek1|erp|l1": {
+   "expires": "2026-11-13T09:59:05.885364+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
+  },
   "confluentis-consulting-llp|devops|l1": {
    "expires": "2026-11-03T13:08:13.396989+00:00",
    "looked_up": "2026-10-16T19:01:22+00:00",
@@ -4202,8 +4210,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:12:54.207061+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-21T06:17:19.296410+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -4899,6 +4907,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "digiaccel-learning|swe|l1": {
+   "expires": "2026-11-11T19:35:05.870526+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
+  },
   "digicert-inc-|swe|l1": {
    "expires": "2026-11-01T16:42:48.602824+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -5251,11 +5264,6 @@
    "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
-  "edusphereuae-training-consultancy|fullstack|l1": {
-   "expires": "2026-10-27T04:34:04.155807+00:00",
-   "looked_up": "2026-10-17T01:01:28+00:00",
-   "status": "not_found"
-  },
   "efforts-unlimited|swe|l1": {
    "expires": "2026-11-04T17:55:39.223534+00:00",
    "looked_up": "2026-10-15T01:01:23+00:00",
@@ -5308,6 +5316,11 @@
   "elevate-ai-ug|swe|l1": {
    "expires": "2026-11-03T21:46:10.331584+00:00",
    "looked_up": "2026-10-14T21:01:27+00:00",
+   "status": "not_found"
+  },
+  "elitesquad-ai|data|l1": {
+   "expires": "2026-11-03T21:53:40.826594+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "eloeloapp|data|l1": {
@@ -5758,11 +5771,6 @@
   },
   "exillar|devops|l1": {
    "expires": "2026-10-30T02:24:24.409558+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
-   "status": "not_found"
-  },
-  "exillar|swe|l1": {
-   "expires": "2026-10-27T04:44:36.923884+00:00",
    "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
@@ -6733,6 +6741,11 @@
    ],
    "status": "found"
   },
+  "gemological-science-international-gsi-|fullstack|l1": {
+   "expires": "2026-11-05T23:24:26.143949+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
+  },
   "generac-power-systems|swe|l2": {
    "expires": "2026-11-04T01:45:22.126077+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -7103,8 +7116,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-03T00:31:32.978149+00:00",
-   "looked_up": "2026-10-06T20:01:46+00:00",
+   "expires": "2027-01-19T22:19:10.308818+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -8480,6 +8493,11 @@
   "indiasfutureinvestors|swe|l1": {
    "expires": "2026-11-01T12:10:40.686564+00:00",
    "looked_up": "2026-10-19T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "indusgurunetwork|swe|l1": {
+   "expires": "2026-11-15T23:55:43.533964+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "infai-systems-pvt-ltd|frontend|l1": {
@@ -10094,8 +10112,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:31:49.887347+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-26T23:30:52.901179+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10647,8 +10665,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:18:40.603080+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-18T07:31:09.942976+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11065,8 +11083,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:52:15.388317+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-23T14:50:39.440403+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12882,11 +12900,6 @@
    ],
    "status": "found"
   },
-  "principalfinancialgroup|data|l1": {
-   "expires": "2026-10-27T04:35:06.569307+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "principalfinancialgroup|swe|l1": {
    "expires": "2026-10-30T20:10:15.983813+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
@@ -13006,8 +13019,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:24:35.016209+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-24T19:25:53.783310+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -13786,6 +13799,26 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
+  "recro-io|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T10:08:28.787743+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "max_lpa": 16.6,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/recro-salaries/software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4378748/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "recro-io|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13961,6 +13994,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "revolve-solutions-private-limited|swe|l1": {
+   "expires": "2026-11-13T02:30:07.658746+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
+   "status": "not_found"
   },
   "rhevix|data|l1": {
    "expires": "2026-10-28T11:16:11.886658+00:00",
@@ -15549,8 +15587,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T12:15:06.587437+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-18T13:30:07.583203+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -16342,6 +16380,11 @@
   "teamviewer|swe|l1": {
    "expires": "2026-11-05T14:05:25.625509+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
+   "status": "not_found"
+  },
+  "teamware-solutions|data|l1": {
+   "expires": "2026-11-05T17:48:04.665509+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "teamware-solutions|erp|l1": {
@@ -17239,8 +17282,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:18:25.011721+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-21T04:28:11.845145+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17840,11 +17883,6 @@
    "status": "found",
    "year": 2024
   },
-  "valuementor|mobile|l1": {
-   "expires": "2026-10-27T04:48:07.824855+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "varite|swe|l1": {
    "expires": "2026-11-03T23:32:02.541802+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
@@ -18218,8 +18256,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:27:39.665305+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-27T07:01:18.586080+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18580,8 +18618,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T21:25:16.880748+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-29T09:58:26.975062+00:00",
+   "looked_up": "2026-10-27T05:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19102,8 +19140,8 @@
  },
  "meta": {
   "day": "2026-10-27",
-  "lookups_month": 3016,
-  "lookups_today": 3,
+  "lookups_month": 3027,
+  "lookups_today": 14,
   "month": "2026-10"
  }
 }
