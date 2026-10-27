@@ -828,6 +828,11 @@
    "looked_up": "2026-10-20T14:01:32+00:00",
    "status": "not_found"
   },
+  "alchem-international-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-11T06:25:41.759972+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "status": "not_found"
+  },
   "algoleap|data|l1": {
    "expires": "2026-11-04T17:51:58.231104+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -1050,8 +1055,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:23:49.133450+00:00",
-   "looked_up": "2026-10-27T04:01:25+00:00",
+   "expires": "2027-01-28T21:51:07.233784+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1064,8 +1069,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:09:50.832094+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-20T04:15:35.601971+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1647,8 +1652,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T17:40:53.541086+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-19T22:48:44.424163+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3196,6 +3201,11 @@
    "status": "found",
    "year": 2026
   },
+  "cargill|swe|l1": {
+   "expires": "2026-11-16T20:33:06.364275+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "status": "not_found"
+  },
   "cargoclave|fullstack|l1": {
    "expires": "2026-11-04T14:37:56.501783+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -3834,8 +3844,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:43:07.639742+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-31T00:25:47.913413+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4966,11 +4976,6 @@
   "designbrandshark|swe|l1": {
    "expires": "2026-11-01T14:50:13.633390+00:00",
    "looked_up": "2026-10-20T11:35:56+00:00",
-   "status": "not_found"
-  },
-  "deutsche-bank|devops|l1": {
-   "expires": "2026-10-27T09:34:23.869202+00:00",
-   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "deutschebahn|swe|l1": {
@@ -7192,8 +7197,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T10:33:30.147416+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-23T09:09:15.051649+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -9801,11 +9806,6 @@
    ],
    "status": "found"
   },
-  "kkr|erp|l1": {
-   "expires": "2026-10-27T09:48:47.444619+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
   "klacorp|swe|l1": {
    "expires": "2026-10-31T11:13:54.316756+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
@@ -9834,11 +9834,6 @@
   "komodo-health|erp|l1": {
    "expires": "2026-10-31T13:37:16.340138+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "kotak-mahindra-bank|swe|l1": {
-   "expires": "2026-10-27T09:23:43.341727+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
   "kott-software-pvt.ltd|frontend|l1": {
@@ -10223,8 +10218,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T00:23:51.807261+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-27T19:14:37.048881+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10597,8 +10592,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T21:45:31.138909+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-30T04:38:07.469212+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -10790,8 +10785,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:56:06.683116+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-29T08:23:16.200997+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11223,8 +11218,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:17:16.861803+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-26T18:24:20.744695+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12459,6 +12454,20 @@
    "expires": "2026-10-30T21:40:00.664231+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
+  },
+  "organicmart|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-23T04:53:38.220107+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "osf-digital|swe|l1": {
    "expires": "2026-11-06T10:32:51.090972+00:00",
@@ -13853,6 +13862,11 @@
    "looked_up": "2026-10-09T14:01:24+00:00",
    "status": "not_found"
   },
+  "radware|devops|l1": {
+   "expires": "2026-11-13T06:17:43.178934+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "status": "not_found"
+  },
   "raerollc|swe|l1": {
    "expires": "2026-11-03T17:44:51.186462+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
@@ -14360,8 +14374,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T11:10:30.698015+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-25T11:58:18.017635+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15819,8 +15833,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:33:17.571408+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-30T18:51:21.221540+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17447,11 +17461,6 @@
    "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
-  "trainingbasket.in|swe|l1": {
-   "expires": "2026-10-27T09:24:09.474046+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
-   "status": "not_found"
-  },
   "traker-live|frontend|l1": {
    "expires": "2026-11-08T17:33:10.709014+00:00",
    "looked_up": "2026-10-24T20:01:27+00:00",
@@ -17534,8 +17543,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:32:27.215646+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-19T11:55:51.164681+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18549,8 +18558,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:42:00.047274+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-21T14:02:10.425808+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18581,10 +18590,67 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
+  "vysystems|swe|l1": {
+   "expires": "2026-11-11T17:14:51.708303+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "status": "not_found"
+  },
   "waferwire|swe|l1": {
    "expires": "2026-11-04T21:01:14.137473+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
+  },
+  "walmartglobaltechindia|fullstack|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-27T19:09:06.288064+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "max_lpa": 29.6,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1202820/walmart-labs-software-engineer-3-india"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1648512/walmart-sde-3-bangalore-india-frontend"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2065712/walmart-in3-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
+  "walmartglobaltechindia|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-29T21:50:06.409979+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 21.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1316840/walmart-in3-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1491538/walmart-in3-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1461212/walmart-sde-2-in3-bangalore-declined"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1192867/walmart-se-iii-bangalore/"
+    }
+   ],
+   "status": "found",
+   "year": 2022
   },
   "walmartglobaltechindia|swe|l3": {
    "basis": "base",
@@ -18911,8 +18977,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T17:56:22.929856+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-01-27T11:32:04.797429+00:00",
+   "looked_up": "2026-10-27T10:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19433,8 +19499,8 @@
  },
  "meta": {
   "day": "2026-10-27",
-  "lookups_month": 3078,
-  "lookups_today": 65,
+  "lookups_month": 3084,
+  "lookups_today": 71,
   "month": "2026-10"
  }
 }
