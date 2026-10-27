@@ -689,8 +689,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T00:04:57.128156+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-19T14:13:12.592127+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1059,8 +1059,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T17:48:51.389861+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-25T13:14:41.886107+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1073,8 +1073,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-18T21:17:07.590460+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-20T08:06:42.004775+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2804,8 +2804,8 @@
   "brainrig-llp|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:09:09.277394+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-26T07:01:00.324740+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3932,8 +3932,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:30:02.211713+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-23T07:03:24.314660+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5575,11 +5575,6 @@
    "looked_up": "2026-10-15T18:01:34+00:00",
    "status": "not_found"
   },
-  "energyscape-renewables|swe|l1": {
-   "expires": "2026-10-27T16:11:50.171342+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
-   "status": "not_found"
-  },
   "engagetal-solutions|swe|l1": {
    "expires": "2026-11-03T05:05:49.439416+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
@@ -5607,8 +5602,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:47:18.532110+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-24T06:30:03.357979+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7297,8 +7292,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:58:49.226996+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-24T16:04:50.119316+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -7455,11 +7450,6 @@
   "gpunet|swe|l1": {
    "expires": "2026-10-30T01:15:57.509478+00:00",
    "looked_up": "2026-10-22T10:17:31+00:00",
-   "status": "not_found"
-  },
-  "grabapp|mobile|l1": {
-   "expires": "2026-10-27T16:27:48.415077+00:00",
-   "looked_up": "2026-10-18T13:01:22+00:00",
    "status": "not_found"
   },
   "grainwish-ai|swe|l1": {
@@ -10388,8 +10378,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T06:55:53.768005+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-22T14:17:54.625758+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10788,8 +10778,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:48:29.198554+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-22T22:45:59.444694+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11419,8 +11409,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:01:45.085338+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-26T02:28:47.795089+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12716,8 +12706,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:59:55.572655+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-02-01T10:17:07.061530+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14658,8 +14648,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:31:06.039365+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-30T02:38:33.386521+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15864,8 +15854,8 @@
   "soch-street|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T14:02:39.742736+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-23T20:35:32.770282+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16166,8 +16156,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:47:08.855269+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-19T01:28:35.532582+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17484,8 +17474,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T07:39:19.905586+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-20T14:30:39.625097+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17895,8 +17885,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T10:42:00.097168+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-30T01:05:23.575602+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18926,8 +18916,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:16:48.471532+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
+   "expires": "2027-01-20T04:21:40.092843+00:00",
+   "looked_up": "2026-10-27T16:38:58+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
