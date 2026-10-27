@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T07:33:51.906894+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-20T12:08:29.593841+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -954,8 +954,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T15:29:11.080572+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-24T14:59:44.079102+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1009,8 +1009,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T09:45:26.358712+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-29T13:57:43.436384+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1598,8 +1598,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:22:06.385517+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-28T09:56:17.032297+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3755,8 +3755,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:49:34.673648+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-19T11:41:34.936835+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4212,8 +4212,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:45:03.753221+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-22T06:30:25.339377+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -10119,8 +10119,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:18:34.396606+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-21T01:43:41.232847+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10677,8 +10677,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T22:17:38.601415+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-27T13:53:29.395774+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11105,8 +11105,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T06:36:19.303259+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-21T03:10:26.937218+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13056,8 +13056,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T13:12:44.288323+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-22T03:25:56.790349+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -15609,8 +15609,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T12:16:19.070704+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-23T06:08:31.712757+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17303,8 +17303,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:52:18.433155+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-20T23:39:06.480787+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17433,6 +17433,11 @@
   "tryzent-tech|fullstack|l1": {
    "expires": "2026-11-14T07:00:09.355171+00:00",
    "looked_up": "2026-10-25T16:01:25+00:00",
+   "status": "not_found"
+  },
+  "ttec|swe|l1": {
+   "expires": "2026-11-10T22:53:28.153265+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "status": "not_found"
   },
   "turium-ai|mobile|l1": {
@@ -18282,8 +18287,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:45:49.537339+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-31T04:55:05.880822+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18649,8 +18654,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T23:19:01.881886+00:00",
-   "looked_up": "2026-10-26T23:53:20+00:00",
+   "expires": "2027-01-25T01:05:28.787135+00:00",
+   "looked_up": "2026-10-27T00:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19170,9 +19175,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-26",
-  "lookups_month": 3013,
-  "lookups_today": 151,
+  "day": "2026-10-27",
+  "lookups_month": 3014,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
