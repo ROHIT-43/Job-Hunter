@@ -689,8 +689,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:13:27.624489+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-24T17:39:54.460715+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1059,8 +1059,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T12:09:33.538897+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-19T09:49:09.115905+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1073,8 +1073,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T03:07:01.568882+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-29T19:36:31.527290+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1431,11 +1431,6 @@
   "appinventiv|swe|l1": {
    "expires": "2026-11-04T09:00:49.127538+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "appleelectroniks|swe|l1": {
-   "expires": "2026-10-27T18:32:22.855329+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
   "apple|devops|l1": {
@@ -2830,8 +2825,8 @@
   "brainrig-llp|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:32:21.885460+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-20T05:40:50.864440+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3963,8 +3958,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:24:03.586035+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-26T05:18:45.273902+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5664,8 +5659,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:35:35.138883+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-28T19:34:33.529030+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6556,6 +6551,11 @@
    "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
+  "fizi-fitness-gym-workouts|fullstack|l1": {
+   "expires": "2026-11-15T02:08:31.276453+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
+  },
   "flableai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7369,8 +7369,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T20:30:45.416802+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-22T14:48:34.455439+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -8116,6 +8116,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "hiringhood|data|l1": {
+   "expires": "2026-11-09T21:49:50.597649+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
+  },
   "hitachi-digital-services|erp|l1": {
    "expires": "2026-11-06T22:26:38.072055+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -8711,11 +8716,6 @@
   "ikea|swe|l1": {
    "expires": "2026-10-29T06:18:46.300844+00:00",
    "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
-  "ilizien|frontend|l1": {
-   "expires": "2026-10-27T18:29:28.700039+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "illumina|data|l1": {
@@ -10184,6 +10184,26 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "ktree-com|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-20T12:34:58.554682+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ktree-computer-solutions-salaries/software-engineer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Ktree/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "kubictechnology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10895,8 +10915,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:31:46.630008+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-21T15:06:49.653274+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11624,6 +11644,11 @@
   "motorolasolutions|frontend|l1": {
    "expires": "2026-10-29T23:56:14.525802+00:00",
    "looked_up": "2026-10-20T17:01:29+00:00",
+   "status": "not_found"
+  },
+  "motorolasolutions|mobile|l1": {
+   "expires": "2026-11-16T01:12:19.652231+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
   "motorolasolutions|swe|l1": {
@@ -12828,8 +12853,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:41:23.125756+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-31T12:01:46.508916+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13178,6 +13203,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "philips|swe|l1": {
+   "expires": "2026-11-09T19:06:49.692729+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
   },
   "phonepe-internet|devops|l1": {
    "basis": "base",
@@ -14614,8 +14644,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:01:54.366116+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-24T20:22:03.440348+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -14784,8 +14814,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T02:13:12.966562+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-22T07:19:27.794602+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15996,8 +16026,8 @@
   "soch-street|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T00:09:22.708257+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-29T00:26:01.349403+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16298,8 +16328,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T07:28:48.421307+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-24T03:17:29.091807+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17626,8 +17656,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:05:05.149899+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
+   "expires": "2027-01-31T10:18:57.609814+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18823,6 +18853,11 @@
    "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
+  "vineforgetechnologies|swe|l1": {
+   "expires": "2026-11-10T07:09:57.943965+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
+  },
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -19291,6 +19326,11 @@
   "webkit24.com|frontend|l1": {
    "expires": "2026-10-28T23:26:06.412114+00:00",
    "looked_up": "2026-10-09T05:01:19+00:00",
+   "status": "not_found"
+  },
+  "welerix|frontend|l1": {
+   "expires": "2026-11-16T06:12:08.305432+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
   "wellsfargo|swe|l1": {
@@ -19792,6 +19832,22 @@
    "status": "found",
    "year": 2026
   },
+  "zelis|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-25T13:10:36.911538+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "max_lpa": 8.1,
+   "min_lpa": 7.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zelis-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "zemaglobal|swe|l1": {
    "expires": "2026-11-06T19:35:42.149066+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -19956,6 +20012,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "zillout|swe|l1": {
+   "expires": "2026-11-15T14:08:17.328870+00:00",
+   "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-04T06:03:01.909462+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -20025,8 +20086,8 @@
  },
  "meta": {
   "day": "2026-10-27",
-  "lookups_month": 3190,
-  "lookups_today": 177,
+  "lookups_month": 3199,
+  "lookups_today": 186,
   "month": "2026-10"
  }
 }
