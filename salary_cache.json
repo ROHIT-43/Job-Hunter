@@ -119,8 +119,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T20:20:53.391858+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-29T21:59:49.837414+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -954,8 +954,8 @@
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T12:24:43.143849+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-22T11:35:31.287930+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1009,8 +1009,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T14:32:40.360902+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-22T18:10:37.984351+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1598,8 +1598,8 @@
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:54:13.209752+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-18T13:59:07.371942+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3755,8 +3755,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:59:31.403642+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-28T23:46:02.789498+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4212,8 +4212,8 @@
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T03:11:36.203971+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-22T20:57:13.755505+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -5677,11 +5677,6 @@
   "esri|devops|l1": {
    "expires": "2026-11-05T21:23:11.918011+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "esri|swe|l1": {
-   "expires": "2026-10-27T01:49:25.325484+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
   "eternal9-foodworks-private-limited|frontend|l1": {
@@ -10119,8 +10114,8 @@
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T23:20:17.723908+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-26T23:25:02.135664+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 8.4,
    "min_lpa": 4.8,
    "sources": [
@@ -10677,8 +10672,8 @@
   "matriofficial|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T06:05:58.748538+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-22T19:25:37.593936+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 5.4,
    "min_lpa": 3.6,
    "sources": [
@@ -11100,8 +11095,8 @@
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T22:10:07.942188+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-29T21:39:00.704885+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 11.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13046,8 +13041,8 @@
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T05:19:26.947820+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-19T05:20:31.721137+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 8.4,
    "min_lpa": 6.6,
    "sources": [
@@ -14002,11 +13997,6 @@
    "status": "found",
    "year": 2026
   },
-  "rgbwebtech|swe|l1": {
-   "expires": "2026-10-27T01:14:10.058559+00:00",
-   "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
   "rhevix|data|l1": {
    "expires": "2026-10-28T11:16:11.886658+00:00",
    "looked_up": "2026-10-09T04:01:24+00:00",
@@ -14275,11 +14265,6 @@
   "saathapp-tech|swe|l1": {
    "expires": "2026-11-04T21:32:17.877075+00:00",
    "looked_up": "2026-10-19T20:01:28+00:00",
-   "status": "not_found"
-  },
-  "saatvik-agro-processors-private-limited|data|l1": {
-   "expires": "2026-10-27T01:39:05.453809+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|frontend|l1": {
@@ -15599,8 +15584,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:05:39.424062+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-25T23:30:51.837338+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -16651,11 +16636,6 @@
    "looked_up": "2026-10-09T12:01:28+00:00",
    "status": "not_found"
   },
-  "teladoc-health|swe|l3": {
-   "expires": "2026-10-27T01:44:33.663204+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "telefonica-tech-en|data|l1": {
    "expires": "2026-10-28T15:03:15.022324+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
@@ -17304,8 +17284,8 @@
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:42:32.749663+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-26T11:59:40.937990+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18288,8 +18268,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T12:44:03.025762+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-25T18:41:31.514065+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18506,11 +18486,6 @@
    "looked_up": "2026-10-10T18:01:20+00:00",
    "status": "not_found"
   },
-  "whatsapp.|mobile|l1": {
-   "expires": "2026-10-27T01:42:50.540758+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
-  },
   "whatsapp.|swe|l1": {
    "expires": "2026-10-28T03:20:17.238793+00:00",
    "looked_up": "2026-10-17T06:01:19+00:00",
@@ -18655,8 +18630,8 @@
   "workelate|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:31:04.476194+00:00",
-   "looked_up": "2026-10-27T01:01:29+00:00",
+   "expires": "2027-01-29T23:09:48.931685+00:00",
+   "looked_up": "2026-10-27T02:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
