@@ -1881,11 +1881,6 @@
    "status": "found",
    "year": 2024
   },
-  "atlas-copco-group|devops|l1": {
-   "expires": "2026-10-28T22:51:48.127454+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
-   "status": "not_found"
-  },
   "atlas-copco-group|erp|l1": {
    "expires": "2026-11-02T23:30:47.223989+00:00",
    "looked_up": "2026-10-15T04:01:24+00:00",
@@ -4052,8 +4047,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T10:08:15.050092+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-25T05:55:29.414416+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4450,8 +4445,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T18:25:47.438191+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-27T04:47:00.650945+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5673,8 +5668,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:29:43.699383+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-31T12:12:44.500448+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5687,11 +5682,6 @@
   "edgeverve|frontend|l1": {
    "expires": "2026-11-06T22:01:39.493843+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
-  "edgeverve|fullstack|l1": {
-   "expires": "2026-10-28T22:33:12.446328+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "edgeverve|swe|l1": {
@@ -7856,6 +7846,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "gsk|devops|l1": {
+   "expires": "2026-11-17T04:30:38.154790+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
+   "status": "not_found"
   },
   "gtl-archived|swe|l1": {
    "expires": "2026-11-08T09:50:56.846792+00:00",
@@ -10658,8 +10653,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:19:34.859861+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-29T23:14:40.904844+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12185,8 +12180,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T06:38:40.439041+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-30T03:01:10.875821+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12398,11 +12393,6 @@
   "nest-digital-pvt-ltd|swe|l1": {
    "expires": "2026-10-29T00:41:10.950255+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "nestl-nespresso|data|l1": {
-   "expires": "2026-10-28T22:28:34.603499+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
   "nestorservices|swe|l1": {
@@ -12698,11 +12688,6 @@
   "nornux-solutions-private-limited|swe|l1": {
    "expires": "2026-11-18T08:30:16.801388+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "north-point-technology|erp|l1": {
-   "expires": "2026-10-28T22:48:07.829001+00:00",
-   "looked_up": "2026-10-19T03:01:25+00:00",
    "status": "not_found"
   },
   "northern-trust|swe|l1": {
@@ -13331,8 +13316,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T02:25:51.693202+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-29T20:05:21.534165+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15737,11 +15722,6 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
-  "schneider-electric|swe|l2": {
-   "expires": "2026-10-28T22:50:48.968045+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
-   "status": "not_found"
-  },
   "schr-dinger|swe|l1": {
    "expires": "2026-10-29T00:05:17.103506+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
@@ -16323,8 +16303,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:46:51.421811+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-28T22:34:09.496804+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18159,8 +18139,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T17:02:22.263790+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-02-02T04:14:17.947911+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18173,8 +18153,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:21:54.319527+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-26T16:15:01.456784+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18879,8 +18859,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T06:03:39.808327+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-24T09:45:48.237354+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19801,8 +19781,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:37:23.514376+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
+   "expires": "2027-01-20T23:16:10.872571+00:00",
+   "looked_up": "2026-10-28T23:01:40+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20655,8 +20635,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3368,
-  "lookups_today": 166,
+  "lookups_month": 3369,
+  "lookups_today": 167,
   "month": "2026-10"
  }
 }
