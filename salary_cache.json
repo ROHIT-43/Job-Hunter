@@ -4022,8 +4022,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T19:07:27.151209+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-29T02:29:39.513078+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4400,8 +4400,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:04:28.358697+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-23T09:17:14.032633+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4799,11 +4799,6 @@
   "cygnus-professionals-inc-|devops|l1": {
    "expires": "2026-11-09T02:48:30.462986+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "cyient|data|l1": {
-   "expires": "2026-10-28T16:01:19.004314+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "cyient|swe|l1": {
@@ -5633,8 +5628,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T00:14:52.951379+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-29T11:17:52.279283+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7032,11 +7027,6 @@
   "frnsup|frontend|l1": {
    "expires": "2026-10-28T21:15:13.400937+00:00",
    "looked_up": "2026-10-11T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "fruitbowl-digital|swe|l1": {
-   "expires": "2026-10-28T15:24:44.413390+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "ftdinfocom|swe|l1": {
@@ -8709,6 +8699,26 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/IBM-Data-Engineer-Pune-Salaries-EJI_IE354.0,3_KO4,17_IL.18,22_IC2856202.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ibm|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-30T07:07:23.848046+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/ibm--devops"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Development_Operations_(DevOps)_Engineer/Salary/4471a041/IBM-India-Private-Limited-Bangalore"
     }
    ],
    "status": "found",
@@ -10602,8 +10612,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T14:45:14.999164+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-28T04:12:09.330978+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10760,6 +10770,11 @@
   "linde|security|l1": {
    "expires": "2026-11-03T21:37:19.286503+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
+   "status": "not_found"
+  },
+  "linde|swe|l1": {
+   "expires": "2026-11-10T23:40:08.383486+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "status": "not_found"
   },
   "linedata|swe|l1": {
@@ -12119,8 +12134,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T19:03:33.867297+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-02-02T08:44:17.511640+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12593,11 +12608,6 @@
     }
    ],
    "status": "found"
-  },
-  "nividence|swe|l1": {
-   "expires": "2026-10-28T15:32:21.344533+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
   },
   "nmtronics|swe|l1": {
    "expires": "2026-11-01T16:10:38.327309+00:00",
@@ -13224,8 +13234,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T08:08:30.158629+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-21T02:46:42.344514+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14733,11 +14743,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "real-jobs-consulting-services2|swe|l1": {
-   "expires": "2026-10-28T15:15:10.782099+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "real-time-applications-center|devops|l1": {
    "expires": "2026-11-09T19:45:50.063023+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
@@ -14883,11 +14888,6 @@
    "status": "found",
    "year": 2025
   },
-  "recruise-global|erp|l1": {
-   "expires": "2026-10-28T15:53:37.707165+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "red-commerce|data|l1": {
    "expires": "2026-11-05T02:06:51.473903+00:00",
    "looked_up": "2026-10-16T11:01:36+00:00",
@@ -15020,8 +15020,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:04:36.312488+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-28T17:10:26.645329+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -16209,9 +16209,18 @@
    "status": "found"
   },
   "skillovilla|swe|l1": {
-   "expires": "2026-10-30T08:02:05.744357+00:00",
-   "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T00:03:46.897287+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "skinaa|mobile|l1": {
    "expires": "2026-11-07T03:51:36.907312+00:00",
@@ -16724,11 +16733,6 @@
     }
    ],
    "status": "found"
-  },
-  "sozomo-technology|swe|l1": {
-   "expires": "2026-10-28T15:13:42.183567+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
   },
   "spacekaur|swe|l1": {
    "expires": "2026-11-03T18:15:13.523682+00:00",
@@ -17762,11 +17766,6 @@
    "status": "found",
    "year": 2026
   },
-  "techtalentresourcing|swe|l1": {
-   "expires": "2026-10-28T15:12:41.920864+00:00",
-   "looked_up": "2026-10-20T09:01:36+00:00",
-   "status": "not_found"
-  },
   "techxsherpa|frontend|l1": {
    "expires": "2026-10-31T19:19:55.693751+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
@@ -17800,11 +17799,6 @@
   "tekwissenindia|swe|l1": {
    "expires": "2026-10-29T10:20:24.157429+00:00",
    "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "telefonica-tech-en|data|l1": {
-   "expires": "2026-10-28T15:03:15.022324+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
   "telus-digital|swe|l1": {
@@ -18051,9 +18045,18 @@
    "status": "found"
   },
   "thealteroffice|swe|l1": {
-   "expires": "2026-11-01T13:34:03.664519+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-21T10:20:27.482478+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "thealteroffice|swe|l2": {
    "basis": "posted",
@@ -18774,8 +18777,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:31:39.008907+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-02-01T05:07:37.519393+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19701,8 +19704,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T19:07:04.163080+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-28T11:08:39.902347+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20329,8 +20332,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T05:07:35.734793+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
+   "expires": "2027-01-24T21:19:04.616992+00:00",
+   "looked_up": "2026-10-28T16:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20550,8 +20553,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3333,
-  "lookups_today": 131,
+  "lookups_month": 3335,
+  "lookups_today": 133,
   "month": "2026-10"
  }
 }
