@@ -368,8 +368,8 @@
    "status": "not_found"
   },
   "aci-worldwide|swe|l1": {
-   "expires": "2026-10-28T21:20:04.359117+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
+   "expires": "2026-11-06T16:50:29.909467+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "status": "not_found"
   },
   "acl-digital|swe|l1": {
@@ -3120,11 +3120,6 @@
    "looked_up": "2026-10-10T14:01:23+00:00",
    "status": "not_found"
   },
-  "c3i-hub|security|l1": {
-   "expires": "2026-10-28T21:30:53.854888+00:00",
-   "looked_up": "2026-10-21T08:01:34+00:00",
-   "status": "not_found"
-  },
   "c4-technical-services|swe|l1": {
    "expires": "2026-11-01T09:32:24.969276+00:00",
    "looked_up": "2026-10-16T15:01:36+00:00",
@@ -4057,8 +4052,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T02:24:52.888915+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-02-02T10:08:15.050092+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4455,8 +4450,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T12:14:11.655772+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-23T18:25:47.438191+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5678,8 +5673,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T09:56:29.622154+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-28T23:29:43.699383+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6984,11 +6979,6 @@
    "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
-  "ford-motor-company|fullstack|l1": {
-   "expires": "2026-10-28T21:15:58.119291+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
-   "status": "not_found"
-  },
   "ford-motor-company|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7067,11 +7057,6 @@
   "frnd-app|mobile|l1": {
    "expires": "2026-11-18T02:03:35.117502+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
-  },
-  "frnsup|frontend|l1": {
-   "expires": "2026-10-28T21:15:13.400937+00:00",
-   "looked_up": "2026-10-11T13:01:20+00:00",
    "status": "not_found"
   },
   "ftdinfocom|swe|l1": {
@@ -7392,11 +7377,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "gitforce|swe|l1": {
-   "expires": "2026-10-28T21:36:32.096697+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
   },
   "gitlab-com|devops|l1": {
    "expires": "2026-10-29T11:14:55.404827+00:00",
@@ -7791,11 +7771,6 @@
     }
    ],
    "status": "found"
-  },
-  "grayson-talent-management-solutions|swe|l1": {
-   "expires": "2026-10-28T22:00:12.959330+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
   },
   "green-tree-immigration|frontend|l1": {
    "expires": "2026-10-29T07:27:00.278116+00:00",
@@ -10429,11 +10404,6 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
-  "kognivera|swe|l1": {
-   "expires": "2026-10-28T21:52:28.669181+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "komodo-health|erp|l1": {
    "expires": "2026-10-31T13:37:16.340138+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -10688,8 +10658,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T03:11:33.568711+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-30T04:19:34.859861+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12215,8 +12185,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:24:10.727570+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-26T06:38:40.439041+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13361,8 +13331,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T09:48:36.152321+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-20T02:25:51.693202+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13461,11 +13431,6 @@
   "palvex-tech-opc-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-03T03:12:19.952471+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "paperchaseaccountancy|data|l1": {
-   "expires": "2026-10-28T21:27:22.394223+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "paperlite|mobile|l1": {
@@ -13812,6 +13777,11 @@
   "php-experts-india|swe|l1": {
    "expires": "2026-10-30T08:23:20.301896+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
+   "status": "not_found"
+  },
+  "pincler|swe|l1": {
+   "expires": "2026-11-13T21:28:02.447879+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "status": "not_found"
   },
   "pinelabs|swe|l1": {
@@ -16353,8 +16323,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:46:19.644314+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-30T01:46:51.421811+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17269,11 +17239,6 @@
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
-  "synechron|devops|l1": {
-   "expires": "2026-10-28T21:58:18.949590+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
-   "status": "not_found"
-  },
   "synechron|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17381,11 +17346,6 @@
   "t-h-electrical-controls|swe|l1": {
    "expires": "2026-11-02T18:58:15.279259+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
-  "t-systems-ict-india-pvt.-ltd.|erp|l1": {
-   "expires": "2026-10-28T21:39:50.004034+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
   "take-2-interactive-software-inc-|data|l1": {
@@ -18199,8 +18159,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T20:15:33.008395+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-21T17:02:22.263790+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18213,8 +18173,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T20:48:03.484839+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-02-02T01:21:54.319527+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18919,8 +18879,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:31:45.186434+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-27T06:03:39.808327+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19841,8 +19801,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T16:05:14.720409+00:00",
-   "looked_up": "2026-10-28T21:06:34+00:00",
+   "expires": "2027-01-30T01:37:23.514376+00:00",
+   "looked_up": "2026-10-28T22:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20695,8 +20655,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3366,
-  "lookups_today": 164,
+  "lookups_month": 3368,
+  "lookups_today": 166,
   "month": "2026-10"
  }
 }
