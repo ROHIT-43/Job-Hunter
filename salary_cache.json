@@ -1374,11 +1374,6 @@
    "looked_up": "2026-10-17T04:01:27+00:00",
    "status": "not_found"
   },
-  "ankush-aggarwal-associates|swe|l1": {
-   "expires": "2026-10-28T19:43:24.980032+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
-   "status": "not_found"
-  },
   "ansira|swe|l2": {
    "expires": "2026-11-01T16:41:41.466173+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -3018,6 +3013,11 @@
    "status": "found",
    "year": 2026
   },
+  "broccoli-com|swe|l2": {
+   "expires": "2026-11-12T06:32:33.221035+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
+   "status": "not_found"
+  },
   "bruntworkcareers|fullstack|l1": {
    "expires": "2026-10-30T13:37:41.227895+00:00",
    "looked_up": "2026-10-09T18:01:26+00:00",
@@ -3093,6 +3093,11 @@
   "burns-mcdonnell-india|data|l1": {
    "expires": "2026-11-03T10:44:56.231043+00:00",
    "looked_up": "2026-10-20T15:01:31+00:00",
+   "status": "not_found"
+  },
+  "buro-happold|swe|l1": {
+   "expires": "2026-11-05T19:24:53.048398+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "status": "not_found"
   },
   "butterflyteck|swe|l1": {
@@ -4057,8 +4062,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T19:06:20.629154+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-02-02T19:59:27.835113+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4455,8 +4460,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T04:41:23.589513+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-25T02:25:55.259382+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5400,11 +5405,6 @@
    "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
-  "digital-dhairya|fullstack|l1": {
-   "expires": "2026-10-28T19:51:37.188425+00:00",
-   "looked_up": "2026-10-12T02:01:20+00:00",
-   "status": "not_found"
-  },
   "digitalmonkiot|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5683,8 +5683,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T19:48:25.898333+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-29T06:31:12.866263+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10698,8 +10698,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T09:06:52.321348+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-23T10:47:37.743424+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12230,8 +12230,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T05:17:47.802202+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-20T20:46:45.583060+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13376,8 +13376,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T10:31:23.494734+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-28T00:13:32.549619+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14809,6 +14809,11 @@
   "radancy|frontend|l1": {
    "expires": "2026-11-07T15:32:52.902688+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
+  "radian-generation|swe|l1": {
+   "expires": "2026-11-08T12:36:37.242030+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "status": "not_found"
   },
   "radiometer-medical|swe|l1": {
@@ -16363,8 +16368,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T16:55:12.495094+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-30T22:33:09.821556+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18209,8 +18214,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T20:19:02.721451+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-20T23:59:44.493834+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18223,8 +18228,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T11:36:14.034547+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-20T16:59:01.979381+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18934,8 +18939,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T18:16:08.124364+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-22T21:40:39.942842+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19856,8 +19861,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T16:27:19.334079+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-26T11:52:29.205782+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20489,8 +20494,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:25:28.216719+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
+   "expires": "2027-01-23T08:49:15.673222+00:00",
+   "looked_up": "2026-10-28T20:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20710,8 +20715,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3363,
-  "lookups_today": 161,
+  "lookups_month": 3366,
+  "lookups_today": 164,
   "month": "2026-10"
  }
 }
