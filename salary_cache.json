@@ -457,6 +457,11 @@
    "status": "found",
    "year": 2025
   },
+  "adasoftware|swe|l1": {
+   "expires": "2026-11-07T05:12:42.744658+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
+   "status": "not_found"
+  },
   "aditiconsulting|data|l1": {
    "expires": "2026-11-04T13:51:11.962539+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -4017,8 +4022,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T10:31:23.961513+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-29T21:29:54.444754+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4395,8 +4400,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T22:03:04.101876+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-31T13:31:10.596218+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4409,6 +4414,11 @@
   "consultixscorp|swe|l1": {
    "expires": "2026-10-31T15:31:10.206296+00:00",
    "looked_up": "2026-10-13T06:01:26+00:00",
+   "status": "not_found"
+  },
+  "contact-point-360|mobile|l1": {
+   "expires": "2026-11-16T21:08:55.040349+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
   "contentegy-llc|frontend|l1": {
@@ -5310,6 +5320,11 @@
    "status": "found",
    "year": 2026
   },
+  "digiletechnologies|fullstack|l1": {
+   "expires": "2026-11-11T02:34:54.659180+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
+   "status": "not_found"
+  },
   "digiletechnologies|swe|l1": {
    "expires": "2026-11-14T07:29:54.305086+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -5618,8 +5633,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T06:26:04.337733+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-30T20:51:00.679318+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5832,8 +5847,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T18:53:08.952633+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-28T08:07:28.745797+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6172,6 +6187,11 @@
   "evolent|devops|l1": {
    "expires": "2026-11-15T10:04:05.258460+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
+  "evvara-ai|frontend|l1": {
+   "expires": "2026-11-18T02:47:29.165049+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
   "excelya|swe|l1": {
@@ -7537,11 +7557,6 @@
   "golden-opportunities-pvt-ltd|fullstack|l1": {
    "expires": "2026-10-29T19:27:53.815752+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "goldmedalindia|swe|l1": {
-   "expires": "2026-10-28T13:24:58.916482+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
    "status": "not_found"
   },
   "goodspaceai|fullstack|l1": {
@@ -9560,11 +9575,6 @@
    "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
-  "iot-solutions-world|swe|l1": {
-   "expires": "2026-10-28T13:18:20.788810+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
-   "status": "not_found"
-  },
   "ipivot|erp|l1": {
    "expires": "2026-11-12T06:38:08.941323+00:00",
    "looked_up": "2026-10-26T20:01:24+00:00",
@@ -9642,6 +9652,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "itamexperts-assetregister|erp|l1": {
+   "expires": "2026-11-05T15:57:07.438520+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
+   "status": "not_found"
   },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
@@ -10037,11 +10052,6 @@
    "status": "found",
    "year": 2024
   },
-  "jpmorganchase|fullstack|l2": {
-   "expires": "2026-10-28T13:22:15.210918+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "jpmorganchase|security|l2": {
    "expires": "2026-11-10T21:34:34.782248+00:00",
    "looked_up": "2026-10-23T09:01:25+00:00",
@@ -10090,11 +10100,6 @@
   "jsan-publishing|swe|l1": {
    "expires": "2026-10-29T22:19:31.889710+00:00",
    "looked_up": "2026-10-09T23:01:19+00:00",
-   "status": "not_found"
-  },
-  "jsm-consulting-inc|erp|l1": {
-   "expires": "2026-10-28T13:21:44.158004+00:00",
-   "looked_up": "2026-10-10T06:01:27+00:00",
    "status": "not_found"
   },
   "jumbooconsulting|fullstack|l1": {
@@ -10597,8 +10602,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T05:28:20.408025+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-20T17:57:13.452310+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12098,8 +12103,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:09:00.603930+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-25T00:25:58.936636+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13203,8 +13208,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T08:48:25.751077+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-28T08:28:53.988076+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14598,11 +14603,6 @@
    "status": "found",
    "year": 2025
   },
-  "rackloom|swe|l1": {
-   "expires": "2026-10-28T13:45:16.208422+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
-   "status": "not_found"
-  },
   "rackspace-technology|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -15004,8 +15004,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T19:53:48.891795+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-22T14:21:29.072611+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -16116,6 +16116,11 @@
   "silicon-pin|swe|l1": {
    "expires": "2026-11-02T23:40:56.554557+00:00",
    "looked_up": "2026-10-17T15:01:24+00:00",
+   "status": "not_found"
+  },
+  "simple-energy-pvt-ltd|data|l1": {
+   "expires": "2026-11-06T10:39:57.647566+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
   "simple-energy-pvt-ltd|mobile|l1": {
@@ -18042,8 +18047,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T07:33:57.546212+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-02-01T11:58:51.215765+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18266,11 +18271,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "topsunrenewable|swe|l1": {
-   "expires": "2026-10-28T13:24:20.591857+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
   },
   "totala-textiles-private-limited|swe|l1": {
    "expires": "2026-11-01T05:06:27.621602+00:00",
@@ -18768,8 +18768,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T23:06:35.137613+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-31T16:11:09.990287+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19695,8 +19695,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:15:39.437038+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-01-24T07:15:28.920715+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20224,6 +20224,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "yotta-data-services|fullstack|l1": {
+   "expires": "2026-11-07T23:07:25.648039+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
+   "status": "not_found"
+  },
   "your-website-io|swe|l1": {
    "expires": "2026-11-10T16:10:22.798712+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -20232,6 +20237,11 @@
   "yulu|mobile|l1": {
    "expires": "2026-11-06T20:07:20.570341+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "zan-services|swe|l1": {
+   "expires": "2026-11-05T02:49:16.985001+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
   "zealantconsulting|swe|l3": {
@@ -20313,8 +20323,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:20:43.879618+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
+   "expires": "2027-02-01T13:24:22.126226+00:00",
+   "looked_up": "2026-10-28T14:01:41+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20529,8 +20539,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3318,
-  "lookups_today": 116,
+  "lookups_month": 3326,
+  "lookups_today": 124,
   "month": "2026-10"
  }
 }
