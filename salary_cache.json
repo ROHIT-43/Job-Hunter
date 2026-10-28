@@ -700,8 +700,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T20:01:18.963697+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-27T08:57:11.379603+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1050,8 +1050,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:42:51.632393+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-02-01T02:17:53.071698+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2811,8 +2811,8 @@
   "brainrig-llp|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:25:14.171827+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-26T03:32:47.999580+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3934,8 +3934,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T14:29:44.428185+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-26T09:28:31.967108+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5645,8 +5645,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:36:57.328421+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-29T21:14:14.885678+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6127,6 +6127,11 @@
   "experityhealth|swe|l2": {
    "expires": "2026-11-12T05:46:22.542966+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "experityhealth|swe|l3": {
+   "expires": "2026-11-14T08:49:10.035271+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
   "expinator-web-technology|fullstack|l1": {
@@ -7620,6 +7625,11 @@
    "status": "found",
    "year": 2022
   },
+  "gtl-archived|swe|l1": {
+   "expires": "2026-11-08T09:50:56.846792+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
+   "status": "not_found"
+  },
   "guidehouse|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8101,6 +8111,11 @@
   "hiringhood|data|l1": {
    "expires": "2026-11-09T21:49:50.597649+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
+   "status": "not_found"
+  },
+  "hirojet|devops|l1": {
+   "expires": "2026-11-11T10:05:36.292449+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
   "hitachi-digital-services|erp|l1": {
@@ -10892,8 +10907,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:18:33.531159+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-25T17:58:11.278160+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -11580,6 +11595,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "moksh-overseas-education-consultant|swe|l1": {
+   "expires": "2026-11-16T09:10:26.921891+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
+   "status": "not_found"
+  },
   "mongodbinc|swe|l3": {
    "expires": "2026-11-07T09:09:49.972764+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
@@ -11979,6 +11999,11 @@
   "nestl-nespresso|data|l1": {
    "expires": "2026-10-28T22:28:34.603499+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "nestorservices|swe|l1": {
+   "expires": "2026-11-12T16:04:32.337953+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
   "netapp|security|l1": {
@@ -12831,8 +12856,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:55:28.882777+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-26T22:12:58.235719+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14607,8 +14632,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T16:55:58.349772+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-27T15:25:16.245602+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -14767,8 +14792,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:45:20.485118+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-02-01T05:19:02.609090+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15959,8 +15984,8 @@
   "soch-street|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:48:27.216835+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-21T14:56:47.503061+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17589,8 +17614,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:15:15.736372+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-21T16:42:27.373231+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19321,6 +19346,11 @@
    "looked_up": "2026-10-16T15:01:36+00:00",
    "status": "not_found"
   },
+  "wibitsweb|swe|l1": {
+   "expires": "2026-11-05T12:27:25.771779+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
+   "status": "not_found"
+  },
   "willware-technologies|swe|l1": {
    "expires": "2026-11-03T18:21:21.914591+00:00",
    "looked_up": "2026-10-15T05:01:24+00:00",
@@ -19812,8 +19842,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:17:20.593203+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
+   "expires": "2027-01-31T19:10:50.983869+00:00",
+   "looked_up": "2026-10-28T07:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20023,8 +20053,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3231,
-  "lookups_today": 29,
+  "lookups_month": 3237,
+  "lookups_today": 35,
   "month": "2026-10"
  }
 }
