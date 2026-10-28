@@ -705,8 +705,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T02:00:26.752570+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-30T01:00:26.892256+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1202,6 +1202,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "amazure-technologies-pvt-ltd|devops|l1": {
+   "expires": "2026-11-16T00:27:35.830390+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
   },
   "amazure-technologies-pvt-ltd|erp|l1": {
    "expires": "2026-11-15T00:55:13.334301+00:00",
@@ -2211,6 +2216,22 @@
    "looked_up": "2026-10-11T08:01:20+00:00",
    "status": "not_found"
   },
+  "bakerhughes|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-29T23:44:04.657075+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 9.2,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/78139311/Baker-Hughes-Inc-Mumbai"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "bangdb|fullstack|l1": {
    "expires": "2026-11-12T11:04:48.282212+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
@@ -2626,6 +2647,11 @@
    "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
   },
+  "blueyonder|devops|l1": {
+   "expires": "2026-11-10T13:53:40.547908+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "blueyonder|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2862,11 +2888,6 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
-  "brandagic-offical|frontend|l1": {
-   "expires": "2026-10-28T11:28:08.771450+00:00",
-   "looked_up": "2026-10-20T07:01:25+00:00",
-   "status": "not_found"
-  },
   "brandingbeez|mobile|l1": {
    "expires": "2026-11-06T01:50:22.282551+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
@@ -2875,6 +2896,11 @@
   "brandsafway|erp|l1": {
    "expires": "2026-11-02T07:34:50.711840+00:00",
    "looked_up": "2026-10-22T16:01:31+00:00",
+   "status": "not_found"
+  },
+  "brandstory-digital|frontend|l1": {
+   "expires": "2026-11-10T04:09:21.607589+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "bridgenext|swe|l1": {
@@ -3942,6 +3968,22 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "cme-group|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T21:09:25.895623+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 16.9,
+   "min_lpa": 16.9,
+   "sources": [
+    {
+     "title": "jobs.weekday.works",
+     "uri": "https://jobs.weekday.works/cme-group-software-engineer-i"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "co-worker-technology-ab|data|l1": {
    "expires": "2026-11-01T17:40:26.688389+00:00",
    "looked_up": "2026-10-24T15:01:33+00:00",
@@ -3965,8 +4007,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T17:50:42.528353+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-31T20:59:51.481435+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4343,8 +4385,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T23:49:57.645383+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-24T19:48:31.019734+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5150,11 +5192,6 @@
    "status": "found",
    "year": 2026
   },
-  "dermatouch-official|swe|l1": {
-   "expires": "2026-10-28T11:29:51.548055+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
   "design-directuk|devops|l1": {
    "expires": "2026-10-30T12:26:44.233463+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -5184,6 +5221,22 @@
    "expires": "2026-11-09T14:37:18.667684+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
+  },
+  "diageo|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T21:42:01.247584+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/diageo-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "digi-knights-inc|devops|l1": {
    "expires": "2026-11-05T08:03:11.616565+00:00",
@@ -5526,6 +5579,20 @@
    "status": "found",
    "year": 2024
   },
+  "ecultify-digital|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-20T12:25:02.857975+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "edgeverve|frontend|l1": {
    "expires": "2026-11-06T22:01:39.493843+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -5729,8 +5796,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:29:04.578556+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-30T12:29:29.845908+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6064,6 +6131,11 @@
   "evobe-technologies|frontend|l1": {
    "expires": "2026-11-03T22:49:52.428686+00:00",
    "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
+  "evolent|devops|l1": {
+   "expires": "2026-11-15T10:04:05.258460+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "excelya|swe|l1": {
@@ -6879,11 +6951,6 @@
   "four-f-and-associates|frontend|l1": {
    "expires": "2026-10-31T03:10:10.934670+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
-   "status": "not_found"
-  },
-  "foxtechteam|swe|l1": {
-   "expires": "2026-10-28T11:37:24.239557+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "fractal-analytics|fullstack|l1": {
@@ -7745,6 +7812,11 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "guidewire-software|frontend|l2": {
+   "expires": "2026-11-13T04:19:24.975201+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "guidewire-software|swe|l1": {
    "expires": "2026-10-31T05:38:19.106048+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
@@ -7890,6 +7962,22 @@
    "status": "found",
    "year": 2026
   },
+  "harmanindia|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T15:08:23.274803+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/harman-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "harris-computer.|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8007,6 +8095,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hcpwellness|frontend|l1": {
+   "expires": "2026-11-07T12:16:25.554298+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
   },
   "headout-com|frontend|l1": {
    "basis": "base",
@@ -9223,6 +9316,26 @@
    "status": "found",
    "year": 2026
   },
+  "inmobiadvertising|data|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-23T17:07:27.650123+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 42.8,
+   "min_lpa": 28.6,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-inmobi-pay/sde-2"
+    },
+    {
+     "title": "next.levels.fyi",
+     "uri": "https://next.levels.fyi/companies/inmobi/salaries/software-engineer/title/android-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "innoppl-it-services|fullstack|l1": {
    "expires": "2026-11-01T13:04:58.184027+00:00",
    "looked_up": "2026-10-23T01:01:23+00:00",
@@ -10433,8 +10546,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:05:58.172696+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-26T09:57:49.108799+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11304,6 +11417,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "mbtygl|data|l1": {
+   "expires": "2026-11-14T07:29:37.258499+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "mbtygl|frontend|l1": {
    "expires": "2026-11-10T22:00:44.852567+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -11470,6 +11588,11 @@
   "metro-services-private-limited|devops|l1": {
    "expires": "2026-11-04T00:07:39.773709+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "metro-services-private-limited|security|l1": {
+   "expires": "2026-11-16T14:35:31.144796+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "mettlertoledo|mobile|l1": {
@@ -11729,6 +11852,11 @@
    "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
+  "mondelezinternational|data|l1": {
+   "expires": "2026-11-13T22:27:03.996223+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "mongodbinc|swe|l3": {
    "expires": "2026-11-07T09:09:49.972764+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
@@ -11919,8 +12047,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T19:22:41.131495+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-25T08:22:51.355491+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12370,6 +12498,11 @@
    "looked_up": "2026-10-16T17:01:24+00:00",
    "status": "not_found"
   },
+  "nitrocommerce|devops|l1": {
+   "expires": "2026-11-17T09:07:49.369742+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "nityo-infotech|swe|l1": {
    "expires": "2026-11-10T16:48:20.890417+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -12729,6 +12862,11 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "officeworks-gcc-india|erp|l1": {
+   "expires": "2026-11-10T22:27:30.018930+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "ofi-services|erp|l1": {
    "expires": "2026-11-01T19:25:58.454259+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -13014,8 +13152,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:32:33.582528+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-25T00:52:24.048880+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13525,6 +13663,11 @@
   "planview|swe|l2": {
    "expires": "2026-11-03T23:29:53.342858+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "platinum-software-cbe|swe|l1": {
+   "expires": "2026-11-15T06:56:07.676428+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "plexitechsolutions|data|l1": {
@@ -14528,6 +14671,11 @@
    "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
+  "real-time-applications-center|devops|l1": {
+   "expires": "2026-11-09T19:45:50.063023+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "real-time-applications-center|frontend|l1": {
    "expires": "2026-11-06T03:19:05.239975+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
@@ -14805,8 +14953,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:59:42.197874+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-02-02T09:52:26.032557+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -14824,11 +14972,6 @@
   "rhenova-tech|swe|l1": {
    "expires": "2026-11-14T14:39:59.850346+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "rhevix|data|l1": {
-   "expires": "2026-10-28T11:16:11.886658+00:00",
-   "looked_up": "2026-10-09T04:01:24+00:00",
    "status": "not_found"
   },
   "right-advisors-pvt-ltd|swe|l1": {
@@ -15693,11 +15836,6 @@
    "looked_up": "2026-10-25T17:01:23+00:00",
    "status": "not_found"
   },
-  "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
-   "expires": "2026-10-28T11:32:28.144555+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "shi-india|security|l1": {
    "expires": "2026-11-14T08:00:55.222519+00:00",
    "looked_up": "2026-10-25T15:01:25+00:00",
@@ -15917,6 +16055,11 @@
   "siiindia|swe|l1": {
    "expires": "2026-11-07T09:16:52.434183+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
+  "silicon-comnet-pvt-ltd|security|l1": {
+   "expires": "2026-11-16T20:47:38.168797+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "silicon-pin|swe|l1": {
@@ -16515,6 +16658,11 @@
    "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
+  "spadtek-solutions|erp|l1": {
+   "expires": "2026-11-12T00:32:35.335462+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
   "sparkt-india|fullstack|l1": {
    "expires": "2026-11-07T09:49:11.716813+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
@@ -16878,11 +17026,6 @@
    "status": "found",
    "year": 2024
   },
-  "syncupindia|fullstack|l2": {
-   "expires": "2026-10-28T11:12:18.447452+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "syndigo|swe|l1": {
    "expires": "2026-11-02T09:52:16.546651+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -17045,11 +17188,6 @@
   "talent-glider|swe|l1": {
    "expires": "2026-11-04T11:04:42.839381+00:00",
    "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "talent-matics|frontend|l1": {
-   "expires": "2026-10-28T11:03:40.835876+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "talentmicro-corporation|swe|l1": {
@@ -17288,6 +17426,22 @@
    "expires": "2026-11-06T07:44:24.105245+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
+  },
+  "te-connectivity|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T13:19:29.356213+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 5.1,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/te-connectivity/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "teachpad-in|frontend|l1": {
    "expires": "2026-11-06T03:40:02.457297+00:00",
@@ -17827,8 +17981,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T18:01:52.309005+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-29T15:51:10.826873+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18550,6 +18704,20 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
+  "updot|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-01T14:21:00.043293+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "upkram|swe|l1": {
    "expires": "2026-11-13T18:16:18.084256+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
@@ -19199,11 +19367,6 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
-  "vohglobal|swe|l1": {
-   "expires": "2026-10-28T11:22:31.507995+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
-  },
   "voiceindia-ai|fullstack|l1": {
    "expires": "2026-11-02T15:18:34.120233+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
@@ -19461,6 +19624,20 @@
    "looked_up": "2026-10-17T16:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "weareuplers|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-29T08:36:26.554156+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 15.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -20080,8 +20257,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T08:10:19.599789+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
+   "expires": "2027-01-27T20:20:28.595441+00:00",
+   "looked_up": "2026-10-28T12:01:36+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20296,8 +20473,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3282,
-  "lookups_today": 80,
+  "lookups_month": 3303,
+  "lookups_today": 101,
   "month": "2026-10"
  }
 }
