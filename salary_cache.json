@@ -705,8 +705,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T20:37:59.177573+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-31T15:27:27.534664+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1065,8 +1065,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T16:40:36.382900+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-28T08:04:06.346142+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1079,8 +1079,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T20:52:16.994639+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-24T16:17:47.429747+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2826,8 +2826,8 @@
   "brainrig-llp|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T05:44:32.802949+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-28T22:32:59.180851+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3959,8 +3959,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T20:34:36.851748+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-25T03:04:08.114140+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5655,8 +5655,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:53:38.019925+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-30T09:48:48.064711+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5669,6 +5669,11 @@
   "ensono|swe|l1": {
    "expires": "2026-11-01T18:24:07.475202+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
+   "status": "not_found"
+  },
+  "entain-india|erp|l1": {
+   "expires": "2026-11-13T14:45:20.679672+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "status": "not_found"
   },
   "enterprise-bot|fullstack|l1": {
@@ -6712,11 +6717,6 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
-  "fluxusforge|fullstack|l1": {
-   "expires": "2026-10-28T00:13:37.247805+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "fnz|security|l1": {
    "expires": "2026-11-16T17:13:31.578631+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -7376,8 +7376,8 @@
   "goodspaceai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T17:03:42.496832+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-26T00:04:44.625329+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 9.0,
    "sources": [
@@ -10759,11 +10759,6 @@
    "looked_up": "2026-10-10T16:01:23+00:00",
    "status": "not_found"
   },
-  "madgeek|swe|l1": {
-   "expires": "2026-10-28T00:10:04.534138+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "madison-logic|devops|l1": {
    "expires": "2026-10-28T12:32:08.545302+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
@@ -10912,8 +10907,8 @@
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T05:28:41.770681+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-27T09:43:58.302014+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12051,11 +12046,6 @@
    "looked_up": "2026-10-20T17:01:29+00:00",
    "status": "not_found"
   },
-  "nexduo|frontend|l1": {
-   "expires": "2026-10-28T00:12:35.255709+00:00",
-   "looked_up": "2026-10-10T00:01:23+00:00",
-   "status": "not_found"
-  },
   "nexduo|swe|l1": {
    "expires": "2026-10-30T23:45:57.460710+00:00",
    "looked_up": "2026-10-10T00:01:23+00:00",
@@ -12840,8 +12830,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:40:10.968952+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-19T14:10:07.559746+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14280,6 +14270,11 @@
    "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
+  "rainfocus|frontend|l1": {
+   "expires": "2026-11-12T12:27:25.698955+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
+   "status": "not_found"
+  },
   "rampwork|mobile|l1": {
    "expires": "2026-10-29T17:05:49.205229+00:00",
    "looked_up": "2026-10-08T23:01:19+00:00",
@@ -14626,8 +14621,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:35:55.359868+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-24T11:16:36.446020+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -14791,8 +14786,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:09:47.901658+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-02-01T15:01:16.742081+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 1.8,
    "sources": [
@@ -15983,8 +15978,8 @@
   "soch-street|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:32:14.646638+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-27T06:34:21.824703+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16275,6 +16270,11 @@
   "sourceright|data|l1": {
    "expires": "2026-11-10T06:30:09.423801+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "sourceright|fullstack|l1": {
+   "expires": "2026-11-05T20:59:33.450877+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "status": "not_found"
   },
   "sourceright|swe|l1": {
@@ -17613,8 +17613,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:16:14.604029+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-01-28T12:49:59.246080+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19395,6 +19395,30 @@
    "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
+  "wipro|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T17:46:28.697703+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/wipro-salaries/developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/wipro-digital-salaries/software-engineer/hyderabad-location"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Wipro/salaries/DevOps-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "wipro|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19832,8 +19856,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T14:00:54.361390+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
+   "expires": "2027-02-01T07:40:26.985782+00:00",
+   "looked_up": "2026-10-28T01:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20043,8 +20067,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3204,
-  "lookups_today": 2,
+  "lookups_month": 3208,
+  "lookups_today": 6,
   "month": "2026-10"
  }
 }
