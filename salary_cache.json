@@ -1300,11 +1300,6 @@
    "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
-  "ami|swe|l1": {
-   "expires": "2026-10-28T20:04:49.955424+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
   "amrit-autotech-engineers|swe|l1": {
    "expires": "2026-11-10T06:29:43.455489+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
@@ -4062,8 +4057,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T19:59:27.835113+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-02-01T05:02:04.014127+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4460,8 +4455,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:25:55.259382+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-21T12:53:08.000208+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5683,8 +5678,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:31:12.866263+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-31T00:22:28.388079+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6380,11 +6375,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "experityhealth|data|l2": {
-   "expires": "2026-10-28T20:18:27.885774+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
-   "status": "not_found"
   },
   "experityhealth|swe|l2": {
    "expires": "2026-11-12T05:46:22.542966+00:00",
@@ -10698,8 +10688,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T10:47:37.743424+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-26T23:45:56.755915+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10846,11 +10836,6 @@
   "linde-india-ltd|swe|l1": {
    "expires": "2026-11-13T16:10:18.598990+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
-  "linde|erp|l1": {
-   "expires": "2026-10-28T20:37:16.879764+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
   "linde|fullstack|l1": {
@@ -12230,8 +12215,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T20:46:45.583060+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-30T11:29:53.255776+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13376,8 +13361,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T00:13:32.549619+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-02-02T09:24:20.947848+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16368,8 +16353,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:33:09.821556+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-22T00:28:53.819875+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18214,8 +18199,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T23:59:44.493834+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-30T01:39:16.740373+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18228,8 +18213,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T16:59:01.979381+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-24T10:55:45.442035+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18726,11 +18711,6 @@
    "looked_up": "2026-10-17T14:01:30+00:00",
    "status": "not_found"
   },
-  "truwave-software-llc|frontend|l1": {
-   "expires": "2026-10-28T20:51:37.257845+00:00",
-   "looked_up": "2026-10-19T05:01:25+00:00",
-   "status": "not_found"
-  },
   "truwave-software-llc|swe|l1": {
    "expires": "2026-11-06T01:28:20.238057+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
@@ -18939,8 +18919,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T21:40:39.942842+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-26T21:04:14.165876+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19861,8 +19841,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:52:29.205782+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
+   "expires": "2027-01-27T06:15:32.563856+00:00",
+   "looked_up": "2026-10-28T21:02:18+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
