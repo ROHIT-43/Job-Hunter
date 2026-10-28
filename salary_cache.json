@@ -700,8 +700,8 @@
   "aiqon-academy|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T21:23:47.681629+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-28T03:31:27.545880+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -856,11 +856,6 @@
   "algoleap|data|l1": {
    "expires": "2026-11-04T17:51:58.231104+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "algoleap|devops|l1": {
-   "expires": "2026-10-28T08:03:04.588338+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "algoleap|erp|l1": {
@@ -1045,8 +1040,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T21:29:24.542935+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-20T15:40:08.103919+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2816,8 +2811,8 @@
   "brainrig-llp|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:06:41.642655+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-21T01:11:14.546586+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -3925,8 +3920,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T05:51:39.911224+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-26T22:10:12.734237+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -3939,8 +3934,8 @@
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T15:26:42.139321+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-31T23:11:52.057355+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4298,8 +4293,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T14:26:50.886801+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-30T13:03:03.363839+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4597,11 +4592,6 @@
   "cwc-mohali|mobile|l1": {
    "expires": "2026-10-30T12:01:56.079974+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "cwl-technology-private-limited|mobile|l2": {
-   "expires": "2026-10-28T08:14:18.933654+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "cxo-academy-us|swe|l1": {
@@ -5674,8 +5664,8 @@
   "enigen-uk|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:36:26.191849+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-19T12:16:23.115152+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11819,8 +11809,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T10:29:58.357549+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-20T03:25:35.483196+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12899,8 +12889,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:10:27.491970+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-02-01T18:35:23.397440+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14685,8 +14675,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:14:46.173353+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-23T15:45:15.797606+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -16047,8 +16037,8 @@
   "soch-street|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T16:56:06.546381+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-30T01:40:21.739567+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17677,8 +17667,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T16:55:37.935248+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-21T11:12:46.635205+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19920,8 +19910,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T20:52:45.158647+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
+   "expires": "2027-01-23T09:21:44.525919+00:00",
+   "looked_up": "2026-10-28T08:31:15+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
