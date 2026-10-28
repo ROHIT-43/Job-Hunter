@@ -1208,6 +1208,11 @@
    "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
+  "ambia-systems|swe|l1": {
+   "expires": "2026-11-12T11:07:55.363639+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
+   "status": "not_found"
+  },
   "amd|swe|l1": {
    "expires": "2026-10-30T04:22:11.335192+00:00",
    "looked_up": "2026-10-09T11:01:24+00:00",
@@ -1918,6 +1923,11 @@
   "atomicads|swe|l1": {
    "expires": "2026-11-02T14:26:03.572160+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
+   "status": "not_found"
+  },
+  "atomicworkhq|security|l1": {
+   "expires": "2026-11-09T11:32:36.465212+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "status": "not_found"
   },
   "atozinterview-ai|swe|l1": {
@@ -4037,8 +4047,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:13:09.479457+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-21T03:46:20.508607+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4435,8 +4445,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:06:47.666008+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-29T13:24:19.391334+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5673,8 +5683,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T15:23:58.965898+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-24T23:54:28.856826+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10500,6 +10510,22 @@
    "status": "found",
    "year": 2026
   },
+  "kran-consulting-inc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T02:40:29.287900+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/kran-consulting-pvt-ltd-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "krish-technolabs|devops|l1": {
    "expires": "2026-11-05T06:40:08.349218+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -10662,8 +10688,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T07:28:58.897347+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-26T01:40:32.237369+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12194,8 +12220,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:21:31.825820+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-28T08:20:04.050618+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13113,6 +13139,11 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
+  "onit-india|fullstack|l1": {
+   "expires": "2026-11-04T20:07:11.859526+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
+   "status": "not_found"
+  },
   "onit|fullstack|l1": {
    "expires": "2026-11-18T06:33:23.871062+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -13234,6 +13265,22 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "oracle|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T19:50:14.695157+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/oracle-india/jobs-internships/devops-support-engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "oracle|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -13324,8 +13371,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T23:59:12.851999+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-20T09:02:07.864690+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13378,6 +13425,11 @@
   "paisalo-digital-ltd|mobile|l1": {
    "expires": "2026-11-13T03:11:19.539623+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "pallav-technologies|swe|l1": {
+   "expires": "2026-11-12T02:11:44.023642+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "status": "not_found"
   },
   "palo-alto-networks|security|l1": {
@@ -13601,6 +13653,11 @@
   "peopleprimeww|swe|l1": {
    "expires": "2026-11-10T22:57:58.475078+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "pepsico|data|l1": {
+   "expires": "2026-11-15T02:41:34.479742+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "status": "not_found"
   },
   "perceptyne-robots|swe|l1": {
@@ -16301,8 +16358,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:28:11.672077+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-21T04:41:07.092435+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18142,8 +18199,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:56:11.256944+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-31T14:55:16.649729+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18156,8 +18213,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T07:22:01.282144+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-02-01T13:35:27.597611+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18867,8 +18924,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T04:17:32.931891+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-23T18:43:31.406744+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19271,11 +19328,6 @@
   "vertageglobal|erp|l1": {
    "expires": "2026-11-01T22:55:06.674966+00:00",
    "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
-  "vertigo-media|fullstack|l1": {
-   "expires": "2026-10-28T17:49:49.761427+00:00",
-   "looked_up": "2026-10-11T13:01:20+00:00",
    "status": "not_found"
   },
   "vertiv|swe|l1": {
@@ -19794,8 +19846,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T03:56:31.158015+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-26T19:13:29.440339+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20427,8 +20479,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T11:33:00.864038+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+   "expires": "2027-01-25T17:55:54.671297+00:00",
+   "looked_up": "2026-10-28T18:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20648,8 +20700,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3351,
-  "lookups_today": 149,
+  "lookups_month": 3358,
+  "lookups_today": 156,
   "month": "2026-10"
  }
 }
