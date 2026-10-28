@@ -988,11 +988,6 @@
    "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
-  "alphabin|swe|l1": {
-   "expires": "2026-10-28T14:23:17.316554+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3434,6 +3429,11 @@
    "status": "found",
    "year": 2021
   },
+  "catalysts-team|fullstack|l1": {
+   "expires": "2026-11-13T18:52:15.268407+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|data|l1": {
    "expires": "2026-11-03T16:52:35.633914+00:00",
    "looked_up": "2026-10-18T21:01:29+00:00",
@@ -4022,8 +4022,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T21:29:54.444754+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-02-01T19:07:27.151209+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4400,8 +4400,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T13:31:10.596218+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-25T22:04:28.358697+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5633,8 +5633,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T20:51:00.679318+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-31T00:14:52.951379+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -8878,11 +8878,6 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
-  "ideahelix|erp|l1": {
-   "expires": "2026-10-28T14:56:30.565812+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "idemiagroup|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -10121,6 +10116,11 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "juspay-technologies|devops|l1": {
+   "expires": "2026-11-05T21:17:02.484855+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
+   "status": "not_found"
+  },
   "juspay-technologies|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10602,8 +10602,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T17:57:13.452310+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-20T14:45:14.999164+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11032,6 +11032,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "luxoft|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T14:54:16.852138+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/luxoft-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "maayasthra|swe|l1": {
    "basis": "posted",
@@ -12103,8 +12119,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T00:25:58.936636+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-28T19:03:33.867297+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13208,8 +13224,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:28:53.988076+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-31T08:08:30.158629+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13485,6 +13501,11 @@
   "peopleprimeww|swe|l1": {
    "expires": "2026-11-10T22:57:58.475078+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "perceptyne-robots|swe|l1": {
+   "expires": "2026-11-16T09:54:15.418049+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
   "persistent-systems|devops|l1": {
@@ -13974,11 +13995,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "proofpoint|swe|l1": {
-   "expires": "2026-10-28T14:42:17.946903+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
   },
   "propbulls-solutions|swe|l1": {
    "expires": "2026-10-30T05:05:01.930791+00:00",
@@ -15004,8 +15020,8 @@
   "reverse-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:21:29.072611+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-24T20:04:36.312488+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.5,
    "sources": [
@@ -15147,8 +15163,8 @@
    "status": "not_found"
   },
   "rockwell-automation|swe|l1": {
-   "expires": "2026-10-28T14:27:07.212406+00:00",
-   "looked_up": "2026-10-09T14:01:24+00:00",
+   "expires": "2026-11-08T10:38:47.091981+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
   "rockwool-group|swe|l1": {
@@ -18005,11 +18021,6 @@
    "looked_up": "2026-10-25T18:01:23+00:00",
    "status": "not_found"
   },
-  "the-retail-insights|devops|l1": {
-   "expires": "2026-10-28T14:27:17.026204+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
-   "status": "not_found"
-  },
   "the-urbanindia|erp|l1": {
    "expires": "2026-11-11T03:58:57.594981+00:00",
    "looked_up": "2026-10-22T18:01:28+00:00",
@@ -18047,8 +18058,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T11:58:51.215765+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-31T17:00:05.423668+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18066,11 +18077,6 @@
   "thejobsmap|swe|l1": {
    "expires": "2026-11-01T18:15:09.026116+00:00",
    "looked_up": "2026-10-15T23:01:27+00:00",
-   "status": "not_found"
-  },
-  "theladecoller|swe|l1": {
-   "expires": "2026-10-28T14:53:46.760085+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
   "thermo-fisher-scientific|swe|l2": {
@@ -18768,8 +18774,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T16:11:09.990287+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-25T19:31:39.008907+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19059,8 +19065,8 @@
    "year": 2026
   },
   "valgenesis-inc|swe|l1": {
-   "expires": "2026-10-28T14:35:19.110042+00:00",
-   "looked_up": "2026-10-10T04:01:22+00:00",
+   "expires": "2026-11-09T22:53:54.828004+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
   "valuelabs|swe|l1": {
@@ -19695,8 +19701,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:15:28.920715+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-23T19:07:04.163080+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20323,8 +20329,8 @@
   "zendaapp|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T13:24:22.126226+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
+   "expires": "2027-01-20T05:07:35.734793+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
    "max_lpa": 10.0,
    "min_lpa": 10.0,
    "sources": [
@@ -20470,6 +20476,11 @@
    "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
+  "zimmerbiomet|frontend|l1": {
+   "expires": "2026-11-09T02:16:44.920029+00:00",
+   "looked_up": "2026-10-28T15:01:35+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-04T06:03:01.909462+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
@@ -20539,8 +20550,8 @@
  },
  "meta": {
   "day": "2026-10-28",
-  "lookups_month": 3326,
-  "lookups_today": 124,
+  "lookups_month": 3333,
+  "lookups_today": 131,
   "month": "2026-10"
  }
 }
