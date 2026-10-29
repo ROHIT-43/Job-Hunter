@@ -4037,8 +4037,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T17:22:13.374722+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-30T16:03:26.620221+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4435,8 +4435,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T16:11:14.838000+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-25T14:03:49.874947+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5648,8 +5648,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T00:05:45.276754+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-21T04:48:14.442788+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9902,6 +9902,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "jobfixnow|swe|l1": {
+   "expires": "2026-11-06T19:23:20.652521+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
+   "status": "not_found"
+  },
   "jobgether|data|l1": {
    "expires": "2026-11-01T03:19:23.524621+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -10628,8 +10633,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:38:43.190509+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-24T19:29:57.721236+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12155,8 +12160,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T03:16:36.274291+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-28T05:26:55.232293+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13281,8 +13286,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:11:35.954304+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-31T17:20:23.632569+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15399,6 +15404,22 @@
    "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
+  "saffiretech|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T00:08:48.464186+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "in.jooble.org",
+     "uri": "https://in.jooble.org/jobs-remote-front-end-developer/Thane"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "sage-software|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16258,8 +16279,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T05:05:52.772553+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-02-02T00:09:26.634050+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16820,6 +16841,11 @@
   "sprrg-internet-pvt-ltd|swe|l1": {
    "expires": "2026-10-31T05:42:06.190576+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
+  "spydra|data|l1": {
+   "expires": "2026-11-11T15:10:09.698537+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "status": "not_found"
   },
   "srd-infotek-inc|swe|l1": {
@@ -18089,8 +18115,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T14:29:36.724328+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-23T11:56:33.385498+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18103,8 +18129,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T22:05:27.824042+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-21T08:17:36.942744+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18809,8 +18835,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:25:04.828651+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-01-20T16:53:01.619529+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19731,8 +19757,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T18:30:41.650638+00:00",
-   "looked_up": "2026-10-29T00:56:06+00:00",
+   "expires": "2027-02-01T07:34:14.793392+00:00",
+   "looked_up": "2026-10-29T01:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20580,8 +20606,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3370,
-  "lookups_today": 1,
+  "lookups_month": 3373,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
