@@ -467,11 +467,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|erp|l1": {
-   "expires": "2026-10-29T13:25:19.844024+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "aditiconsulting|fullstack|l1": {
    "expires": "2026-11-06T03:26:35.884686+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -5851,8 +5846,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T15:31:26.541419+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
+   "expires": "2027-01-26T04:44:07.406509+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8807,6 +8802,11 @@
    "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
+  "icapital-network-inc|swe|l1": {
+   "expires": "2026-11-09T21:56:34.299654+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
+   "status": "not_found"
+  },
   "icare-infosystems-private-limited|frontend|l1": {
    "expires": "2026-11-08T01:34:24.354258+00:00",
    "looked_up": "2026-10-23T05:01:28+00:00",
@@ -8955,11 +8955,6 @@
   "iitmatrix|data|l1": {
    "expires": "2026-11-05T12:40:31.715495+00:00",
    "looked_up": "2026-10-24T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "iitmatrix|swe|l1": {
-   "expires": "2026-10-29T13:02:50.896262+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "illumina|data|l1": {
@@ -9815,6 +9810,11 @@
    "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
+  "jenvyqo|data|l1": {
+   "expires": "2026-11-10T04:13:36.194660+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
+   "status": "not_found"
+  },
   "jenvyqo|swe|l1": {
    "expires": "2026-11-03T11:03:26.799734+00:00",
    "looked_up": "2026-10-15T09:01:27+00:00",
@@ -9904,11 +9904,6 @@
   "jobgether|data|l1": {
    "expires": "2026-11-01T03:19:23.524621+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "jobgether|devops|l1": {
-   "expires": "2026-10-29T13:28:15.404468+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
    "status": "not_found"
   },
   "jobgether|erp|l1": {
@@ -10636,8 +10631,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T12:39:22.429917+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
+   "expires": "2027-02-02T21:50:14.185657+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10695,11 +10690,6 @@
   "lightnwonder|devops|l1": {
    "expires": "2026-11-10T11:30:19.643835+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "lightnwonder|frontend|l1": {
-   "expires": "2026-10-29T13:19:34.355427+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
    "status": "not_found"
   },
   "lightnwonder|swe|l1": {
@@ -11129,6 +11119,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "magna-international|security|l1": {
+   "expires": "2026-11-17T17:55:19.943090+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
+   "status": "not_found"
   },
   "magna-international|swe|l1": {
    "basis": "ctc",
@@ -13502,11 +13497,6 @@
   "payway-ltd|mobile|l1": {
    "expires": "2026-11-01T02:50:21.797545+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "pdi-technologies|data|l2": {
-   "expires": "2026-10-29T13:22:20.202936+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
    "status": "not_found"
   },
   "pdi-technologies|swe|l3": {
@@ -16311,8 +16301,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T07:19:53.018485+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
+   "expires": "2027-01-31T19:33:04.223013+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18168,8 +18158,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:51:20.504078+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
+   "expires": "2027-02-01T14:47:49.867764+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18182,8 +18172,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T07:59:47.663682+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
+   "expires": "2027-02-03T00:24:49.148251+00:00",
+   "looked_up": "2026-10-29T14:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20659,8 +20649,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3424,
-  "lookups_today": 55,
+  "lookups_month": 3427,
+  "lookups_today": 58,
   "month": "2026-10"
  }
 }
