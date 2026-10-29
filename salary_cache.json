@@ -1687,6 +1687,11 @@
    "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
+  "aristocratcorporate|swe|l2": {
+   "expires": "2026-11-19T04:37:40.398683+00:00",
+   "looked_up": "2026-10-29T17:01:31+00:00",
+   "status": "not_found"
+  },
   "aritioninfotech|swe|l1": {
    "expires": "2026-11-10T05:41:50.749275+00:00",
    "looked_up": "2026-10-22T20:01:26+00:00",
@@ -5620,11 +5625,6 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
-  "eclinical-solutions|swe|l1": {
-   "expires": "2026-10-29T16:23:38.742000+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
-  },
   "ecobillz-private-limited|swe|l1": {
    "expires": "2026-11-01T04:53:07.844496+00:00",
    "looked_up": "2026-10-13T18:01:29+00:00",
@@ -5866,8 +5866,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T07:13:49.909015+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
+   "expires": "2027-02-02T03:22:39.314263+00:00",
+   "looked_up": "2026-10-29T17:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10631,8 +10631,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:52:09.636588+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
+   "expires": "2027-01-21T11:27:30.504034+00:00",
+   "looked_up": "2026-10-29T17:01:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10725,6 +10725,11 @@
   "linde-engineering|swe|l2": {
    "expires": "2026-11-06T21:52:52.736994+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "linde-india-ltd|data|l1": {
+   "expires": "2026-11-17T13:47:56.429155+00:00",
+   "looked_up": "2026-10-29T17:01:31+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|erp|l1": {
@@ -12274,11 +12279,6 @@
    "status": "found",
    "year": 2026
   },
-  "necsws|frontend|l1": {
-   "expires": "2026-10-29T16:05:43.206961+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
   "necsws|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12444,11 +12444,6 @@
   "newspacert|swe|l2": {
    "expires": "2026-11-11T01:18:38.274701+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "nexacaretalent|frontend|l1": {
-   "expires": "2026-10-29T16:12:24.520388+00:00",
-   "looked_up": "2026-10-20T17:01:29+00:00",
    "status": "not_found"
   },
   "nexduo|swe|l1": {
@@ -13336,11 +13331,6 @@
   "oxybills|swe|l1": {
    "expires": "2026-11-01T01:24:02.094285+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
-  "p-i-v-o-t-security|security|l1": {
-   "expires": "2026-10-29T16:30:54.989090+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "paccar|swe|l1": {
@@ -17907,6 +17897,11 @@
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
+  "tekwissenindia|swe|l1": {
+   "expires": "2026-11-14T05:08:56.149084+00:00",
+   "looked_up": "2026-10-29T17:01:31+00:00",
+   "status": "not_found"
+  },
   "telus-digital|swe|l1": {
    "expires": "2026-10-31T06:41:38.789282+00:00",
    "looked_up": "2026-10-17T18:01:21+00:00",
@@ -20664,8 +20659,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3440,
-  "lookups_today": 71,
+  "lookups_month": 3443,
+  "lookups_today": 74,
   "month": "2026-10"
  }
 }
