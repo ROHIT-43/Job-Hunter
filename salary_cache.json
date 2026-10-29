@@ -527,11 +527,6 @@
    "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
-  "adtran|swe|l1": {
-   "expires": "2026-10-29T18:48:14.817275+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
-  },
   "advance-techno-systems|swe|l1": {
    "expires": "2026-10-29T21:43:25.723725+00:00",
    "looked_up": "2026-10-15T03:01:34+00:00",
@@ -3026,6 +3021,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "broadridge-financial-solutions-india-private-ltd|data|l1": {
+   "expires": "2026-11-07T12:07:13.930165+00:00",
+   "looked_up": "2026-10-29T19:01:27+00:00",
+   "status": "not_found"
   },
   "broccoli-com|swe|l2": {
    "expires": "2026-11-12T06:32:33.221035+00:00",
@@ -5866,8 +5866,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:32:54.372203+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
+   "expires": "2027-02-01T02:27:01.895781+00:00",
+   "looked_up": "2026-10-29T19:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5968,6 +5968,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "equifax|erp|l1": {
+   "expires": "2026-11-09T22:08:14.613614+00:00",
+   "looked_up": "2026-10-29T19:01:27+00:00",
+   "status": "not_found"
   },
   "equifax|swe|l1": {
    "expires": "2026-11-15T18:19:22.883705+00:00",
@@ -7765,11 +7770,6 @@
   "greif|erp|l1": {
    "expires": "2026-11-01T19:12:08.794865+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "grey-machines|swe|l1": {
-   "expires": "2026-10-29T18:20:09.550090+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
    "status": "not_found"
   },
   "greymatterauto|swe|l1": {
@@ -10631,8 +10631,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T08:56:23.857928+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
+   "expires": "2027-02-03T18:06:15.408434+00:00",
+   "looked_up": "2026-10-29T19:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12698,11 +12698,6 @@
    "status": "found",
    "year": 2025
   },
-  "novbliss-consultancy-private-limited|data|l1": {
-   "expires": "2026-10-29T18:55:57.976244+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
-   "status": "not_found"
-  },
   "noventiq|devops|l1": {
    "expires": "2026-10-31T14:53:35.767702+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -14465,11 +14460,6 @@
   "qualizeal|swe|l1": {
    "expires": "2026-11-03T13:01:55.607694+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "qualys|devops|l1": {
-   "expires": "2026-10-29T18:28:20.911078+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "qualys|security|l1": {
@@ -16269,11 +16259,6 @@
    "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
-  "sisnolabs|mobile|l1": {
-   "expires": "2026-10-29T18:56:01.281289+00:00",
-   "looked_up": "2026-10-17T12:01:27+00:00",
-   "status": "not_found"
-  },
   "skatesupplyindia|frontend|l1": {
    "expires": "2026-11-07T19:29:15.912251+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
@@ -17375,11 +17360,6 @@
   "talentrabbit|swe|l1": {
    "expires": "2026-11-06T07:53:27.500613+00:00",
    "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "talentxo|swe|l3": {
-   "expires": "2026-10-29T18:32:23.986977+00:00",
-   "looked_up": "2026-10-18T09:01:27+00:00",
    "status": "not_found"
   },
   "talkdesk|mobile|l2": {
@@ -18857,11 +18837,6 @@
   "unistar-innovative-engineers-and-services|swe|l1": {
    "expires": "2026-11-02T17:11:32.933995+00:00",
    "looked_up": "2026-10-16T04:01:28+00:00",
-   "status": "not_found"
-  },
-  "unisys|erp|l1": {
-   "expires": "2026-10-29T18:36:18.600032+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "united-airlines-india-knowledge-center|swe|l1": {
@@ -20664,8 +20639,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3451,
-  "lookups_today": 82,
+  "lookups_month": 3453,
+  "lookups_today": 84,
   "month": "2026-10"
  }
 }
