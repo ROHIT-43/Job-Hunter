@@ -250,11 +250,6 @@
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
-  "accendra-health|erp|l2": {
-   "expires": "2026-10-29T03:26:27.699507+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
-   "status": "not_found"
-  },
   "accentureindia|data|l1": {
    "expires": "2026-11-03T10:30:48.740670+00:00",
    "looked_up": "2026-10-19T15:01:29+00:00",
@@ -1807,11 +1802,6 @@
   "assetmark-global-wealth|devops|l1": {
    "expires": "2026-11-05T09:34:35.064725+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "assetmark-global-wealth|swe|l1": {
-   "expires": "2026-10-29T03:13:47.149469+00:00",
-   "looked_up": "2026-10-21T04:01:37+00:00",
    "status": "not_found"
   },
   "assetze|swe|l1": {
@@ -3849,11 +3839,6 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
-  "citi|data|l1": {
-   "expires": "2026-10-29T03:57:29.060183+00:00",
-   "looked_up": "2026-10-09T22:01:25+00:00",
-   "status": "not_found"
-  },
   "citi|frontend|l1": {
    "expires": "2026-11-03T08:15:06.039859+00:00",
    "looked_up": "2026-10-20T16:01:30+00:00",
@@ -4032,8 +4017,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:06:22.331695+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-28T08:40:56.710278+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4430,8 +4415,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T06:31:36.083527+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-30T10:36:01.156791+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5643,8 +5628,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:50:10.300783+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-23T11:38:45.803225+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7158,11 +7143,6 @@
    "status": "found",
    "year": 2026
   },
-  "geeksgod|swe|l1": {
-   "expires": "2026-10-29T03:59:34.882577+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
-   "status": "not_found"
-  },
   "geektrust|devops|l1": {
    "expires": "2026-11-01T17:22:48.759717+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
@@ -7882,11 +7862,6 @@
   "gulf-marvel-eng-tr-co-llc|swe|l1": {
    "expires": "2026-11-03T08:43:38.458247+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
-  "gwayerp|devops|l1": {
-   "expires": "2026-10-29T03:11:55.018667+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
    "status": "not_found"
   },
   "gwayerp|fullstack|l1": {
@@ -10613,8 +10588,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T16:07:21.493430+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-26T15:11:32.014265+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12125,8 +12100,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T11:13:09.361452+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-21T16:12:13.989394+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13251,8 +13226,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:22:55.116965+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-02-01T01:53:46.143672+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15121,6 +15096,11 @@
    "status": "found",
    "year": 2022
   },
+  "rivirtual|swe|l1": {
+   "expires": "2026-11-09T07:19:16.013972+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
+   "status": "not_found"
+  },
   "rmsi|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -16239,8 +16219,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T08:18:41.590413+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-21T13:48:50.861697+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18065,8 +18045,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:01:32.175325+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-24T10:15:41.793425+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18079,8 +18059,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T11:18:52.489214+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-29T19:06:14.942241+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18785,8 +18765,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:08:28.924278+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-02-02T22:41:02.212163+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19707,8 +19687,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T09:57:01.756096+00:00",
-   "looked_up": "2026-10-29T03:01:31+00:00",
+   "expires": "2027-01-30T09:29:08.949049+00:00",
+   "looked_up": "2026-10-29T04:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20551,8 +20531,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3373,
-  "lookups_today": 4,
+  "lookups_month": 3374,
+  "lookups_today": 5,
   "month": "2026-10"
  }
 }
