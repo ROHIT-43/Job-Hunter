@@ -5846,8 +5846,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T04:44:07.406509+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
+   "expires": "2027-01-25T19:40:50.934477+00:00",
+   "looked_up": "2026-10-29T14:18:51+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7348,19 +7348,9 @@
    "status": "found",
    "year": 2026
   },
-  "glg|data|l1": {
-   "expires": "2026-10-29T14:09:22.138356+00:00",
-   "looked_up": "2026-10-08T20:01:19+00:00",
-   "status": "not_found"
-  },
   "glidewell|swe|l1": {
    "expires": "2026-11-16T06:17:28.493143+00:00",
    "looked_up": "2026-10-26T22:01:27+00:00",
-   "status": "not_found"
-  },
-  "global-enterprisetech-resources-inc|swe|l1": {
-   "expires": "2026-10-29T14:06:29.384360+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
   "global-payex-private-limited|security|l1": {
@@ -8288,11 +8278,6 @@
   "highlevel|frontend|l2": {
    "expires": "2026-11-04T11:05:46.188484+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "highlevel|swe|l2": {
-   "expires": "2026-10-29T14:08:18.838149+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
    "status": "not_found"
   },
   "hinduja-global-solutions-inc--|swe|l1": {
@@ -10631,8 +10616,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:50:14.185657+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
+   "expires": "2027-01-30T00:31:06.155952+00:00",
+   "looked_up": "2026-10-29T14:18:51+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -16301,8 +16286,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:33:04.223013+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
+   "expires": "2027-01-28T23:53:25.076657+00:00",
+   "looked_up": "2026-10-29T14:18:51+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17877,11 +17862,6 @@
    "looked_up": "2026-10-17T17:01:26+00:00",
    "status": "not_found"
   },
-  "tekgenio|swe|l1": {
-   "expires": "2026-10-29T14:17:29.517317+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "tekskills-inc|swe|l1": {
    "expires": "2026-11-16T18:02:24.020662+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -18158,8 +18138,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T14:47:49.867764+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
+   "expires": "2027-02-02T02:43:20.680456+00:00",
+   "looked_up": "2026-10-29T14:18:51+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18172,8 +18152,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T00:24:49.148251+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
+   "expires": "2027-01-22T08:53:32.207684+00:00",
+   "looked_up": "2026-10-29T14:18:51+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18480,11 +18460,6 @@
     }
    ],
    "status": "found"
-  },
-  "trainingbasket.in|devops|l1": {
-   "expires": "2026-10-29T14:05:33.595590+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
   },
   "trainingbasket.in|frontend|l1": {
    "expires": "2026-11-05T01:03:27.126843+00:00",
