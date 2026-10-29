@@ -3909,11 +3909,6 @@
    "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
-  "clearwateranalytics|swe|l2": {
-   "expires": "2026-10-29T00:52:25.132561+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
   "clevanoo-llc|swe|l1": {
    "expires": "2026-11-03T04:50:56.337020+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -4042,8 +4037,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:49:55.565010+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-24T17:22:13.374722+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4440,8 +4435,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:28:40.614127+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-25T16:11:14.838000+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4469,11 +4464,6 @@
   "continental-industry|erp|l1": {
    "expires": "2026-11-03T11:50:25.865172+00:00",
    "looked_up": "2026-10-19T21:01:25+00:00",
-   "status": "not_found"
-  },
-  "continua-design-and-creation-pvt-ltd|swe|l1": {
-   "expires": "2026-10-29T00:12:59.611718+00:00",
-   "looked_up": "2026-10-10T07:01:25+00:00",
    "status": "not_found"
   },
   "cop-your-drip|frontend|l1": {
@@ -5658,8 +5648,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:55:19.935046+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-23T00:05:45.276754+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -10638,8 +10628,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T16:44:25.181672+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-28T01:38:43.190509+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12165,8 +12155,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T12:22:24.272210+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-27T03:16:36.274291+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12373,11 +12363,6 @@
   "neptuneinfotech|mobile|l1": {
    "expires": "2026-11-16T03:40:06.711341+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "nest-digital-pvt-ltd|swe|l1": {
-   "expires": "2026-10-29T00:41:10.950255+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
   },
   "nestorservices|swe|l1": {
@@ -13296,8 +13281,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T21:30:02.670463+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-24T20:11:35.954304+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15697,11 +15682,6 @@
    "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
-  "schr-dinger|swe|l1": {
-   "expires": "2026-10-29T00:05:17.103506+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
-   "status": "not_found"
-  },
   "schwab-india|data|l1": {
    "expires": "2026-11-10T07:14:20.330171+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -16278,8 +16258,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T05:51:28.703114+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-23T05:05:52.772553+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18109,8 +18089,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T01:26:04.982924+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-02-02T14:29:36.724328+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18123,8 +18103,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T04:54:45.660243+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-02-01T22:05:27.824042+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18829,8 +18809,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T04:19:52.314407+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-25T13:25:04.828651+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19751,8 +19731,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T01:00:39.810564+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
+   "expires": "2027-01-20T18:30:41.650638+00:00",
+   "looked_up": "2026-10-29T00:56:06+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
