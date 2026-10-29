@@ -622,11 +622,6 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
-  "agamin|erp|l1": {
-   "expires": "2026-10-29T00:01:30.830228+00:00",
-   "looked_up": "2026-10-18T19:01:24+00:00",
-   "status": "not_found"
-  },
   "agco-corporation|erp|l1": {
    "expires": "2026-11-01T23:18:26.186123+00:00",
    "looked_up": "2026-10-12T21:01:28+00:00",
@@ -1530,8 +1525,8 @@
    "status": "not_found"
   },
   "aptita-talent-experts|swe|l1": {
-   "expires": "2026-10-28T23:48:40.353821+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
+   "expires": "2026-11-12T05:06:33.615890+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "status": "not_found"
   },
   "aptiv|data|l1": {
@@ -4047,8 +4042,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:55:29.414416+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-25T11:49:55.565010+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4445,8 +4440,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:47:00.650945+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-24T19:28:40.614127+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4700,11 +4695,6 @@
   "cummins-india|data|l3": {
    "expires": "2026-11-14T05:20:23.970478+00:00",
    "looked_up": "2026-10-25T11:01:34+00:00",
-   "status": "not_found"
-  },
-  "cummins-india|swe|l1": {
-   "expires": "2026-10-28T23:27:12.741754+00:00",
-   "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
   "cupid-compusoft|swe|l1": {
@@ -5668,8 +5658,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T12:12:44.500448+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-29T06:55:19.935046+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5828,11 +5818,6 @@
   "employability-life|security|l1": {
    "expires": "2026-11-07T05:56:53.984902+00:00",
    "looked_up": "2026-10-28T09:01:31+00:00",
-   "status": "not_found"
-  },
-  "employia|swe|l1": {
-   "expires": "2026-10-28T23:56:58.566361+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
    "status": "not_found"
   },
   "en-interactive-technologies-pvt-ltd|frontend|l1": {
@@ -10653,8 +10638,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T23:14:40.904844+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-30T16:44:25.181672+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12180,8 +12165,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T03:01:10.875821+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-21T12:22:24.272210+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13074,11 +13059,6 @@
    "status": "found",
    "year": 2025
   },
-  "oneiot-official|swe|l1": {
-   "expires": "2026-10-28T23:42:46.303416+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "onequince|mobile|l2": {
    "expires": "2026-11-01T05:32:41.879909+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -13316,8 +13296,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T20:05:21.534165+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-20T21:30:02.670463+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13466,11 +13446,6 @@
   "partechnology|swe|l2": {
    "expires": "2026-11-05T06:27:03.896878+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
-  },
-  "patmold-engineering-pvt-ltd|swe|l1": {
-   "expires": "2026-10-28T23:44:44.628937+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "patronus-ai-inc|swe|l1": {
@@ -16303,8 +16278,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T22:34:09.496804+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-24T05:51:28.703114+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16687,11 +16662,6 @@
   "solvex-solutions|devops|l1": {
    "expires": "2026-10-30T19:40:25.201760+00:00",
    "looked_up": "2026-10-12T14:01:35+00:00",
-   "status": "not_found"
-  },
-  "solvitx|swe|l1": {
-   "expires": "2026-10-28T23:43:41.574408+00:00",
-   "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
   "somewhere|frontend|l1": {
@@ -18139,8 +18109,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:14:17.947911+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-20T01:26:04.982924+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18153,8 +18123,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T16:15:01.456784+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-02-01T04:54:45.660243+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18859,8 +18829,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:45:48.237354+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-02-01T04:19:52.314407+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19781,8 +19751,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T23:16:10.872571+00:00",
-   "looked_up": "2026-10-28T23:01:40+00:00",
+   "expires": "2027-01-22T01:00:39.810564+00:00",
+   "looked_up": "2026-10-29T00:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -19826,11 +19796,6 @@
   "webchefz-infotech-pvt-ltd|swe|l1": {
    "expires": "2026-11-07T22:45:35.043860+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
-   "status": "not_found"
-  },
-  "webkit24.com|frontend|l1": {
-   "expires": "2026-10-28T23:26:06.412114+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
    "status": "not_found"
   },
   "welerix|frontend|l1": {
@@ -20634,9 +20599,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-28",
-  "lookups_month": 3369,
-  "lookups_today": 167,
+  "day": "2026-10-29",
+  "lookups_month": 3370,
+  "lookups_today": 1,
   "month": "2026-10"
  }
 }
