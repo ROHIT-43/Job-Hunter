@@ -1403,11 +1403,6 @@
    "looked_up": "2026-10-23T00:01:37+00:00",
    "status": "not_found"
   },
-  "appbrewhq|frontend|l1": {
-   "expires": "2026-10-29T20:53:45.238703+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
-  },
   "appcurators|swe|l1": {
    "expires": "2026-11-03T21:57:40.412055+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -5866,8 +5861,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:23:10.291171+00:00",
-   "looked_up": "2026-10-29T20:17:29+00:00",
+   "expires": "2027-02-03T11:54:19.458792+00:00",
+   "looked_up": "2026-10-29T21:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6488,11 +6483,6 @@
     }
    ],
    "status": "found"
-  },
-  "fde-school|swe|l1": {
-   "expires": "2026-10-29T20:51:18.020776+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
-   "status": "not_found"
   },
   "fedex-global-capability-services-–-hyderabad|fullstack|l1": {
    "expires": "2026-11-05T18:54:12.893880+00:00",
@@ -7485,11 +7475,6 @@
   "globus-academy|swe|l1": {
    "expires": "2026-11-09T16:27:29.329711+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "gm-moto-private-limited-robotics|swe|l1": {
-   "expires": "2026-10-29T20:48:50.461077+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
    "status": "not_found"
   },
   "gnani-ai|devops|l1": {
@@ -10601,8 +10586,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T02:20:55.498378+00:00",
-   "looked_up": "2026-10-29T20:17:29+00:00",
+   "expires": "2027-01-28T07:57:42.173288+00:00",
+   "looked_up": "2026-10-29T21:01:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -15002,11 +14987,6 @@
   "reserve-bank-information-technology-pvt-ltd|devops|l1": {
    "expires": "2026-10-30T07:48:26.434335+00:00",
    "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "resideo1|swe|l2": {
-   "expires": "2026-10-29T20:17:45.328472+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "revantage|erp|l1": {
