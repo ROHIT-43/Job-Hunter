@@ -4017,8 +4017,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:40:56.710278+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-25T14:02:00.088148+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4415,8 +4415,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T10:36:01.156791+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-25T04:25:19.810478+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5451,11 +5451,6 @@
    "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
   },
-  "dotsolved|swe|l1": {
-   "expires": "2026-10-29T04:40:03.329014+00:00",
-   "looked_up": "2026-10-11T02:01:21+00:00",
-   "status": "not_found"
-  },
   "dotsquares|erp|l1": {
    "expires": "2026-10-31T08:06:09.582563+00:00",
    "looked_up": "2026-10-15T06:01:30+00:00",
@@ -5628,8 +5623,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T11:38:45.803225+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-24T14:39:59.835139+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7763,11 +7758,6 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
-  "grovergaming|swe|l1": {
-   "expires": "2026-10-29T04:20:04.045833+00:00",
-   "looked_up": "2026-10-15T18:01:34+00:00",
-   "status": "not_found"
-  },
   "growthed-in|mobile|l1": {
    "expires": "2026-11-04T23:23:43.497598+00:00",
    "looked_up": "2026-10-26T13:14:58+00:00",
@@ -9455,11 +9445,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "instaastro-spritual-guide|swe|l1": {
-   "expires": "2026-10-29T04:24:44.793433+00:00",
-   "looked_up": "2026-10-20T00:01:32+00:00",
-   "status": "not_found"
-  },
   "intel-corporation|swe|l1": {
    "expires": "2026-11-06T10:35:18.260728+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -10588,8 +10573,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T15:11:32.014265+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-25T23:38:04.499650+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12100,8 +12085,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T16:12:13.989394+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-28T05:32:39.140292+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12521,9 +12506,20 @@
    "year": 2026
   },
   "nike|swe|l2": {
-   "expires": "2026-10-29T04:13:01.003220+00:00",
-   "looked_up": "2026-10-16T23:01:23+00:00",
-   "status": "not_found"
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-20T05:38:11.403588+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
+   "max_lpa": 26.4,
+   "min_lpa": 14.8,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-nike-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "niksun|security|l1": {
    "expires": "2026-10-31T07:04:50.919982+00:00",
@@ -13226,8 +13222,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:53:46.143672+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-22T11:29:40.011206+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14077,11 +14073,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "pulp-education|swe|l1": {
-   "expires": "2026-10-29T04:21:35.446826+00:00",
-   "looked_up": "2026-10-20T06:00:29+00:00",
-   "status": "not_found"
   },
   "pumex-computing-llc|erp|l1": {
    "expires": "2026-11-01T22:24:27.695578+00:00",
@@ -16219,8 +16210,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:48:50.861697+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-30T06:22:58.777947+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18045,8 +18036,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T10:15:41.793425+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-31T02:10:07.218922+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18059,8 +18050,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T19:06:14.942241+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-20T22:25:30.582973+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18765,8 +18756,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:41:02.212163+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-28T15:53:49.374603+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19341,11 +19332,6 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
-  "visiohr-corporation-pvt-ltd|swe|l1": {
-   "expires": "2026-10-29T04:18:36.653414+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "vision-media-india|fullstack|l1": {
    "expires": "2026-11-11T08:09:57.864340+00:00",
    "looked_up": "2026-10-21T21:01:29+00:00",
@@ -19687,8 +19673,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:29:08.949049+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
+   "expires": "2027-01-21T00:33:52.372378+00:00",
+   "looked_up": "2026-10-29T05:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20531,8 +20517,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3374,
-  "lookups_today": 5,
+  "lookups_month": 3375,
+  "lookups_today": 6,
   "month": "2026-10"
  }
 }
