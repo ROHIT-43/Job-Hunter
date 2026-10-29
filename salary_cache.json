@@ -245,11 +245,6 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
-  "accendra-health|erp|l1": {
-   "expires": "2026-10-29T22:51:48.623592+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
-   "status": "not_found"
-  },
   "accentureindia|data|l1": {
    "expires": "2026-11-03T10:30:48.740670+00:00",
    "looked_up": "2026-10-19T15:01:29+00:00",
@@ -1353,11 +1348,6 @@
    ],
    "status": "found"
   },
-  "anjusmriti|erp|l1": {
-   "expires": "2026-10-29T22:17:30.081255+00:00",
-   "looked_up": "2026-10-17T04:01:27+00:00",
-   "status": "not_found"
-  },
   "ansira|swe|l2": {
    "expires": "2026-11-01T16:41:41.466173+00:00",
    "looked_up": "2026-10-12T11:01:28+00:00",
@@ -1651,11 +1641,6 @@
     }
    ],
    "status": "found"
-  },
-  "arinovaa-labs|swe|l1": {
-   "expires": "2026-10-29T22:06:32.188387+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
   },
   "arista-networks-inc|devops|l1": {
    "expires": "2026-11-08T05:03:33.439232+00:00",
@@ -2159,11 +2144,6 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
-  "axismyindia1404|swe|l1": {
-   "expires": "2026-10-29T22:37:18.305867+00:00",
-   "looked_up": "2026-10-09T02:01:20+00:00",
-   "status": "not_found"
-  },
   "axitech-india|swe|l1": {
    "expires": "2026-10-30T02:02:10.233970+00:00",
    "looked_up": "2026-10-10T14:01:23+00:00",
@@ -2595,11 +2575,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "blitzquickcommerce|swe|l2": {
-   "expires": "2026-10-29T22:05:55.856164+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
   },
   "bloomfieldinnovations|frontend|l1": {
    "expires": "2026-10-30T19:26:24.240850+00:00",
@@ -5836,8 +5811,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T10:52:17.170767+00:00",
-   "looked_up": "2026-10-29T22:01:27+00:00",
+   "expires": "2027-01-28T04:38:55.312460+00:00",
+   "looked_up": "2026-10-29T23:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8136,11 +8111,6 @@
    ],
    "status": "found"
   },
-  "heliumconsulting|swe|l1": {
-   "expires": "2026-10-29T22:57:23.347716+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
-   "status": "not_found"
-  },
   "helpshift|devops|l1": {
    "expires": "2026-11-05T14:12:26.677159+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -10031,11 +10001,6 @@
    "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
-  "jsan-publishing|swe|l1": {
-   "expires": "2026-10-29T22:19:31.889710+00:00",
-   "looked_up": "2026-10-09T23:01:19+00:00",
-   "status": "not_found"
-  },
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10561,8 +10526,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T13:15:30.959693+00:00",
-   "looked_up": "2026-10-29T22:01:27+00:00",
+   "expires": "2027-01-21T19:08:30.550793+00:00",
+   "looked_up": "2026-10-29T23:01:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
