@@ -701,6 +701,11 @@
    ],
    "status": "found"
   },
+  "air-arabia|data|l1": {
+   "expires": "2026-11-08T20:29:44.911698+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
   "airbnb|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1297,6 +1302,11 @@
   "amiseq-inc.|swe|l1": {
    "expires": "2026-11-09T18:16:52.655282+00:00",
    "looked_up": "2026-10-22T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "aml-rightsource|swe|l1": {
+   "expires": "2026-11-08T22:43:00.198813+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
   "amrit-autotech-engineers|swe|l1": {
@@ -2605,11 +2615,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "blitzenx8|swe|l1": {
-   "expires": "2026-10-29T15:48:34.203024+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
   },
   "blitzquickcommerce|swe|l2": {
    "expires": "2026-10-29T22:05:55.856164+00:00",
@@ -4184,6 +4189,26 @@
    "status": "found",
    "year": 2026
   },
+  "cognizant|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T00:18:32.622492+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cognizant-salaries/devops-engineer"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Development_Operations_(DevOps)_Engineer/Salary/ae8a5ef6/Cognizant"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "cognizant|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5426,11 +5451,6 @@
    "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
-  "docusign|swe|l1": {
-   "expires": "2026-10-29T15:54:11.254467+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
-   "status": "not_found"
-  },
   "dodopayments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5846,8 +5866,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:30:16.216488+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
+   "expires": "2027-01-22T07:13:49.909015+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6002,6 +6022,11 @@
   "ernstandyoung|fullstack|l1": {
    "expires": "2026-10-30T21:29:43.709247+00:00",
    "looked_up": "2026-10-12T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "ernstandyoung|security|l1": {
+   "expires": "2026-11-12T15:55:28.272797+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
   "ernstandyoung|swe|l1": {
@@ -7947,11 +7972,6 @@
    "looked_up": "2026-10-17T04:01:27+00:00",
    "status": "not_found"
   },
-  "harisan-technologies|swe|l1": {
-   "expires": "2026-10-29T15:16:01.233602+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "harjaicomputers|devops|l1": {
    "expires": "2026-11-07T00:22:24.343822+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -9528,11 +9548,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "intraedge|swe|l1": {
-   "expires": "2026-10-29T15:31:10.637956+00:00",
-   "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
   "inventam-tech-solution|fullstack|l1": {
    "expires": "2026-11-06T20:28:13.731916+00:00",
    "looked_up": "2026-10-17T11:01:23+00:00",
@@ -10076,6 +10091,11 @@
    "status": "found",
    "year": 2024
   },
+  "jr-automation|swe|l1": {
+   "expires": "2026-11-15T03:30:35.268232+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
   "jsan-publishing|swe|l1": {
    "expires": "2026-10-29T22:19:31.889710+00:00",
    "looked_up": "2026-10-09T23:01:19+00:00",
@@ -10611,8 +10631,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:36:39.337434+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
+   "expires": "2027-01-31T22:52:09.636588+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12416,6 +12436,11 @@
    "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
+  "newscorp|data|l1": {
+   "expires": "2026-11-08T18:57:19.818602+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
   "newspacert|swe|l2": {
    "expires": "2026-11-11T01:18:38.274701+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -12954,6 +12979,16 @@
   "officeworks-gcc-india|erp|l1": {
    "expires": "2026-11-10T22:27:30.018930+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
+  "officialgates|frontend|l1": {
+   "expires": "2026-11-10T16:43:28.505343+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
+  "officialgates|swe|l1": {
+   "expires": "2026-11-12T10:04:19.489783+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
   "ofi-services|erp|l1": {
@@ -17558,6 +17593,11 @@
    "status": "found",
    "year": 2026
   },
+  "tataelectronicspvtltd|swe|l1": {
+   "expires": "2026-11-17T10:59:58.748970+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
   "tataelxsi|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18147,8 +18187,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:58:41.053454+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
+   "expires": "2027-02-03T11:12:03.260394+00:00",
+   "looked_up": "2026-10-29T16:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20624,8 +20664,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3431,
-  "lookups_today": 62,
+  "lookups_month": 3440,
+  "lookups_today": 71,
   "month": "2026-10"
  }
 }
