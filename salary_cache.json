@@ -4017,8 +4017,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:02:00.088148+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-02-02T09:49:47.727687+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4415,8 +4415,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T04:25:19.810478+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-02-02T02:40:28.315602+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5623,8 +5623,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T14:39:59.835139+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-02-01T19:35:30.180157+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7224,11 +7224,6 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
-  "getronics|erp|l1": {
-   "expires": "2026-10-29T05:20:47.734820+00:00",
-   "looked_up": "2026-10-12T13:01:33+00:00",
-   "status": "not_found"
-  },
   "getvisitapp|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -8462,6 +8457,11 @@
   "hp|data|l1": {
    "expires": "2026-11-03T05:57:31.468881+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "hp|mobile|l1": {
+   "expires": "2026-11-18T18:15:03.088143+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "status": "not_found"
   },
   "hr-actowiz-solutions|fullstack|l1": {
@@ -10421,11 +10421,6 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
-  "kt2i-technologies|frontend|l1": {
-   "expires": "2026-10-29T05:47:44.647577+00:00",
-   "looked_up": "2026-10-08T19:01:26+00:00",
-   "status": "not_found"
-  },
   "ktree-com|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10573,8 +10568,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T23:38:04.499650+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-24T08:46:23.657234+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12085,8 +12080,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:32:39.140292+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-25T14:33:32.228563+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13465,6 +13460,22 @@
    "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
+  "people-tech-group-inc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T09:19:17.984001+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/people-tech-group-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "peoplefoundry-in|erp|l1": {
    "expires": "2026-10-29T19:45:33.673221+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
@@ -14262,6 +14273,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qapsoftwaresolutions|swe|l1": {
+   "expires": "2026-11-11T16:18:27.216815+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
+   "status": "not_found"
   },
   "qbyss|frontend|l1": {
    "expires": "2026-11-15T03:04:21.966123+00:00",
@@ -16210,8 +16226,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:22:58.777947+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-23T09:37:53.491750+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16951,6 +16967,22 @@
    "expires": "2026-11-01T11:59:29.555411+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
    "status": "not_found"
+  },
+  "suffescom|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T04:02:12.943959+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Suffes-Com/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "suffescom|erp|l1": {
    "expires": "2026-10-30T10:54:25.368253+00:00",
@@ -18036,8 +18068,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T02:10:07.218922+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-31T03:40:54.462536+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18050,8 +18082,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T22:25:30.582973+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-21T08:37:26.284781+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18275,6 +18307,11 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
+  "towards-vision-technologies|swe|l1": {
+   "expires": "2026-11-17T09:15:38.203872+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
+   "status": "not_found"
+  },
   "tower-research-capital|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -18436,11 +18473,6 @@
   "travitons-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-16T18:02:34.973023+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "tredence|security|l1": {
-   "expires": "2026-10-29T05:25:39.629468+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "trendwick|swe|l1": {
@@ -18756,8 +18788,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:53:49.374603+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-23T01:29:36.265843+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19599,6 +19631,11 @@
    "status": "found",
    "year": 2022
   },
+  "warriorbabe|data|l1": {
+   "expires": "2026-11-11T06:47:10.640163+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
+   "status": "not_found"
+  },
   "wastefull-insights|devops|l1": {
    "expires": "2026-11-03T11:45:22.615326+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -19673,8 +19710,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T00:33:52.372378+00:00",
-   "looked_up": "2026-10-29T05:01:30+00:00",
+   "expires": "2027-01-23T22:17:15.327534+00:00",
+   "looked_up": "2026-10-29T06:01:32+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20517,8 +20554,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3375,
-  "lookups_today": 6,
+  "lookups_month": 3381,
+  "lookups_today": 12,
   "month": "2026-10"
  }
 }
