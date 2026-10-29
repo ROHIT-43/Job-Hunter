@@ -1459,6 +1459,11 @@
    "status": "found",
    "year": 2025
   },
+  "applicantz-com|erp|l1": {
+   "expires": "2026-11-12T05:55:09.949570+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
+   "status": "not_found"
+  },
   "applied-materials-india|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4017,8 +4022,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:49:47.727687+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-24T20:04:54.263195+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4415,8 +4420,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:40:28.315602+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-02-02T14:03:31.830852+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4947,11 +4952,6 @@
   "datavinyasolutions|erp|l1": {
    "expires": "2026-11-14T18:25:08.186332+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
-  "dayal-opticals-india-pvt-ltd|swe|l1": {
-   "expires": "2026-10-29T06:31:37.976089+00:00",
-   "looked_up": "2026-10-21T05:01:26+00:00",
    "status": "not_found"
   },
   "dayforce|swe|l1": {
@@ -5623,8 +5623,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T19:35:30.180157+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-26T03:51:34.528974+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7004,11 +7004,6 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
-  "fundbnk|erp|l1": {
-   "expires": "2026-10-29T06:03:11.620489+00:00",
-   "looked_up": "2026-10-19T11:01:27+00:00",
-   "status": "not_found"
-  },
   "fusion-practices|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8296,6 +8291,11 @@
    "looked_up": "2026-10-18T18:01:24+00:00",
    "status": "not_found"
   },
+  "hireflexperts|frontend|l1": {
+   "expires": "2026-11-14T05:10:35.014609+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
+   "status": "not_found"
+  },
   "hiringhood|data|l1": {
    "expires": "2026-11-09T21:49:50.597649+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -8921,11 +8921,6 @@
   "iitmatrix|swe|l1": {
    "expires": "2026-10-29T13:02:50.896262+00:00",
    "looked_up": "2026-10-15T12:01:30+00:00",
-   "status": "not_found"
-  },
-  "ikea|swe|l1": {
-   "expires": "2026-10-29T06:18:46.300844+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
   "illumina|data|l1": {
@@ -9887,11 +9882,6 @@
    "looked_up": "2026-10-20T08:01:29+00:00",
    "status": "not_found"
   },
-  "jobgether|swe|l1": {
-   "expires": "2026-10-29T06:41:00.177461+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
-  },
   "joblet-ai|data|l1": {
    "expires": "2026-11-11T05:54:45.729820+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -10568,8 +10558,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T08:46:23.657234+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-29T15:48:15.330350+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12080,8 +12070,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:33:32.228563+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-21T22:31:37.157305+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -14520,6 +14510,26 @@
    "status": "found",
    "year": 2024
   },
+  "quest-global|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T02:20:55.522695+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
+   "max_lpa": 8.2,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/74e795a0/Quest-Global-Early-Career"
+    },
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/companies/quest-global?city=hyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "quest-global|fullstack|l1": {
    "expires": "2026-11-08T03:41:06.086675+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
@@ -16226,8 +16236,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T09:37:53.491750+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-23T01:06:41.299215+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16773,11 +16783,6 @@
   "spinach-experience-design|frontend|l2": {
    "expires": "2026-11-12T07:21:45.710131+00:00",
    "looked_up": "2026-10-25T15:01:25+00:00",
-   "status": "not_found"
-  },
-  "spire-systems|swe|l1": {
-   "expires": "2026-10-29T06:25:30.895724+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
    "status": "not_found"
   },
   "sprrg-internet-pvt-ltd|swe|l1": {
@@ -18065,11 +18070,16 @@
    ],
    "status": "found"
   },
+  "the-webplant-pvt-ltd-|fullstack|l1": {
+   "expires": "2026-11-07T02:44:19.960208+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
+   "status": "not_found"
+  },
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T03:40:54.462536+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-22T14:51:14.813544+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18082,8 +18092,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T08:37:26.284781+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-02-03T06:59:50.600346+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18279,6 +18289,11 @@
   "toadfly-technologies|devops|l1": {
    "expires": "2026-11-11T04:07:58.849335+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
+   "status": "not_found"
+  },
+  "tonbo-imaging|swe|l1": {
+   "expires": "2026-11-13T04:17:40.828719+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "status": "not_found"
   },
   "toppan-merrill|swe|l1": {
@@ -18788,8 +18803,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:29:36.265843+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-30T02:43:50.467112+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19710,8 +19725,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T22:17:15.327534+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
+   "expires": "2027-01-22T17:22:14.742093+00:00",
+   "looked_up": "2026-10-29T07:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -19855,11 +19870,6 @@
   "winapps.co.in|swe|l1": {
    "expires": "2026-10-30T01:52:58.352082+00:00",
    "looked_up": "2026-10-21T15:01:33+00:00",
-   "status": "not_found"
-  },
-  "winggo-soft|mobile|l1": {
-   "expires": "2026-10-29T06:27:55.845850+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
   "wipro|devops|l1": {
@@ -20060,11 +20070,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "www.linkedin.com-avihs|swe|l1": {
-   "expires": "2026-10-29T06:07:17.161934+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
-   "status": "not_found"
   },
   "xencia-technology-solutions|swe|l1": {
    "expires": "2026-11-08T20:59:22.001625+00:00",
@@ -20554,8 +20559,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3381,
-  "lookups_today": 12,
+  "lookups_month": 3386,
+  "lookups_today": 17,
   "month": "2026-10"
  }
 }
