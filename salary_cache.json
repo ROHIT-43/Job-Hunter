@@ -1374,11 +1374,6 @@
    "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
-  "anything-anywhere|mobile|l1": {
-   "expires": "2026-10-29T07:12:31.307784+00:00",
-   "looked_up": "2026-10-10T01:01:20+00:00",
-   "status": "not_found"
-  },
   "anzo-controls|swe|l1": {
    "expires": "2026-11-11T18:36:10.825212+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
@@ -4022,8 +4017,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T20:04:54.263195+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-02-01T12:07:04.421798+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4420,8 +4415,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T14:03:31.830852+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-29T03:42:00.713922+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5623,8 +5618,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:51:34.528974+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-27T18:02:27.185962+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -7854,6 +7849,16 @@
    "looked_up": "2026-10-20T16:01:30+00:00",
    "status": "not_found"
   },
+  "h-e-services-india|data|l1": {
+   "expires": "2026-11-15T02:02:51.098292+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
+   "status": "not_found"
+  },
+  "h-e-services-india|fullstack|l1": {
+   "expires": "2026-11-13T02:47:20.265587+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
+   "status": "not_found"
+  },
   "hackerkernel|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9440,6 +9445,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "intact|data|l1": {
+   "expires": "2026-11-08T10:39:16.713277+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
+   "status": "not_found"
+  },
   "intel-corporation|swe|l1": {
    "expires": "2026-11-06T10:35:18.260728+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -10558,8 +10568,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T15:48:15.330350+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-31T19:30:57.095685+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10582,8 +10592,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T02:45:29.007503+00:00",
-   "looked_up": "2026-10-24T09:01:23+00:00",
+   "expires": "2027-02-01T03:46:53.975078+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12070,8 +12080,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T22:31:37.157305+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-27T16:28:56.376168+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -16236,8 +16246,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:06:41.299215+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-27T14:52:09.997238+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18078,8 +18088,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T14:51:14.813544+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-22T02:51:14.216337+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18092,8 +18102,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:59:50.600346+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-20T15:59:46.721453+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18803,8 +18813,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T02:43:50.467112+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-21T12:04:12.074795+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19230,8 +19240,8 @@
    "year": 2026
   },
   "vertiv|swe|l2": {
-   "expires": "2026-10-29T07:03:03.699120+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
+   "expires": "2026-11-13T05:54:18.274182+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
   "veticin|swe|l1": {
@@ -19725,8 +19735,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T17:22:14.742093+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2027-01-24T09:03:06.530855+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20009,6 +20019,11 @@
   "worldlineglobal|devops|l1": {
    "expires": "2026-11-07T04:29:45.950315+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
+   "status": "not_found"
+  },
+  "worldlineglobal|fullstack|l1": {
+   "expires": "2026-11-10T19:25:53.623131+00:00",
+   "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
   "worldlineglobal|swe|l1": {
@@ -20559,8 +20574,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3386,
-  "lookups_today": 17,
+  "lookups_month": 3391,
+  "lookups_today": 22,
   "month": "2026-10"
  }
 }
