@@ -622,11 +622,6 @@
    "looked_up": "2026-10-20T20:01:26+00:00",
    "status": "not_found"
   },
-  "agilityit|erp|l1": {
-   "expires": "2026-10-29T17:37:12.046748+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "agilonhealth|swe|l1": {
    "expires": "2026-11-05T19:52:38.398434+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
@@ -704,6 +699,21 @@
   "air-arabia|data|l1": {
    "expires": "2026-11-08T20:29:44.911698+00:00",
    "looked_up": "2026-10-29T16:01:30+00:00",
+   "status": "not_found"
+  },
+  "air-arabia|devops|l1": {
+   "expires": "2026-11-16T11:00:27.146962+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
+  },
+  "air-arabia|mobile|l1": {
+   "expires": "2026-11-13T17:35:42.585428+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
+  },
+  "air-arabia|swe|l1": {
+   "expires": "2026-11-17T14:41:02.015415+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
   "airbnb|swe|l1": {
@@ -903,11 +913,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "algorian-software-solutions|swe|l1": {
-   "expires": "2026-10-29T17:20:01.936865+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
-   "status": "not_found"
   },
   "alignerr|security|l1": {
    "expires": "2026-10-30T05:01:53.581821+00:00",
@@ -3129,11 +3134,6 @@
    "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
-  "c3-ai-enterprise-ai|swe|l1": {
-   "expires": "2026-10-29T17:31:02.491434+00:00",
-   "looked_up": "2026-10-10T14:01:23+00:00",
-   "status": "not_found"
-  },
   "c4-technical-services|swe|l1": {
    "expires": "2026-11-01T09:32:24.969276+00:00",
    "looked_up": "2026-10-16T15:01:36+00:00",
@@ -3897,11 +3897,6 @@
   "civic-sense-app|mobile|l1": {
    "expires": "2026-10-31T03:54:07.301442+00:00",
    "looked_up": "2026-10-10T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "cladbe|mobile|l1": {
-   "expires": "2026-10-29T17:31:34.192029+00:00",
-   "looked_up": "2026-10-20T07:01:25+00:00",
    "status": "not_found"
   },
   "cladbe|swe|l1": {
@@ -5456,6 +5451,11 @@
    "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
+  "docusign|mobile|l1": {
+   "expires": "2026-11-07T10:29:56.464756+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
+  },
   "dodopayments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5866,8 +5866,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T03:22:39.314263+00:00",
-   "looked_up": "2026-10-29T17:01:31+00:00",
+   "expires": "2027-01-21T13:32:54.372203+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7077,6 +7077,11 @@
   "fusion-practices|swe|l1": {
    "expires": "2026-11-02T07:24:42.301921+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "fusionconsultingag|erp|l1": {
+   "expires": "2026-11-11T08:21:23.820928+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
   "fusionconsultingag|frontend|l1": {
@@ -9062,11 +9067,6 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
-  "infai-systems-pvt-ltd|frontend|l1": {
-   "expires": "2026-10-29T17:23:22.972345+00:00",
-   "looked_up": "2026-10-10T14:01:23+00:00",
-   "status": "not_found"
-  },
   "infineon-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10631,8 +10631,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T11:27:30.504034+00:00",
-   "looked_up": "2026-10-29T17:01:31+00:00",
+   "expires": "2027-02-01T08:56:23.857928+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10911,6 +10911,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "lonza|erp|l1": {
+   "expires": "2026-11-09T23:59:14.010257+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
   },
   "lorventech|data|l1": {
    "expires": "2026-11-03T18:32:09.053406+00:00",
@@ -14773,11 +14778,6 @@
    "looked_up": "2026-10-28T01:01:25+00:00",
    "status": "not_found"
   },
-  "rampwork|mobile|l1": {
-   "expires": "2026-10-29T17:05:49.205229+00:00",
-   "looked_up": "2026-10-08T23:01:19+00:00",
-   "status": "not_found"
-  },
   "rapidbrains|erp|l1": {
    "expires": "2026-11-09T11:07:35.705987+00:00",
    "looked_up": "2026-10-21T10:01:27+00:00",
@@ -15254,11 +15254,6 @@
   "rockwell-automation|swe|l1": {
    "expires": "2026-11-08T10:38:47.091981+00:00",
    "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
-  },
-  "rockwool-group|swe|l1": {
-   "expires": "2026-10-29T17:13:07.529589+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "roi-hunt|swe|l1": {
@@ -19553,6 +19548,11 @@
    "looked_up": "2026-10-18T10:01:24+00:00",
    "status": "not_found"
   },
+  "vois|devops|l1": {
+   "expires": "2026-11-15T07:02:53.120321+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
+  },
   "vois|erp|l1": {
    "expires": "2026-11-05T16:47:23.686793+00:00",
    "looked_up": "2026-10-27T16:01:28+00:00",
@@ -20585,6 +20585,11 @@
    "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
+  "zillow|data|l1": {
+   "expires": "2026-11-07T20:43:27.963917+00:00",
+   "looked_up": "2026-10-29T18:01:31+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|frontend|l1": {
    "expires": "2026-11-09T02:16:44.920029+00:00",
    "looked_up": "2026-10-28T15:01:35+00:00",
@@ -20659,8 +20664,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3443,
-  "lookups_today": 74,
+  "lookups_month": 3451,
+  "lookups_today": 82,
   "month": "2026-10"
  }
 }
