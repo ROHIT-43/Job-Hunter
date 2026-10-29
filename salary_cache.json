@@ -2408,6 +2408,11 @@
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
+  "bcg-x|swe|l1": {
+   "expires": "2026-11-09T16:43:22.723249+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
+   "status": "not_found"
+  },
   "bctglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4391,11 +4396,6 @@
    "status": "found",
    "year": 2026
   },
-  "comprehendits|swe|l1": {
-   "expires": "2026-10-29T14:54:20.065210+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "comscore|devops|l1": {
    "expires": "2026-11-07T07:58:59.574353+00:00",
    "looked_up": "2026-10-27T23:01:34+00:00",
@@ -4739,6 +4739,11 @@
   "cwc-mohali|mobile|l1": {
    "expires": "2026-10-30T12:01:56.079974+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "cxnplio|swe|l1": {
+   "expires": "2026-11-08T23:58:10.509688+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "status": "not_found"
   },
   "cxo-academy-us|swe|l1": {
@@ -5704,11 +5709,6 @@
    "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
-  "elements.energies|swe|l1": {
-   "expires": "2026-10-29T14:37:16.121029+00:00",
-   "looked_up": "2026-10-10T18:01:20+00:00",
-   "status": "not_found"
-  },
   "elevate-ai-ug|swe|l1": {
    "expires": "2026-11-03T21:46:10.331584+00:00",
    "looked_up": "2026-10-14T21:01:27+00:00",
@@ -5846,8 +5846,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:40:50.934477+00:00",
-   "looked_up": "2026-10-29T14:18:51+00:00",
+   "expires": "2027-01-28T12:30:16.216488+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9871,11 +9871,6 @@
    "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
-  "job-search|swe|l1": {
-   "expires": "2026-10-29T14:47:18.255665+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
-   "status": "not_found"
-  },
   "jobbricksglobal|swe|l1": {
    "expires": "2026-11-04T04:26:50.259102+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -10616,8 +10611,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T00:31:06.155952+00:00",
-   "looked_up": "2026-10-29T14:18:51+00:00",
+   "expires": "2027-01-27T04:36:39.337434+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -15890,6 +15885,11 @@
    "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
+  "seismic|swe|l2": {
+   "expires": "2026-11-08T15:54:56.460109+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
+   "status": "not_found"
+  },
   "selectandswitch|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16254,11 +16254,6 @@
    "looked_up": "2026-10-17T12:01:27+00:00",
    "status": "not_found"
   },
-  "siteminder|data|l1": {
-   "expires": "2026-10-29T14:26:37.818336+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "skatesupplyindia|frontend|l1": {
    "expires": "2026-11-07T19:29:15.912251+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
@@ -16286,8 +16281,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:53:25.076657+00:00",
-   "looked_up": "2026-10-29T14:18:51+00:00",
+   "expires": "2027-01-29T06:12:38.317400+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18138,8 +18133,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:43:20.680456+00:00",
-   "looked_up": "2026-10-29T14:18:51+00:00",
+   "expires": "2027-02-02T16:57:57.685412+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18152,8 +18147,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T08:53:32.207684+00:00",
-   "looked_up": "2026-10-29T14:18:51+00:00",
+   "expires": "2027-01-31T10:58:41.053454+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18648,6 +18643,11 @@
   "trutalent-ai|erp|l1": {
    "expires": "2026-11-07T04:31:19.267823+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "truveta|swe|l1": {
+   "expires": "2026-11-05T15:33:29.492634+00:00",
+   "looked_up": "2026-10-29T15:01:36+00:00",
    "status": "not_found"
   },
   "truwave-software-llc|swe|l1": {
@@ -20624,8 +20624,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3427,
-  "lookups_today": 58,
+  "lookups_month": 3431,
+  "lookups_today": 62,
   "month": "2026-10"
  }
 }
