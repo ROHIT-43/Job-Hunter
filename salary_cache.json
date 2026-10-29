@@ -925,8 +925,8 @@
    "status": "not_found"
   },
   "alignerr|swe|l1": {
-   "expires": "2026-10-29T10:26:32.296390+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2026-11-16T02:06:36.154174+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "status": "not_found"
   },
   "allianceit-inc|swe|l1": {
@@ -1738,6 +1738,11 @@
    "looked_up": "2026-10-16T15:01:36+00:00",
    "status": "not_found"
   },
+  "ascendion|devops|l1": {
+   "expires": "2026-11-16T00:21:17.777201+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "status": "not_found"
+  },
   "ascendion|erp|l1": {
    "expires": "2026-11-03T06:55:28.739417+00:00",
    "looked_up": "2026-10-15T08:01:35+00:00",
@@ -1778,6 +1783,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ashok-leyland|swe|l1": {
+   "expires": "2026-11-05T11:52:09.232153+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "status": "not_found"
   },
   "aspen-technology|swe|l1": {
    "expires": "2026-11-06T05:38:32.560980+00:00",
@@ -2006,11 +2016,6 @@
   "autoflowtech|data|l1": {
    "expires": "2026-11-16T01:01:30.400561+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "automatebuddy|mobile|l1": {
-   "expires": "2026-10-29T10:23:19.668896+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "autovyn|swe|l1": {
@@ -3171,6 +3176,22 @@
    "status": "found",
    "year": 2026
   },
+  "capgemini-engineering|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T10:03:51.046379+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-engineering-salaries/front-end-web-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "capgemini-engineering|mobile|l1": {
    "expires": "2026-11-10T17:42:32.710986+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -3832,11 +3853,6 @@
   "citi|frontend|l1": {
    "expires": "2026-11-03T08:15:06.039859+00:00",
    "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
-  "citi|fullstack|l1": {
-   "expires": "2026-10-29T10:14:28.786174+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
    "status": "not_found"
   },
   "citi|swe|l1": {
@@ -5598,8 +5614,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T00:22:28.119517+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-25T00:34:33.377932+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5804,6 +5820,20 @@
    "confidence": "high",
    "expires": "2027-01-28T08:07:28.745797+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "enigen-uk|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T06:53:35.484098+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6304,6 +6334,11 @@
   "expinator-web-technology|fullstack|l1": {
    "expires": "2026-11-04T01:53:47.675238+00:00",
    "looked_up": "2026-10-20T21:01:27+00:00",
+   "status": "not_found"
+  },
+  "expositarvr|fullstack|l1": {
+   "expires": "2026-11-07T20:51:09.657129+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "status": "not_found"
   },
   "extension-architecture|frontend|l1": {
@@ -7873,11 +7908,6 @@
    "looked_up": "2026-10-12T17:01:25+00:00",
    "status": "not_found"
   },
-  "hallmark-search-partners|devops|l1": {
-   "expires": "2026-10-29T10:26:11.824291+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "hallmark-search-partners|mobile|l1": {
    "expires": "2026-10-30T06:52:53.814910+00:00",
    "looked_up": "2026-10-18T14:01:28+00:00",
@@ -9017,6 +9047,26 @@
    "expires": "2026-10-29T17:23:22.972345+00:00",
    "looked_up": "2026-10-10T14:01:23+00:00",
    "status": "not_found"
+  },
+  "infineon-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T08:51:22.706639+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infineon-technologies-salaries/software-developer-intern"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-infineon_technologies-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "inflexion-technology-solutions|erp|l1": {
    "expires": "2026-11-01T07:46:01.117118+00:00",
@@ -10572,8 +10622,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T06:47:58.566845+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-26T19:04:50.850287+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -10671,11 +10721,6 @@
   "linde-engineering|swe|l2": {
    "expires": "2026-11-06T21:52:52.736994+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|data|l1": {
-   "expires": "2026-10-29T10:17:52.093055+00:00",
-   "looked_up": "2026-10-09T15:01:26+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|erp|l1": {
@@ -12410,6 +12455,11 @@
   "nextenti-tech-private-limited|swe|l1": {
    "expires": "2026-11-04T17:52:06.705009+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "nextpowerinc|devops|l1": {
+   "expires": "2026-11-08T00:07:58.254228+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "status": "not_found"
   },
   "nexucon-consultancy-services-pvt-ltd|erp|l1": {
@@ -15247,6 +15297,11 @@
    "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
+  "rudrax-ltd|fullstack|l1": {
+   "expires": "2026-11-08T03:32:39.339948+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "status": "not_found"
+  },
   "ruloans-distribution-services-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-07T03:44:17.073067+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -16227,8 +16282,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T10:25:25.793191+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-30T11:50:41.760592+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17823,11 +17878,6 @@
    "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
-  "tekwissenindia|swe|l1": {
-   "expires": "2026-10-29T10:20:24.157429+00:00",
-   "looked_up": "2026-10-09T12:01:28+00:00",
-   "status": "not_found"
-  },
   "telus-digital|swe|l1": {
    "expires": "2026-10-31T06:41:38.789282+00:00",
    "looked_up": "2026-10-17T18:01:21+00:00",
@@ -17998,6 +18048,26 @@
    "status": "found",
    "year": 2026
   },
+  "thales|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-28T16:23:24.147376+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 9.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/thales-salaries?page=3"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/thales"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "the-1-clubfws|swe|l1": {
    "expires": "2026-11-04T04:58:46.961919+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
@@ -18074,8 +18144,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:58:34.722998+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-02-01T10:49:11.737263+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18088,8 +18158,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:45:34.845223+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-27T13:35:32.540242+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18804,8 +18874,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T10:53:23.809690+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-28T03:26:00.971798+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19731,8 +19801,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T04:28:20.079000+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
+   "expires": "2027-01-24T21:36:16.098886+00:00",
+   "looked_up": "2026-10-29T11:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20565,8 +20635,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3400,
-  "lookups_today": 31,
+  "lookups_month": 3409,
+  "lookups_today": 40,
   "month": "2026-10"
  }
 }
