@@ -4032,8 +4032,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T11:26:55.521836+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-29T08:06:22.331695+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4430,8 +4430,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T19:41:45.930420+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-22T06:31:36.083527+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5643,8 +5643,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:52:20.647111+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-24T09:50:10.300783+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -9514,11 +9514,6 @@
    "looked_up": "2026-10-24T07:01:21+00:00",
    "status": "not_found"
   },
-  "intertec-systems|devops|l1": {
-   "expires": "2026-10-29T02:06:47.062534+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
   "interviewglide|frontend|l1": {
    "expires": "2026-11-06T19:48:12.423881+00:00",
    "looked_up": "2026-10-25T05:01:26+00:00",
@@ -10193,11 +10188,6 @@
    "looked_up": "2026-10-20T22:01:27+00:00",
    "status": "not_found"
   },
-  "karobidai|mobile|l1": {
-   "expires": "2026-10-29T02:47:12.453131+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "karunashri-software|erp|l1": {
    "expires": "2026-11-13T23:54:58.445534+00:00",
    "looked_up": "2026-10-24T17:01:32+00:00",
@@ -10623,8 +10613,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T05:50:41.625076+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-26T16:07:21.493430+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11658,11 +11648,6 @@
    "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
-  "meril|devops|l1": {
-   "expires": "2026-10-29T02:43:36.099208+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "meril|fullstack|l1": {
    "expires": "2026-11-08T04:37:39.569192+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
@@ -11686,11 +11671,6 @@
   "metlife|devops|l2": {
    "expires": "2026-11-13T21:36:38.854520+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "metlife|swe|l1": {
-   "expires": "2026-10-29T02:19:31.304905+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "metro-services-private-limited|devops|l1": {
@@ -12127,11 +12107,6 @@
    "looked_up": "2026-10-19T19:01:27+00:00",
    "status": "not_found"
   },
-  "muthoot-fincorp-limited|security|l1": {
-   "expires": "2026-10-29T02:02:04.035817+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "mv-procu-gmbh|swe|l1": {
    "expires": "2026-11-05T11:42:39.121121+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -12150,8 +12125,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T03:34:22.041817+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-30T11:13:09.361452+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13276,8 +13251,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T13:44:57.772743+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-31T19:22:55.116965+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14296,11 +14271,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "qaagility-technologies|erp|l1": {
-   "expires": "2026-10-29T02:46:25.967888+00:00",
-   "looked_up": "2026-10-13T01:01:23+00:00",
-   "status": "not_found"
   },
   "qad|frontend|l1": {
    "expires": "2026-10-30T22:16:20.746023+00:00",
@@ -16269,8 +16239,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:59:39.631615+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-21T08:18:41.590413+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16619,11 +16589,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "softwarepac|mobile|l1": {
-   "expires": "2026-10-29T02:43:10.078309+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
   },
   "softwarepac|swe|l1": {
    "expires": "2026-11-09T03:06:54.535025+00:00",
@@ -18100,8 +18065,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T00:56:55.610389+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-21T04:01:32.175325+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18114,8 +18079,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T10:37:08.884459+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-02-01T11:18:52.489214+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18820,8 +18785,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:12:42.664500+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-24T11:08:28.924278+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19742,8 +19707,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:39:47.384171+00:00",
-   "looked_up": "2026-10-29T02:01:29+00:00",
+   "expires": "2027-01-29T09:57:01.756096+00:00",
+   "looked_up": "2026-10-29T03:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
