@@ -1738,11 +1738,6 @@
    "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
-  "arteria_2|mobile|l1": {
-   "expires": "2026-10-29T01:57:59.338812+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
   "aruba-a-hewlett-packard-enterprise-company|swe|l1": {
    "expires": "2026-11-08T19:41:45.790999+00:00",
    "looked_up": "2026-10-20T17:01:29+00:00",
@@ -4037,8 +4032,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T16:03:26.620221+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-22T11:26:55.521836+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4435,8 +4430,8 @@
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:03:49.874947+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-02-02T19:41:45.930420+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5648,8 +5643,8 @@
   "ecultify-digital|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T04:48:14.442788+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-22T09:52:20.647111+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -8341,11 +8336,6 @@
    "looked_up": "2026-10-18T18:01:24+00:00",
    "status": "not_found"
   },
-  "hireflexperts|frontend|l1": {
-   "expires": "2026-10-29T01:29:56.829397+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "hiringhood|data|l1": {
    "expires": "2026-11-09T21:49:50.597649+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -10633,8 +10623,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:29:57.721236+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-29T05:50:41.625076+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12160,8 +12150,8 @@
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:26:55.232293+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-21T03:34:22.041817+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -13286,8 +13276,8 @@
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T17:20:23.632569+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-25T13:44:57.772743+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16279,8 +16269,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T00:09:26.634050+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-20T04:59:39.631615+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17924,11 +17914,6 @@
    "looked_up": "2026-10-13T15:01:36+00:00",
    "status": "not_found"
   },
-  "tesco-bengaluru|security|l1": {
-   "expires": "2026-10-29T01:32:55.771154+00:00",
-   "looked_up": "2026-10-09T13:01:32+00:00",
-   "status": "not_found"
-  },
   "tesco-bengaluru|swe|l2": {
    "basis": "ctc",
    "confidence": "medium",
@@ -18115,8 +18100,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T11:56:33.385498+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-24T00:56:55.610389+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18129,8 +18114,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T08:17:36.942744+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-02-02T10:37:08.884459+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18835,8 +18820,8 @@
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T16:53:01.619529+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-30T21:12:42.664500+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19757,8 +19742,8 @@
   "weareuplers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T07:34:14.793392+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
+   "expires": "2027-01-21T13:39:47.384171+00:00",
+   "looked_up": "2026-10-29T02:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 15.0,
    "sources": [
@@ -19998,11 +19983,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "wonder-worth-solutions-llc|swe|l1": {
-   "expires": "2026-10-29T01:26:24.348036+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
-   "status": "not_found"
   },
   "work360ai|devops|l1": {
    "expires": "2026-11-02T05:12:09.368819+00:00",
