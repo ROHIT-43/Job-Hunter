@@ -496,11 +496,6 @@
    "looked_up": "2026-10-19T17:01:35+00:00",
    "status": "not_found"
   },
-  "adlife-enterprises|swe|l1": {
-   "expires": "2026-10-29T21:37:01.968982+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -525,11 +520,6 @@
   "adsparkx|swe|l1": {
    "expires": "2026-11-05T19:19:21.762948+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "advance-techno-systems|swe|l1": {
-   "expires": "2026-10-29T21:43:25.723725+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
    "status": "not_found"
   },
   "advancetech-controls|swe|l1": {
@@ -635,11 +625,6 @@
   "agrocorp-international|swe|l1": {
    "expires": "2026-10-31T10:43:31.888372+00:00",
    "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "ahex-technologies|swe|l1": {
-   "expires": "2026-10-29T21:37:20.904258+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
    "status": "not_found"
   },
   "aifa-labs-official|erp|l1": {
@@ -1732,11 +1717,6 @@
    "looked_up": "2026-10-21T08:01:34+00:00",
    "status": "not_found"
   },
-  "artechllc|swe|l1": {
-   "expires": "2026-10-29T21:35:19.283977+00:00",
-   "looked_up": "2026-10-09T05:01:19+00:00",
-   "status": "not_found"
-  },
   "artefact-global|erp|l1": {
    "expires": "2026-11-01T23:12:17.822508+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -1993,8 +1973,8 @@
    "status": "not_found"
   },
   "aurnex-group|swe|l1": {
-   "expires": "2026-10-29T21:02:17.452578+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
+   "expires": "2026-11-06T02:49:12.447898+00:00",
+   "looked_up": "2026-10-29T22:01:27+00:00",
    "status": "not_found"
   },
   "auronix-tech|swe|l1": {
@@ -3102,11 +3082,6 @@
   "buro-happold|swe|l1": {
    "expires": "2026-11-05T19:24:53.048398+00:00",
    "looked_up": "2026-10-28T20:01:30+00:00",
-   "status": "not_found"
-  },
-  "butterflyteck|swe|l1": {
-   "expires": "2026-10-29T21:11:46.558862+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
   "buxton-consulting|erp|l1": {
@@ -5861,8 +5836,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:54:19.458792+00:00",
-   "looked_up": "2026-10-29T21:01:31+00:00",
+   "expires": "2027-01-30T10:52:17.170767+00:00",
+   "looked_up": "2026-10-29T22:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10586,8 +10561,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:57:42.173288+00:00",
-   "looked_up": "2026-10-29T21:01:31+00:00",
+   "expires": "2027-01-31T13:15:30.959693+00:00",
+   "looked_up": "2026-10-29T22:01:27+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12067,11 +12042,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "msphere-io|devops|l1": {
-   "expires": "2026-10-29T22:00:22.391197+00:00",
-   "looked_up": "2026-10-20T01:01:24+00:00",
-   "status": "not_found"
-  },
   "mufg|fullstack|l1": {
    "expires": "2026-11-08T08:25:05.639913+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
@@ -13347,11 +13317,6 @@
   "papigon.com|swe|l1": {
    "expires": "2026-11-14T06:19:20.592967+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "parentpaygroup|swe|l1": {
-   "expires": "2026-10-29T21:49:55.915631+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
    "status": "not_found"
   },
   "parexel|swe|l1": {
@@ -20564,8 +20529,8 @@
  },
  "meta": {
   "day": "2026-10-29",
-  "lookups_month": 3455,
-  "lookups_today": 86,
+  "lookups_month": 3456,
+  "lookups_today": 87,
   "month": "2026-10"
  }
 }
