@@ -3004,8 +3004,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T07:15:43.085175+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-28T08:01:13.180895+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5491,8 +5491,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T13:59:10.500952+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-27T08:02:05.619470+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6631,8 +6631,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T15:27:46.433093+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-02-02T01:04:58.832946+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -8676,11 +8676,6 @@
    "looked_up": "2026-10-29T06:01:32+00:00",
    "status": "not_found"
   },
-  "hr-actowiz-solutions|fullstack|l1": {
-   "expires": "2026-10-30T18:45:41.961236+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
-   "status": "not_found"
-  },
   "hrmcounselll|swe|l1": {
    "expires": "2026-11-12T20:31:21.858358+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -9760,8 +9755,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:13:55.520622+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-23T01:04:55.621050+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10569,8 +10564,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T17:46:42.926087+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-27T13:04:34.024058+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -10603,11 +10598,6 @@
   "kpg-99-inc-|erp|l1": {
    "expires": "2026-11-06T17:48:40.189751+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
-  "kpit|mobile|l1": {
-   "expires": "2026-10-30T19:01:05.749491+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
   "kpmg-us|devops|l1": {
@@ -13185,6 +13175,26 @@
    "status": "found",
    "year": 2026
   },
+  "nvidia|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T17:12:24.606134+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 13.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/NVIDIA-Systems-Software-Development-Salaries-E7633_D_KO7,35.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/nvidia/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "nxp-semiconductors|data|l1": {
    "expires": "2026-11-19T03:46:31.636058+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
@@ -15061,8 +15071,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T16:59:48.693067+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-25T11:58:11.104738+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -15161,6 +15171,11 @@
   "rainfocus|frontend|l1": {
    "expires": "2026-11-12T12:27:25.698955+00:00",
    "looked_up": "2026-10-28T01:01:25+00:00",
+   "status": "not_found"
+  },
+  "ransitech|erp|l1": {
+   "expires": "2026-11-13T06:41:52.148933+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "status": "not_found"
   },
   "rapidbrains|erp|l1": {
@@ -16327,8 +16342,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T07:15:51.210632+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-26T21:12:31.899463+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -17158,8 +17173,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:21:45.048155+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2027-01-30T16:16:48.308061+00:00",
+   "looked_up": "2026-10-30T19:01:32+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17393,11 +17408,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sulzer|erp|l1": {
-   "expires": "2026-10-30T18:39:18.661677+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
   },
   "sumanhealth|swe|l1": {
    "expires": "2026-11-19T19:11:06.487365+00:00",
@@ -20729,11 +20739,6 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
-  "zebra-technologies|devops|l2": {
-   "expires": "2026-10-30T18:14:28.124946+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
-  },
   "zecdata|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -21040,8 +21045,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3608,
-  "lookups_today": 152,
+  "lookups_month": 3610,
+  "lookups_today": 154,
   "month": "2026-10"
  }
 }
