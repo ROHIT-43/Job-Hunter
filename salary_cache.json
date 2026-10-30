@@ -5,11 +5,6 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
-  "360-degree-cloud|erp|l1": {
-   "expires": "2026-10-30T01:53:49.939516+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "360technology-usa|erp|l1": {
    "expires": "2026-11-06T18:31:29.370288+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -5801,8 +5796,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T19:08:47.205826+00:00",
-   "looked_up": "2026-10-30T01:10:57+00:00",
+   "expires": "2027-01-24T00:17:07.657206+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5912,6 +5907,11 @@
   "equifax|swe|l1": {
    "expires": "2026-11-15T18:19:22.883705+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "equisoft|swe|l1": {
+   "expires": "2026-11-10T15:19:47.178483+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
   "erbatech-machinery-private-limited.|swe|l1": {
@@ -7627,11 +7627,6 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
-  "gpunet|swe|l1": {
-   "expires": "2026-10-30T01:15:57.509478+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
-   "status": "not_found"
-  },
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8852,6 +8847,11 @@
    "looked_up": "2026-10-24T10:01:26+00:00",
    "status": "not_found"
   },
+  "ilizien|swe|l1": {
+   "expires": "2026-11-13T01:51:52.127275+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
+   "status": "not_found"
+  },
   "illumina|data|l1": {
    "expires": "2026-11-09T13:14:14.333615+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -9413,6 +9413,11 @@
    "looked_up": "2026-10-24T07:01:21+00:00",
    "status": "not_found"
   },
+  "interaktv|swe|l1": {
+   "expires": "2026-11-13T17:55:36.104768+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
+   "status": "not_found"
+  },
   "interviewglide|frontend|l1": {
    "expires": "2026-11-06T19:48:12.423881+00:00",
    "looked_up": "2026-10-25T05:01:26+00:00",
@@ -9540,6 +9545,11 @@
   "iris-software-inc.|data|l1": {
    "expires": "2026-11-06T03:46:03.667956+00:00",
    "looked_up": "2026-10-28T19:01:28+00:00",
+   "status": "not_found"
+  },
+  "iris-software-inc.|erp|l1": {
+   "expires": "2026-11-13T17:56:28.375336+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
   "itamexperts-assetregister|erp|l1": {
@@ -10496,8 +10506,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:35:01.157658+00:00",
-   "looked_up": "2026-10-30T01:10:57+00:00",
+   "expires": "2027-01-29T08:42:26.072444+00:00",
+   "looked_up": "2026-10-30T02:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12329,11 +12339,6 @@
   "nextpowerinc|devops|l1": {
    "expires": "2026-11-08T00:07:58.254228+00:00",
    "looked_up": "2026-10-29T11:01:33+00:00",
-   "status": "not_found"
-  },
-  "nexucon-consultancy-services-pvt-ltd|erp|l1": {
-   "expires": "2026-10-30T01:38:34.712399+00:00",
-   "looked_up": "2026-10-09T07:01:24+00:00",
    "status": "not_found"
   },
   "nexus-automation-solutions|swe|l1": {
@@ -19742,11 +19747,6 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
-  "winapps.co.in|swe|l1": {
-   "expires": "2026-10-30T01:52:58.352082+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
-   "status": "not_found"
-  },
   "wipro|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20439,8 +20439,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3457,
-  "lookups_today": 1,
+  "lookups_month": 3461,
+  "lookups_today": 5,
   "month": "2026-10"
  }
 }
