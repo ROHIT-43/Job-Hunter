@@ -2663,11 +2663,6 @@
    "status": "found",
    "year": 2026
   },
-  "bloomfieldinnovations|frontend|l1": {
-   "expires": "2026-10-30T19:26:24.240850+00:00",
-   "looked_up": "2026-10-19T06:01:25+00:00",
-   "status": "not_found"
-  },
   "blue-cloud-softech-solutions|data|l1": {
    "expires": "2026-11-15T21:10:46.249748+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -3004,8 +2999,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:16:38.429893+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-30T10:47:37.642498+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5491,8 +5486,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T02:27:49.982010+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-26T07:36:03.039174+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6631,8 +6626,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:54:32.957740+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-27T05:45:55.636474+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -8054,11 +8049,6 @@
   "gulf-marvel-eng-tr-co-llc|swe|l1": {
    "expires": "2026-11-03T08:43:38.458247+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
-  "gwayerp|fullstack|l1": {
-   "expires": "2026-10-30T19:31:04.028866+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
    "status": "not_found"
   },
   "h&amp;m|swe|l1": {
@@ -9755,8 +9745,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T03:24:32.260151+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-25T17:27:37.919539+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10564,8 +10554,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T00:21:15.067103+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-26T13:26:57.295678+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -11521,11 +11511,6 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
-  "mastek|fullstack|l1": {
-   "expires": "2026-10-30T19:51:27.665586+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "mastercam|swe|l1": {
    "expires": "2026-11-14T18:26:34.816188+00:00",
    "looked_up": "2026-10-26T19:26:21+00:00",
@@ -12379,11 +12364,6 @@
   "multivac-technology-solutions-india-private-limited|erp|l1": {
    "expires": "2026-11-07T19:44:24.316037+00:00",
    "looked_up": "2026-10-20T12:01:35+00:00",
-   "status": "not_found"
-  },
-  "murunah|fullstack|l1": {
-   "expires": "2026-10-30T19:52:27.776411+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
    "status": "not_found"
   },
   "mv-procu-gmbh|swe|l1": {
@@ -15066,8 +15046,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T04:18:50.371737+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-02-02T01:30:58.458365+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16337,8 +16317,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T22:46:18.573634+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-01-25T19:36:35.416338+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16637,11 +16617,6 @@
   "skatesupplyindia|frontend|l1": {
    "expires": "2026-11-07T19:29:15.912251+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "skillcollege|mobile|l1": {
-   "expires": "2026-10-30T19:42:56.238658+00:00",
-   "looked_up": "2026-10-18T14:01:28+00:00",
    "status": "not_found"
   },
   "skillinabox|swe|l1": {
@@ -17037,11 +17012,6 @@
    "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
-  "solvex-solutions|devops|l1": {
-   "expires": "2026-10-30T19:40:25.201760+00:00",
-   "looked_up": "2026-10-12T14:01:35+00:00",
-   "status": "not_found"
-  },
   "sonata-software|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -17168,8 +17138,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T16:00:48.746628+00:00",
-   "looked_up": "2026-10-30T19:22:04+00:00",
+   "expires": "2027-02-04T17:10:06.874833+00:00",
+   "looked_up": "2026-10-30T20:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17471,11 +17441,6 @@
   "sweken-it-solutions|mobile|l1": {
    "expires": "2026-10-31T03:36:08.193914+00:00",
    "looked_up": "2026-10-10T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "swiftb2b|data|l1": {
-   "expires": "2026-10-30T19:53:14.924876+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
    "status": "not_found"
   },
   "swiggy-in|swe|l1": {
