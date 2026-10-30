@@ -1774,6 +1774,11 @@
    "status": "found",
    "year": 2026
   },
+  "ascentt-systems|swe|l1": {
+   "expires": "2026-11-19T09:47:08.985580+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "ashok-leyland|swe|l1": {
    "expires": "2026-11-05T11:52:09.232153+00:00",
    "looked_up": "2026-10-29T11:01:33+00:00",
@@ -2891,8 +2896,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:48:14.817765+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-31T18:51:10.890939+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -4616,6 +4621,11 @@
    "looked_up": "2026-10-25T11:01:34+00:00",
    "status": "not_found"
   },
+  "crossinghurdles|mobile|l1": {
+   "expires": "2026-11-17T02:16:26.748237+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "crossinghurdles|swe|l1": {
    "expires": "2026-11-04T02:01:07.377753+00:00",
    "looked_up": "2026-10-17T10:01:25+00:00",
@@ -4734,6 +4744,11 @@
   "cwc-mohali|mobile|l1": {
    "expires": "2026-10-30T12:01:56.079974+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "cxgroup|data|l3": {
+   "expires": "2026-11-16T23:42:46.098187+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "cxnplio|swe|l1": {
@@ -5363,8 +5378,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T07:04:19.309306+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-27T14:35:52.881449+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5544,6 +5559,11 @@
    ],
    "status": "found"
   },
+  "duragapur-society-of-management-science-dsms|swe|l1": {
+   "expires": "2026-11-08T04:06:35.062726+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "durapidtechnologies|data|l1": {
    "expires": "2026-11-13T07:59:13.824700+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -5603,6 +5623,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ebitaus|swe|l1": {
+   "expires": "2026-11-14T13:13:08.240345+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
   },
   "eci-software--solutions|swe|l2": {
    "expires": "2026-11-10T11:47:34.202349+00:00",
@@ -6472,8 +6497,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T15:32:32.332131+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-31T06:54:43.658317+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7526,6 +7551,26 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
+  "goldman-sachs|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T02:23:47.514121+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 16.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/companies/goldman-sachs?salary_band=all"
+    },
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/f2742b08/The-Goldman-Sachs-Group-Inc.-Bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "goodspaceai|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7788,6 +7833,22 @@
    "expires": "2026-11-08T09:50:56.846792+00:00",
    "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
+  },
+  "guidehouse|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T22:26:16.762883+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "max_lpa": 12.9,
+   "min_lpa": 4.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/guidehouse-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "guidehouse|devops|l1": {
    "basis": "ctc",
@@ -8124,6 +8185,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "heads-up-for-tails|swe|l1": {
+   "expires": "2026-11-16T09:21:07.667400+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
   },
   "headspin|devops|l1": {
    "expires": "2026-11-03T10:34:57.392730+00:00",
@@ -9519,8 +9585,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:40:57.016510+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-02-01T19:21:24.096777+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10328,8 +10394,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:01:02.253477+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-24T08:29:24.147867+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -11599,11 +11665,6 @@
    "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
-  "meatec-batteryintelligence|swe|l1": {
-   "expires": "2026-10-30T11:15:53.160878+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
-   "status": "not_found"
-  },
   "media.net|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11678,6 +11739,11 @@
   "meril|fullstack|l1": {
    "expires": "2026-11-08T04:37:39.569192+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
+   "status": "not_found"
+  },
+  "meril|mobile|l1": {
+   "expires": "2026-11-14T15:48:12.869371+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "meril|swe|l1": {
@@ -12998,6 +13064,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "omnissa|swe|l1": {
+   "expires": "2026-11-09T06:37:17.342658+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "onarrival-travel|swe|l1": {
    "expires": "2026-11-09T02:39:54.955613+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -13046,6 +13117,22 @@
    "expires": "2026-10-30T13:16:41.545069+00:00",
    "looked_up": "2026-10-14T12:01:29+00:00",
    "status": "not_found"
+  },
+  "opengov-inc|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T10:06:29.895232+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "max_lpa": 45.0,
+   "min_lpa": 19.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/opengov-salaries/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "opengov-inc|swe|l3": {
    "basis": "ctc",
@@ -15356,6 +15443,11 @@
    "looked_up": "2026-10-19T20:01:28+00:00",
    "status": "not_found"
   },
+  "saatvik-agro-processors-private-limited|data|l1": {
+   "expires": "2026-11-11T12:29:46.999761+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "saatvik-agro-processors-private-limited|frontend|l1": {
    "expires": "2026-11-06T02:32:56.951433+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
@@ -15943,8 +16035,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T23:17:40.787867+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-27T10:41:01.338807+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16369,6 +16461,11 @@
    "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
+  "smaowl9|fullstack|l1": {
+   "expires": "2026-11-13T01:20:23.752725+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
   "smart-ims|frontend|l1": {
    "expires": "2026-11-10T13:18:59.162407+00:00",
    "looked_up": "2026-10-23T06:01:26+00:00",
@@ -16779,8 +16876,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T19:18:08.559846+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
+   "expires": "2027-01-26T16:05:08.445845+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17023,6 +17120,11 @@
   "sulzer|swe|l1": {
    "expires": "2026-10-30T14:27:15.561974+00:00",
    "looked_up": "2026-10-12T15:01:29+00:00",
+   "status": "not_found"
+  },
+  "sunteknovation|swe|l1": {
+   "expires": "2026-11-11T03:40:51.737245+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "superfan-ng|fullstack|l1": {
@@ -18142,6 +18244,11 @@
   "thefutureuniversity|fullstack|l1": {
    "expires": "2026-11-02T18:23:30.534311+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "thejobbie|swe|l1": {
+   "expires": "2026-11-12T09:56:45.876211+00:00",
+   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "thejobsmap|swe|l1": {
@@ -20641,8 +20748,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3529,
-  "lookups_today": 73,
+  "lookups_month": 3544,
+  "lookups_today": 88,
   "month": "2026-10"
  }
 }
