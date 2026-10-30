@@ -885,8 +885,8 @@
    "year": 2026
   },
   "alignerr|security|l1": {
-   "expires": "2026-10-30T05:01:53.581821+00:00",
-   "looked_up": "2026-10-13T03:01:28+00:00",
+   "expires": "2026-11-18T21:30:21.073910+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "alignerr|swe|l1": {
@@ -2883,6 +2883,20 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
+  "break-free|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-24T20:47:13.994303+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "bridgenext|swe|l1": {
    "expires": "2026-11-13T15:49:26.662984+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -3342,6 +3356,11 @@
   "cargoclave|fullstack|l1": {
    "expires": "2026-11-04T14:37:56.501783+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
+   "status": "not_found"
+  },
+  "carpet-international|frontend|l1": {
+   "expires": "2026-11-19T01:03:39.117095+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "carrier|swe|l1": {
@@ -3924,11 +3943,6 @@
     }
    ],
    "status": "found"
-  },
-  "cloudmotiv|fullstack|l1": {
-   "expires": "2026-10-30T05:39:28.125789+00:00",
-   "looked_up": "2026-10-09T09:01:30+00:00",
-   "status": "not_found"
   },
   "cloudsutra|devops|l1": {
    "basis": "posted",
@@ -5250,6 +5264,11 @@
    "status": "found",
    "year": 2025
   },
+  "diagrid-inc|fullstack|l1": {
+   "expires": "2026-11-15T18:08:45.518617+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
+   "status": "not_found"
+  },
   "digi-knights-inc|devops|l1": {
    "expires": "2026-11-05T08:03:11.616565+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
@@ -5304,6 +5323,11 @@
   "digiletechnologies|swe|l1": {
    "expires": "2026-11-14T07:29:54.305086+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "digiprima-technologies|swe|l1": {
+   "expires": "2026-11-10T07:16:36.347539+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "digireach|swe|l1": {
@@ -5797,8 +5821,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T10:03:58.180342+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
+   "expires": "2027-01-23T04:36:31.831461+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6409,8 +6433,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T10:21:31.727309+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
+   "expires": "2027-01-22T20:48:27.654207+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -8697,11 +8721,6 @@
    "status": "found",
    "year": 2026
   },
-  "ibr-infotech|swe|l1": {
-   "expires": "2026-10-30T05:27:29.249386+00:00",
-   "looked_up": "2026-10-13T19:01:28+00:00",
-   "status": "not_found"
-  },
   "icapital-network-inc|swe|l1": {
    "expires": "2026-11-09T21:56:34.299654+00:00",
    "looked_up": "2026-10-29T14:01:33+00:00",
@@ -8775,6 +8794,11 @@
   "ideaelanindia|swe|l1": {
    "expires": "2026-11-03T10:14:30.770348+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "ideagen|devops|l1": {
+   "expires": "2026-11-15T07:44:19.948098+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "idemiagroup|swe|l1": {
@@ -9635,6 +9659,11 @@
    "status": "found",
    "year": 2026
   },
+  "itilite|swe|l1": {
+   "expires": "2026-11-18T06:30:03.211929+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
+   "status": "not_found"
+  },
   "ittiam-systems|ml|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10046,11 +10075,6 @@
    "looked_up": "2026-10-16T19:01:22+00:00",
    "status": "not_found"
   },
-  "kaizen-dental-family|swe|l1": {
-   "expires": "2026-10-30T05:10:07.231333+00:00",
-   "looked_up": "2026-10-11T00:01:26+00:00",
-   "status": "not_found"
-  },
   "kanishkasoftware|devops|l1": {
    "expires": "2026-11-08T16:22:48.609624+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
@@ -10246,8 +10270,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T05:22:20.152587+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
+   "expires": "2027-01-24T14:10:35.826220+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -10535,8 +10559,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T13:33:21.647294+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
+   "expires": "2027-01-24T15:28:31.505648+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -11908,11 +11932,6 @@
    "status": "found",
    "year": 2026
   },
-  "motion-philm-cgi-pvt-ltd-|swe|l1": {
-   "expires": "2026-10-30T05:07:45.715639+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "motorolasolutions|devops|l1": {
    "expires": "2026-11-05T02:33:43.584553+00:00",
    "looked_up": "2026-10-17T18:01:21+00:00",
@@ -12335,11 +12354,6 @@
    "looked_up": "2026-10-10T00:01:23+00:00",
    "status": "not_found"
   },
-  "nexgen-techsolutions|swe|l1": {
-   "expires": "2026-10-30T05:07:18.888938+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
   "nexsap-solutions|erp|l1": {
    "expires": "2026-11-11T12:03:22.632619+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
@@ -12531,8 +12545,8 @@
    "status": "not_found"
   },
   "nordson-corporation|swe|l2": {
-   "expires": "2026-10-30T05:12:03.469125+00:00",
-   "looked_up": "2026-10-10T11:01:20+00:00",
+   "expires": "2026-11-16T08:16:50.100146+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "nornux-solutions-private-limited|swe|l1": {
@@ -13929,11 +13943,6 @@
    "status": "found",
    "year": 2026
   },
-  "propbulls-solutions|swe|l1": {
-   "expires": "2026-10-30T05:05:01.930791+00:00",
-   "looked_up": "2026-10-09T08:01:20+00:00",
-   "status": "not_found"
-  },
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14167,6 +14176,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qa-lab-sandbox|swe|l1": {
+   "expires": "2026-11-18T02:52:34.233247+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
+   "status": "not_found"
   },
   "qad|frontend|l1": {
    "expires": "2026-10-30T22:16:20.746023+00:00",
@@ -16430,11 +16444,6 @@
    "looked_up": "2026-10-27T15:01:29+00:00",
    "status": "not_found"
   },
-  "sofodel|frontend|l1": {
-   "expires": "2026-10-30T05:03:03.490461+00:00",
-   "looked_up": "2026-10-10T21:01:24+00:00",
-   "status": "not_found"
-  },
   "softcrayons-it-education|fullstack|l1": {
    "expires": "2026-11-04T00:54:15.428585+00:00",
    "looked_up": "2026-10-14T22:01:29+00:00",
@@ -16627,8 +16636,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:35:52.745686+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
+   "expires": "2027-01-25T19:30:59.241990+00:00",
+   "looked_up": "2026-10-30T06:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -19776,11 +19785,6 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
-  "win-solutions|swe|l1": {
-   "expires": "2026-10-30T05:38:50.617690+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
-   "status": "not_found"
-  },
   "winapps.co.in|fullstack|l1": {
    "expires": "2026-11-10T20:28:54.493416+00:00",
    "looked_up": "2026-10-21T07:01:27+00:00",
@@ -20478,8 +20482,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3473,
-  "lookups_today": 17,
+  "lookups_month": 3481,
+  "lookups_today": 25,
   "month": "2026-10"
  }
 }
