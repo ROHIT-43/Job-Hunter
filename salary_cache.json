@@ -2134,11 +2134,6 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
-  "axitech-india|swe|l1": {
-   "expires": "2026-10-30T02:02:10.233970+00:00",
-   "looked_up": "2026-10-10T14:01:23+00:00",
-   "status": "not_found"
-  },
   "axolt|swe|l1": {
    "expires": "2026-11-09T03:04:03.168642+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
@@ -3272,11 +3267,6 @@
   },
   "careerxperts-consulting|data|l1": {
    "expires": "2026-11-05T15:52:56.394582+00:00",
-   "looked_up": "2026-10-21T03:02:05+00:00",
-   "status": "not_found"
-  },
-  "careerxperts-consulting|devops|l2": {
-   "expires": "2026-10-30T02:10:42.748464+00:00",
    "looked_up": "2026-10-21T03:02:05+00:00",
    "status": "not_found"
   },
@@ -5151,11 +5141,6 @@
    "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
-  "deltreq|swe|l1": {
-   "expires": "2026-10-30T02:15:09.708622+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
-   "status": "not_found"
-  },
   "dentsuglobalservices|devops|l1": {
    "expires": "2026-11-05T18:31:09.215575+00:00",
    "looked_up": "2026-10-15T23:01:27+00:00",
@@ -5796,8 +5781,8 @@
   "enigen-uk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T00:17:07.657206+00:00",
-   "looked_up": "2026-10-30T02:01:28+00:00",
+   "expires": "2027-01-28T18:36:00.526074+00:00",
+   "looked_up": "2026-10-30T03:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6166,11 +6151,6 @@
   "excelya|swe|l1": {
    "expires": "2026-11-08T02:25:28.934652+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "exillar|devops|l1": {
-   "expires": "2026-10-30T02:24:24.409558+00:00",
-   "looked_up": "2026-10-11T16:01:21+00:00",
    "status": "not_found"
   },
   "exl-service|data|l1": {
@@ -10506,8 +10486,8 @@
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:42:26.072444+00:00",
-   "looked_up": "2026-10-30T02:01:28+00:00",
+   "expires": "2027-01-25T21:36:00.822277+00:00",
+   "looked_up": "2026-10-30T03:01:29+00:00",
    "max_lpa": 2.2,
    "min_lpa": 1.4,
    "sources": [
@@ -12274,11 +12254,6 @@
   "neuralcraft-co|swe|l1": {
    "expires": "2026-11-16T03:56:35.395751+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "neurodrift|fullstack|l1": {
-   "expires": "2026-10-30T02:44:12.041195+00:00",
-   "looked_up": "2026-10-18T21:01:29+00:00",
    "status": "not_found"
   },
   "neuvayscounsulting|erp|l1": {
@@ -17187,11 +17162,6 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
-  "tansorpay|fullstack|l1": {
-   "expires": "2026-10-30T03:00:10.800389+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
-   "status": "not_found"
-  },
   "tantranzm|fullstack|l1": {
    "expires": "2026-11-02T17:08:03.652825+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -17460,11 +17430,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "teamware-solutions|swe|l1": {
-   "expires": "2026-10-30T02:07:48.489255+00:00",
-   "looked_up": "2026-10-09T06:01:28+00:00",
-   "status": "not_found"
   },
   "tech-essentia|swe|l1": {
    "expires": "2026-10-30T12:57:28.322817+00:00",
