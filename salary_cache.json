@@ -3004,8 +3004,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T08:01:13.180895+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-24T09:16:38.429893+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5491,8 +5491,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T08:02:05.619470+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-23T02:27:49.982010+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6631,8 +6631,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:04:58.832946+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-28T08:54:32.957740+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9755,8 +9755,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:04:55.621050+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-22T03:24:32.260151+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10564,8 +10564,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T13:04:34.024058+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-23T00:21:15.067103+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -14384,11 +14384,6 @@
    "looked_up": "2026-10-30T14:15:30+00:00",
    "status": "not_found"
   },
-  "procter-and-gamble|security|l1": {
-   "expires": "2026-10-30T19:21:09.780345+00:00",
-   "looked_up": "2026-10-20T19:01:31+00:00",
-   "status": "not_found"
-  },
   "prodcontechservicespvtltd|swe|l1": {
    "expires": "2026-11-09T23:13:42.410411+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -15071,8 +15066,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:58:11.104738+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-22T04:18:50.371737+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16342,8 +16337,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:12:31.899463+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-21T22:46:18.573634+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -17173,8 +17168,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T16:16:48.308061+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
+   "expires": "2027-01-23T16:00:48.746628+00:00",
+   "looked_up": "2026-10-30T19:22:04+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
