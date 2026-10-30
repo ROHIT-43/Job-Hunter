@@ -1340,6 +1340,20 @@
    "looked_up": "2026-10-28T19:01:28+00:00",
    "status": "not_found"
   },
+  "analogyxbi|data|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-22T19:25:20.015290+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "analytix-global|mobile|l1": {
    "expires": "2026-11-01T12:39:50.919974+00:00",
    "looked_up": "2026-10-22T17:01:27+00:00",
@@ -2596,11 +2610,6 @@
    "status": "found",
    "year": 2026
   },
-  "bitsandbyteitconsulting|fullstack|l1": {
-   "expires": "2026-10-30T22:47:33.301124+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
-   "status": "not_found"
-  },
   "bizconnect-pvt-ltd|mobile|l1": {
    "expires": "2026-11-01T06:59:07.441891+00:00",
    "looked_up": "2026-10-11T17:01:22+00:00",
@@ -2999,8 +3008,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:53:00.797944+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-28T03:08:10.380477+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5304,11 +5313,6 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
-  "deltek|swe|l1": {
-   "expires": "2026-10-30T22:16:23.495229+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
   "dentsuglobalservices|devops|l1": {
    "expires": "2026-11-05T18:31:09.215575+00:00",
    "looked_up": "2026-10-15T23:01:27+00:00",
@@ -5486,8 +5490,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T19:51:22.706501+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-25T18:45:48.415816+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6621,8 +6625,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T18:38:30.933725+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-29T02:42:56.400277+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7311,11 +7315,6 @@
   "gartner|security|l1": {
    "expires": "2026-11-02T09:24:45.242670+00:00",
    "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
-  "gartner|swe|l2": {
-   "expires": "2026-10-30T22:30:24.938240+00:00",
-   "looked_up": "2026-10-21T10:01:27+00:00",
    "status": "not_found"
   },
   "gather-ai|data|l2": {
@@ -9745,8 +9744,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:35:29.360578+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-26T03:52:51.309487+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10554,8 +10553,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T00:05:13.684629+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-22T18:05:15.965780+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -14655,11 +14654,6 @@
    "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
-  "qad|frontend|l1": {
-   "expires": "2026-10-30T22:16:20.746023+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
   "qad|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15041,8 +15035,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:48:20.533619+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-31T03:46:26.614020+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16312,8 +16306,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T15:58:43.829023+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-01-22T02:00:20.563850+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16529,11 +16523,6 @@
    "status": "found",
    "year": 2026
   },
-  "signature-social-media-agency|data|l1": {
-   "expires": "2026-10-30T22:47:55.027275+00:00",
-   "looked_up": "2026-10-19T06:17:36+00:00",
-   "status": "not_found"
-  },
   "signifycompany|data|l1": {
    "expires": "2026-11-10T17:09:22.316705+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -16626,8 +16615,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:12:38.317400+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
+   "expires": "2027-01-23T03:58:00.835848+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17128,8 +17117,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T13:19:59.442291+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
+   "expires": "2027-02-01T11:27:50.288178+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17138,6 +17127,11 @@
     }
    ],
    "status": "found"
+  },
+  "south-system|data|l1": {
+   "expires": "2026-11-19T13:52:59.020123+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
+   "status": "not_found"
   },
   "south-system|fullstack|l1": {
    "expires": "2026-11-11T07:30:24.633450+00:00",
@@ -18472,8 +18466,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:12:03.260394+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
+   "expires": "2027-01-23T10:42:50.481737+00:00",
+   "looked_up": "2026-10-30T23:01:39+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20975,8 +20969,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3614,
-  "lookups_today": 158,
+  "lookups_month": 3615,
+  "lookups_today": 159,
   "month": "2026-10"
  }
 }
