@@ -10,11 +10,6 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
-  "3m|data|l1": {
-   "expires": "2026-10-30T17:23:15.319031+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "3m|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1248,6 +1243,26 @@
    "status": "found",
    "year": 2020
   },
+  "american-express|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T18:22:16.188711+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
+   "max_lpa": 29.0,
+   "min_lpa": 15.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/american-express-salaries/software-engineer/chennai-location"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-amex-pay/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "american-express|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -1637,6 +1652,11 @@
   "arcticwolf|swe|l3": {
    "expires": "2026-11-12T16:15:19.545732+00:00",
    "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "argano|data|l1": {
+   "expires": "2026-11-15T17:06:38.345443+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "argano|erp|l1": {
@@ -2235,6 +2255,11 @@
   "bank-of-america|swe|l1": {
    "expires": "2026-11-03T03:12:04.193849+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
+   "status": "not_found"
+  },
+  "bank-of-america|swe|l2": {
+   "expires": "2026-11-13T08:24:22.827655+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "bank-of-america|swe|l3": {
@@ -2856,6 +2881,22 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
+  "bookingholdings|data|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-22T06:45:43.656682+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
+   "max_lpa": 45.0,
+   "min_lpa": 45.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4044692/booking-holdings-sde-2-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "bookingholdings|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -2963,8 +3004,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:30:26.771452+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-30T07:15:43.085175+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3370,11 +3411,6 @@
   "careerxperts-consulting|data|l1": {
    "expires": "2026-11-05T15:52:56.394582+00:00",
    "looked_up": "2026-10-21T03:02:05+00:00",
-   "status": "not_found"
-  },
-  "careflow-os-ai|mobile|l1": {
-   "expires": "2026-10-30T17:45:35.538825+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
   "carelon-global-solutions-in|data|l2": {
@@ -4965,6 +5001,11 @@
    "looked_up": "2026-10-20T16:01:30+00:00",
    "status": "not_found"
   },
+  "danfoss|security|l1": {
+   "expires": "2026-11-09T19:02:33.880436+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
+   "status": "not_found"
+  },
   "danfoss|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5450,8 +5491,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:03:46.048684+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-02-03T13:59:10.500952+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6590,8 +6631,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T17:59:10.984448+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-29T15:27:46.433093+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -8067,6 +8108,11 @@
   "hakkoda|erp|l1": {
    "expires": "2026-10-31T00:08:32.072803+00:00",
    "looked_up": "2026-10-12T17:01:25+00:00",
+   "status": "not_found"
+  },
+  "hakkoda|fullstack|l1": {
+   "expires": "2026-11-06T19:51:26.356706+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "halma-plc|erp|l1": {
@@ -9714,8 +9760,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:12:39.431857+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-29T08:13:55.520622+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10523,8 +10569,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:36:44.346781+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-24T17:46:42.926087+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -11439,11 +11485,6 @@
   "manevaconsulting|swe|l1": {
    "expires": "2026-11-05T07:39:46.157121+00:00",
    "looked_up": "2026-10-26T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "marduk-technologies|swe|l1": {
-   "expires": "2026-10-30T17:59:03.718393+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "mariinox|frontend|l1": {
@@ -12765,6 +12806,26 @@
    "status": "found",
    "year": 2025
   },
+  "niitmts|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T02:57:41.220394+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/niit-salaries"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/niit/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nikah-forever|swe|l2": {
    "expires": "2026-11-02T15:17:27.796323+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
@@ -13637,6 +13698,11 @@
   "palvex-tech-opc-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-03T03:12:19.952471+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "panasonic-avionics-corporation|swe|l1": {
+   "expires": "2026-11-17T10:26:46.815093+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "paperlite|mobile|l1": {
@@ -14995,8 +15061,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T09:47:43.044238+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-24T16:59:48.693067+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -15070,6 +15136,11 @@
   "radian-generation|swe|l1": {
    "expires": "2026-11-08T12:36:37.242030+00:00",
    "looked_up": "2026-10-28T20:01:30+00:00",
+   "status": "not_found"
+  },
+  "radiometer-medical|swe|l1": {
+   "expires": "2026-11-16T20:47:19.448173+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "radware|devops|l1": {
@@ -16256,8 +16327,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T13:42:33.062449+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-02-01T07:15:51.210632+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -17087,8 +17158,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:07:14.607797+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
+   "expires": "2027-01-23T08:21:45.048155+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -18847,6 +18918,11 @@
   "travitons-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-16T18:02:34.973023+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
+   "status": "not_found"
+  },
+  "trekbikes|swe|l2": {
+   "expires": "2026-11-15T13:46:37.988590+00:00",
+   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "trendwick|swe|l1": {
@@ -20964,8 +21040,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3598,
-  "lookups_today": 142,
+  "lookups_month": 3608,
+  "lookups_today": 152,
   "month": "2026-10"
  }
 }
