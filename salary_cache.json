@@ -2765,6 +2765,22 @@
    "status": "found",
    "year": 2025
   },
+  "bnp-paribas|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T12:33:03.358677+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/bnp-paribas-salaries/java-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "bnp-paribas|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2947,8 +2963,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T13:22:17.242426+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-02-04T15:30:26.771452+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3975,6 +3991,11 @@
    "status": "found",
    "year": 2026
   },
+  "cloud-is-good|erp|l1": {
+   "expires": "2026-11-09T14:45:19.966475+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
   "cloud-raptor|erp|l1": {
    "expires": "2026-11-08T02:20:34.158177+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -4337,6 +4358,11 @@
    "status": "found",
    "year": 2026
   },
+  "colt-technology-services|devops|l1": {
+   "expires": "2026-11-16T09:30:17.074672+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
   "comcast|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -4384,11 +4410,6 @@
   "commerceiq|devops|l1": {
    "expires": "2026-11-01T19:49:08.576697+00:00",
    "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
-  "commure|swe|l1": {
-   "expires": "2026-10-30T16:16:28.833681+00:00",
-   "looked_up": "2026-10-13T22:01:25+00:00",
    "status": "not_found"
   },
   "commvault|data|l1": {
@@ -5035,11 +5056,6 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
-  "dayforce|swe|l1": {
-   "expires": "2026-10-30T16:31:09.811805+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
-   "status": "not_found"
-  },
   "dazn-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5434,8 +5450,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:40:59.911509+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-25T05:03:46.048684+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6574,8 +6590,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T11:17:25.639663+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-28T17:59:10.984448+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6887,6 +6903,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "fitwiseplus|mobile|l1": {
+   "expires": "2026-11-06T20:51:30.314301+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
   },
   "five9|swe|l2": {
    "expires": "2026-10-31T23:05:47.130143+00:00",
@@ -9224,6 +9245,22 @@
    "status": "found",
    "year": 2025
   },
+  "infoblox|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T22:46:04.412659+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "max_lpa": 23.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/infoblox-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "infocus-technologies-pvt-ltd|erp|l1": {
    "expires": "2026-11-12T23:31:29.370247+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
@@ -9677,8 +9714,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T00:55:18.927379+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-26T09:12:39.431857+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -9712,6 +9749,11 @@
   "ipivot|erp|l1": {
    "expires": "2026-11-12T06:38:08.941323+00:00",
    "looked_up": "2026-10-26T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "iq-eq|swe|l1": {
+   "expires": "2026-11-07T17:25:05.038422+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "iqra-digital-solutions|swe|l1": {
@@ -10481,8 +10523,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T13:18:37.085750+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-24T18:36:44.346781+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -10510,6 +10552,11 @@
   "kovalty|swe|l1": {
    "expires": "2026-11-07T18:51:55.527852+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "kpg-99-inc-|erp|l1": {
+   "expires": "2026-11-06T17:48:40.189751+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "kpit|mobile|l1": {
@@ -10974,11 +11021,6 @@
     }
    ],
    "status": "found"
-  },
-  "livine-software|swe|l1": {
-   "expires": "2026-10-30T16:12:24.776424+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
   },
   "localbutcher|swe|l1": {
    "expires": "2026-10-31T08:54:23.790855+00:00",
@@ -11685,11 +11727,6 @@
    "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
-  "maxwell-slitter-industries|swe|l1": {
-   "expires": "2026-10-30T16:44:41.948871+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "mayura-consultancy-services|mobile|l1": {
    "expires": "2026-11-15T08:54:57.838899+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -12034,6 +12071,11 @@
    "looked_up": "2026-10-22T19:01:24+00:00",
    "status": "not_found"
   },
+  "mindvora-solution|frontend|l1": {
+   "expires": "2026-11-14T14:51:34.056144+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
   "minfy|security|l1": {
    "expires": "2026-11-10T13:56:00.378707+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -12283,6 +12325,11 @@
    "looked_up": "2026-10-19T21:01:25+00:00",
    "status": "not_found"
   },
+  "msd-global|swe|l1": {
+   "expires": "2026-11-18T08:28:06.012690+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
   "msg-global|frontend|l1": {
    "expires": "2026-11-08T07:09:15.110087+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -12321,6 +12368,11 @@
   "mycareernet|swe|l1": {
    "expires": "2026-11-08T20:59:24.918212+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "myriad360|data|l1": {
+   "expires": "2026-11-18T08:14:18.535590+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "mytripmatch-in|frontend|l1": {
@@ -12365,6 +12417,11 @@
   "navan|swe|l2": {
    "expires": "2026-11-12T18:27:53.205671+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "navihyr|fullstack|l1": {
+   "expires": "2026-11-11T07:12:59.597662+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "nazztec|erp|l1": {
@@ -12888,6 +12945,11 @@
   "nri-pelligola|mobile|l1": {
    "expires": "2026-11-16T07:55:56.371712+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "ntanservices|fullstack|l1": {
+   "expires": "2026-11-08T23:47:22.135360+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|devops|l1": {
@@ -14933,8 +14995,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T04:26:32.247886+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-22T09:47:43.044238+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16107,11 +16169,6 @@
    "looked_up": "2026-10-22T21:01:31+00:00",
    "status": "not_found"
   },
-  "security-brigade|swe|l1": {
-   "expires": "2026-10-30T16:57:13.434677+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
-   "status": "not_found"
-  },
   "seekeragencyai|devops|l1": {
    "expires": "2026-11-11T02:17:09.438770+00:00",
    "looked_up": "2026-10-22T19:01:24+00:00",
@@ -16186,11 +16243,6 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
-  "servicenow|swe|l1": {
-   "expires": "2026-10-30T16:08:25.853072+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "servqual|fullstack|l1": {
    "expires": "2026-11-03T20:02:33.128124+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
@@ -16204,8 +16256,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T20:45:20.072082+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-31T13:42:33.062449+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16899,11 +16951,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "solventumhealth|swe|l1": {
-   "expires": "2026-10-30T16:09:50.300921+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
-   "status": "not_found"
-  },
   "solvex-solutions|data|l1": {
    "expires": "2026-11-06T11:04:05.953138+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -17040,8 +17087,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T15:58:13.183869+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
+   "expires": "2027-01-26T03:07:14.607797+00:00",
+   "looked_up": "2026-10-30T17:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -20917,8 +20964,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3586,
-  "lookups_today": 130,
+  "lookups_month": 3598,
+  "lookups_today": 142,
   "month": "2026-10"
  }
 }
