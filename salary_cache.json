@@ -2999,8 +2999,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T10:47:37.642498+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-30T14:25:28.403528+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5486,8 +5486,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T07:36:03.039174+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-30T01:53:59.323415+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6626,8 +6626,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T05:45:55.636474+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-26T11:30:45.446671+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9089,6 +9089,11 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
+  "iecp22|devops|l1": {
+   "expires": "2026-11-12T02:26:47.688207+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
+   "status": "not_found"
+  },
   "iepcc-solutions|swe|l1": {
    "expires": "2026-11-02T12:43:08.254667+00:00",
    "looked_up": "2026-10-17T04:01:27+00:00",
@@ -9745,8 +9750,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T17:27:37.919539+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-22T10:57:59.637787+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10554,8 +10559,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:26:57.295678+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-23T12:13:50.196467+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -11509,6 +11514,11 @@
   "marvell|security|l1": {
    "expires": "2026-11-04T17:45:57.641122+00:00",
    "looked_up": "2026-10-21T19:01:32+00:00",
+   "status": "not_found"
+  },
+  "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
+   "expires": "2026-11-17T16:55:41.687871+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "status": "not_found"
   },
   "mastercam|swe|l1": {
@@ -13619,11 +13629,6 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
-  "owens-minor|swe|l2": {
-   "expires": "2026-10-30T20:30:05.351719+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
   "oxmiq-labs|swe|l1": {
    "expires": "2026-11-09T17:44:44.775754+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
@@ -14319,11 +14324,6 @@
     }
    ],
    "status": "found"
-  },
-  "principalfinancialgroup|swe|l1": {
-   "expires": "2026-10-30T20:10:15.983813+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
-   "status": "not_found"
   },
   "principle-pride|devops|l1": {
    "expires": "2026-11-09T13:09:55.316400+00:00",
@@ -15046,8 +15046,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:30:58.458365+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-02-04T16:54:02.933429+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16317,8 +16317,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:36:35.416338+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-01-31T22:05:58.938046+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -17138,8 +17138,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T17:10:06.874833+00:00",
-   "looked_up": "2026-10-30T20:01:28+00:00",
+   "expires": "2027-02-04T14:38:36.754653+00:00",
+   "looked_up": "2026-10-30T21:01:32+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -19344,11 +19344,6 @@
    "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
-  "ustglobal|devops|l1": {
-   "expires": "2026-10-30T20:54:40.168009+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
-   "status": "not_found"
-  },
   "ustglobal|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -21005,8 +21000,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3610,
-  "lookups_today": 154,
+  "lookups_month": 3612,
+  "lookups_today": 156,
   "month": "2026-10"
  }
 }
