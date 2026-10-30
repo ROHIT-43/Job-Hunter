@@ -2912,8 +2912,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T12:52:02.878321+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-22T23:41:23.257304+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5394,8 +5394,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:25:51.909003+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-02-04T00:41:53.846540+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6529,8 +6529,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T05:46:11.301631+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-02-01T06:57:20.640653+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9617,8 +9617,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:39:52.100093+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-23T04:46:39.825120+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10421,8 +10421,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T02:37:07.666196+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-23T15:11:40.142674+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -11707,6 +11707,27 @@
    "expires": "2026-11-08T17:19:42.927514+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
+  },
+  "meditab-software-inc-|frontend|l2": {
+   "expires": "2026-11-18T03:58:18.458408+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
+   "status": "not_found"
+  },
+  "meditab-software-inc-|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-21T15:22:10.019606+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
+   "max_lpa": 33.8,
+   "min_lpa": 23.7,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/meditab-software/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "medlineinc|swe|l1": {
    "expires": "2026-11-02T14:31:30.637649+00:00",
@@ -14124,6 +14145,11 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
+  "procore-technologies|mobile|l2": {
+   "expires": "2026-11-15T00:51:12.344119+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
+   "status": "not_found"
+  },
   "procter-and-gamble|security|l1": {
    "expires": "2026-10-30T19:21:09.780345+00:00",
    "looked_up": "2026-10-20T19:01:31+00:00",
@@ -14806,8 +14832,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T09:08:47.489595+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-29T13:32:28.974494+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16087,8 +16113,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T19:31:12.870736+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-27T11:55:39.496882+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16528,11 +16554,6 @@
    "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
-  "smart-ims|swe|l1": {
-   "expires": "2026-10-30T14:10:44.817919+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
   "smart4cloud|devops|l1": {
    "expires": "2026-11-03T19:43:03.036688+00:00",
    "looked_up": "2026-10-25T16:01:25+00:00",
@@ -16928,8 +16949,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T13:11:06.171917+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
+   "expires": "2027-01-27T13:17:35.486532+00:00",
+   "looked_up": "2026-10-30T14:15:30+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -20810,8 +20831,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3564,
-  "lookups_today": 108,
+  "lookups_month": 3567,
+  "lookups_today": 111,
   "month": "2026-10"
  }
 }
