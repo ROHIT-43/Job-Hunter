@@ -2912,8 +2912,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T23:41:23.257304+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-02-03T02:06:12.253459+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5394,8 +5394,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T00:41:53.846540+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-01-26T08:14:34.091906+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6529,8 +6529,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T06:57:20.640653+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-02-03T15:09:15.841770+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9617,8 +9617,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T04:46:39.825120+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-01-30T18:18:31.199193+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10421,8 +10421,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:11:40.142674+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-02-02T11:49:49.095025+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -14832,8 +14832,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:32:28.974494+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-02-02T14:14:28.393584+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -15424,11 +15424,6 @@
   "rskiec|devops|l1": {
    "expires": "2026-11-16T03:01:46.238201+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "rsm-us-llp|swe|l1": {
-   "expires": "2026-10-30T14:57:17.828185+00:00",
-   "looked_up": "2026-10-20T18:01:29+00:00",
    "status": "not_found"
   },
   "rubrik-inc|swe|l1": {
@@ -16113,8 +16108,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:55:39.496882+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-01-26T00:02:51.030581+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16949,8 +16944,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T13:17:35.486532+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
+   "expires": "2027-01-23T04:26:36.678925+00:00",
+   "looked_up": "2026-10-30T15:01:37+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17188,11 +17183,6 @@
   "sulzer|erp|l1": {
    "expires": "2026-10-30T18:39:18.661677+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "sulzer|swe|l1": {
-   "expires": "2026-10-30T14:27:15.561974+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
   "sumanhealth|swe|l1": {
@@ -17526,11 +17516,6 @@
   "talkdesk|mobile|l2": {
    "expires": "2026-11-05T07:04:23.564084+00:00",
    "looked_up": "2026-10-20T06:00:29+00:00",
-   "status": "not_found"
-  },
-  "tandem-interim|devops|l1": {
-   "expires": "2026-10-30T14:45:36.391426+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
   "tantranzm|fullstack|l1": {
