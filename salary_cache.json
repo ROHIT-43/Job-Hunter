@@ -407,6 +407,11 @@
    "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
+  "acumenzconsulting|erp|l1": {
+   "expires": "2026-11-07T01:19:59.330279+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
+   "status": "not_found"
+  },
   "acura-solutions-ltd|devops|l1": {
    "expires": "2026-11-08T08:29:40.460678+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
@@ -1963,11 +1968,6 @@
    "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
-  "attributicslab|erp|l1": {
-   "expires": "2026-10-30T21:47:45.284698+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "att|devops|l1": {
    "expires": "2026-11-03T14:04:01.884702+00:00",
    "looked_up": "2026-10-22T20:01:26+00:00",
@@ -2999,8 +2999,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T14:25:28.403528+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-25T05:53:00.797944+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5486,8 +5486,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:53:59.323415+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-29T19:51:22.706501+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6172,11 +6172,6 @@
    "status": "found",
    "year": 2026
   },
-  "ernstandyoung|fullstack|l1": {
-   "expires": "2026-10-30T21:29:43.709247+00:00",
-   "looked_up": "2026-10-12T07:01:26+00:00",
-   "status": "not_found"
-  },
   "ernstandyoung|security|l1": {
    "expires": "2026-11-12T15:55:28.272797+00:00",
    "looked_up": "2026-10-29T16:01:30+00:00",
@@ -6626,8 +6621,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:30:45.446671+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-02-03T18:38:30.933725+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9750,8 +9745,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T10:57:59.637787+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-26T21:35:29.360578+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10559,8 +10554,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T12:13:50.196467+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-02-02T00:05:13.684629+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -13236,6 +13231,11 @@
    "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
+  "oculusit|security|l1": {
+   "expires": "2026-11-14T13:51:42.016804+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
+   "status": "not_found"
+  },
   "odox-softhub|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13589,11 +13589,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "orbitaid-aerospace|swe|l1": {
-   "expires": "2026-10-30T21:40:00.664231+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
   },
   "orcky-technologies-private-limited|swe|l1": {
    "expires": "2026-11-04T07:35:12.879190+00:00",
@@ -15046,8 +15041,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T16:54:02.933429+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-31T07:48:20.533619+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16317,8 +16312,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:05:58.938046+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-27T15:58:43.829023+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16401,11 +16396,6 @@
   "sia-partners|erp|l1": {
    "expires": "2026-11-10T20:24:48.337146+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "sideglobal|devops|l1": {
-   "expires": "2026-10-30T21:03:22.743233+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
    "status": "not_found"
   },
   "sidhyati-technology-solutions-private-limited|mobile|l1": {
@@ -17138,8 +17128,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T14:38:36.754653+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+   "expires": "2027-01-31T13:19:59.442291+00:00",
+   "looked_up": "2026-10-30T22:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17521,11 +17511,6 @@
   "syndigo|swe|l1": {
    "expires": "2026-11-02T09:52:16.546651+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "syndigo|swe|l2": {
-   "expires": "2026-10-30T21:20:59.505904+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
   "synechron|data|l1": {
@@ -19524,11 +19509,6 @@
    "looked_up": "2026-10-25T16:01:25+00:00",
    "status": "not_found"
   },
-  "vationdigital|swe|l1": {
-   "expires": "2026-10-30T21:56:26.255102+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "vayuz-technologies|erp|l1": {
    "expires": "2026-10-30T23:51:28.556805+00:00",
    "looked_up": "2026-10-12T12:01:35+00:00",
@@ -19657,11 +19637,6 @@
   "viasat|devops|l1": {
    "expires": "2026-11-12T20:16:51.907897+00:00",
    "looked_up": "2026-10-23T22:01:26+00:00",
-   "status": "not_found"
-  },
-  "victorflow|swe|l1": {
-   "expires": "2026-10-30T21:33:24.208190+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
    "status": "not_found"
   },
   "vidhyutron-technology-private-limited|swe|l1": {
@@ -21000,8 +20975,8 @@
  },
  "meta": {
   "day": "2026-10-30",
-  "lookups_month": 3612,
-  "lookups_today": 156,
+  "lookups_month": 3614,
+  "lookups_today": 158,
   "month": "2026-10"
  }
 }
