@@ -567,11 +567,6 @@
    "looked_up": "2026-10-19T02:01:25+00:00",
    "status": "not_found"
   },
-  "aethereal-logic|swe|l1": {
-   "expires": "2026-10-31T21:01:43.761197+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
-   "status": "not_found"
-  },
   "affirm|swe|l2": {
    "expires": "2026-11-01T22:17:16.214442+00:00",
    "looked_up": "2026-10-16T21:18:24+00:00",
@@ -724,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T11:02:01.689412+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-02-05T05:38:00.742621+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -1332,8 +1327,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T15:21:53.199112+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-02-05T20:56:26.588415+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4652,11 +4647,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "creuto|fullstack|l1": {
-   "expires": "2026-10-31T21:25:04.396093+00:00",
-   "looked_up": "2026-10-11T06:01:27+00:00",
-   "status": "not_found"
-  },
   "crewliajobs|devops|l1": {
    "expires": "2026-11-07T05:40:06.934278+00:00",
    "looked_up": "2026-10-18T17:01:21+00:00",
@@ -5625,19 +5615,9 @@
    "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
-  "e-khool|devops|l1": {
-   "expires": "2026-10-31T21:31:24.851172+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
-  },
   "eagleburgmann|erp|l1": {
    "expires": "2026-11-05T13:14:31.494088+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
-   "status": "not_found"
-  },
-  "easytive|swe|l1": {
-   "expires": "2026-10-31T21:22:54.665495+00:00",
-   "looked_up": "2026-10-24T04:01:22+00:00",
    "status": "not_found"
   },
   "eaton|swe|l1": {
@@ -6155,8 +6135,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:50:12.364117+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-01-25T00:25:41.206729+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7005,11 +6985,6 @@
   "floydee-infotech-private-limited|fullstack|l1": {
    "expires": "2026-11-04T18:38:16.054596+00:00",
    "looked_up": "2026-10-25T16:01:25+00:00",
-   "status": "not_found"
-  },
-  "fluke-corporation|devops|l1": {
-   "expires": "2026-10-31T21:23:02.860389+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "fnz|devops|l1": {
@@ -9223,11 +9198,6 @@
   "infonetdev|fullstack|l1": {
    "expires": "2026-11-04T09:41:42.001415+00:00",
    "looked_up": "2026-10-20T19:01:31+00:00",
-   "status": "not_found"
-  },
-  "information-services-group|devops|l1": {
-   "expires": "2026-10-31T21:28:30.564240+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "information-systems-associates-fze|data|l1": {
@@ -14997,11 +14967,6 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
-  "railscarma|frontend|l1": {
-   "expires": "2026-10-31T21:09:49.453345+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "rainfocus|frontend|l1": {
    "expires": "2026-11-12T12:27:25.698955+00:00",
    "looked_up": "2026-10-28T01:01:25+00:00",
@@ -16470,8 +16435,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:43:37.178243+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-01-25T18:59:07.408359+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16972,8 +16937,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T08:39:04.199294+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-02-05T11:56:35.924318+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18317,8 +18282,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:25:08.133584+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
+   "expires": "2027-02-04T10:22:57.024039+00:00",
+   "looked_up": "2026-10-31T21:33:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
