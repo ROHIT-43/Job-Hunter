@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:39:07.254262+00:00",
-   "looked_up": "2026-10-31T22:01:31+00:00",
+   "expires": "2027-01-27T16:45:52.493692+00:00",
+   "looked_up": "2026-10-31T23:01:32+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -2880,11 +2880,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bookmytournow|frontend|l1": {
-   "expires": "2026-10-31T22:19:39.629046+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
-   "status": "not_found"
   },
   "botanix-labs2linkedin.com|swe|l1": {
    "expires": "2026-11-10T15:57:54.246022+00:00",
@@ -6130,8 +6125,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T08:13:31.451228+00:00",
-   "looked_up": "2026-10-31T22:01:31+00:00",
+   "expires": "2027-01-28T14:05:30.388158+00:00",
+   "looked_up": "2026-10-31T23:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9195,11 +9190,6 @@
    "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
-  "information-systems-associates-fze|data|l1": {
-   "expires": "2026-10-31T22:41:27.512851+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
-   "status": "not_found"
-  },
   "information-systems-associates-fze|devops|l1": {
    "expires": "2026-11-06T11:27:01.485060+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
@@ -9688,11 +9678,6 @@
   "iq-eq|swe|l1": {
    "expires": "2026-11-07T17:25:05.038422+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
-  "iqra-digital-solutions|swe|l1": {
-   "expires": "2026-10-31T22:54:18.025317+00:00",
-   "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
   "iqvia-india|swe|l1": {
@@ -17961,6 +17946,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "tekwissenindia|data|l1": {
+   "expires": "2026-11-10T18:54:58.615909+00:00",
+   "looked_up": "2026-10-31T23:01:32+00:00",
+   "status": "not_found"
+  },
   "tekwissenindia|erp|l1": {
    "expires": "2026-11-11T06:53:36.763788+00:00",
    "looked_up": "2026-10-23T13:01:27+00:00",
@@ -20751,8 +20741,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3680,
-  "lookups_today": 65,
+  "lookups_month": 3681,
+  "lookups_today": 66,
   "month": "2026-10"
  }
 }
