@@ -1338,8 +1338,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T14:03:29.075460+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-24T17:37:30.954564+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3003,8 +3003,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T01:43:42.988781+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-30T10:23:10.567316+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5334,11 +5334,6 @@
    "looked_up": "2026-10-20T11:35:56+00:00",
    "status": "not_found"
   },
-  "deutschebahn|swe|l1": {
-   "expires": "2026-10-31T01:24:39.821236+00:00",
-   "looked_up": "2026-10-15T19:01:43+00:00",
-   "status": "not_found"
-  },
   "devloit|devops|l1": {
    "expires": "2026-11-13T14:44:37.266972+00:00",
    "looked_up": "2026-10-28T05:01:27+00:00",
@@ -5475,8 +5470,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T19:27:43.379783+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-27T17:28:50.041497+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6600,8 +6595,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T05:52:56.748788+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-02-01T05:14:31.798890+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9719,8 +9714,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:02:30.619726+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-02-01T15:17:55.835366+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10533,8 +10528,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T13:25:07.332501+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-31T07:52:29.683731+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -15025,8 +15020,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:21:58.996634+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-02-04T23:27:51.485050+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16296,8 +16291,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:07:21.697136+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-31T15:07:03.549063+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16605,8 +16600,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T05:21:38.437597+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-02-01T02:40:38.335626+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17107,8 +17102,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T23:19:40.560060+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-01-31T14:05:41.941902+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -18472,8 +18467,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T21:02:19.168227+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
+   "expires": "2027-02-05T01:40:50.646888+00:00",
+   "looked_up": "2026-10-31T02:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19816,11 +19811,6 @@
   "vmc-soft-technologies-inc|devops|l1": {
    "expires": "2026-11-15T17:18:25.413926+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
-  "vmc-soft-technologies-inc|erp|l1": {
-   "expires": "2026-10-31T01:22:28.668568+00:00",
-   "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
   "vmc-soft-technologies-inc|swe|l1": {
