@@ -219,6 +219,11 @@
    "looked_up": "2026-10-31T12:01:25+00:00",
    "status": "not_found"
   },
+  "accelleron-industries|swe|l1": {
+   "expires": "2026-11-09T07:22:13.587765+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
+   "status": "not_found"
+  },
   "accelonconsulting|swe|l1": {
    "expires": "2026-11-19T14:23:02.994730+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -1318,8 +1323,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T10:52:47.253872+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
+   "expires": "2027-01-23T08:52:56.401235+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2897,11 +2902,6 @@
    "looked_up": "2026-10-31T05:01:27+00:00",
    "status": "not_found"
   },
-  "botlab-dynamics|swe|l1": {
-   "expires": "2026-10-31T16:32:19.854583+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "bougaintech-bgt-3840aa306|swe|l1": {
    "expires": "2026-11-12T00:10:23.488189+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -3798,6 +3798,11 @@
   "chate-coaching-classes|fullstack|l1": {
    "expires": "2026-11-15T08:51:06.106086+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
+   "status": "not_found"
+  },
+  "chate-coaching-classes|swe|l1": {
+   "expires": "2026-11-11T06:21:01.336646+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "status": "not_found"
   },
   "chessbrainz-chessacademy|fullstack|l1": {
@@ -6171,8 +6176,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:11:35.319915+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
+   "expires": "2027-01-25T14:00:59.549083+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -14026,11 +14031,6 @@
    "looked_up": "2026-10-24T00:01:32+00:00",
    "status": "not_found"
   },
-  "pinnaxel|frontend|l1": {
-   "expires": "2026-10-31T16:59:16.442939+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "pinterview|swe|l1": {
    "expires": "2026-11-10T12:54:34.014306+00:00",
    "looked_up": "2026-10-24T07:01:21+00:00",
@@ -14618,11 +14618,6 @@
   "qnityelectronics|swe|l1": {
    "expires": "2026-11-17T12:41:14.031035+00:00",
    "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "qnn-global|swe|l1": {
-   "expires": "2026-10-31T16:31:16.648068+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "qrusibleltd|swe|l1": {
@@ -16526,8 +16521,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:43:29.988679+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
+   "expires": "2027-01-28T18:56:50.388595+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16897,6 +16892,11 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
+  "solventumhealth|swe|l1": {
+   "expires": "2026-11-20T21:25:36.294320+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
+   "status": "not_found"
+  },
   "solvex-solutions|data|l1": {
    "expires": "2026-11-06T11:04:05.953138+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -17023,8 +17023,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T00:55:19.269332+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
+   "expires": "2027-01-25T14:46:38.949815+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18368,8 +18368,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:50:47.876251+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
+   "expires": "2027-01-28T13:37:26.442546+00:00",
+   "looked_up": "2026-10-31T17:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20857,8 +20857,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3668,
-  "lookups_today": 53,
+  "lookups_month": 3671,
+  "lookups_today": 56,
   "month": "2026-10"
  }
 }
