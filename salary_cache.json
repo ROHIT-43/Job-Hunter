@@ -587,11 +587,6 @@
    "looked_up": "2026-10-18T11:01:24+00:00",
    "status": "not_found"
   },
-  "afterquery|swe|l1": {
-   "expires": "2026-10-31T13:39:29.202764+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "agasty-ai|swe|l1": {
    "expires": "2026-11-16T09:35:38.995635+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -1328,8 +1323,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T15:16:26.122985+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
+   "expires": "2027-01-27T08:38:10.535932+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5396,11 +5391,6 @@
    "looked_up": "2026-10-13T13:01:29+00:00",
    "status": "not_found"
   },
-  "digihelic-solutions-pvt-ltd|erp|l1": {
-   "expires": "2026-10-31T13:14:01.968572+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
-   "status": "not_found"
-  },
   "digiletechnologies|data|l1": {
    "expires": "2026-11-04T12:53:48.756444+00:00",
    "looked_up": "2026-10-18T12:01:26+00:00",
@@ -6196,8 +6186,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T23:47:46.976964+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
+   "expires": "2027-01-25T00:21:46.439396+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -8058,11 +8048,6 @@
    "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
-  "halma-plc|erp|l1": {
-   "expires": "2026-10-31T13:38:03.975398+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "hamon-techonologies-llp|swe|l1": {
    "expires": "2026-11-09T23:39:51.950587+00:00",
    "looked_up": "2026-10-20T01:01:24+00:00",
@@ -8697,6 +8682,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "htc-global-services|swe|l1": {
+   "expires": "2026-11-10T23:16:33.273912+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
+   "status": "not_found"
   },
   "https-evara.me-|swe|l1": {
    "expires": "2026-11-05T22:48:32.067044+00:00",
@@ -10554,11 +10544,6 @@
    ],
    "status": "found"
   },
-  "komodo-health|erp|l1": {
-   "expires": "2026-10-31T13:37:16.340138+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "konvergetech|swe|l1": {
    "expires": "2026-11-13T20:41:23.973773+00:00",
    "looked_up": "2026-10-30T08:01:29+00:00",
@@ -11882,11 +11867,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "metasys-tech|erp|l1": {
-   "expires": "2026-10-31T13:10:02.949488+00:00",
-   "looked_up": "2026-10-16T07:19:03+00:00",
-   "status": "not_found"
-  },
   "metlife|devops|l2": {
    "expires": "2026-11-13T21:36:38.854520+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
@@ -12035,11 +12015,6 @@
   "mindtelgloba|security|l1": {
    "expires": "2026-11-09T16:57:35.818319+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
-  "mindtelg|fullstack|l1": {
-   "expires": "2026-10-31T13:14:03.999338+00:00",
-   "looked_up": "2026-10-22T19:01:24+00:00",
    "status": "not_found"
   },
   "mindvora-solution|frontend|l1": {
@@ -14839,11 +14814,6 @@
    ],
    "status": "found"
   },
-  "quantum|swe|l3": {
-   "expires": "2026-10-31T13:27:59.818744+00:00",
-   "looked_up": "2026-10-17T10:01:25+00:00",
-   "status": "not_found"
-  },
   "quantura-consulting|swe|l1": {
    "expires": "2026-11-03T07:03:45.780722+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -16293,11 +16263,6 @@
    "looked_up": "2026-10-20T11:01:36+00:00",
    "status": "not_found"
   },
-  "shoppers-stop|swe|l1": {
-   "expires": "2026-10-31T13:13:17.035536+00:00",
-   "looked_up": "2026-10-15T17:01:30+00:00",
-   "status": "not_found"
-  },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-11-07T05:44:12.724762+00:00",
    "looked_up": "2026-10-28T02:01:24+00:00",
@@ -16549,6 +16514,11 @@
    "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
+  "sitetracker|erp|l2": {
+   "expires": "2026-11-13T21:41:03.861959+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
+   "status": "not_found"
+  },
   "skatesupplyindia|frontend|l1": {
    "expires": "2026-11-07T19:29:15.912251+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
@@ -16576,8 +16546,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-22T20:02:00.510745+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
+   "expires": "2027-01-26T12:46:39.347319+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17073,8 +17043,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:53:37.059493+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
+   "expires": "2027-01-30T05:10:31.077059+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18413,8 +18383,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T07:46:16.509857+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
+   "expires": "2027-02-02T03:47:18.834395+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20470,6 +20440,22 @@
    "status": "found",
    "year": 2026
   },
+  "yash-technologies-middle-east-region|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-25T18:29:54.101805+00:00",
+   "looked_up": "2026-10-31T14:01:32+00:00",
+   "max_lpa": 9.6,
+   "min_lpa": 4.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/yash-technologies-salaries/senior-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "yash-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20886,8 +20872,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3659,
-  "lookups_today": 44,
+  "lookups_month": 3662,
+  "lookups_today": 47,
   "month": "2026-10"
  }
 }
