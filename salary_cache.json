@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T05:38:00.742621+00:00",
-   "looked_up": "2026-10-31T21:33:34+00:00",
+   "expires": "2027-01-31T01:39:07.254262+00:00",
+   "looked_up": "2026-10-31T22:01:31+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -1327,8 +1327,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T20:56:26.588415+00:00",
-   "looked_up": "2026-10-31T21:33:34+00:00",
+   "expires": "2027-01-28T21:44:15.691689+00:00",
+   "looked_up": "2026-10-31T22:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4939,11 +4939,6 @@
    "looked_up": "2026-10-21T09:01:36+00:00",
    "status": "not_found"
   },
-  "danfoss|data|l1": {
-   "expires": "2026-10-31T21:35:57.713949+00:00",
-   "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
   "danfoss|security|l1": {
    "expires": "2026-11-09T19:02:33.880436+00:00",
    "looked_up": "2026-10-30T18:01:27+00:00",
@@ -6135,8 +6130,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T00:25:41.206729+00:00",
-   "looked_up": "2026-10-31T21:33:34+00:00",
+   "expires": "2027-01-30T08:13:31.451228+00:00",
+   "looked_up": "2026-10-31T22:01:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -10042,11 +10037,6 @@
    "looked_up": "2026-10-22T03:01:25+00:00",
    "status": "not_found"
   },
-  "jobgether|security|l3": {
-   "expires": "2026-10-31T21:48:12.337806+00:00",
-   "looked_up": "2026-10-20T08:01:29+00:00",
-   "status": "not_found"
-  },
   "joblet-ai|data|l1": {
    "expires": "2026-11-11T05:54:45.729820+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -12673,11 +12663,6 @@
   "niksun|security|l1": {
    "expires": "2026-11-17T14:42:23.643564+00:00",
    "looked_up": "2026-10-31T08:01:24+00:00",
-   "status": "not_found"
-  },
-  "nine-hertz-india-pvt-ltd-|fullstack|l1": {
-   "expires": "2026-10-31T21:37:42.546940+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "ninjastudio1|frontend|l1": {
@@ -16435,8 +16420,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T18:59:07.408359+00:00",
-   "looked_up": "2026-10-31T21:33:34+00:00",
+   "expires": "2027-01-24T07:39:44.502752+00:00",
+   "looked_up": "2026-10-31T22:01:31+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -18031,11 +18016,6 @@
    "status": "found",
    "year": 2026
   },
-  "teradyne|swe|l1": {
-   "expires": "2026-10-31T21:58:13.514382+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
   "tesco-bengaluru|swe|l2": {
    "basis": "ctc",
    "confidence": "medium",
@@ -18282,8 +18262,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T10:22:57.024039+00:00",
-   "looked_up": "2026-10-31T21:33:34+00:00",
+   "expires": "2027-02-01T01:26:56.254499+00:00",
+   "looked_up": "2026-10-31T22:01:31+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
