@@ -1343,8 +1343,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T15:47:11.449704+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-24T07:32:22.066894+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1402,6 +1402,11 @@
     }
    ],
    "status": "found"
+  },
+  "anovia-inc|swe|l1": {
+   "expires": "2026-11-16T01:38:23.650641+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
+   "status": "not_found"
   },
   "ansira|swe|l2": {
    "expires": "2026-11-01T16:41:41.466173+00:00",
@@ -3008,8 +3013,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T07:44:44.366830+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-23T10:04:56.979947+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5485,8 +5490,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T23:59:40.607673+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-23T22:36:58.482596+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6021,11 +6026,6 @@
   "entain-india|erp|l1": {
    "expires": "2026-11-13T14:45:20.679672+00:00",
    "looked_up": "2026-10-28T01:01:25+00:00",
-   "status": "not_found"
-  },
-  "enterprise-bot|fullstack|l1": {
-   "expires": "2026-10-30T23:55:18.427419+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
    "status": "not_found"
   },
   "enterpriseminds|erp|l1": {
@@ -6615,8 +6615,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T10:36:03.240237+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-26T05:23:33.107009+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -9734,8 +9734,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T11:12:12.856996+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-02-04T15:10:04.422632+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10143,6 +10143,11 @@
    "looked_up": "2026-10-24T18:01:42+00:00",
    "status": "not_found"
   },
+  "johnson-controls|devops|l1": {
+   "expires": "2026-11-08T22:48:01.273555+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
+   "status": "not_found"
+  },
   "johnson-controls|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -10543,8 +10548,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T00:15:52.379709+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-24T07:34:10.105369+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -13768,6 +13773,26 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
+  "paypal|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-28T04:01:20.842347+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1207538/Paypal-or-SE-1-or-Chennai"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1379487/paypal-swe-1-chennai"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "paypal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15020,8 +15045,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T07:40:39.246276+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-31T08:32:12.238433+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16291,8 +16316,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T12:14:41.124507+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-24T19:31:44.140528+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16600,8 +16625,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T16:57:39.549421+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-01-30T12:38:01.164009+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17102,8 +17127,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:39:28.249032+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-02-01T09:52:55.760440+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -18361,6 +18386,22 @@
    "looked_up": "2026-10-11T01:01:27+00:00",
    "status": "not_found"
   },
+  "the-emmes-group|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-30T20:47:10.520692+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/emmes-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "the-factual-holding-co|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -18451,8 +18492,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:07:36.250072+00:00",
-   "looked_up": "2026-10-30T23:46:35+00:00",
+   "expires": "2027-02-01T15:22:23.292946+00:00",
+   "looked_up": "2026-10-31T00:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19486,11 +19527,6 @@
   "vasudhare-sales-force|frontend|l1": {
    "expires": "2026-11-05T08:39:51.172933+00:00",
    "looked_up": "2026-10-25T16:01:25+00:00",
-   "status": "not_found"
-  },
-  "vayuz-technologies|erp|l1": {
-   "expires": "2026-10-30T23:51:28.556805+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "vayuz-technologies|fullstack|l1": {
@@ -20943,9 +20979,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-30",
-  "lookups_month": 3615,
-  "lookups_today": 159,
+  "day": "2026-10-31",
+  "lookups_month": 3619,
+  "lookups_today": 4,
   "month": "2026-10"
  }
 }
