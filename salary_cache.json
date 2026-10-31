@@ -1187,11 +1187,6 @@
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
-  "amazure-technologies-pvt-ltd|swe|l1": {
-   "expires": "2026-10-31T03:30:00.638207+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
   "ambia-systems|swe|l1": {
    "expires": "2026-11-12T11:07:55.363639+00:00",
    "looked_up": "2026-10-28T18:01:29+00:00",
@@ -1284,11 +1279,6 @@
    "looked_up": "2026-10-14T00:01:31+00:00",
    "status": "not_found"
   },
-  "amgen|security|l1": {
-   "expires": "2026-10-31T03:03:05.572061+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
-   "status": "not_found"
-  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1338,8 +1328,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T18:42:09.989019+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-22T16:09:17.270094+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2488,11 +2478,6 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
-  "believeglobal|swe|l1": {
-   "expires": "2026-10-31T03:52:13.570212+00:00",
-   "looked_up": "2026-10-10T13:01:29+00:00",
-   "status": "not_found"
-  },
   "bestex-research-group|swe|l1": {
    "expires": "2026-11-11T17:22:39.624707+00:00",
    "looked_up": "2026-10-24T18:01:42+00:00",
@@ -3003,8 +2988,8 @@
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:26:23.216730+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-26T14:56:06.161746+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -3959,11 +3944,6 @@
   "citi|swe|l1": {
    "expires": "2026-11-09T05:38:38.321783+00:00",
    "looked_up": "2026-10-26T23:01:33+00:00",
-   "status": "not_found"
-  },
-  "civic-sense-app|mobile|l1": {
-   "expires": "2026-10-31T03:54:07.301442+00:00",
-   "looked_up": "2026-10-10T13:01:29+00:00",
    "status": "not_found"
   },
   "cladbe|swe|l1": {
@@ -5465,8 +5445,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:10:58.951944+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-02-04T03:33:00.487866+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6590,8 +6570,8 @@
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T03:41:05.134711+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-29T00:29:16.516316+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7142,11 +7122,6 @@
   "foundit-jobs|frontend|l1": {
    "expires": "2026-11-07T16:35:38.951068+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "four-f-and-associates|frontend|l1": {
-   "expires": "2026-10-31T03:10:10.934670+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "fractal-analytics|fullstack|l1": {
@@ -8683,6 +8658,22 @@
    "looked_up": "2026-10-17T02:01:21+00:00",
    "status": "not_found"
   },
+  "htc-global-services|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-23T16:44:35.166138+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/htc-global-services-salaries/node-js-backend-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "https-evara.me-|swe|l1": {
    "expires": "2026-11-05T22:48:32.067044+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -9704,8 +9695,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T08:39:44.781281+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-02-04T22:37:55.557161+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10518,8 +10509,8 @@
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T00:20:30.255869+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-29T13:03:10.451018+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 13.6,
    "min_lpa": 13.6,
    "sources": [
@@ -15005,8 +14996,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T00:01:26.279453+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-27T03:07:09.974628+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16276,8 +16267,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T00:43:40.592928+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-02-02T17:27:46.088128+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16585,8 +16576,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:44:43.967964+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-24T16:53:38.368813+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17087,8 +17078,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T16:36:04.468852+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-01-31T01:31:41.042482+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 15.0,
    "min_lpa": 11.0,
    "sources": [
@@ -17390,11 +17381,6 @@
   "swedium-global-services-ab|data|l1": {
    "expires": "2026-11-06T11:12:48.736545+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
-  },
-  "sweken-it-solutions|mobile|l1": {
-   "expires": "2026-10-31T03:36:08.193914+00:00",
-   "looked_up": "2026-10-10T10:01:23+00:00",
    "status": "not_found"
   },
   "swiggy-in|swe|l1": {
@@ -18452,8 +18438,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:07:40.545069+00:00",
-   "looked_up": "2026-10-31T03:01:31+00:00",
+   "expires": "2027-02-02T16:23:53.482069+00:00",
+   "looked_up": "2026-10-31T04:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19518,11 +19504,6 @@
   "vena-solutions|devops|l1": {
    "expires": "2026-11-06T14:40:54.035969+00:00",
    "looked_up": "2026-10-20T15:01:31+00:00",
-   "status": "not_found"
-  },
-  "ventrahealth|devops|l1": {
-   "expires": "2026-10-31T03:27:27.824921+00:00",
-   "looked_up": "2026-10-13T01:01:23+00:00",
    "status": "not_found"
   },
   "venture-intelligence|fullstack|l1": {
@@ -20935,8 +20916,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3620,
-  "lookups_today": 5,
+  "lookups_month": 3621,
+  "lookups_today": 6,
   "month": "2026-10"
  }
 }
