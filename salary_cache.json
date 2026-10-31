@@ -724,8 +724,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T00:01:56.397243+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-02-02T11:02:01.689412+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -1332,8 +1332,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T09:05:51.486455+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-02-05T15:21:53.199112+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -1670,11 +1670,6 @@
   "argano|data|l1": {
    "expires": "2026-11-15T17:06:38.345443+00:00",
    "looked_up": "2026-10-30T18:01:27+00:00",
-   "status": "not_found"
-  },
-  "argano|erp|l1": {
-   "expires": "2026-10-31T20:20:05.282282+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
   "argyll-infotech-inc|devops|l1": {
@@ -2213,6 +2208,11 @@
    "looked_up": "2026-10-27T06:01:25+00:00",
    "status": "not_found"
   },
+  "ayyati|swe|l1": {
+   "expires": "2026-11-16T00:26:35.130678+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
+   "status": "not_found"
+  },
   "babaclick|fullstack|l1": {
    "expires": "2026-11-07T20:00:19.816363+00:00",
    "looked_up": "2026-10-18T15:01:22+00:00",
@@ -2505,11 +2505,6 @@
   "bhanzu|swe|l3": {
    "expires": "2026-11-02T17:41:35.867665+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
-   "status": "not_found"
-  },
-  "big-cash-web|swe|l1": {
-   "expires": "2026-10-31T20:29:59.551682+00:00",
-   "looked_up": "2026-10-18T06:01:26+00:00",
    "status": "not_found"
   },
   "bikglobal|swe|l1": {
@@ -6049,11 +6044,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "ericsson|security|l1": {
-   "expires": "2026-10-31T20:28:11.495835+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "ericsson|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6165,8 +6155,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:39:00.357356+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-01-28T13:50:12.364117+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -15924,11 +15914,6 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
-  "schaeffler|erp|l1": {
-   "expires": "2026-10-31T20:03:31.103898+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
-   "status": "not_found"
-  },
   "schneider-electric|swe|l1": {
    "expires": "2026-11-01T19:17:27.666642+00:00",
    "looked_up": "2026-10-13T17:01:40+00:00",
@@ -16485,8 +16470,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:24:58.241131+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-01-25T07:43:37.178243+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16987,8 +16972,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T18:06:16.308870+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-01-27T08:39:04.199294+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17575,6 +17560,11 @@
   "tark-innovation-private-limited|devops|l1": {
    "expires": "2026-11-15T17:44:28.403353+00:00",
    "looked_up": "2026-10-31T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "tarkio-ai|mobile|l1": {
+   "expires": "2026-11-11T05:28:46.932027+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "status": "not_found"
   },
   "tasi-india|swe|l1": {
@@ -18221,11 +18211,6 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
-  "the-ai-training-company|mobile|l1": {
-   "expires": "2026-10-31T20:59:07.635976+00:00",
-   "looked_up": "2026-10-11T01:01:27+00:00",
-   "status": "not_found"
-  },
   "the-emmes-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18332,8 +18317,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:26:22.133100+00:00",
-   "looked_up": "2026-10-31T20:01:23+00:00",
+   "expires": "2027-01-28T12:25:08.133584+00:00",
+   "looked_up": "2026-10-31T21:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20821,8 +20806,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3678,
-  "lookups_today": 63,
+  "lookups_month": 3680,
+  "lookups_today": 65,
   "month": "2026-10"
  }
 }
