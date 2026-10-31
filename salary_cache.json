@@ -1323,8 +1323,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T08:52:56.401235+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
+   "expires": "2027-01-31T07:49:08.862512+00:00",
+   "looked_up": "2026-10-31T17:43:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6176,8 +6176,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:00:59.549083+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
+   "expires": "2027-01-25T10:43:38.247828+00:00",
+   "looked_up": "2026-10-31T17:43:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6560,11 +6560,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "factual-tech-solutions|swe|l1": {
-   "expires": "2026-10-31T17:12:22.548491+00:00",
-   "looked_up": "2026-10-13T22:01:25+00:00",
-   "status": "not_found"
   },
   "fancall-private-limited|fullstack|l1": {
    "basis": "posted",
@@ -16521,8 +16516,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T18:56:50.388595+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
+   "expires": "2027-01-27T18:54:10.567251+00:00",
+   "looked_up": "2026-10-31T17:43:21+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17023,8 +17018,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:46:38.949815+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
+   "expires": "2027-01-29T06:56:59.002306+00:00",
+   "looked_up": "2026-10-31T17:43:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17904,11 +17899,6 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
-  "techbrein-india|fullstack|l1": {
-   "expires": "2026-10-31T17:15:31.881268+00:00",
-   "looked_up": "2026-10-20T01:01:24+00:00",
-   "status": "not_found"
-  },
   "techbrein-india|mobile|l1": {
    "expires": "2026-11-05T10:06:58.724314+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -18368,8 +18358,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:37:26.442546+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
+   "expires": "2027-02-05T17:27:59.245206+00:00",
+   "looked_up": "2026-10-31T17:43:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
