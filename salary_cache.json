@@ -1328,8 +1328,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T04:41:24.980248+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-02-01T15:05:33.671325+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5926,11 +5926,6 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
-  "energyeta|swe|l1": {
-   "expires": "2026-10-31T12:02:55.890794+00:00",
-   "looked_up": "2026-10-15T18:01:34+00:00",
-   "status": "not_found"
-  },
   "engagetal-solutions|swe|l1": {
    "expires": "2026-11-03T05:05:49.439416+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
@@ -6206,8 +6201,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:54:23.032428+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-01-26T06:02:07.595652+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7615,11 +7610,6 @@
   "gnext-data-solutions|swe|l1": {
    "expires": "2026-11-07T17:25:50.865392+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "go-unicrew|mobile|l1": {
-   "expires": "2026-10-31T12:16:07.689581+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "goamouldcrafters|swe|l1": {
@@ -15025,8 +15015,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T13:59:17.224591+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-02-04T01:26:43.591068+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -15381,11 +15371,6 @@
   "remote-wfh-india|data|l1": {
    "expires": "2026-11-05T14:13:08.555338+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
-   "status": "not_found"
-  },
-  "rennova-solutions|swe|l1": {
-   "expires": "2026-10-31T12:01:35.492131+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
   "repaireex-technology-private-limited|mobile|l1": {
@@ -16595,8 +16580,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:48:15.995008+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-01-27T09:40:41.024432+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17097,8 +17082,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T16:10:22.832173+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-01-29T13:02:12.802349+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18437,8 +18422,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T04:59:00.219646+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
+   "expires": "2027-02-03T01:13:16.716991+00:00",
+   "looked_up": "2026-10-31T12:28:09+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
