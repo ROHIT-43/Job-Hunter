@@ -1328,8 +1328,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T15:05:33.671325+00:00",
-   "looked_up": "2026-10-31T12:28:09+00:00",
+   "expires": "2027-02-02T15:16:26.122985+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3733,11 +3733,6 @@
   "cgi|erp|l1": {
    "expires": "2026-11-01T13:42:29.422373+00:00",
    "looked_up": "2026-10-21T21:01:29+00:00",
-   "status": "not_found"
-  },
-  "cgi|frontend|l1": {
-   "expires": "2026-10-31T12:47:45.858185+00:00",
-   "looked_up": "2026-10-23T21:01:28+00:00",
    "status": "not_found"
   },
   "cgi|fullstack|l1": {
@@ -6201,8 +6196,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T06:02:07.595652+00:00",
-   "looked_up": "2026-10-31T12:28:09+00:00",
+   "expires": "2027-01-30T23:47:46.976964+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -7346,11 +7341,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "generative-futures|swe|l1": {
-   "expires": "2026-10-31T12:52:40.502012+00:00",
-   "looked_up": "2026-10-19T06:01:25+00:00",
-   "status": "not_found"
   },
   "genesis-global-technology|swe|l1": {
    "expires": "2026-11-09T14:25:34.123084+00:00",
@@ -10710,6 +10700,22 @@
    "looked_up": "2026-10-19T05:01:25+00:00",
    "status": "not_found"
   },
+  "kumaran-systems|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-02T12:52:23.453050+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
+   "max_lpa": 4.3,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Kumaran-Systems/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "kumaran-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10883,11 +10889,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "lexhive.us|swe|l1": {
-   "expires": "2026-10-31T12:35:53.286567+00:00",
-   "looked_up": "2026-10-12T09:01:32+00:00",
-   "status": "not_found"
   },
   "liaison-bank|swe|l1": {
    "basis": "posted",
@@ -11295,11 +11296,6 @@
     }
    ],
    "status": "found"
-  },
-  "machintra-tech-pvt-ltd|swe|l1": {
-   "expires": "2026-10-31T12:49:15.610680+00:00",
-   "looked_up": "2026-10-10T16:01:23+00:00",
-   "status": "not_found"
   },
   "maersk-group|fullstack|l1": {
    "basis": "ctc",
@@ -12130,11 +12126,6 @@
   "mizuora-software|swe|l1": {
    "expires": "2026-11-04T18:57:07.635862+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "mobile-apps|security|l1": {
-   "expires": "2026-10-31T12:38:12.211345+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "mobily-infotech|swe|l1": {
@@ -16563,6 +16554,11 @@
    "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
+  "skillcollege|swe|l1": {
+   "expires": "2026-11-11T13:32:52.790532+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
+   "status": "not_found"
+  },
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16580,8 +16576,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T09:40:41.024432+00:00",
-   "looked_up": "2026-10-31T12:28:09+00:00",
+   "expires": "2027-01-22T20:02:00.510745+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17049,11 +17045,6 @@
    "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
-  "sourcemash|frontend|l1": {
-   "expires": "2026-10-31T12:54:55.782962+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
-  },
   "sourceright|data|l1": {
    "expires": "2026-11-10T06:30:09.423801+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
@@ -17082,8 +17073,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:02:12.802349+00:00",
-   "looked_up": "2026-10-31T12:28:09+00:00",
+   "expires": "2027-01-29T13:53:37.059493+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18422,8 +18413,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T01:13:16.716991+00:00",
-   "looked_up": "2026-10-31T12:28:09+00:00",
+   "expires": "2027-02-01T07:46:16.509857+00:00",
+   "looked_up": "2026-10-31T13:01:27+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19107,11 +19098,6 @@
   "unicornisai|swe|l2": {
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
-   "status": "not_found"
-  },
-  "unikloud-technext|swe|l1": {
-   "expires": "2026-10-31T12:47:23.020186+00:00",
-   "looked_up": "2026-10-11T04:01:20+00:00",
    "status": "not_found"
   },
   "unistar-innovative-engineers-and-services|swe|l1": {
@@ -20900,8 +20886,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3657,
-  "lookups_today": 42,
+  "lookups_month": 3659,
+  "lookups_today": 44,
   "month": "2026-10"
  }
 }
