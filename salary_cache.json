@@ -1323,8 +1323,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T10:54:01.156667+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
+   "expires": "2027-01-24T23:13:08.495391+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2501,11 +2501,6 @@
   "betasoft-solutions|swe|l2": {
    "expires": "2026-11-01T03:42:19.959939+00:00",
    "looked_up": "2026-10-12T02:01:20+00:00",
-   "status": "not_found"
-  },
-  "beyondata-gmbh|devops|l1": {
-   "expires": "2026-10-31T09:35:45.612779+00:00",
-   "looked_up": "2026-10-10T21:01:24+00:00",
    "status": "not_found"
   },
   "bhanzu|fullstack|l1": {
@@ -4833,6 +4828,11 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
+  "curviaai|swe|l1": {
+   "expires": "2026-11-15T17:15:26.708573+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
+   "status": "not_found"
+  },
   "custodos|fullstack|l1": {
    "expires": "2026-11-04T03:57:32.276027+00:00",
    "looked_up": "2026-10-21T22:01:33+00:00",
@@ -5592,11 +5592,6 @@
    "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
-  "dow-chemical|frontend|l1": {
-   "expires": "2026-10-31T09:42:00.187151+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "doyengroup|swe|l1": {
    "expires": "2026-11-05T01:20:33.917274+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -5715,6 +5710,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ebay|devops|l1": {
+   "expires": "2026-11-15T16:08:36.789805+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
+   "status": "not_found"
   },
   "ebitaus|swe|l1": {
    "expires": "2026-11-14T13:13:08.240345+00:00",
@@ -9663,11 +9663,6 @@
    ],
    "status": "found"
   },
-  "insight-global|fullstack|l1": {
-   "expires": "2026-10-31T09:24:36.808271+00:00",
-   "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
   "insight-international-uk-ltd|devops|l1": {
    "expires": "2026-11-17T04:24:40.561441+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -12621,9 +12616,9 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
-  "networkscience|swe|l1": {
-   "expires": "2026-10-31T09:38:53.611811+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+  "netspi|security|l2": {
+   "expires": "2026-11-20T00:12:37.927942+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
   "netwrix-corporation|devops|l1": {
@@ -15021,8 +15016,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T07:48:36.598398+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
+   "expires": "2027-02-01T17:50:37.651212+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16591,8 +16586,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T22:08:23.460871+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
+   "expires": "2027-01-31T02:27:16.949187+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17093,8 +17088,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T03:29:10.494718+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
+   "expires": "2027-01-26T12:22:21.843110+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18433,8 +18428,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T12:43:11.484207+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
+   "expires": "2027-01-23T20:06:00.280230+00:00",
+   "looked_up": "2026-10-31T10:01:27+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20088,11 +20083,6 @@
    "looked_up": "2026-10-15T03:01:34+00:00",
    "status": "not_found"
   },
-  "webbtree|fullstack|l1": {
-   "expires": "2026-10-31T09:16:14.034076+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "webchefz-infotech-pvt-ltd|swe|l1": {
    "expires": "2026-11-07T22:45:35.043860+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -20166,11 +20156,6 @@
   "whirlpool-of-india|swe|l1": {
    "expires": "2026-11-09T10:40:49.741233+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
-  "whiteblue-ai-services|fullstack|l1": {
-   "expires": "2026-10-31T09:47:20.642805+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
   "whizz-hr|security|l1": {
@@ -20921,8 +20906,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3645,
-  "lookups_today": 30,
+  "lookups_month": 3648,
+  "lookups_today": 33,
   "month": "2026-10"
  }
 }
