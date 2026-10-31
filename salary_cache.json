@@ -1328,8 +1328,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T19:40:02.175833+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-01-23T16:20:00.940612+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5465,8 +5465,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T02:52:50.429058+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-01-23T22:04:18.501881+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -6023,11 +6023,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "envisionstudioglobal|swe|l1": {
-   "expires": "2026-10-31T06:34:54.525872+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
-   "status": "not_found"
   },
   "envoyglobal|swe|l1": {
    "expires": "2026-11-12T20:59:41.216326+00:00",
@@ -7353,11 +7348,6 @@
    "status": "found",
    "year": 2026
   },
-  "general-tech-works|fullstack|l1": {
-   "expires": "2026-10-31T06:38:40.014171+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
-  },
   "generative-futures|swe|l1": {
    "expires": "2026-10-31T12:52:40.502012+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
@@ -7678,6 +7668,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "goodspaceai|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T15:44:48.271689+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "goodspace.ai",
+     "uri": "https://goodspace.ai/jobs/Frontend-Developer?id=30149"
+    },
+    {
+     "title": "app.semesteria.com",
+     "uri": "https://app.semesteria.com/jobs/frontend-developer-remote-goodspace-ai-9131720d-c6bc-4037-8699-b6f74549f229"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "goodspaceai|fullstack|l1": {
    "basis": "ctc",
@@ -8452,6 +8462,11 @@
    "looked_up": "2026-10-29T07:01:34+00:00",
    "status": "not_found"
   },
+  "hireflex|erp|l1": {
+   "expires": "2026-11-15T13:19:36.020356+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
+   "status": "not_found"
+  },
   "hiringhood|data|l1": {
    "expires": "2026-11-09T21:49:50.597649+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -9125,11 +9140,6 @@
    "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
-  "impronics-technologies|erp|l1": {
-   "expires": "2026-10-31T06:58:04.803951+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "in-tech-gmbh|swe|l1": {
    "expires": "2026-11-12T13:15:18.864827+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -9725,8 +9735,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:47:09.361575+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-01-31T20:21:30.109747+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10989,11 +10999,6 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
-  "linkedin|swe|l1": {
-   "expires": "2026-10-31T06:53:35.388754+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
-   "status": "not_found"
-  },
   "linux-kernel-foundation|swe|l1": {
    "expires": "2026-11-02T13:13:31.112668+00:00",
    "looked_up": "2026-10-21T08:01:34+00:00",
@@ -11031,11 +11036,6 @@
   "locavanties|swe|l1": {
    "expires": "2026-11-09T22:02:28.479557+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
-  "logichive-global|swe|l2": {
-   "expires": "2026-10-31T06:45:10.269116+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "logitech|data|l1": {
@@ -11900,11 +11900,6 @@
   "metasys-tech|erp|l1": {
    "expires": "2026-10-31T13:10:02.949488+00:00",
    "looked_up": "2026-10-16T07:19:03+00:00",
-   "status": "not_found"
-  },
-  "metlife|devops|l1": {
-   "expires": "2026-10-31T06:07:48.838328+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
    "status": "not_found"
   },
   "metlife|devops|l2": {
@@ -14121,6 +14116,11 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
+  "playlisttechnologies|swe|l1": {
+   "expires": "2026-11-18T00:32:20.672121+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
+   "status": "not_found"
+  },
   "plexitechsolutions|data|l1": {
    "expires": "2026-11-03T18:38:24.130470+00:00",
    "looked_up": "2026-10-24T08:01:22+00:00",
@@ -15016,8 +15016,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T04:57:40.264025+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-02-02T06:16:34.283295+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16287,8 +16287,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:51:25.870237+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-02-03T10:36:42.825174+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16596,8 +16596,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T07:12:59.688057+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-01-25T19:52:38.392417+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17098,8 +17098,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T03:59:39.898462+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-02-04T03:43:24.154931+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17369,6 +17369,11 @@
    "looked_up": "2026-10-17T02:01:21+00:00",
    "status": "not_found"
   },
+  "sushainclinic|swe|l1": {
+   "expires": "2026-11-20T23:20:54.535490+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
+   "status": "not_found"
+  },
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -17441,11 +17446,6 @@
   "switsdigital|swe|l1": {
    "expires": "2026-11-13T14:49:20.273052+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "synaptics|swe|l1": {
-   "expires": "2026-10-31T06:39:45.708840+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
   "syncarpglobe|swe|l1": {
@@ -18152,11 +18152,6 @@
    "looked_up": "2026-10-29T17:01:31+00:00",
    "status": "not_found"
   },
-  "telus-digital|swe|l1": {
-   "expires": "2026-10-31T06:41:38.789282+00:00",
-   "looked_up": "2026-10-17T18:01:21+00:00",
-   "status": "not_found"
-  },
   "teoco|data|l1": {
    "expires": "2026-11-06T09:28:36.851458+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
@@ -18453,8 +18448,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T17:48:09.827790+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
+   "expires": "2027-02-04T20:40:24.536833+00:00",
+   "looked_up": "2026-10-31T07:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20458,11 +20453,6 @@
    "status": "found",
    "year": 2026
   },
-  "xhawk|swe|l1": {
-   "expires": "2026-10-31T06:42:06.649103+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
   "xpool|swe|l1": {
    "expires": "2026-11-06T17:11:10.455146+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
@@ -20936,8 +20926,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3631,
-  "lookups_today": 16,
+  "lookups_month": 3635,
+  "lookups_today": 20,
   "month": "2026-10"
  }
 }
