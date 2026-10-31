@@ -1323,8 +1323,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T07:49:08.862512+00:00",
-   "looked_up": "2026-10-31T17:43:21+00:00",
+   "expires": "2027-01-31T03:36:24.979019+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6176,8 +6176,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T10:43:38.247828+00:00",
-   "looked_up": "2026-10-31T17:43:21+00:00",
+   "expires": "2027-01-26T10:01:01.165343+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -10407,6 +10407,11 @@
   "katbotz|erp|l1": {
    "expires": "2026-11-02T09:40:42.516073+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "katzen-system-india-pvt-ltd|swe|l1": {
+   "expires": "2026-11-18T17:16:43.913272+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "status": "not_found"
   },
   "kdksoftwareindia|fullstack|l1": {
@@ -16516,8 +16521,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:54:10.567251+00:00",
-   "looked_up": "2026-10-31T17:43:21+00:00",
+   "expires": "2027-02-05T13:32:01.611427+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17018,8 +17023,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:56:59.002306+00:00",
-   "looked_up": "2026-10-31T17:43:21+00:00",
+   "expires": "2027-01-28T16:50:14.361147+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17597,6 +17602,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tark-innovation-private-limited|data|l1": {
+   "expires": "2026-11-08T18:34:13.978754+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "tark-innovation-private-limited|devops|l1": {
+   "expires": "2026-11-15T17:44:28.403353+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
+   "status": "not_found"
   },
   "tasi-india|swe|l1": {
    "expires": "2026-11-15T11:29:14.916601+00:00",
@@ -18358,8 +18373,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T17:27:59.245206+00:00",
-   "looked_up": "2026-10-31T17:43:21+00:00",
+   "expires": "2027-02-05T15:25:14.287560+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19175,11 +19190,6 @@
    "looked_up": "2026-10-24T11:00:03+00:00",
    "status": "not_found"
   },
-  "us-tech-solutions|erp|l1": {
-   "expires": "2026-10-31T17:44:35.705688+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
-   "status": "not_found"
-  },
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -19443,6 +19453,11 @@
   "venturo-technologies|swe|l1": {
    "expires": "2026-11-17T12:30:40.306894+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "veradigm|swe|l1": {
+   "expires": "2026-11-13T10:19:52.762227+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "status": "not_found"
   },
   "vericence|devops|l1": {
@@ -19809,6 +19824,11 @@
   "vysystems|swe|l1": {
    "expires": "2026-11-11T17:14:51.708303+00:00",
    "looked_up": "2026-10-27T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "wabotech|data|l1": {
+   "expires": "2026-11-11T00:44:41.968134+00:00",
+   "looked_up": "2026-10-31T18:01:24+00:00",
    "status": "not_found"
   },
   "waferwire|swe|l1": {
@@ -20847,8 +20867,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3671,
-  "lookups_today": 56,
+  "lookups_month": 3676,
+  "lookups_today": 61,
   "month": "2026-10"
  }
 }
