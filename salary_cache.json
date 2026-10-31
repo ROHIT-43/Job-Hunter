@@ -1328,8 +1328,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T13:53:35.646704+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-01-29T19:40:02.175833+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3231,6 +3231,11 @@
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
+  "caisoftware|frontend|l1": {
+   "expires": "2026-11-20T00:49:25.447847+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
+   "status": "not_found"
+  },
   "calibitsystems|swe|l1": {
    "expires": "2026-11-01T00:06:38.184461+00:00",
    "looked_up": "2026-10-17T06:01:19+00:00",
@@ -4868,6 +4873,11 @@
    "looked_up": "2026-10-28T03:01:30+00:00",
    "status": "not_found"
   },
+  "cxo-tv|swe|l1": {
+   "expires": "2026-11-16T00:16:06.093101+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
+   "status": "not_found"
+  },
   "cxoinc|swe|l1": {
    "expires": "2026-11-02T06:58:51.973598+00:00",
    "looked_up": "2026-10-26T05:01:26+00:00",
@@ -5455,8 +5465,8 @@
   "digital-roundabout|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T06:24:53.137985+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-02-05T02:52:50.429058+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5520,6 +5530,11 @@
   "dish-network-technologies|swe|l1": {
    "expires": "2026-11-02T01:19:54.869070+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
+   "status": "not_found"
+  },
+  "ditto-insurance|swe|l1": {
+   "expires": "2026-11-18T18:53:40.558599+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
   },
   "dnegvfx|swe|l1": {
@@ -9287,6 +9302,11 @@
    "looked_up": "2026-10-20T15:01:31+00:00",
    "status": "not_found"
   },
+  "informatrixit|devops|l1": {
+   "expires": "2026-11-19T17:21:24.245641+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
+   "status": "not_found"
+  },
   "infor|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9705,8 +9725,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:15:15.219486+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-01-29T12:47:09.361575+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11850,6 +11870,11 @@
   "megrisoft-limited|mobile|l1": {
    "expires": "2026-11-08T01:42:02.477485+00:00",
    "looked_up": "2026-10-18T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "mempage-technologies|erp|l1": {
+   "expires": "2026-11-12T17:27:44.095700+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
   },
   "mercari-india|frontend|l1": {
@@ -14991,8 +15016,8 @@
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T04:06:40.615358+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-02-03T04:57:40.264025+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -16262,8 +16287,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T08:33:56.262637+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-01-26T08:51:25.870237+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 10.0,
    "sources": [
@@ -16571,8 +16596,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T22:50:58.372140+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-01-30T07:12:59.688057+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17073,8 +17098,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T06:40:00.151378+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-02-01T03:59:39.898462+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17128,11 +17153,6 @@
   "spinach-experience-design|frontend|l2": {
    "expires": "2026-11-12T07:21:45.710131+00:00",
    "looked_up": "2026-10-25T15:01:25+00:00",
-   "status": "not_found"
-  },
-  "sprrg-internet-pvt-ltd|swe|l1": {
-   "expires": "2026-10-31T05:42:06.190576+00:00",
-   "looked_up": "2026-10-12T17:01:25+00:00",
    "status": "not_found"
   },
   "spydra|data|l1": {
@@ -18433,8 +18453,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:18:09.379576+00:00",
-   "looked_up": "2026-10-31T05:40:16+00:00",
+   "expires": "2027-01-23T17:48:09.827790+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19094,6 +19114,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "umanistna|devops|l1": {
+   "expires": "2026-11-20T10:09:18.748425+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
+   "status": "not_found"
   },
   "umanistna|swe|l1": {
    "expires": "2026-11-03T04:59:06.245689+00:00",
@@ -19874,6 +19899,11 @@
   "vysystems|erp|l1": {
    "expires": "2026-11-06T21:50:10.763050+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
+   "status": "not_found"
+  },
+  "vysystems|fullstack|l1": {
+   "expires": "2026-11-17T10:51:00.817134+00:00",
+   "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
   },
   "vysystems|swe|l1": {
@@ -20906,8 +20936,8 @@
  },
  "meta": {
   "day": "2026-10-31",
-  "lookups_month": 3624,
-  "lookups_today": 9,
+  "lookups_month": 3631,
+  "lookups_today": 16,
   "month": "2026-10"
  }
 }
