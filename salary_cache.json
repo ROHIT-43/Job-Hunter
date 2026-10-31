@@ -724,8 +724,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:54:34.854587+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-02-05T00:01:56.397243+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -1332,8 +1332,8 @@
   "analogyxbi|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T16:26:43.307084+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-01-23T09:05:51.486455+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6165,8 +6165,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:59:11.095488+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-01-28T10:39:00.357356+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6254,11 +6254,6 @@
   "everpure-data|erp|l1": {
    "expires": "2026-11-04T00:34:19.815746+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
-  "everpure-data|fullstack|l1": {
-   "expires": "2026-10-31T19:32:40.516876+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
    "status": "not_found"
   },
   "everpure-data|swe|l1": {
@@ -7197,11 +7192,6 @@
   "galaxeye|swe|l1": {
    "expires": "2026-11-02T15:59:20.484863+00:00",
    "looked_up": "2026-10-21T04:01:37+00:00",
-   "status": "not_found"
-  },
-  "gantec-corporation|erp|l1": {
-   "expires": "2026-10-31T19:54:51.655941+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
    "status": "not_found"
   },
   "garmin-technologies-india-official|devops|l1": {
@@ -12545,11 +12535,6 @@
    "status": "found",
    "year": 2025
   },
-  "netpuppysagency|frontend|l1": {
-   "expires": "2026-10-31T19:13:13.335798+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
   "netspi|security|l2": {
    "expires": "2026-11-20T00:12:37.927942+00:00",
    "looked_up": "2026-10-31T10:01:27+00:00",
@@ -16500,8 +16485,8 @@
   "skillovilla|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T16:40:16.688409+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-02-02T21:24:58.241131+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 9.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17002,8 +16987,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T00:14:10.264617+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-01-25T18:06:16.308870+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18011,11 +17996,6 @@
    "status": "found",
    "year": 2026
   },
-  "techxsherpa|frontend|l1": {
-   "expires": "2026-10-31T19:19:55.693751+00:00",
-   "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
   "tek-grove|fullstack|l2": {
    "expires": "2026-11-03T13:57:58.269792+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
@@ -18352,8 +18332,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T16:09:17.751092+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
+   "expires": "2027-02-02T22:26:22.133100+00:00",
+   "looked_up": "2026-10-31T20:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20780,11 +20760,6 @@
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-04T06:03:01.909462+00:00",
    "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
-  "zinier-inc|swe|l1": {
-   "expires": "2026-10-31T19:47:23.211106+00:00",
-   "looked_up": "2026-10-16T23:01:23+00:00",
    "status": "not_found"
   },
   "zmitra|swe|l1": {
