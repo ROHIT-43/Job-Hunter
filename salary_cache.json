@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T23:04:28.466114+00:00",
-   "looked_up": "2026-11-01T06:01:29+00:00",
+   "expires": "2027-01-26T21:28:02.763552+00:00",
+   "looked_up": "2026-11-01T07:01:29+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -2564,11 +2564,6 @@
    "status": "found",
    "year": 2026
   },
-  "bizconnect-pvt-ltd|mobile|l1": {
-   "expires": "2026-11-01T06:59:07.441891+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
-   "status": "not_found"
-  },
   "bizzaidev|fullstack|l1": {
    "expires": "2026-11-13T10:02:48.947670+00:00",
    "looked_up": "2026-10-24T00:01:32+00:00",
@@ -3848,11 +3843,6 @@
   "cisco|devops|l1": {
    "expires": "2026-11-06T20:57:09.804005+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
-   "status": "not_found"
-  },
-  "cisco|frontend|l2": {
-   "expires": "2026-11-01T06:45:25.817163+00:00",
-   "looked_up": "2026-10-12T10:01:24+00:00",
    "status": "not_found"
   },
   "cisco|swe|l1": {
@@ -5449,8 +5439,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T01:37:35.634205+00:00",
-   "looked_up": "2026-11-01T06:01:29+00:00",
+   "expires": "2027-02-04T13:35:07.753657+00:00",
+   "looked_up": "2026-11-01T07:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6109,8 +6099,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T18:56:52.463149+00:00",
-   "looked_up": "2026-11-01T06:01:29+00:00",
+   "expires": "2027-01-28T12:26:29.236041+00:00",
+   "looked_up": "2026-11-01T07:01:29+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6646,8 +6636,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:33:46.342760+00:00",
-   "looked_up": "2026-11-01T06:01:29+00:00",
+   "expires": "2027-02-03T05:57:44.285051+00:00",
+   "looked_up": "2026-11-01T07:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10508,6 +10498,26 @@
    "expires": "2026-11-09T20:53:39.437915+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
+  },
+  "ktree-com|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T10:11:05.499660+00:00",
+   "looked_up": "2026-11-01T07:01:29+00:00",
+   "max_lpa": 7.1,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ktree-computer-solutions-salaries/software-engineer"
+    },
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Ktree/salaries/Software-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ktree-com|swe|l1": {
    "basis": "ctc",
@@ -17082,11 +17092,6 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
-  "suramyaco|swe|l1": {
-   "expires": "2026-11-01T06:09:13.354178+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
   "suryawave|fullstack|l1": {
    "expires": "2026-11-01T10:52:18.490472+00:00",
    "looked_up": "2026-10-17T02:01:21+00:00",
@@ -18283,11 +18288,6 @@
   "thoughtsol-infotech-ltd|data|l1": {
    "expires": "2026-11-08T14:12:14.169863+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "thoughtsol-infotech-ltd|swe|l1": {
-   "expires": "2026-11-01T06:13:43.104472+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "threatxintel|mobile|l1": {
@@ -20635,8 +20635,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 6,
-  "lookups_today": 6,
+  "lookups_month": 7,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
