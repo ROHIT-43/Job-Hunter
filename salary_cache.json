@@ -4351,11 +4351,6 @@
    "status": "found",
    "year": 2022
   },
-  "commerceiq|devops|l1": {
-   "expires": "2026-11-01T19:49:08.576697+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
   "commvault|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5399,8 +5394,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T20:48:57.042652+00:00",
-   "looked_up": "2026-11-01T19:39:37+00:00",
+   "expires": "2027-01-26T01:53:19.119474+00:00",
+   "looked_up": "2026-11-01T20:01:22+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6566,8 +6561,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T07:49:28.679759+00:00",
-   "looked_up": "2026-11-01T19:39:37+00:00",
+   "expires": "2027-02-01T08:57:31.133649+00:00",
+   "looked_up": "2026-11-01T20:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -12821,11 +12816,6 @@
   "oaknorth-in-india|security|l1": {
    "expires": "2026-11-10T19:44:47.148017+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
-  },
-  "oaktree-capital-management|erp|l1": {
-   "expires": "2026-11-01T19:59:19.693596+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
    "status": "not_found"
   },
   "obzentechnolabs|swe|l1": {
