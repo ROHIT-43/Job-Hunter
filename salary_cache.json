@@ -582,11 +582,6 @@
    "looked_up": "2026-10-19T02:01:25+00:00",
    "status": "not_found"
   },
-  "affirm|swe|l2": {
-   "expires": "2026-11-01T22:17:16.214442+00:00",
-   "looked_up": "2026-10-16T21:18:24+00:00",
-   "status": "not_found"
-  },
   "afterquery|mobile|l1": {
    "expires": "2026-11-06T15:46:39.813750+00:00",
    "looked_up": "2026-10-18T11:01:24+00:00",
@@ -3013,11 +3008,6 @@
    "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
-  "bristol-myers-squibb|security|l1": {
-   "expires": "2026-11-01T22:04:03.340582+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
   "broadcom|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4847,11 +4837,6 @@
    "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
-  "cygnus-professionals-inc-|data|l1": {
-   "expires": "2026-11-01T22:21:24.279779+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "cygnus-professionals-inc-|devops|l1": {
    "expires": "2026-11-09T02:48:30.462986+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
@@ -5394,8 +5379,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:20:17.459473+00:00",
-   "looked_up": "2026-11-01T22:01:27+00:00",
+   "expires": "2027-01-27T07:29:40.695831+00:00",
+   "looked_up": "2026-11-01T23:01:38+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6561,8 +6546,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T09:43:28.312695+00:00",
-   "looked_up": "2026-11-01T22:01:27+00:00",
+   "expires": "2027-01-31T03:10:07.420515+00:00",
+   "looked_up": "2026-11-01T23:01:38+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -14038,11 +14023,6 @@
    "status": "found",
    "year": 2026
   },
-  "pumex-computing-llc|erp|l1": {
-   "expires": "2026-11-01T22:24:27.695578+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
-   "status": "not_found"
-  },
   "purestorage|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -18990,11 +18970,6 @@
   "verizon|devops|l1": {
    "expires": "2026-11-19T12:32:44.816338+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "vertageglobal|erp|l1": {
-   "expires": "2026-11-01T22:55:06.674966+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
   "vertiv|swe|l1": {
