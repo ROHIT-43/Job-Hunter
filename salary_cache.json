@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T00:04:39.927664+00:00",
-   "looked_up": "2026-11-01T00:01:29+00:00",
+   "expires": "2027-02-01T02:09:10.488733+00:00",
+   "looked_up": "2026-11-01T01:01:35+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -3203,11 +3203,6 @@
   "caisoftware|frontend|l1": {
    "expires": "2026-11-20T00:49:25.447847+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "calibitsystems|swe|l1": {
-   "expires": "2026-11-01T00:06:38.184461+00:00",
-   "looked_up": "2026-10-17T06:01:19+00:00",
    "status": "not_found"
   },
   "camelot-integrated-solutions-inc|erp|l1": {
@@ -6125,8 +6120,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T09:57:52.082855+00:00",
-   "looked_up": "2026-11-01T00:01:29+00:00",
+   "expires": "2027-01-29T06:25:08.191331+00:00",
+   "looked_up": "2026-11-01T01:01:35+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -10393,6 +10388,11 @@
   "kiongroup|security|l1": {
    "expires": "2026-11-02T05:43:12.089126+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
+   "status": "not_found"
+  },
+  "kiongroup|swe|l1": {
+   "expires": "2026-11-19T02:23:14.768721+00:00",
+   "looked_up": "2026-11-01T01:01:35+00:00",
    "status": "not_found"
   },
   "kisan-sadhan|mobile|l1": {
@@ -16373,6 +16373,11 @@
    "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
+  "skillcollege|frontend|l1": {
+   "expires": "2026-11-14T22:23:52.312769+00:00",
+   "looked_up": "2026-11-01T01:01:35+00:00",
+   "status": "not_found"
+  },
   "skillcollege|swe|l1": {
    "expires": "2026-11-11T13:32:52.790532+00:00",
    "looked_up": "2026-10-31T13:01:27+00:00",
@@ -18060,11 +18065,6 @@
   "testbasesolutions-ltd|swe|l1": {
    "expires": "2026-11-02T10:37:00.007228+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
-  "tether|mobile|l1": {
-   "expires": "2026-11-01T00:14:39.823560+00:00",
-   "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
   "texas-instruments-india|swe|l1": {
@@ -20731,8 +20731,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 0,
-  "lookups_today": 0,
+  "lookups_month": 2,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
