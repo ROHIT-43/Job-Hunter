@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T06:43:40.410272+00:00",
-   "looked_up": "2026-11-01T01:12:15+00:00",
+   "expires": "2027-01-29T18:19:05.055974+00:00",
+   "looked_up": "2026-11-01T02:01:26+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -1415,11 +1415,6 @@
   "apex-orbital-x|swe|l1": {
    "expires": "2026-11-02T09:27:50.594416+00:00",
    "looked_up": "2026-10-12T10:01:24+00:00",
-   "status": "not_found"
-  },
-  "apm-technologies|swe|l1": {
-   "expires": "2026-11-01T01:35:06.879256+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
   "apni-baat-apno-ke-saath|swe|l1": {
@@ -5070,19 +5065,9 @@
    "status": "found",
    "year": 2026
   },
-  "decskill|erp|l1": {
-   "expires": "2026-11-01T01:32:46.625351+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
   "deehar-solutions-private-limted|swe|l1": {
    "expires": "2026-11-03T21:41:11.866995+00:00",
    "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
-  },
-  "deep-bi|swe|l1": {
-   "expires": "2026-11-01T01:29:24.642164+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
    "status": "not_found"
   },
   "deepspace9-tech|swe|l1": {
@@ -6120,8 +6105,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T13:09:23.610843+00:00",
-   "looked_up": "2026-11-01T01:12:15+00:00",
+   "expires": "2027-01-28T23:11:29.813692+00:00",
+   "looked_up": "2026-11-01T02:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -13423,11 +13408,6 @@
    "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
-  "oxybills|swe|l1": {
-   "expires": "2026-11-01T01:24:02.094285+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
   "paccar|swe|l1": {
    "expires": "2026-11-04T15:56:13.191918+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
@@ -14103,11 +14083,6 @@
   "precise-3d-metrology-design-solutions|swe|l1": {
    "expires": "2026-11-02T07:18:06.147058+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
-  "premier-plylam-marketing-company|swe|l1": {
-   "expires": "2026-11-01T01:38:36.596045+00:00",
-   "looked_up": "2026-10-15T00:01:24+00:00",
    "status": "not_found"
   },
   "priceline-com|swe|l1": {
@@ -16723,11 +16698,6 @@
   "softmivix|frontend|l1": {
    "expires": "2026-11-09T09:53:27.062296+00:00",
    "looked_up": "2026-10-27T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "softnice-inc|data|l1": {
-   "expires": "2026-11-01T01:50:25.203197+00:00",
-   "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
   "softnice-ug|data|l1": {
