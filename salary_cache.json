@@ -1741,11 +1741,6 @@
    "looked_up": "2026-10-29T10:01:25+00:00",
    "status": "not_found"
   },
-  "ascendion|data|l1": {
-   "expires": "2026-11-01T19:11:12.569945+00:00",
-   "looked_up": "2026-10-16T15:01:36+00:00",
-   "status": "not_found"
-  },
   "ascendion|devops|l1": {
    "expires": "2026-11-16T00:21:17.777201+00:00",
    "looked_up": "2026-10-29T11:01:33+00:00",
@@ -3643,11 +3638,6 @@
    "looked_up": "2026-10-31T08:01:24+00:00",
    "status": "not_found"
   },
-  "centotech|erp|l1": {
-   "expires": "2026-11-01T19:33:46.534446+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
-   "status": "not_found"
-  },
   "centotech|security|l1": {
    "expires": "2026-11-12T04:39:42.555256+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -5409,8 +5399,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:01:55.339082+00:00",
-   "looked_up": "2026-11-01T19:01:33+00:00",
+   "expires": "2027-01-28T20:48:57.042652+00:00",
+   "looked_up": "2026-11-01T19:39:37+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6576,8 +6566,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:40:44.570033+00:00",
-   "looked_up": "2026-11-01T19:01:33+00:00",
+   "expires": "2027-01-26T07:49:28.679759+00:00",
+   "looked_up": "2026-11-01T19:39:37+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7056,11 +7046,6 @@
   "galaxeye|swe|l1": {
    "expires": "2026-11-02T15:59:20.484863+00:00",
    "looked_up": "2026-10-21T04:01:37+00:00",
-   "status": "not_found"
-  },
-  "garmin-technologies-india-official|devops|l1": {
-   "expires": "2026-11-01T19:17:53.915766+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
   "gartner|frontend|l1": {
@@ -7718,11 +7703,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "greif|erp|l1": {
-   "expires": "2026-11-01T19:12:08.794865+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
   },
   "greymatterauto|swe|l1": {
    "expires": "2026-11-14T22:25:50.230207+00:00",
@@ -9947,11 +9927,6 @@
   "joinanyscale|swe|l1": {
    "expires": "2026-11-13T13:33:52.490391+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "joiniisf|frontend|l1": {
-   "expires": "2026-11-01T19:04:42.674374+00:00",
-   "looked_up": "2026-10-14T03:01:31+00:00",
    "status": "not_found"
   },
   "joinsaarthi|erp|l1": {
@@ -12913,11 +12888,6 @@
    "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
-  "ofi-services|erp|l1": {
-   "expires": "2026-11-01T19:25:58.454259+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "okta-inc-|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14769,11 +14739,6 @@
    "status": "found",
    "year": 2022
   },
-  "rbis-technology-pvt-ltd|frontend|l1": {
-   "expires": "2026-11-01T19:32:57.536408+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
-   "status": "not_found"
-  },
   "rchilli-inc-|swe|l1": {
    "expires": "2026-11-15T01:23:05.705618+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
@@ -15615,11 +15580,6 @@
   "saya-care|mobile|l1": {
    "expires": "2026-11-11T13:48:30.005901+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
-  "schneider-electric|swe|l1": {
-   "expires": "2026-11-01T19:17:27.666642+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "schwab-india|data|l1": {
@@ -16978,11 +16938,6 @@
   "swiss-re|swe|l1": {
    "expires": "2026-11-04T00:58:37.812708+00:00",
    "looked_up": "2026-10-21T18:01:33+00:00",
-   "status": "not_found"
-  },
-  "switsdigital|devops|l1": {
-   "expires": "2026-11-01T19:14:22.683120+00:00",
-   "looked_up": "2026-10-12T05:01:24+00:00",
    "status": "not_found"
   },
   "switsdigital|swe|l1": {
@@ -19265,11 +19220,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "visynth-labs-pvt-ltd|mobile|l1": {
-   "expires": "2026-11-01T19:08:43.198099+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
   },
   "vithamas-tech|mobile|l1": {
    "expires": "2026-11-04T04:46:53.250182+00:00",
