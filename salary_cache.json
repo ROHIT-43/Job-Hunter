@@ -729,8 +729,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T19:20:58.665778+00:00",
-   "looked_up": "2026-11-01T15:13:06+00:00",
+   "expires": "2027-01-29T18:42:17.326597+00:00",
+   "looked_up": "2026-11-01T16:01:28+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -4672,6 +4672,11 @@
    "looked_up": "2026-10-30T05:01:26+00:00",
    "status": "not_found"
   },
+  "crunchyroll|swe|l1": {
+   "expires": "2026-11-11T02:11:15.429650+00:00",
+   "looked_up": "2026-11-01T16:01:28+00:00",
+   "status": "not_found"
+  },
   "cryscol-solutions|frontend|l1": {
    "expires": "2026-11-07T13:27:47.263650+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
@@ -5157,11 +5162,6 @@
    "status": "found",
    "year": 2026
   },
-  "deloitte|fullstack|l2": {
-   "expires": "2026-11-01T15:42:55.591210+00:00",
-   "looked_up": "2026-10-25T10:01:24+00:00",
-   "status": "not_found"
-  },
   "deloitte|mobile|l1": {
    "expires": "2026-11-02T08:36:04.387389+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -5429,8 +5429,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T06:51:56.840898+00:00",
-   "looked_up": "2026-11-01T15:13:06+00:00",
+   "expires": "2027-02-01T14:04:03.565349+00:00",
+   "looked_up": "2026-11-01T16:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6606,8 +6606,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T16:14:49.494104+00:00",
-   "looked_up": "2026-11-01T15:13:06+00:00",
+   "expires": "2027-01-30T08:13:38.208206+00:00",
+   "looked_up": "2026-11-01T16:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7107,11 +7107,6 @@
   "gather-ai|data|l2": {
    "expires": "2026-11-05T10:07:21.118684+00:00",
    "looked_up": "2026-10-22T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "gcrs-group|swe|l1": {
-   "expires": "2026-11-01T15:27:32.826244+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
   "geappliancesco|swe|l1": {
@@ -13407,11 +13402,6 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
-  "pavesoft|fullstack|l1": {
-   "expires": "2026-11-01T15:22:07.062548+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "paxos|data|l1": {
    "expires": "2026-11-05T00:51:16.280960+00:00",
    "looked_up": "2026-10-17T13:01:26+00:00",
@@ -13746,11 +13736,6 @@
   "pinelabs|swe|l1": {
    "expires": "2026-11-07T06:21:30.084155+00:00",
    "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
-  },
-  "pineq-lab-technology|erp|l1": {
-   "expires": "2026-11-01T15:52:31.251645+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
   "pinion-services-limited|swe|l1": {
@@ -20479,8 +20464,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 23,
-  "lookups_today": 23,
+  "lookups_month": 24,
+  "lookups_today": 24,
   "month": "2026-11"
  }
 }
