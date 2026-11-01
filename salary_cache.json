@@ -627,11 +627,6 @@
    "looked_up": "2026-10-20T07:01:25+00:00",
    "status": "not_found"
   },
-  "ainexushubofficial|swe|l1": {
-   "expires": "2026-11-01T05:06:55.109963+00:00",
-   "looked_up": "2026-10-11T08:01:20+00:00",
-   "status": "not_found"
-  },
   "aiprise|frontend|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -724,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T03:24:06.804333+00:00",
-   "looked_up": "2026-11-01T05:01:25+00:00",
+   "expires": "2027-01-27T23:04:28.466114+00:00",
+   "looked_up": "2026-11-01T06:01:29+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5451,6 +5446,20 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
+  "ditansource|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-03T01:37:35.634205+00:00",
+   "looked_up": "2026-11-01T06:01:29+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "ditto-insurance|swe|l1": {
    "expires": "2026-11-18T18:53:40.558599+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
@@ -6100,8 +6109,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T06:22:03.449816+00:00",
-   "looked_up": "2026-11-01T05:01:25+00:00",
+   "expires": "2027-01-28T18:56:52.463149+00:00",
+   "looked_up": "2026-11-01T06:01:29+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6637,8 +6646,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T02:06:07.794267+00:00",
-   "looked_up": "2026-11-01T05:01:25+00:00",
+   "expires": "2027-01-30T06:33:46.342760+00:00",
+   "looked_up": "2026-11-01T06:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8073,11 +8082,6 @@
   "hclsoftware|swe|l1": {
    "expires": "2026-11-04T19:46:10.156971+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "hcltech|mobile|l1": {
-   "expires": "2026-11-01T05:42:48.218761+00:00",
-   "looked_up": "2026-10-12T11:01:28+00:00",
    "status": "not_found"
   },
   "hcltech|security|l1": {
@@ -11993,11 +11997,6 @@
    "looked_up": "2026-10-19T16:01:34+00:00",
    "status": "not_found"
   },
-  "monospear|swe|l1": {
-   "expires": "2026-11-01T05:03:06.130149+00:00",
-   "looked_up": "2026-10-23T18:01:24+00:00",
-   "status": "not_found"
-  },
   "monty-mobile|swe|l1": {
    "expires": "2026-11-04T15:29:13.804074+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -13094,11 +13093,6 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
-  "onequince|mobile|l2": {
-   "expires": "2026-11-01T05:32:41.879909+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
-   "status": "not_found"
-  },
   "onit-india|fullstack|l1": {
    "expires": "2026-11-04T20:07:11.859526+00:00",
    "looked_up": "2026-10-28T18:01:29+00:00",
@@ -13833,11 +13827,6 @@
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-01T15:52:31.251645+00:00",
    "looked_up": "2026-10-12T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "pineq-lab-technology|swe|l1": {
-   "expires": "2026-11-01T05:23:41.955717+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
   "pinion-services-limited|swe|l1": {
@@ -15757,6 +15746,11 @@
   "savvy-signature|frontend|l1": {
    "expires": "2026-11-04T09:57:39.117115+00:00",
    "looked_up": "2026-10-25T13:01:26+00:00",
+   "status": "not_found"
+  },
+  "sawa-living|mobile|l1": {
+   "expires": "2026-11-21T20:25:50.128738+00:00",
+   "looked_up": "2026-11-01T06:01:29+00:00",
    "status": "not_found"
   },
   "saxo-bank|devops|l1": {
@@ -18397,11 +18391,6 @@
    "status": "found",
    "year": 2026
   },
-  "totala-textiles-private-limited|swe|l1": {
-   "expires": "2026-11-01T05:06:27.621602+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "towards-vision-technologies|swe|l1": {
    "expires": "2026-11-17T09:15:38.203872+00:00",
    "looked_up": "2026-10-29T06:01:32+00:00",
@@ -20646,8 +20635,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 5,
-  "lookups_today": 5,
+  "lookups_month": 6,
+  "lookups_today": 6,
   "month": "2026-11"
  }
 }
