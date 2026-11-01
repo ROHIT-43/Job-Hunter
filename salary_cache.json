@@ -214,6 +214,11 @@
    "looked_up": "2026-10-31T12:01:25+00:00",
    "status": "not_found"
   },
+  "accelgrowth|swe|l1": {
+   "expires": "2026-11-09T16:27:17.818362+00:00",
+   "looked_up": "2026-11-01T05:01:25+00:00",
+   "status": "not_found"
+  },
   "accelleron-industries|swe|l1": {
    "expires": "2026-11-09T07:22:13.587765+00:00",
    "looked_up": "2026-10-31T17:01:23+00:00",
@@ -719,8 +724,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:06:55.327072+00:00",
-   "looked_up": "2026-11-01T04:01:23+00:00",
+   "expires": "2027-01-25T03:24:06.804333+00:00",
+   "looked_up": "2026-11-01T05:01:25+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5625,11 +5630,6 @@
    "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
-  "ecobillz-private-limited|swe|l1": {
-   "expires": "2026-11-01T04:53:07.844496+00:00",
-   "looked_up": "2026-10-13T18:01:29+00:00",
-   "status": "not_found"
-  },
   "ecolab|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6100,8 +6100,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T13:33:15.548293+00:00",
-   "looked_up": "2026-11-01T04:01:23+00:00",
+   "expires": "2027-01-25T06:22:03.449816+00:00",
+   "looked_up": "2026-11-01T05:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6538,11 +6538,6 @@
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
-  "fedex|fullstack|l1": {
-   "expires": "2026-11-01T04:27:05.305275+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
   "fedex|fullstack|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -6642,8 +6637,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T07:08:57.974910+00:00",
-   "looked_up": "2026-10-18T04:01:29+00:00",
+   "expires": "2027-01-26T02:06:07.794267+00:00",
+   "looked_up": "2026-11-01T05:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18772,11 +18767,6 @@
    ],
    "status": "found"
   },
-  "ubs|data|l1": {
-   "expires": "2026-11-01T04:37:15.185130+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "ubs|erp|l1": {
    "expires": "2026-11-09T06:36:28.809451+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
@@ -20656,8 +20646,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 4,
-  "lookups_today": 4,
+  "lookups_month": 5,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
