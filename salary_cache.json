@@ -432,6 +432,11 @@
    "looked_up": "2026-10-29T09:01:32+00:00",
    "status": "not_found"
   },
+  "acura-solutions-ltd|security|l1": {
+   "expires": "2026-11-10T22:54:49.088954+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
+   "status": "not_found"
+  },
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -719,8 +724,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:49:57.588539+00:00",
-   "looked_up": "2026-11-01T07:32:00+00:00",
+   "expires": "2027-02-01T12:40:13.105995+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5439,8 +5444,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T09:58:34.931156+00:00",
-   "looked_up": "2026-11-01T07:32:00+00:00",
+   "expires": "2027-02-04T18:28:05.939129+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6099,8 +6104,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:23:27.435699+00:00",
-   "looked_up": "2026-11-01T07:32:00+00:00",
+   "expires": "2027-01-24T17:41:24.527734+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6636,8 +6641,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T18:42:32.402690+00:00",
-   "looked_up": "2026-11-01T07:32:00+00:00",
+   "expires": "2027-01-27T21:17:26.104503+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6995,6 +7000,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "foreseesecurity|security|l1": {
+   "expires": "2026-11-11T10:31:39.225662+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
+   "status": "not_found"
   },
   "fornexet|fullstack|l1": {
    "expires": "2026-11-02T19:53:27.515013+00:00",
@@ -8360,11 +8370,6 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
-  "hivekra|fullstack|l1": {
-   "expires": "2026-11-01T07:55:21.692633+00:00",
-   "looked_up": "2026-10-22T01:01:24+00:00",
-   "status": "not_found"
-  },
   "hjinfotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8931,11 +8936,6 @@
    "looked_up": "2026-10-17T04:01:27+00:00",
    "status": "not_found"
   },
-  "iff|erp|l1": {
-   "expires": "2026-11-01T07:54:01.026136+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "iit-bombay|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9086,11 +9086,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "inflexion-technology-solutions|erp|l1": {
-   "expires": "2026-11-01T07:46:01.117118+00:00",
-   "looked_up": "2026-10-12T12:01:35+00:00",
-   "status": "not_found"
   },
   "infobeans|swe|l1": {
    "basis": "ctc",
@@ -12734,6 +12729,11 @@
   "ntanservices|fullstack|l1": {
    "expires": "2026-11-08T23:47:22.135360+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
+  "nthalpix-technologies|swe|l1": {
+   "expires": "2026-11-12T14:59:22.822623+00:00",
+   "looked_up": "2026-11-01T08:01:22+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|devops|l1": {
@@ -20630,8 +20630,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 7,
-  "lookups_today": 7,
+  "lookups_month": 10,
+  "lookups_today": 10,
   "month": "2026-11"
  }
 }
