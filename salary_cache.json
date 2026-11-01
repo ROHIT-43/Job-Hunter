@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T02:09:10.488733+00:00",
-   "looked_up": "2026-11-01T01:01:35+00:00",
+   "expires": "2027-01-31T06:43:40.410272+00:00",
+   "looked_up": "2026-11-01T01:12:15+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -6120,8 +6120,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:25:08.191331+00:00",
-   "looked_up": "2026-11-01T01:01:35+00:00",
+   "expires": "2027-01-31T13:09:23.610843+00:00",
+   "looked_up": "2026-11-01T01:12:15+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
