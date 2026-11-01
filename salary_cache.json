@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T18:19:05.055974+00:00",
-   "looked_up": "2026-11-01T02:01:26+00:00",
+   "expires": "2027-01-25T23:42:46.819052+00:00",
+   "looked_up": "2026-11-01T03:01:30+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -999,11 +999,6 @@
   "altumlabs|erp|l1": {
    "expires": "2026-11-09T06:30:28.203822+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "amadeus|swe|l1": {
-   "expires": "2026-11-01T02:47:20.852067+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "amadeus|swe|l3": {
@@ -6105,8 +6100,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:11:29.813692+00:00",
-   "looked_up": "2026-11-01T02:01:26+00:00",
+   "expires": "2027-01-29T12:27:05.720163+00:00",
+   "looked_up": "2026-11-01T03:01:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6154,11 +6149,6 @@
   "eternal9-foodworks-private-limited|frontend|l1": {
    "expires": "2026-11-10T12:34:09.955704+00:00",
    "looked_up": "2026-10-22T19:01:24+00:00",
-   "status": "not_found"
-  },
-  "ethelius|frontend|l1": {
-   "expires": "2026-11-01T02:21:56.232219+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
    "status": "not_found"
   },
   "eulermotors|fullstack|l1": {
@@ -8935,11 +8925,6 @@
   "idfcfirstbank|data|l1": {
    "expires": "2026-11-06T16:43:26.836245+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
-   "status": "not_found"
-  },
-  "idfcfirstbank|swe|l1": {
-   "expires": "2026-11-01T02:11:51.843186+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
    "status": "not_found"
   },
   "idrms-technologies-pvt-ltd|erp|l1": {
@@ -13597,11 +13582,6 @@
   "payrup|devops|l1": {
    "expires": "2026-11-13T16:44:45.676223+00:00",
    "looked_up": "2026-10-31T19:01:30+00:00",
-   "status": "not_found"
-  },
-  "payway-ltd|mobile|l1": {
-   "expires": "2026-11-01T02:50:21.797545+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
   "pdi-technologies|swe|l3": {
