@@ -1397,6 +1397,11 @@
    "looked_up": "2026-10-31T00:01:25+00:00",
    "status": "not_found"
   },
+  "anr-business-consulting|erp|l1": {
+   "expires": "2026-11-09T02:12:21.812152+00:00",
+   "looked_up": "2026-11-01T21:01:25+00:00",
+   "status": "not_found"
+  },
   "antyl-ai|fullstack|l1": {
    "expires": "2026-11-11T00:53:32.044841+00:00",
    "looked_up": "2026-10-23T09:01:25+00:00",
@@ -5394,8 +5399,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T01:53:19.119474+00:00",
-   "looked_up": "2026-11-01T20:01:22+00:00",
+   "expires": "2027-01-30T04:46:38.940164+00:00",
+   "looked_up": "2026-11-01T21:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6561,8 +6566,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T08:57:31.133649+00:00",
-   "looked_up": "2026-11-01T20:01:22+00:00",
+   "expires": "2027-02-03T11:24:32.532786+00:00",
+   "looked_up": "2026-11-01T21:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11554,11 +11559,6 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
-  "medtronic|devops|l1": {
-   "expires": "2026-11-01T20:32:12.274570+00:00",
-   "looked_up": "2026-10-21T15:01:33+00:00",
-   "status": "not_found"
-  },
   "medvirtual|swe|l1": {
    "expires": "2026-11-11T22:07:21.145398+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
@@ -15049,6 +15049,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "rivirtual-india|swe|l1": {
+   "expires": "2026-11-18T17:18:51.675350+00:00",
+   "looked_up": "2026-11-01T21:01:25+00:00",
+   "status": "not_found"
   },
   "rivirtual|swe|l1": {
    "expires": "2026-11-09T07:19:16.013972+00:00",
@@ -19900,11 +19905,6 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
-  "y&amp;l-consulting|data|l1": {
-   "expires": "2026-11-01T20:50:45.653587+00:00",
-   "looked_up": "2026-10-16T01:01:29+00:00",
-   "status": "not_found"
-  },
   "yachtlocharter|fullstack|l1": {
    "expires": "2026-11-10T02:25:33.369660+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
@@ -20359,8 +20359,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 34,
-  "lookups_today": 34,
+  "lookups_month": 36,
+  "lookups_today": 36,
   "month": "2026-11"
  }
 }
