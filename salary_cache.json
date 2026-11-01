@@ -729,8 +729,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T03:32:28.862041+00:00",
-   "looked_up": "2026-11-01T15:01:24+00:00",
+   "expires": "2027-01-23T19:20:58.665778+00:00",
+   "looked_up": "2026-11-01T15:13:06+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5429,8 +5429,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:27:20.032027+00:00",
-   "looked_up": "2026-11-01T15:01:24+00:00",
+   "expires": "2027-02-04T06:51:56.840898+00:00",
+   "looked_up": "2026-11-01T15:13:06+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6606,8 +6606,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:28:12.150363+00:00",
-   "looked_up": "2026-11-01T15:01:24+00:00",
+   "expires": "2027-01-23T16:14:49.494104+00:00",
+   "looked_up": "2026-11-01T15:13:06+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10583,11 +10583,6 @@
    "looked_up": "2026-10-16T07:19:03+00:00",
    "status": "not_found"
   },
-  "lazer-ken-it-services-india-private-limited|swe|l1": {
-   "expires": "2026-11-01T15:05:14.183638+00:00",
-   "looked_up": "2026-10-21T08:01:34+00:00",
-   "status": "not_found"
-  },
   "leadsoc-technologies-india-pvt-ltd|swe|l2": {
    "expires": "2026-11-09T00:40:19.765034+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
@@ -12633,11 +12628,6 @@
   "novglobal|security|l1": {
    "expires": "2026-11-06T21:49:23.295970+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "novonesis|erp|l1": {
-   "expires": "2026-11-01T15:10:20.966047+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
   "novotech|swe|l2": {
