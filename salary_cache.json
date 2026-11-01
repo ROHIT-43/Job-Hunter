@@ -729,8 +729,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:55:51.293679+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
+   "expires": "2027-01-24T03:32:28.862041+00:00",
+   "looked_up": "2026-11-01T15:01:24+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -3565,6 +3565,26 @@
    "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
+  "cbts-technology-covered|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T00:21:22.770499+00:00",
+   "looked_up": "2026-11-01T15:01:24+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "freshershunt.in",
+     "uri": "https://freshershunt.in/cbts-careers-2023-associate-software-engineer/"
+    },
+    {
+     "title": "job4freshers.co.in",
+     "uri": "https://job4freshers.co.in/cbts-hiring-associate-software-engineer/"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "cdknorthamerica|security|l1": {
    "expires": "2026-11-04T09:09:43.390509+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -5208,11 +5228,6 @@
    "status": "found",
    "year": 2026
   },
-  "designbrandshark|swe|l1": {
-   "expires": "2026-11-01T14:50:13.633390+00:00",
-   "looked_up": "2026-10-20T11:35:56+00:00",
-   "status": "not_found"
-  },
   "devloit|devops|l1": {
    "expires": "2026-11-13T14:44:37.266972+00:00",
    "looked_up": "2026-10-28T05:01:27+00:00",
@@ -5414,8 +5429,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T14:52:05.480746+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
+   "expires": "2027-02-04T15:27:20.032027+00:00",
+   "looked_up": "2026-11-01T15:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6591,8 +6606,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T05:01:43.511822+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
+   "expires": "2027-02-06T14:28:12.150363+00:00",
+   "looked_up": "2026-11-01T15:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10531,11 +10546,6 @@
   "labcorp|swe|l1": {
    "expires": "2026-11-12T18:17:07.992655+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "lalacompany|fullstack|l1": {
-   "expires": "2026-11-01T14:59:13.541708+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "lancesoftindia|swe|l1": {
@@ -16707,11 +16717,6 @@
    "looked_up": "2026-10-28T01:01:25+00:00",
    "status": "not_found"
   },
-  "sourceright|swe|l1": {
-   "expires": "2026-11-01T14:45:37.994484+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
-   "status": "not_found"
-  },
   "sourcingninza|fullstack|l1": {
    "expires": "2026-11-09T00:07:08.762377+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
@@ -20484,8 +20489,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 22,
-  "lookups_today": 22,
+  "lookups_month": 23,
+  "lookups_today": 23,
   "month": "2026-11"
  }
 }
