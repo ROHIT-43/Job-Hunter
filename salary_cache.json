@@ -102,11 +102,6 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
-  "aayaninfotech|swe|l2": {
-   "expires": "2026-11-01T10:45:50.992386+00:00",
-   "looked_up": "2026-10-15T06:01:30+00:00",
-   "status": "not_found"
-  },
   "ab-inbev-apac|data|l1": {
    "expires": "2026-11-03T00:07:32.766525+00:00",
    "looked_up": "2026-10-16T14:01:29+00:00",
@@ -724,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:36:05.370540+00:00",
-   "looked_up": "2026-11-01T10:01:24+00:00",
+   "expires": "2027-02-06T04:11:23.940415+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5424,8 +5419,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-23T16:55:16.890157+00:00",
-   "looked_up": "2026-11-01T10:01:24+00:00",
+   "expires": "2027-02-04T02:23:19.543233+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6084,8 +6079,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T23:17:00.072906+00:00",
-   "looked_up": "2026-11-01T10:01:24+00:00",
+   "expires": "2027-01-24T05:54:24.266865+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6225,11 +6220,6 @@
   "excelya|swe|l1": {
    "expires": "2026-11-08T02:25:28.934652+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "exl-service|data|l1": {
-   "expires": "2026-11-01T10:02:24.209284+00:00",
-   "looked_up": "2026-10-13T17:01:40+00:00",
    "status": "not_found"
   },
   "exl-service|frontend|l1": {
@@ -6616,8 +6606,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T23:14:42.902623+00:00",
-   "looked_up": "2026-11-01T10:01:24+00:00",
+   "expires": "2027-01-24T11:38:54.443353+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9000,11 +8990,6 @@
   "indiasfutureinvestors|fullstack|l1": {
    "expires": "2026-11-06T00:43:07.097472+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
-  "indiasfutureinvestors|mobile|l1": {
-   "expires": "2026-11-01T10:22:09.429864+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
    "status": "not_found"
   },
   "indiasfutureinvestors|security|l1": {
@@ -13954,11 +13939,6 @@
    "looked_up": "2026-10-19T22:01:34+00:00",
    "status": "not_found"
   },
-  "ppstack|swe|l1": {
-   "expires": "2026-11-01T10:50:37.751868+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
-   "status": "not_found"
-  },
   "ppt-consultants|erp|l1": {
    "expires": "2026-11-13T10:21:51.207866+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -14474,6 +14454,11 @@
   "qualitrix|swe|l1": {
    "expires": "2026-11-08T03:13:58.812855+00:00",
    "looked_up": "2026-10-25T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "qualitrol|swe|l1": {
+   "expires": "2026-11-18T00:06:55.064273+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "status": "not_found"
   },
   "qualityaigroup|erp|l1": {
@@ -17022,11 +17007,6 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
-  "suryawave|fullstack|l1": {
-   "expires": "2026-11-01T10:52:18.490472+00:00",
-   "looked_up": "2026-10-17T02:01:21+00:00",
-   "status": "not_found"
-  },
   "sushainclinic|swe|l1": {
    "expires": "2026-11-20T23:20:54.535490+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
@@ -17720,8 +17700,8 @@
    "status": "not_found"
   },
   "technosys-solutions-inc|swe|l1": {
-   "expires": "2026-11-01T10:42:26.668495+00:00",
-   "looked_up": "2026-10-20T06:16:42+00:00",
+   "expires": "2026-11-09T15:53:14.857190+00:00",
+   "looked_up": "2026-11-01T11:01:27+00:00",
    "status": "not_found"
   },
   "techolution-mobi|frontend|l1": {
@@ -20560,8 +20540,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 10,
-  "lookups_today": 10,
+  "lookups_month": 12,
+  "lookups_today": 12,
   "month": "2026-11"
  }
 }
