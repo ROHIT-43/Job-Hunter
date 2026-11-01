@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T04:11:23.940415+00:00",
-   "looked_up": "2026-11-01T11:01:27+00:00",
+   "expires": "2027-02-01T05:22:19.232620+00:00",
+   "looked_up": "2026-11-01T12:01:27+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -2227,6 +2227,11 @@
   "bain-and-company|fullstack|l1": {
    "expires": "2026-11-17T05:41:09.338715+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "bain-and-company|swe|l1": {
+   "expires": "2026-11-19T06:18:58.655353+00:00",
+   "looked_up": "2026-11-01T12:01:27+00:00",
    "status": "not_found"
   },
   "bakerhughes|swe|l1": {
@@ -5419,8 +5424,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:23:19.543233+00:00",
-   "looked_up": "2026-11-01T11:01:27+00:00",
+   "expires": "2027-01-30T13:12:59.152392+00:00",
+   "looked_up": "2026-11-01T12:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6606,8 +6611,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T11:38:54.443353+00:00",
-   "looked_up": "2026-11-01T11:01:27+00:00",
+   "expires": "2027-01-26T17:11:17.748409+00:00",
+   "looked_up": "2026-11-01T12:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9401,11 +9406,6 @@
    "status": "found",
    "year": 2026
   },
-  "innovaesi|erp|l1": {
-   "expires": "2026-11-01T11:29:48.813037+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
   "innovaesi|frontend|l1": {
    "expires": "2026-11-02T16:03:00.199720+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -10307,6 +10307,11 @@
     }
    ],
    "status": "found"
+  },
+  "kkcatax|swe|l1": {
+   "expires": "2026-11-14T22:42:12.537396+00:00",
+   "looked_up": "2026-11-01T12:01:27+00:00",
+   "status": "not_found"
   },
   "klacorp|fullstack|l1": {
    "expires": "2026-11-16T16:55:17.200580+00:00",
@@ -11861,11 +11866,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "miraclesoft|swe|l1": {
-   "expires": "2026-11-01T12:00:37.485910+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
   },
   "miraista|fullstack|l1": {
    "expires": "2026-11-10T02:28:30.389166+00:00",
@@ -16961,11 +16961,6 @@
    "looked_up": "2026-10-21T09:01:36+00:00",
    "status": "not_found"
   },
-  "sublimedata|frontend|l1": {
-   "expires": "2026-11-01T11:59:29.555411+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
-  },
   "suffescom|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17329,11 +17324,6 @@
   "tasi-india|swe|l1": {
    "expires": "2026-11-15T11:29:14.916601+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "task-troopers|swe|l1": {
-   "expires": "2026-11-01T11:06:48.516279+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "tata-consultancy-services|data|l1": {
@@ -19444,11 +19434,6 @@
    "status": "found",
    "year": 2026
   },
-  "volto-consulting|erp|l1": {
-   "expires": "2026-11-01T11:35:05.560564+00:00",
-   "looked_up": "2026-10-13T05:01:29+00:00",
-   "status": "not_found"
-  },
   "vontier|swe|l1": {
    "expires": "2026-11-05T18:25:16.056543+00:00",
    "looked_up": "2026-10-18T13:01:22+00:00",
@@ -20540,8 +20525,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 12,
-  "lookups_today": 12,
+  "lookups_month": 14,
+  "lookups_today": 14,
   "month": "2026-11"
  }
 }
