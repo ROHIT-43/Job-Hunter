@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T21:28:02.763552+00:00",
-   "looked_up": "2026-11-01T07:01:29+00:00",
+   "expires": "2027-01-27T11:49:57.588539+00:00",
+   "looked_up": "2026-11-01T07:32:00+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -5439,8 +5439,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T13:35:07.753657+00:00",
-   "looked_up": "2026-11-01T07:01:29+00:00",
+   "expires": "2027-01-24T09:58:34.931156+00:00",
+   "looked_up": "2026-11-01T07:32:00+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6099,8 +6099,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:26:29.236041+00:00",
-   "looked_up": "2026-11-01T07:01:29+00:00",
+   "expires": "2027-02-05T18:23:27.435699+00:00",
+   "looked_up": "2026-11-01T07:32:00+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6636,8 +6636,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T05:57:44.285051+00:00",
-   "looked_up": "2026-11-01T07:01:29+00:00",
+   "expires": "2027-02-03T18:42:32.402690+00:00",
+   "looked_up": "2026-11-01T07:32:00+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -16796,11 +16796,6 @@
   "sourcebae|devops|l1": {
    "expires": "2026-11-15T23:09:06.333703+00:00",
    "looked_up": "2026-10-30T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "sourcebae|swe|l1": {
-   "expires": "2026-11-01T07:04:26.074233+00:00",
-   "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
   "sourceright|data|l1": {
