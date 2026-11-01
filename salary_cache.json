@@ -1217,11 +1217,6 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
-  "american-express|devops|l3": {
-   "expires": "2026-11-01T21:58:18.127034+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "american-express|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5399,8 +5394,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:46:38.940164+00:00",
-   "looked_up": "2026-11-01T21:01:25+00:00",
+   "expires": "2027-01-30T01:20:17.459473+00:00",
+   "looked_up": "2026-11-01T22:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6566,8 +6561,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:24:32.532786+00:00",
-   "looked_up": "2026-11-01T21:01:25+00:00",
+   "expires": "2027-01-25T09:43:28.312695+00:00",
+   "looked_up": "2026-11-01T22:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6789,11 +6784,6 @@
   "flexipletech|fullstack|l1": {
    "expires": "2026-11-02T13:03:56.245705+00:00",
    "looked_up": "2026-10-25T21:01:25+00:00",
-   "status": "not_found"
-  },
-  "flexipletech|mobile|l1": {
-   "expires": "2026-11-01T21:40:28.880118+00:00",
-   "looked_up": "2026-10-20T22:01:27+00:00",
    "status": "not_found"
   },
   "flexipletech|swe|l1": {
@@ -14449,11 +14439,6 @@
   "quarticainc|swe|l1": {
    "expires": "2026-11-08T03:25:57.953707+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "quasarengg|swe|l1": {
-   "expires": "2026-11-01T22:00:16.312068+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
    "status": "not_found"
   },
   "quest-global|data|l1": {
