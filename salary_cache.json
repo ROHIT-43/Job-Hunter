@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:45:52.493692+00:00",
-   "looked_up": "2026-10-31T23:01:32+00:00",
+   "expires": "2027-01-25T00:04:39.927664+00:00",
+   "looked_up": "2026-11-01T00:01:29+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -6125,8 +6125,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T14:05:30.388158+00:00",
-   "looked_up": "2026-10-31T23:01:32+00:00",
+   "expires": "2027-01-26T09:57:52.082855+00:00",
+   "looked_up": "2026-11-01T00:01:29+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6820,11 +6820,6 @@
   "fitwiseplus|mobile|l1": {
    "expires": "2026-11-06T20:51:30.314301+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
-  "five9|swe|l2": {
-   "expires": "2026-10-31T23:05:47.130143+00:00",
-   "looked_up": "2026-10-11T17:01:22+00:00",
    "status": "not_found"
   },
   "fizi-fitness-gym-workouts|fullstack|l1": {
@@ -13194,11 +13189,6 @@
   "openlm|security|l1": {
    "expires": "2026-11-17T11:26:52.684247+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
-  "openstars|frontend|l1": {
-   "expires": "2026-10-31T23:13:40.758909+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
   "opensystems|swe|l1": {
@@ -20740,9 +20730,9 @@
   }
  },
  "meta": {
-  "day": "2026-10-31",
-  "lookups_month": 3681,
-  "lookups_today": 66,
-  "month": "2026-10"
+  "day": "2026-11-01",
+  "lookups_month": 0,
+  "lookups_today": 0,
+  "month": "2026-11"
  }
 }
