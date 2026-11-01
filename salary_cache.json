@@ -719,8 +719,8 @@
   "aixpense-in|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T23:42:46.819052+00:00",
-   "looked_up": "2026-11-01T03:01:30+00:00",
+   "expires": "2027-02-05T01:06:55.327072+00:00",
+   "looked_up": "2026-11-01T04:01:23+00:00",
    "max_lpa": 5.8,
    "min_lpa": 4.8,
    "sources": [
@@ -2475,11 +2475,6 @@
   "beta-soft-net|swe|l1": {
    "expires": "2026-11-05T14:29:05.992319+00:00",
    "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
-  "betasoft-solutions|swe|l2": {
-   "expires": "2026-11-01T03:42:19.959939+00:00",
-   "looked_up": "2026-10-12T02:01:20+00:00",
    "status": "not_found"
   },
   "bhanzu|fullstack|l1": {
@@ -4822,6 +4817,11 @@
    "looked_up": "2026-10-26T05:01:26+00:00",
    "status": "not_found"
   },
+  "cyanaq-systems|fullstack|l1": {
+   "expires": "2026-11-12T16:59:04.621220+00:00",
+   "looked_up": "2026-11-01T04:01:23+00:00",
+   "status": "not_found"
+  },
   "cyber-infrastructure|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6100,8 +6100,8 @@
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:27:05.720163+00:00",
-   "looked_up": "2026-11-01T03:01:30+00:00",
+   "expires": "2027-01-27T13:33:15.548293+00:00",
+   "looked_up": "2026-11-01T04:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -6154,6 +6154,11 @@
   "eulermotors|fullstack|l1": {
    "expires": "2026-11-01T16:12:34.754424+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
+   "status": "not_found"
+  },
+  "eunoia-designtech|swe|l1": {
+   "expires": "2026-11-17T15:34:17.682750+00:00",
+   "looked_up": "2026-11-01T04:01:23+00:00",
    "status": "not_found"
   },
   "eurofins|frontend|l1": {
@@ -8387,11 +8392,6 @@
    "status": "found",
    "year": 2026
   },
-  "hoichoitv|data|l1": {
-   "expires": "2026-11-01T03:13:20.463828+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "honeywell-aerospace|swe|l2": {
    "expires": "2026-11-06T01:29:16.315072+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -9957,11 +9957,6 @@
    "looked_up": "2026-10-29T01:01:34+00:00",
    "status": "not_found"
   },
-  "jobgether|data|l1": {
-   "expires": "2026-11-01T03:19:23.524621+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "jobgether|erp|l1": {
    "expires": "2026-11-04T17:05:10.846746+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -11304,11 +11299,6 @@
     }
    ],
    "status": "found"
-  },
-  "marshglobal|frontend|l1": {
-   "expires": "2026-11-01T03:28:56.152833+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
   },
   "marslytics|data|l1": {
    "expires": "2026-11-09T01:15:37.367869+00:00",
@@ -15143,11 +15133,6 @@
    "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
-  "repaireex-technology-private-limited|mobile|l1": {
-   "expires": "2026-11-01T03:04:21.378443+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "revantage|erp|l1": {
    "expires": "2026-11-01T18:41:30.320932+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -15782,11 +15767,6 @@
   "saxo-bank|devops|l1": {
    "expires": "2026-11-08T11:34:12.828566+00:00",
    "looked_up": "2026-10-21T16:01:31+00:00",
-   "status": "not_found"
-  },
-  "saxonglobalinc|erp|l1": {
-   "expires": "2026-11-01T03:33:46.520201+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
    "status": "not_found"
   },
   "saya-care|mobile|l1": {
@@ -17225,11 +17205,6 @@
   "syndigo|swe|l1": {
    "expires": "2026-11-02T09:52:16.546651+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "synechron|data|l1": {
-   "expires": "2026-11-01T03:58:37.829155+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
   "synechron|fullstack|l1": {
@@ -20681,8 +20656,8 @@
  },
  "meta": {
   "day": "2026-11-01",
-  "lookups_month": 2,
-  "lookups_today": 2,
+  "lookups_month": 4,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
