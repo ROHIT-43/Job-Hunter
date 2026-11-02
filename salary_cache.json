@@ -5334,8 +5334,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T13:01:50.660222+00:00",
-   "looked_up": "2026-11-02T04:01:28+00:00",
+   "expires": "2027-01-28T14:15:40.910586+00:00",
+   "looked_up": "2026-11-02T05:01:35+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -13400,6 +13400,26 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
+  "persistent-systems|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-24T12:37:23.740428+00:00",
+   "looked_up": "2026-11-02T05:01:35+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/persistent-systems-salaries/web-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/persistent-systems-salaries/junior-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "persistent-systems|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18303,11 +18323,6 @@
    "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
-  "trueidofficial|swe|l1": {
-   "expires": "2026-11-02T04:05:10.938059+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
-  },
   "trustinoptimal|devops|l1": {
    "expires": "2026-11-04T10:50:10.657757+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
@@ -20244,8 +20259,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 41,
-  "lookups_today": 5,
+  "lookups_month": 42,
+  "lookups_today": 6,
   "month": "2026-11"
  }
 }
