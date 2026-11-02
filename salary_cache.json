@@ -908,6 +908,11 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
+  "alightsolutions|swe|l1": {
+   "expires": "2026-11-17T00:11:24.684882+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "alignerr|security|l1": {
    "expires": "2026-11-18T21:30:21.073910+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
@@ -1024,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T03:56:13.705558+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-01-29T01:26:22.465200+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1038,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T06:03:34.680187+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-02-02T09:38:37.449327+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1221,6 +1226,22 @@
    "expires": "2026-11-04T06:03:31.073108+00:00",
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
+  },
+  "american-express|security|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-27T03:20:59.914747+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 23.2,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-amex-pay/engineer-iii"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "american-express|swe|l1": {
    "basis": "base",
@@ -1969,11 +1990,6 @@
   "aurnex-group|swe|l1": {
    "expires": "2026-11-06T02:49:12.447898+00:00",
    "looked_up": "2026-10-29T22:01:27+00:00",
-   "status": "not_found"
-  },
-  "auswide-global-india|swe|l1": {
-   "expires": "2026-11-02T12:52:07.634365+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "autodesk|security|l1": {
@@ -3989,6 +4005,11 @@
    ],
    "status": "found"
   },
+  "cloudwick|frontend|l1": {
+   "expires": "2026-11-16T03:07:26.055792+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "cme-group|devops|l1": {
    "expires": "2026-11-04T16:18:04.903850+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -4013,6 +4034,11 @@
   "codagram-edtech|swe|l1": {
    "expires": "2026-11-06T21:47:04.087903+00:00",
    "looked_up": "2026-10-23T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "codefeast|swe|l1": {
+   "expires": "2026-11-12T21:27:49.979523+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "codemancers|devops|l1": {
@@ -4820,8 +4846,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T02:51:45.674291+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-01-28T09:26:28.073020+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4957,11 +4983,6 @@
   "datae2e|devops|l1": {
    "expires": "2026-11-04T13:17:30.780895+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
-  "dataframerai|fullstack|l1": {
-   "expires": "2026-11-02T12:47:43.943227+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "datapoint-info-solutions-p-ltd|swe|l1": {
@@ -5907,6 +5928,11 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
+  "equifax|swe|l2": {
+   "expires": "2026-11-13T09:05:19.735773+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "equisoft|swe|l1": {
    "expires": "2026-11-10T15:19:47.178483+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
@@ -6367,6 +6393,20 @@
    "expires": "2026-11-14T16:08:18.404967+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
    "status": "not_found"
+  },
+  "factori-com|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-07T03:28:16.457823+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "factset|devops|l1": {
    "expires": "2026-11-04T19:09:38.982096+00:00",
@@ -7243,6 +7283,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "gitlab-com|data|l1": {
+   "expires": "2026-11-20T06:22:27.870602+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
   },
   "gitlab-com|swe|l1": {
    "basis": "base",
@@ -8319,6 +8364,11 @@
    "status": "found",
    "year": 2026
   },
+  "hoichoitv|swe|l1": {
+   "expires": "2026-11-20T06:38:58.850207+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "honeywell-aerospace|swe|l2": {
    "expires": "2026-11-06T01:29:16.315072+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -8424,6 +8474,22 @@
    "expires": "2026-11-12T20:31:21.858358+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
+  },
+  "hsbc|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T10:05:15.289579+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 13.1,
+   "min_lpa": 7.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/hsbc-software-development-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "hsbc|swe|l1": {
    "basis": "ctc",
@@ -8574,11 +8640,6 @@
   "hypersoft-technologies-ltd|erp|l1": {
    "expires": "2026-11-08T19:34:22.525759+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
-  "hyprel|swe|l1": {
-   "expires": "2026-11-02T12:29:32.650446+00:00",
-   "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
   "hyrezy-tech-solutions|frontend|l1": {
@@ -8859,11 +8920,6 @@
    "looked_up": "2026-10-30T21:01:32+00:00",
    "status": "not_found"
   },
-  "iepcc-solutions|swe|l1": {
-   "expires": "2026-11-02T12:43:08.254667+00:00",
-   "looked_up": "2026-10-17T04:01:27+00:00",
-   "status": "not_found"
-  },
   "iff|swe|l1": {
    "expires": "2026-11-15T05:55:31.230069+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -8889,11 +8945,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "iitjobs|erp|l1": {
-   "expires": "2026-11-02T12:36:15.623226+00:00",
-   "looked_up": "2026-10-17T05:01:22+00:00",
-   "status": "not_found"
   },
   "iitmatrix|data|l1": {
    "expires": "2026-11-05T12:40:31.715495+00:00",
@@ -9902,8 +9953,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:41:40.849824+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-01-24T13:51:20.373474+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10579,8 +10630,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:10:57.522199+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-02-01T22:10:36.565790+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -11636,6 +11687,22 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
+  "medpace|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T21:57:09.128565+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/companies/medpace?city=navi-mumbai"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "medpace|erp|l1": {
    "expires": "2026-11-04T00:25:55.152802+00:00",
    "looked_up": "2026-10-14T11:01:27+00:00",
@@ -11887,6 +11954,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "mirafra-technologies|mobile|l1": {
+   "expires": "2026-11-19T22:40:02.311078+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
   },
   "miraista|fullstack|l1": {
    "expires": "2026-11-10T02:28:30.389166+00:00",
@@ -12244,6 +12316,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "ncrvoyix|devops|l1": {
+   "expires": "2026-11-20T22:23:04.243602+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "ncrvoyix|devops|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -12430,6 +12507,11 @@
    "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
+  "netsysconconsulting|swe|l1": {
+   "expires": "2026-11-17T12:38:14.939827+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "netwrix-corporation|devops|l1": {
    "expires": "2026-11-07T20:28:22.280834+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
@@ -12463,6 +12545,11 @@
   "newspacert|swe|l2": {
    "expires": "2026-11-11T01:18:38.274701+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "nexanor|swe|l1": {
+   "expires": "2026-11-09T22:44:27.868201+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "nexer-group|fullstack|l1": {
@@ -13087,8 +13174,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T21:28:48.145676+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-01-25T08:10:20.545784+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13914,6 +14001,11 @@
    "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
+  "pluswealth|fullstack|l1": {
+   "expires": "2026-11-16T02:09:54.116904+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "pnazo|frontend|l1": {
    "expires": "2026-11-07T21:32:10.740022+00:00",
    "looked_up": "2026-10-18T20:01:25+00:00",
@@ -13983,6 +14075,30 @@
    "status": "found",
    "year": 2024
   },
+  "postman-platform|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T09:00:45.408940+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1992436/postman-sde-1-backend-blore-india"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/postman/salaries/software-engineer"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-postman-pay/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "power-drives-enterprises-i-pvt-ltd|swe|l1": {
    "expires": "2026-11-07T15:03:38.956764+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -14022,6 +14138,11 @@
   "prachaygroup|devops|l1": {
    "expires": "2026-11-17T10:59:23.478065+00:00",
    "looked_up": "2026-10-28T09:01:31+00:00",
+   "status": "not_found"
+  },
+  "practicesuite-inc-web-based-medical-billing-and-practice-management-software|data|l1": {
+   "expires": "2026-11-14T10:15:40.115627+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "pracyva-ltd|devops|l1": {
@@ -14171,8 +14292,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T04:57:37.875377+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
+   "expires": "2027-02-05T18:28:13.969744+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14181,6 +14302,11 @@
     }
    ],
    "status": "found"
+  },
+  "providenceindia|security|l1": {
+   "expires": "2026-11-14T14:19:16.991310+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
   },
   "prudent-technologies-and-consulting-inc|swe|l1": {
    "expires": "2026-11-07T09:22:42.895163+00:00",
@@ -15433,6 +15559,11 @@
    "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
+  "s-j-c-nexus|swe|l1": {
+   "expires": "2026-11-15T08:51:53.135601+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "s5-stratos|data|l1": {
    "expires": "2026-11-06T11:09:11.898204+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -15493,6 +15624,35 @@
    "expires": "2026-11-08T16:01:15.207348+00:00",
    "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
+  },
+  "safe-tprm|swe|l1": {
+   "expires": "2026-11-22T04:05:32.112298+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "safe-tprm|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T17:54:30.156662+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/safe"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Jobs/Safe-Security-Jobs-E1123688.htm"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/safe-security/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "saffiretech|frontend|l1": {
    "basis": "ctc",
@@ -17169,6 +17329,11 @@
   "swedium-global-services-ab|data|l1": {
    "expires": "2026-11-06T11:12:48.736545+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "swiftcruit|fullstack|l1": {
+   "expires": "2026-11-19T01:01:14.605472+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "swiggy-in|swe|l1": {
@@ -19209,6 +19374,11 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
+  "value-spectrum-technologies|data|l1": {
+   "expires": "2026-11-15T07:38:29.182661+00:00",
+   "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
   "valuelabs|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20672,8 +20842,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 132,
-  "lookups_today": 96,
+  "lookups_month": 154,
+  "lookups_today": 118,
   "month": "2026-11"
  }
 }
