@@ -1024,8 +1024,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:55:29.406905+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-01-27T03:56:13.705558+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1038,8 +1038,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:04:36.042460+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-02-04T06:03:34.680187+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4820,8 +4820,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:31:05.191820+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-01-25T02:51:45.674291+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4834,6 +4834,11 @@
   "cyberintelsys|security|l1": {
    "expires": "2026-11-16T21:29:50.115299+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
+   "status": "not_found"
+  },
+  "cybersoton|devops|l1": {
+   "expires": "2026-11-10T11:42:48.896714+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "cybrain-software-solutions|frontend|l1": {
@@ -7048,6 +7053,11 @@
    "looked_up": "2026-10-22T17:01:27+00:00",
    "status": "not_found"
   },
+  "gcrs-group|swe|l1": {
+   "expires": "2026-11-11T04:17:39.576615+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "geappliancesco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7211,6 +7221,11 @@
   "ggst-innovations-private-limited|security|l1": {
    "expires": "2026-11-09T03:32:00.650045+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
+   "status": "not_found"
+  },
+  "giant-eagle-gcc|swe|l1": {
+   "expires": "2026-11-20T19:18:51.242566+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "gistimpact|swe|l1": {
@@ -7404,6 +7419,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "gohire.io|swe|l1": {
+   "expires": "2026-11-21T11:51:31.759637+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
   },
   "goldman-sachs|swe|l1": {
    "basis": "ctc",
@@ -7652,6 +7672,11 @@
    ],
    "status": "found"
   },
+  "grapesworldwide|fullstack|l1": {
+   "expires": "2026-11-22T15:15:38.732546+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "greathrsolutions|erp|l1": {
    "expires": "2026-11-20T04:33:24.541251+00:00",
    "looked_up": "2026-10-31T05:01:27+00:00",
@@ -7782,6 +7807,11 @@
   "guidewire-software|frontend|l2": {
    "expires": "2026-11-13T04:19:24.975201+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
+  "guidewire-software|swe|l1": {
+   "expires": "2026-11-11T04:53:26.398749+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "guidewire-software|swe|l2": {
@@ -8215,11 +8245,6 @@
   "hinduja-global-solutions-inc--|swe|l1": {
    "expires": "2026-11-09T05:25:57.418676+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "hire-hangar|swe|l1": {
-   "expires": "2026-11-02T11:13:02.861963+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
    "status": "not_found"
   },
   "hirealpha|swe|l1": {
@@ -9359,6 +9384,11 @@
    "status": "found",
    "year": 2026
   },
+  "innovaesi|devops|l1": {
+   "expires": "2026-11-15T14:23:53.222002+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "innovaesi|erp|l1": {
    "expires": "2026-11-15T18:33:47.889493+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -9709,6 +9739,11 @@
    "status": "found",
    "year": 2026
   },
+  "itvedant|frontend|l1": {
+   "expires": "2026-11-13T22:38:54.906711+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "ivalua|swe|l1": {
    "expires": "2026-11-06T14:10:06.330239+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -9867,8 +9902,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T23:01:41.604016+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-01-29T13:41:40.849824+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10500,6 +10535,11 @@
    ],
    "status": "found"
   },
+  "kumaran-systems|data|l1": {
+   "expires": "2026-11-23T09:15:07.917208+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "kumaran-systems|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -10539,8 +10579,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T16:51:48.638286+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-02-02T13:10:57.522199+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -11075,6 +11115,11 @@
     }
    ],
    "status": "found"
+  },
+  "madaan-exports|data|l1": {
+   "expires": "2026-11-18T20:48:14.225562+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
   },
   "madison-logic|devops|l1": {
    "expires": "2026-11-17T23:50:16.330301+00:00",
@@ -11936,6 +11981,11 @@
   "monty-mobile|swe|l1": {
    "expires": "2026-11-04T15:29:13.804074+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
+   "status": "not_found"
+  },
+  "moodys-corporation|swe|l1": {
+   "expires": "2026-11-15T14:08:37.462025+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "moonstack-co-in|frontend|l1": {
@@ -13037,8 +13087,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T00:34:53.301002+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-01-25T21:28:48.145676+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13320,6 +13370,11 @@
   "oxmiq-labs|swe|l1": {
    "expires": "2026-11-09T17:44:44.775754+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
+   "status": "not_found"
+  },
+  "oxybills|swe|l1": {
+   "expires": "2026-11-21T06:23:46.872728+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "paccar|swe|l1": {
@@ -14116,8 +14171,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:41:15.186018+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
+   "expires": "2027-01-25T04:57:37.875377+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -16942,6 +16997,11 @@
    "looked_up": "2026-10-25T08:01:27+00:00",
    "status": "not_found"
   },
+  "state-street|data|l1": {
+   "expires": "2026-11-13T02:10:42.184846+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "statusneo|frontend|l1": {
    "expires": "2026-11-05T20:28:10.057536+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
@@ -18570,6 +18630,11 @@
    "looked_up": "2026-10-22T18:01:28+00:00",
    "status": "not_found"
   },
+  "trigent-professional-services|erp|l1": {
+   "expires": "2026-11-20T17:17:29.575383+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "trigent-professional-services|security|l1": {
    "expires": "2026-11-13T21:18:18.006276+00:00",
    "looked_up": "2026-10-26T13:14:58+00:00",
@@ -18629,6 +18694,11 @@
   "trucktec|swe|l1": {
    "expires": "2026-11-16T03:11:37.816120+00:00",
    "looked_up": "2026-10-26T16:01:28+00:00",
+   "status": "not_found"
+  },
+  "truetechpro|fullstack|l1": {
+   "expires": "2026-11-09T12:47:11.407918+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "trustinoptimal|devops|l1": {
@@ -19154,6 +19224,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "vanguard-india|swe|l2": {
+   "expires": "2026-11-21T08:31:11.671312+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
   },
   "vanguard-india|swe|l3": {
    "expires": "2026-11-16T08:16:11.154871+00:00",
@@ -20092,6 +20167,11 @@
    "status": "found",
    "year": 2026
   },
+  "xcubesoftwares|swe|l1": {
+   "expires": "2026-11-20T07:57:27.226744+00:00",
+   "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
   "xencia-technology-solutions|swe|l1": {
    "expires": "2026-11-08T20:59:22.001625+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
@@ -20592,8 +20672,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 115,
-  "lookups_today": 79,
+  "lookups_month": 132,
+  "lookups_today": 96,
   "month": "2026-11"
  }
 }
