@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:21:28.419738+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-02-07T13:37:22.064540+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T16:28:20.615161+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-01-29T23:29:28.676349+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2040,11 +2040,6 @@
   "avaloq|frontend|l1": {
    "expires": "2026-11-12T05:01:18.959150+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "avaloq|swe|l1": {
-   "expires": "2026-11-02T15:49:51.817109+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
   "avathonai|mobile|l1": {
@@ -4836,8 +4831,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T17:04:22.154616+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-01-27T04:05:51.090105+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5370,11 +5365,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "digitrell|erp|l1": {
-   "expires": "2026-11-02T15:36:11.636941+00:00",
-   "looked_up": "2026-10-13T19:01:28+00:00",
-   "status": "not_found"
   },
   "discoverintl|erp|l1": {
    "expires": "2026-11-06T07:10:13.587945+00:00",
@@ -6387,8 +6377,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T17:55:29.251540+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-01-28T04:52:20.182454+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9844,11 +9834,6 @@
    ],
    "status": "found"
   },
-  "jark-world|swe|l1": {
-   "expires": "2026-11-02T15:17:54.851718+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
   "jenvyqo|data|l1": {
    "expires": "2026-11-10T04:13:36.194660+00:00",
    "looked_up": "2026-10-29T14:01:33+00:00",
@@ -9948,8 +9933,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T18:36:42.800414+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-01-29T00:01:13.292271+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10630,8 +10615,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:23:20.458576+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-02-03T03:25:16.914610+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -12643,11 +12628,6 @@
    "status": "found",
    "year": 2026
   },
-  "nikah-forever|swe|l2": {
-   "expires": "2026-11-02T15:17:27.796323+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "nike|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13033,11 +13013,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "oceanfriends|swe|l1": {
-   "expires": "2026-11-02T15:27:11.784074+00:00",
-   "looked_up": "2026-10-19T06:01:25+00:00",
-   "status": "not_found"
-  },
   "octaveintelligence|swe|l1": {
    "expires": "2026-11-07T17:07:03.138088+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -13165,8 +13140,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:43:42.460437+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-01-30T09:59:16.274099+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14283,8 +14258,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T10:30:26.307133+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
+   "expires": "2027-02-06T14:22:04.734204+00:00",
+   "looked_up": "2026-11-02T15:51:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18688,11 +18663,6 @@
    "looked_up": "2026-10-24T20:01:27+00:00",
    "status": "not_found"
   },
-  "traker-live|swe|l1": {
-   "expires": "2026-11-02T15:33:06.365791+00:00",
-   "looked_up": "2026-10-14T20:01:23+00:00",
-   "status": "not_found"
-  },
   "tranetechnologies|security|l1": {
    "expires": "2026-11-06T01:07:02.996255+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -19708,11 +19678,6 @@
   "vmc-soft-technologies-inc|swe|l1": {
    "expires": "2026-11-05T20:00:36.914604+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
-  "voiceindia-ai|fullstack|l1": {
-   "expires": "2026-11-02T15:18:34.120233+00:00",
-   "looked_up": "2026-10-18T10:01:24+00:00",
    "status": "not_found"
   },
   "vois|devops|l1": {
