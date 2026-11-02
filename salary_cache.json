@@ -5356,16 +5356,11 @@
    "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
-  "dish-network-technologies|swe|l1": {
-   "expires": "2026-11-02T01:19:54.869070+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T02:07:17.401846+00:00",
-   "looked_up": "2026-11-02T01:01:29+00:00",
+   "expires": "2027-01-27T07:25:28.457111+00:00",
+   "looked_up": "2026-11-02T02:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6526,8 +6521,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T20:03:40.026729+00:00",
-   "looked_up": "2026-11-02T01:01:29+00:00",
+   "expires": "2027-02-03T06:22:59.945282+00:00",
+   "looked_up": "2026-11-02T02:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6992,11 +6987,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "gacsol|erp|l1": {
-   "expires": "2026-11-02T01:03:07.682607+00:00",
-   "looked_up": "2026-10-22T17:01:27+00:00",
-   "status": "not_found"
   },
   "galaxeye|swe|l1": {
    "expires": "2026-11-02T15:59:20.484863+00:00",
