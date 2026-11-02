@@ -1627,11 +1627,6 @@
    "looked_up": "2026-10-29T13:01:31+00:00",
    "status": "not_found"
   },
-  "arcticwolf|swe|l2": {
-   "expires": "2026-11-02T02:13:10.836654+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
   "arcticwolf|swe|l3": {
    "expires": "2026-11-12T16:15:19.545732+00:00",
    "looked_up": "2026-10-24T13:01:30+00:00",
@@ -4587,11 +4582,6 @@
    "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
-  "crossinghurdles|devops|l1": {
-   "expires": "2026-11-02T02:51:25.705053+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "crossinghurdles|fullstack|l1": {
    "expires": "2026-11-07T00:57:14.623678+00:00",
    "looked_up": "2026-10-25T11:01:34+00:00",
@@ -4820,6 +4810,11 @@
   "cybrain-software-solutions|frontend|l1": {
    "expires": "2026-11-03T11:56:05.821980+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "cybrogix|fullstack|l1": {
+   "expires": "2026-11-21T09:42:55.518064+00:00",
+   "looked_up": "2026-11-02T03:01:30+00:00",
    "status": "not_found"
   },
   "cygnus-professionals-inc-|devops|l1": {
@@ -5359,8 +5354,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T07:25:28.457111+00:00",
-   "looked_up": "2026-11-02T02:01:24+00:00",
+   "expires": "2027-02-05T12:48:08.316526+00:00",
+   "looked_up": "2026-11-02T03:01:30+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6521,8 +6516,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:22:59.945282+00:00",
-   "looked_up": "2026-11-02T02:01:24+00:00",
+   "expires": "2027-01-31T11:39:53.566200+00:00",
+   "looked_up": "2026-11-02T03:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9810,6 +9805,11 @@
    "looked_up": "2026-10-16T01:01:29+00:00",
    "status": "not_found"
   },
+  "jobgether|mobile|l1": {
+   "expires": "2026-11-16T04:06:56.922281+00:00",
+   "looked_up": "2026-11-02T03:01:30+00:00",
+   "status": "not_found"
+  },
   "jobgether|security|l1": {
    "expires": "2026-11-10T11:38:58.935686+00:00",
    "looked_up": "2026-10-22T03:01:25+00:00",
@@ -11502,11 +11502,6 @@
   "medvirtual|swe|l1": {
    "expires": "2026-11-11T22:07:21.145398+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
-   "status": "not_found"
-  },
-  "meenakshi-sundararajan-group-of-institutions|swe|l1": {
-   "expires": "2026-11-02T02:38:42.035423+00:00",
-   "looked_up": "2026-10-12T08:01:27+00:00",
    "status": "not_found"
   },
   "meet-archer|data|l2": {
@@ -17851,6 +17846,11 @@
    ],
    "status": "found"
   },
+  "thedecisionlabs|swe|l1": {
+   "expires": "2026-11-15T05:37:37.247572+00:00",
+   "looked_up": "2026-11-02T03:01:30+00:00",
+   "status": "not_found"
+  },
   "thefutureuniversity|fullstack|l1": {
    "expires": "2026-11-02T18:23:30.534311+00:00",
    "looked_up": "2026-10-13T13:01:29+00:00",
@@ -20269,8 +20269,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 37,
-  "lookups_today": 1,
+  "lookups_month": 40,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
