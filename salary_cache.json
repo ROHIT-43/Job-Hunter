@@ -537,6 +537,11 @@
    "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
+  "adyapan-edutech-pvt-ltd|swe|l1": {
+   "expires": "2026-11-11T10:44:33.754544+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
+   "status": "not_found"
+  },
   "adyogi|fullstack|l1": {
    "expires": "2026-11-12T05:02:41.492693+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -1024,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:49:51.815608+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-27T10:48:55.328994+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1038,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T10:23:48.914962+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-26T09:03:31.232387+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2466,11 +2471,6 @@
   "bhanzu|fullstack|l1": {
    "expires": "2026-11-04T20:47:19.671537+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "bhanzu|swe|l3": {
-   "expires": "2026-11-02T17:41:35.867665+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "bikglobal|swe|l1": {
@@ -4846,8 +4846,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T09:13:29.704082+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-25T04:26:17.536610+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6392,8 +6392,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T11:04:28.319553+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-02-05T02:47:31.121562+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9489,6 +9489,11 @@
    "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
+  "integrate-point|swe|l1": {
+   "expires": "2026-11-12T03:17:17.597888+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
+   "status": "not_found"
+  },
   "intel-corporation|swe|l1": {
    "expires": "2026-11-06T10:35:18.260728+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -9948,8 +9953,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T03:58:04.909565+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-02-07T01:48:05.351403+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10630,8 +10635,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:14:33.417367+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-29T17:52:44.988777+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13170,8 +13175,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:15:50.955470+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-02-06T08:16:56.468618+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14141,11 +14146,6 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
-  "pracyva-ltd|devops|l1": {
-   "expires": "2026-11-02T17:51:55.272896+00:00",
-   "looked_up": "2026-10-13T04:01:36+00:00",
-   "status": "not_found"
-  },
   "praella|fullstack|l1": {
    "expires": "2026-11-06T11:25:00.559438+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
@@ -14278,8 +14278,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T12:35:56.099601+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-02-04T11:44:25.097751+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15441,6 +15441,11 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
+  "rohde-schwarz|swe|l1": {
+   "expires": "2026-11-11T13:53:46.895033+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
+   "status": "not_found"
+  },
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16076,11 +16081,6 @@
   "searchjob-ai|swe|l1": {
    "expires": "2026-11-07T01:11:57.400774+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "seceon|swe|l1": {
-   "expires": "2026-11-02T17:19:03.265372+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
    "status": "not_found"
   },
   "seclodian|fullstack|l1": {
@@ -17629,11 +17629,6 @@
    "looked_up": "2026-10-20T06:00:29+00:00",
    "status": "not_found"
   },
-  "tantranzm|fullstack|l1": {
-   "expires": "2026-11-02T17:08:03.652825+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
-   "status": "not_found"
-  },
   "tapi-prestressed-products-ltd---india|swe|l1": {
    "expires": "2026-11-13T15:53:17.302234+00:00",
    "looked_up": "2026-10-28T04:01:24+00:00",
@@ -18402,8 +18397,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T11:43:20.925822+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-30T03:58:56.721728+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18416,8 +18411,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T20:02:37.194979+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
+   "expires": "2027-01-25T18:13:09.457647+00:00",
+   "looked_up": "2026-11-02T18:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19117,11 +19112,6 @@
   "unicornisai|swe|l2": {
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
-   "status": "not_found"
-  },
-  "unistar-innovative-engineers-and-services|swe|l1": {
-   "expires": "2026-11-02T17:11:32.933995+00:00",
-   "looked_up": "2026-10-16T04:01:28+00:00",
    "status": "not_found"
   },
   "united-airlines-india-knowledge-center|swe|l1": {
@@ -20906,8 +20896,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 182,
-  "lookups_today": 146,
+  "lookups_month": 185,
+  "lookups_today": 149,
   "month": "2026-11"
  }
 }
