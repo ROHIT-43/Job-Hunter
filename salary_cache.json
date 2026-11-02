@@ -5364,8 +5364,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T17:21:27.228078+00:00",
-   "looked_up": "2026-11-02T00:01:26+00:00",
+   "expires": "2027-02-05T02:07:17.401846+00:00",
+   "looked_up": "2026-11-02T01:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6526,8 +6526,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:16:40.339435+00:00",
-   "looked_up": "2026-11-02T00:01:26+00:00",
+   "expires": "2027-02-05T20:03:40.026729+00:00",
+   "looked_up": "2026-11-02T01:01:29+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -15517,6 +15517,11 @@
    "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
+  "schwab-india|devops|l1": {
+   "expires": "2026-11-16T08:05:38.664610+00:00",
+   "looked_up": "2026-11-02T01:01:29+00:00",
+   "status": "not_found"
+  },
   "schwab-india|swe|l1": {
    "expires": "2026-11-05T17:11:15.778113+00:00",
    "looked_up": "2026-10-22T06:01:29+00:00",
@@ -19460,11 +19465,6 @@
    "status": "found",
    "year": 2025
   },
-  "weaverminds|fullstack|l1": {
-   "expires": "2026-11-02T00:11:46.372084+00:00",
-   "looked_up": "2026-10-15T03:01:34+00:00",
-   "status": "not_found"
-  },
   "webchefz-infotech-pvt-ltd|swe|l1": {
    "expires": "2026-11-07T22:45:35.043860+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -20279,8 +20279,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 36,
-  "lookups_today": 0,
+  "lookups_month": 37,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
