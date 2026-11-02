@@ -7820,11 +7820,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "hari-om-thalassic-private-limited|fullstack|l1": {
-   "expires": "2026-11-02T06:13:03.473230+00:00",
-   "looked_up": "2026-10-17T04:01:27+00:00",
-   "status": "not_found"
-  },
   "harjaicomputers|devops|l1": {
    "expires": "2026-11-07T00:22:24.343822+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
@@ -10681,11 +10676,6 @@
    "looked_up": "2026-10-21T08:01:34+00:00",
    "status": "not_found"
   },
-  "liquidity-services-inc|swe|l1": {
-   "expires": "2026-11-02T06:23:42.905084+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
-   "status": "not_found"
-  },
   "little-feet-baby-care-tracker|fullstack|l1": {
    "expires": "2026-11-08T05:19:56.710809+00:00",
    "looked_up": "2026-10-21T21:01:29+00:00",
@@ -12890,8 +12880,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T11:06:48.683320+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
+   "expires": "2027-01-30T02:15:52.028960+00:00",
+   "looked_up": "2026-11-02T06:39:17+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -15373,11 +15363,6 @@
   "samintekmindz|frontend|l1": {
    "expires": "2026-11-04T00:04:50.870273+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "samosys-technologies|swe|l1": {
-   "expires": "2026-11-02T06:31:28.696269+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "sandisk|swe|l2": {
