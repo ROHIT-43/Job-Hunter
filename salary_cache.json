@@ -1024,8 +1024,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T16:54:26.163139+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-03T06:55:51.235486+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1038,8 +1038,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T06:16:46.767839+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-01-28T13:54:40.256397+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1294,11 +1294,6 @@
    "status": "found",
    "year": 2026
   },
-  "amgen|fullstack|l1": {
-   "expires": "2026-11-02T21:55:11.783167+00:00",
-   "looked_up": "2026-10-14T00:01:31+00:00",
-   "status": "not_found"
-  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1532,11 +1527,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "apprely-technologies|frontend|l1": {
-   "expires": "2026-11-02T21:46:07.660502+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
   },
   "appsavio|erp|l1": {
    "expires": "2026-11-09T08:02:01.215869+00:00",
@@ -2860,11 +2850,6 @@
   "bougaintech-bgt-3840aa306|swe|l1": {
    "expires": "2026-11-12T00:10:23.488189+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "bp|swe|l1": {
-   "expires": "2026-11-02T21:14:43.361238+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
    "status": "not_found"
   },
   "bqp-sim|swe|l1": {
@@ -4603,11 +4588,6 @@
    "looked_up": "2026-10-18T17:01:21+00:00",
    "status": "not_found"
   },
-  "crewliajobs|fullstack|l1": {
-   "expires": "2026-11-02T21:23:09.985177+00:00",
-   "looked_up": "2026-10-13T07:01:27+00:00",
-   "status": "not_found"
-  },
   "cricheroes|mobile|l1": {
    "expires": "2026-11-09T05:24:40.908477+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -4841,8 +4821,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T10:44:03.999104+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-01-29T04:12:56.104453+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6402,8 +6382,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:20:47.149982+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-02T13:07:08.289820+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9979,8 +9959,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T22:19:39.531411+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-01T05:28:34.679540+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10666,8 +10646,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:58:43.080973+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-01-29T02:20:11.193543+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -12136,11 +12116,6 @@
    "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
-  "mouser-electronics|swe|l1": {
-   "expires": "2026-11-02T21:38:46.359206+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "mouser-electronics|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -13196,8 +13171,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:44:01.717690+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-04T18:10:10.501992+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14294,8 +14269,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:32:37.949293+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-04T12:47:30.179285+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14713,11 +14688,6 @@
   "quantanite|swe|l1": {
    "expires": "2026-11-06T10:41:54.652974+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
-   "status": "not_found"
-  },
-  "quantiphi|devops|l1": {
-   "expires": "2026-11-02T21:45:27.642431+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
   "quantiphi|erp|l1": {
@@ -18408,8 +18378,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T05:43:59.304819+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-01-26T00:02:13.539491+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18422,8 +18392,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:27:39.300567+00:00",
-   "looked_up": "2026-11-02T21:01:31+00:00",
+   "expires": "2027-02-06T23:24:58.850062+00:00",
+   "looked_up": "2026-11-02T22:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
