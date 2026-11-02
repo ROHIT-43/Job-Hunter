@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:37:22.064540+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-01-25T09:09:31.546350+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T23:29:28.676349+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-02-05T12:20:13.701361+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1880,6 +1880,11 @@
    "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
+  "atlas-copco|security|l1": {
+   "expires": "2026-11-15T09:10:11.567249+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
+   "status": "not_found"
+  },
   "atlassian|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -2402,6 +2407,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "basf|devops|l1": {
+   "expires": "2026-11-13T02:32:01.023994+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
+   "status": "not_found"
   },
   "bayer|security|l1": {
    "expires": "2026-11-11T22:14:00.020485+00:00",
@@ -4831,8 +4841,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:05:51.090105+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-02-05T14:39:51.114278+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6377,8 +6387,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T04:52:20.182454+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-02-02T23:51:38.646658+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6915,6 +6925,11 @@
    "looked_up": "2026-11-01T17:01:31+00:00",
    "status": "not_found"
   },
+  "force-intellect-pvt-ltd-|frontend|l1": {
+   "expires": "2026-11-17T18:26:47.097102+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
+   "status": "not_found"
+  },
   "ford-motor-company|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7046,11 +7061,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "galaxeye|swe|l1": {
-   "expires": "2026-11-02T15:59:20.484863+00:00",
-   "looked_up": "2026-10-21T04:01:37+00:00",
-   "status": "not_found"
   },
   "gartner|frontend|l1": {
    "basis": "ctc",
@@ -9933,8 +9943,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T00:01:13.292271+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-02-07T02:01:16.525776+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10615,8 +10625,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T03:25:16.914610+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-02-04T11:25:01.779067+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -10862,6 +10872,11 @@
   "linkedin|fullstack|l1": {
    "expires": "2026-11-09T13:38:47.208131+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "linkton|fullstack|l1": {
+   "expires": "2026-11-14T14:29:40.558025+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "little-feet-baby-care-tracker|fullstack|l1": {
@@ -13140,8 +13155,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:59:16.274099+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-01-24T22:21:03.330415+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14194,11 +14209,6 @@
    "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
-  "prodigy-technovations|swe|l1": {
-   "expires": "2026-11-02T15:51:27.216354+00:00",
-   "looked_up": "2026-10-20T06:00:29+00:00",
-   "status": "not_found"
-  },
   "profoundme|fullstack|l3": {
    "expires": "2026-11-14T08:10:15.616290+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
@@ -14258,8 +14268,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:22:04.734204+00:00",
-   "looked_up": "2026-11-02T15:51:25+00:00",
+   "expires": "2027-01-30T06:32:49.866596+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14889,6 +14899,11 @@
   "quixta|swe|l1": {
    "expires": "2026-11-19T00:37:00.899182+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "qvantel|swe|l1": {
+   "expires": "2026-11-16T05:56:20.623168+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "r-systems|data|l1": {
@@ -16128,6 +16143,30 @@
    "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
+  "servicenow|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-05T12:09:50.805255+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2482759/ServiceNow-or-Associate-Software-Engineer-SDE-1-IC1-or-Hyderabad-India-or-August-2022-Offer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2072698/servicenow-sde-1-hyderabad"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/servicenow/salaries/software-engineer/locations/greater-hyderabad-area"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "servqual|fullstack|l1": {
    "expires": "2026-11-03T20:02:33.128124+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
@@ -17136,6 +17175,11 @@
   "statusneo|frontend|l1": {
    "expires": "2026-11-05T20:28:10.057536+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
+  "stealth-startup-aai|security|l1": {
+   "expires": "2026-11-12T16:55:45.467931+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "stealth-startup-community|fullstack|l1": {
@@ -18309,8 +18353,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:57:57.685412+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
+   "expires": "2027-02-06T02:38:10.812244+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18323,8 +18367,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:26:56.254499+00:00",
-   "looked_up": "2026-10-31T22:01:31+00:00",
+   "expires": "2027-02-01T17:01:00.139141+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19154,6 +19198,11 @@
   "urbanmistriistudio|swe|l1": {
    "expires": "2026-11-08T11:04:50.924640+00:00",
    "looked_up": "2026-10-24T11:00:03+00:00",
+   "status": "not_found"
+  },
+  "us-tech-solutions|erp|l1": {
+   "expires": "2026-11-22T06:12:09.972503+00:00",
+   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "usdcllc|swe|l1": {
@@ -20693,11 +20742,6 @@
    "status": "found",
    "year": 2026
   },
-  "zenvior|fullstack|l1": {
-   "expires": "2026-11-02T15:54:37.786615+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
-   "status": "not_found"
-  },
   "zetasuite|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -20808,8 +20852,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 164,
-  "lookups_today": 128,
+  "lookups_month": 172,
+  "lookups_today": 136,
   "month": "2026-11"
  }
 }
