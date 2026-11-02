@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T00:21:45.846275+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-02-06T02:21:28.419738+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T02:19:07.178529+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-02-01T16:28:20.615161+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1904,11 +1904,6 @@
    "status": "found",
    "year": 2026
   },
-  "atomicads|swe|l1": {
-   "expires": "2026-11-02T14:26:03.572160+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
   "atomicworkhq|security|l1": {
    "expires": "2026-11-09T11:32:36.465212+00:00",
    "looked_up": "2026-10-28T18:01:29+00:00",
@@ -2416,11 +2411,6 @@
   "bayer|security|l1": {
    "expires": "2026-11-11T22:14:00.020485+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
-  "bayone-solutions|swe|l1": {
-   "expires": "2026-11-02T14:50:24.960893+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "bceglobaltech|erp|l1": {
@@ -4846,8 +4836,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:18:43.080429+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-01-30T17:04:22.154616+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -4983,11 +4973,6 @@
   "datae2e|devops|l1": {
    "expires": "2026-11-04T13:17:30.780895+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
-  "datapoint-info-solutions-p-ltd|swe|l1": {
-   "expires": "2026-11-02T14:49:54.819275+00:00",
-   "looked_up": "2026-10-21T05:01:26+00:00",
    "status": "not_found"
   },
   "datavail|erp|l1": {
@@ -6402,8 +6387,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T23:35:34.068571+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-01-30T17:55:29.251540+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9963,8 +9948,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T20:20:02.055850+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-02-01T18:36:42.800414+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10421,6 +10406,11 @@
    "looked_up": "2026-10-31T15:01:37+00:00",
    "status": "not_found"
   },
+  "kochinc|erp|l1": {
+   "expires": "2026-11-11T12:07:27.330485+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
+   "status": "not_found"
+  },
   "koderxpert|mobile|l1": {
    "expires": "2026-11-09T11:04:49.345466+00:00",
    "looked_up": "2026-10-19T20:01:28+00:00",
@@ -10640,8 +10630,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:36:19.611369+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-02-04T21:23:20.458576+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -11681,11 +11671,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "medlineinc|swe|l1": {
-   "expires": "2026-11-02T14:31:30.637649+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
   },
   "medpace|data|l1": {
    "basis": "ctc",
@@ -13180,8 +13165,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T18:57:45.891315+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-01-30T09:43:42.460437+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14298,8 +14283,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T18:29:16.372641+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2027-01-25T10:30:26.307133+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20789,6 +20774,11 @@
    "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
+  "zillow|swe|l1": {
+   "expires": "2026-11-16T07:14:38.038817+00:00",
+   "looked_up": "2026-11-02T15:01:34+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|frontend|l1": {
    "expires": "2026-11-09T02:16:44.920029+00:00",
    "looked_up": "2026-10-28T15:01:35+00:00",
@@ -20853,8 +20843,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 162,
-  "lookups_today": 126,
+  "lookups_month": 164,
+  "lookups_today": 128,
   "month": "2026-11"
  }
 }
