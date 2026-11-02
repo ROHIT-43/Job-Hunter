@@ -348,11 +348,6 @@
    "looked_up": "2026-10-30T08:01:29+00:00",
    "status": "not_found"
   },
-  "accurisco|swe|l1": {
-   "expires": "2026-11-02T08:59:58.805394+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
-   "status": "not_found"
-  },
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1019,8 +1014,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T16:51:40.067084+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
+   "expires": "2027-02-01T08:52:00.312191+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1033,8 +1028,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T23:39:30.423271+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
+   "expires": "2027-01-27T03:47:09.227975+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3316,6 +3311,21 @@
    "looked_up": "2026-10-21T03:02:05+00:00",
    "status": "not_found"
   },
+  "careerxperts-consulting|frontend|l1": {
+   "expires": "2026-11-17T11:28:27.389909+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
+  "careerxperts-consulting|fullstack|l1": {
+   "expires": "2026-11-21T22:29:26.186181+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
+  "careerxperts-consulting|swe|l1": {
+   "expires": "2026-11-23T08:42:20.103309+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
   "carelon-global-solutions-in|data|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -3983,6 +3993,11 @@
   "codagram-edtech|swe|l1": {
    "expires": "2026-11-06T21:47:04.087903+00:00",
    "looked_up": "2026-10-23T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "codemancers|devops|l1": {
+   "expires": "2026-11-15T15:51:28.752837+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
   "coderkubetechnologies|mobile|l1": {
@@ -4785,8 +4800,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T17:39:47.793560+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
+   "expires": "2027-02-06T05:03:37.741547+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5085,11 +5100,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "deloitte|mobile|l1": {
-   "expires": "2026-11-02T08:36:04.387389+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
   },
   "deloitte|swe|l1": {
    "basis": "base",
@@ -7360,11 +7370,6 @@
    "status": "found",
    "year": 2026
   },
-  "gokwik|swe|l2": {
-   "expires": "2026-11-02T08:45:49.466042+00:00",
-   "looked_up": "2026-10-13T13:01:29+00:00",
-   "status": "not_found"
-  },
   "goldman-sachs|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9229,6 +9234,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "infratech-insights|swe|l1": {
+   "expires": "2026-11-10T21:56:57.992892+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
   "infyshine-inc|erp|l1": {
    "expires": "2026-11-05T17:55:03.291661+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -9308,6 +9318,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "innovaesi|erp|l1": {
+   "expires": "2026-11-15T18:33:47.889493+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
   },
   "innovaesi|frontend|l1": {
    "expires": "2026-11-02T16:03:00.199720+00:00",
@@ -9802,8 +9817,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T01:16:42.725929+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
+   "expires": "2027-01-31T12:02:50.194454+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10455,6 +10470,20 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "kuvaka|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-25T06:41:14.241082+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "labcorp|swe|l1": {
    "expires": "2026-11-12T18:17:07.992655+00:00",
@@ -12679,11 +12708,6 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
-  "ntt-data-inc|devops|l1": {
-   "expires": "2026-11-02T09:00:57.994539+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
-  },
   "ntt-data-inc|security|l1": {
    "expires": "2026-11-04T23:18:44.266453+00:00",
    "looked_up": "2026-10-18T12:01:26+00:00",
@@ -12933,8 +12957,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T08:09:57.856901+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
+   "expires": "2027-01-26T23:33:26.559940+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13946,11 +13970,6 @@
   "profoundme|fullstack|l3": {
    "expires": "2026-11-14T08:10:15.616290+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
-   "status": "not_found"
-  },
-  "profoundme|swe|l3": {
-   "expires": "2026-11-02T08:12:08.306744+00:00",
-   "looked_up": "2026-10-24T13:01:30+00:00",
    "status": "not_found"
   },
   "programmers-io|swe|l1": {
@@ -15798,6 +15817,11 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "servcrust|swe|l1": {
+   "expires": "2026-11-09T13:57:59.866553+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
   "servqual|fullstack|l1": {
    "expires": "2026-11-03T20:02:33.128124+00:00",
    "looked_up": "2026-10-17T14:01:30+00:00",
@@ -16501,6 +16525,11 @@
    "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
+  "solvex-solutions|swe|l1": {
+   "expires": "2026-11-22T20:57:29.200475+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
   "sonata-software|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -17086,6 +17115,11 @@
    "status": "found",
    "year": 2026
   },
+  "systemsofttech|swe|l1": {
+   "expires": "2026-11-10T12:35:43.781952+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
   "t-h-electrical-controls|swe|l1": {
    "expires": "2026-11-02T18:58:15.279259+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -17620,11 +17654,6 @@
   "tek-grove|fullstack|l2": {
    "expires": "2026-11-03T13:57:58.269792+00:00",
    "looked_up": "2026-10-19T17:01:35+00:00",
-   "status": "not_found"
-  },
-  "tek-grove|swe|l2": {
-   "expires": "2026-11-02T08:04:13.107073+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
    "status": "not_found"
   },
   "tekgence-inc|devops|l1": {
@@ -18963,6 +18992,11 @@
   "varmas-trust|fullstack|l1": {
    "expires": "2026-11-16T13:41:30.310020+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "vastika-inc|swe|l1": {
+   "expires": "2026-11-20T21:05:48.312931+00:00",
+   "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
   "vasudhare-sales-force|frontend|l1": {
@@ -20369,11 +20403,6 @@
    "status": "found",
    "year": 2026
   },
-  "zynder-tech|erp|l1": {
-   "expires": "2026-11-02T08:13:41.348130+00:00",
-   "looked_up": "2026-10-23T11:01:26+00:00",
-   "status": "not_found"
-  },
   "وظائف-المملكة-السعودية|frontend|l1": {
    "expires": "2026-11-11T18:07:19.324073+00:00",
    "looked_up": "2026-10-24T07:01:21+00:00",
@@ -20382,8 +20411,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 74,
-  "lookups_today": 38,
+  "lookups_month": 84,
+  "lookups_today": 48,
   "month": "2026-11"
  }
 }
