@@ -852,6 +852,11 @@
    "looked_up": "2026-10-27T10:01:29+00:00",
    "status": "not_found"
   },
+  "algoforge-aerospace|swe|l1": {
+   "expires": "2026-11-22T15:08:13.381912+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
+   "status": "not_found"
+  },
   "algoleap|data|l1": {
    "expires": "2026-11-04T17:51:58.231104+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -1024,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:55:51.235486+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-31T05:57:24.600939+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1038,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T13:54:40.256397+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-26T06:26:09.039885+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4821,8 +4826,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T04:12:56.104453+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-29T11:44:22.339330+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6382,8 +6387,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:07:08.289820+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-02-05T03:58:32.038384+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7242,11 +7247,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ggst-innovations-private-limited|data|l1": {
-   "expires": "2026-11-02T22:45:12.011734+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
   },
   "ggst-innovations-private-limited|security|l1": {
    "expires": "2026-11-09T03:32:00.650045+00:00",
@@ -8892,6 +8892,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "ideaforge|swe|l2": {
+   "expires": "2026-11-20T04:45:23.719404+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
+   "status": "not_found"
+  },
   "ideagen|devops|l1": {
    "expires": "2026-11-15T07:44:19.948098+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
@@ -9959,8 +9964,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T05:28:34.679540+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-29T07:17:53.965152+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10646,8 +10651,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T02:20:11.193543+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-29T18:52:37.842722+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -10862,11 +10867,6 @@
   },
   "linde-india-ltd|fullstack|l1": {
    "expires": "2026-11-07T17:58:36.881171+00:00",
-   "looked_up": "2026-10-18T17:01:21+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|security|l1": {
-   "expires": "2026-11-02T22:58:46.788111+00:00",
    "looked_up": "2026-10-18T17:01:21+00:00",
    "status": "not_found"
   },
@@ -11302,11 +11302,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "manevaconsulting|erp|l1": {
-   "expires": "2026-11-02T22:45:55.534913+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
-   "status": "not_found"
   },
   "manevaconsulting|swe|l1": {
    "expires": "2026-11-05T07:39:46.157121+00:00",
@@ -13171,8 +13166,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:10:10.501992+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-31T14:12:28.628124+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14269,8 +14264,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T12:47:30.179285+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-28T09:11:05.887273+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15219,6 +15214,11 @@
    "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
+  "resideo1|swe|l2": {
+   "expires": "2026-11-20T15:27:56.025102+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
+   "status": "not_found"
+  },
   "responsiveio|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15540,11 +15540,6 @@
     }
    ],
    "status": "found"
-  },
-  "ryewalk|swe|l1": {
-   "expires": "2026-11-02T22:35:49.390512+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
   },
   "s-j-c-nexus|swe|l1": {
    "expires": "2026-11-15T08:51:53.135601+00:00",
@@ -16082,6 +16077,11 @@
   "securegen|swe|l1": {
    "expires": "2026-11-07T23:18:49.081836+00:00",
    "looked_up": "2026-10-22T21:01:31+00:00",
+   "status": "not_found"
+  },
+  "securex360|security|l1": {
+   "expires": "2026-11-14T16:49:12.637701+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
   "seekeragencyai|devops|l1": {
@@ -17631,6 +17631,22 @@
    "status": "found",
    "year": 2026
   },
+  "target|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T16:22:53.546009+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
+   "max_lpa": 13.2,
+   "min_lpa": 10.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/target-salaries/sde-software-development-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "tark-innovation-private-limited|data|l1": {
    "expires": "2026-11-08T18:34:13.978754+00:00",
    "looked_up": "2026-10-31T18:01:24+00:00",
@@ -17650,6 +17666,22 @@
    "expires": "2026-11-15T11:29:14.916601+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
+  },
+  "tata-communication|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-31T19:22:53.305106+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "payscale.com",
+     "uri": "https://www.payscale.com/research/IN/Job=Software_Engineer/Salary/68397edc/Tata-Communications-Ltd-Early-Career"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "tata-consultancy-services|data|l1": {
    "basis": "ctc",
@@ -18378,8 +18410,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T00:02:13.539491+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-02-06T03:28:26.166224+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18392,8 +18424,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:24:58.850062+00:00",
-   "looked_up": "2026-11-02T22:01:30+00:00",
+   "expires": "2027-01-28T16:39:06.785156+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19083,6 +19115,11 @@
   "unicornisai|swe|l2": {
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
+   "status": "not_found"
+  },
+  "unisys|security|l1": {
+   "expires": "2026-11-22T08:16:48.223891+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
   "united-airlines-india-knowledge-center|swe|l1": {
@@ -19859,6 +19896,11 @@
   "waferwire|swe|l1": {
    "expires": "2026-11-04T21:01:14.137473+00:00",
    "looked_up": "2026-10-19T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "wafynet|frontend|l1": {
+   "expires": "2026-11-12T00:20:30.697057+00:00",
+   "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
   "walmartglobaltechindia|fullstack|l3": {
@@ -20862,8 +20904,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 197,
-  "lookups_today": 161,
+  "lookups_month": 205,
+  "lookups_today": 169,
   "month": "2026-11"
  }
 }
