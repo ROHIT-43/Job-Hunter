@@ -265,11 +265,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "accentureindia|devops|l1": {
-   "expires": "2026-11-02T03:45:00.897228+00:00",
-   "looked_up": "2026-10-12T15:01:29+00:00",
-   "status": "not_found"
-  },
   "accentureindia|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3520,11 +3515,6 @@
    "looked_up": "2026-10-22T15:01:34+00:00",
    "status": "not_found"
   },
-  "cbts-technology-covered|security|l1": {
-   "expires": "2026-11-02T03:23:28.955374+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
-   "status": "not_found"
-  },
   "cbts-technology-covered|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3626,11 +3616,6 @@
   "centricasoft|swe|l1": {
    "expires": "2026-11-08T22:17:37.277033+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "ces|swe|l1": {
-   "expires": "2026-11-02T03:58:09.291001+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
   "cgi|data|l1": {
@@ -4111,6 +4096,11 @@
   "cogentixsystems|swe|l1": {
    "expires": "2026-11-07T18:36:31.439791+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
+   "status": "not_found"
+  },
+  "cognidrive-technologies|swe|l1": {
+   "expires": "2026-11-20T21:54:54.854936+00:00",
+   "looked_up": "2026-11-02T04:01:28+00:00",
    "status": "not_found"
   },
   "cognitedata|swe|l1": {
@@ -4682,11 +4672,6 @@
    ],
    "status": "found"
   },
-  "curated-living-solutions|swe|l1": {
-   "expires": "2026-11-02T03:19:30.631578+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "curemeabroad|fullstack|l1": {
    "expires": "2026-11-17T20:59:50.226776+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
@@ -4909,11 +4894,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "data-eminence|devops|l1": {
-   "expires": "2026-11-02T03:42:12.479886+00:00",
-   "looked_up": "2026-10-20T06:00:29+00:00",
-   "status": "not_found"
   },
   "data-eminence|swe|l1": {
    "expires": "2026-11-04T06:18:08.590708+00:00",
@@ -5354,8 +5334,8 @@
   "ditansource|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T12:48:08.316526+00:00",
-   "looked_up": "2026-11-02T03:01:30+00:00",
+   "expires": "2027-01-24T13:01:50.660222+00:00",
+   "looked_up": "2026-11-02T04:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 2.4,
    "sources": [
@@ -6516,8 +6496,8 @@
   "financetimes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T11:39:53.566200+00:00",
-   "looked_up": "2026-11-02T03:01:30+00:00",
+   "expires": "2027-01-31T05:25:23.715497+00:00",
+   "looked_up": "2026-11-02T04:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19699,11 +19679,6 @@
    "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
-  "world-wide-technology|swe|l1": {
-   "expires": "2026-11-02T03:13:08.214073+00:00",
-   "looked_up": "2026-10-16T06:01:25+00:00",
-   "status": "not_found"
-  },
   "worldlineglobal|devops|l1": {
    "expires": "2026-11-07T04:29:45.950315+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
@@ -20269,8 +20244,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 40,
-  "lookups_today": 4,
+  "lookups_month": 41,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
