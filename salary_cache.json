@@ -506,11 +506,6 @@
    ],
    "status": "found"
   },
-  "aditya-birla-group|swe|l1": {
-   "expires": "2026-11-02T16:28:10.953650+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
-   "status": "not_found"
-  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1029,8 +1024,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T09:09:31.546350+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-01-31T19:49:51.815608+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1038,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T12:20:13.701361+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-07T10:23:48.914962+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1661,6 +1656,11 @@
   "arcticwolf|swe|l1": {
    "expires": "2026-11-08T22:04:38.466624+00:00",
    "looked_up": "2026-10-29T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "arcticwolf|swe|l2": {
+   "expires": "2026-11-21T19:03:28.357034+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "arcticwolf|swe|l3": {
@@ -4709,6 +4709,11 @@
    "looked_up": "2026-10-25T11:01:34+00:00",
    "status": "not_found"
   },
+  "cummins-india|swe|l1": {
+   "expires": "2026-11-10T18:35:24.127497+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
+  },
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4841,8 +4846,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T14:39:51.114278+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-01-27T09:13:29.704082+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6387,8 +6392,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T23:51:38.646658+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-01T11:04:28.319553+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7403,6 +7408,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "globalxperts-inc-|devops|l1": {
+   "expires": "2026-11-21T14:01:59.761308+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
   },
   "globant|erp|l1": {
    "expires": "2026-11-10T02:31:58.084228+00:00",
@@ -9440,11 +9450,6 @@
    "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
-  "innovaesi|frontend|l1": {
-   "expires": "2026-11-02T16:03:00.199720+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "innowave360|swe|l1": {
    "expires": "2026-11-10T17:39:43.956881+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
@@ -9943,8 +9948,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T02:01:16.525776+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-01-25T03:58:04.909565+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10625,8 +10630,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:25:01.779067+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-07T03:14:33.417367+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -12187,6 +12192,11 @@
    "looked_up": "2026-10-20T12:01:35+00:00",
    "status": "not_found"
   },
+  "mumzworld-com|devops|l1": {
+   "expires": "2026-11-12T21:50:13.917292+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
+  },
   "mv-procu-gmbh|swe|l1": {
    "expires": "2026-11-05T11:42:39.121121+00:00",
    "looked_up": "2026-10-17T17:01:26+00:00",
@@ -12805,6 +12815,11 @@
    "looked_up": "2026-11-01T08:01:22+00:00",
    "status": "not_found"
   },
+  "ntt-data-americas|data|l1": {
+   "expires": "2026-11-10T17:48:55.599738+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
+  },
   "ntt-data-americas|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -13155,8 +13170,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T22:21:03.330415+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-04T21:15:50.955470+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13433,11 +13448,6 @@
   "outcome-school|swe|l1": {
    "expires": "2026-11-12T03:13:52.232009+00:00",
    "looked_up": "2026-10-24T00:01:32+00:00",
-   "status": "not_found"
-  },
-  "outstafferai|erp|l1": {
-   "expires": "2026-11-02T16:20:13.818702+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
   "oxmiq-labs|swe|l1": {
@@ -14268,8 +14278,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:32:49.866596+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-04T12:35:56.099601+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15837,6 +15847,30 @@
    "status": "found",
    "year": 2020
   },
+  "sap|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-05T00:56:15.112519+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 8.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1101701/sap-labs-india-developer-associate-bangalore/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/843380/sap-labs-india-associate-developer-bangalore"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1260751/sap-lab-india-pvt-ltd-associate-developer-on-campus-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "sarvam-ai|devops|l1": {
    "expires": "2026-11-07T07:59:25.627903+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -16900,6 +16934,11 @@
    "looked_up": "2026-10-21T03:02:05+00:00",
    "status": "not_found"
   },
+  "solarwinds|devops|l1": {
+   "expires": "2026-11-15T23:45:31.613720+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
+  },
   "solera|devops|l1": {
    "expires": "2026-11-03T03:13:41.032597+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -17880,6 +17919,11 @@
    "status": "found",
    "year": 2026
   },
+  "tebd-ii|fullstack|l1": {
+   "expires": "2026-11-16T06:14:28.073657+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
+   "status": "not_found"
+  },
   "tech-mahindra|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -18084,6 +18128,11 @@
   "tekwissenindia|swe|l1": {
    "expires": "2026-11-14T05:08:56.149084+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
+   "status": "not_found"
+  },
+  "telus|swe|l3": {
+   "expires": "2026-11-12T21:01:13.356646+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "teoco|data|l1": {
@@ -18353,8 +18402,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:38:10.812244+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-01-29T11:43:20.925822+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18367,8 +18416,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T17:01:00.139141+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
+   "expires": "2027-02-03T20:02:37.194979+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19418,6 +19467,11 @@
   "vanguard-india|swe|l3": {
    "expires": "2026-11-16T08:16:11.154871+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
+   "status": "not_found"
+  },
+  "vanguard|swe|l2": {
+   "expires": "2026-11-15T19:11:41.561348+00:00",
+   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "varite|swe|l1": {
@@ -20852,8 +20906,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 172,
-  "lookups_today": 136,
+  "lookups_month": 182,
+  "lookups_today": 146,
   "month": "2026-11"
  }
 }
