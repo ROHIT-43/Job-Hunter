@@ -15,6 +15,11 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
+  "3edge-solutions|swe|l3": {
+   "expires": "2026-11-12T09:46:19.939685+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "3m|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1507,11 +1512,6 @@
    "looked_up": "2026-10-30T09:01:38+00:00",
    "status": "not_found"
   },
-  "appscrip|fullstack|l1": {
-   "expires": "2026-11-02T05:20:11.282650+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
   "aptita-talent-experts|swe|l1": {
    "expires": "2026-11-12T05:06:33.615890+00:00",
    "looked_up": "2026-10-29T00:01:33+00:00",
@@ -2815,6 +2815,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "bookmytournow|mobile|l1": {
+   "expires": "2026-11-14T05:34:44.868989+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
   },
   "botanix-labs2linkedin.com|swe|l1": {
    "expires": "2026-11-10T15:57:54.246022+00:00",
@@ -5321,11 +5326,6 @@
    "looked_up": "2026-10-13T19:01:28+00:00",
    "status": "not_found"
   },
-  "digitrix-software-llp|swe|l1": {
-   "expires": "2026-11-02T05:51:54.252201+00:00",
-   "looked_up": "2026-10-14T15:01:34+00:00",
-   "status": "not_found"
-  },
   "discoverintl|erp|l1": {
    "expires": "2026-11-06T07:10:13.587945+00:00",
    "looked_up": "2026-10-22T13:01:28+00:00",
@@ -5472,6 +5472,11 @@
   "dvk-analytics|swe|l1": {
    "expires": "2026-11-09T16:35:20.710260+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "eag-softwares-private-limited|erp|l1": {
+   "expires": "2026-11-17T04:59:46.309224+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "eagleburgmann|erp|l1": {
@@ -6461,11 +6466,6 @@
   "fico|security|l2": {
    "expires": "2026-11-06T19:59:38.098060+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "fidelity-international|data|l1": {
-   "expires": "2026-11-02T05:09:21.968633+00:00",
-   "looked_up": "2026-10-12T20:01:23+00:00",
    "status": "not_found"
   },
   "fidelity-investments|swe|l1": {
@@ -7793,6 +7793,11 @@
   "hakkoda|fullstack|l1": {
    "expires": "2026-11-06T19:51:26.356706+00:00",
    "looked_up": "2026-10-30T18:01:27+00:00",
+   "status": "not_found"
+  },
+  "hakkoda|swe|l1": {
+   "expires": "2026-11-12T13:01:09.963702+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "hamon-techonologies-llp|swe|l1": {
@@ -9153,6 +9158,11 @@
    "status": "found",
    "year": 2026
   },
+  "infotechbrains|swe|l1": {
+   "expires": "2026-11-09T21:32:46.976177+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "infotel|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9203,6 +9213,11 @@
   "infrasingularity|devops|l1": {
    "expires": "2026-11-09T20:30:28.041170+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "infratech-insights|mobile|l1": {
+   "expires": "2026-11-15T11:04:01.689954+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "infyshine-inc|erp|l1": {
@@ -9760,6 +9775,11 @@
    "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
+  "jobadder-middleware-test-company|swe|l1": {
+   "expires": "2026-11-10T22:42:46.047569+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "jobbricksglobal|swe|l1": {
    "expires": "2026-11-04T04:26:50.259102+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -10161,11 +10181,6 @@
   "kiongroup|erp|l1": {
    "expires": "2026-11-18T01:33:42.873506+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "kiongroup|security|l1": {
-   "expires": "2026-11-02T05:43:12.089126+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
    "status": "not_found"
   },
   "kiongroup|swe|l1": {
@@ -12228,6 +12243,11 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
+  "neurealm|swe|l1": {
+   "expires": "2026-11-18T19:01:10.767182+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "new-age-4|mobile|l1": {
    "expires": "2026-11-07T05:52:22.145033+00:00",
    "looked_up": "2026-10-20T10:01:30+00:00",
@@ -12866,6 +12886,20 @@
    "expires": "2026-11-12T08:37:11.865987+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
+  },
+  "onesaz|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-06T11:06:48.683320+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "onit-india|fullstack|l1": {
    "expires": "2026-11-04T20:07:11.859526+00:00",
@@ -16622,6 +16656,11 @@
    "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
+  "stackkindia|swe|l1": {
+   "expires": "2026-11-21T13:38:30.449998+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "staffington-global|data|l1": {
    "expires": "2026-11-06T22:35:32.477075+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -18786,6 +18825,11 @@
    "looked_up": "2026-10-15T00:01:24+00:00",
    "status": "not_found"
   },
+  "vadodara-developers-society|frontend|l1": {
+   "expires": "2026-11-15T21:36:37.416898+00:00",
+   "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
   "vahana-setu|fullstack|l1": {
    "expires": "2026-11-06T23:08:00.246051+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -19655,11 +19699,6 @@
    "status": "found",
    "year": 2026
   },
-  "work360ai|devops|l1": {
-   "expires": "2026-11-02T05:12:09.368819+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
-   "status": "not_found"
-  },
   "work360ai|erp|l1": {
    "expires": "2026-11-06T01:23:37.177614+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
@@ -20259,8 +20298,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 42,
-  "lookups_today": 6,
+  "lookups_month": 52,
+  "lookups_today": 16,
   "month": "2026-11"
  }
 }
