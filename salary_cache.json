@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:26:22.465200+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-02-02T00:21:45.846275+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:38:37.449327+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-01-31T02:19:07.178529+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1726,11 +1726,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "arohanatechsolutions|erp|l1": {
-   "expires": "2026-11-02T13:44:02.472482+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
-   "status": "not_found"
   },
   "arsecats|erp|l1": {
    "expires": "2026-11-03T14:22:43.626697+00:00",
@@ -2855,6 +2850,11 @@
   "bookmytournow|mobile|l1": {
    "expires": "2026-11-14T05:34:44.868989+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "bornsec|security|l1": {
+   "expires": "2026-11-23T09:06:21.329751+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
   "botanix-labs2linkedin.com|swe|l1": {
@@ -4846,8 +4846,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T09:26:28.073020+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-02-05T01:18:43.080429+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6155,6 +6155,11 @@
    "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
+  "everpure-data|fullstack|l1": {
+   "expires": "2026-11-14T16:41:37.276600+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
+   "status": "not_found"
+  },
   "everpure-data|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6397,8 +6402,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:28:16.457823+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-01-24T23:35:34.068571+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6616,11 +6621,6 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
-  "findit-bangalore|frontend|l1": {
-   "expires": "2026-11-02T13:24:28.206111+00:00",
-   "looked_up": "2026-10-15T21:01:37+00:00",
-   "status": "not_found"
-  },
   "fingent-technologies|devops|l1": {
    "expires": "2026-11-06T04:00:01.031807+00:00",
    "looked_up": "2026-10-22T15:01:34+00:00",
@@ -6750,6 +6750,11 @@
    "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
+  "five9|swe|l2": {
+   "expires": "2026-11-15T06:09:40.442798+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
+   "status": "not_found"
+  },
   "fizi-fitness-gym-workouts|fullstack|l1": {
    "expires": "2026-11-15T02:08:31.276453+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -6821,8 +6826,8 @@
    "status": "not_found"
   },
   "flexipletech|fullstack|l1": {
-   "expires": "2026-11-02T13:03:56.245705+00:00",
-   "looked_up": "2026-10-25T21:01:25+00:00",
+   "expires": "2026-11-10T01:44:28.025236+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
   "flexipletech|swe|l1": {
@@ -7805,6 +7810,11 @@
   "gtl-archived|swe|l1": {
    "expires": "2026-11-08T09:50:56.846792+00:00",
    "looked_up": "2026-10-28T07:01:30+00:00",
+   "status": "not_found"
+  },
+  "guidanz-inc|erp|l1": {
+   "expires": "2026-11-13T02:52:01.660917+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
   "guidehouse|data|l1": {
@@ -9953,8 +9963,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-24T13:51:20.373474+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-02-02T20:20:02.055850+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10630,8 +10640,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T22:10:36.565790+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-01-31T01:36:19.611369+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -10864,11 +10874,6 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
-  "linde|fullstack|l1": {
-   "expires": "2026-11-02T13:23:03.850108+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
-   "status": "not_found"
-  },
   "linde|security|l1": {
    "expires": "2026-11-03T21:37:19.286503+00:00",
    "looked_up": "2026-10-18T16:01:26+00:00",
@@ -10882,11 +10887,6 @@
   "linkedin|fullstack|l1": {
    "expires": "2026-11-09T13:38:47.208131+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "linux-kernel-foundation|swe|l1": {
-   "expires": "2026-11-02T13:13:31.112668+00:00",
-   "looked_up": "2026-10-21T08:01:34+00:00",
    "status": "not_found"
   },
   "little-feet-baby-care-tracker|fullstack|l1": {
@@ -11773,11 +11773,6 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
-  "mettlertoledo|mobile|l1": {
-   "expires": "2026-11-02T13:46:39.521395+00:00",
-   "looked_up": "2026-10-13T21:01:25+00:00",
-   "status": "not_found"
-  },
   "miamin-systems-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12013,11 +12008,6 @@
   "moengage|security|l1": {
    "expires": "2026-11-13T19:32:28.832382+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "moksh-cad|swe|l1": {
-   "expires": "2026-11-02T13:03:57.366737+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
   "moksh-overseas-education-consultant|swe|l1": {
@@ -12260,6 +12250,22 @@
    "expires": "2026-11-14T00:24:49.435252+00:00",
    "looked_up": "2026-10-25T03:01:37+00:00",
    "status": "not_found"
+  },
+  "naresh-i-technologies|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-29T19:07:30.064880+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
+   "max_lpa": 1.9,
+   "min_lpa": 1.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/naresh-i-technologies-salaries/java-programmer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "nasdaq|swe|l1": {
    "expires": "2026-11-04T08:59:17.987031+00:00",
@@ -13174,8 +13180,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T08:10:20.545784+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-01-26T18:57:45.891315+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13230,6 +13236,11 @@
   "openlm|security|l1": {
    "expires": "2026-11-17T11:26:52.684247+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
+   "status": "not_found"
+  },
+  "opensity-solutions|erp|l1": {
+   "expires": "2026-11-12T00:45:14.215302+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
   "opensystems|swe|l1": {
@@ -14213,11 +14224,6 @@
    ],
    "status": "found"
   },
-  "probuddysoftware|swe|l1": {
-   "expires": "2026-11-02T13:57:17.776504+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
-  },
   "procore-technologies|mobile|l2": {
    "expires": "2026-11-15T00:51:12.344119+00:00",
    "looked_up": "2026-10-30T14:15:30+00:00",
@@ -14292,8 +14298,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:28:13.969744+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2027-01-24T18:29:16.372641+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14721,6 +14727,11 @@
   "quantiphi|erp|l1": {
    "expires": "2026-11-03T12:36:54.132299+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "quantum-integrators-group-llc|erp|l1": {
+   "expires": "2026-11-19T20:59:44.141173+00:00",
+   "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
   "quantum-it-solutions-surat|frontend|l1": {
@@ -20842,8 +20853,8 @@
  },
  "meta": {
   "day": "2026-11-02",
-  "lookups_month": 154,
-  "lookups_today": 118,
+  "lookups_month": 162,
+  "lookups_today": 126,
   "month": "2026-11"
  }
 }
