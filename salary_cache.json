@@ -1014,8 +1014,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:53:39.585919+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-01-25T10:06:24.436359+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1028,8 +1028,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T03:16:30.360345+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-03T17:20:54.913510+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1476,6 +1476,11 @@
   "applicantz-com|erp|l1": {
    "expires": "2026-11-12T05:55:09.949570+00:00",
    "looked_up": "2026-10-29T07:01:34+00:00",
+   "status": "not_found"
+  },
+  "applicantz-com|swe|l1": {
+   "expires": "2026-11-14T20:06:51.701463+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "status": "not_found"
   },
   "applied-materials-india|erp|l1": {
@@ -2214,11 +2219,6 @@
   "bangdb|fullstack|l1": {
    "expires": "2026-11-12T11:04:48.282212+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
-  },
-  "bank-of-america|swe|l1": {
-   "expires": "2026-11-03T03:12:04.193849+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
    "status": "not_found"
   },
   "bank-of-america|swe|l2": {
@@ -4811,8 +4811,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T05:24:13.772270+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-04T06:41:39.628343+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6372,8 +6372,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:14:44.335518+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-04T15:24:03.059377+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6585,11 +6585,6 @@
     }
    ],
    "status": "found"
-  },
-  "findassign|fullstack|l1": {
-   "expires": "2026-11-03T03:34:03.327129+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
-   "status": "not_found"
   },
   "fingent-technologies|devops|l1": {
    "expires": "2026-11-06T04:00:01.031807+00:00",
@@ -9939,8 +9934,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T10:08:34.143519+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-08T02:39:02.125136+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10626,8 +10621,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T05:49:22.989888+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-06T14:28:31.494757+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13136,8 +13131,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T05:49:25.958361+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-01-26T15:46:45.145593+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13496,11 +13491,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "palvex-tech-opc-pvt-ltd|fullstack|l1": {
-   "expires": "2026-11-03T03:12:19.952471+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
   },
   "panasonic-avionics-corporation|swe|l1": {
    "expires": "2026-11-17T10:26:46.815093+00:00",
@@ -14244,8 +14234,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T17:06:20.366424+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-01-26T22:00:54.883999+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -16880,11 +16870,6 @@
    "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
-  "solera|devops|l1": {
-   "expires": "2026-11-03T03:13:41.032597+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "solventumhealth|swe|l1": {
    "expires": "2026-11-20T21:25:36.294320+00:00",
    "looked_up": "2026-10-31T17:01:23+00:00",
@@ -18360,8 +18345,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:31:22.616562+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-01-27T16:33:15.839971+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18374,8 +18359,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:08:10.355361+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
+   "expires": "2027-02-03T06:52:55.694044+00:00",
+   "looked_up": "2026-11-03T04:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20844,8 +20829,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 209,
-  "lookups_today": 4,
+  "lookups_month": 210,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
