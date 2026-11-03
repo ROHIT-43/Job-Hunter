@@ -1029,8 +1029,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T10:34:36.541459+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-27T18:16:37.203163+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1043,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T22:36:21.512778+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-29T01:05:09.755594+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1868,11 +1868,6 @@
   "atlas-copco-group|devops|l1": {
    "expires": "2026-11-10T18:50:03.169562+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
-   "status": "not_found"
-  },
-  "atlas-copco-group|erp|l1": {
-   "expires": "2026-11-02T23:30:47.223989+00:00",
-   "looked_up": "2026-10-15T04:01:24+00:00",
    "status": "not_found"
   },
   "atlas-copco|security|l1": {
@@ -4826,8 +4821,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:13:32.827652+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-29T02:24:12.028809+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6387,8 +6382,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T09:26:51.880001+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-02-06T04:38:59.688103+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9964,8 +9959,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:57:31.318952+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-25T22:57:52.201076+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10651,8 +10646,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:58:27.468000+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-02-07T14:15:15.497625+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -11629,11 +11624,6 @@
   "mccormick|security|l1": {
    "expires": "2026-11-12T09:19:33.546536+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "mckinsey|swe|l1": {
-   "expires": "2026-11-02T23:39:14.987972+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "me100|mobile|l1": {
@@ -13166,8 +13156,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T18:49:56.309816+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-02-01T12:05:51.666486+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13381,6 +13371,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/oracle-salaries/software-development-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "orange-business|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-25T20:58:31.317390+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/orange-business-salaries/software-engineer/new-delhi-location"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-orange_business_services-pay"
     }
    ],
    "status": "found",
@@ -14264,8 +14274,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T23:42:10.219993+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-27T01:06:12.674884+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -16466,11 +16476,6 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
-  "silicon-pin|swe|l1": {
-   "expires": "2026-11-02T23:40:56.554557+00:00",
-   "looked_up": "2026-10-17T15:01:24+00:00",
-   "status": "not_found"
-  },
   "simple-energy-pvt-ltd|data|l1": {
    "expires": "2026-11-06T10:39:57.647566+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
@@ -18410,8 +18415,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T01:44:11.029264+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-25T14:24:06.093112+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18424,8 +18429,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:48:53.178153+00:00",
-   "looked_up": "2026-11-02T23:29:35+00:00",
+   "expires": "2027-01-25T17:36:30.065491+00:00",
+   "looked_up": "2026-11-03T00:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20903,9 +20908,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-02",
-  "lookups_month": 205,
-  "lookups_today": 169,
+  "day": "2026-11-03",
+  "lookups_month": 206,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
