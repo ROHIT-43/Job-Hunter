@@ -4145,8 +4145,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:26:13.283337+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-02-07T13:50:13.131745+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4173,8 +4173,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:26:20.819535+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-02-05T04:01:11.671583+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4336,11 +4336,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "cognizant|frontend|l1": {
-   "expires": "2026-11-03T18:20:16.905737+00:00",
-   "looked_up": "2026-10-22T15:01:34+00:00",
-   "status": "not_found"
   },
   "cognizant|fullstack|l1": {
    "basis": "base",
@@ -5058,8 +5053,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T20:37:20.682164+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-01-29T03:23:22.929782+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7406,6 +7401,22 @@
    "status": "found",
    "year": 2025
   },
+  "genpact|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-30T07:39:03.532929+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/genpact-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "genrobotics|swe|l2": {
    "expires": "2026-11-17T04:28:43.282331+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
@@ -8689,8 +8700,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:26:52.670328+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-02-07T22:27:01.375241+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11312,11 +11323,6 @@
    "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
-  "lorventech|data|l1": {
-   "expires": "2026-11-03T18:32:09.053406+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
   "lorventech|security|l1": {
    "expires": "2026-11-10T23:34:43.876077+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -11377,8 +11383,8 @@
    "status": "not_found"
   },
   "lpl-global-capability-center|swe|l2": {
-   "expires": "2026-11-03T18:53:12.615889+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
+   "expires": "2026-11-22T02:14:03.217452+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
   "ltm-larsenandtoubrocompany|swe|l1": {
@@ -11570,8 +11576,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:44:17.340755+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-02-02T22:51:57.050824+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12855,11 +12861,6 @@
    "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
-  "newage-tech|swe|l1": {
-   "expires": "2026-11-03T18:58:56.809820+00:00",
-   "looked_up": "2026-10-20T19:01:31+00:00",
-   "status": "not_found"
-  },
   "newscorp|data|l1": {
    "expires": "2026-11-08T18:57:19.818602+00:00",
    "looked_up": "2026-10-29T16:01:30+00:00",
@@ -13256,6 +13257,11 @@
   "ntt-data-inc|data|l1": {
    "expires": "2026-11-10T11:03:24.858091+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
+   "status": "not_found"
+  },
+  "ntt-data-inc|devops|l1": {
+   "expires": "2026-11-24T13:38:12.238348+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
   "ntt-data-inc|security|l1": {
@@ -14077,11 +14083,6 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
-  "persistent-systems|devops|l1": {
-   "expires": "2026-11-03T18:42:58.026883+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "persistent-systems|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14348,11 +14349,6 @@
   "playlisttechnologies|swe|l1": {
    "expires": "2026-11-18T00:32:20.672121+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
-   "status": "not_found"
-  },
-  "plexitechsolutions|data|l1": {
-   "expires": "2026-11-03T18:38:24.130470+00:00",
-   "looked_up": "2026-10-24T08:01:22+00:00",
    "status": "not_found"
   },
   "plomid|swe|l2": {
@@ -16316,6 +16312,22 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
+  "schneider-electric|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T00:26:22.861568+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/schneider-electric-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "schneider-electric|swe|l2": {
    "expires": "2026-11-12T07:27:13.868472+00:00",
    "looked_up": "2026-11-03T18:02:22+00:00",
@@ -16645,8 +16657,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:47:50.231313+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-01-31T22:49:50.806050+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17473,11 +17485,6 @@
    "looked_up": "2026-10-30T00:01:35+00:00",
    "status": "not_found"
   },
-  "spacekaur|swe|l1": {
-   "expires": "2026-11-03T18:15:13.523682+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
-   "status": "not_found"
-  },
   "spadtek-solutions|erp|l1": {
    "expires": "2026-11-12T00:32:35.335462+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
@@ -17771,8 +17778,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:12:39.815422+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-01-26T04:43:48.293997+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18537,8 +18544,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T15:20:22.335564+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-02-06T14:54:55.062936+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18892,8 +18899,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T14:40:52.254374+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
+   "expires": "2027-01-27T08:32:35.112655+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20809,8 +20816,8 @@
    "status": "not_found"
   },
   "willware-technologies|swe|l1": {
-   "expires": "2026-11-03T18:21:21.914591+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
+   "expires": "2026-11-16T15:16:01.216779+00:00",
+   "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
   "win-quoter|frontend|l1": {
@@ -21532,8 +21539,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 364,
-  "lookups_today": 159,
+  "lookups_month": 369,
+  "lookups_today": 164,
   "month": "2026-11"
  }
 }
