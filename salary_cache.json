@@ -467,6 +467,11 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
+  "aditiconsulting|devops|l1": {
+   "expires": "2026-11-17T08:07:45.585798+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "aditiconsulting|fullstack|l1": {
    "expires": "2026-11-06T03:26:35.884686+00:00",
    "looked_up": "2026-10-16T10:01:31+00:00",
@@ -790,6 +795,11 @@
   "akraya-inc|erp|l1": {
    "expires": "2026-11-04T03:16:54.141385+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
+   "status": "not_found"
+  },
+  "akraya-inc|security|l1": {
+   "expires": "2026-11-20T15:54:50.367331+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
   "akraya-inc|swe|l1": {
@@ -4527,11 +4537,6 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
-  "confluentis-consulting-llp|devops|l1": {
-   "expires": "2026-11-03T13:08:13.396989+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
-   "status": "not_found"
-  },
   "connect-career-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4640,11 +4645,6 @@
     }
    ],
    "status": "found"
-  },
-  "crawlapps|frontend|l1": {
-   "expires": "2026-11-03T13:18:18.747181+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
   },
   "credapp|security|l1": {
    "expires": "2026-11-16T09:21:40.429074+00:00",
@@ -4980,8 +4980,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:54:27.380848+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
+   "expires": "2027-01-29T12:24:12.321589+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5166,6 +5166,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "deloitte|data|l1": {
+   "expires": "2026-11-17T03:21:02.154461+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
   },
   "deloitte|erp|l1": {
    "basis": "ctc",
@@ -6374,11 +6379,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "exotel-techcom-private-limited|swe|l2": {
-   "expires": "2026-11-03T13:43:43.643271+00:00",
-   "looked_up": "2026-10-15T12:01:30+00:00",
-   "status": "not_found"
   },
   "expediagroup|frontend|l2": {
    "basis": "base",
@@ -7867,11 +7867,6 @@
    "status": "found",
    "year": 2026
   },
-  "gorenvio|swe|l1": {
-   "expires": "2026-11-03T13:51:52.709534+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "gostride-ventures|swe|l1": {
    "expires": "2026-11-08T19:56:04.289338+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
@@ -9074,6 +9069,11 @@
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
+  "idfcfirstbank|swe|l1": {
+   "expires": "2026-11-15T12:14:22.366688+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "idrms-technologies-pvt-ltd|erp|l1": {
    "expires": "2026-11-05T22:42:38.029950+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
@@ -9534,6 +9534,11 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
+  "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
+   "expires": "2026-11-19T00:07:02.556331+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "ingersoll-rand|security|l1": {
    "expires": "2026-11-08T15:39:10.417545+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -9987,11 +9992,6 @@
   "ivtics|frontend|l1": {
    "expires": "2026-11-05T15:52:16.632604+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "j-s-held|swe|l1": {
-   "expires": "2026-11-03T13:41:15.877398+00:00",
-   "looked_up": "2026-10-23T19:01:29+00:00",
    "status": "not_found"
   },
   "jabil|swe|l1": {
@@ -10524,11 +10524,6 @@
   "keywordsstudios|swe|l1": {
    "expires": "2026-11-09T10:03:05.204877+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "kheewaincorporation|swe|l1": {
-   "expires": "2026-11-03T13:14:39.656993+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
   "kidde-global-solutions|mobile|l1": {
@@ -11444,6 +11439,20 @@
    "looked_up": "2026-10-24T16:01:37+00:00",
    "status": "not_found"
   },
+  "makeflow-india|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-26T05:56:26.125449+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "makoitlab|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12163,11 +12172,6 @@
     }
    ],
    "status": "found"
-  },
-  "mitchell-martin|devops|l1": {
-   "expires": "2026-11-03T13:40:39.762318+00:00",
-   "looked_up": "2026-10-15T14:01:36+00:00",
-   "status": "not_found"
   },
   "mizuora-software|swe|l1": {
    "expires": "2026-11-04T18:57:07.635862+00:00",
@@ -12937,6 +12941,11 @@
     }
    ],
    "status": "found"
+  },
+  "nkt-cables|swe|l1": {
+   "expires": "2026-11-12T05:33:33.158740+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
   },
   "nordson-corporation|swe|l2": {
    "expires": "2026-11-16T08:16:50.100146+00:00",
@@ -14415,6 +14424,11 @@
    "looked_up": "2026-10-30T14:15:30+00:00",
    "status": "not_found"
   },
+  "procter-and-gamble|security|l1": {
+   "expires": "2026-11-18T09:00:21.984145+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "prodcontechservicespvtltd|swe|l1": {
    "expires": "2026-11-09T23:13:42.410411+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
@@ -14870,11 +14884,6 @@
   },
   "qualizeal|fullstack|l1": {
    "expires": "2026-11-06T09:22:00.764914+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "qualizeal|swe|l1": {
-   "expires": "2026-11-03T13:01:55.607694+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
@@ -15727,6 +15736,11 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
+  "rushiv-infotech|data|l1": {
+   "expires": "2026-11-17T11:45:04.952687+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "rws-group|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16483,8 +16497,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T20:47:42.825160+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
+   "expires": "2027-01-28T12:14:21.351078+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17465,6 +17479,11 @@
    "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
+  "stockbazaarhq|devops|l1": {
+   "expires": "2026-11-23T20:12:47.917004+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "stormfinance|swe|l1": {
    "expires": "2026-11-05T05:48:22.032797+00:00",
    "looked_up": "2026-10-25T19:01:30+00:00",
@@ -18369,11 +18388,6 @@
    "status": "found",
    "year": 2026
   },
-  "tek-grove|fullstack|l2": {
-   "expires": "2026-11-03T13:57:58.269792+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
-   "status": "not_found"
-  },
   "tekgence-inc|devops|l1": {
    "expires": "2026-11-07T17:50:54.307087+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -18594,6 +18608,11 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
+  "the-aes-group|swe|l1": {
+   "expires": "2026-11-23T15:56:35.347537+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "the-ai-training-company|swe|l1": {
    "expires": "2026-11-18T03:42:15.984055+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -18667,8 +18686,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T18:03:39.305973+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
+   "expires": "2027-01-29T11:29:11.231079+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18696,8 +18715,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:49:07.129849+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
+   "expires": "2027-02-01T17:34:38.481972+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18710,8 +18729,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:44:54.193024+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
+   "expires": "2027-02-04T19:03:41.936780+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20472,6 +20491,11 @@
    "looked_up": "2026-10-21T09:01:36+00:00",
    "status": "not_found"
   },
+  "weir-plc|fullstack|l1": {
+   "expires": "2026-11-23T05:56:05.358347+00:00",
+   "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
   "welerix|frontend|l1": {
    "expires": "2026-11-16T06:12:08.305432+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -21302,8 +21326,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 322,
-  "lookups_today": 117,
+  "lookups_month": 333,
+  "lookups_today": 128,
   "month": "2026-11"
  }
 }
