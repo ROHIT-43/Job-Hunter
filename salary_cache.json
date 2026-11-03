@@ -1418,6 +1418,11 @@
    "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
+  "apn-consulting-inc.|swe|l1": {
+   "expires": "2026-11-11T08:04:31.459381+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "appcurators|swe|l1": {
    "expires": "2026-11-03T21:57:40.412055+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -1717,11 +1722,6 @@
    "looked_up": "2026-10-25T10:01:24+00:00",
    "status": "not_found"
   },
-  "arsecats|frontend|l1": {
-   "expires": "2026-11-03T07:59:13.181576+00:00",
-   "looked_up": "2026-10-16T02:01:40+00:00",
-   "status": "not_found"
-  },
   "aruba-a-hewlett-packard-enterprise-company|swe|l1": {
    "expires": "2026-11-08T19:41:45.790999+00:00",
    "looked_up": "2026-10-20T17:01:29+00:00",
@@ -1821,6 +1821,11 @@
   "astek|erp|l1": {
    "expires": "2026-11-16T04:12:46.611342+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
+   "status": "not_found"
+  },
+  "astek|swe|l1": {
+   "expires": "2026-11-23T22:51:35.753213+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "astika-software-technologies-private-limited|swe|l1": {
@@ -2109,6 +2114,11 @@
    "looked_up": "2026-10-29T12:01:31+00:00",
    "status": "not_found"
   },
+  "axa-global-business-services-axa-gbs|swe|l1": {
+   "expires": "2026-11-18T15:36:08.344965+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -2388,6 +2398,11 @@
    "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
+  "bayer|erp|l1": {
+   "expires": "2026-11-23T00:40:12.897989+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "bayer|security|l1": {
    "expires": "2026-11-11T22:14:00.020485+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -2538,11 +2553,6 @@
   "black-and-veatch|swe|l1": {
    "expires": "2026-11-11T04:18:20.453543+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "blackbaud-india|frontend|l1": {
-   "expires": "2026-11-03T07:03:28.680368+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "blackhawk-network-india|devops|l1": {
@@ -3531,6 +3541,11 @@
    "looked_up": "2026-10-21T09:01:36+00:00",
    "status": "not_found"
   },
+  "caxton-associates|security|l1": {
+   "expires": "2026-11-21T13:43:00.061729+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "cbts-technology-covered|devops|l1": {
    "expires": "2026-11-11T00:52:10.040735+00:00",
    "looked_up": "2026-10-22T15:01:34+00:00",
@@ -3617,6 +3632,11 @@
   "centotech|devops|l1": {
    "expires": "2026-11-09T11:58:08.464095+00:00",
    "looked_up": "2026-10-31T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "centotech|erp|l1": {
+   "expires": "2026-11-12T15:22:29.955629+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "centotech|security|l1": {
@@ -4768,6 +4788,11 @@
    "looked_up": "2026-11-02T07:01:32+00:00",
    "status": "not_found"
   },
+  "cyanaq-systems|frontend|l1": {
+   "expires": "2026-11-11T16:01:57.708987+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "cyanaq-systems|fullstack|l1": {
    "expires": "2026-11-12T16:59:04.621220+00:00",
    "looked_up": "2026-11-01T04:01:23+00:00",
@@ -4892,8 +4917,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:56:11.552811+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-01-25T11:40:41.272219+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5911,6 +5936,11 @@
    "status": "found",
    "year": 2023
   },
+  "equal-experts|devops|l1": {
+   "expires": "2026-11-21T02:49:17.434495+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "equifax|devops|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -6411,8 +6441,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:27:58.065583+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-02-02T14:59:44.005856+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6638,6 +6668,11 @@
   "fireblaze-ai-school|erp|l1": {
    "expires": "2026-11-21T22:38:58.550012+00:00",
    "looked_up": "2026-11-02T20:01:29+00:00",
+   "status": "not_found"
+  },
+  "fireblaze-ai-school|fullstack|l1": {
+   "expires": "2026-11-10T16:40:13.517041+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "firestorm-internet|swe|l1": {
@@ -7738,6 +7773,11 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
+  "govt-women-s-college-baripada|swe|l1": {
+   "expires": "2026-11-23T12:34:44.358972+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "grainwish-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8588,6 +8628,11 @@
   "https-evara.me-|swe|l1": {
    "expires": "2026-11-05T22:48:32.067044+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "huntingcubeai|data|l1": {
+   "expires": "2026-11-10T10:40:33.916206+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "huntingcubeai|erp|l1": {
@@ -9465,6 +9510,11 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
+  "innowrap|fullstack|l1": {
+   "expires": "2026-11-22T23:22:52.312514+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "innowrap|swe|l1": {
    "expires": "2026-11-13T03:13:17.852107+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
@@ -9838,11 +9888,6 @@
   "jabil|swe|l2": {
    "expires": "2026-11-03T11:41:25.147575+00:00",
    "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "jabil|swe|l3": {
-   "expires": "2026-11-03T07:50:23.662221+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "jacobs|fullstack|l1": {
@@ -10650,8 +10695,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:12:40.806835+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-01-25T22:14:42.557202+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -14258,8 +14303,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T09:47:19.555111+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-01-26T11:55:58.423266+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14702,11 +14747,6 @@
     }
    ],
    "status": "found"
-  },
-  "quantura-consulting|swe|l1": {
-   "expires": "2026-11-03T07:03:45.780722+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
   },
   "quarticainc|frontend|l1": {
    "expires": "2026-11-08T06:33:48.400197+00:00",
@@ -15172,6 +15212,11 @@
    "status": "found",
    "year": 2026
   },
+  "redholt|devops|l1": {
+   "expires": "2026-11-14T23:31:56.830647+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "redingtonlimited|erp|l1": {
    "expires": "2026-11-08T09:04:13.461633+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -15201,6 +15246,11 @@
   "remote-wfh-india|data|l1": {
    "expires": "2026-11-05T14:13:08.555338+00:00",
    "looked_up": "2026-10-16T13:01:34+00:00",
+   "status": "not_found"
+  },
+  "renovision-automation-services-pvt-ltd|security|l1": {
+   "expires": "2026-11-14T11:59:25.240859+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "resideo1|swe|l2": {
@@ -16071,11 +16121,6 @@
   "seekeragencyai|devops|l1": {
    "expires": "2026-11-11T02:17:09.438770+00:00",
    "looked_up": "2026-10-22T19:01:24+00:00",
-   "status": "not_found"
-  },
-  "seekhoo|swe|l2": {
-   "expires": "2026-11-03T07:25:34.521107+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "segula-technologies|swe|l1": {
@@ -17911,6 +17956,22 @@
    "status": "found",
    "year": 2026
   },
+  "tech-mahindra|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T04:16:07.043943+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tech-mahindra-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "tech-mahindra|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18282,6 +18343,11 @@
    "looked_up": "2026-10-19T08:01:32+00:00",
    "status": "not_found"
   },
+  "the-ai-training-company|swe|l1": {
+   "expires": "2026-11-18T03:42:15.984055+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "the-emmes-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18374,8 +18440,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T16:24:44.484748+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-02-04T19:09:29.981578+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18388,8 +18454,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T11:03:46.849146+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-01-26T17:11:34.904726+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18438,6 +18504,26 @@
    ],
    "status": "found",
    "year": null
+  },
+  "theporter-in|swe|l2": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-01T22:45:11.791934+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 17.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/porter-salaries/software-engineer2"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/porter"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "thermo-fisher-scientific|swe|l2": {
    "basis": "base",
@@ -18546,6 +18632,11 @@
   "thoughtsol-infotech-ltd|data|l1": {
    "expires": "2026-11-08T14:12:14.169863+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "thoughtsol-infotech-ltd|mobile|l1": {
+   "expires": "2026-11-16T18:52:57.590606+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "threatxintel|mobile|l1": {
@@ -18927,6 +19018,11 @@
    "looked_up": "2026-10-29T15:01:36+00:00",
    "status": "not_found"
   },
+  "truwave-software-llc|devops|l1": {
+   "expires": "2026-11-23T14:47:26.736368+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
   "truwave-software-llc|swe|l1": {
    "expires": "2026-11-06T01:28:20.238057+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
@@ -19089,6 +19185,11 @@
   "unicornisai|swe|l2": {
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
+   "status": "not_found"
+  },
+  "unisoftglobalservices|erp|l1": {
+   "expires": "2026-11-23T06:21:13.337294+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "unisys|security|l1": {
@@ -19529,6 +19630,11 @@
   "vericoreapi|frontend|l1": {
    "expires": "2026-11-16T09:56:56.404070+00:00",
    "looked_up": "2026-10-26T13:14:58+00:00",
+   "status": "not_found"
+  },
+  "vericoreapi|fullstack|l1": {
+   "expires": "2026-11-17T14:57:02.646177+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "veritymd|swe|l1": {
@@ -20013,6 +20119,11 @@
   "wearehaystack|swe|l1": {
    "expires": "2026-11-08T15:36:51.752045+00:00",
    "looked_up": "2026-10-21T20:01:26+00:00",
+   "status": "not_found"
+  },
+  "wearekinnectindia|swe|l1": {
+   "expires": "2026-11-16T08:52:46.165317+00:00",
+   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "weareuplers|frontend|l1": {
@@ -20878,8 +20989,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 236,
-  "lookups_today": 31,
+  "lookups_month": 258,
+  "lookups_today": 53,
   "month": "2026-11"
  }
 }
