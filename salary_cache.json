@@ -46,6 +46,11 @@
    "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
+  "4th-quarter-technologies|swe|l1": {
+   "expires": "2026-11-12T15:35:04.936453+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "5exceptions-software-solutions-pvt-ltd|security|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1528,6 +1533,11 @@
    "status": "found",
    "year": 2025
   },
+  "appliedbusinessconsulting|erp|l1": {
+   "expires": "2026-11-21T16:14:27.765005+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "appsavio|erp|l1": {
    "expires": "2026-11-09T08:02:01.215869+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
@@ -1898,6 +1908,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "atomach|swe|l1": {
+   "expires": "2026-11-21T23:15:48.010454+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
   },
   "atomicworkhq|security|l1": {
    "expires": "2026-11-09T11:32:36.465212+00:00",
@@ -2446,6 +2461,11 @@
   "be-additive|swe|l1": {
    "expires": "2026-11-18T16:41:31.508940+00:00",
    "looked_up": "2026-11-03T02:01:29+00:00",
+   "status": "not_found"
+  },
+  "bestex-research-group|data|l1": {
+   "expires": "2026-11-11T13:42:02.593928+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
   "bestex-research-group|swe|l1": {
@@ -3876,11 +3896,6 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
-  "citi|frontend|l1": {
-   "expires": "2026-11-03T08:15:06.039859+00:00",
-   "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
   "citi|swe|l1": {
    "expires": "2026-11-09T05:38:38.321783+00:00",
    "looked_up": "2026-10-26T23:01:33+00:00",
@@ -4021,6 +4036,22 @@
    "status": "found",
    "year": 2026
   },
+  "cmexpertise-infotech|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-07T06:40:33.053740+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "max_lpa": 2.2,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "evaniosjobs.com",
+     "uri": "https://www.evaniosjobs.com/job-apply/2492791/java-developer-job-in-ahmedabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "codagram-edtech|swe|l1": {
    "expires": "2026-11-06T21:47:04.087903+00:00",
    "looked_up": "2026-10-23T20:01:24+00:00",
@@ -4040,6 +4071,22 @@
    "expires": "2026-11-12T21:23:31.830287+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
+  },
+  "codequery|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-30T14:29:37.560628+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 2.6,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Codequery/salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "coderkubetechnologies|mobile|l1": {
    "expires": "2026-11-04T10:25:10.763511+00:00",
@@ -4293,9 +4340,20 @@
    "status": "not_found"
   },
   "collins-aerospace|swe|l1": {
-   "expires": "2026-11-03T08:08:42.268327+00:00",
-   "looked_up": "2026-10-13T14:01:27+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T03:22:36.812235+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "max_lpa": 9.1,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-collins_aerospace-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "collins-aerospace|swe|l3": {
    "basis": "base",
@@ -4917,8 +4975,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T11:40:41.272219+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
+   "expires": "2027-01-25T14:48:35.892373+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6441,8 +6499,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T14:59:44.005856+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
+   "expires": "2027-01-26T18:58:39.783799+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7093,6 +7151,11 @@
   "fusionconsultingag|swe|l1": {
    "expires": "2026-11-17T10:23:16.254712+00:00",
    "looked_up": "2026-10-28T09:01:31+00:00",
+   "status": "not_found"
+  },
+  "futuraspark-technologies|frontend|l1": {
+   "expires": "2026-11-22T01:28:45.069054+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
   "futuredesks|mobile|l1": {
@@ -7950,11 +8013,6 @@
    "status": "found",
    "year": 2025
   },
-  "gulf-marvel-eng-tr-co-llc|swe|l1": {
-   "expires": "2026-11-03T08:43:38.458247+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "h&amp;m|swe|l1": {
    "expires": "2026-11-06T12:44:50.191236+00:00",
    "looked_up": "2026-10-20T16:01:30+00:00",
@@ -8246,6 +8304,11 @@
   "helpshift|devops|l1": {
    "expires": "2026-11-05T14:12:26.677159+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "helpshift|swe|l1": {
+   "expires": "2026-11-11T23:36:34.934391+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
   "hero-fincorp-ltd|mobile|l1": {
@@ -9549,6 +9612,11 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "instantdm|fullstack|l1": {
+   "expires": "2026-11-21T02:58:09.046992+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "intact|data|l1": {
    "expires": "2026-11-08T10:39:16.713277+00:00",
    "looked_up": "2026-10-29T07:14:15+00:00",
@@ -10779,11 +10847,6 @@
   "leegality|swe|l1": {
    "expires": "2026-11-08T12:02:45.177715+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "legal-experts-ai|swe|l1": {
-   "expires": "2026-11-03T08:43:53.600804+00:00",
-   "looked_up": "2026-10-16T13:01:34+00:00",
    "status": "not_found"
   },
   "legatioco|fullstack|l1": {
@@ -13471,6 +13534,11 @@
    "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
+  "orestes-technologies|swe|l1": {
+   "expires": "2026-11-22T22:55:08.345791+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -13634,11 +13702,6 @@
     }
    ],
    "status": "found"
-  },
-  "paypal|data|l1": {
-   "expires": "2026-11-03T08:34:25.831445+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
   },
   "paypal|devops|l1": {
    "expires": "2026-11-06T15:49:52.702240+00:00",
@@ -14286,6 +14349,11 @@
    "status": "found",
    "year": 2026
   },
+  "proofpoint|swe|l1": {
+   "expires": "2026-11-20T07:44:51.151055+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "property-solvers|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14303,8 +14371,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T11:55:58.423266+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
+   "expires": "2027-02-04T12:56:31.359990+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -16710,6 +16778,11 @@
    "status": "found",
    "year": 2025
   },
+  "smartworkingsolutions|devops|l1": {
+   "expires": "2026-11-13T08:11:09.111783+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "sme-careers|swe|l1": {
    "expires": "2026-11-08T07:51:56.404219+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -18274,6 +18347,11 @@
    "looked_up": "2026-10-31T16:01:26+00:00",
    "status": "not_found"
   },
+  "testqtech|fullstack|l1": {
+   "expires": "2026-11-19T16:05:03.971627+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
   "texas-instruments-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -18440,8 +18518,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:09:29.981578+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
+   "expires": "2027-01-26T03:38:02.632936+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18454,8 +18532,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T17:11:34.904726+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
+   "expires": "2027-02-04T12:21:20.731618+00:00",
+   "looked_up": "2026-11-03T09:01:35+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20989,8 +21067,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 258,
-  "lookups_today": 53,
+  "lookups_month": 272,
+  "lookups_today": 67,
   "month": "2026-11"
  }
 }
