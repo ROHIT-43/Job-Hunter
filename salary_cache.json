@@ -1,10 +1,5 @@
 {
  "entries": {
-  "0101-today|fullstack|l1": {
-   "expires": "2026-11-03T16:14:29.331271+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
-   "status": "not_found"
-  },
   "2005labs|swe|l2": {
    "expires": "2026-11-11T18:31:59.199588+00:00",
    "looked_up": "2026-10-31T16:01:26+00:00",
@@ -276,6 +271,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/accenture-salaries/salesforce-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "accentureindia|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T18:42:15.650273+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/accenture-salaries/front-end-developer/hyderabad-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/accenture-salaries/web-developer/navi-mumbai-location"
     }
    ],
    "status": "found",
@@ -3131,6 +3146,11 @@
    "looked_up": "2026-11-01T14:01:27+00:00",
    "status": "not_found"
   },
+  "c4-technical-services|devops|l1": {
+   "expires": "2026-11-13T07:47:47.780002+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
+  },
   "cadence|swe|l1": {
    "expires": "2026-11-11T17:33:58.163862+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
@@ -3327,6 +3347,11 @@
    "status": "found",
    "year": 2025
   },
+  "cardinal-health|data|l1": {
+   "expires": "2026-11-12T13:20:32.856975+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
+  },
   "cardinal-health|fullstack|l1": {
    "expires": "2026-11-04T15:48:12.231070+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
@@ -3494,11 +3519,6 @@
   "catalysts-team|fullstack|l1": {
    "expires": "2026-11-13T18:52:15.268407+00:00",
    "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
-  },
-  "caterpillar-inc|data|l1": {
-   "expires": "2026-11-03T16:52:35.633914+00:00",
-   "looked_up": "2026-10-18T21:01:29+00:00",
    "status": "not_found"
   },
   "caterpillar-inc|swe|l1": {
@@ -4117,6 +4137,20 @@
    ],
    "status": "found"
   },
+  "coderoundai|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-31T11:20:02.619597+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "coderoundai|swe|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -4124,6 +4158,20 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "max_lpa": 15.0,
    "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "coderoundai|swe|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-05T20:38:11.412976+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "max_lpa": 60.0,
+   "min_lpa": 60.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -4975,8 +5023,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T11:46:07.735552+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
+   "expires": "2027-02-08T09:21:24.781923+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8332,6 +8380,11 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
+  "hermes-corporate|fullstack|l1": {
+   "expires": "2026-11-21T07:02:09.655905+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
+  },
   "hero-fincorp-ltd|mobile|l1": {
    "expires": "2026-11-13T07:55:13.339090+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -8586,6 +8639,20 @@
    "looked_up": "2026-10-20T07:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "hotsourced|data|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-26T17:26:12.046599+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 12.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -8979,6 +9046,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "icon-plc-2|swe|l1": {
+   "expires": "2026-11-11T10:11:03.567654+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
   },
   "icon-plc-2|swe|l2": {
    "basis": "ctc",
@@ -10143,6 +10215,11 @@
    "looked_up": "2026-10-24T18:01:42+00:00",
    "status": "not_found"
   },
+  "jobspiq|devops|l1": {
+   "expires": "2026-11-18T07:40:37.172785+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
+  },
   "jobspiq|frontend|l1": {
    "expires": "2026-11-23T19:24:07.059148+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
@@ -10574,6 +10651,11 @@
   "kliqsoft|swe|l1": {
    "expires": "2026-11-12T20:34:27.840415+00:00",
    "looked_up": "2026-10-31T15:01:37+00:00",
+   "status": "not_found"
+  },
+  "knack-systems|erp|l1": {
+   "expires": "2026-11-13T06:36:07.882702+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
   "kochinc|erp|l1": {
@@ -11448,8 +11530,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:24:31.853239+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
+   "expires": "2027-02-08T06:23:42.478173+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12852,6 +12934,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "niitmts|swe|l2": {
+   "expires": "2026-11-14T08:42:23.987818+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
   },
   "nike|swe|l1": {
    "basis": "ctc",
@@ -16518,8 +16605,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T10:02:26.582769+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
+   "expires": "2027-01-31T08:34:14.532889+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17621,6 +17708,20 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
+  "supportsages|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T05:47:15.080697+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "sushainclinic|swe|l1": {
    "expires": "2026-11-20T23:20:54.535490+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
@@ -17883,11 +17984,6 @@
   "talentienglobalsolutions|frontend|l1": {
    "expires": "2026-11-15T03:41:58.798781+00:00",
    "looked_up": "2026-11-03T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "talentmicro-corporation|swe|l1": {
-   "expires": "2026-11-03T16:18:00.404546+00:00",
-   "looked_up": "2026-10-18T10:01:24+00:00",
    "status": "not_found"
   },
   "talentrabbit|frontend|l1": {
@@ -18717,8 +18813,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:37:06.501203+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
+   "expires": "2027-01-26T14:02:40.444556+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19991,6 +20087,11 @@
   "veticin|swe|l1": {
    "expires": "2026-11-10T01:50:46.175250+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
+   "status": "not_found"
+  },
+  "vgroupmaritime|devops|l1": {
+   "expires": "2026-11-20T16:46:37.208486+00:00",
+   "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
   "viasat|devops|l1": {
@@ -21352,8 +21453,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 345,
-  "lookups_today": 140,
+  "lookups_month": 354,
+  "lookups_today": 149,
   "month": "2026-11"
  }
 }
