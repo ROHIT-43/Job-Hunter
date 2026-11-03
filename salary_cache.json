@@ -265,11 +265,6 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
-  "accentureindia|data|l1": {
-   "expires": "2026-11-03T10:30:48.740670+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
-   "status": "not_found"
-  },
   "accentureindia|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1752,6 +1747,11 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "ascendion|data|l1": {
+   "expires": "2026-11-17T20:36:15.885836+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "ascendion|devops|l1": {
    "expires": "2026-11-16T00:21:17.777201+00:00",
    "looked_up": "2026-10-29T11:01:33+00:00",
@@ -2202,6 +2202,11 @@
   "backbase|swe|l1": {
    "expires": "2026-11-10T06:49:41.908069+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
+   "status": "not_found"
+  },
+  "backblaze|devops|l2": {
+   "expires": "2026-11-18T19:39:43.243732+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "bain-and-company|data|l1": {
@@ -3080,11 +3085,6 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
-  "bt|erp|l1": {
-   "expires": "2026-11-03T10:44:08.210781+00:00",
-   "looked_up": "2026-10-13T15:01:36+00:00",
-   "status": "not_found"
-  },
   "bt|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3109,11 +3109,6 @@
   "bupa-capability-centre-india|devops|l1": {
    "expires": "2026-11-12T15:30:05.017194+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
-  "burns-mcdonnell-india|data|l1": {
-   "expires": "2026-11-03T10:44:56.231043+00:00",
-   "looked_up": "2026-10-20T15:01:31+00:00",
    "status": "not_found"
   },
   "buro-happold|swe|l1": {
@@ -4592,11 +4587,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "coreops-ai|erp|l1": {
-   "expires": "2026-11-03T10:59:57.865700+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
   "cornerstoneondemand|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4920,6 +4910,11 @@
    "looked_up": "2026-10-30T05:01:26+00:00",
    "status": "not_found"
   },
+  "cybersecurity-nxxt|security|l1": {
+   "expires": "2026-11-12T02:59:37.996206+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "cybersoton|devops|l1": {
    "expires": "2026-11-10T11:42:48.896714+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -4980,8 +4975,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T15:46:58.943716+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
+   "expires": "2027-01-30T20:22:05.645793+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5655,6 +5650,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "eazyway-corporate-consulting-private-limited|erp|l1": {
+   "expires": "2026-11-22T00:19:26.587574+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
   },
   "ebay|devops|l1": {
    "expires": "2026-11-15T16:08:36.789805+00:00",
@@ -6504,8 +6504,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:12:37.681837+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
+   "expires": "2027-01-25T18:54:37.799363+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7325,6 +7325,11 @@
   "getcruxai|fullstack|l1": {
    "expires": "2026-11-12T07:54:10.791048+00:00",
    "looked_up": "2026-10-31T01:01:30+00:00",
+   "status": "not_found"
+  },
+  "getixhealth|swe|l1": {
+   "expires": "2026-11-19T10:41:00.008317+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "getvisitapp|fullstack|l1": {
@@ -8287,11 +8292,6 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
-  "headspin|devops|l1": {
-   "expires": "2026-11-03T10:34:57.392730+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "helical-consulting|swe|l1": {
    "expires": "2026-11-04T21:32:31.863071+00:00",
    "looked_up": "2026-10-19T14:01:30+00:00",
@@ -9004,11 +9004,6 @@
    "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
-  "ideaelanindia|swe|l1": {
-   "expires": "2026-11-03T10:14:30.770348+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "ideaforge|swe|l2": {
    "expires": "2026-11-20T04:45:23.719404+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
@@ -9231,6 +9226,11 @@
    "status": "found",
    "year": 2025
   },
+  "infocepts|data|l1": {
+   "expires": "2026-11-13T22:02:27.020662+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "infocus-technologies-pvt-ltd|erp|l1": {
    "expires": "2026-11-12T23:31:29.370247+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
@@ -9259,6 +9259,11 @@
   "informatrixit|devops|l1": {
    "expires": "2026-11-19T17:21:24.245641+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
+   "status": "not_found"
+  },
+  "infor|data|l1": {
+   "expires": "2026-11-12T13:30:51.350610+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "infor|swe|l1": {
@@ -9441,6 +9446,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "infovision|fullstack|l1": {
+   "expires": "2026-11-14T15:21:06.225093+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
   },
   "infovision|swe|l1": {
    "basis": "ctc",
@@ -10939,6 +10949,11 @@
    "status": "found",
    "year": 2026
   },
+  "lexisnexis-risk-solutions|devops|l3": {
+   "expires": "2026-11-16T16:11:33.581605+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -11862,6 +11877,11 @@
    "looked_up": "2026-10-14T11:01:27+00:00",
    "status": "not_found"
   },
+  "medpace|swe|l1": {
+   "expires": "2026-11-17T00:47:18.764556+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "medvirtual|swe|l1": {
    "expires": "2026-11-11T22:07:21.145398+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
@@ -12429,6 +12449,11 @@
   "nasuni|devops|l1": {
    "expires": "2026-11-19T01:11:34.501715+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
+   "status": "not_found"
+  },
+  "nasuni|swe|l1": {
+   "expires": "2026-11-19T14:14:50.625642+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "navan|swe|l2": {
@@ -13115,6 +13140,11 @@
    "status": "found",
    "year": 2026
   },
+  "nuvo-aeon-diamond-jewellery-pvt-ltd|swe|l1": {
+   "expires": "2026-11-15T15:56:49.095027+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "nvent|erp|l1": {
    "expires": "2026-11-04T09:08:46.467057+00:00",
    "looked_up": "2026-10-14T10:01:32+00:00",
@@ -13261,11 +13291,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "olxindia|mobile|l1": {
-   "expires": "2026-11-03T10:22:42.057629+00:00",
-   "looked_up": "2026-10-15T05:01:24+00:00",
-   "status": "not_found"
   },
   "omnissa|data|l1": {
    "expires": "2026-11-06T11:43:33.718208+00:00",
@@ -13811,6 +13836,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/pdi-software-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "pegasystems|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T00:11:42.370539+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "hyring.com",
+     "uri": "https://hyring.com/company/pega"
     }
    ],
    "status": "found",
@@ -14400,6 +14441,11 @@
    "status": "found",
    "year": 2026
   },
+  "project-solthr|swe|l1": {
+   "expires": "2026-11-15T11:48:40.837892+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "proofpoint|swe|l1": {
    "expires": "2026-11-20T07:44:51.151055+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -14641,6 +14687,11 @@
   "pythian|devops|l1": {
    "expires": "2026-11-14T11:17:57.729642+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "q2software|swe|l1": {
+   "expires": "2026-11-17T02:35:06.053561+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "qa-lab-sandbox|swe|l1": {
@@ -15356,6 +15407,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "relx-group|devops|l3": {
+   "expires": "2026-11-10T17:31:19.085677+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
   },
   "remango-technologies-private-limited|devops|l1": {
    "expires": "2026-11-04T13:40:53.768484+00:00",
@@ -17699,6 +17755,11 @@
    "looked_up": "2026-10-30T08:01:29+00:00",
    "status": "not_found"
   },
+  "taazaa-inc|swe|l1": {
+   "expires": "2026-11-20T12:54:02.041922+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "take-2-interactive-software-inc-|data|l1": {
    "expires": "2026-11-04T09:26:22.041273+00:00",
    "looked_up": "2026-10-19T09:01:23+00:00",
@@ -18283,6 +18344,11 @@
    "looked_up": "2026-10-30T04:01:27+00:00",
    "status": "not_found"
   },
+  "teknikoz|erp|l1": {
+   "expires": "2026-11-21T21:51:14.215188+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
   "tekskills-inc|swe|l1": {
    "expires": "2026-11-16T18:02:24.020662+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -18585,8 +18651,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T02:25:49.632625+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
+   "expires": "2027-01-26T08:34:30.625955+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18599,8 +18665,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T21:42:04.324089+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
+   "expires": "2027-02-07T05:11:09.329512+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -18768,6 +18834,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "thomson-reuters|swe|l2": {
+   "expires": "2026-11-11T06:48:35.410908+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
   },
   "thoughtaddict|swe|l1": {
    "expires": "2026-11-09T11:33:54.492379+00:00",
@@ -20229,6 +20300,22 @@
    "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
+  "weareada|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T01:27:38.368516+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "job4freshers.co.in",
+     "uri": "https://job4freshers.co.in/ada-hiring-data-engineer/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "weareallendigital|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -20403,6 +20490,11 @@
   "whirlpool-of-india|swe|l1": {
    "expires": "2026-11-09T10:40:49.741233+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
+   "status": "not_found"
+  },
+  "whitehall-resources|erp|l1": {
+   "expires": "2026-11-13T15:04:55.281553+00:00",
+   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "whizz-hr|security|l1": {
@@ -21134,8 +21226,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 280,
-  "lookups_today": 75,
+  "lookups_month": 301,
+  "lookups_today": 96,
   "month": "2026-11"
  }
 }
