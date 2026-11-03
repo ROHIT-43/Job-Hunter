@@ -2062,6 +2062,11 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "avance-clinical|swe|l1": {
+   "expires": "2026-11-16T19:42:41.871335+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
+   "status": "not_found"
+  },
   "avathonai|mobile|l1": {
    "expires": "2026-11-09T06:14:14.350244+00:00",
    "looked_up": "2026-10-26T19:01:28+00:00",
@@ -3869,8 +3874,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:24:31.542839+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-04T13:22:09.606545+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4154,8 +4159,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:30:55.338330+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-08T02:15:41.229597+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4182,8 +4187,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T22:05:02.775894+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-02T06:46:01.084227+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5057,8 +5062,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:26:42.058559+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-04T20:05:09.937243+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6370,11 +6375,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "evobe-technologies|frontend|l1": {
-   "expires": "2026-11-03T22:49:52.428686+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
-   "status": "not_found"
   },
   "evolent|devops|l1": {
    "expires": "2026-11-15T10:04:05.258460+00:00",
@@ -7887,6 +7887,22 @@
    "status": "found",
    "year": 2022
   },
+  "google|mobile|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T11:34:33.789961+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
+   "max_lpa": 95.5,
+   "min_lpa": 26.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/google-salaries/software-engineer-iii"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "google|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -8704,8 +8720,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T10:44:19.980600+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-03T09:01:56.257769+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9518,6 +9534,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "infosys|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T05:21:02.401006+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/infosys-salaries/android-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "infosys|security|l1": {
    "basis": "ctc",
@@ -11565,8 +11597,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:30:42.298918+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-07T22:10:51.294157+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -14533,11 +14565,6 @@
    "looked_up": "2026-10-25T02:01:27+00:00",
    "status": "not_found"
   },
-  "pro-team-solutions-private-limited|erp|l1": {
-   "expires": "2026-11-03T22:43:22.925625+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16667,8 +16694,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T17:10:55.620357+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-01T03:23:18.836300+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -16726,11 +16753,6 @@
   "sia-partners|erp|l1": {
    "expires": "2026-11-10T20:24:48.337146+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "sidhyati-technology-solutions-private-limited|mobile|l1": {
-   "expires": "2026-11-03T22:02:50.491525+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "siemens-energy|security|l1": {
@@ -17788,8 +17810,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:58:57.331338+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-02-02T07:43:38.043173+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18554,8 +18576,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:37:12.144723+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-01-31T20:40:41.871082+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18909,8 +18931,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:49:20.456550+00:00",
-   "looked_up": "2026-11-03T22:01:33+00:00",
+   "expires": "2027-01-31T19:47:48.928696+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19641,6 +19663,11 @@
   "ubuy-india|devops|l1": {
    "expires": "2026-11-07T11:56:08.167637+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
+   "status": "not_found"
+  },
+  "ucamind|swe|l1": {
+   "expires": "2026-11-19T09:45:36.211532+00:00",
+   "looked_up": "2026-11-03T23:01:40+00:00",
    "status": "not_found"
   },
   "udshaa|data|l1": {
@@ -21554,8 +21581,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 377,
-  "lookups_today": 172,
+  "lookups_month": 381,
+  "lookups_today": 176,
   "month": "2026-11"
  }
 }
