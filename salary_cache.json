@@ -1448,11 +1448,6 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
-  "appcurators|swe|l1": {
-   "expires": "2026-11-03T21:57:40.412055+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "appinventiv|frontend|l1": {
    "expires": "2026-11-10T20:37:12.505785+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -3871,6 +3866,20 @@
    "status": "found",
    "year": 2025
   },
+  "cin7|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-07T03:24:31.542839+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
+   "max_lpa": 41.0,
+   "min_lpa": 33.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "cisco|data|l1": {
    "expires": "2026-11-12T21:46:15.194163+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
@@ -4145,8 +4154,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T00:39:07.629572+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-06T17:30:55.338330+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4173,8 +4182,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T15:42:34.339560+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-03T22:05:02.775894+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5048,8 +5057,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T14:39:41.666700+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-02T21:26:42.058559+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5184,11 +5193,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "deehar-solutions-private-limted|swe|l1": {
-   "expires": "2026-11-03T21:41:11.866995+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
   },
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
@@ -5873,19 +5877,9 @@
    "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
-  "elevate-ai-ug|swe|l1": {
-   "expires": "2026-11-03T21:46:10.331584+00:00",
-   "looked_up": "2026-10-14T21:01:27+00:00",
-   "status": "not_found"
-  },
   "eli-lilly-and-company|swe|l1": {
    "expires": "2026-11-21T11:49:23.875036+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "elitesquad-ai|data|l1": {
-   "expires": "2026-11-03T21:53:40.826594+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "eloeloapp|data|l1": {
@@ -8520,11 +8514,6 @@
    "looked_up": "2026-10-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "highbrow-technology-inc|data|l1": {
-   "expires": "2026-11-03T21:10:19.507555+00:00",
-   "looked_up": "2026-10-22T15:01:34+00:00",
-   "status": "not_found"
-  },
   "highlevel|frontend|l2": {
    "expires": "2026-11-04T11:05:46.188484+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -8617,6 +8606,26 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
+  "honeywell-aerospace|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T21:56:40.166956+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
+   "max_lpa": 11.9,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/honeywell-international-india-pvt-ltd-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/honeywell-aerospace-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "honeywell-aerospace|swe|l2": {
    "expires": "2026-11-06T01:29:16.315072+00:00",
    "looked_up": "2026-10-23T19:01:29+00:00",
@@ -8695,8 +8704,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:50:07.724088+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-08T10:44:19.980600+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11152,11 +11161,6 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
-  "linde|security|l1": {
-   "expires": "2026-11-03T21:37:19.286503+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
-   "status": "not_found"
-  },
   "linde|swe|l1": {
    "expires": "2026-11-10T23:40:08.383486+00:00",
    "looked_up": "2026-10-28T16:01:32+00:00",
@@ -11561,8 +11565,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T07:58:41.915888+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-02T09:30:42.298918+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -11653,6 +11657,11 @@
     }
    ],
    "status": "found"
+  },
+  "marriage-media-gulshan-uttara-dhaka-bangladesh-ghotok-matrimony|frontend|l1": {
+   "expires": "2026-11-16T13:45:21.821317+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
+   "status": "not_found"
   },
   "marslytics|data|l1": {
    "expires": "2026-11-09T01:15:37.367869+00:00",
@@ -14385,11 +14394,6 @@
    "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
-  "positiwise|devops|l1": {
-   "expires": "2026-11-03T21:59:44.371062+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "postaresume|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16663,8 +16667,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T14:58:15.862867+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-01-26T17:10:55.620357+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17784,8 +17788,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:04:09.015918+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-04T19:58:57.331338+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18550,8 +18554,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T21:57:11.383881+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-02T22:37:12.144723+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18905,8 +18909,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:09:43.550737+00:00",
-   "looked_up": "2026-11-03T21:03:45+00:00",
+   "expires": "2027-02-07T03:49:20.456550+00:00",
+   "looked_up": "2026-11-03T22:01:33+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21550,8 +21554,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 375,
-  "lookups_today": 170,
+  "lookups_month": 377,
+  "lookups_today": 172,
   "month": "2026-11"
  }
 }
