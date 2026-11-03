@@ -107,11 +107,6 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
-  "ab-inbev-apac|data|l1": {
-   "expires": "2026-11-03T00:07:32.766525+00:00",
-   "looked_up": "2026-10-16T14:01:29+00:00",
-   "status": "not_found"
-  },
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -617,11 +612,6 @@
    "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
-  "agivanttech|fullstack|l1": {
-   "expires": "2026-11-03T00:01:31.105418+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
-   "status": "not_found"
-  },
   "ai-vidya|swe|l1": {
    "expires": "2026-11-15T03:55:42.698056+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
@@ -1029,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:16:37.203163+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-25T16:53:01.863473+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1043,8 +1033,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:05:09.755594+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-02-04T07:10:01.050433+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4821,8 +4811,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T02:24:12.028809+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-27T04:30:54.709730+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6382,8 +6372,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T04:38:59.688103+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-02-02T08:58:06.419864+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7853,11 +7843,6 @@
   "guidewire-software|devops|l1": {
    "expires": "2026-11-13T01:55:01.179281+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "guidewire-software|devops|l3": {
-   "expires": "2026-11-03T00:31:46.416261+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "guidewire-software|frontend|l2": {
@@ -9959,8 +9944,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:57:52.201076+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-27T21:34:28.572737+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10646,8 +10631,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T14:15:15.497625+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-25T15:00:23.355242+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13156,8 +13141,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:05:51.666486+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-02-05T13:24:41.525903+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14274,8 +14259,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T01:06:12.674884+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-30T09:14:14.170122+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15040,11 +15025,6 @@
   "real-time-applications-center|frontend|l1": {
    "expires": "2026-11-06T03:19:05.239975+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "real-time-applications-center|mobile|l1": {
-   "expires": "2026-11-03T00:36:15.129631+00:00",
-   "looked_up": "2026-10-16T07:01:27+00:00",
    "status": "not_found"
   },
   "real-time-applications-center|swe|l1": {
@@ -18415,8 +18395,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:24:06.093112+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-01-26T22:39:16.107021+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18429,8 +18409,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T17:36:30.065491+00:00",
-   "looked_up": "2026-11-03T00:01:28+00:00",
+   "expires": "2027-02-02T08:57:03.461458+00:00",
+   "looked_up": "2026-11-03T01:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19058,11 +19038,6 @@
   "udshaa|data|l1": {
    "expires": "2026-11-13T08:55:09.072149+00:00",
    "looked_up": "2026-10-26T16:01:28+00:00",
-   "status": "not_found"
-  },
-  "ueducation|fullstack|l1": {
-   "expires": "2026-11-03T00:18:43.301132+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "uipath|swe|l1": {
