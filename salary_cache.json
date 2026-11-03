@@ -78,6 +78,11 @@
    "status": "found",
    "year": null
   },
+  "7-eleven-global-solution-center-–-india|security|l1": {
+   "expires": "2026-11-19T08:22:09.075238+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
+   "status": "not_found"
+  },
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1014,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T22:32:27.946623+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-02-06T01:29:45.426054+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1028,8 +1033,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T14:19:17.670877+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-01-25T07:04:27.973419+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1401,6 +1406,11 @@
   "anr-business-consulting|erp|l1": {
    "expires": "2026-11-09T02:12:21.812152+00:00",
    "looked_up": "2026-11-01T21:01:25+00:00",
+   "status": "not_found"
+  },
+  "antal-international|erp|l1": {
+   "expires": "2026-11-20T10:24:55.939142+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
   "antyl-ai|fullstack|l1": {
@@ -1793,11 +1803,6 @@
    "looked_up": "2026-10-16T17:01:24+00:00",
    "status": "not_found"
   },
-  "aspiringit|fullstack|l1": {
-   "expires": "2026-11-03T05:47:09.413944+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
-   "status": "not_found"
-  },
   "assetmark-global-wealth|devops|l1": {
    "expires": "2026-11-05T09:34:35.064725+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
@@ -1995,11 +2000,6 @@
   "autoflowtech|data|l1": {
    "expires": "2026-11-16T01:01:30.400561+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "autovyn|swe|l1": {
-   "expires": "2026-11-03T05:36:02.019371+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
   "autozone|erp|l1": {
@@ -4453,6 +4453,11 @@
    "looked_up": "2026-10-30T07:01:31+00:00",
    "status": "not_found"
   },
+  "consultixscorp|swe|l1": {
+   "expires": "2026-11-19T22:16:17.363364+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
+   "status": "not_found"
+  },
   "contact-point-360|mobile|l1": {
    "expires": "2026-11-16T21:08:55.040349+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
@@ -4806,8 +4811,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T03:50:56.901093+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-02-01T02:33:41.339557+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -5663,6 +5668,11 @@
    "looked_up": "2026-11-02T21:01:31+00:00",
    "status": "not_found"
   },
+  "elephant-in-the-boardroom|fullstack|l1": {
+   "expires": "2026-11-22T09:35:18.305168+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
+   "status": "not_found"
+  },
   "elevate-ai-ug|swe|l1": {
    "expires": "2026-11-03T21:46:10.331584+00:00",
    "looked_up": "2026-10-14T21:01:27+00:00",
@@ -5762,11 +5772,6 @@
   "encoreitsolutions|swe|l1": {
    "expires": "2026-11-11T03:58:23.006628+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
-  "engagetal-solutions|swe|l1": {
-   "expires": "2026-11-03T05:05:49.439416+00:00",
-   "looked_up": "2026-10-19T17:01:35+00:00",
    "status": "not_found"
   },
   "engenglobal|erp|l1": {
@@ -6372,8 +6377,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:11:47.447271+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-01-27T23:05:44.551582+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8451,11 +8456,6 @@
    "status": "found",
    "year": 2026
   },
-  "hp|data|l1": {
-   "expires": "2026-11-03T05:57:31.468881+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "hp|mobile|l1": {
    "expires": "2026-11-18T18:15:03.088143+00:00",
    "looked_up": "2026-10-29T06:01:32+00:00",
@@ -9934,8 +9934,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T03:33:06.800207+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-02-02T10:08:19.128127+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10621,8 +10621,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T14:54:37.071298+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-01-28T17:53:19.129264+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -11271,11 +11271,6 @@
   "manevaconsulting|swe|l1": {
    "expires": "2026-11-05T07:39:46.157121+00:00",
    "looked_up": "2026-10-26T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "mariinox|frontend|l1": {
-   "expires": "2026-11-03T05:41:12.344755+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
   "mariinox|swe|l1": {
@@ -12400,6 +12395,11 @@
   "neptuneinfotech|mobile|l1": {
    "expires": "2026-11-16T03:40:06.711341+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "nerve-solutions|swe|l1": {
+   "expires": "2026-11-14T07:41:41.264878+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
   "nestorservices|swe|l1": {
@@ -14229,8 +14229,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T16:15:03.916488+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-02-03T10:08:09.119817+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17515,6 +17515,11 @@
    "looked_up": "2026-10-30T04:01:27+00:00",
    "status": "not_found"
   },
+  "talentienglobalsolutions|frontend|l1": {
+   "expires": "2026-11-15T03:41:58.798781+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
+   "status": "not_found"
+  },
   "talentmicro-corporation|swe|l1": {
    "expires": "2026-11-03T16:18:00.404546+00:00",
    "looked_up": "2026-10-18T10:01:24+00:00",
@@ -18340,8 +18345,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T16:42:29.852800+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-01-28T11:57:13.750464+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18354,8 +18359,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T10:35:16.369480+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
+   "expires": "2027-01-28T04:47:16.699424+00:00",
+   "looked_up": "2026-11-03T06:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20819,8 +20824,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 217,
-  "lookups_today": 12,
+  "lookups_month": 223,
+  "lookups_today": 18,
   "month": "2026-11"
  }
 }
