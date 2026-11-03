@@ -1033,8 +1033,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T07:04:27.973419+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-02-08T05:44:42.859361+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1421,11 +1421,6 @@
   "anzo-controls|swe|l1": {
    "expires": "2026-11-11T18:36:10.825212+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "apni-baat-apno-ke-saath|swe|l1": {
-   "expires": "2026-11-03T06:34:23.256800+00:00",
-   "looked_up": "2026-10-23T00:01:37+00:00",
    "status": "not_found"
   },
   "appcurators|swe|l1": {
@@ -1816,11 +1811,6 @@
   "astek|erp|l1": {
    "expires": "2026-11-16T04:12:46.611342+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "astellaspharmainc|erp|l1": {
-   "expires": "2026-11-03T06:10:59.668439+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
    "status": "not_found"
   },
   "astika-software-technologies-private-limited|swe|l1": {
@@ -4468,11 +4458,6 @@
    "looked_up": "2026-10-19T21:01:25+00:00",
    "status": "not_found"
   },
-  "copart|swe|l1": {
-   "expires": "2026-11-03T06:28:30.956747+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
-   "status": "not_found"
-  },
   "copeland|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4811,8 +4796,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T02:33:41.339557+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-02-05T05:01:45.845288+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6377,8 +6362,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T23:05:44.551582+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-01-26T17:18:36.798947+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8015,11 +8000,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "haseln-agency|fullstack|l1": {
-   "expires": "2026-11-03T06:32:08.878514+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
-   "status": "not_found"
   },
   "haseln-agency|swe|l1": {
    "expires": "2026-11-04T15:20:23.621272+00:00",
@@ -9934,8 +9914,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T10:08:19.128127+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-02-05T06:24:13.507496+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10621,8 +10601,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T17:53:19.129264+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-01-25T23:56:20.547157+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13908,11 +13888,6 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
-  "pinnacle99-inc|erp|l1": {
-   "expires": "2026-11-03T06:35:19.287297+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
-   "status": "not_found"
-  },
   "pinterview|swe|l1": {
    "expires": "2026-11-10T12:54:34.014306+00:00",
    "looked_up": "2026-10-24T07:01:21+00:00",
@@ -14229,8 +14204,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T10:08:09.119817+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-01-27T19:44:55.014763+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18345,8 +18320,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T11:57:13.750464+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-01-31T06:52:51.653574+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18359,8 +18334,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T04:47:16.699424+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
+   "expires": "2027-01-27T07:28:32.388804+00:00",
+   "looked_up": "2026-11-03T06:46:55+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
