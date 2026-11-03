@@ -832,11 +832,6 @@
    "looked_up": "2026-10-16T16:01:31+00:00",
    "status": "not_found"
   },
-  "albertsons-companies-india|swe|l1": {
-   "expires": "2026-11-03T02:13:10.281793+00:00",
-   "looked_up": "2026-10-20T14:01:32+00:00",
-   "status": "not_found"
-  },
   "alchem-international-pvt-ltd|frontend|l1": {
    "expires": "2026-11-11T06:25:41.759972+00:00",
    "looked_up": "2026-10-27T10:01:29+00:00",
@@ -1019,8 +1014,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T11:07:28.347308+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-01-29T01:53:39.585919+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1033,8 +1028,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T22:05:45.645694+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-01-30T03:16:30.360345+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1320,11 +1315,6 @@
    "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
-  "amrita-vishwa-vidyapeetham|swe|l1": {
-   "expires": "2026-11-03T02:34:54.877928+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
   "analog-devices|swe|l1": {
    "expires": "2026-11-07T05:37:32.535382+00:00",
    "looked_up": "2026-10-28T19:01:28+00:00",
@@ -1396,6 +1386,11 @@
   "anglertechnologies|frontend|l1": {
    "expires": "2026-11-12T19:33:45.417164+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
+   "status": "not_found"
+  },
+  "anish-ashirgade|erp|l1": {
+   "expires": "2026-11-20T15:25:23.782658+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "status": "not_found"
   },
   "anovia-inc|swe|l1": {
@@ -4816,8 +4811,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:44:04.650843+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-06T05:24:13.772270+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6377,8 +6372,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T00:51:36.380205+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-02T01:14:44.335518+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9944,8 +9939,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T02:41:07.955454+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-03T10:08:34.143519+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10631,8 +10626,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T18:18:58.093252+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-01T05:49:22.989888+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13141,8 +13136,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T23:13:40.139255+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-06T05:49:25.958361+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13575,11 +13570,6 @@
     }
    ],
    "status": "found"
-  },
-  "payfinia|swe|l1": {
-   "expires": "2026-11-03T02:06:15.676222+00:00",
-   "looked_up": "2026-10-14T05:02:59+00:00",
-   "status": "not_found"
   },
   "paypal|data|l1": {
    "expires": "2026-11-03T08:34:25.831445+00:00",
@@ -14254,8 +14244,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T12:06:01.423044+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-01-29T17:06:20.366424+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18370,8 +18360,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:59:19.472712+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-02T22:31:22.616562+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18384,8 +18374,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T22:10:55.672789+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
+   "expires": "2027-02-02T13:08:10.355361+00:00",
+   "looked_up": "2026-11-03T03:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19569,11 +19559,6 @@
   "vighnesh-inc|swe|l1": {
    "expires": "2026-11-11T15:11:41.687711+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "vineforceit|frontend|l1": {
-   "expires": "2026-11-03T02:12:35.235432+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
    "status": "not_found"
   },
   "vineforgetechnologies|swe|l1": {
@@ -20859,8 +20844,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 208,
-  "lookups_today": 3,
+  "lookups_month": 209,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
