@@ -1019,8 +1019,8 @@
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T16:53:01.863473+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-07T11:07:28.347308+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1033,8 +1033,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T07:10:01.050433+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-01-25T22:05:45.645694+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2431,6 +2431,11 @@
   "bdoinindia|security|l1": {
    "expires": "2026-11-05T22:25:42.957395+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "be-additive|swe|l1": {
+   "expires": "2026-11-18T16:41:31.508940+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "status": "not_found"
   },
   "bestex-research-group|swe|l1": {
@@ -4811,8 +4816,8 @@
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:30:54.709730+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-05T18:44:04.650843+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -6372,8 +6377,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T08:58:06.419864+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-05T00:51:36.380205+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -8566,11 +8571,6 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
-  "huntingcubeai|data|l1": {
-   "expires": "2026-11-03T01:12:15.314598+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
-  },
   "huntingcubeai|erp|l1": {
    "expires": "2026-11-06T20:02:35.053623+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -9944,8 +9944,8 @@
   "jobgether|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T21:34:28.572737+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-07T02:41:07.955454+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -10631,8 +10631,8 @@
   "kuvaka|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T15:00:23.355242+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-03T18:18:58.093252+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 4.5,
    "min_lpa": 3.0,
    "sources": [
@@ -13141,8 +13141,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T13:24:41.525903+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-07T23:13:40.139255+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13541,11 +13541,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "paribus-ai|swe|l1": {
-   "expires": "2026-11-03T01:23:28.617778+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
   },
   "parmarketing|mobile|l1": {
    "expires": "2026-11-05T11:09:35.321371+00:00",
@@ -14259,8 +14254,8 @@
   "proptsolutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:14:14.170122+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-02T12:06:01.423044+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14416,11 +14411,6 @@
   "pwc-ac-india|fullstack|l1": {
    "expires": "2026-11-08T04:57:34.899032+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "pwc-ac-india|security|l1": {
-   "expires": "2026-11-03T01:49:47.889165+00:00",
-   "looked_up": "2026-10-23T22:01:26+00:00",
    "status": "not_found"
   },
   "pwc-ac-india|swe|l1": {
@@ -15446,11 +15436,6 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
-  "routemobile|devops|l1": {
-   "expires": "2026-11-03T01:21:44.267108+00:00",
-   "looked_up": "2026-10-23T19:01:29+00:00",
-   "status": "not_found"
-  },
   "rskiec|devops|l1": {
    "expires": "2026-11-16T03:01:46.238201+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -15554,11 +15539,6 @@
   "saatvik-agro-processors-private-limited|frontend|l1": {
    "expires": "2026-11-06T02:32:56.951433+00:00",
    "looked_up": "2026-10-19T11:01:27+00:00",
-   "status": "not_found"
-  },
-  "saatvik-agro-processors-private-limited|fullstack|l1": {
-   "expires": "2026-11-03T01:59:38.291381+00:00",
-   "looked_up": "2026-10-13T06:01:26+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|mobile|l1": {
@@ -16630,11 +16610,6 @@
    "status": "found",
    "year": 2025
   },
-  "smallest|devops|l1": {
-   "expires": "2026-11-03T01:59:03.777435+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
-   "status": "not_found"
-  },
   "smaowl9|fullstack|l1": {
    "expires": "2026-11-13T01:20:23.752725+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
@@ -16701,6 +16676,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "snaphomz|fullstack|l1": {
+   "expires": "2026-11-12T02:07:34.229882+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
+   "status": "not_found"
   },
   "snapmintfinserv|mobile|l1": {
    "basis": "ctc",
@@ -17380,11 +17360,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "swipeloan|swe|l1": {
-   "expires": "2026-11-03T01:12:40.788231+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
   },
   "swiss-re|swe|l1": {
    "expires": "2026-11-04T00:58:37.812708+00:00",
@@ -18395,8 +18370,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:39:16.107021+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-02-06T23:59:19.472712+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18409,8 +18384,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T08:57:03.461458+00:00",
-   "looked_up": "2026-11-03T01:01:29+00:00",
+   "expires": "2027-01-27T22:10:55.672789+00:00",
+   "looked_up": "2026-11-03T02:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20884,8 +20859,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 206,
-  "lookups_today": 1,
+  "lookups_month": 208,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
