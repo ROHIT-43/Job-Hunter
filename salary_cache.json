@@ -1732,11 +1732,6 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
-  "arsecats|erp|l1": {
-   "expires": "2026-11-03T14:22:43.626697+00:00",
-   "looked_up": "2026-10-25T10:01:24+00:00",
-   "status": "not_found"
-  },
   "aruba-a-hewlett-packard-enterprise-company|swe|l1": {
    "expires": "2026-11-08T19:41:45.790999+00:00",
    "looked_up": "2026-10-20T17:01:29+00:00",
@@ -1965,11 +1960,6 @@
   "atsmantra|data|l1": {
    "expires": "2026-11-04T22:42:04.280345+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
-  "att|devops|l1": {
-   "expires": "2026-11-03T14:04:01.884702+00:00",
-   "looked_up": "2026-10-22T20:01:26+00:00",
    "status": "not_found"
   },
   "atyeti-inc|erp|l1": {
@@ -4980,8 +4970,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T12:24:12.321589+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-02-07T21:03:35.554423+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5552,11 +5542,6 @@
    "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
   },
-  "dover-solutions-india|swe|l1": {
-   "expires": "2026-11-03T14:16:10.991315+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
-   "status": "not_found"
-  },
   "doyengroup|swe|l1": {
    "expires": "2026-11-05T01:20:33.917274+00:00",
    "looked_up": "2026-10-16T12:01:35+00:00",
@@ -5585,6 +5570,11 @@
   "duck-creek-technologies|swe|l1": {
    "expires": "2026-11-06T23:42:12.853419+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
+   "status": "not_found"
+  },
+  "dun-&amp;-bradstreet|data|l1": {
+   "expires": "2026-11-11T17:21:57.896623+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
   "dunnhumby|data|l1": {
@@ -8113,11 +8103,6 @@
    "looked_up": "2026-10-20T01:01:24+00:00",
    "status": "not_found"
   },
-  "handbuiltapps|swe|l1": {
-   "expires": "2026-11-03T14:49:34.823943+00:00",
-   "looked_up": "2026-10-14T12:01:29+00:00",
-   "status": "not_found"
-  },
   "happiest-minds-technologies|data|l1": {
    "expires": "2026-11-08T18:19:56.797384+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
@@ -9658,6 +9643,11 @@
    ],
    "status": "found"
   },
+  "insight-global|fullstack|l1": {
+   "expires": "2026-11-21T02:12:25.922197+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
+   "status": "not_found"
+  },
   "insight-international-uk-ltd|devops|l1": {
    "expires": "2026-11-17T04:24:40.561441+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -9720,6 +9710,11 @@
   "into-university-partnerships|swe|l1": {
    "expires": "2026-11-05T02:12:58.552499+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "intuition-it-intuitive-technology-recruitment|erp|l1": {
+   "expires": "2026-11-12T03:54:09.046741+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
   "intuit|swe|l1": {
@@ -10861,6 +10856,11 @@
    "status": "found",
    "year": 2026
   },
+  "lastworkingday|fullstack|l1": {
+   "expires": "2026-11-18T10:48:27.693091+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
+   "status": "not_found"
+  },
   "latinem-private-limited|devops|l1": {
    "expires": "2026-11-04T01:31:52.112899+00:00",
    "looked_up": "2026-10-16T07:19:03+00:00",
@@ -11348,6 +11348,22 @@
    "status": "found",
    "year": 2026
   },
+  "luxoft|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T02:08:38.043206+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/luxoft-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "maayasthra|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -11442,8 +11458,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T05:56:26.125449+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-02-04T21:11:47.711440+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12553,11 +12569,6 @@
    "status": "found",
    "year": 2026
   },
-  "ncrvoyix|frontend|l1": {
-   "expires": "2026-11-03T14:47:20.316364+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "ncrvoyix|swe|l2": {
    "expires": "2026-11-07T15:53:55.061473+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -13486,6 +13497,11 @@
   "opsarmycareers|erp|l1": {
    "expires": "2026-11-06T02:18:11.931693+00:00",
    "looked_up": "2026-10-20T03:01:29+00:00",
+   "status": "not_found"
+  },
+  "optimal-strategix-group-inc|swe|l1": {
+   "expires": "2026-11-23T22:47:33.942976+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
   "optumindia|swe|l1": {
@@ -16497,8 +16513,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:14:21.351078+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-01-27T00:16:50.924329+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17554,6 +17570,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sulzer|swe|l1": {
+   "expires": "2026-11-13T15:18:37.863367+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
+   "status": "not_found"
   },
   "sumanhealth|swe|l1": {
    "expires": "2026-11-19T19:11:06.487365+00:00",
@@ -18686,8 +18707,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T11:29:11.231079+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-01-28T09:36:46.447481+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18715,8 +18736,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T17:34:38.481972+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-01-27T21:13:59.045884+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18729,8 +18750,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:03:41.936780+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
+   "expires": "2027-01-27T01:13:40.719685+00:00",
+   "looked_up": "2026-11-03T15:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -21326,8 +21347,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 333,
-  "lookups_today": 128,
+  "lookups_month": 340,
+  "lookups_today": 135,
   "month": "2026-11"
  }
 }
