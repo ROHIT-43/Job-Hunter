@@ -362,11 +362,6 @@
    "looked_up": "2026-10-31T12:01:25+00:00",
    "status": "not_found"
   },
-  "aci-worldwide|devops|l1": {
-   "expires": "2026-11-03T11:21:19.074509+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "aci-worldwide|swe|l1": {
    "expires": "2026-11-06T16:50:29.909467+00:00",
    "looked_up": "2026-10-28T22:01:34+00:00",
@@ -1816,6 +1811,11 @@
   "aspen-technology|swe|l2": {
    "expires": "2026-11-03T17:16:17.288707+00:00",
    "looked_up": "2026-10-16T17:01:24+00:00",
+   "status": "not_found"
+  },
+  "aspirox-private-limited|swe|l1": {
+   "expires": "2026-11-21T23:39:47.417440+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "status": "not_found"
   },
   "assetmark-global-wealth|devops|l1": {
@@ -3896,6 +3896,11 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
+  "citi|frontend|l1": {
+   "expires": "2026-11-22T18:08:55.986210+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
+  },
   "citi|swe|l1": {
    "expires": "2026-11-09T05:38:38.321783+00:00",
    "looked_up": "2026-10-26T23:01:33+00:00",
@@ -4465,6 +4470,11 @@
    "status": "found",
    "year": 2026
   },
+  "comply-org|data|l1": {
+   "expires": "2026-11-12T07:24:08.929132+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
+  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4549,11 +4559,6 @@
   "contact-point-360|mobile|l1": {
    "expires": "2026-11-16T21:08:55.040349+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
-  "continental-industry|erp|l1": {
-   "expires": "2026-11-03T11:50:25.865172+00:00",
-   "looked_up": "2026-10-19T21:01:25+00:00",
    "status": "not_found"
   },
   "copeland|swe|l1": {
@@ -4920,11 +4925,6 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
-  "cybrain-software-solutions|frontend|l1": {
-   "expires": "2026-11-03T11:56:05.821980+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
-   "status": "not_found"
-  },
   "cybrogix|fullstack|l1": {
    "expires": "2026-11-21T09:42:55.518064+00:00",
    "looked_up": "2026-11-02T03:01:30+00:00",
@@ -4975,8 +4975,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T20:22:05.645793+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
+   "expires": "2027-02-06T13:27:17.416136+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6504,8 +6504,8 @@
   "factori-com|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-25T18:54:37.799363+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
+   "expires": "2027-01-26T02:46:59.013519+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -7869,6 +7869,11 @@
     }
    ],
    "status": "found"
+  },
+  "graniteshares|swe|l1": {
+   "expires": "2026-11-12T13:39:11.077061+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
   },
   "grapesworldwide|fullstack|l1": {
    "expires": "2026-11-22T15:15:38.732546+00:00",
@@ -9671,11 +9676,6 @@
    "looked_up": "2026-10-17T09:01:22+00:00",
    "status": "not_found"
   },
-  "intellisensetechnology|swe|l1": {
-   "expires": "2026-11-03T11:27:12.521154+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
-   "status": "not_found"
-  },
   "interaktv|swe|l1": {
    "expires": "2026-11-13T17:55:36.104768+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
@@ -9973,11 +9973,6 @@
    "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
-  "jabil|swe|l2": {
-   "expires": "2026-11-03T11:41:25.147575+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "jacobs|fullstack|l1": {
    "expires": "2026-11-12T04:05:48.139142+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -10005,11 +10000,6 @@
   "jenvyqo|data|l1": {
    "expires": "2026-11-10T04:13:36.194660+00:00",
    "looked_up": "2026-10-29T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "jenvyqo|swe|l1": {
-   "expires": "2026-11-03T11:03:26.799734+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
    "status": "not_found"
   },
   "jio-saavn|devops|l1": {
@@ -10385,6 +10375,11 @@
   "kanishkasoftware|devops|l1": {
    "expires": "2026-11-08T16:22:48.609624+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
+   "status": "not_found"
+  },
+  "kapivaayurveda|fullstack|l2": {
+   "expires": "2026-11-17T06:59:54.101760+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "status": "not_found"
   },
   "kaplan|swe|l1": {
@@ -11702,6 +11697,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "matrix-medicals-pvt-ltd---india|frontend|l1": {
+   "expires": "2026-11-15T22:20:29.151902+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
   },
   "matrixcare|swe|l1": {
    "expires": "2026-11-05T20:47:51.997012+00:00",
@@ -18627,10 +18627,10 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T02:00:03.398475+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "max_lpa": 15.0,
-   "min_lpa": 8.0,
+   "expires": "2027-01-28T22:52:18.793920+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 12.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -18651,8 +18651,8 @@
   "thealteroffice|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T08:34:30.625955+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
+   "expires": "2027-01-31T13:00:16.366514+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "max_lpa": 10.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18665,8 +18665,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T05:11:09.329512+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
+   "expires": "2027-02-06T13:46:08.656531+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19898,6 +19898,11 @@
    "looked_up": "2026-10-23T22:01:26+00:00",
    "status": "not_found"
   },
+  "vicharak-in|swe|l1": {
+   "expires": "2026-11-15T18:01:41.158318+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
+  },
   "vidhyutron-technology-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -20280,11 +20285,6 @@
    "looked_up": "2026-10-29T06:01:32+00:00",
    "status": "not_found"
   },
-  "wastefull-insights|devops|l1": {
-   "expires": "2026-11-03T11:45:22.615326+00:00",
-   "looked_up": "2026-10-19T11:01:27+00:00",
-   "status": "not_found"
-  },
   "waystoneglobal|swe|l1": {
    "expires": "2026-11-07T20:34:22.118525+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -20477,6 +20477,22 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/WEX-Salaries-E3450.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "wexinc|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T13:03:15.430154+00:00",
+   "looked_up": "2026-11-03T12:01:28+00:00",
+   "max_lpa": 19.8,
+   "min_lpa": 19.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/wex-inc-salaries"
     }
    ],
    "status": "found",
@@ -21226,8 +21242,8 @@
  },
  "meta": {
   "day": "2026-11-03",
-  "lookups_month": 301,
-  "lookups_today": 96,
+  "lookups_month": 309,
+  "lookups_today": 104,
   "month": "2026-11"
  }
 }
