@@ -41,11 +41,6 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
-  "4dalert|erp|l1": {
-   "expires": "2026-11-04T15:14:02.339134+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
-  },
   "4th-quarter-technologies|swe|l1": {
    "expires": "2026-11-12T15:35:04.936453+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -110,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T06:29:55.696347+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-01T20:01:03.592505+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -955,11 +950,6 @@
   "allegis-global-solutions|swe|l1": {
    "expires": "2026-11-23T15:22:22.873533+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
-  },
-  "allianceit-inc|swe|l1": {
-   "expires": "2026-11-04T15:42:08.619099+00:00",
-   "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
   "allimetech|security|l1": {
@@ -3478,11 +3468,6 @@
    "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
-  "cardinal-health|fullstack|l1": {
-   "expires": "2026-11-04T15:48:12.231070+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
-  },
   "cardoneventures|fullstack|l1": {
    "expires": "2026-11-10T05:54:44.260876+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -3995,8 +3980,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T16:03:55.444631+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-05T22:42:04.613031+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4281,8 +4266,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T05:52:00.680986+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-01T02:38:54.417763+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4309,8 +4294,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:27:26.372469+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-01-31T22:08:57.350190+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5215,8 +5200,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T13:51:33.967737+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-02T00:39:33.152916+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7462,8 +7447,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:02:28.776600+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-01-27T20:07:48.062083+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8404,6 +8389,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "hallmark-search-partners|swe|l1": {
+   "expires": "2026-11-15T21:58:01.095155+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
+   "status": "not_found"
+  },
   "hamon-techonologies-llp|swe|l1": {
    "expires": "2026-11-09T23:39:51.950587+00:00",
    "looked_up": "2026-10-20T01:01:24+00:00",
@@ -8479,11 +8469,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "haseln-agency|swe|l1": {
-   "expires": "2026-11-04T15:20:23.621272+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
-   "status": "not_found"
   },
   "hawkmartech|swe|l1": {
    "expires": "2026-11-09T07:57:05.508794+00:00",
@@ -8912,8 +8897,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T01:01:55.277611+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-06T12:21:53.411394+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10440,8 +10425,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:39:18.638752+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-03T09:27:30.472476+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12673,11 +12658,6 @@
    "looked_up": "2026-10-19T16:01:34+00:00",
    "status": "not_found"
   },
-  "monty-mobile|swe|l1": {
-   "expires": "2026-11-04T15:29:13.804074+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
   "moodys-corporation|swe|l1": {
    "expires": "2026-11-15T14:08:37.462025+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -12824,6 +12804,11 @@
   "msd-global|swe|l1": {
    "expires": "2026-11-18T08:28:06.012690+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
+   "status": "not_found"
+  },
+  "msg-global|devops|l1": {
+   "expires": "2026-11-22T11:16:17.301814+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
   "msg-global|frontend|l1": {
@@ -13876,8 +13861,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T06:22:54.979689+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-05T00:52:17.324781+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14068,6 +14053,22 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "ora-apps|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-30T08:37:18.365608+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ora-apps-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "oracle|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14223,11 +14224,6 @@
   "oxybills|swe|l1": {
    "expires": "2026-11-21T06:23:46.872728+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "paccar|swe|l1": {
-   "expires": "2026-11-04T15:56:13.191918+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
   "paisabazaar|mobile|l1": {
@@ -14548,11 +14544,6 @@
   "pharmizza-technology-solutions-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-07T09:52:06.838561+00:00",
    "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
-  "pharvinex-international|erp|l1": {
-   "expires": "2026-11-04T15:29:35.098804+00:00",
-   "looked_up": "2026-10-18T00:01:29+00:00",
    "status": "not_found"
   },
   "phenomai|swe|l2": {
@@ -14963,8 +14954,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:45:04.732765+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-03T09:37:13.506218+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -15119,6 +15110,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "puma|fullstack|l1": {
+   "expires": "2026-11-16T04:34:46.787483+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
+   "status": "not_found"
+  },
+  "puma|swe|l1": {
+   "expires": "2026-11-21T15:33:51.389993+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
+   "status": "not_found"
   },
   "purestorage|swe|l1": {
    "basis": "base",
@@ -17871,8 +17872,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T09:38:22.595015+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-06T19:38:20.182064+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18205,8 +18206,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T10:52:29.796928+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-02-07T23:16:42.940994+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18283,8 +18284,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T15:45:17.947263+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-01-28T11:19:02.635872+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -19021,8 +19022,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:14:56.505028+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
+   "expires": "2027-01-28T10:33:27.571062+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20202,6 +20203,22 @@
    "expires": "2026-11-23T06:21:13.337294+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
+  },
+  "unisys|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T13:22:52.362243+00:00",
+   "looked_up": "2026-11-04T16:01:28+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 5.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/unisys-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "unisys|security|l1": {
    "expires": "2026-11-22T08:16:48.223891+00:00",
@@ -22125,8 +22142,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 496,
-  "lookups_today": 115,
+  "lookups_month": 502,
+  "lookups_today": 121,
   "month": "2026-11"
  }
 }
