@@ -3874,8 +3874,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T08:50:03.893661+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-04T21:28:07.488579+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4159,8 +4159,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:16:16.891610+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-02T07:35:55.464717+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4187,8 +4187,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:20:56.138866+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-01-26T16:36:59.562704+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5065,15 +5065,24 @@
    "year": 2025
   },
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
-   "expires": "2026-11-20T09:25:12.977349+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-26T22:17:56.384416+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T11:13:45.286296+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-08T18:26:36.243884+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6765,6 +6774,26 @@
    "expires": "2026-11-05T11:41:32.484677+00:00",
    "looked_up": "2026-10-20T07:01:25+00:00",
    "status": "not_found"
+  },
+  "finacle|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T19:47:32.503716+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/infosys-salaries/finacle-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/profile/finacle-application-support-salary"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "financetimes|swe|l1": {
    "basis": "posted",
@@ -8716,8 +8745,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:05:24.380251+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-02T11:20:43.719101+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -9288,6 +9317,11 @@
    ],
    "status": "found",
    "year": null
+  },
+  "inde-dutch-engineering-&amp;-aerospace-services-ltd|erp|l1": {
+   "expires": "2026-11-19T10:01:25.194955+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
+   "status": "not_found"
   },
   "indiasfutureinvestors|erp|l1": {
    "expires": "2026-11-04T11:51:43.749579+00:00",
@@ -10166,8 +10200,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:45:12.497767+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-01-28T01:43:19.264399+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10251,11 +10285,6 @@
   "jobadder-middleware-test-company|swe|l1": {
    "expires": "2026-11-10T22:42:46.047569+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "jobbricksglobal|swe|l1": {
-   "expires": "2026-11-04T04:26:50.259102+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
   "jobfixnow|swe|l1": {
@@ -11592,8 +11621,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:49:13.376175+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-01T09:31:58.936103+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12221,11 +12250,6 @@
    "status": "found",
    "year": 2025
   },
-  "millerknoll|erp|l1": {
-   "expires": "2026-11-04T04:49:05.525047+00:00",
-   "looked_up": "2026-10-18T10:01:24+00:00",
-   "status": "not_found"
-  },
   "mimecast|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -12739,11 +12763,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "neer-info-solutions|swe|l1": {
-   "expires": "2026-11-04T04:08:05.356114+00:00",
-   "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
   },
   "neevglobal|swe|l1": {
    "expires": "2026-11-09T20:14:57.436854+00:00",
@@ -16688,8 +16707,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T13:22:56.918387+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-06T15:05:24.844988+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17804,8 +17823,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T01:28:49.246087+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-01-29T15:17:01.584790+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18307,6 +18326,22 @@
    "status": "found",
    "year": 2026
   },
+  "tata-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T18:46:03.743753+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
+   "max_lpa": 6.1,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/tata-technologies-salaries/dot-net-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "tataelectronicspvtltd|swe|l1": {
    "expires": "2026-11-17T10:59:58.748970+00:00",
    "looked_up": "2026-10-29T16:01:30+00:00",
@@ -18570,8 +18605,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T19:05:49.438497+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-03T20:41:36.582399+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18842,11 +18877,6 @@
    "status": "found",
    "year": 2026
   },
-  "the-1-clubfws|swe|l1": {
-   "expires": "2026-11-04T04:58:46.961919+00:00",
-   "looked_up": "2026-10-19T08:01:32+00:00",
-   "status": "not_found"
-  },
   "the-aes-group|swe|l1": {
    "expires": "2026-11-23T15:56:35.347537+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -18925,8 +18955,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T02:24:22.384695+00:00",
-   "looked_up": "2026-11-04T04:01:31+00:00",
+   "expires": "2027-02-07T10:46:16.183883+00:00",
+   "looked_up": "2026-11-04T05:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19995,11 +20025,6 @@
    "status": "found",
    "year": 2026
   },
-  "uy-studios|swe|l1": {
-   "expires": "2026-11-04T04:40:40.556221+00:00",
-   "looked_up": "2026-10-15T00:01:24+00:00",
-   "status": "not_found"
-  },
   "vadodara-developers-society|frontend|l1": {
    "expires": "2026-11-15T21:36:37.416898+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -20384,11 +20409,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "vithamas-tech|mobile|l1": {
-   "expires": "2026-11-04T04:46:53.250182+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
-   "status": "not_found"
   },
   "vmc-soft-technologies-inc|devops|l1": {
    "expires": "2026-11-15T17:18:25.413926+00:00",
@@ -21585,8 +21605,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 395,
-  "lookups_today": 14,
+  "lookups_month": 398,
+  "lookups_today": 17,
   "month": "2026-11"
  }
 }
