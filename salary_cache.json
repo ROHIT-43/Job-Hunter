@@ -110,8 +110,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:11:39.964439+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-01-28T03:12:29.639784+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -985,11 +985,6 @@
     }
    ],
    "status": "found"
-  },
-  "alphabin|devops|l1": {
-   "expires": "2026-11-04T12:25:07.060507+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
   },
   "alphadelving|frontend|l1": {
    "basis": "posted",
@@ -3926,6 +3921,11 @@
    "looked_up": "2026-10-22T06:01:29+00:00",
    "status": "not_found"
   },
+  "chevron|data|l1": {
+   "expires": "2026-11-22T12:24:50.718783+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
+  },
   "chezzion-solutions|erp|l1": {
    "expires": "2026-11-06T00:25:02.550092+00:00",
    "looked_up": "2026-10-24T17:01:32+00:00",
@@ -3985,8 +3985,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T06:21:16.042340+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-01-31T04:12:53.300949+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4061,11 +4061,6 @@
    "looked_up": "2026-10-26T23:01:33+00:00",
    "status": "not_found"
   },
-  "cladbe|swe|l1": {
-   "expires": "2026-11-04T12:37:21.975876+00:00",
-   "looked_up": "2026-10-20T07:01:25+00:00",
-   "status": "not_found"
-  },
   "cleanstart-official|fullstack|l1": {
    "expires": "2026-11-10T20:07:32.913322+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -4115,6 +4110,22 @@
    "expires": "2026-11-04T21:03:00.267658+00:00",
    "looked_up": "2026-10-17T03:01:23+00:00",
    "status": "not_found"
+  },
+  "cloudesign|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T17:54:11.841882+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "max_lpa": 4.9,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cloudesign-technology-solutions-salaries/full-stack-web-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "cloudflare|swe|l1": {
    "basis": "ctc",
@@ -4260,8 +4271,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T22:50:06.259156+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-08T20:41:33.086322+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4288,8 +4299,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:31:17.166298+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-01T11:49:18.448820+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5194,8 +5205,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:48:38.777042+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-03T00:32:19.424135+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5543,6 +5554,11 @@
    "looked_up": "2026-10-30T09:01:38+00:00",
    "status": "not_found"
   },
+  "dhl|devops|l1": {
+   "expires": "2026-11-22T01:46:40.378786+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
+  },
   "dhl|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5598,11 +5614,6 @@
   "digicert-inc-|security|l1": {
    "expires": "2026-11-09T16:52:04.865333+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "digiletechnologies|data|l1": {
-   "expires": "2026-11-04T12:53:48.756444+00:00",
-   "looked_up": "2026-10-18T12:01:26+00:00",
    "status": "not_found"
   },
   "digiletechnologies|erp|l1": {
@@ -7240,6 +7251,11 @@
    "looked_up": "2026-10-25T16:01:25+00:00",
    "status": "not_found"
   },
+  "flsmidth|swe|l1": {
+   "expires": "2026-11-16T06:56:24.868308+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
+  },
   "flywire|erp|l1": {
    "expires": "2026-11-17T23:52:40.347600+00:00",
    "looked_up": "2026-11-03T18:02:22+00:00",
@@ -7437,6 +7453,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "fxuav|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T23:03:32.866967+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "gartner|frontend|l1": {
    "basis": "ctc",
@@ -8877,8 +8907,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:27:05.596172+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-01-31T00:42:15.830509+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10405,8 +10435,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T09:44:34.270523+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-02T04:41:32.058939+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11851,8 +11881,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T15:38:47.944446+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-01-28T17:38:40.108602+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12734,6 +12764,22 @@
    "status": "found",
    "year": 2026
   },
+  "mphasis|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T14:57:40.625553+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mphasis-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "mphasis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12956,6 +13002,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ncrvoyix|swe|l1": {
+   "expires": "2026-11-13T03:56:55.989797+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
   },
   "ncrvoyix|swe|l2": {
    "expires": "2026-11-07T15:53:55.061473+00:00",
@@ -13641,6 +13692,22 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
+  "oceaneering|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T04:35:46.209339+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://talentd.in/jobs/oceaneering-is-hiring-apprentice-application-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "octaveintelligence|swe|l1": {
    "expires": "2026-11-07T17:07:03.138088+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -13773,8 +13840,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:30:11.840704+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-04T01:18:20.005371+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -15136,6 +15203,11 @@
    "status": "found",
    "year": 2026
   },
+  "pwc-india|security|l1": {
+   "expires": "2026-11-16T08:46:55.839174+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
+  },
   "pwc|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15525,11 +15597,6 @@
    ],
    "status": "found"
   },
-  "quikr|mobile|l1": {
-   "expires": "2026-11-04T12:25:35.032165+00:00",
-   "looked_up": "2026-10-15T09:01:27+00:00",
-   "status": "not_found"
-  },
   "quirkbank-media|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15552,6 +15619,11 @@
   "quixta|swe|l1": {
    "expires": "2026-11-19T00:37:00.899182+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
+   "status": "not_found"
+  },
+  "qurinomsolutions|mobile|l1": {
+   "expires": "2026-11-22T00:08:20.500891+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
   "qvantel|swe|l1": {
@@ -15922,6 +15994,26 @@
    "expires": "2026-11-13T07:50:08.145804+00:00",
    "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
+  },
+  "reveation-labs|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T23:49:32.318048+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/overview/reveation-labs-overview"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/reveation-labs-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "reveation-labs|swe|l3": {
    "basis": "ctc",
@@ -16419,6 +16511,11 @@
   "samsdigitalin|swe|l1": {
    "expires": "2026-11-23T18:14:54.416792+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
+   "status": "not_found"
+  },
+  "sandisk|swe|l1": {
+   "expires": "2026-11-24T13:10:52.433463+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
   "sandisk|swe|l2": {
@@ -17729,8 +17826,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T22:48:11.309322+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-01T16:33:11.440418+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18063,8 +18160,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T07:59:59.173158+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-04T07:32:21.614934+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18141,8 +18238,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T05:24:43.899966+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-03T11:35:21.739180+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18864,8 +18961,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T17:47:12.245005+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
+   "expires": "2027-02-03T07:19:55.053947+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19041,6 +19138,11 @@
    ],
    "status": "found",
    "year": 2020
+  },
+  "tesco-technology|swe|l1": {
+   "expires": "2026-11-20T04:06:10.859133+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
   },
   "tesco-technology|swe|l2": {
    "basis": "ctc",
@@ -19949,6 +20051,11 @@
    ],
    "status": "found"
   },
+  "ubs|data|l1": {
+   "expires": "2026-11-15T09:02:13.089772+00:00",
+   "looked_up": "2026-11-04T13:01:29+00:00",
+   "status": "not_found"
+  },
   "ubs|devops|l1": {
    "expires": "2026-11-10T12:55:59.051265+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -20195,11 +20302,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "ustglobal|data|l3": {
-   "expires": "2026-11-04T12:27:15.050537+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
   },
   "ustglobal|devops|l3": {
    "basis": "ctc",
@@ -21958,8 +22060,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 472,
-  "lookups_today": 91,
+  "lookups_month": 485,
+  "lookups_today": 104,
   "month": "2026-11"
  }
 }
