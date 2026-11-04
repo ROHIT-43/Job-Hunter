@@ -807,11 +807,6 @@
    "status": "found",
    "year": 2025
   },
-  "akraya-inc|erp|l1": {
-   "expires": "2026-11-04T03:16:54.141385+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "akraya-inc|security|l1": {
    "expires": "2026-11-20T15:54:50.367331+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -3879,8 +3874,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T08:27:49.493857+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-01-30T08:50:03.893661+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4164,8 +4159,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T04:38:28.935314+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-01-27T16:16:16.891610+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4192,8 +4187,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:44:44.921486+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-01-28T07:20:56.138866+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4898,11 +4893,6 @@
    "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
-  "custodos|fullstack|l1": {
-   "expires": "2026-11-04T03:57:32.276027+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
-   "status": "not_found"
-  },
   "custodos|swe|l1": {
    "expires": "2026-11-05T04:09:16.206288+00:00",
    "looked_up": "2026-10-21T22:01:33+00:00",
@@ -5082,8 +5072,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T18:11:17.692708+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-05T11:13:45.286296+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5602,11 +5592,6 @@
   "dnegvfx|swe|l1": {
    "expires": "2026-11-10T02:19:54.900967+00:00",
    "looked_up": "2026-10-24T02:01:23+00:00",
-   "status": "not_found"
-  },
-  "dnv|erp|l1": {
-   "expires": "2026-11-04T03:41:38.755413+00:00",
-   "looked_up": "2026-10-23T18:01:24+00:00",
    "status": "not_found"
   },
   "docusign|mobile|l1": {
@@ -8731,8 +8716,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:33:33.528240+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-03T19:05:24.380251+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10181,8 +10166,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T13:30:52.098619+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-02T02:45:12.497767+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11607,8 +11592,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T10:37:54.704183+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-04T01:49:13.376175+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -16703,8 +16688,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T10:37:15.023990+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-08T13:22:56.918387+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17819,8 +17804,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T22:52:23.831372+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-06T01:28:49.246087+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18585,8 +18570,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T16:08:50.967620+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-02-05T19:05:49.438497+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18940,8 +18925,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T07:12:08.359358+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
+   "expires": "2027-01-27T02:24:22.384695+00:00",
+   "looked_up": "2026-11-04T04:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
