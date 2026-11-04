@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T22:54:02.520087+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-04T00:09:11.253212+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3661,11 +3661,6 @@
    "status": "found",
    "year": 2023
   },
-  "cdknorthamerica|security|l1": {
-   "expires": "2026-11-04T09:09:43.390509+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
-  },
   "cdknorthamerica|swe|l1": {
    "expires": "2026-11-10T00:56:39.438893+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -3914,8 +3909,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T08:00:51.093139+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-01-26T12:47:05.888860+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4199,8 +4194,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T16:49:09.712427+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-06T10:58:14.362101+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4227,8 +4222,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T23:17:35.188691+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-01-29T04:25:17.333596+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5128,8 +5123,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T18:32:59.752594+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-05T08:40:39.729246+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8811,8 +8806,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:15:17.368757+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-09T08:51:44.242046+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10339,8 +10334,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T15:11:32.866302+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-06T14:23:08.699320+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11780,8 +11775,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:53:29.447545+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-01-26T20:57:19.286787+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13498,11 +13493,6 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
-  "nvent|erp|l1": {
-   "expires": "2026-11-04T09:08:46.467057+00:00",
-   "looked_up": "2026-10-14T10:01:32+00:00",
-   "status": "not_found"
-  },
   "nvent|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13707,8 +13697,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:50:46.203047+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-01-29T11:56:18.080679+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -16871,8 +16861,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T20:14:36.659565+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-07T05:28:22.362614+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17987,8 +17977,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T14:11:46.202957+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-02T01:36:51.948042+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18065,8 +18055,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T07:22:50.581821+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-01T04:07:40.676063+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18793,8 +18783,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:46:20.679673+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-08T03:21:09.890481+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19138,8 +19128,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T22:04:59.678350+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
+   "expires": "2027-02-07T12:11:05.725200+00:00",
+   "looked_up": "2026-11-04T09:11:01+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
