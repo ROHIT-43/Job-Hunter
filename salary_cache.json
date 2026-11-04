@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:26:13.014662+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-01T19:10:14.182160+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -1690,11 +1690,6 @@
   "ara-resources-pvt.-ltd.|erp|l1": {
    "expires": "2026-11-10T01:09:01.603255+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "arbelosgroup|swe|l1": {
-   "expires": "2026-11-04T19:42:28.376371+00:00",
-   "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
   },
   "arcadiahq|swe|l2": {
@@ -4016,8 +4011,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T05:55:45.802495+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-01T19:19:01.262768+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -5242,8 +5237,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T16:44:11.567143+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-01-31T12:22:15.234469+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6117,11 +6112,6 @@
    "status": "found",
    "year": 2026
   },
-  "emerson|swe|l2": {
-   "expires": "2026-11-04T19:30:01.311513+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
-  },
   "employability-life|security|l1": {
    "expires": "2026-11-07T05:56:53.984902+00:00",
    "looked_up": "2026-10-28T09:01:31+00:00",
@@ -6765,11 +6755,6 @@
     }
    ],
    "status": "found"
-  },
-  "factset|devops|l1": {
-   "expires": "2026-11-04T19:09:38.982096+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
   },
   "factset|frontend|l2": {
    "basis": "base",
@@ -7484,8 +7469,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:34:50.844481+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-08T05:29:42.515200+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8239,11 +8224,6 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
-  "groveda-global|fullstack|l1": {
-   "expires": "2026-11-04T19:44:41.740739+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
   "growe-global|swe|l1": {
    "expires": "2026-11-08T17:31:40.643121+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
@@ -8573,11 +8553,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "hclsoftware|swe|l1": {
-   "expires": "2026-11-04T19:46:10.156971+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
   },
   "hcltech|security|l1": {
    "basis": "ctc",
@@ -10508,8 +10483,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T04:36:18.011911+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-03T00:38:07.085931+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -13340,6 +13315,11 @@
    "status": "found",
    "year": 2026
   },
+  "nielseniq|devops|l3": {
+   "expires": "2026-11-16T07:29:36.560591+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
+   "status": "not_found"
+  },
   "nielseniq|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13944,8 +13924,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T07:09:05.091352+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-05T17:33:28.281321+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14302,6 +14282,11 @@
   "outcome-school|swe|l1": {
    "expires": "2026-11-12T03:13:52.232009+00:00",
    "looked_up": "2026-10-24T00:01:32+00:00",
+   "status": "not_found"
+  },
+  "owlly-health|swe|l1": {
+   "expires": "2026-11-22T20:36:13.883080+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "status": "not_found"
   },
   "oxmiq-labs|swe|l1": {
@@ -15042,8 +15027,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:46:46.668624+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-01-30T07:29:59.006463+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17950,8 +17935,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T18:16:03.461289+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-02-07T04:33:31.745625+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18352,8 +18337,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T01:42:19.462782+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
+   "expires": "2027-01-29T02:18:59.465774+00:00",
+   "looked_up": "2026-11-04T20:01:18+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -22246,8 +22231,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 518,
-  "lookups_today": 137,
+  "lookups_month": 520,
+  "lookups_today": 139,
   "month": "2026-11"
  }
 }
