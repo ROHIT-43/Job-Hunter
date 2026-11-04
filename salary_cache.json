@@ -2538,6 +2538,11 @@
    "status": "found",
    "year": 2025
   },
+  "billmartfintech|mobile|l1": {
+   "expires": "2026-11-12T14:11:17.283761+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
+   "status": "not_found"
+  },
   "binaire-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T19:08:01.828158+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -3874,8 +3879,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:56:14.660358+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-08T08:27:49.493857+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4159,8 +4164,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T18:28:02.505234+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-07T04:38:28.935314+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4187,8 +4192,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:11:02.314593+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-01-28T01:44:44.921486+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5077,8 +5082,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:50:01.351323+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-01T18:11:17.692708+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8536,11 +8541,6 @@
    "looked_up": "2026-10-25T08:01:27+00:00",
    "status": "not_found"
   },
-  "hh-global|devops|l1": {
-   "expires": "2026-11-04T02:43:53.858808+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
   "highlevel|frontend|l2": {
    "expires": "2026-11-04T11:05:46.188484+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
@@ -8731,8 +8731,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T17:51:20.615739+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-08T00:33:33.528240+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10181,8 +10181,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T18:49:39.346489+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-01T13:30:52.098619+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10611,11 +10611,6 @@
     }
    ],
    "status": "found"
-  },
-  "kasparro-ai|swe|l1": {
-   "expires": "2026-11-04T02:01:46.930673+00:00",
-   "looked_up": "2026-10-22T10:17:31+00:00",
-   "status": "not_found"
   },
   "kastech-software-solutions-group|erp|l1": {
    "basis": "ctc",
@@ -11612,8 +11607,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:40:26.084715+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-06T10:37:54.704183+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13536,6 +13531,16 @@
    "status": "found",
    "year": 2025
   },
+  "one-simulation|devops|l1": {
+   "expires": "2026-11-11T16:02:27.094759+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
+   "status": "not_found"
+  },
+  "one-simulation|frontend|l1": {
+   "expires": "2026-11-19T20:55:28.985220+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
+   "status": "not_found"
+  },
   "onehousehq|swe|l1": {
    "expires": "2026-11-12T08:37:11.865987+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -13610,6 +13615,11 @@
   "opensity-solutions|erp|l1": {
    "expires": "2026-11-12T00:45:14.215302+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
+   "status": "not_found"
+  },
+  "openstellar|frontend|l1": {
+   "expires": "2026-11-11T22:56:18.163299+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "status": "not_found"
   },
   "opensystems|swe|l1": {
@@ -16693,8 +16703,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:14:44.664777+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-07T10:37:15.023990+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17809,8 +17819,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T16:48:29.151491+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-01-28T22:52:23.831372+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18575,8 +18585,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:18:01.961328+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-05T16:08:50.967620+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18930,8 +18940,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:09:49.176382+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
+   "expires": "2027-02-03T07:12:08.359358+00:00",
+   "looked_up": "2026-11-04T03:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21590,8 +21600,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 391,
-  "lookups_today": 10,
+  "lookups_month": 395,
+  "lookups_today": 14,
   "month": "2026-11"
  }
 }
