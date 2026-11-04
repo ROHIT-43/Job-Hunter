@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T02:23:02.873009+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-06T21:26:13.014662+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -4016,8 +4016,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T09:59:57.724709+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-08T05:55:45.802495+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4942,11 +4942,6 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
-  "criclive-in|swe|l1": {
-   "expires": "2026-11-04T18:35:39.482288+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
-   "status": "not_found"
-  },
   "crossinghurdles|fullstack|l1": {
    "expires": "2026-11-07T00:57:14.623678+00:00",
    "looked_up": "2026-10-25T11:01:34+00:00",
@@ -5247,8 +5242,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:08:32.619866+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-01-27T16:44:11.567143+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5828,11 +5823,6 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
-  "droisys|frontend|l1": {
-   "expires": "2026-11-04T18:53:39.172906+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
-   "status": "not_found"
-  },
   "dtcc|data|l1": {
    "expires": "2026-11-15T09:14:25.874170+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -6010,11 +6000,6 @@
   "edwards|devops|l1": {
    "expires": "2026-11-20T21:21:28.921382+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
-   "status": "not_found"
-  },
-  "effulgent-inc|fullstack|l1": {
-   "expires": "2026-11-04T18:47:28.951392+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
   "effulgent-inc|swe|l1": {
@@ -7293,11 +7278,6 @@
    "status": "found",
    "year": 2026
   },
-  "floydee-infotech-private-limited|fullstack|l1": {
-   "expires": "2026-11-04T18:38:16.054596+00:00",
-   "looked_up": "2026-10-25T16:01:25+00:00",
-   "status": "not_found"
-  },
   "flsmidth|swe|l1": {
    "expires": "2026-11-16T06:56:24.868308+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -7504,8 +7484,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:15:49.048382+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-07T13:34:50.844481+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8470,6 +8450,26 @@
    "expires": "2026-11-08T18:19:56.797384+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
    "status": "not_found"
+  },
+  "happiest-minds-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T03:21:46.168223+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/happiest-minds-technologies-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/happiest-minds-technologies-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "hard-n-soft-technologies|swe|l1": {
    "expires": "2026-11-11T22:40:10.019473+00:00",
@@ -10508,8 +10508,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T02:05:39.093978+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-01-30T04:36:18.011911+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12690,11 +12690,6 @@
    ],
    "status": "found"
   },
-  "mizuora-software|swe|l1": {
-   "expires": "2026-11-04T18:57:07.635862+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
-  },
   "mobily-infotech|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12997,6 +12992,11 @@
   "nasuni|swe|l1": {
    "expires": "2026-11-19T14:14:50.625642+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
+  "nationwide|swe|l1": {
+   "expires": "2026-11-18T10:15:18.851023+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "status": "not_found"
   },
   "navan|swe|l2": {
@@ -13944,8 +13944,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T21:28:54.030174+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-09T07:09:05.091352+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -15042,8 +15042,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:31:20.167643+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-09T02:46:46.668624+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17950,8 +17950,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:09:22.897947+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-02-03T18:16:03.461289+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18020,11 +18020,6 @@
   "srest|swe|l1": {
    "expires": "2026-11-20T15:48:31.038577+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "srs-infrastructure|swe|l1": {
-   "expires": "2026-11-04T18:35:33.037891+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
   "ss-c-technologies|swe|l1": {
@@ -18319,11 +18314,6 @@
    "looked_up": "2026-10-20T08:01:29+00:00",
    "status": "not_found"
   },
-  "swayalgo-technologies-pvt-ltd|swe|l1": {
-   "expires": "2026-11-04T18:43:27.898636+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
-  },
   "swedium-global-services-ab|data|l1": {
    "expires": "2026-11-06T11:12:48.736545+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -18362,8 +18352,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:51:44.239139+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
+   "expires": "2027-01-27T01:42:19.462782+00:00",
+   "looked_up": "2026-11-04T19:01:20+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -22256,8 +22246,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 516,
-  "lookups_today": 135,
+  "lookups_month": 518,
+  "lookups_today": 137,
   "month": "2026-11"
  }
 }
