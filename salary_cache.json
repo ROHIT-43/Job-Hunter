@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T07:50:44.924716+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-04T08:53:22.799817+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2367,9 +2367,24 @@
    "year": 2025
   },
   "barclays-bank|devops|l1": {
-   "expires": "2026-11-04T22:23:09.321887+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T19:41:27.210024+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/barclays-salaries/devops-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/barclays-salaries/cloud-devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "barclays-bank|fullstack|l1": {
    "basis": "ctc",
@@ -5222,8 +5237,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T09:12:30.643391+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-03T09:39:17.395513+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7449,8 +7464,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T05:16:01.588954+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-01-30T01:56:15.183296+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -10458,8 +10473,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T11:40:19.140721+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-03T21:40:50.723414+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -10533,11 +10548,6 @@
   "jmdtechnologies-inc|swe|l1": {
    "expires": "2026-11-08T07:19:30.909646+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "jnjinnovativemedicine|swe|l1": {
-   "expires": "2026-11-04T22:18:19.336328+00:00",
-   "looked_up": "2026-10-15T16:01:35+00:00",
    "status": "not_found"
   },
   "jobadder-middleware-test-company|swe|l1": {
@@ -13899,8 +13909,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T20:16:15.879079+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-01-31T00:12:39.214063+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -15002,8 +15012,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T08:54:47.368900+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-02T22:51:44.963915+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17900,8 +17910,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T04:10:16.443463+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-03T06:26:06.458047+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18302,8 +18312,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T22:33:53.446729+00:00",
-   "looked_up": "2026-11-04T22:01:19+00:00",
+   "expires": "2027-02-05T03:21:10.174283+00:00",
+   "looked_up": "2026-11-04T22:39:26+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -21156,11 +21166,6 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
-  "we-plm|swe|l1": {
-   "expires": "2026-11-04T22:37:16.875369+00:00",
-   "looked_up": "2026-10-22T04:01:26+00:00",
-   "status": "not_found"
-  },
   "wealthy-in|devops|l1": {
    "expires": "2026-11-05T17:02:59.970421+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -22191,8 +22196,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 521,
-  "lookups_today": 140,
+  "lookups_month": 522,
+  "lookups_today": 141,
   "month": "2026-11"
  }
 }
