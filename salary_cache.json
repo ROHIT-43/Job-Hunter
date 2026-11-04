@@ -1222,11 +1222,6 @@
    "status": "found",
    "year": 2026
   },
-  "american-express|devops|l2": {
-   "expires": "2026-11-04T06:03:31.073108+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "american-express|security|l3": {
    "basis": "base",
    "confidence": "low",
@@ -1353,6 +1348,11 @@
     }
    ],
    "status": "found"
+  },
+  "andor-tech|devops|l1": {
+   "expires": "2026-11-12T00:33:02.568590+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
   },
   "andromedaloans|swe|l1": {
    "basis": "posted",
@@ -2626,6 +2626,11 @@
    "status": "found",
    "year": 2023
   },
+  "blacklistedagency|swe|l1": {
+   "expires": "2026-11-12T18:48:17.627728+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "blackrock|frontend|l1": {
    "expires": "2026-11-12T13:06:05.451213+00:00",
    "looked_up": "2026-10-24T19:01:25+00:00",
@@ -2660,11 +2665,6 @@
   "bluebex|fullstack|l1": {
    "expires": "2026-11-14T05:13:56.870827+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
-  },
-  "blueflute-software|mobile|l1": {
-   "expires": "2026-11-04T07:01:16.170805+00:00",
-   "looked_up": "2026-10-18T08:01:23+00:00",
    "status": "not_found"
   },
   "bluefoxsystems|swe|l1": {
@@ -3890,8 +3890,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:09:58.570693+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-01-29T01:37:02.302087+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4175,8 +4175,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:00:56.880514+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-05T06:05:32.920769+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4203,8 +4203,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:07:02.140493+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-08T09:41:31.957759+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5088,8 +5088,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T14:36:37.108787+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-02T00:34:51.846617+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5168,11 +5168,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "data-eminence|swe|l1": {
-   "expires": "2026-11-04T06:18:08.590708+00:00",
-   "looked_up": "2026-10-24T02:01:23+00:00",
-   "status": "not_found"
   },
   "datae2e|devops|l1": {
    "expires": "2026-11-04T13:17:30.780895+00:00",
@@ -8621,6 +8616,11 @@
    "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
+  "hirojet|data|l1": {
+   "expires": "2026-11-13T22:35:01.022917+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "hirojet|devops|l1": {
    "expires": "2026-11-11T10:05:36.292449+00:00",
    "looked_up": "2026-10-28T07:01:30+00:00",
@@ -8771,8 +8771,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T11:07:14.536940+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-01-28T20:15:10.335348+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10236,8 +10236,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:58:37.356650+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-01-30T11:55:20.327412+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11657,8 +11657,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T18:53:12.088985+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-01T20:29:38.074469+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12669,11 +12669,6 @@
   "nasdaq|swe|l1": {
    "expires": "2026-11-04T08:59:17.987031+00:00",
    "looked_up": "2026-10-16T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "nasugroup-com|security|l1": {
-   "expires": "2026-11-04T06:38:30.864594+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
    "status": "not_found"
   },
   "nasuni|devops|l1": {
@@ -14644,11 +14639,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "privet-ventures|swe|l1": {
-   "expires": "2026-11-04T06:25:47.725002+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
-   "status": "not_found"
-  },
   "pro5-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14686,6 +14676,11 @@
   "progenesis-ivf|fullstack|l1": {
    "expires": "2026-11-22T22:42:47.314530+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "progenesis-ivf|swe|l1": {
+   "expires": "2026-11-15T03:03:56.498415+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
   "programmers-io|swe|l1": {
@@ -16758,8 +16753,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T09:54:08.397773+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-02T16:42:47.812388+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17770,6 +17765,11 @@
    "looked_up": "2026-10-31T16:01:26+00:00",
    "status": "not_found"
   },
+  "stratign|swe|l1": {
+   "expires": "2026-11-21T10:48:21.344877+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "stripe|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -17879,8 +17879,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T20:08:27.645686+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-03T17:40:01.915592+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -17953,6 +17953,20 @@
    "expires": "2026-11-18T08:29:50.048707+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
+  },
+  "switsdigital|erp|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-05T04:42:05.017956+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "max_lpa": 21.0,
+   "min_lpa": 21.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "switsdigital|swe|l1": {
    "expires": "2026-11-13T14:49:20.273052+00:00",
@@ -18661,8 +18675,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T13:51:03.067939+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-02-02T10:21:32.441512+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18983,11 +18997,6 @@
    "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
-  "the-manitowoc-company|swe|l1": {
-   "expires": "2026-11-04T06:37:46.870983+00:00",
-   "looked_up": "2026-10-25T18:01:23+00:00",
-   "status": "not_found"
-  },
   "the-starter-labs|fullstack|l1": {
    "expires": "2026-11-09T11:55:08.189183+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
@@ -19011,8 +19020,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:26:24.172630+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
+   "expires": "2027-01-30T05:59:55.225071+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20193,6 +20202,11 @@
    "looked_up": "2026-10-24T19:01:25+00:00",
    "status": "not_found"
   },
+  "velankanigroup|frontend|l1": {
+   "expires": "2026-11-19T15:57:25.180183+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "vena-solutions|devops|l1": {
    "expires": "2026-11-06T14:40:54.035969+00:00",
    "looked_up": "2026-10-20T15:01:31+00:00",
@@ -21187,6 +21201,11 @@
    "looked_up": "2026-10-22T15:01:34+00:00",
    "status": "not_found"
   },
+  "xylem|swe|l1": {
+   "expires": "2026-11-16T22:33:48.283748+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "yachtlocharter|fullstack|l1": {
    "expires": "2026-11-10T02:25:33.369660+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
@@ -21597,11 +21616,6 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
-  "zimmerbiomet|swe|l1": {
-   "expires": "2026-11-04T06:03:01.909462+00:00",
-   "looked_up": "2026-10-15T15:01:34+00:00",
-   "status": "not_found"
-  },
   "zmitra|swe|l1": {
    "expires": "2026-11-06T09:03:21.592417+00:00",
    "looked_up": "2026-10-18T02:01:28+00:00",
@@ -21648,6 +21662,11 @@
    "status": "found",
    "year": 2026
   },
+  "zyoin|data|l1": {
+   "expires": "2026-11-22T10:53:53.845516+00:00",
+   "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
   "وظائف-المملكة-السعودية|frontend|l1": {
    "expires": "2026-11-11T18:07:19.324073+00:00",
    "looked_up": "2026-10-24T07:01:21+00:00",
@@ -21656,8 +21675,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 407,
-  "lookups_today": 26,
+  "lookups_month": 415,
+  "lookups_today": 34,
   "month": "2026-11"
  }
 }
