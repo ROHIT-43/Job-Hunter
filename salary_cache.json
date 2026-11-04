@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T11:05:58.850962+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-01T02:23:02.873009+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -899,11 +899,6 @@
   "algoforge-aerospace|swe|l1": {
    "expires": "2026-11-22T15:08:13.381912+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
-   "status": "not_found"
-  },
-  "algoleap|data|l1": {
-   "expires": "2026-11-04T17:51:58.231104+00:00",
-   "looked_up": "2026-10-17T17:01:26+00:00",
    "status": "not_found"
   },
   "algoleap|erp|l1": {
@@ -3399,6 +3394,22 @@
    "status": "found",
    "year": 2024
   },
+  "capgemini-engineering|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T14:42:30.118816+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/capgemini-salaries/full-stack-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "capgemini-engineering|mobile|l1": {
    "expires": "2026-11-10T17:42:32.710986+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -4005,8 +4016,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T18:06:51.582873+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-07T09:59:57.724709+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -5236,8 +5247,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T12:59:10.470630+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-01-28T05:08:32.619866+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6001,11 +6012,6 @@
    "looked_up": "2026-11-02T19:01:30+00:00",
    "status": "not_found"
   },
-  "efforts-unlimited|swe|l1": {
-   "expires": "2026-11-04T17:55:39.223534+00:00",
-   "looked_up": "2026-10-15T01:01:23+00:00",
-   "status": "not_found"
-  },
   "effulgent-inc|fullstack|l1": {
    "expires": "2026-11-04T18:47:28.951392+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
@@ -6268,6 +6274,26 @@
    "expires": "2026-11-21T02:49:17.434495+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
+  },
+  "equifax|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T05:00:38.678279+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equifax-salaries/engineer-trainee"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equifax-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "equifax|devops|l2": {
    "basis": "ctc",
@@ -7478,8 +7504,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T21:32:58.909362+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-01T01:15:49.048382+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -7881,6 +7907,11 @@
   "globus-academy|swe|l1": {
    "expires": "2026-11-09T16:27:29.329711+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
+  },
+  "glopros|erp|l1": {
+   "expires": "2026-11-13T03:33:37.803135+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "status": "not_found"
   },
   "gnext-data-solutions|swe|l1": {
@@ -10273,6 +10304,22 @@
    "status": "found",
    "year": 2026
   },
+  "iqvia|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T09:54:28.791562+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
+   "max_lpa": 10.1,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/iqvia-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "iqvia|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10461,8 +10508,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T08:18:58.086621+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-03T02:05:39.093978+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11285,6 +11332,26 @@
    "status": "found",
    "year": 2025
   },
+  "l&amp;t-technology-services-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T15:02:30.877478+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 2.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/l-and-t-technology-services-salaries/software-developer/mysuru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/l-and-t-technology-services-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "labcorp|swe|l1": {
    "expires": "2026-11-12T18:17:07.992655+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
@@ -12000,11 +12067,6 @@
    "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
-  "marvell|security|l1": {
-   "expires": "2026-11-04T17:45:57.641122+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
-   "status": "not_found"
-  },
   "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
    "expires": "2026-11-17T16:55:41.687871+00:00",
    "looked_up": "2026-10-30T21:01:32+00:00",
@@ -12679,6 +12741,11 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
+  "moneytos|devops|l1": {
+   "expires": "2026-11-19T08:35:35.941934+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
+   "status": "not_found"
+  },
   "mongodbinc|swe|l3": {
    "expires": "2026-11-07T09:09:49.972764+00:00",
    "looked_up": "2026-10-19T16:01:34+00:00",
@@ -13241,11 +13308,6 @@
   "nextenti-tech-private-limited|devops|l1": {
    "expires": "2026-11-07T07:57:25.430358+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
-  "nextenti-tech-private-limited|swe|l1": {
-   "expires": "2026-11-04T17:52:06.705009+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
   "nextpowerinc|devops|l1": {
@@ -13882,8 +13944,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T06:24:25.839090+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-03T21:28:54.030174+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -13943,6 +14005,11 @@
   "openingsfirst|swe|l1": {
    "expires": "2026-11-14T14:29:40.676673+00:00",
    "looked_up": "2026-11-04T06:01:27+00:00",
+   "status": "not_found"
+  },
+  "openingsfirst|swe|l2": {
+   "expires": "2026-11-12T13:35:25.076730+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "status": "not_found"
   },
   "openlm|security|l1": {
@@ -14975,8 +15042,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T14:10:34.398585+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-07T18:31:20.167643+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16883,11 +16950,6 @@
    ],
    "status": "found"
   },
-  "sd-biosensor-healthcare-private-limited|swe|l1": {
-   "expires": "2026-11-04T17:54:20.466816+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
-   "status": "not_found"
-  },
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -17888,8 +17950,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T18:38:23.290654+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-04T01:09:22.897947+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18300,8 +18362,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T15:03:21.632978+00:00",
-   "looked_up": "2026-11-04T17:15:08+00:00",
+   "expires": "2027-02-02T16:51:44.239139+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -21420,8 +21482,8 @@
    "status": "not_found"
   },
   "whizz-hr|security|l1": {
-   "expires": "2026-11-04T17:32:56.454100+00:00",
-   "looked_up": "2026-10-16T10:01:31+00:00",
+   "expires": "2026-11-16T19:12:27.890631+00:00",
+   "looked_up": "2026-11-04T18:01:18+00:00",
    "status": "not_found"
   },
   "wibitsweb|swe|l1": {
@@ -22194,8 +22256,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 508,
-  "lookups_today": 127,
+  "lookups_month": 516,
+  "lookups_today": 135,
   "month": "2026-11"
  }
 }
