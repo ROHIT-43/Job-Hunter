@@ -3874,8 +3874,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T13:22:09.606545+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-08T05:32:17.124015+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4159,8 +4159,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:15:41.229597+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-01-26T13:35:10.272791+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4187,8 +4187,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T06:46:01.084227+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-08T22:02:21.276982+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5062,8 +5062,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T20:05:09.937243+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-08T14:11:35.130452+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -8720,8 +8720,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T09:01:56.257769+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-01-28T05:54:17.519075+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -11597,8 +11597,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T22:10:51.294157+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-01T12:20:20.314235+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -13663,6 +13663,30 @@
    "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
+  "optumindia|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T04:39:52.837285+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
+   "max_lpa": 12.6,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/optum-salaries/data-engineer-1"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/optum/salaries/software-engineer/locations/greater-hyderabad-area"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/optum-salaries/sde/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "optumindia|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14365,11 +14389,6 @@
   "plante-moran|erp|l1": {
    "expires": "2026-11-07T12:55:12.629875+00:00",
    "looked_up": "2026-10-24T11:00:03+00:00",
-   "status": "not_found"
-  },
-  "planview|swe|l2": {
-   "expires": "2026-11-03T23:29:53.342858+00:00",
-   "looked_up": "2026-10-15T10:01:23+00:00",
    "status": "not_found"
   },
   "platinum-software-cbe|swe|l1": {
@@ -16540,11 +16559,6 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
-  "seismic|swe|l1": {
-   "expires": "2026-11-03T23:44:48.544429+00:00",
-   "looked_up": "2026-10-23T19:01:29+00:00",
-   "status": "not_found"
-  },
   "seismic|swe|l2": {
    "expires": "2026-11-08T15:54:56.460109+00:00",
    "looked_up": "2026-10-29T15:01:36+00:00",
@@ -16694,8 +16708,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T03:23:18.836300+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-06T04:09:12.552293+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17810,8 +17824,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T07:43:38.043173+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-08T05:10:35.258600+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18576,8 +18590,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T20:40:41.871082+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-02-07T18:27:42.523672+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18931,8 +18945,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:47:48.928696+00:00",
-   "looked_up": "2026-11-03T23:01:40+00:00",
+   "expires": "2027-01-28T09:08:15.205197+00:00",
+   "looked_up": "2026-11-04T00:01:35+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20085,11 +20099,6 @@
   "vanguard|swe|l2": {
    "expires": "2026-11-15T19:11:41.561348+00:00",
    "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
-  "varite|swe|l1": {
-   "expires": "2026-11-03T23:32:02.541802+00:00",
-   "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
   "varmas-trust|fullstack|l1": {
@@ -21580,9 +21589,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-03",
-  "lookups_month": 381,
-  "lookups_today": 176,
+  "day": "2026-11-04",
+  "lookups_month": 382,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
