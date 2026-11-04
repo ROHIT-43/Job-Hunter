@@ -110,8 +110,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T08:19:37.468632+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-01-29T06:29:55.696347+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2930,6 +2930,11 @@
    "status": "found",
    "year": 2026
   },
+  "bold-business|fullstack|l1": {
+   "expires": "2026-11-19T01:02:50.407750+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
+   "status": "not_found"
+  },
   "bolzano-india|swe|l1": {
    "expires": "2026-11-05T06:22:12.654485+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -3571,11 +3576,6 @@
    "looked_up": "2026-10-27T10:01:29+00:00",
    "status": "not_found"
   },
-  "cargoclave|fullstack|l1": {
-   "expires": "2026-11-04T14:37:56.501783+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
-   "status": "not_found"
-  },
   "carpet-international|frontend|l1": {
    "expires": "2026-11-19T01:03:39.117095+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
@@ -3995,8 +3995,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T02:19:34.106554+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-04T16:03:55.444631+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4281,8 +4281,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T14:25:17.067996+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-01-29T05:52:00.680986+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4309,8 +4309,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T03:55:27.221047+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-01-27T04:27:26.372469+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5215,8 +5215,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T18:58:08.485283+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-01-30T13:51:33.967737+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7462,8 +7462,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T11:12:55.563080+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-08T22:02:28.776600+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8174,6 +8174,11 @@
   "grapesworldwide|fullstack|l1": {
    "expires": "2026-11-22T15:15:38.732546+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "grayson-talent-management-solutions|swe|l1": {
+   "expires": "2026-11-18T04:58:37.090031+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "status": "not_found"
   },
   "greathrsolutions|erp|l1": {
@@ -8907,8 +8912,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T01:45:50.255384+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-09T01:01:55.277611+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10435,8 +10440,8 @@
   "jeesha|erp|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T01:38:57.343129+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-04T15:39:18.638752+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11873,11 +11878,6 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
-  "maieuticedutech|swe|l1": {
-   "expires": "2026-11-04T15:01:29.318759+00:00",
-   "looked_up": "2026-10-24T16:01:37+00:00",
-   "status": "not_found"
-  },
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12961,6 +12961,26 @@
    "status": "found",
    "year": 2025
   },
+  "ncratleos|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-27T16:09:56.926174+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
+   "max_lpa": 15.5,
+   "min_lpa": 14.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ncr-atleos-salaries/software-engineer2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/ncr-atleos-reviews/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "ncrvoyix|data|l2": {
    "expires": "2026-11-11T04:40:21.247416+00:00",
    "looked_up": "2026-10-21T13:01:36+00:00",
@@ -13856,8 +13876,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:38:24.568585+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-02T06:22:54.979689+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14939,6 +14959,20 @@
    "expires": "2026-11-09T23:13:42.410411+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
+  },
+  "prodigee-finance-ltd|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T21:45:04.732765+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "profoundme|fullstack|l3": {
    "expires": "2026-11-14T08:10:15.616290+00:00",
@@ -17837,8 +17871,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:14:43.734156+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-05T09:38:22.595015+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18171,8 +18205,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T03:08:34.612902+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-05T10:52:29.796928+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -18249,8 +18283,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T00:37:46.997205+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-02-02T15:45:17.947263+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18987,8 +19021,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T10:35:34.493635+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
+   "expires": "2027-01-27T16:14:56.505028+00:00",
+   "looked_up": "2026-11-04T15:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19958,11 +19992,6 @@
   "triton-infotech-fzc|swe|l1": {
    "expires": "2026-11-14T13:22:35.642605+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "troy-consultancy|erp|l1": {
-   "expires": "2026-11-04T14:53:34.738092+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
   "trucktec|swe|l1": {
@@ -22096,8 +22125,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 493,
-  "lookups_today": 112,
+  "lookups_month": 496,
+  "lookups_today": 115,
   "month": "2026-11"
  }
 }
