@@ -3874,8 +3874,8 @@
   "cin7|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T05:32:17.124015+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-02-07T01:23:40.673315+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 41.0,
    "min_lpa": 33.0,
    "sources": [
@@ -4159,8 +4159,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-26T13:35:10.272791+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-02-05T02:25:21.499231+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4187,8 +4187,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:02:21.276982+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-02-02T06:07:18.112043+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4613,6 +4613,26 @@
    "expires": "2026-11-16T12:18:43.488114+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
+  },
+  "conduent|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T17:50:24.873144+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
+   "max_lpa": 6.2,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/conduent-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/conduent-salaries/noida-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "connect-career-in|swe|l1": {
    "basis": "posted",
@@ -5062,8 +5082,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T14:11:35.130452+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-01-26T07:25:53.073776+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6332,11 +6352,6 @@
   "eventsalta|fullstack|l1": {
    "expires": "2026-11-18T00:14:20.542371+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
-  "everpure-data|erp|l1": {
-   "expires": "2026-11-04T00:34:19.815746+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
    "status": "not_found"
   },
   "everpure-data|fullstack|l1": {
@@ -8197,6 +8212,22 @@
    "status": "found",
    "year": 2026
   },
+  "hakkoda|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T01:01:43.551203+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
+   "max_lpa": 9.7,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hakkoda-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "hakkoda|fullstack|l1": {
    "expires": "2026-11-06T19:51:26.356706+00:00",
    "looked_up": "2026-10-30T18:01:27+00:00",
@@ -8720,8 +8751,8 @@
   "hotsourced|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T05:54:17.519075+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-01-27T22:24:35.195806+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 15.0,
    "min_lpa": 12.0,
    "sources": [
@@ -10167,6 +10198,20 @@
    ],
    "status": "found"
   },
+  "jeesha|erp|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-03T23:59:34.938983+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "jenvyqo|data|l1": {
    "expires": "2026-11-10T04:13:36.194660+00:00",
    "looked_up": "2026-10-29T14:01:33+00:00",
@@ -11597,8 +11642,8 @@
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:20:20.314235+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-01-29T13:57:19.567847+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 10.0,
    "min_lpa": 8.0,
    "sources": [
@@ -12067,11 +12112,6 @@
    "status": "found",
    "year": 2026
   },
-  "medpace|erp|l1": {
-   "expires": "2026-11-04T00:25:55.152802+00:00",
-   "looked_up": "2026-10-14T11:01:27+00:00",
-   "status": "not_found"
-  },
   "medpace|swe|l1": {
    "expires": "2026-11-17T00:47:18.764556+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -12130,11 +12170,6 @@
   "metlife|devops|l2": {
    "expires": "2026-11-13T21:36:38.854520+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "metro-services-private-limited|devops|l1": {
-   "expires": "2026-11-04T00:07:39.773709+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
   "metro-services-private-limited|security|l1": {
@@ -15477,11 +15512,6 @@
    "status": "found",
    "year": null
   },
-  "realpage|fullstack|l2": {
-   "expires": "2026-11-04T00:50:06.082817+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
-  },
   "reckitt|erp|l1": {
    "expires": "2026-11-05T15:05:07.838001+00:00",
    "looked_up": "2026-10-23T09:01:25+00:00",
@@ -16167,11 +16197,6 @@
    "status": "found",
    "year": 2026
   },
-  "samintekmindz|frontend|l1": {
-   "expires": "2026-11-04T00:04:50.870273+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
   "samsdigitalin|swe|l1": {
    "expires": "2026-11-23T18:14:54.416792+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -16593,11 +16618,6 @@
    "looked_up": "2026-10-26T06:17:27+00:00",
    "status": "not_found"
   },
-  "sentraforge-ai|swe|l1": {
-   "expires": "2026-11-04T00:57:00.374958+00:00",
-   "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
-  },
   "senzense-corporation|swe|l1": {
    "expires": "2026-11-05T05:33:26.382886+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
@@ -16708,8 +16728,8 @@
   "shlokasolutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T04:09:12.552293+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-01-27T02:47:58.405780+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17333,11 +17353,6 @@
    "looked_up": "2026-10-27T15:01:29+00:00",
    "status": "not_found"
   },
-  "softcrayons-it-education|fullstack|l1": {
-   "expires": "2026-11-04T00:54:15.428585+00:00",
-   "looked_up": "2026-10-14T22:01:29+00:00",
-   "status": "not_found"
-  },
   "softkode|fullstack|l1": {
    "expires": "2026-11-14T18:42:34.823401+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -17824,8 +17839,8 @@
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T05:10:35.258600+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-01-31T12:04:35.030845+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.6,
    "sources": [
@@ -17893,11 +17908,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "swiss-re|swe|l1": {
-   "expires": "2026-11-04T00:58:37.812708+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
-   "status": "not_found"
   },
   "swissinvest|mobile|l1": {
    "expires": "2026-11-18T08:29:50.048707+00:00",
@@ -18590,8 +18600,8 @@
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:27:42.523672+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-02-07T00:10:20.108371+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18945,8 +18955,8 @@
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T09:08:15.205197+00:00",
-   "looked_up": "2026-11-04T00:01:35+00:00",
+   "expires": "2027-02-05T23:51:45.763840+00:00",
+   "looked_up": "2026-11-04T01:01:34+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21046,11 +21056,6 @@
    "status": "found",
    "year": 2025
   },
-  "worldwide-clinical-trials-inc-|swe|l1": {
-   "expires": "2026-11-04T00:41:39.483015+00:00",
-   "looked_up": "2026-10-15T13:01:33+00:00",
-   "status": "not_found"
-  },
   "wpp-productionindia|frontend|l1": {
    "expires": "2026-11-12T20:06:01.181827+00:00",
    "looked_up": "2026-10-30T08:01:29+00:00",
@@ -21394,11 +21399,6 @@
    "status": "found",
    "year": 2026
   },
-  "zensar|erp|l1": {
-   "expires": "2026-11-04T00:56:18.283960+00:00",
-   "looked_up": "2026-10-14T17:01:27+00:00",
-   "status": "not_found"
-  },
   "zensar|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21590,8 +21590,8 @@
  },
  "meta": {
   "day": "2026-11-04",
-  "lookups_month": 382,
-  "lookups_today": 1,
+  "lookups_month": 384,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
