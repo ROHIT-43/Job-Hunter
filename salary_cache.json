@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:34:42.245350+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-01-27T08:42:44.575621+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3836,11 +3836,6 @@
    "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
-  "centric-software|devops|l1": {
-   "expires": "2026-11-05T02:20:16.854141+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "centricasoft|swe|l1": {
    "expires": "2026-11-08T22:17:37.277033+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -5232,8 +5227,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:01:53.639798+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-02-04T22:17:47.595441+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7444,8 +7439,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T04:04:46.406174+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-02-06T10:11:56.297928+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -10113,11 +10108,6 @@
    "looked_up": "2026-10-25T05:01:26+00:00",
    "status": "not_found"
   },
-  "into-university-partnerships|swe|l1": {
-   "expires": "2026-11-05T02:12:58.552499+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
   "intuition-it-intuitive-technology-recruitment|erp|l1": {
    "expires": "2026-11-12T03:54:09.046741+00:00",
    "looked_up": "2026-11-03T15:01:30+00:00",
@@ -10414,11 +10404,6 @@
   "ivtics|frontend|l1": {
    "expires": "2026-11-05T15:52:16.632604+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
-  "jabil|swe|l1": {
-   "expires": "2026-11-05T02:04:30.139030+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
   "jacobs|fullstack|l1": {
@@ -12700,11 +12685,6 @@
    "status": "found",
    "year": 2026
   },
-  "motorolasolutions|devops|l1": {
-   "expires": "2026-11-05T02:33:43.584553+00:00",
-   "looked_up": "2026-10-17T18:01:21+00:00",
-   "status": "not_found"
-  },
   "motorolasolutions|mobile|l1": {
    "expires": "2026-11-16T01:12:19.652231+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -13864,8 +13844,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T05:04:34.716288+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-02-02T14:36:34.576000+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14957,8 +14937,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T01:33:03.780920+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-02-08T00:39:53.024723+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -15944,11 +15924,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "red-commerce|data|l1": {
-   "expires": "2026-11-05T02:06:51.473903+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
-   "status": "not_found"
   },
   "red-commerce|erp|l1": {
    "basis": "base",
@@ -16953,11 +16928,6 @@
    "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
-  "servcrust|devops|l1": {
-   "expires": "2026-11-05T02:44:40.865457+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
-  },
   "servcrust|mobile|l1": {
    "expires": "2026-11-23T09:37:03.808430+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -17255,11 +17225,6 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
-  "signifycompany|swe|l1": {
-   "expires": "2026-11-05T02:50:58.632197+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
-   "status": "not_found"
-  },
   "siiindia|swe|l1": {
    "expires": "2026-11-07T09:16:52.434183+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
@@ -17313,11 +17278,6 @@
   "sisainfosec|security|l1": {
    "expires": "2026-11-12T06:06:50.353391+00:00",
    "looked_up": "2026-11-04T02:01:37+00:00",
-   "status": "not_found"
-  },
-  "sisir-radar|swe|l1": {
-   "expires": "2026-11-05T02:20:35.112903+00:00",
-   "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
   "sitetracker|erp|l2": {
@@ -17855,8 +17815,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:16:51.524762+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-02-04T21:33:50.314264+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17930,11 +17890,6 @@
   "ss-c-technologies|swe|l1": {
    "expires": "2026-11-15T02:46:21.929231+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
-   "expires": "2026-11-05T02:57:40.806839+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
    "status": "not_found"
   },
   "stackkindia|swe|l1": {
@@ -18277,8 +18232,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:11:32.011531+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
+   "expires": "2027-01-28T09:18:53.367898+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18923,6 +18878,11 @@
   "tech-t7-innovations|swe|l1": {
    "expires": "2026-11-10T01:59:58.029541+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "tech-talent-consulting|erp|l1": {
+   "expires": "2026-11-12T15:37:32.650247+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "status": "not_found"
   },
   "techaivv-technologies|erp|l1": {
@@ -20016,6 +19976,11 @@
   "truwave-software-llc|swe|l1": {
    "expires": "2026-11-06T01:28:20.238057+00:00",
    "looked_up": "2026-10-19T05:01:25+00:00",
+   "status": "not_found"
+  },
+  "try-tech-it|swe|l1": {
+   "expires": "2026-11-13T04:39:00.874839+00:00",
+   "looked_up": "2026-11-05T03:01:16+00:00",
    "status": "not_found"
   },
   "tryzent-tech|fullstack|l1": {
@@ -21825,11 +21790,6 @@
    "looked_up": "2026-10-31T09:01:28+00:00",
    "status": "not_found"
   },
-  "zan-services|swe|l1": {
-   "expires": "2026-11-05T02:49:16.985001+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
   "zeb-global|erp|l1": {
    "expires": "2026-11-10T08:25:25.284752+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
@@ -22151,8 +22111,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 526,
-  "lookups_today": 3,
+  "lookups_month": 528,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
