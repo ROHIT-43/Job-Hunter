@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T04:58:46.140196+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-02-02T00:43:57.957761+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -1602,6 +1602,11 @@
    "looked_up": "2026-10-30T09:01:38+00:00",
    "status": "not_found"
   },
+  "aptask|erp|l1": {
+   "expires": "2026-11-25T14:24:04.860396+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "aptita-talent-experts|swe|l1": {
    "expires": "2026-11-12T05:06:33.615890+00:00",
    "looked_up": "2026-10-29T00:01:33+00:00",
@@ -3076,6 +3081,11 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
+  "bravefederaltechnologies|devops|l1": {
+   "expires": "2026-11-17T13:18:15.224473+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3108,6 +3118,11 @@
   "bridgestone|erp|l1": {
    "expires": "2026-11-08T23:27:49.382364+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "bridgetown-consulting|swe|l1": {
+   "expires": "2026-11-23T01:28:18.688176+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "bright-money|devops|l1": {
@@ -5348,6 +5363,26 @@
    "status": "found",
    "year": 2026
   },
+  "deepintent|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T11:18:00.180518+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "max_lpa": 17.5,
+   "min_lpa": 14.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deepintent-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deepintent-salaries/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6019,6 +6054,11 @@
   "electroluxgroup|erp|l1": {
    "expires": "2026-11-14T16:43:54.966368+00:00",
    "looked_up": "2026-11-02T21:01:31+00:00",
+   "status": "not_found"
+  },
+  "element-technologies|erp|l1": {
+   "expires": "2026-11-23T12:53:36.168341+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "elephant-in-the-boardroom|fullstack|l1": {
@@ -7444,8 +7484,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:15:07.023370+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-01-27T18:20:19.898359+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -7592,6 +7632,11 @@
   "geoiq-ai|swe|l1": {
    "expires": "2026-11-08T07:46:58.300675+00:00",
    "looked_up": "2026-10-31T15:01:37+00:00",
+   "status": "not_found"
+  },
+  "getbadgeapp|fullstack|l1": {
+   "expires": "2026-11-18T15:21:44.157392+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "getcruxai|fullstack|l1": {
@@ -10525,6 +10570,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "jobbricksglobal|swe|l1": {
+   "expires": "2026-11-12T17:36:09.521976+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "jobfixnow|swe|l1": {
    "expires": "2026-11-06T19:23:20.652521+00:00",
    "looked_up": "2026-10-29T01:01:34+00:00",
@@ -12404,6 +12454,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "metasys-tech|mobile|l1": {
+   "expires": "2026-11-15T10:41:43.178573+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "metlife|devops|l2": {
    "expires": "2026-11-13T21:36:38.854520+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
@@ -12715,6 +12770,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mountbox|devops|l1": {
+   "expires": "2026-11-20T15:25:39.084406+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
   },
   "mouser-electronics|data|l1": {
    "expires": "2026-11-19T09:02:08.276282+00:00",
@@ -13752,6 +13812,11 @@
    "status": "found",
    "year": 2025
   },
+  "oenneo|erp|l1": {
+   "expires": "2026-11-15T01:52:08.698044+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "offensoacademy|security|l1": {
    "expires": "2026-11-09T23:08:14.787687+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -13854,8 +13919,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T00:03:06.018614+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-01-28T05:38:11.956506+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14947,8 +15012,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:23:30.720568+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-02-09T19:20:43.108380+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16661,6 +16726,11 @@
    "status": "found",
    "year": 2022
   },
+  "saraswatiglobalrugs|erp|l1": {
+   "expires": "2026-11-22T16:29:45.068316+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
   "sarvam-ai|devops|l1": {
    "expires": "2026-11-07T07:59:25.627903+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -16931,11 +17001,6 @@
   "sel|swe|l1": {
    "expires": "2026-11-15T06:53:12.287265+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
-   "status": "not_found"
-  },
-  "senzense-corporation|swe|l1": {
-   "expires": "2026-11-05T05:33:26.382886+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
   "servcrust|mobile|l1": {
@@ -17830,8 +17895,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T05:51:58.768003+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-02-02T13:19:48.523228+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17988,11 +18053,6 @@
   "stockbazaarhq|devops|l1": {
    "expires": "2026-11-23T20:12:47.917004+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "stormfinance|swe|l1": {
-   "expires": "2026-11-05T05:48:22.032797+00:00",
-   "looked_up": "2026-10-25T19:01:30+00:00",
    "status": "not_found"
   },
   "stradaglobal|erp|l1": {
@@ -18252,8 +18312,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T13:22:55.886104+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
+   "expires": "2027-02-07T13:46:09.193185+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18441,6 +18501,11 @@
   "talent-matics|swe|l1": {
    "expires": "2026-11-15T01:03:53.071775+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "talent-ro|swe|l1": {
+   "expires": "2026-11-26T03:55:49.657453+00:00",
+   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "talentgigs|devops|l1": {
@@ -22156,8 +22221,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 535,
-  "lookups_today": 12,
+  "lookups_month": 547,
+  "lookups_today": 24,
   "month": "2026-11"
  }
 }
