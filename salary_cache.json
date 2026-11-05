@@ -942,6 +942,11 @@
    "status": "found",
    "year": 2025
   },
+  "algoleap|frontend|l1": {
+   "expires": "2026-11-16T06:15:22.302015+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
+   "status": "not_found"
+  },
   "algoleap|fullstack|l1": {
    "expires": "2026-11-17T02:23:27.071114+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
@@ -1523,6 +1528,11 @@
   "anr-business-consulting|erp|l1": {
    "expires": "2026-11-09T02:12:21.812152+00:00",
    "looked_up": "2026-11-01T21:01:25+00:00",
+   "status": "not_found"
+  },
+  "anr-business-consulting|swe|l1": {
+   "expires": "2026-11-17T05:47:00.598973+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
   "antal-international|erp|l1": {
@@ -4396,8 +4406,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T18:07:56.100815+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
+   "expires": "2027-01-29T13:24:22.628032+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5702,8 +5712,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:55:16.719533+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
+   "expires": "2027-01-30T22:51:19.359087+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -6219,6 +6229,11 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
+  "emagine|frontend|l1": {
+   "expires": "2026-11-17T02:21:47.916597+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
+   "status": "not_found"
+  },
   "emagine|fullstack|l1": {
    "expires": "2026-11-11T21:12:51.561239+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
@@ -6328,6 +6343,11 @@
   "engradar|fullstack|l1": {
    "expires": "2026-11-05T21:33:31.828972+00:00",
    "looked_up": "2026-10-24T17:01:32+00:00",
+   "status": "not_found"
+  },
+  "engradar|swe|l1": {
+   "expires": "2026-11-20T19:26:49.113661+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
   "enigen-uk|data|l1": {
@@ -8644,8 +8664,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T05:53:44.119586+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
+   "expires": "2027-01-30T13:39:54.472647+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -11877,6 +11897,11 @@
    "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
+  "literaai|swe|l1": {
+   "expires": "2026-11-21T09:09:23.457588+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
+   "status": "not_found"
+  },
   "little-feet-baby-care-tracker|fullstack|l1": {
    "expires": "2026-11-08T05:19:56.710809+00:00",
    "looked_up": "2026-10-21T21:01:29+00:00",
@@ -13829,6 +13854,11 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
+  "northern-trust|erp|l1": {
+   "expires": "2026-11-17T15:07:29.513520+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
+   "status": "not_found"
+  },
   "northern-trust|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15376,6 +15406,11 @@
     }
    ],
    "status": "found"
+  },
+  "principalfinancialgroup|swe|l1": {
+   "expires": "2026-11-18T23:34:23.695075+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
+   "status": "not_found"
   },
   "principle-pride|devops|l1": {
    "expires": "2026-11-09T13:09:55.316400+00:00",
@@ -17569,8 +17604,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:11:01.651379+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
+   "expires": "2027-02-04T08:27:07.394662+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17911,11 +17946,6 @@
   "sky-systems-inc-skysys|swe|l1": {
    "expires": "2026-11-08T13:59:31.484083+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
-  "skygalaxy-infotech-llp|fullstack|l1": {
-   "expires": "2026-11-05T16:12:53.072153+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
    "status": "not_found"
   },
   "skyhighsecurity|swe|l1": {
@@ -18390,8 +18420,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:37:59.133281+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
+   "expires": "2027-01-31T04:56:11.007612+00:00",
+   "looked_up": "2026-11-05T17:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21549,11 +21579,6 @@
    "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
-  "vois|erp|l1": {
-   "expires": "2026-11-05T16:47:23.686793+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
-   "status": "not_found"
-  },
   "vois|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -22855,8 +22880,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 650,
-  "lookups_today": 127,
+  "lookups_month": 657,
+  "lookups_today": 134,
   "month": "2026-11"
  }
 }
