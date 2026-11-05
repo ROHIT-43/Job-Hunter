@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:07:17.007643+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-02-04T08:34:42.245350+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2552,6 +2552,11 @@
    "looked_up": "2026-11-03T02:01:29+00:00",
    "status": "not_found"
   },
+  "beanstalkasia|fullstack|l1": {
+   "expires": "2026-11-16T21:15:27.457766+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
+   "status": "not_found"
+  },
   "best-nanotech|swe|l1": {
    "expires": "2026-11-24T01:56:45.103384+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
@@ -3514,6 +3519,11 @@
    "looked_up": "2026-11-04T12:01:29+00:00",
    "status": "not_found"
   },
+  "careerdomain|frontend|l1": {
+   "expires": "2026-11-15T09:15:02.060294+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
+   "status": "not_found"
+  },
   "careerpointltd|swe|l1": {
    "expires": "2026-11-07T23:04:29.367625+00:00",
    "looked_up": "2026-10-22T09:01:30+00:00",
@@ -3925,11 +3935,6 @@
   "chalhoubgroup|data|l1": {
    "expires": "2026-11-05T17:20:05.401233+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "chanax|frontend|l1": {
-   "expires": "2026-11-05T01:21:27.914520+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
    "status": "not_found"
   },
   "chate-coaching-classes|fullstack|l1": {
@@ -5227,8 +5232,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T23:47:33.954860+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-02-02T04:01:53.639798+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -5342,11 +5347,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "dazn|swe|l1": {
-   "expires": "2026-11-05T01:13:45.951841+00:00",
-   "looked_up": "2026-10-15T07:01:23+00:00",
-   "status": "not_found"
   },
   "dbs-bank|swe|l1": {
    "basis": "ctc",
@@ -5798,11 +5798,6 @@
    "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
   },
-  "doyengroup|swe|l1": {
-   "expires": "2026-11-05T01:20:33.917274+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
-   "status": "not_found"
-  },
   "driif-ai|swe|l1": {
    "expires": "2026-11-14T08:57:44.897547+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
@@ -6070,11 +6065,6 @@
   "emerson|erp|l1": {
    "expires": "2026-11-16T19:29:45.591262+00:00",
    "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "emerson|security|l1": {
-   "expires": "2026-11-05T01:58:49.736107+00:00",
-   "looked_up": "2026-10-15T11:01:24+00:00",
    "status": "not_found"
   },
   "emerson|swe|l1": {
@@ -7454,8 +7444,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T14:32:42.354381+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-01-31T04:04:46.406174+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -11352,11 +11342,6 @@
    "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
-  "learningpadedu|swe|l1": {
-   "expires": "2026-11-05T01:24:46.475719+00:00",
-   "looked_up": "2026-10-19T06:01:25+00:00",
-   "status": "not_found"
-  },
   "learnlight|swe|l1": {
    "expires": "2026-11-12T07:42:25.428144+00:00",
    "looked_up": "2026-10-29T13:01:31+00:00",
@@ -13879,8 +13864,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T09:59:48.433852+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-01-27T05:04:34.716288+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14447,11 +14432,6 @@
    "status": "found",
    "year": 2026
   },
-  "pelfinfotech|swe|l1": {
-   "expires": "2026-11-05T01:41:04.565306+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
-   "status": "not_found"
-  },
   "people-tech-group-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14977,8 +14957,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T00:42:29.872063+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-02-07T01:33:03.780920+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17875,8 +17855,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T03:12:45.780700+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-02-04T01:16:51.524762+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18297,8 +18277,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:11:10.734862+00:00",
-   "looked_up": "2026-11-05T01:01:19+00:00",
+   "expires": "2027-01-31T10:11:32.011531+00:00",
+   "looked_up": "2026-11-05T02:01:27+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -19833,11 +19813,6 @@
     }
    ],
    "status": "found"
-  },
-  "trainingbasket.in|frontend|l1": {
-   "expires": "2026-11-05T01:03:27.126843+00:00",
-   "looked_up": "2026-10-15T08:01:35+00:00",
-   "status": "not_found"
   },
   "traker-live|frontend|l1": {
    "expires": "2026-11-08T17:33:10.709014+00:00",
@@ -22176,8 +22151,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 524,
-  "lookups_today": 1,
+  "lookups_month": 526,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
