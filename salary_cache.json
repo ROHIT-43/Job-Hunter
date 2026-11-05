@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T08:42:44.575621+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-02-09T12:06:34.109041+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2817,11 +2817,6 @@
    "status": "found",
    "year": 2026
   },
-  "bmc-software|swe|l1": {
-   "expires": "2026-11-05T03:27:36.085191+00:00",
-   "looked_up": "2026-10-20T19:01:31+00:00",
-   "status": "not_found"
-  },
   "bmchelix|swe|l1": {
    "expires": "2026-11-13T15:26:29.081575+00:00",
    "looked_up": "2026-10-24T11:22:21+00:00",
@@ -5227,8 +5222,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T22:17:47.595441+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-01-29T14:53:23.101484+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7439,8 +7434,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T10:11:56.297928+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-02-07T20:00:04.104047+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -13844,8 +13839,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T14:36:34.576000+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-01-28T00:21:16.472829+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14937,8 +14932,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:39:53.024723+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-01-31T00:42:29.632974+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17815,8 +17810,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:33:50.314264+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-01-29T08:05:51.758257+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18232,8 +18227,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T09:18:53.367898+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2027-02-02T21:14:10.203666+00:00",
+   "looked_up": "2026-11-05T03:29:31+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
