@@ -1705,11 +1705,6 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
-  "aptoraims|mobile|l1": {
-   "expires": "2026-11-05T17:20:14.761641+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "aqm-technologies|qa|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1839,6 +1834,26 @@
    "expires": "2026-11-12T04:37:42.740573+00:00",
    "looked_up": "2026-10-31T05:01:27+00:00",
    "status": "not_found"
+  },
+  "arm|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T17:43:04.626899+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
+   "max_lpa": 13.5,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arms-salaries/bengaluru-location"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/arm--software--bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "arm|swe|l1": {
    "basis": "base",
@@ -4028,11 +4043,6 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
-  "chalhoubgroup|data|l1": {
-   "expires": "2026-11-05T17:20:05.401233+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
   "chate-coaching-classes|fullstack|l1": {
    "expires": "2026-11-15T08:51:06.106086+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -4406,8 +4416,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:24:22.628032+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2027-02-05T17:03:16.142676+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5057,6 +5067,11 @@
   "crunchyroll|swe|l1": {
    "expires": "2026-11-11T02:11:15.429650+00:00",
    "looked_up": "2026-11-01T16:01:28+00:00",
+   "status": "not_found"
+  },
+  "cruxinternational|swe|l1": {
+   "expires": "2026-11-15T05:00:10.278813+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
   "cryscol-solutions|frontend|l1": {
@@ -5712,8 +5727,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T22:51:19.359087+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2027-02-08T21:08:52.145593+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8620,6 +8635,11 @@
    "status": "found",
    "year": 2026
   },
+  "hadigitalhubpk|swe|l1": {
+   "expires": "2026-11-17T14:14:32.355927+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
+   "status": "not_found"
+  },
   "hakkoda|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8664,8 +8684,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T13:39:54.472647+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2027-02-07T19:51:38.199712+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10249,11 +10269,6 @@
    "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
-  "infyshine-inc|erp|l1": {
-   "expires": "2026-11-05T17:55:03.291661+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
   "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
    "expires": "2026-11-19T00:07:02.556331+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -11421,6 +11436,21 @@
   "komodo-health|erp|l1": {
    "expires": "2026-11-22T03:25:56.663870+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
+  "konrad-group|fullstack|l1": {
+   "expires": "2026-11-26T09:09:51.916768+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "konrad-group|mobile|l1": {
+   "expires": "2026-11-22T15:22:20.052483+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "konrad-group|swe|l1": {
+   "expires": "2026-11-22T02:38:02.237928+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
   "konvergetech|swe|l1": {
@@ -17305,11 +17335,6 @@
    "looked_up": "2026-11-02T01:01:29+00:00",
    "status": "not_found"
   },
-  "schwab-india|swe|l1": {
-   "expires": "2026-11-05T17:11:15.778113+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
   "scientific-games-lottery|swe|l1": {
    "expires": "2026-11-11T18:13:58.144723+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
@@ -17604,8 +17629,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:27:07.394662+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2027-02-06T18:59:14.124505+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18420,8 +18445,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T04:56:11.007612+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2027-02-08T15:26:18.487319+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -19407,11 +19432,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "teamware-solutions|data|l1": {
-   "expires": "2026-11-05T17:48:04.665509+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
   },
   "teamware-solutions|erp|l1": {
    "basis": "ctc",
@@ -21686,6 +21706,11 @@
    "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
+  "walgreens|mobile|l1": {
+   "expires": "2026-11-18T04:33:55.549876+00:00",
+   "looked_up": "2026-11-05T18:01:20+00:00",
+   "status": "not_found"
+  },
   "walmartglobaltechindia|fullstack|l3": {
    "basis": "base",
    "confidence": "low",
@@ -21780,11 +21805,6 @@
   "wbcsoftwarelabkaraikudi|devops|l1": {
    "expires": "2026-11-21T23:02:59.364343+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "wealthy-in|devops|l1": {
-   "expires": "2026-11-05T17:02:59.970421+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
    "status": "not_found"
   },
   "weareada|data|l1": {
@@ -22226,11 +22246,6 @@
   "workowon|swe|l1": {
    "expires": "2026-11-11T02:04:12.715874+00:00",
    "looked_up": "2026-10-24T17:01:32+00:00",
-   "status": "not_found"
-  },
-  "world-wide-technology|devops|l1": {
-   "expires": "2026-11-05T17:30:47.292682+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "world-wide-technology|swe|l1": {
@@ -22880,8 +22895,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 657,
-  "lookups_today": 134,
+  "lookups_month": 664,
+  "lookups_today": 141,
   "month": "2026-11"
  }
 }
