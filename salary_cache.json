@@ -4411,8 +4411,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T11:57:07.761801+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
+   "expires": "2027-02-07T08:32:45.866722+00:00",
+   "looked_up": "2026-11-05T20:39:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5712,8 +5712,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:40:36.481817+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
+   "expires": "2027-02-07T18:12:26.739347+00:00",
+   "looked_up": "2026-11-05T20:39:31+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8689,8 +8689,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T05:04:34.697470+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
+   "expires": "2027-01-31T01:33:53.671266+00:00",
+   "looked_up": "2026-11-05T20:39:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -17660,8 +17660,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:32:35.561662+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
+   "expires": "2027-01-29T18:18:41.775750+00:00",
+   "looked_up": "2026-11-05T20:39:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18476,8 +18476,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T10:23:08.489949+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
+   "expires": "2027-01-31T18:45:49.528711+00:00",
+   "looked_up": "2026-11-05T20:39:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18604,11 +18604,6 @@
   "state-street|data|l1": {
    "expires": "2026-11-13T02:10:42.184846+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "statusneo|frontend|l1": {
-   "expires": "2026-11-05T20:28:10.057536+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
    "status": "not_found"
   },
   "stealth-startup-aai|security|l1": {
