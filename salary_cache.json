@@ -2626,11 +2626,6 @@
    "looked_up": "2026-10-24T18:01:42+00:00",
    "status": "not_found"
   },
-  "beta-soft-net|swe|l1": {
-   "expires": "2026-11-05T14:29:05.992319+00:00",
-   "looked_up": "2026-10-20T05:01:23+00:00",
-   "status": "not_found"
-  },
   "bikglobal|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3874,6 +3869,22 @@
    "status": "found",
    "year": 2026
   },
+  "celestica|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T15:51:09.938504+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "max_lpa": 13.4,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/celestica-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "cencoraglobal|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4385,8 +4396,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T11:24:05.928045+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
+   "expires": "2027-01-31T09:30:39.969416+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5358,6 +5369,11 @@
    "status": "found",
    "year": 2025
   },
+  "dar-al-handasah|swe|l1": {
+   "expires": "2026-11-25T21:08:16.815078+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
   "dart-browser|swe|l1": {
    "expires": "2026-11-07T07:14:42.139746+00:00",
    "looked_up": "2026-10-20T14:01:32+00:00",
@@ -5627,9 +5643,20 @@
    "status": "not_found"
   },
   "dentsuglobalservices|swe|l1": {
-   "expires": "2026-11-05T14:41:01.467330+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T05:00:20.815788+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dentsu-global-services-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "dentsu|data|l1": {
    "basis": "base",
@@ -5675,8 +5702,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T08:46:42.752216+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
+   "expires": "2027-02-02T13:45:38.406179+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -6177,6 +6204,11 @@
    "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
+  "elevate-ai-ug|mobile|l1": {
+   "expires": "2026-11-20T09:44:54.396190+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
   "eli-lilly-and-company|swe|l1": {
    "expires": "2026-11-21T11:49:23.875036+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -6644,6 +6676,22 @@
    "expires": "2026-11-13T18:27:12.684796+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
+  },
+  "eurofins|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T04:51:08.841553+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "testingsociety.com",
+     "uri": "https://testingsociety.com/?p=14400"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ev-nexo-tech|swe|l1": {
    "expires": "2026-11-08T10:20:37.907202+00:00",
@@ -8591,8 +8639,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T12:49:58.059896+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
+   "expires": "2027-01-27T21:31:52.201292+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8825,11 +8873,6 @@
     }
    ],
    "status": "found"
-  },
-  "helpshift|devops|l1": {
-   "expires": "2026-11-05T14:12:26.677159+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
   },
   "helpshift|swe|l1": {
    "expires": "2026-11-11T23:36:34.934391+00:00",
@@ -11354,6 +11397,11 @@
     }
    ],
    "status": "found"
+  },
+  "komodo-health|erp|l1": {
+   "expires": "2026-11-22T03:25:56.663870+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
   },
   "konvergetech|swe|l1": {
    "expires": "2026-11-13T20:41:23.973773+00:00",
@@ -16400,11 +16448,6 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
-  "remote-wfh-india|data|l1": {
-   "expires": "2026-11-05T14:13:08.555338+00:00",
-   "looked_up": "2026-10-16T13:01:34+00:00",
-   "status": "not_found"
-  },
   "renovision-automation-services-pvt-ltd|security|l1": {
    "expires": "2026-11-14T11:59:25.240859+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -16621,6 +16664,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "robotostudio|swe|l1": {
+   "expires": "2026-11-19T11:36:12.966295+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
   },
   "roche|data|l1": {
    "basis": "ctc",
@@ -17520,8 +17568,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T02:33:59.773946+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
+   "expires": "2027-02-02T07:03:39.329369+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18272,6 +18320,11 @@
    "status": "found",
    "year": 2025
   },
+  "sonicwall|frontend|l1": {
+   "expires": "2026-11-19T05:07:24.239586+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
   "sorsiri|fullstack|l1": {
    "expires": "2026-11-07T22:07:29.655279+00:00",
    "looked_up": "2026-10-26T19:01:28+00:00",
@@ -18561,6 +18614,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sulzer|erp|l1": {
+   "expires": "2026-11-24T13:18:50.477030+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
   },
   "sulzer|swe|l1": {
    "expires": "2026-11-13T15:18:37.863367+00:00",
@@ -19295,11 +19353,6 @@
    "status": "found",
    "year": 2026
   },
-  "teamviewer|swe|l1": {
-   "expires": "2026-11-05T14:05:25.625509+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "teamware-solutions|data|l1": {
    "expires": "2026-11-05T17:48:04.665509+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
@@ -19581,6 +19634,11 @@
   "tekwissenindia|swe|l1": {
    "expires": "2026-11-14T05:08:56.149084+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
+   "status": "not_found"
+  },
+  "teladoc-health|swe|l3": {
+   "expires": "2026-11-21T00:14:15.231175+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
   "telus|swe|l3": {
@@ -20672,6 +20730,11 @@
   "unborderedin|swe|l2": {
    "expires": "2026-11-08T12:02:28.934947+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
+   "status": "not_found"
+  },
+  "ungrammary-creatives|fullstack|l1": {
+   "expires": "2026-11-14T05:51:00.892263+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
   "unhr2022|fullstack|l1": {
@@ -22376,6 +22439,11 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
+  "yoda-tech-pte-ltd|swe|l1": {
+   "expires": "2026-11-26T08:21:14.785393+00:00",
+   "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
   "yokogawa|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22762,8 +22830,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 631,
-  "lookups_today": 108,
+  "lookups_month": 643,
+  "lookups_today": 120,
   "month": "2026-11"
  }
 }
