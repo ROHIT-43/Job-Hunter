@@ -401,6 +401,11 @@
    "looked_up": "2026-10-31T12:01:25+00:00",
    "status": "not_found"
   },
+  "acg-world|swe|l1": {
+   "expires": "2026-11-13T23:23:26.037011+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "status": "not_found"
+  },
   "aci-worldwide|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1743,6 +1748,22 @@
    "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
+  "argano|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T12:42:10.298398+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arganokeste-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1886,11 +1907,6 @@
   "aspirox-private-limited|swe|l1": {
    "expires": "2026-11-21T23:39:47.417440+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
-   "status": "not_found"
-  },
-  "assetmark-global-wealth|devops|l1": {
-   "expires": "2026-11-05T09:34:35.064725+00:00",
-   "looked_up": "2026-10-27T06:01:25+00:00",
    "status": "not_found"
   },
   "astek|data|l1": {
@@ -2198,11 +2214,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "avnet|swe|l1": {
-   "expires": "2026-11-05T09:18:40.043931+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
   },
   "avoca-ai|swe|l1": {
    "expires": "2026-11-09T21:41:38.620930+00:00",
@@ -2693,6 +2704,11 @@
   "black-and-veatch|swe|l1": {
    "expires": "2026-11-11T04:18:20.453543+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
+   "status": "not_found"
+  },
+  "blackbaud-india|frontend|l1": {
+   "expires": "2026-11-21T12:14:32.208254+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "blackbaud-india|swe|l1": {
@@ -3979,11 +3995,6 @@
    "looked_up": "2026-10-31T17:01:23+00:00",
    "status": "not_found"
   },
-  "chessbrainz-chessacademy|fullstack|l1": {
-   "expires": "2026-11-05T09:45:31.568285+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
   "chevron|data|l1": {
    "expires": "2026-11-22T12:24:50.718783+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -4347,8 +4358,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:08:57.350190+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
+   "expires": "2027-01-27T22:13:36.058828+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5623,6 +5634,20 @@
    "expires": "2026-11-09T13:01:14.611445+00:00",
    "looked_up": "2026-11-01T19:01:33+00:00",
    "status": "not_found"
+  },
+  "devvizy|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-27T13:58:45.972824+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 1.2,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "dexlerenergy|fullstack|l1": {
    "expires": "2026-11-09T04:30:25.533638+00:00",
@@ -6968,6 +6993,11 @@
    "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
+  "fidelity-international|data|l1": {
+   "expires": "2026-11-13T14:42:01.256761+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "status": "not_found"
+  },
   "fidelity-investments|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7527,8 +7557,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T05:47:50.665158+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2027-02-06T22:13:27.163698+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8497,8 +8527,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T03:25:06.618864+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2027-02-10T03:28:41.235109+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8839,6 +8869,11 @@
   "hinduja-global-solutions-inc--|swe|l1": {
    "expires": "2026-11-09T05:25:57.418676+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "hirealpha|erp|l1": {
+   "expires": "2026-11-17T09:40:17.299473+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "hirealpha|swe|l1": {
@@ -10144,6 +10179,11 @@
   "innovaesi|erp|l1": {
    "expires": "2026-11-15T18:33:47.889493+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
+  "innovaesi|swe|l1": {
+   "expires": "2026-11-23T17:20:50.573364+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "innowave360|swe|l1": {
@@ -11689,6 +11729,11 @@
   "locavanties|swe|l1": {
    "expires": "2026-11-09T22:02:28.479557+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
+   "status": "not_found"
+  },
+  "logicmonitor|devops|l1": {
+   "expires": "2026-11-20T02:48:46.682498+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "logitech|data|l1": {
@@ -14416,6 +14461,22 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
+  "pal.tech|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T04:13:54.475808+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/paltech-salaries/big-data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "pallav-technologies|swe|l1": {
    "expires": "2026-11-12T02:11:44.023642+00:00",
    "looked_up": "2026-10-28T18:01:29+00:00",
@@ -15119,8 +15180,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:25:19.538101+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2027-02-09T08:26:37.975249+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -16673,6 +16734,11 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
+  "salesforce-ad|fullstack|l1": {
+   "expires": "2026-11-16T05:14:25.642283+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "status": "not_found"
+  },
   "salesforce-ad|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16692,6 +16758,35 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "salesforce|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T01:21:03.161942+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 18.5,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "testingsociety.com",
+     "uri": "https://testingsociety.com/?p=12007"
+    },
+    {
+     "title": "fresherjobinfo.in",
+     "uri": "https://fresherjobinfo.in/?p=13170"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/salesforce-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "salesforce|security|l1": {
+   "expires": "2026-11-21T20:08:17.365869+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "status": "not_found"
   },
   "salesforce|swe|l1": {
    "basis": "ctc",
@@ -17065,6 +17160,26 @@
    "expires": "2026-11-14T16:49:12.637701+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
+  },
+  "sedin-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T19:24:59.662053+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 12.5,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/sedin-technologies-salaries/se"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/sedin-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "seekeragencyai|devops|l1": {
    "expires": "2026-11-11T02:17:09.438770+00:00",
@@ -17540,11 +17655,6 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
-  "skyetrip|frontend|l1": {
-   "expires": "2026-11-05T09:24:43.179636+00:00",
-   "looked_up": "2026-10-18T16:01:26+00:00",
-   "status": "not_found"
-  },
   "skygalaxy-infotech-llp|fullstack|l1": {
    "expires": "2026-11-05T16:12:53.072153+00:00",
    "looked_up": "2026-10-21T18:01:33+00:00",
@@ -18012,8 +18122,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T19:43:12.630702+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2027-02-07T10:42:39.686565+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18434,8 +18544,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T17:05:43.781876+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2027-01-27T20:58:04.535940+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -21922,6 +22032,22 @@
    "status": "found",
    "year": 2026
   },
+  "yash-technologies|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T05:12:37.198073+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/yash-technologies-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "yash-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22000,6 +22126,11 @@
   "your-website-io|swe|l1": {
    "expires": "2026-11-10T16:10:22.798712+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "yral-foods|mobile|l1": {
+   "expires": "2026-11-13T13:16:06.003547+00:00",
+   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "yulu|mobile|l1": {
@@ -22338,8 +22469,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 572,
-  "lookups_today": 49,
+  "lookups_month": 586,
+  "lookups_today": 63,
   "month": "2026-11"
  }
 }
