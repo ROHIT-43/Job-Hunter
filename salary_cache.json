@@ -917,6 +917,11 @@
    "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
+  "algoleap|devops|l1": {
+   "expires": "2026-11-22T18:58:28.133881+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
+  },
   "algoleap|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3609,11 +3614,6 @@
    "looked_up": "2026-10-22T09:01:30+00:00",
    "status": "not_found"
   },
-  "careerxperts-consulting|data|l1": {
-   "expires": "2026-11-05T15:52:56.394582+00:00",
-   "looked_up": "2026-10-21T03:02:05+00:00",
-   "status": "not_found"
-  },
   "careerxperts-consulting|frontend|l1": {
    "expires": "2026-11-17T11:28:27.389909+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -4396,8 +4396,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T09:30:39.969416+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
+   "expires": "2027-01-31T18:07:56.100815+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5702,8 +5702,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:45:38.406179+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
+   "expires": "2027-02-08T01:55:16.719533+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8398,6 +8398,11 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
+  "gravitaspod|mobile|l1": {
+   "expires": "2026-11-18T12:14:15.327314+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
+  },
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-11-18T04:58:37.090031+00:00",
    "looked_up": "2026-11-04T15:01:31+00:00",
@@ -8639,8 +8644,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T21:31:52.201292+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
+   "expires": "2027-02-03T05:53:44.119586+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9727,6 +9732,11 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
+  "iitmatrix|data|l1": {
+   "expires": "2026-11-19T23:39:19.201609+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
+  },
   "ilizien|swe|l1": {
    "expires": "2026-11-13T01:51:52.127275+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
@@ -10617,11 +10627,6 @@
    "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
-  "itamexperts-assetregister|erp|l1": {
-   "expires": "2026-11-05T15:57:07.438520+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10740,11 +10745,6 @@
   "ivalua|swe|l1": {
    "expires": "2026-11-06T14:10:06.330239+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "ivtics|frontend|l1": {
-   "expires": "2026-11-05T15:52:16.632604+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
   },
   "ix7-research|swe|l1": {
@@ -13261,6 +13261,22 @@
    ],
    "status": "found"
   },
+  "n-able|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T05:56:12.777106+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "max_lpa": 12.6,
+   "min_lpa": 9.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/n-able-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "n-coldpressed|swe|l1": {
    "expires": "2026-11-06T21:54:42.858217+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
@@ -13853,11 +13869,6 @@
   "novglobal|security|l1": {
    "expires": "2026-11-06T21:49:23.295970+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "novotech|swe|l2": {
-   "expires": "2026-11-05T15:33:02.216395+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
    "status": "not_found"
   },
   "nri-pelligola|mobile|l1": {
@@ -16318,11 +16329,6 @@
    "status": "found",
    "year": null
   },
-  "reckitt|erp|l1": {
-   "expires": "2026-11-05T15:05:07.838001+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
   "recrew-ai|data|l1": {
    "expires": "2026-11-06T03:20:32.665170+00:00",
    "looked_up": "2026-10-22T07:01:24+00:00",
@@ -17300,11 +17306,6 @@
    "looked_up": "2026-10-19T15:01:29+00:00",
    "status": "not_found"
   },
-  "scout-ai-official|swe|l1": {
-   "expires": "2026-11-05T15:28:18.989528+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|data|l1": {
    "expires": "2026-11-13T10:16:13.150238+00:00",
    "looked_up": "2026-10-25T10:01:24+00:00",
@@ -17568,8 +17569,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T07:03:39.329369+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
+   "expires": "2027-02-06T14:11:01.651379+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18325,6 +18326,11 @@
    "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
+  "sophos|devops|l1": {
+   "expires": "2026-11-20T20:16:05.344225+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
+  },
   "sorsiri|fullstack|l1": {
    "expires": "2026-11-07T22:07:29.655279+00:00",
    "looked_up": "2026-10-26T19:01:28+00:00",
@@ -18380,6 +18386,20 @@
    "expires": "2026-11-09T00:07:08.762377+00:00",
    "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
+  },
+  "sourcingxpress|security|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-07T13:37:59.133281+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "sourcingxpress|swe|l1": {
    "basis": "posted",
@@ -18877,6 +18897,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "synechron|devops|l1": {
+   "expires": "2026-11-16T15:13:22.211818+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
   },
   "synechron|fullstack|l1": {
    "basis": "ctc",
@@ -20558,11 +20583,6 @@
    "looked_up": "2026-10-17T14:01:30+00:00",
    "status": "not_found"
   },
-  "truveta|swe|l1": {
-   "expires": "2026-11-05T15:33:29.492634+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
-   "status": "not_found"
-  },
   "truwave-software-llc|devops|l1": {
    "expires": "2026-11-23T14:47:26.736368+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -21717,6 +21737,11 @@
    "status": "found",
    "year": 2022
   },
+  "warner-music-group|devops|l1": {
+   "expires": "2026-11-26T14:59:38.877331+00:00",
+   "looked_up": "2026-11-05T16:01:24+00:00",
+   "status": "not_found"
+  },
   "warriorbabe|data|l1": {
    "expires": "2026-11-11T06:47:10.640163+00:00",
    "looked_up": "2026-10-29T06:01:32+00:00",
@@ -22830,8 +22855,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 643,
-  "lookups_today": 120,
+  "lookups_month": 650,
+  "lookups_today": 127,
   "month": "2026-11"
  }
 }
