@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:41:49.178792+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-01-28T04:58:46.140196+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -1018,11 +1018,6 @@
     }
    ],
    "status": "found"
-  },
-  "alstom|erp|l1": {
-   "expires": "2026-11-05T04:12:27.972834+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
   },
   "alstom|security|l1": {
    "expires": "2026-11-19T09:31:17.703851+00:00",
@@ -5048,11 +5043,6 @@
    "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
-  "custodos|swe|l1": {
-   "expires": "2026-11-05T04:09:16.206288+00:00",
-   "looked_up": "2026-10-21T22:01:33+00:00",
-   "status": "not_found"
-  },
   "customertimes|erp|l1": {
    "expires": "2026-11-08T12:06:45.596558+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -5787,6 +5777,26 @@
    "expires": "2026-11-08T12:48:41.693163+00:00",
    "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
+  },
+  "dotsolved|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T01:30:38.482779+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dotsolved-systems-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dotsolved-systems-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "driif-ai|swe|l1": {
    "expires": "2026-11-14T08:57:44.897547+00:00",
@@ -7434,8 +7444,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T05:07:34.072083+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-04T04:15:07.023370+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -13844,8 +13854,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T04:21:22.987256+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-10T00:03:06.018614+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14937,8 +14947,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-27T18:17:43.287070+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-04T02:23:30.720568+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17235,6 +17245,11 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
+  "simple-digital-fze|swe|l1": {
+   "expires": "2026-11-23T12:05:50.836862+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "status": "not_found"
+  },
   "simple-energy-pvt-ltd|data|l1": {
    "expires": "2026-11-06T10:39:57.647566+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
@@ -17815,8 +17830,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T06:20:35.813564+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-07T05:51:58.768003+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18116,6 +18131,11 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
+  "supayou|swe|l1": {
+   "expires": "2026-11-16T10:39:23.241644+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "status": "not_found"
+  },
   "superfan-ng|fullstack|l1": {
    "expires": "2026-11-15T14:04:27.843847+00:00",
    "looked_up": "2026-10-25T17:01:23+00:00",
@@ -18232,8 +18252,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T03:36:40.787558+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-09T13:22:55.886104+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -18345,11 +18365,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "synmatch-ai|mobile|l1": {
-   "expires": "2026-11-05T04:31:45.929168+00:00",
-   "looked_up": "2026-10-20T11:01:36+00:00",
-   "status": "not_found"
   },
   "synopsys|erp|l1": {
    "expires": "2026-11-13T23:47:55.953317+00:00",
@@ -20333,6 +20348,26 @@
    "status": "found",
    "year": 2025
   },
+  "ustglobal|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T20:22:13.023005+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ust-salaries/junior-devops-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ust-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ustglobal|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -21086,6 +21121,11 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "wbcsoftwarelabkaraikudi|devops|l1": {
+   "expires": "2026-11-21T23:02:59.364343+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "status": "not_found"
+  },
   "wealthy-in|devops|l1": {
    "expires": "2026-11-05T17:02:59.970421+00:00",
    "looked_up": "2026-10-19T12:01:28+00:00",
@@ -21366,6 +21406,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "willware-technologies|erp|l1": {
+   "expires": "2026-11-12T17:29:09.375243+00:00",
+   "looked_up": "2026-11-05T05:01:17+00:00",
+   "status": "not_found"
   },
   "willware-technologies|swe|l1": {
    "expires": "2026-11-16T15:16:01.216779+00:00",
@@ -22111,8 +22156,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 529,
-  "lookups_today": 6,
+  "lookups_month": 535,
+  "lookups_today": 12,
   "month": "2026-11"
  }
 }
