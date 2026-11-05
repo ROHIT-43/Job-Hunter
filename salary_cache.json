@@ -105,8 +105,8 @@
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T07:10:32.127380+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-02-02T04:07:17.007643+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5227,8 +5227,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T11:46:45.444563+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-02-02T23:47:33.954860+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7454,8 +7454,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T02:10:27.509933+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-01-29T14:32:42.354381+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -11470,11 +11470,6 @@
    "status": "found",
    "year": 2026
   },
-  "lilac-infotech|mobile|l1": {
-   "expires": "2026-11-05T00:10:33.752815+00:00",
-   "looked_up": "2026-10-21T05:01:26+00:00",
-   "status": "not_found"
-  },
   "linde-engineering|data|l1": {
    "expires": "2026-11-16T06:09:15.486865+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -13884,8 +13879,8 @@
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T03:08:50.539260+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-02-09T09:59:48.433852+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 4.2,
    "min_lpa": 3.6,
    "sources": [
@@ -14358,11 +14353,6 @@
   "pattern-hq|swe|l2": {
    "expires": "2026-11-19T16:50:04.710789+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "paxos|data|l1": {
-   "expires": "2026-11-05T00:51:16.280960+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
   "paydohmoney|mobile|l1": {
@@ -14987,8 +14977,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:48:33.686947+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-01-28T00:42:29.872063+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17104,11 +17094,6 @@
    "looked_up": "2026-10-24T14:01:34+00:00",
    "status": "not_found"
   },
-  "shriramgeneralinsurance|devops|l1": {
-   "expires": "2026-11-05T00:21:24.702584+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
   "shriramgeneralinsurance|frontend|l1": {
    "expires": "2026-11-09T20:21:00.138339+00:00",
    "looked_up": "2026-10-21T06:01:28+00:00",
@@ -17890,8 +17875,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T01:03:54.355486+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-02-03T03:12:45.780700+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18230,6 +18215,26 @@
    ],
    "status": "found"
   },
+  "surya-software-systems|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T05:33:28.646481+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/surya-software-systems-salaries/sde1"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/surya-software-systems-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "sushainclinic|swe|l1": {
    "expires": "2026-11-20T23:20:54.535490+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
@@ -18292,8 +18297,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T06:20:11.734991+00:00",
-   "looked_up": "2026-11-05T00:01:22+00:00",
+   "expires": "2027-02-02T18:11:10.734862+00:00",
+   "looked_up": "2026-11-05T01:01:19+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -22171,8 +22176,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 523,
-  "lookups_today": 0,
+  "lookups_month": 524,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
