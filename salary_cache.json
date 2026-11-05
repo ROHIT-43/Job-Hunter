@@ -442,6 +442,11 @@
    "status": "found",
    "year": null
   },
+  "acsis-india-private-limited|swe|l1": {
+   "expires": "2026-11-20T15:46:33.293150+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "actowiz|fullstack|l1": {
    "expires": "2026-11-11T00:21:07.531017+00:00",
    "looked_up": "2026-10-24T05:01:36+00:00",
@@ -2767,11 +2772,6 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
-  "blueribbon-solution|mobile|l1": {
-   "expires": "2026-11-05T08:40:10.675358+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
   "blueyonder|devops|l1": {
    "expires": "2026-11-10T13:53:40.547908+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
@@ -4129,11 +4129,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "clearroute|fullstack|l1": {
-   "expires": "2026-11-05T08:42:15.429973+00:00",
-   "looked_up": "2026-10-21T14:01:30+00:00",
-   "status": "not_found"
-  },
   "clearwater-security-llc|security|l1": {
    "expires": "2026-11-14T08:39:39.465435+00:00",
    "looked_up": "2026-10-29T20:01:27+00:00",
@@ -5145,6 +5140,11 @@
    "looked_up": "2026-11-01T04:01:23+00:00",
    "status": "not_found"
   },
+  "cyanaq-systems|swe|l1": {
+   "expires": "2026-11-13T22:47:35.094467+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "cyber-infrastructure|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5674,11 +5674,6 @@
   "diagrid-inc|fullstack|l1": {
    "expires": "2026-11-15T18:08:45.518617+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "digi-knights-inc|devops|l1": {
-   "expires": "2026-11-05T08:03:11.616565+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
   "digiaccel-learning|swe|l1": {
@@ -6623,6 +6618,11 @@
    "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
+  "exatech-inc|swe|l1": {
+   "expires": "2026-11-18T01:24:35.447736+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "excelya|swe|l1": {
    "expires": "2026-11-08T02:25:28.934652+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
@@ -7210,11 +7210,6 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
-  "fleckslabs|swe|l1": {
-   "expires": "2026-11-05T08:05:54.239565+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
-   "status": "not_found"
-  },
   "flexera|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7532,8 +7527,8 @@
   "fxuav|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T10:24:53.677664+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
+   "expires": "2027-02-05T05:47:50.665158+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "max_lpa": 4.5,
    "min_lpa": 4.0,
    "sources": [
@@ -8499,6 +8494,20 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
+  "hanuman-silk-creation|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-01T03:25:06.618864+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "happiest-minds-technologies|data|l1": {
    "expires": "2026-11-08T18:19:56.797384+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
@@ -8845,6 +8854,11 @@
   "hireflex|erp|l1": {
    "expires": "2026-11-15T13:19:36.020356+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
+   "status": "not_found"
+  },
+  "hirehut1|swe|l1": {
+   "expires": "2026-11-21T13:03:00.953365+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
   "hiringhood|data|l1": {
@@ -10697,6 +10711,11 @@
    "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
+  "joblet-ai|fullstack|l1": {
+   "expires": "2026-11-15T03:41:03.027503+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "jobofdreams|data|l1": {
    "expires": "2026-11-11T16:32:54.995350+00:00",
    "looked_up": "2026-10-24T18:01:42+00:00",
@@ -11026,6 +11045,11 @@
   "keka-hr|swe|l1": {
    "expires": "2026-11-07T04:47:31.279920+00:00",
    "looked_up": "2026-10-21T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "kenzolegacyone|swe|l1": {
+   "expires": "2026-11-16T14:46:17.917533+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
   "keylogic-infotech|swe|l1": {
@@ -15095,8 +15119,8 @@
   "prodigee-finance-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:55:16.906922+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
+   "expires": "2027-02-03T19:25:19.538101+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -17168,6 +17192,11 @@
    "status": "found",
    "year": 2022
   },
+  "sharobi-technologies-india-pvt-ltd-|swe|l1": {
+   "expires": "2026-11-24T19:48:36.161862+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "shi-india|security|l1": {
    "expires": "2026-11-14T08:00:55.222519+00:00",
    "looked_up": "2026-10-25T15:01:25+00:00",
@@ -17821,6 +17850,11 @@
    "looked_up": "2026-10-23T15:01:32+00:00",
    "status": "not_found"
   },
+  "softniceuklimited|fullstack|l1": {
+   "expires": "2026-11-15T22:32:20.620307+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "softnotions-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17978,8 +18012,8 @@
   "sourcingxpress|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T03:42:28.120895+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
+   "expires": "2027-01-29T19:43:12.630702+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18122,6 +18156,11 @@
     }
    ],
    "status": "found"
+  },
+  "stealthaistartup|data|l1": {
+   "expires": "2026-11-14T23:07:20.162714+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
   },
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-11-07T09:03:46.498194+00:00",
@@ -18395,8 +18434,8 @@
   "switsdigital|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T07:26:38.683122+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
+   "expires": "2027-02-09T17:05:43.781876+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
    "max_lpa": 21.0,
    "min_lpa": 21.0,
    "sources": [
@@ -20706,11 +20745,6 @@
    "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
-  "vasudhare-sales-force|frontend|l1": {
-   "expires": "2026-11-05T08:39:51.172933+00:00",
-   "looked_up": "2026-10-25T16:01:25+00:00",
-   "status": "not_found"
-  },
   "vayuz-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21923,6 +21957,11 @@
    "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
+  "yeste-migration-consulting|swe|l1": {
+   "expires": "2026-11-16T06:06:07.804295+00:00",
+   "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
   "yokogawa|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22299,8 +22338,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 562,
-  "lookups_today": 39,
+  "lookups_month": 572,
+  "lookups_today": 49,
   "month": "2026-11"
  }
 }
