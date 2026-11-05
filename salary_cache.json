@@ -557,6 +557,11 @@
    "looked_up": "2026-10-16T10:01:31+00:00",
    "status": "not_found"
   },
+  "aditiconsulting|security|l1": {
+   "expires": "2026-11-17T20:39:37.053330+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
+   "status": "not_found"
+  },
   "aditiconsulting|swe|l1": {
    "expires": "2026-11-12T19:09:00.249531+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -2120,11 +2125,6 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
-  "aurigait|swe|l1": {
-   "expires": "2026-11-05T22:29:37.358876+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
   "aurnex-group|swe|l1": {
    "expires": "2026-11-06T02:49:12.447898+00:00",
    "looked_up": "2026-10-29T22:01:27+00:00",
@@ -2320,6 +2320,11 @@
   "axolt|swe|l1": {
    "expires": "2026-11-09T03:04:03.168642+00:00",
    "looked_up": "2026-10-27T06:01:25+00:00",
+   "status": "not_found"
+  },
+  "axonstack|swe|l1": {
+   "expires": "2026-11-22T10:50:45.386383+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "status": "not_found"
   },
   "ayutalk|fullstack|l1": {
@@ -2615,11 +2620,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "bdoinindia|security|l1": {
-   "expires": "2026-11-05T22:25:42.957395+00:00",
-   "looked_up": "2026-10-19T12:01:28+00:00",
-   "status": "not_found"
   },
   "be-additive|swe|l1": {
    "expires": "2026-11-18T16:41:31.508940+00:00",
@@ -4411,8 +4411,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T13:20:08.342046+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2027-02-02T09:21:33.273304+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4963,11 +4963,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "corpay|swe|l1": {
-   "expires": "2026-11-05T22:44:20.000594+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
   },
   "corporatesteps|swe|l1": {
    "expires": "2026-11-09T00:36:18.057968+00:00",
@@ -5712,8 +5707,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T19:06:08.481366+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2027-02-01T22:46:17.785054+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8129,11 +8124,6 @@
    "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
-  "gogreater|frontend|l1": {
-   "expires": "2026-11-05T22:12:25.611789+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "gogreyorange|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -8684,8 +8674,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:51:47.799408+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2027-02-04T01:54:53.675127+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9355,11 +9345,6 @@
    "looked_up": "2026-10-31T14:01:32+00:00",
    "status": "not_found"
   },
-  "https-evara.me-|swe|l1": {
-   "expires": "2026-11-05T22:48:32.067044+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
-  },
   "huntingcubeai|data|l1": {
    "expires": "2026-11-10T10:40:33.916206+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -9724,11 +9709,6 @@
   "idfcfirstbank|swe|l1": {
    "expires": "2026-11-15T12:14:22.366688+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "idrms-technologies-pvt-ltd|erp|l1": {
-   "expires": "2026-11-05T22:42:38.029950+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
   "iecp22|devops|l1": {
@@ -12821,11 +12801,6 @@
   "mempage-technologies|erp|l1": {
    "expires": "2026-11-12T17:27:44.095700+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "mercari-india|frontend|l1": {
-   "expires": "2026-11-05T22:07:25.173686+00:00",
-   "looked_up": "2026-10-19T06:01:25+00:00",
    "status": "not_found"
   },
   "meridian-review-group-news|swe|l1": {
@@ -17119,6 +17094,11 @@
    "status": "found",
    "year": 2026
   },
+  "samayconsulting|swe|l1": {
+   "expires": "2026-11-23T03:18:31.680638+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
+   "status": "not_found"
+  },
   "samsdigitalin|swe|l1": {
    "expires": "2026-11-23T18:14:54.416792+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -17446,11 +17426,6 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
-  "seclodian|fullstack|l1": {
-   "expires": "2026-11-05T22:18:25.625947+00:00",
-   "looked_up": "2026-10-19T15:01:29+00:00",
-   "status": "not_found"
-  },
   "secnode|security|l1": {
    "expires": "2026-11-06T15:44:35.013927+00:00",
    "looked_up": "2026-10-25T14:01:30+00:00",
@@ -17640,8 +17615,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T00:54:12.482583+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2027-02-08T18:54:23.943385+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18451,8 +18426,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T09:48:05.582141+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2027-02-06T03:01:56.509891+00:00",
+   "looked_up": "2026-11-05T23:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22645,11 +22620,6 @@
    ],
    "status": "found"
   },
-  "zendesk|swe|l2": {
-   "expires": "2026-11-05T22:53:58.295570+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
-   "status": "not_found"
-  },
   "zendoo-app|swe|l1": {
    "expires": "2026-11-19T16:58:08.599403+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
@@ -22891,8 +22861,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 675,
-  "lookups_today": 152,
+  "lookups_month": 678,
+  "lookups_today": 155,
   "month": "2026-11"
  }
 }
