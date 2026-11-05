@@ -4411,8 +4411,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T13:39:04.962445+00:00",
-   "looked_up": "2026-11-05T21:01:19+00:00",
+   "expires": "2027-02-03T13:20:08.342046+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5712,8 +5712,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:03:13.258366+00:00",
-   "looked_up": "2026-11-05T21:01:19+00:00",
+   "expires": "2027-01-31T19:06:08.481366+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -6224,6 +6224,11 @@
    "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
+  "ellkay|data|l1": {
+   "expires": "2026-11-17T00:08:28.230433+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
+   "status": "not_found"
+  },
   "eloeloapp|data|l1": {
    "expires": "2026-11-08T23:59:24.015508+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -6339,11 +6344,6 @@
     }
    ],
    "status": "found"
-  },
-  "engradar|fullstack|l1": {
-   "expires": "2026-11-05T21:33:31.828972+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
-   "status": "not_found"
   },
   "engradar|swe|l1": {
    "expires": "2026-11-20T19:26:49.113661+00:00",
@@ -6666,11 +6666,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "esri|devops|l1": {
-   "expires": "2026-11-05T21:23:11.918011+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
   },
   "eternal9-foodworks-private-limited|frontend|l1": {
    "expires": "2026-11-10T12:34:09.955704+00:00",
@@ -8689,8 +8684,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T20:05:31.024756+00:00",
-   "looked_up": "2026-11-05T21:01:19+00:00",
+   "expires": "2027-02-04T11:51:47.799408+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9855,11 +9850,6 @@
   "indiasfutureinvestors|security|l1": {
    "expires": "2026-11-10T01:58:19.322774+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
-  "indiumsoftware|data|l1": {
-   "expires": "2026-11-05T21:33:03.171217+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
   "indmoney|devops|l1": {
@@ -11147,11 +11137,6 @@
   "juniordelhischool|swe|l1": {
    "expires": "2026-11-12T04:22:35.278414+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
-  },
-  "juspay-technologies|devops|l1": {
-   "expires": "2026-11-05T21:17:02.484855+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
   "juspay-technologies|frontend|l1": {
@@ -17655,8 +17640,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:55:44.467511+00:00",
-   "looked_up": "2026-11-05T21:01:19+00:00",
+   "expires": "2027-01-30T00:54:12.482583+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18466,8 +18451,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:09:58.275222+00:00",
-   "looked_up": "2026-11-05T21:01:19+00:00",
+   "expires": "2027-01-29T09:48:05.582141+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22565,6 +22550,26 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
+  "zebra-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T09:51:32.319154+00:00",
+   "looked_up": "2026-11-05T22:01:17+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 5.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/zebra-technologies-reviews/pune-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zebra-technologies-salaries/sde1"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "zecdata|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -22886,8 +22891,8 @@
  },
  "meta": {
   "day": "2026-11-05",
-  "lookups_month": 673,
-  "lookups_today": 150,
+  "lookups_month": 675,
+  "lookups_today": 152,
   "month": "2026-11"
  }
 }
