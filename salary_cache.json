@@ -3417,11 +3417,6 @@
    "looked_up": "2026-10-27T16:01:28+00:00",
    "status": "not_found"
   },
-  "candour-systems|fullstack|l1": {
-   "expires": "2026-11-05T23:40:38.956735+00:00",
-   "looked_up": "2026-10-16T05:01:25+00:00",
-   "status": "not_found"
-  },
   "cantellat|mobile|l1": {
    "expires": "2026-11-11T05:24:43.777615+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -4173,9 +4168,19 @@
    "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
+  "citi|data|l1": {
+   "expires": "2026-11-21T00:15:55.560208+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
+   "status": "not_found"
+  },
   "citi|frontend|l1": {
    "expires": "2026-11-22T18:08:55.986210+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "citi|fullstack|l1": {
+   "expires": "2026-11-24T23:18:36.932107+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
   "citi|swe|l1": {
@@ -4411,8 +4416,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:21:33.273304+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
+   "expires": "2027-01-28T12:13:54.620262+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4993,11 +4998,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "credhive-fintech|swe|l2": {
-   "expires": "2026-11-05T23:21:51.327958+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
-   "status": "not_found"
-  },
   "creospanindia|swe|l1": {
    "expires": "2026-11-06T09:55:31.500707+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -5067,11 +5067,6 @@
   "csm-tech-americas|swe|l1": {
    "expires": "2026-11-19T17:23:47.997848+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "ctrl-plus-z|swe|l1": {
-   "expires": "2026-11-05T23:03:44.048916+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "cult.fit|swe|l2": {
@@ -5707,8 +5702,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T22:46:17.785054+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
+   "expires": "2027-01-28T06:52:40.585596+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -7766,11 +7761,6 @@
    ],
    "status": "found"
   },
-  "gemological-science-international-gsi-|fullstack|l1": {
-   "expires": "2026-11-05T23:24:26.143949+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
-  },
   "general-mills|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -8674,8 +8664,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:54:53.675127+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
+   "expires": "2027-02-10T11:31:32.846141+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10406,6 +10396,11 @@
   "integrate-point|swe|l1": {
    "expires": "2026-11-12T03:17:17.597888+00:00",
    "looked_up": "2026-11-02T18:01:34+00:00",
+   "status": "not_found"
+  },
+  "integrichain|data|l1": {
+   "expires": "2026-11-24T05:53:42.215439+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
   "intel-corporation|swe|l1": {
@@ -12687,11 +12682,6 @@
   "mccormick|security|l1": {
    "expires": "2026-11-12T09:19:33.546536+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "me100|mobile|l1": {
-   "expires": "2026-11-05T23:11:19.727232+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
   "meatec-batteryintelligence|security|l1": {
@@ -17615,8 +17605,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T18:54:23.943385+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
+   "expires": "2027-02-09T15:32:00.159562+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17974,6 +17964,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "slbglobal|fullstack|l1": {
+   "expires": "2026-11-13T00:54:03.454684+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
+   "status": "not_found"
   },
   "slbglobal|swe|l1": {
    "basis": "ctc",
@@ -18426,8 +18421,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T03:01:56.509891+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
+   "expires": "2027-02-04T08:48:30.898389+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20632,6 +20627,11 @@
   "turium-ai|mobile|l1": {
    "expires": "2026-11-10T09:45:07.056969+00:00",
    "looked_up": "2026-10-26T06:01:29+00:00",
+   "status": "not_found"
+  },
+  "turium-ai|security|l1": {
+   "expires": "2026-11-14T11:49:12.306645+00:00",
+   "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
   "turtletechtribe|erp|l1": {
@@ -22860,9 +22860,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-05",
-  "lookups_month": 678,
-  "lookups_today": 155,
+  "day": "2026-11-06",
+  "lookups_month": 683,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
