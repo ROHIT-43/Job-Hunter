@@ -2180,6 +2180,22 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "avaloq|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T07:49:03.615076+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 5.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/avaloq-salaries/developer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "avance-clinical|swe|l1": {
    "expires": "2026-11-16T19:42:41.871335+00:00",
    "looked_up": "2026-11-03T23:01:40+00:00",
@@ -4824,6 +4840,22 @@
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
+  "comviva|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T18:55:30.074150+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/comviva-technology-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "comviva|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5405,6 +5437,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "datae2e|devops|l1": {
+   "expires": "2026-11-27T05:47:33.293661+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "status": "not_found"
   },
   "dataterrain-inc|swe|l1": {
    "basis": "ctc",
@@ -7570,6 +7607,11 @@
    "looked_up": "2026-11-01T17:01:31+00:00",
    "status": "not_found"
   },
+  "franklin-templeton|swe|l1": {
+   "expires": "2026-11-25T04:40:48.406683+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "status": "not_found"
+  },
   "freelnace|security|l1": {
    "expires": "2026-11-10T14:52:38.588269+00:00",
    "looked_up": "2026-10-21T11:01:28+00:00",
@@ -8965,11 +9007,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "hexnode|security|l1": {
-   "expires": "2026-11-06T10:18:10.768316+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
   },
   "hextgenai|fullstack|l1": {
    "basis": "posted",
@@ -10403,11 +10440,6 @@
   "integrichain|data|l1": {
    "expires": "2026-11-24T05:53:42.215439+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
-   "status": "not_found"
-  },
-  "intel-corporation|swe|l1": {
-   "expires": "2026-11-06T10:35:18.260728+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
   "intelegencianalytics|swe|l1": {
@@ -12781,6 +12813,11 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
+  "medtronic|swe|l1": {
+   "expires": "2026-11-17T02:36:46.199291+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "status": "not_found"
+  },
   "medvirtual|swe|l1": {
    "expires": "2026-11-11T22:07:21.145398+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
@@ -12840,6 +12877,11 @@
   "metasys-tech|mobile|l1": {
    "expires": "2026-11-15T10:41:43.178573+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
+   "status": "not_found"
+  },
+  "metlife|data|l1": {
+   "expires": "2026-11-23T14:03:57.529440+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
   "metlife|devops|l2": {
@@ -14735,11 +14777,6 @@
    "looked_up": "2026-10-31T09:01:28+00:00",
    "status": "not_found"
   },
-  "osf-digital|swe|l1": {
-   "expires": "2026-11-06T10:32:51.090972+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "outcome-logix|erp|l1": {
    "expires": "2026-11-18T17:51:50.009482+00:00",
    "looked_up": "2026-11-04T21:01:18+00:00",
@@ -16087,11 +16124,6 @@
    "status": "found",
    "year": 2022
   },
-  "quantanite|swe|l1": {
-   "expires": "2026-11-06T10:41:54.652974+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
-   "status": "not_found"
-  },
   "quantum-integrators-group-llc|erp|l1": {
    "expires": "2026-11-19T20:59:44.141173+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
@@ -16343,6 +16375,11 @@
   "radian-generation|swe|l1": {
    "expires": "2026-11-08T12:36:37.242030+00:00",
    "looked_up": "2026-10-28T20:01:30+00:00",
+   "status": "not_found"
+  },
+  "radiantbiz|fullstack|l1": {
+   "expires": "2026-11-23T04:25:05.501081+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
   "radiometer-medical|swe|l1": {
@@ -17354,8 +17391,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T18:03:45.789652+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
+   "expires": "2027-02-02T00:23:27.945851+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -17721,8 +17758,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:50:28.953084+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
+   "expires": "2027-02-07T16:07:24.254041+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17950,11 +17987,6 @@
   "simple-digital-fze|swe|l1": {
    "expires": "2026-11-23T12:05:50.836862+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "simple-energy-pvt-ltd|data|l1": {
-   "expires": "2026-11-06T10:39:57.647566+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
    "status": "not_found"
   },
   "simple-energy-pvt-ltd|mobile|l1": {
@@ -18537,8 +18569,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T03:59:36.073826+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
+   "expires": "2027-02-09T02:10:41.645843+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21437,11 +21469,6 @@
    "looked_up": "2026-10-31T18:01:24+00:00",
    "status": "not_found"
   },
-  "vericence|devops|l1": {
-   "expires": "2026-11-06T10:57:49.311754+00:00",
-   "looked_up": "2026-10-16T23:01:23+00:00",
-   "status": "not_found"
-  },
   "vericoreapi|frontend|l1": {
    "expires": "2026-11-16T09:56:56.404070+00:00",
    "looked_up": "2026-10-26T13:14:58+00:00",
@@ -22056,8 +22083,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:16:10.858848+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
+   "expires": "2027-02-10T02:44:56.021387+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22989,6 +23016,11 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
+  "zimmerbiomet|swe|l2": {
+   "expires": "2026-11-24T20:23:24.403081+00:00",
+   "looked_up": "2026-11-06T11:01:18+00:00",
+   "status": "not_found"
+  },
   "zorba-consulting-india|swe|l1": {
    "expires": "2026-11-12T11:22:56.166285+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -23043,8 +23075,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 733,
-  "lookups_today": 55,
+  "lookups_month": 741,
+  "lookups_today": 63,
   "month": "2026-11"
  }
 }
