@@ -199,11 +199,6 @@
    "looked_up": "2026-10-26T04:01:24+00:00",
    "status": "not_found"
   },
-  "accad-solutions-pvt-ltd|swe|l1": {
-   "expires": "2026-11-06T07:56:27.610412+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -647,6 +642,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aeonmed-health-hospitals|swe|l1": {
+   "expires": "2026-11-16T07:58:20.006384+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
+   "status": "not_found"
   },
   "aervon|swe|l1": {
    "basis": "posted",
@@ -1755,11 +1755,6 @@
    "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
-  "arcanaanalytics|devops|l1": {
-   "expires": "2026-11-06T07:55:14.762219+00:00",
-   "looked_up": "2026-10-19T13:01:31+00:00",
-   "status": "not_found"
-  },
   "archlynk|erp|l1": {
    "expires": "2026-11-13T17:27:59.134133+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -2070,6 +2065,11 @@
   "atomach|swe|l1": {
    "expires": "2026-11-21T23:15:48.010454+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
+   "status": "not_found"
+  },
+  "atomicads|swe|l1": {
+   "expires": "2026-11-13T08:03:30.821842+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "status": "not_found"
   },
   "atomicworkhq|security|l1": {
@@ -2674,11 +2674,6 @@
   "binated|fullstack|l1": {
    "expires": "2026-11-23T15:55:33.381419+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
-   "status": "not_found"
-  },
-  "birlasoft|data|l1": {
-   "expires": "2026-11-06T07:31:25.268919+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
    "status": "not_found"
   },
   "birlasoft|erp|l1": {
@@ -4407,8 +4402,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T10:50:11.634755+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-02-09T15:54:01.490571+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5709,8 +5704,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:07:18.669471+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-01-30T09:51:39.760160+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5893,11 +5888,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "discoverintl|erp|l1": {
-   "expires": "2026-11-06T07:10:13.587945+00:00",
-   "looked_up": "2026-10-22T13:01:28+00:00",
-   "status": "not_found"
   },
   "ditansource|fullstack|l1": {
    "basis": "posted",
@@ -6609,11 +6599,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "esmo-usa|swe|l1": {
-   "expires": "2026-11-06T07:38:23.382132+00:00",
-   "looked_up": "2026-10-22T23:01:26+00:00",
-   "status": "not_found"
   },
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
@@ -8671,8 +8656,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:01:49.268424+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-01-29T07:27:44.943358+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10339,6 +10324,11 @@
   "innovaesi|swe|l1": {
    "expires": "2026-11-23T17:20:50.573364+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
+   "status": "not_found"
+  },
+  "innovative-information-technologies-inc.|data|l1": {
+   "expires": "2026-11-21T03:17:35.122595+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "status": "not_found"
   },
   "innowave360|swe|l1": {
@@ -14278,6 +14268,11 @@
    "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
+  "oh-design-studio|frontend|l1": {
+   "expires": "2026-11-18T22:00:54.492513+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
+   "status": "not_found"
+  },
   "okta-inc-|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17293,8 +17288,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:08:30.784350+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-02-02T21:47:38.440733+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -17665,8 +17660,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T21:37:46.835848+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-01-29T18:57:14.917748+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18481,8 +18476,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:03:48.148010+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
+   "expires": "2027-02-01T10:01:41.520947+00:00",
+   "looked_up": "2026-11-06T08:01:19+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -19153,11 +19148,6 @@
    "looked_up": "2026-10-25T05:01:26+00:00",
    "status": "not_found"
   },
-  "talentrabbit|swe|l1": {
-   "expires": "2026-11-06T07:53:27.500613+00:00",
-   "looked_up": "2026-10-16T09:01:27+00:00",
-   "status": "not_found"
-  },
   "tapi-prestressed-products-ltd---india|swe|l1": {
    "expires": "2026-11-13T15:53:17.302234+00:00",
    "looked_up": "2026-10-28T04:01:24+00:00",
@@ -19412,11 +19402,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "te-connectivity|data|l1": {
-   "expires": "2026-11-06T07:44:24.105245+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
   },
   "te-connectivity|swe|l1": {
    "basis": "ctc",
@@ -22962,8 +22947,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 713,
-  "lookups_today": 35,
+  "lookups_month": 717,
+  "lookups_today": 39,
   "month": "2026-11"
  }
 }
