@@ -274,6 +274,11 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
+  "accendra-health|swe|l3": {
+   "expires": "2026-11-17T09:11:43.445819+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "status": "not_found"
+  },
   "accentureindia|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -420,6 +425,22 @@
    "expires": "2026-11-06T16:50:29.909467+00:00",
    "looked_up": "2026-10-28T22:01:34+00:00",
    "status": "not_found"
+  },
+  "acies-home|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T00:19:26.446322+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 5.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/acies-global-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "acl-digital|swe|l1": {
    "basis": "ctc",
@@ -983,6 +1004,11 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
+  "allegis-global-solutions|swe|l2": {
+   "expires": "2026-11-22T11:17:17.022256+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "status": "not_found"
+  },
   "allimetech|security|l1": {
    "expires": "2026-11-11T11:30:00.952464+00:00",
    "looked_up": "2026-10-24T07:01:21+00:00",
@@ -1147,6 +1173,26 @@
    "expires": "2026-11-07T21:28:50.717575+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
+  },
+  "amazon|frontend|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-11T04:39:20.503925+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 40.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Amazon-Software-Development-Engineer-II-Frontend-Salaries-E6036_D_KO7,48_P2.htm"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2101530/amazon-frontend-engineer-2-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "amazon|mobile|l2": {
    "basis": "base",
@@ -1773,6 +1819,11 @@
   "arcticwolf|swe|l3": {
    "expires": "2026-11-12T16:15:19.545732+00:00",
    "looked_up": "2026-10-24T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "ares-management|fullstack|l1": {
+   "expires": "2026-11-24T07:30:24.719565+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
    "status": "not_found"
   },
   "argano|data|l1": {
@@ -5825,6 +5876,22 @@
    "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
+  "diebold|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T22:14:52.882043+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 6.3,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/diebold-nixdorf-salaries/web-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "digiaccel-learning|swe|l1": {
    "expires": "2026-11-11T19:35:05.870526+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
@@ -7264,11 +7331,6 @@
    "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
   },
-  "fioneer|erp|l1": {
-   "expires": "2026-11-06T12:31:30.215080+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
-   "status": "not_found"
-  },
   "fireblaze-ai-school|erp|l1": {
    "expires": "2026-11-21T22:38:58.550012+00:00",
    "looked_up": "2026-11-02T20:01:29+00:00",
@@ -8646,11 +8708,6 @@
    "status": "found",
    "year": 2025
   },
-  "h&amp;m|swe|l1": {
-   "expires": "2026-11-06T12:44:50.191236+00:00",
-   "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
   "h-e-services-india|data|l1": {
    "expires": "2026-11-15T02:02:51.098292+00:00",
    "looked_up": "2026-10-29T07:14:15+00:00",
@@ -9438,6 +9495,11 @@
   "huntingcubeai|fullstack|l1": {
    "expires": "2026-11-17T09:20:52.945129+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "huntingcubeai|mobile|l3": {
+   "expires": "2026-11-18T22:33:44.999709+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
    "status": "not_found"
   },
   "huntingcubeai|swe|l1": {
@@ -13974,6 +14036,20 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
+  "nmdcon|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T09:39:32.240265+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "nordson-corporation|swe|l2": {
    "expires": "2026-11-16T08:16:50.100146+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
@@ -14597,11 +14673,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "opmobility|swe|l1": {
-   "expires": "2026-11-06T12:20:29.937431+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
-   "status": "not_found"
   },
   "optimal-strategix-group-inc|swe|l1": {
    "expires": "2026-11-23T22:47:33.942976+00:00",
@@ -15743,11 +15814,6 @@
   "prudent-technologies-and-consulting-inc|swe|l1": {
    "expires": "2026-11-07T09:22:42.895163+00:00",
    "looked_up": "2026-10-20T09:01:36+00:00",
-   "status": "not_found"
-  },
-  "pssr|swe|l1": {
-   "expires": "2026-11-06T12:40:22.910405+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
   "pt-global-tiket-network|frontend|l1": {
@@ -17428,8 +17494,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T03:12:54.250336+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
+   "expires": "2027-02-06T11:21:51.399581+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18606,8 +18672,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:55:15.683004+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
+   "expires": "2027-01-31T12:37:40.446208+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20806,6 +20872,26 @@
    "status": "found",
    "year": 2026
   },
+  "tripjack-official|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-01-28T13:49:33.470832+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tripjack-salaries/sde1"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tripjack-salaries/software-developer-1"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "triton-infotech-fzc|data|l1": {
    "expires": "2026-11-07T05:22:34.029077+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
@@ -21246,6 +21332,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "ustglobal|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T03:59:09.860593+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
+   "max_lpa": 8.7,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ust-global-salaries/ui-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "ustglobal|frontend|l3": {
    "basis": "base",
@@ -22156,8 +22258,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T01:55:03.673711+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
+   "expires": "2027-02-07T13:27:43.445641+00:00",
+   "looked_up": "2026-11-06T13:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23184,8 +23286,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 754,
-  "lookups_today": 76,
+  "lookups_month": 763,
+  "lookups_today": 85,
   "month": "2026-11"
  }
 }
