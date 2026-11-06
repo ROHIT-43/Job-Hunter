@@ -4043,11 +4043,6 @@
    "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
-  "chezzion-solutions|erp|l1": {
-   "expires": "2026-11-06T00:25:02.550092+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
-   "status": "not_found"
-  },
   "chinmay-finlease-limited|devops|l1": {
    "expires": "2026-11-14T03:07:45.520353+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -4416,8 +4411,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:13:54.620262+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
+   "expires": "2027-02-10T13:45:38.101737+00:00",
+   "looked_up": "2026-11-06T01:01:17+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5702,8 +5697,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T06:52:40.585596+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
+   "expires": "2027-02-04T20:57:52.118415+00:00",
+   "looked_up": "2026-11-06T01:01:17+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8664,8 +8659,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:31:32.846141+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
+   "expires": "2027-02-02T21:43:02.367111+00:00",
+   "looked_up": "2026-11-06T01:01:17+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9812,11 +9807,6 @@
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
   },
-  "indiasfutureinvestors|fullstack|l1": {
-   "expires": "2026-11-06T00:43:07.097472+00:00",
-   "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
   "indiasfutureinvestors|security|l1": {
    "expires": "2026-11-10T01:58:19.322774+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
@@ -10347,11 +10337,6 @@
   "innowrap|swe|l1": {
    "expires": "2026-11-13T03:13:17.852107+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
-   "status": "not_found"
-  },
-  "insideoutva|swe|l1": {
-   "expires": "2026-11-06T00:37:36.376340+00:00",
-   "looked_up": "2026-10-16T19:01:22+00:00",
    "status": "not_found"
   },
   "insight-global|erp|l1": {
@@ -17605,8 +17590,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T15:32:00.159562+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
+   "expires": "2027-02-07T02:03:08.530777+00:00",
+   "looked_up": "2026-11-06T01:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18421,8 +18406,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:48:30.898389+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
+   "expires": "2027-02-10T03:57:28.614274+00:00",
+   "looked_up": "2026-11-06T01:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
