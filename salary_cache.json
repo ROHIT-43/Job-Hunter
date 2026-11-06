@@ -693,11 +693,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "afterquery|mobile|l1": {
-   "expires": "2026-11-06T15:46:39.813750+00:00",
-   "looked_up": "2026-10-18T11:01:24+00:00",
-   "status": "not_found"
-  },
   "agasty-ai|swe|l1": {
    "expires": "2026-11-16T09:35:38.995635+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -917,6 +912,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "alation|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T21:56:56.100021+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "max_lpa": 46.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alation-salaries/software-engineer-iii"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "alchem-international-pvt-ltd|frontend|l1": {
    "expires": "2026-11-11T06:25:41.759972+00:00",
@@ -2042,6 +2053,11 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
+  "astellaspharmainc|swe|l1": {
+   "expires": "2026-11-27T09:07:27.028089+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "status": "not_found"
+  },
   "astika-software-technologies-private-limited|swe|l1": {
    "expires": "2026-11-21T06:28:46.484143+00:00",
    "looked_up": "2026-11-02T20:01:29+00:00",
@@ -2189,11 +2205,6 @@
   "auto-data-catalog|swe|l1": {
    "expires": "2026-11-23T07:13:14.050687+00:00",
    "looked_up": "2026-11-04T10:01:28+00:00",
-   "status": "not_found"
-  },
-  "autodesk|security|l1": {
-   "expires": "2026-11-06T15:23:21.365720+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
    "status": "not_found"
   },
   "autodesk|swe|l1": {
@@ -9171,6 +9182,11 @@
    "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
+  "hindustan-brass-industries|swe|l1": {
+   "expires": "2026-11-26T21:09:17.022814+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "status": "not_found"
+  },
   "hirealpha|erp|l1": {
    "expires": "2026-11-17T09:40:17.299473+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -10541,6 +10557,11 @@
   "innowrap|swe|l1": {
    "expires": "2026-11-13T03:13:17.852107+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "insight-global|devops|l1": {
+   "expires": "2026-11-20T06:47:52.673018+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
    "status": "not_found"
   },
   "insight-global|erp|l1": {
@@ -12209,6 +12230,11 @@
    "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
+  "london-stock-exchange-group|security|l1": {
+   "expires": "2026-11-19T05:02:19.920227+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "status": "not_found"
+  },
   "london-stock-exchange-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12546,6 +12572,20 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "manning-global-gmbh|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T19:22:37.425892+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "marcusevansgroup|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12864,6 +12904,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/trellix/salaries/software-engineer.md"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "mcafee|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-01-31T07:19:09.377338+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "max_lpa": 17.3,
+   "min_lpa": 14.4,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/company/McAfee/salaries/Software-Engineer"
     }
    ],
    "status": "found",
@@ -14096,8 +14152,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:53:40.960680+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
+   "expires": "2027-02-08T11:45:24.673180+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -15106,11 +15162,6 @@
   "payfinia|swe|l1": {
    "expires": "2026-11-16T22:51:40.249695+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
-  "paypal|devops|l1": {
-   "expires": "2026-11-06T15:49:52.702240+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
   "paypal|mobile|l1": {
@@ -17551,8 +17602,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T08:27:33.271990+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
+   "expires": "2027-02-09T13:17:54.865301+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -17711,11 +17762,6 @@
   "searchjob-ai|swe|l1": {
    "expires": "2026-11-07T01:11:57.400774+00:00",
    "looked_up": "2026-10-23T08:01:27+00:00",
-   "status": "not_found"
-  },
-  "secnode|security|l1": {
-   "expires": "2026-11-06T15:44:35.013927+00:00",
-   "looked_up": "2026-10-25T14:01:30+00:00",
    "status": "not_found"
   },
   "securegen|swe|l1": {
@@ -18076,11 +18122,6 @@
   "siemenssoftware|fullstack|l1": {
    "expires": "2026-11-13T08:24:26.140195+00:00",
    "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "siemenssoftware|swe|l1": {
-   "expires": "2026-11-06T16:00:54.639645+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
    "status": "not_found"
   },
   "siemens|swe|l1": {
@@ -19117,6 +19158,22 @@
     }
    ],
    "status": "found"
+  },
+  "surepass|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-29T03:57:54.351219+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "mncjobsindia.com",
+     "uri": "https://www.mncjobsindia.com/jobs/react-developer-dl-4133673"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "surya-software-systems|swe|l1": {
    "basis": "ctc",
@@ -22315,8 +22372,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T23:33:16.391855+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
+   "expires": "2027-01-30T08:26:22.653215+00:00",
+   "looked_up": "2026-11-06T16:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23353,8 +23410,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 777,
-  "lookups_today": 99,
+  "lookups_month": 784,
+  "lookups_today": 106,
   "month": "2026-11"
  }
 }
