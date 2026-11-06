@@ -269,6 +269,11 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
+  "accendra-health|erp|l2": {
+   "expires": "2026-11-14T06:28:43.690219+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
+  },
   "accentureindia|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4040,6 +4045,11 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
+  "chargepoint|swe|l1": {
+   "expires": "2026-11-24T20:57:32.470825+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
+  },
   "chate-coaching-classes|fullstack|l1": {
    "expires": "2026-11-15T08:51:06.106086+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -4871,6 +4881,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "comviva|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T08:36:55.689157+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/comviva-technology-salaries/associate-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "conceptmedicals|erp|l1": {
    "expires": "2026-11-20T15:59:01.079612+00:00",
@@ -6211,6 +6237,11 @@
   "elanco|data|l1": {
    "expires": "2026-11-07T16:36:40.955605+00:00",
    "looked_up": "2026-10-21T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "elanco|erp|l1": {
+   "expires": "2026-11-15T10:00:37.864309+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
   "elanco|swe|l1": {
@@ -9108,6 +9139,11 @@
    "status": "found",
    "year": 2026
   },
+  "hitachienergy|swe|l1": {
+   "expires": "2026-11-20T05:37:04.761200+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
+  },
   "hitasoft|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9972,11 +10008,6 @@
   "infolitz-software|swe|l1": {
    "expires": "2026-11-09T01:55:30.055937+00:00",
    "looked_up": "2026-10-20T20:01:26+00:00",
-   "status": "not_found"
-  },
-  "information-systems-associates-fze|devops|l1": {
-   "expires": "2026-11-06T11:27:01.485060+00:00",
-   "looked_up": "2026-10-27T15:01:29+00:00",
    "status": "not_found"
   },
   "informatrixit|devops|l1": {
@@ -12396,6 +12427,22 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "marcusevansgroup|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T07:03:14.516240+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/marcus-evans-salaries/mumbai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "marduk-technologies|swe|l1": {
    "expires": "2026-11-16T14:17:41.188600+00:00",
    "looked_up": "2026-11-03T20:01:58+00:00",
@@ -13089,6 +13136,11 @@
     }
    ],
    "status": "found"
+  },
+  "mizuho|swe|l1": {
+   "expires": "2026-11-21T18:33:57.874343+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
   },
   "mobily-infotech|swe|l1": {
    "basis": "ctc",
@@ -14370,11 +14422,6 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
-  "omnissa|data|l1": {
-   "expires": "2026-11-06T11:43:33.718208+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
   "omnissa|security|l1": {
    "expires": "2026-11-12T12:58:17.637443+00:00",
    "looked_up": "2026-10-31T11:01:28+00:00",
@@ -15484,11 +15531,6 @@
   "practicesuite-inc-web-based-medical-billing-and-practice-management-software|data|l1": {
    "expires": "2026-11-14T10:15:40.115627+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
-  "praella|fullstack|l1": {
-   "expires": "2026-11-06T11:25:00.559438+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
   "pragyaa-ai-ml|swe|l1": {
@@ -16985,11 +17027,6 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
-  "s5-stratos|data|l1": {
-   "expires": "2026-11-06T11:09:11.898204+00:00",
-   "looked_up": "2026-10-16T12:01:35+00:00",
-   "status": "not_found"
-  },
   "saatvik-agro-processors-private-limited|data|l1": {
    "expires": "2026-11-11T12:29:46.999761+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
@@ -17391,8 +17428,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T00:23:27.945851+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
+   "expires": "2027-02-04T03:12:54.250336+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18199,6 +18236,11 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
+  "smith-nephew|swe|l2": {
+   "expires": "2026-11-19T19:09:27.253899+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
+  },
   "smithprofsllp|erp|l1": {
    "expires": "2026-11-15T16:14:42.472821+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -18438,11 +18480,6 @@
    "looked_up": "2026-10-31T17:01:23+00:00",
    "status": "not_found"
   },
-  "solvex-solutions|data|l1": {
-   "expires": "2026-11-06T11:04:05.953138+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
   "solvex-solutions|swe|l1": {
    "expires": "2026-11-22T20:57:29.200475+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -18569,8 +18606,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:10:41.645843+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
+   "expires": "2027-02-02T18:55:15.683004+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18693,6 +18730,26 @@
     }
    ],
    "status": "found"
+  },
+  "standard-chartered-india|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T19:39:17.657726+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 14.1,
+   "min_lpa": 7.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/standard-chartered-salaries/sde1"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/standard-chartered/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "starclinch|swe|l1": {
    "expires": "2026-11-14T05:32:11.176731+00:00",
@@ -18971,11 +19028,6 @@
     }
    ],
    "status": "found"
-  },
-  "swedium-global-services-ab|data|l1": {
-   "expires": "2026-11-06T11:12:48.736545+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
   },
   "swiftb2b|fullstack|l1": {
    "expires": "2026-11-25T06:20:29.920447+00:00",
@@ -20106,6 +20158,11 @@
    "looked_up": "2026-10-27T18:01:29+00:00",
    "status": "not_found"
   },
+  "the-kraft-heinz-company|data|l2": {
+   "expires": "2026-11-26T14:42:30.338288+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "status": "not_found"
+  },
   "the-starter-labs|fullstack|l1": {
    "expires": "2026-11-09T11:55:08.189183+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
@@ -20494,6 +20551,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "touch-logic|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T05:46:18.205131+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 2.3,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/touch-logic-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "towards-vision-technologies|swe|l1": {
    "expires": "2026-11-17T09:15:38.203872+00:00",
@@ -22083,8 +22156,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T02:44:56.021387+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
+   "expires": "2027-02-02T01:55:03.673711+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22834,6 +22907,22 @@
    ],
    "status": "found"
   },
+  "zendesk|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-28T18:21:32.535853+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 14.3,
+   "min_lpa": 11.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/zendesk-salaries/software-engineer-level-1"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zendoo-app|swe|l1": {
    "expires": "2026-11-19T16:58:08.599403+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
@@ -22843,6 +22932,26 @@
    "expires": "2026-11-12T10:11:15.623229+00:00",
    "looked_up": "2026-11-04T02:01:37+00:00",
    "status": "not_found"
+  },
+  "zensar|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T06:42:23.453768+00:00",
+   "looked_up": "2026-11-06T12:01:18+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zensar-technologies-salaries/fresher?page=2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zensar-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "zensar|devops|l1": {
    "basis": "ctc",
@@ -23075,8 +23184,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 741,
-  "lookups_today": 63,
+  "lookups_month": 754,
+  "lookups_today": 76,
   "month": "2026-11"
  }
 }
