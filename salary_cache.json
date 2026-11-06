@@ -1033,6 +1033,11 @@
    ],
    "status": "found"
   },
+  "alodirobotics|mobile|l1": {
+   "expires": "2026-11-26T20:06:27.482998+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
+   "status": "not_found"
+  },
   "alphadelving|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -2394,6 +2399,11 @@
    "looked_up": "2026-11-05T23:01:23+00:00",
    "status": "not_found"
   },
+  "ayurak|security|l1": {
+   "expires": "2026-11-22T16:59:10.198885+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
+   "status": "not_found"
+  },
   "ayutalk|fullstack|l1": {
    "expires": "2026-11-10T21:48:27.267185+00:00",
    "looked_up": "2026-11-03T18:02:22+00:00",
@@ -2989,6 +2999,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "bnp-paribas|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T07:30:54.132304+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
+   "max_lpa": 3.8,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bnp-paribas-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "bnp-paribas|swe|l1": {
    "basis": "ctc",
@@ -6097,6 +6123,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "drc-systems|devops|l1": {
+   "expires": "2026-11-19T20:46:45.756521+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
+   "status": "not_found"
   },
   "driif-ai|swe|l1": {
    "expires": "2026-11-14T08:57:44.897547+00:00",
@@ -9488,8 +9519,8 @@
    "status": "not_found"
   },
   "huntingcubeai|frontend|l1": {
-   "expires": "2026-11-06T13:29:49.853905+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
+   "expires": "2026-11-14T18:15:38.826249+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
    "status": "not_found"
   },
   "huntingcubeai|fullstack|l1": {
@@ -11942,6 +11973,11 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
+  "lh2-ai-labs|security|l1": {
+   "expires": "2026-11-17T00:16:36.136127+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
+   "status": "not_found"
+  },
   "liaison-bank|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14039,8 +14075,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:39:32.240265+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
+   "expires": "2027-01-30T01:44:08.788032+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17494,8 +17530,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T11:21:51.399581+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
+   "expires": "2027-02-02T05:48:54.939096+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18672,8 +18708,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T12:37:40.446208+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
+   "expires": "2027-02-10T12:26:21.243802+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22258,8 +22294,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:27:43.445641+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
+   "expires": "2027-01-29T19:32:59.838739+00:00",
+   "looked_up": "2026-11-06T14:01:14+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23286,8 +23322,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 763,
-  "lookups_today": 85,
+  "lookups_month": 769,
+  "lookups_today": 91,
   "month": "2026-11"
  }
 }
