@@ -1267,6 +1267,11 @@
    "status": "found",
    "year": 2026
   },
+  "american-express|devops|l1": {
+   "expires": "2026-11-15T02:07:59.694945+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
   "american-express|security|l3": {
    "basis": "base",
    "confidence": "low",
@@ -1538,6 +1543,11 @@
   "anzo-controls|swe|l1": {
    "expires": "2026-11-11T18:36:10.825212+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "apexon|fullstack|l1": {
+   "expires": "2026-11-18T04:25:09.888652+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
   "apn-consulting-inc.|swe|l1": {
@@ -2183,6 +2193,11 @@
   "avathonai|mobile|l1": {
    "expires": "2026-11-09T06:14:14.350244+00:00",
    "looked_up": "2026-10-26T19:01:28+00:00",
+   "status": "not_found"
+  },
+  "avaya|swe|l2": {
+   "expires": "2026-11-20T22:15:27.634014+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
   "aventra-group|swe|l1": {
@@ -3412,6 +3427,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "capco|fullstack|l1": {
+   "expires": "2026-11-15T02:48:54.457626+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
   "capco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4387,8 +4407,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:49:46.960068+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
+   "expires": "2027-02-05T10:50:11.634755+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5689,8 +5709,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:08:39.193617+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
+   "expires": "2027-02-01T12:07:18.669471+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -6680,6 +6700,11 @@
    "status": "found",
    "year": 2026
   },
+  "eurotechsol-gmbh|erp|l1": {
+   "expires": "2026-11-23T10:37:50.104364+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
   "ev-nexo-tech|swe|l1": {
    "expires": "2026-11-08T10:20:37.907202+00:00",
    "looked_up": "2026-10-31T09:01:28+00:00",
@@ -6760,6 +6785,11 @@
   "excelya|swe|l1": {
    "expires": "2026-11-08T02:25:28.934652+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
+  "exl-service|devops|l1": {
+   "expires": "2026-11-19T19:34:45.665699+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
   "exl-service|frontend|l1": {
@@ -8641,8 +8671,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T03:13:47.106086+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
+   "expires": "2027-02-06T00:01:49.268424+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10194,11 +10224,6 @@
   "infoway-solutions|devops|l1": {
    "expires": "2026-11-07T11:13:13.869519+00:00",
    "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "infoway-solutions|swe|l1": {
-   "expires": "2026-11-06T06:21:29.641616+00:00",
-   "looked_up": "2026-10-30T05:01:26+00:00",
    "status": "not_found"
   },
   "infra-cap|swe|l1": {
@@ -11925,6 +11950,11 @@
    "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
+  "logiq-gen|devops|l1": {
+   "expires": "2026-11-26T13:24:49.472671+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
   "logitech|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12756,6 +12786,22 @@
    "looked_up": "2026-10-30T07:01:31+00:00",
    "status": "not_found"
   },
+  "meet-archer|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-29T10:59:08.009208+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "max_lpa": 12.7,
+   "min_lpa": 9.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/archer-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "megrisoft-limited|mobile|l1": {
    "expires": "2026-11-08T01:42:02.477485+00:00",
    "looked_up": "2026-10-18T18:01:24+00:00",
@@ -13017,6 +13063,22 @@
    "expires": "2026-11-13T19:32:28.832382+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
+  },
+  "mogi-i-o|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T06:18:47.709442+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "max_lpa": 3.1,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mogi-i-or-o-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "moksh-overseas-education-consultant|swe|l1": {
    "expires": "2026-11-16T09:10:26.921891+00:00",
@@ -13838,6 +13900,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "norwin-technologies|security|l1": {
+   "expires": "2026-11-25T06:46:35.699255+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
   },
   "novactech|swe|l1": {
    "basis": "base",
@@ -14799,6 +14866,11 @@
    ],
    "status": "found"
   },
+  "payfinia|swe|l1": {
+   "expires": "2026-11-16T22:51:40.249695+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
   "paypal|devops|l1": {
    "expires": "2026-11-06T15:49:52.702240+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -15360,6 +15432,16 @@
   "pragyaa-ai-ml|swe|l1": {
    "expires": "2026-11-08T09:18:08.317532+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
+   "status": "not_found"
+  },
+  "pri-india-it-services-private-limited|devops|l2": {
+   "expires": "2026-11-26T23:01:50.636556+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
+  "pri-india-it-services-private-limited|swe|l2": {
+   "expires": "2026-11-24T06:10:43.559203+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
   "prime-rishta|fullstack|l1": {
@@ -17208,6 +17290,20 @@
    "status": "found",
    "year": 2021
   },
+  "sava-info-systems-pvt-ltd|swe|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-01-31T10:08:30.784350+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "savit-interactive-company|swe|l1": {
    "expires": "2026-11-09T16:20:00.618395+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -17569,8 +17665,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T18:30:34.050707+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
+   "expires": "2027-01-30T21:37:46.835848+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18385,8 +18481,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T23:51:12.596047+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
+   "expires": "2027-01-29T01:03:48.148010+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -19761,6 +19857,26 @@
    "expires": "2026-11-20T00:58:14.895284+00:00",
    "looked_up": "2026-10-31T16:01:26+00:00",
    "status": "not_found"
+  },
+  "tesseract-learning|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-01T10:11:44.178634+00:00",
+   "looked_up": "2026-11-06T07:01:16+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tesseract-learning-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tesseract-learning-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "testqtech|fullstack|l1": {
    "expires": "2026-11-19T16:05:03.971627+00:00",
@@ -22470,11 +22586,6 @@
    "status": "found",
    "year": 2025
   },
-  "york-digital-consulting-inc|devops|l1": {
-   "expires": "2026-11-06T06:46:40.963448+00:00",
-   "looked_up": "2026-10-19T23:01:26+00:00",
-   "status": "not_found"
-  },
   "yoti-digital-identity|erp|l1": {
    "expires": "2026-11-11T08:58:24.814668+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -22851,8 +22962,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 699,
-  "lookups_today": 21,
+  "lookups_month": 713,
+  "lookups_today": 35,
   "month": "2026-11"
  }
 }
