@@ -36,11 +36,6 @@
    "status": "found",
    "year": 2024
   },
-  "4biz-international|frontend|l1": {
-   "expires": "2026-11-06T17:14:44.299873+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
-  },
   "4th-quarter-technologies|swe|l1": {
    "expires": "2026-11-12T15:35:04.936453+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -148,8 +143,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T13:11:57.650485+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-02-04T14:30:07.787499+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -162,8 +157,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T19:07:16.220931+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-02-06T08:01:48.062766+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -12367,11 +12362,6 @@
    "looked_up": "2026-10-22T02:01:24+00:00",
    "status": "not_found"
   },
-  "loylogic|swe|l1": {
-   "expires": "2026-11-06T17:20:00.598084+00:00",
-   "looked_up": "2026-10-28T05:01:27+00:00",
-   "status": "not_found"
-  },
   "lpl-global-capability-center|swe|l2": {
    "expires": "2026-11-22T02:14:03.217452+00:00",
    "looked_up": "2026-11-03T19:01:57+00:00",
@@ -12633,8 +12623,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T15:03:18.853157+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-01-29T22:28:52.943097+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14205,8 +14195,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T11:31:01.335388+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-02-08T01:28:50.876087+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17655,8 +17645,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:12:18.773375+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-02-10T09:50:46.521006+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -19529,11 +19519,6 @@
   "tapi-prestressed-products-ltd---india|swe|l1": {
    "expires": "2026-11-13T15:53:17.302234+00:00",
    "looked_up": "2026-10-28T04:01:24+00:00",
-   "status": "not_found"
-  },
-  "tarana-wireless-inc|devops|l1": {
-   "expires": "2026-11-06T17:25:02.161128+00:00",
-   "looked_up": "2026-10-17T13:01:26+00:00",
    "status": "not_found"
   },
   "target|mobile|l1": {
@@ -22425,8 +22410,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T08:12:46.140052+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
+   "expires": "2027-02-01T13:04:26.339798+00:00",
+   "looked_up": "2026-11-06T17:29:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22874,11 +22859,6 @@
   "xhawk|swe|l1": {
    "expires": "2026-11-17T11:58:27.671365+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
-  "xpool|swe|l1": {
-   "expires": "2026-11-06T17:11:10.455146+00:00",
-   "looked_up": "2026-10-17T02:01:21+00:00",
    "status": "not_found"
   },
   "xtsworld|swe|l1": {
