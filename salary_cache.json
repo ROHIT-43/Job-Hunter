@@ -148,8 +148,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T18:09:24.812542+00:00",
-   "looked_up": "2026-10-24T12:01:30+00:00",
+   "expires": "2027-02-01T13:11:57.650485+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -162,8 +162,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-11T07:54:31.081325+00:00",
-   "looked_up": "2026-10-16T18:01:27+00:00",
+   "expires": "2027-01-30T19:07:16.220931+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -420,11 +420,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "aci-worldwide|swe|l1": {
-   "expires": "2026-11-06T16:50:29.909467+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
-   "status": "not_found"
   },
   "acies-home|swe|l1": {
    "basis": "ctc",
@@ -711,11 +706,6 @@
   "ai-vidya|swe|l1": {
    "expires": "2026-11-15T03:55:42.698056+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
-  },
-  "aifa-labs-official|erp|l1": {
-   "expires": "2026-11-06T16:42:31.204814+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
    "status": "not_found"
   },
   "aiprise|frontend|l2": {
@@ -1140,6 +1130,22 @@
     }
    ],
    "status": "found"
+  },
+  "amaha|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T04:21:42.581034+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/amaha-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "amazon-web-services|swe|l1": {
    "basis": "base",
@@ -6664,6 +6670,22 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
+  "equinix|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T23:59:17.523248+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
+   "max_lpa": 23.5,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equinix-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "equisoft|swe|l1": {
    "expires": "2026-11-10T15:19:47.178483+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
@@ -6825,6 +6847,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "esri|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T01:38:42.456181+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/esri-india-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "eternal9-foodworks-private-limited|frontend|l1": {
    "expires": "2026-11-10T12:34:09.955704+00:00",
@@ -9906,11 +9944,6 @@
    "status": "found",
    "year": 2025
   },
-  "idfcfirstbank|data|l1": {
-   "expires": "2026-11-06T16:43:26.836245+00:00",
-   "looked_up": "2026-10-22T14:01:29+00:00",
-   "status": "not_found"
-  },
   "idfcfirstbank|devops|l1": {
    "expires": "2026-11-16T08:03:33.288046+00:00",
    "looked_up": "2026-11-05T11:01:19+00:00",
@@ -11251,6 +11284,26 @@
    "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
+  "jpmorganchase|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T21:45:01.052005+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 18.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/jpmorgan-chase-and-co-dot-salaries"
+    },
+    {
+     "title": "upgrad.com",
+     "uri": "https://www.upgrad.com/blog/jp-morgan-salary/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "jpmorganchase|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -12345,6 +12398,11 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
+  "lucey-group-limited|swe|l1": {
+   "expires": "2026-11-17T02:11:37.739555+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
+   "status": "not_found"
+  },
   "lumentechnologies|swe|l2": {
    "expires": "2026-11-15T17:15:30.327994+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
@@ -12575,8 +12633,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T19:22:37.425892+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
+   "expires": "2027-02-05T15:03:18.853157+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -12866,11 +12924,6 @@
   "maxval-group-inc.|erp|l1": {
    "expires": "2026-11-17T16:17:25.599380+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
-  "maxval-group-inc.|fullstack|l1": {
-   "expires": "2026-11-06T16:02:43.651786+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
   "mayura-consultancy-services|mobile|l1": {
@@ -14152,8 +14205,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T11:45:24.673180+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
+   "expires": "2027-01-30T11:31:01.335388+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17602,8 +17655,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T13:17:54.865301+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
+   "expires": "2027-01-31T22:12:18.773375+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -22372,8 +22425,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T08:26:22.653215+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
+   "expires": "2027-02-06T08:12:46.140052+00:00",
+   "looked_up": "2026-11-06T17:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23410,8 +23463,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 784,
-  "lookups_today": 106,
+  "lookups_month": 789,
+  "lookups_today": 111,
   "month": "2026-11"
  }
 }
