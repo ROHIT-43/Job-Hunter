@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T17:09:35.823994+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-03T09:49:52.891310+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:48:51.894354+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-07T02:54:28.920089+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -576,8 +576,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:58:57.306008+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-09T22:11:37.690416+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -4436,11 +4436,6 @@
    "status": "found",
    "year": 2026
   },
-  "codagram-edtech|swe|l1": {
-   "expires": "2026-11-06T21:47:04.087903+00:00",
-   "looked_up": "2026-10-23T20:01:24+00:00",
-   "status": "not_found"
-  },
   "codefeast|swe|l1": {
    "expires": "2026-11-12T21:27:49.979523+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
@@ -5141,6 +5136,11 @@
     }
    ],
    "status": "found"
+  },
+  "covenant-hr|security|l2": {
+   "expires": "2026-11-16T02:50:02.673085+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
+   "status": "not_found"
   },
   "credapp|security|l1": {
    "expires": "2026-11-16T09:21:40.429074+00:00",
@@ -6110,11 +6110,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "dooritt|devops|l1": {
-   "expires": "2026-11-06T22:00:07.915616+00:00",
-   "looked_up": "2026-10-17T14:01:30+00:00",
-   "status": "not_found"
   },
   "dotsolved|devops|l1": {
    "expires": "2026-11-08T12:48:41.693163+00:00",
@@ -8194,11 +8189,6 @@
   "glidewell|swe|l1": {
    "expires": "2026-11-16T06:17:28.493143+00:00",
    "looked_up": "2026-10-26T22:01:27+00:00",
-   "status": "not_found"
-  },
-  "global-payex-private-limited|security|l1": {
-   "expires": "2026-11-06T21:24:16.159130+00:00",
-   "looked_up": "2026-10-19T11:01:27+00:00",
    "status": "not_found"
   },
   "global-payments|swe|l1": {
@@ -12141,11 +12131,6 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
-  "linde-engineering|swe|l2": {
-   "expires": "2026-11-06T21:52:52.736994+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "linde-india-ltd|data|l1": {
    "expires": "2026-11-17T13:47:56.429155+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
@@ -12652,8 +12637,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:00:02.924123+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-06T18:24:17.530121+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13689,11 +13674,6 @@
    "status": "found",
    "year": 2026
   },
-  "n-coldpressed|swe|l1": {
-   "expires": "2026-11-06T21:54:42.858217+00:00",
-   "looked_up": "2026-10-27T15:01:29+00:00",
-   "status": "not_found"
-  },
   "nam-info-inc|swe|l1": {
    "expires": "2026-11-16T10:12:12.297626+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -14229,8 +14209,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T21:27:24.190784+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-06T10:29:16.963781+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -14295,11 +14275,6 @@
   "noventiq|security|l1": {
    "expires": "2026-11-14T06:59:55.431965+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
-   "status": "not_found"
-  },
-  "novglobal|security|l1": {
-   "expires": "2026-11-06T21:49:23.295970+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
   "novotech|erp|l1": {
@@ -17679,8 +17654,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T15:20:20.280586+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-01-30T08:47:09.342270+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -22284,11 +22259,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "vysystems|erp|l1": {
-   "expires": "2026-11-06T21:50:10.763050+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
   "vysystems|fullstack|l1": {
    "expires": "2026-11-17T10:51:00.817134+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
@@ -22531,8 +22501,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T13:58:07.754174+00:00",
-   "looked_up": "2026-11-06T21:01:16+00:00",
+   "expires": "2027-02-01T18:16:36.673770+00:00",
+   "looked_up": "2026-11-06T22:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23554,8 +23524,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 806,
-  "lookups_today": 128,
+  "lookups_month": 807,
+  "lookups_today": 129,
   "month": "2026-11"
  }
 }
