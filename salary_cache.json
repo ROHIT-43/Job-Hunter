@@ -3491,6 +3491,22 @@
    "status": "found",
    "year": 2026
   },
+  "capgemini|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T09:36:16.057624+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/Data-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "capgemini|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4028,11 +4044,6 @@
    "looked_up": "2026-10-24T13:01:30+00:00",
    "status": "not_found"
   },
-  "chryselys|data|l1": {
-   "expires": "2026-11-06T04:12:56.467661+00:00",
-   "looked_up": "2026-10-22T03:01:25+00:00",
-   "status": "not_found"
-  },
   "ciena|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4386,8 +4397,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T15:21:27.073295+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
+   "expires": "2027-02-04T21:13:55.290160+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -4807,6 +4818,22 @@
    "expires": "2026-11-13T09:59:05.885364+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
+  },
+  "comviva|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T06:22:16.327235+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "max_lpa": 10.5,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/comviva-technology-salaries/devops-lead"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "conceptmedicals|erp|l1": {
    "expires": "2026-11-20T15:59:01.079612+00:00",
@@ -5672,8 +5699,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T19:34:44.896470+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
+   "expires": "2027-01-29T03:47:58.527884+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -6728,6 +6755,11 @@
   "evvara-ai|frontend|l1": {
    "expires": "2026-11-18T02:47:29.165049+00:00",
    "looked_up": "2026-10-28T14:01:41+00:00",
+   "status": "not_found"
+  },
+  "exasoftglobal|swe|l1": {
+   "expires": "2026-11-23T03:42:42.975800+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "status": "not_found"
   },
   "exatech-inc|swe|l1": {
@@ -8619,8 +8651,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T20:05:08.574025+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
+   "expires": "2027-02-02T07:57:20.854235+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10418,11 +10450,6 @@
    "looked_up": "2026-10-17T11:01:23+00:00",
    "status": "not_found"
   },
-  "inventam-tech-solution|swe|l1": {
-   "expires": "2026-11-06T04:40:53.119872+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
-   "status": "not_found"
-  },
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10691,6 +10718,22 @@
    "expires": "2026-11-17T22:41:58.021404+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
    "status": "not_found"
+  },
+  "jabil|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T18:37:18.965627+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "max_lpa": 6.3,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/jabil-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "jacobs|fullstack|l1": {
    "expires": "2026-11-12T04:05:48.139142+00:00",
@@ -17425,6 +17468,22 @@
    "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
+  "servicenow|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T01:37:31.197578+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "flexiple.com",
+     "uri": "https://flexiple.com/salary/servicenow/bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "servicenow|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -17515,8 +17574,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:17:44.560197+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
+   "expires": "2027-02-03T08:40:01.786761+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18331,8 +18390,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T05:21:08.976656+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
+   "expires": "2027-02-04T21:14:32.910378+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20310,6 +20369,11 @@
    ],
    "status": "found"
   },
+  "trademo-inc|devops|l1": {
+   "expires": "2026-11-21T09:02:06.331381+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "status": "not_found"
+  },
   "traker-live|frontend|l1": {
    "expires": "2026-11-08T17:33:10.709014+00:00",
    "looked_up": "2026-10-24T20:01:27+00:00",
@@ -20899,6 +20963,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "ustglobal|frontend|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-07T09:57:17.981134+00:00",
+   "looked_up": "2026-11-06T05:01:17+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-ust-pay"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ust-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ustglobal|fullstack|l1": {
    "basis": "ctc",
@@ -22751,8 +22835,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 688,
-  "lookups_today": 10,
+  "lookups_month": 695,
+  "lookups_today": 17,
   "month": "2026-11"
  }
 }
