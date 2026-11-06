@@ -5,11 +5,6 @@
    "looked_up": "2026-10-31T16:01:26+00:00",
    "status": "not_found"
   },
-  "360technology-usa|erp|l1": {
-   "expires": "2026-11-06T18:31:29.370288+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
   "3edge-solutions|swe|l3": {
    "expires": "2026-11-12T09:46:19.939685+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -143,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T19:50:47.713783+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-07T11:32:27.624189+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -157,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T00:59:26.285892+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-10T20:55:59.418857+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -581,8 +576,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T08:41:35.972533+00:00",
-   "looked_up": "2026-10-17T16:01:22+00:00",
+   "expires": "2027-02-11T13:02:23.913405+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -6007,11 +6002,6 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
-  "digital-business-people|swe|l1": {
-   "expires": "2026-11-06T18:45:18.747972+00:00",
-   "looked_up": "2026-10-26T16:01:28+00:00",
-   "status": "not_found"
-  },
   "digital-creationsjd|swe|l1": {
    "expires": "2026-11-16T11:34:20.309469+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -11027,9 +11017,24 @@
    "status": "not_found"
   },
   "jade-global|erp|l1": {
-   "expires": "2026-11-06T18:13:10.743771+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T04:53:29.163085+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/jade-global-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/jade-global-salaries?page=5"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "jane-aerospace|fullstack|l1": {
    "basis": "posted",
@@ -12653,8 +12658,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T11:32:53.418509+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-03T09:27:33.043664+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14230,8 +14235,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T06:05:02.615890+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-02T09:06:25.130683+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17680,8 +17685,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:46:48.124775+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-08T06:00:53.539058+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18823,6 +18828,22 @@
    "expires": "2026-11-20T20:16:05.344225+00:00",
    "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
+  },
+  "sophos|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-30T11:47:14.044998+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
+   "max_lpa": 24.1,
+   "min_lpa": 6.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/sophos-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "sorsiri|fullstack|l1": {
    "expires": "2026-11-07T22:07:29.655279+00:00",
@@ -22491,8 +22512,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:05:22.438153+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2027-02-08T08:54:11.926415+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22548,6 +22569,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "webzone-network|swe|l1": {
+   "expires": "2026-11-21T03:24:52.309050+00:00",
+   "looked_up": "2026-11-06T19:01:19+00:00",
+   "status": "not_found"
   },
   "weir-plc|fullstack|l1": {
    "expires": "2026-11-23T05:56:05.358347+00:00",
@@ -23209,11 +23235,6 @@
    "looked_up": "2026-10-21T07:01:27+00:00",
    "status": "not_found"
   },
-  "zenarahealth|devops|l1": {
-   "expires": "2026-11-06T18:42:47.616228+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23524,8 +23545,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 798,
-  "lookups_today": 120,
+  "lookups_month": 801,
+  "lookups_today": 123,
   "month": "2026-11"
  }
 }
