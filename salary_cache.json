@@ -1951,11 +1951,6 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
-  "aspen-technology|swe|l1": {
-   "expires": "2026-11-06T05:38:32.560980+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
-  },
   "aspirox-private-limited|swe|l1": {
    "expires": "2026-11-21T23:39:47.417440+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
@@ -2579,11 +2574,6 @@
   "bayer|security|l1": {
    "expires": "2026-11-11T22:14:00.020485+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
-  "bceglobaltech|erp|l1": {
-   "expires": "2026-11-06T05:28:05.534482+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
    "status": "not_found"
   },
   "bcg-x|swe|l1": {
@@ -4397,8 +4387,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:13:55.290160+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
+   "expires": "2027-02-04T08:49:46.960068+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5699,8 +5689,8 @@
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T03:47:58.527884+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
+   "expires": "2027-02-04T01:08:39.193617+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -8651,8 +8641,8 @@
   "hanuman-silk-creation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T07:57:20.854235+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
+   "expires": "2027-02-03T03:13:47.106086+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9221,6 +9211,26 @@
    "expires": "2026-11-18T18:15:03.088143+00:00",
    "looked_up": "2026-10-29T06:01:32+00:00",
    "status": "not_found"
+  },
+  "hp|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-05T13:05:49.841023+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hp-r-and-d-salaries/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hp-india-salaries/bengaluru-location?page=5"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "hrmcounselll|swe|l1": {
    "expires": "2026-11-12T20:31:21.858358+00:00",
@@ -15784,11 +15794,6 @@
    "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
-  "qbyss|swe|l1": {
-   "expires": "2026-11-06T05:28:08.242028+00:00",
-   "looked_up": "2026-10-17T11:01:23+00:00",
-   "status": "not_found"
-  },
   "qleapmediatech|fullstack|l1": {
    "expires": "2026-11-10T15:57:42.429760+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
@@ -16825,11 +16830,6 @@
    "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
   },
-  "saatvik-agro-processors-private-limited|mobile|l1": {
-   "expires": "2026-11-06T05:29:21.532353+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17055,11 +17055,6 @@
   "sandisk|swe|l2": {
    "expires": "2026-11-08T10:56:40.951864+00:00",
    "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
-  "saneforce-pharma-sfa|fullstack|l1": {
-   "expires": "2026-11-06T05:12:18.422091+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
   "saneforce-pharma-sfa|mobile|l1": {
@@ -17574,8 +17569,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T08:40:01.786761+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
+   "expires": "2027-01-28T18:30:34.050707+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18390,8 +18385,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:14:32.910378+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
+   "expires": "2027-01-31T23:51:12.596047+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -18433,6 +18428,11 @@
   "sparkt-india|fullstack|l1": {
    "expires": "2026-11-07T09:49:11.716813+00:00",
    "looked_up": "2026-10-23T14:01:26+00:00",
+   "status": "not_found"
+  },
+  "spear-security|swe|l1": {
+   "expires": "2026-11-15T21:55:43.136056+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "status": "not_found"
   },
   "spglobal|swe|l1": {
@@ -18560,8 +18560,8 @@
    "status": "not_found"
   },
   "stradaglobal|erp|l1": {
-   "expires": "2026-11-06T05:48:23.037144+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
+   "expires": "2026-11-26T01:32:25.986580+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
    "status": "not_found"
   },
   "straive_|data|l1": {
@@ -21753,6 +21753,22 @@
    "status": "found",
    "year": 2026
   },
+  "weareada|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-08T12:37:01.012207+00:00",
+   "looked_up": "2026-11-06T06:01:16+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/profile/ada-salary/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "weareallendigital|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -22835,8 +22851,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 695,
-  "lookups_today": 17,
+  "lookups_month": 699,
+  "lookups_today": 21,
   "month": "2026-11"
  }
 }
