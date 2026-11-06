@@ -1596,6 +1596,11 @@
    "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
+  "apex-orbital-x|swe|l1": {
+   "expires": "2026-11-23T16:50:05.373059+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
+  },
   "apexon|fullstack|l1": {
    "expires": "2026-11-18T04:25:09.888652+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -5150,6 +5155,11 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
+  "crossinghurdles|frontend|l1": {
+   "expires": "2026-11-20T19:58:23.031662+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
+  },
   "crossinghurdles|fullstack|l1": {
    "expires": "2026-11-07T00:57:14.623678+00:00",
    "looked_up": "2026-10-25T11:01:34+00:00",
@@ -5299,6 +5309,11 @@
   "cxo-awards-global|swe|l1": {
    "expires": "2026-11-11T17:23:01.183074+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
+   "status": "not_found"
+  },
+  "cxo-india|security|l1": {
+   "expires": "2026-11-15T05:22:49.583145+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
   "cxo-magazine-global|swe|l1": {
@@ -6651,11 +6666,6 @@
   "ericsson|devops|l1": {
    "expires": "2026-11-10T13:12:16.706020+00:00",
    "looked_up": "2026-10-25T18:01:23+00:00",
-   "status": "not_found"
-  },
-  "ericsson|fullstack|l1": {
-   "expires": "2026-11-06T14:16:06.242561+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
   "ericsson|swe|l1": {
@@ -9508,6 +9518,22 @@
    "looked_up": "2026-10-31T14:01:32+00:00",
    "status": "not_found"
   },
+  "hubbellincorporated|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-01-31T14:05:20.522784+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "max_lpa": 7.9,
+   "min_lpa": 6.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hubbell-salaries/software-engineer2"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "huntingcubeai|data|l1": {
    "expires": "2026-11-10T10:40:33.916206+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -10898,11 +10924,6 @@
   "itvedant|frontend|l1": {
    "expires": "2026-11-13T22:38:54.906711+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "ivalua|swe|l1": {
-   "expires": "2026-11-06T14:10:06.330239+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "ix7-research|swe|l1": {
@@ -14075,8 +14096,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:44:08.788032+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
+   "expires": "2027-02-01T12:53:40.960680+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17530,8 +17551,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T05:48:54.939096+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
+   "expires": "2027-02-10T08:27:33.271990+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18577,6 +18598,11 @@
    "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
+  "solventumhealth|devops|l1": {
+   "expires": "2026-11-21T16:03:54.966924+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
+  },
   "solventumhealth|swe|l1": {
    "expires": "2026-11-20T21:25:36.294320+00:00",
    "looked_up": "2026-10-31T17:01:23+00:00",
@@ -18708,8 +18734,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T12:26:21.243802+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
+   "expires": "2027-02-05T18:52:51.253017+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -19183,11 +19209,6 @@
   "switsdigital|swe|l1": {
    "expires": "2026-11-13T14:49:20.273052+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "syncarpglobe|swe|l1": {
-   "expires": "2026-11-06T14:23:24.432791+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "synchrony-financial|swe|l1": {
@@ -19937,6 +19958,11 @@
   "tekgenio|erp|l1": {
    "expires": "2026-11-07T11:51:24.371057+00:00",
    "looked_up": "2026-10-30T04:01:27+00:00",
+   "status": "not_found"
+  },
+  "tekgl|erp|l1": {
+   "expires": "2026-11-18T00:41:11.770552+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
   "teknikoz|erp|l1": {
@@ -21646,11 +21672,6 @@
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
-  "vena-solutions|devops|l1": {
-   "expires": "2026-11-06T14:40:54.035969+00:00",
-   "looked_up": "2026-10-20T15:01:31+00:00",
-   "status": "not_found"
-  },
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -22294,8 +22315,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T19:32:59.838739+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
+   "expires": "2027-01-28T23:33:16.391855+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22320,6 +22341,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "web-jeevan|devops|l1": {
+   "expires": "2026-11-16T13:02:30.450024+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
   },
   "web-testing-123|swe|l1": {
    "expires": "2026-11-19T00:37:22.694584+00:00",
@@ -23263,6 +23289,11 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
+  "zimmerbiomet|swe|l1": {
+   "expires": "2026-11-20T04:22:28.430980+00:00",
+   "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|swe|l2": {
    "expires": "2026-11-24T20:23:24.403081+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
@@ -23322,8 +23353,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 769,
-  "lookups_today": 91,
+  "lookups_month": 777,
+  "lookups_today": 99,
   "month": "2026-11"
  }
 }
