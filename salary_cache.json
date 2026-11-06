@@ -2621,6 +2621,11 @@
    "looked_up": "2026-11-05T02:01:27+00:00",
    "status": "not_found"
   },
+  "berkadia|data|l1": {
+   "expires": "2026-11-26T09:43:55.264970+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "status": "not_found"
+  },
   "best-nanotech|swe|l1": {
    "expires": "2026-11-24T01:56:45.103384+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
@@ -4993,11 +4998,6 @@
   "credapp|security|l1": {
    "expires": "2026-11-16T09:21:40.429074+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "creospanindia|swe|l1": {
-   "expires": "2026-11-06T09:55:31.500707+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
   "creospan|frontend|l1": {
@@ -7748,6 +7748,16 @@
    ],
    "status": "found"
   },
+  "generac-power-systems|swe|l2": {
+   "expires": "2026-11-18T05:40:41.732160+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "status": "not_found"
+  },
+  "general-mills|devops|l1": {
+   "expires": "2026-11-27T01:07:11.098719+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "status": "not_found"
+  },
   "general-mills|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -9398,6 +9408,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hyper-lychee-labs|frontend|l1": {
+   "expires": "2026-11-16T10:27:34.057269+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "status": "not_found"
   },
   "hypersoft-technologies-ltd|erp|l1": {
    "expires": "2026-11-08T19:34:22.525759+00:00",
@@ -13655,6 +13670,11 @@
    "looked_up": "2026-10-20T10:01:30+00:00",
    "status": "not_found"
   },
+  "new-relic-inc-|swe|l1": {
+   "expires": "2026-11-19T08:14:40.470117+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "status": "not_found"
+  },
   "newscorp|data|l1": {
    "expires": "2026-11-08T18:57:19.818602+00:00",
    "looked_up": "2026-10-29T16:01:30+00:00",
@@ -13920,6 +13940,11 @@
   "novglobal|security|l1": {
    "expires": "2026-11-06T21:49:23.295970+00:00",
    "looked_up": "2026-10-21T17:01:29+00:00",
+   "status": "not_found"
+  },
+  "novotech|erp|l1": {
+   "expires": "2026-11-19T18:29:52.050405+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
   "nri-pelligola|mobile|l1": {
@@ -14271,6 +14296,11 @@
   "oh-design-studio|frontend|l1": {
    "expires": "2026-11-18T22:00:54.492513+00:00",
    "looked_up": "2026-11-06T08:01:19+00:00",
+   "status": "not_found"
+  },
+  "ojasgrid|swe|l1": {
+   "expires": "2026-11-21T03:00:46.142574+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
   "okta-inc-|devops|l1": {
@@ -17324,8 +17354,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T22:45:04.354579+00:00",
-   "looked_up": "2026-11-06T09:23:37+00:00",
+   "expires": "2027-02-01T18:03:45.789652+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -17691,8 +17721,8 @@
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T22:04:48.106893+00:00",
-   "looked_up": "2026-11-06T09:23:37+00:00",
+   "expires": "2027-02-03T23:50:28.953084+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18507,8 +18537,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:02:12.852191+00:00",
-   "looked_up": "2026-11-06T09:23:37+00:00",
+   "expires": "2027-02-03T03:59:36.073826+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -19758,11 +19788,6 @@
    "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
-  "teoco|data|l1": {
-   "expires": "2026-11-06T09:28:36.851458+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
-  },
   "teradata|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -19807,6 +19832,22 @@
    "expires": "2026-11-17T05:24:54.481244+00:00",
    "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
+  },
+  "tesco-bengaluru|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T16:12:32.459177+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 17.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tesco-salaries/sde1/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "tesco-bengaluru|swe|l2": {
    "basis": "ctc",
@@ -21270,6 +21311,26 @@
    "status": "found",
    "year": 2025
   },
+  "valtech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T13:12:03.081879+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/valtech-salaries/bengaluru-location"
+    },
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Valtech-Associate-Software-Engineer-Salaries-E12266_D_KO8,35.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "value-spectrum-technologies|data|l1": {
    "expires": "2026-11-15T07:38:29.182661+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
@@ -21995,8 +22056,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T05:40:33.158982+00:00",
-   "looked_up": "2026-11-06T09:23:37+00:00",
+   "expires": "2027-02-06T06:16:10.858848+00:00",
+   "looked_up": "2026-11-06T10:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -22982,8 +23043,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 724,
-  "lookups_today": 46,
+  "lookups_month": 733,
+  "lookups_today": 55,
   "month": "2026-11"
  }
 }
