@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T11:32:27.624189+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-01-28T20:23:14.533006+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T20:55:59.418857+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-01-31T17:18:57.657289+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -576,8 +576,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T13:02:23.913405+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-02-03T14:07:38.838865+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -676,6 +676,11 @@
   "afterquery-experts|swe|l1": {
    "expires": "2026-11-21T07:40:16.946230+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
+   "status": "not_found"
+  },
+  "aftershootco|devops|l1": {
+   "expires": "2026-11-18T13:31:16.910060+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "status": "not_found"
   },
   "agasty-ai|swe|l1": {
@@ -7337,11 +7342,6 @@
    "looked_up": "2026-10-22T00:01:31+00:00",
    "status": "not_found"
   },
-  "fico|security|l2": {
-   "expires": "2026-11-06T19:59:38.098060+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
   "fidelity-international|data|l1": {
    "expires": "2026-11-13T14:42:01.256761+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -8869,8 +8869,8 @@
    "year": 2025
   },
   "hakkoda|fullstack|l1": {
-   "expires": "2026-11-06T19:51:26.356706+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
+   "expires": "2026-11-18T23:21:33.173970+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "status": "not_found"
   },
   "hakkoda|swe|l1": {
@@ -10691,11 +10691,6 @@
    "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
-  "interviewglide|frontend|l1": {
-   "expires": "2026-11-06T19:48:12.423881+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
-   "status": "not_found"
-  },
   "intraedge|data|l1": {
    "expires": "2026-11-18T13:40:13.960092+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
@@ -11138,11 +11133,6 @@
   "jobbricksglobal|swe|l1": {
    "expires": "2026-11-12T17:36:09.521976+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
-  "jobfixnow|swe|l1": {
-   "expires": "2026-11-06T19:23:20.652521+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
    "status": "not_found"
   },
   "jobgether|devops|l1": {
@@ -12658,8 +12648,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T09:27:33.043664+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-02-10T07:16:03.457280+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14235,8 +14225,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:06:25.130683+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-01-31T08:02:18.444045+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17685,8 +17675,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T06:00:53.539058+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-02-08T04:36:29.692354+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -21131,6 +21121,11 @@
    "status": "found",
    "year": 2026
   },
+  "trinity-technology-solutions|data|l1": {
+   "expires": "2026-11-23T10:14:40.659861+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
+   "status": "not_found"
+  },
   "tripjack-official|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -22512,8 +22507,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T08:54:11.926415+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
+   "expires": "2027-01-31T10:48:38.798516+00:00",
+   "looked_up": "2026-11-06T20:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23230,11 +23225,6 @@
    "status": "found",
    "year": 2025
   },
-  "zemaglobal|swe|l1": {
-   "expires": "2026-11-06T19:35:42.149066+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
-  },
   "zenbourg|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23545,8 +23535,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 801,
-  "lookups_today": 123,
+  "lookups_month": 804,
+  "lookups_today": 126,
   "month": "2026-11"
  }
 }
