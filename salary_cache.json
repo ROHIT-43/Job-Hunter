@@ -143,8 +143,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T14:30:07.787499+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-02-06T19:50:47.713783+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -157,8 +157,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T08:01:48.062766+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-02-01T00:59:26.285892+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -7144,6 +7144,11 @@
    "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
+  "f5|devops|l1": {
+   "expires": "2026-11-21T13:23:52.261108+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
   "f5|devops|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -7496,6 +7501,26 @@
    "expires": "2026-11-17T06:33:44.434743+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
    "status": "not_found"
+  },
+  "fis|data|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-06T19:30:09.229032+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 8.4,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-fis-pay/software-engineer-ii"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/fis-salaries/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "fis|frontend|l1": {
    "basis": "ctc",
@@ -11154,6 +11179,16 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
+  "joblet-ai|security|l1": {
+   "expires": "2026-11-20T16:18:29.921762+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
+  "joblet-ai|swe|l1": {
+   "expires": "2026-11-20T23:04:59.713753+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
   "jobofdreams|data|l1": {
    "expires": "2026-11-11T16:32:54.995350+00:00",
    "looked_up": "2026-10-24T18:01:42+00:00",
@@ -11701,11 +11736,6 @@
   "kovalty|swe|l1": {
    "expires": "2026-11-07T18:51:55.527852+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "kpg-99-inc-|erp|l1": {
-   "expires": "2026-11-06T17:48:40.189751+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "kpmg-us|devops|l1": {
@@ -12623,8 +12653,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T22:28:52.943097+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-02-11T11:32:53.418509+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13590,6 +13620,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "msx-international|swe|l1": {
+   "expires": "2026-11-15T00:04:57.636211+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
   "mufg|fullstack|l1": {
    "expires": "2026-11-08T08:25:05.639913+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
@@ -14195,8 +14230,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:28:50.876087+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-01-31T06:05:02.615890+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17645,8 +17680,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T09:50:46.521006+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-02-08T01:46:48.124775+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18032,6 +18067,11 @@
    ],
    "status": "found"
   },
+  "showpad|frontend|l1": {
+   "expires": "2026-11-15T13:25:50.685864+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-11-07T05:44:12.724762+00:00",
    "looked_up": "2026-10-28T02:01:24+00:00",
@@ -18166,6 +18206,26 @@
    "expires": "2026-11-13T08:24:26.140195+00:00",
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
+  },
+  "siemenssoftware|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T18:07:20.849705+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/jobs/siemens-pune-hiring-software-engineer-associate-freshers-eligible"
+    },
+    {
+     "title": "themuse.com",
+     "uri": "https://www.themuse.com/jobs/siemensdigitalindustriessoftware/software-engineer-27b849"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "siemens|swe|l1": {
    "basis": "ctc",
@@ -19917,6 +19977,27 @@
    "expires": "2026-11-12T15:37:32.650247+00:00",
    "looked_up": "2026-11-05T03:01:16+00:00",
    "status": "not_found"
+  },
+  "techdata-apac|devops|l1": {
+   "expires": "2026-11-18T17:08:32.248711+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
+  "techdata-apac|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T20:29:09.136924+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tech-data-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "techdoquest|swe|l1": {
    "expires": "2026-11-09T05:19:13.957400+00:00",
@@ -22410,8 +22491,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T13:04:26.339798+00:00",
-   "looked_up": "2026-11-06T17:29:22+00:00",
+   "expires": "2027-02-04T11:05:22.438153+00:00",
+   "looked_up": "2026-11-06T18:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23443,8 +23524,8 @@
  },
  "meta": {
   "day": "2026-11-06",
-  "lookups_month": 789,
-  "lookups_today": 111,
+  "lookups_month": 798,
+  "lookups_today": 120,
   "month": "2026-11"
  }
 }
