@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T14:38:44.589100+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
+   "expires": "2027-02-02T23:56:32.589334+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T01:32:55.574311+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
+   "expires": "2027-02-11T17:43:19.195695+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -556,8 +556,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T22:19:19.422720+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
+   "expires": "2027-02-02T08:14:00.356122+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1426,6 +1426,11 @@
   "amrit-autotech-engineers|swe|l1": {
    "expires": "2026-11-10T06:29:43.455489+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
+   "status": "not_found"
+  },
+  "analog-devices|swe|l1": {
+   "expires": "2026-11-25T11:39:34.593956+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "status": "not_found"
   },
   "analogyxbi|data|l1": {
@@ -3385,11 +3390,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "broadridge-financial-solutions-india-private-ltd|data|l1": {
-   "expires": "2026-11-07T12:07:13.930165+00:00",
-   "looked_up": "2026-10-29T19:01:27+00:00",
-   "status": "not_found"
   },
   "broccoli-com|swe|l2": {
    "expires": "2026-11-12T06:32:33.221035+00:00",
@@ -8666,6 +8666,11 @@
    "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
+  "groz-beckert-kg|erp|l1": {
+   "expires": "2026-11-24T17:23:57.949421+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
+   "status": "not_found"
+  },
   "gsk|devops|l1": {
    "expires": "2026-11-17T04:30:38.154790+00:00",
    "looked_up": "2026-10-28T23:01:40+00:00",
@@ -9006,11 +9011,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "hcpwellness|frontend|l1": {
-   "expires": "2026-11-07T12:16:25.554298+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
   },
   "headout-com|frontend|l1": {
    "basis": "base",
@@ -9921,6 +9921,22 @@
    "status": "found",
    "year": 2026
   },
+  "iit-bombay|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T21:39:46.287026+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/iit-bombay-salaries/flutter-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "iit-bombay|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9955,11 +9971,6 @@
   "illumina|data|l1": {
    "expires": "2026-11-09T13:14:14.333615+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "implex-edu|swe|l1": {
-   "expires": "2026-11-07T12:32:16.820749+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
   "in-tech-gmbh|swe|l1": {
@@ -10656,8 +10667,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:39:18.744851+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
+   "expires": "2027-02-11T11:35:49.132055+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12574,8 +12585,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T07:30:50.613827+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
+   "expires": "2027-02-10T21:45:14.581923+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15506,11 +15517,6 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
-  "plante-moran|erp|l1": {
-   "expires": "2026-11-07T12:55:12.629875+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
-   "status": "not_found"
-  },
   "planview|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -17684,11 +17690,6 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
-  "scoutit-in|fullstack|l1": {
-   "expires": "2026-11-07T12:23:19.836105+00:00",
-   "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19749,11 +19750,6 @@
    "status": "found",
    "year": 2026
   },
-  "teamsignzy|devops|l1": {
-   "expires": "2026-11-07T12:53:00.911317+00:00",
-   "looked_up": "2026-10-28T05:01:27+00:00",
-   "status": "not_found"
-  },
   "teamsignzy|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19914,11 +19910,6 @@
   "techflex-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T02:54:05.344790+00:00",
    "looked_up": "2026-11-04T02:01:37+00:00",
-   "status": "not_found"
-  },
-  "techindustan|swe|l1": {
-   "expires": "2026-11-07T12:19:38.898357+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
    "status": "not_found"
   },
   "techinorm|mobile|l1": {
@@ -21091,6 +21082,26 @@
    "expires": "2026-11-09T20:11:57.037789+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
    "status": "not_found"
+  },
+  "tyson-foods|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T16:29:13.136223+00:00",
+   "looked_up": "2026-11-07T13:01:17+00:00",
+   "max_lpa": 11.6,
+   "min_lpa": 9.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tyson-food-salaries/data-engineer-2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tyson-food-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "uber-com|swe|l1": {
    "basis": "base",
@@ -23371,8 +23382,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 833,
-  "lookups_today": 23,
+  "lookups_month": 837,
+  "lookups_today": 27,
   "month": "2026-11"
  }
 }
