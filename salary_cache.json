@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T02:55:15.756011+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-02-01T05:00:14.366565+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:10:52.517862+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-02-08T17:15:39.480877+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -576,8 +576,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T10:10:57.739799+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-01-31T18:23:56.543671+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -5157,11 +5157,6 @@
    "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
-  "crossinghurdles|fullstack|l1": {
-   "expires": "2026-11-07T00:57:14.623678+00:00",
-   "looked_up": "2026-10-25T11:01:34+00:00",
-   "status": "not_found"
-  },
   "crossinghurdles|mobile|l1": {
    "expires": "2026-11-17T02:16:26.748237+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
@@ -7621,6 +7616,11 @@
    "status": "found",
    "year": 2026
   },
+  "flexxdgym|fullstack|l1": {
+   "expires": "2026-11-24T17:35:21.351586+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
+   "status": "not_found"
+  },
   "flint-thread|fullstack|l1": {
    "expires": "2026-11-17T16:28:48.867489+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
@@ -8900,11 +8900,6 @@
   "hard-n-soft-technologies|swe|l1": {
    "expires": "2026-11-11T22:40:10.019473+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "harjaicomputers|devops|l1": {
-   "expires": "2026-11-07T00:22:24.343822+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
   "harmanindia|swe|l1": {
@@ -12607,8 +12602,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T06:01:51.708157+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-02-01T03:10:18.573668+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14179,8 +14174,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T06:58:34.156951+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-02-08T00:53:43.492130+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -15732,6 +15727,11 @@
   "practicesuite-inc-web-based-medical-billing-and-practice-management-software|data|l1": {
    "expires": "2026-11-14T10:15:40.115627+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "practo-technologies-pvt-ltd|data|l1": {
+   "expires": "2026-11-26T19:42:43.891903+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "status": "not_found"
   },
   "pragyaa-ai-ml|swe|l1": {
@@ -17624,8 +17624,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T07:21:55.351633+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-02-11T20:47:59.984757+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -22466,8 +22466,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T14:29:20.728503+00:00",
-   "looked_up": "2026-11-07T00:01:15+00:00",
+   "expires": "2027-01-30T08:43:23.674652+00:00",
+   "looked_up": "2026-11-07T01:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23489,8 +23489,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 810,
-  "lookups_today": 0,
+  "lookups_month": 812,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
