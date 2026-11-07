@@ -7070,11 +7070,6 @@
    "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
-  "expositarvr|fullstack|l1": {
-   "expires": "2026-11-07T20:51:09.657129+00:00",
-   "looked_up": "2026-10-29T11:01:33+00:00",
-   "status": "not_found"
-  },
   "f5|devops|l1": {
    "expires": "2026-11-21T13:23:52.261108+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -7790,8 +7785,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:14:34.955405+00:00",
-   "looked_up": "2026-11-07T20:01:15+00:00",
+   "expires": "2027-02-07T07:56:12.305124+00:00",
+   "looked_up": "2026-11-07T20:52:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10691,8 +10686,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T18:24:16.457196+00:00",
-   "looked_up": "2026-11-07T20:01:15+00:00",
+   "expires": "2027-02-10T22:47:43.553745+00:00",
+   "looked_up": "2026-11-07T20:52:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13932,11 +13927,6 @@
   "netsysconconsulting|swe|l1": {
    "expires": "2026-11-17T12:38:14.939827+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
-  "netwrix-corporation|devops|l1": {
-   "expires": "2026-11-07T20:28:22.280834+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
    "status": "not_found"
   },
   "neuralcraft-co|swe|l1": {
@@ -22244,11 +22234,6 @@
    "looked_up": "2026-10-29T06:01:32+00:00",
    "status": "not_found"
   },
-  "waystoneglobal|swe|l1": {
-   "expires": "2026-11-07T20:34:22.118525+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "wbcsoftwarelabkaraikudi|devops|l1": {
    "expires": "2026-11-21T23:02:59.364343+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
@@ -23302,11 +23287,6 @@
   "zillout|swe|l1": {
    "expires": "2026-11-15T14:08:17.328870+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
-   "status": "not_found"
-  },
-  "zillow|data|l1": {
-   "expires": "2026-11-07T20:43:27.963917+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
   "zillow|swe|l1": {
