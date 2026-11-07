@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T04:21:32.988677+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-04T16:25:51.837452+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T08:37:00.995770+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-02T04:11:33.912657+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -561,8 +561,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T22:06:27.628960+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-09T06:18:13.504622+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -10660,8 +10660,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T11:06:39.132720+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-02T22:44:40.815355+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12578,8 +12578,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T21:38:25.413069+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-07T21:48:11.756070+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14140,8 +14140,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T01:35:48.815597+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
+   "expires": "2027-02-10T18:39:20.183460+00:00",
+   "looked_up": "2026-11-07T10:07:36+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
