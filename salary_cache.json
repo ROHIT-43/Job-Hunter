@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:36:36.427756+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-06T02:41:28.661982+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T18:06:52.302799+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-07T09:48:20.994237+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -561,8 +561,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T11:16:46.564997+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-01-29T20:53:16.331700+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -4114,6 +4114,11 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
+  "charles-&amp;-keith-singapore-pte-ltd|erp|l1": {
+   "expires": "2026-11-15T16:21:42.742434+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
+   "status": "not_found"
+  },
   "chate-coaching-classes|fullstack|l1": {
    "expires": "2026-11-15T08:51:06.106086+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -4868,11 +4873,6 @@
    "status": "found",
    "year": 2026
   },
-  "comscore|devops|l1": {
-   "expires": "2026-11-07T07:58:59.574353+00:00",
-   "looked_up": "2026-10-27T23:01:34+00:00",
-   "status": "not_found"
-  },
   "comscore|frontend|l1": {
    "expires": "2026-11-10T02:43:38.844882+00:00",
    "looked_up": "2026-10-28T09:01:31+00:00",
@@ -5488,11 +5488,6 @@
    "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
-  "dart-browser|swe|l1": {
-   "expires": "2026-11-07T07:14:42.139746+00:00",
-   "looked_up": "2026-10-20T14:01:32+00:00",
-   "status": "not_found"
-  },
   "dashtechnologiesinc|devops|l1": {
    "expires": "2026-11-07T14:15:57.286142+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
@@ -5646,11 +5641,6 @@
   "deepterrain-ai-pvt-ltd|swe|l2": {
    "expires": "2026-11-12T05:34:23.138094+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
-  "deepzin|frontend|l1": {
-   "expires": "2026-11-07T07:36:47.259905+00:00",
-   "looked_up": "2026-10-26T01:01:29+00:00",
    "status": "not_found"
   },
   "delaplex|swe|l1": {
@@ -9165,6 +9155,11 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
+  "hildevelopers|swe|l1": {
+   "expires": "2026-11-15T05:46:55.925211+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
+   "status": "not_found"
+  },
   "hinduja-global-solutions-inc--|swe|l1": {
    "expires": "2026-11-09T05:25:57.418676+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -10654,8 +10649,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T09:48:14.766286+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-07T12:36:25.317747+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -10685,11 +10680,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "iot-solutions-world|erp|l1": {
-   "expires": "2026-11-07T07:17:22.415398+00:00",
-   "looked_up": "2026-10-19T22:01:34+00:00",
-   "status": "not_found"
   },
   "iot-solutions-world|swe|l1": {
    "expires": "2026-11-10T00:50:25.951816+00:00",
@@ -12582,8 +12572,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T02:07:18.623847+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-08T02:31:02.417688+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13971,11 +13961,6 @@
    "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
-  "nextenti-tech-private-limited|devops|l1": {
-   "expires": "2026-11-07T07:57:25.430358+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
   "nextpowerinc|devops|l1": {
    "expires": "2026-11-08T00:07:58.254228+00:00",
    "looked_up": "2026-10-29T11:01:33+00:00",
@@ -14149,8 +14134,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:31:07.916829+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-10T22:03:12.929506+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -14211,6 +14196,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "novbliss-consultancy-private-limited|erp|l1": {
+   "expires": "2026-11-24T17:02:20.219126+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
+   "status": "not_found"
   },
   "noventiq|security|l1": {
    "expires": "2026-11-14T06:59:55.431965+00:00",
@@ -17542,11 +17532,6 @@
   "saraswatiglobalrugs|erp|l1": {
    "expires": "2026-11-22T16:29:45.068316+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
-  "sarvam-ai|devops|l1": {
-   "expires": "2026-11-07T07:59:25.627903+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
   "sarvi-creation-llp|swe|l1": {
@@ -21972,11 +21957,6 @@
    "status": "found",
    "year": 2025
   },
-  "visiblaze|swe|l1": {
-   "expires": "2026-11-07T07:52:29.561119+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
   "vision-media-india|fullstack|l1": {
    "expires": "2026-11-11T08:09:57.864340+00:00",
    "looked_up": "2026-10-21T21:01:29+00:00",
@@ -22396,8 +22376,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T08:41:30.390511+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2027-02-09T06:18:27.832005+00:00",
+   "looked_up": "2026-11-07T08:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23414,8 +23394,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 820,
-  "lookups_today": 10,
+  "lookups_month": 823,
+  "lookups_today": 13,
   "month": "2026-11"
  }
 }
