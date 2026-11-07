@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:41:28.661982+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-06T13:19:04.181659+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T09:48:20.994237+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-01T17:11:20.901106+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -561,8 +561,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T20:53:16.331700+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-05T15:45:45.973825+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1796,6 +1796,11 @@
   "ara-resources-pvt.-ltd.|erp|l1": {
    "expires": "2026-11-10T01:09:01.603255+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
+   "status": "not_found"
+  },
+  "arabianaroma|frontend|l1": {
+   "expires": "2026-11-25T18:49:17.622700+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "status": "not_found"
   },
   "arcadiahq|swe|l2": {
@@ -7996,11 +8001,6 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
-  "genxaitech|erp|l1": {
-   "expires": "2026-11-07T08:01:45.599774+00:00",
-   "looked_up": "2026-10-21T07:01:27+00:00",
-   "status": "not_found"
-  },
   "geoiq-ai|frontend|l1": {
    "expires": "2026-11-13T16:05:43.366907+00:00",
    "looked_up": "2026-10-31T15:01:37+00:00",
@@ -9600,11 +9600,6 @@
    "looked_up": "2026-10-23T12:01:33+00:00",
    "status": "not_found"
   },
-  "hyrezy-tech-solutions|frontend|l1": {
-   "expires": "2026-11-07T08:58:57.969991+00:00",
-   "looked_up": "2026-10-25T06:01:25+00:00",
-   "status": "not_found"
-  },
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -10649,8 +10644,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:36:25.317747+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-04T18:34:23.347811+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12572,8 +12567,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:31:02.417688+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-10T16:47:16.226106+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14041,6 +14036,11 @@
    "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
+  "nike|devops|l1": {
+   "expires": "2026-11-18T06:38:26.573521+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
+   "status": "not_found"
+  },
   "nike|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14134,8 +14134,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:03:12.929506+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
+   "expires": "2027-02-10T04:26:06.437115+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20554,8 +20554,8 @@
    "year": 2026
   },
   "thermo-fisher-scientific|swe|l3": {
-   "expires": "2026-11-07T08:05:14.578920+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
+   "expires": "2026-11-25T19:56:44.800869+00:00",
+   "looked_up": "2026-11-07T09:01:19+00:00",
    "status": "not_found"
   },
   "theroboticsledger|swe|l1": {
@@ -23394,8 +23394,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 823,
-  "lookups_today": 13,
+  "lookups_month": 826,
+  "lookups_today": 16,
   "month": "2026-11"
  }
 }
