@@ -2452,11 +2452,6 @@
    "looked_up": "2026-10-31T21:01:26+00:00",
    "status": "not_found"
   },
-  "babaclick|fullstack|l1": {
-   "expires": "2026-11-07T20:00:19.816363+00:00",
-   "looked_up": "2026-10-18T15:01:22+00:00",
-   "status": "not_found"
-  },
   "backbase|swe|l1": {
    "expires": "2026-11-10T06:49:41.908069+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
@@ -7795,8 +7790,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T11:07:25.778868+00:00",
-   "looked_up": "2026-11-07T19:01:18+00:00",
+   "expires": "2027-02-11T03:14:34.955405+00:00",
+   "looked_up": "2026-11-07T20:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10696,8 +10691,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:50:50.985955+00:00",
-   "looked_up": "2026-11-07T19:01:18+00:00",
+   "expires": "2027-02-06T18:24:16.457196+00:00",
+   "looked_up": "2026-11-07T20:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12014,11 +12009,6 @@
     }
    ],
    "status": "found"
-  },
-  "leratechnologies|swe|l1": {
-   "expires": "2026-11-07T19:43:01.774028+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
   },
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
@@ -13590,11 +13580,6 @@
   "mufg|fullstack|l1": {
    "expires": "2026-11-08T08:25:05.639913+00:00",
    "looked_up": "2026-10-19T19:01:27+00:00",
-   "status": "not_found"
-  },
-  "multivac-technology-solutions-india-private-limited|erp|l1": {
-   "expires": "2026-11-07T19:44:24.316037+00:00",
-   "looked_up": "2026-10-20T12:01:35+00:00",
    "status": "not_found"
   },
   "mumzworld-com|devops|l1": {
@@ -15844,11 +15829,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "project-44|swe|l1": {
-   "expires": "2026-11-07T19:12:38.320359+00:00",
-   "looked_up": "2026-10-19T14:01:30+00:00",
-   "status": "not_found"
   },
   "project-44|swe|l2": {
    "basis": "base",
@@ -18264,11 +18244,6 @@
   "sitetracker|erp|l2": {
    "expires": "2026-11-13T21:41:03.861959+00:00",
    "looked_up": "2026-10-31T14:01:32+00:00",
-   "status": "not_found"
-  },
-  "skatesupplyindia|frontend|l1": {
-   "expires": "2026-11-07T19:29:15.912251+00:00",
-   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "skillcollege|frontend|l1": {
