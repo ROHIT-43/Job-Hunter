@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:10:32.651363+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-02-10T09:43:57.193737+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:58:26.140825+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-02-10T05:23:05.045461+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -566,8 +566,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:49:41.791346+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-02-07T20:28:45.269996+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -3405,11 +3405,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "bt|devops|l3": {
-   "expires": "2026-11-07T02:34:08.777689+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
   },
   "bt|swe|l1": {
    "basis": "ctc",
@@ -12592,8 +12587,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T07:11:04.258175+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-01-31T14:23:56.558703+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14164,8 +14159,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T06:05:01.556110+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-02-08T18:44:57.089133+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17614,8 +17609,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T16:05:59.316333+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-01-31T05:22:07.811648+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -20466,11 +20461,6 @@
    ],
    "status": "found"
   },
-  "the-webplant-pvt-ltd-|fullstack|l1": {
-   "expires": "2026-11-07T02:44:19.960208+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
-   "status": "not_found"
-  },
   "the10xagency|swe|l1": {
    "expires": "2026-11-13T04:43:49.829339+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
@@ -22446,8 +22436,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:04:58.630818+00:00",
-   "looked_up": "2026-11-07T02:01:13+00:00",
+   "expires": "2027-02-05T03:11:43.966926+00:00",
+   "looked_up": "2026-11-07T02:47:57+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
