@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T16:25:51.837452+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-02-07T17:15:44.134154+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:11:33.912657+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-02-10T00:41:11.769009+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -472,11 +472,6 @@
    ],
    "status": "found"
   },
-  "acuitas360|swe|l1": {
-   "expires": "2026-11-07T10:28:39.701701+00:00",
-   "looked_up": "2026-10-24T06:01:27+00:00",
-   "status": "not_found"
-  },
   "acura-solutions-ltd|devops|l1": {
    "expires": "2026-11-08T08:29:40.460678+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
@@ -561,8 +556,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:18:13.504622+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-01-31T13:13:06.132350+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -6072,11 +6067,6 @@
    "looked_up": "2026-10-24T02:01:23+00:00",
    "status": "not_found"
   },
-  "docusign|mobile|l1": {
-   "expires": "2026-11-07T10:29:56.464756+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
-   "status": "not_found"
-  },
   "docusign|swe|l1": {
    "expires": "2026-11-20T13:48:04.846261+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -10660,8 +10650,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:44:40.815355+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-02-10T04:51:19.941235+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12578,8 +12568,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:48:11.756070+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-02-10T05:37:20.827124+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14140,8 +14130,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T18:39:20.183460+00:00",
-   "looked_up": "2026-11-07T10:07:36+00:00",
+   "expires": "2027-02-02T10:52:33.362789+00:00",
+   "looked_up": "2026-11-07T11:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -23289,11 +23279,6 @@
   "zettamine-labs|erp|l1": {
    "expires": "2026-11-10T09:46:55.532933+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
-  },
-  "zettamine-labs|swe|l1": {
-   "expires": "2026-11-07T10:33:20.114178+00:00",
-   "looked_up": "2026-10-31T08:01:24+00:00",
    "status": "not_found"
   },
   "zf-group|swe|l1": {
