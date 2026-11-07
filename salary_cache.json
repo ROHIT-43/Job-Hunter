@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:00:58.474483+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-01T02:55:15.756011+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T14:22:51.188489+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-11T05:10:52.517862+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -576,8 +576,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T17:53:26.318575+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-09T10:10:57.739799+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -3239,11 +3239,6 @@
     }
    ],
    "status": "found"
-  },
-  "brainstorm-force|devops|l1": {
-   "expires": "2026-11-06T23:10:27.935061+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
   },
   "brandstory-digital|frontend|l1": {
    "expires": "2026-11-10T04:09:21.607589+00:00",
@@ -6149,11 +6144,6 @@
   "dtcc|security|l1": {
    "expires": "2026-11-09T14:13:31.511212+00:00",
    "looked_up": "2026-10-27T16:01:28+00:00",
-   "status": "not_found"
-  },
-  "duck-creek-technologies|swe|l1": {
-   "expires": "2026-11-06T23:42:12.853419+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
   "dun-&amp;-bradstreet|data|l1": {
@@ -9192,11 +9182,6 @@
   },
   "highlevel|fullstack|l1": {
    "expires": "2026-11-18T03:37:32.340501+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
-  "highlevel|swe|l2": {
-   "expires": "2026-11-06T23:23:05.632365+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
@@ -12622,8 +12607,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T05:43:16.692430+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-11T06:01:51.708157+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14194,8 +14179,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:34:42.378053+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-01-30T06:58:34.156951+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17639,8 +17624,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:00:59.997084+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-07T07:21:55.351633+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -21700,11 +21685,6 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
-  "vahana-setu|fullstack|l1": {
-   "expires": "2026-11-06T23:08:00.246051+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
   "valarr|swe|l1": {
    "expires": "2026-11-24T06:42:32.298204+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -22486,8 +22466,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:37:06.880066+00:00",
-   "looked_up": "2026-11-06T23:07:50+00:00",
+   "expires": "2027-02-05T14:29:20.728503+00:00",
+   "looked_up": "2026-11-07T00:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23508,9 +23488,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-06",
+  "day": "2026-11-07",
   "lookups_month": 810,
-  "lookups_today": 132,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
