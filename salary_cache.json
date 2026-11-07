@@ -138,8 +138,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:50:26.198799+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-02-02T03:49:03.066944+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -152,8 +152,8 @@
   "abc-fitness|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:04:05.687920+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-02-06T19:12:35.622847+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -522,11 +522,6 @@
    "looked_up": "2026-11-04T12:01:29+00:00",
    "status": "not_found"
   },
-  "adasoftware|swe|l1": {
-   "expires": "2026-11-07T05:12:42.744658+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
   "adesso-india|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -566,8 +561,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T15:03:00.521334+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-02-07T15:44:01.116407+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -1436,11 +1431,6 @@
   "amrit-autotech-engineers|swe|l1": {
    "expires": "2026-11-10T06:29:43.455489+00:00",
    "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
-  "analog-devices|swe|l1": {
-   "expires": "2026-11-07T05:37:32.535382+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
    "status": "not_found"
   },
   "analogyxbi|data|l1": {
@@ -5122,11 +5112,6 @@
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
-  "crewliajobs|devops|l1": {
-   "expires": "2026-11-07T05:40:06.934278+00:00",
-   "looked_up": "2026-10-18T17:01:21+00:00",
-   "status": "not_found"
-  },
   "cricheroes|mobile|l1": {
    "expires": "2026-11-09T05:24:40.908477+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -6096,6 +6081,11 @@
    "status": "found",
    "year": 2026
   },
+  "dooritt|devops|l1": {
+   "expires": "2026-11-23T09:27:46.652612+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
+   "status": "not_found"
+  },
   "dotsolved|devops|l1": {
    "expires": "2026-11-08T12:48:41.693163+00:00",
    "looked_up": "2026-10-28T05:01:27+00:00",
@@ -6435,11 +6425,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "employability-life|security|l1": {
-   "expires": "2026-11-07T05:56:53.984902+00:00",
-   "looked_up": "2026-10-28T09:01:31+00:00",
-   "status": "not_found"
   },
   "en-interactive-technologies-pvt-ltd|frontend|l1": {
    "expires": "2026-11-14T16:50:16.125334+00:00",
@@ -12597,8 +12582,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:12:43.099985+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-01-30T06:02:11.128798+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13951,11 +13936,6 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
-  "new-age-4|mobile|l1": {
-   "expires": "2026-11-07T05:52:22.145033+00:00",
-   "looked_up": "2026-10-20T10:01:30+00:00",
-   "status": "not_found"
-  },
   "new-relic-inc-|swe|l1": {
    "expires": "2026-11-19T08:14:40.470117+00:00",
    "looked_up": "2026-11-06T10:01:15+00:00",
@@ -14169,8 +14149,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:39:47.605462+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-02-06T03:02:15.306034+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17614,8 +17594,8 @@
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T23:25:57.949001+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-02-11T03:16:10.125316+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 1.4,
    "sources": [
@@ -18007,8 +17987,8 @@
    "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
-   "expires": "2026-11-07T05:44:12.724762+00:00",
-   "looked_up": "2026-10-28T02:01:24+00:00",
+   "expires": "2026-11-25T14:32:45.764721+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|swe|l1": {
@@ -21085,11 +21065,6 @@
    "status": "found",
    "year": 2025
   },
-  "triton-infotech-fzc|data|l1": {
-   "expires": "2026-11-07T05:22:34.029077+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
-   "status": "not_found"
-  },
   "triton-infotech-fzc|swe|l1": {
    "expires": "2026-11-14T13:22:35.642605+00:00",
    "looked_up": "2026-10-27T09:01:27+00:00",
@@ -22426,8 +22401,8 @@
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T21:35:46.707794+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
+   "expires": "2027-01-30T22:03:16.851256+00:00",
+   "looked_up": "2026-11-07T06:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 23.0,
    "sources": [
@@ -23444,8 +23419,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 816,
-  "lookups_today": 6,
+  "lookups_month": 818,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
