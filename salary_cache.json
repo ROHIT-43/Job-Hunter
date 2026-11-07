@@ -1969,6 +1969,11 @@
    "looked_up": "2026-10-29T10:01:25+00:00",
    "status": "not_found"
   },
+  "arvmultimedia|swe|l1": {
+   "expires": "2026-11-24T17:43:10.193475+00:00",
+   "looked_up": "2026-11-07T19:01:18+00:00",
+   "status": "not_found"
+  },
   "asap-infotech|erp|l1": {
    "expires": "2026-11-12T22:24:15.468376+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -4603,11 +4608,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "cogentixsystems|swe|l1": {
-   "expires": "2026-11-07T18:36:31.439791+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
   },
   "cognidrive-technologies|swe|l1": {
    "expires": "2026-11-20T21:54:54.854936+00:00",
@@ -7795,8 +7795,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:58:20.002559+00:00",
-   "looked_up": "2026-11-07T18:01:18+00:00",
+   "expires": "2027-01-31T11:07:25.778868+00:00",
+   "looked_up": "2026-11-07T19:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10696,8 +10696,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:25:03.368317+00:00",
-   "looked_up": "2026-11-07T18:01:18+00:00",
+   "expires": "2027-02-03T11:50:50.985955+00:00",
+   "looked_up": "2026-11-07T19:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11703,11 +11703,6 @@
   "konvergetech|swe|l1": {
    "expires": "2026-11-13T20:41:23.973773+00:00",
    "looked_up": "2026-10-30T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "kovalty|swe|l1": {
-   "expires": "2026-11-07T18:51:55.527852+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
   "kpmg-us|devops|l1": {
@@ -17726,11 +17721,6 @@
    "looked_up": "2026-10-25T10:01:24+00:00",
    "status": "not_found"
   },
-  "scoutit-in|devops|l1": {
-   "expires": "2026-11-07T18:14:36.409608+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|frontend|l1": {
    "expires": "2026-11-16T19:21:16.559825+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -20098,6 +20088,11 @@
   "teladoc-health|swe|l3": {
    "expires": "2026-11-21T00:14:15.231175+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
+  "telus-digital|swe|l1": {
+   "expires": "2026-11-24T15:07:48.375856+00:00",
+   "looked_up": "2026-11-07T19:01:18+00:00",
    "status": "not_found"
   },
   "telus|swe|l3": {
@@ -23413,8 +23408,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 856,
-  "lookups_today": 46,
+  "lookups_month": 858,
+  "lookups_today": 48,
   "month": "2026-11"
  }
 }
