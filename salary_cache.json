@@ -2259,11 +2259,6 @@
    "looked_up": "2026-10-21T18:01:33+00:00",
    "status": "not_found"
   },
-  "auxgen|fullstack|l1": {
-   "expires": "2026-11-07T20:55:33.737583+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
   "auxilium-global-softech-pvt-ltd|frontend|l1": {
    "expires": "2026-11-08T19:46:55.123273+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
@@ -2907,11 +2902,6 @@
   },
   "blue-cloud-softech-solutions|data|l1": {
    "expires": "2026-11-15T21:10:46.249748+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
-  "blue-cloud-softech-solutions|erp|l1": {
-   "expires": "2026-11-07T20:55:30.937934+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
@@ -7785,8 +7775,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T07:56:12.305124+00:00",
-   "looked_up": "2026-11-07T20:52:23+00:00",
+   "expires": "2027-02-03T06:31:43.657471+00:00",
+   "looked_up": "2026-11-07T21:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -9992,6 +9982,11 @@
    "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
+  "imagineers-group|data|l1": {
+   "expires": "2026-11-15T11:30:13.551139+00:00",
+   "looked_up": "2026-11-07T21:01:17+00:00",
+   "status": "not_found"
+  },
   "in-tech-gmbh|swe|l1": {
    "expires": "2026-11-12T13:15:18.864827+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -10686,8 +10681,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:47:43.553745+00:00",
-   "looked_up": "2026-11-07T20:52:23+00:00",
+   "expires": "2027-02-02T06:15:07.023910+00:00",
+   "looked_up": "2026-11-07T21:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -23363,8 +23358,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 858,
-  "lookups_today": 48,
+  "lookups_month": 859,
+  "lookups_today": 49,
   "month": "2026-11"
  }
 }
