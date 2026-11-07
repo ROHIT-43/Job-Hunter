@@ -367,6 +367,11 @@
    "looked_up": "2026-10-30T08:01:29+00:00",
    "status": "not_found"
   },
+  "accurate-background|swe|l2": {
+   "expires": "2026-11-28T09:33:01.374130+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
+   "status": "not_found"
+  },
   "ace-data-analytics|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -556,8 +561,8 @@
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T02:10:51.376150+00:00",
-   "looked_up": "2026-11-07T16:26:14+00:00",
+   "expires": "2027-02-09T07:52:38.836196+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
    "max_lpa": 1.3,
    "min_lpa": 1.3,
    "sources": [
@@ -6300,11 +6305,6 @@
    "looked_up": "2026-11-04T12:01:29+00:00",
    "status": "not_found"
   },
-  "elanco|data|l1": {
-   "expires": "2026-11-07T16:36:40.955605+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
   "elanco|erp|l1": {
    "expires": "2026-11-15T10:00:37.864309+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -7423,6 +7423,11 @@
    "looked_up": "2026-11-05T08:01:23+00:00",
    "status": "not_found"
   },
+  "fiscalox|security|l1": {
+   "expires": "2026-11-19T19:05:23.282884+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
+   "status": "not_found"
+  },
   "fis|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -7564,6 +7569,11 @@
   "flexipletech|fullstack|l1": {
    "expires": "2026-11-10T01:44:28.025236+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
+   "status": "not_found"
+  },
+  "flexipletech|mobile|l1": {
+   "expires": "2026-11-18T18:59:50.097480+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
   "flexipletech|security|l1": {
@@ -7726,11 +7736,6 @@
    "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
-  "foundit-jobs|frontend|l1": {
-   "expires": "2026-11-07T16:35:38.951068+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
   "foxena-corporation|swe|l1": {
    "expires": "2026-11-12T09:41:25.031402+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
@@ -7780,8 +7785,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T00:47:34.968932+00:00",
-   "looked_up": "2026-11-07T16:26:14+00:00",
+   "expires": "2027-02-11T12:00:26.987168+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -9904,6 +9909,11 @@
    "looked_up": "2026-10-30T21:01:32+00:00",
    "status": "not_found"
   },
+  "ienergydigital|fullstack|l1": {
+   "expires": "2026-11-21T03:02:01.958019+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
+   "status": "not_found"
+  },
   "iff|erp|l1": {
    "expires": "2026-11-14T20:10:40.762104+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -10681,8 +10691,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T16:25:46.760106+00:00",
-   "looked_up": "2026-11-07T16:26:14+00:00",
+   "expires": "2027-02-05T17:34:44.119143+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11375,6 +11385,22 @@
    "expires": "2026-11-15T08:26:14.352575+00:00",
    "looked_up": "2026-10-28T04:01:24+00:00",
    "status": "not_found"
+  },
+  "kainos|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T02:27:49.725777+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/kainos-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "kaliper-tech|frontend|l1": {
    "expires": "2026-11-13T19:26:21.730352+00:00",
@@ -17345,6 +17371,11 @@
   "salaamtix|frontend|l1": {
    "expires": "2026-11-17T08:31:27.196626+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
+   "status": "not_found"
+  },
+  "salesblox-uk|fullstack|l1": {
+   "expires": "2026-11-25T07:10:11.021206+00:00",
+   "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
   "salesforce-ad|fullstack|l1": {
@@ -23397,8 +23428,8 @@
  },
  "meta": {
   "day": "2026-11-07",
-  "lookups_month": 848,
-  "lookups_today": 38,
+  "lookups_month": 854,
+  "lookups_today": 44,
   "month": "2026-11"
  }
 }
