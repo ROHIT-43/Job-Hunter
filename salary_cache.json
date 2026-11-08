@@ -8850,11 +8850,6 @@
    ],
    "status": "found"
   },
-  "happiest-minds-technologies|data|l1": {
-   "expires": "2026-11-08T18:19:56.797384+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
-   "status": "not_found"
-  },
   "happiest-minds-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13978,11 +13973,6 @@
   "new-relic-inc-|swe|l1": {
    "expires": "2026-11-19T08:14:40.470117+00:00",
    "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
-  "newscorp|data|l1": {
-   "expires": "2026-11-08T18:57:19.818602+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
   "newspacert|swe|l2": {
@@ -19433,11 +19423,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "tark-innovation-private-limited|data|l1": {
-   "expires": "2026-11-08T18:34:13.978754+00:00",
-   "looked_up": "2026-10-31T18:01:24+00:00",
-   "status": "not_found"
   },
   "tark-innovation-private-limited|devops|l1": {
    "expires": "2026-11-15T17:44:28.403353+00:00",
