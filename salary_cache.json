@@ -1884,11 +1884,6 @@
    ],
    "status": "found"
   },
-  "arista-networks-inc|devops|l1": {
-   "expires": "2026-11-08T05:03:33.439232+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
-  },
   "aristocratcorporate|swe|l2": {
    "expires": "2026-11-19T04:37:40.398683+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
@@ -2078,6 +2073,11 @@
   "astika-software-technologies-private-limited|swe|l1": {
    "expires": "2026-11-21T06:28:46.484143+00:00",
    "looked_up": "2026-11-02T20:01:29+00:00",
+   "status": "not_found"
+  },
+  "astrdefence|swe|l1": {
+   "expires": "2026-11-21T23:44:57.519094+00:00",
+   "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
   "astreya|swe|l2": {
@@ -7782,8 +7782,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T09:29:27.938837+00:00",
-   "looked_up": "2026-11-08T05:01:15+00:00",
+   "expires": "2027-02-01T14:00:30.615359+00:00",
+   "looked_up": "2026-11-08T06:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -9205,6 +9205,11 @@
   "hirehut1|swe|l1": {
    "expires": "2026-11-21T13:03:00.953365+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
+  "hirelyglobal|swe|l1": {
+   "expires": "2026-11-27T20:48:47.549862+00:00",
+   "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
   "hiringhood|data|l1": {
@@ -10683,8 +10688,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T13:13:40.483094+00:00",
-   "looked_up": "2026-11-08T05:01:15+00:00",
+   "expires": "2027-01-31T12:29:54.822197+00:00",
+   "looked_up": "2026-11-08T06:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11175,11 +11180,6 @@
   "joinanyscale|swe|l1": {
    "expires": "2026-11-13T13:33:52.490391+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
-   "status": "not_found"
-  },
-  "joinsaarthi|erp|l1": {
-   "expires": "2026-11-08T05:37:31.017852+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "joinsaarthi|swe|l1": {
@@ -12170,11 +12170,6 @@
   "literaai|swe|l1": {
    "expires": "2026-11-21T09:09:23.457588+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
-   "status": "not_found"
-  },
-  "little-feet-baby-care-tracker|fullstack|l1": {
-   "expires": "2026-11-08T05:19:56.710809+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
   "livesupr|swe|l1": {
@@ -16603,11 +16598,6 @@
   "rchilli-inc-|swe|l1": {
    "expires": "2026-11-15T01:23:05.705618+00:00",
    "looked_up": "2026-10-26T13:01:30+00:00",
-   "status": "not_found"
-  },
-  "rcktechiees|swe|l1": {
-   "expires": "2026-11-08T06:00:28.470066+00:00",
-   "looked_up": "2026-10-18T18:01:24+00:00",
    "status": "not_found"
   },
   "rea-cyber-city|swe|l1": {
@@ -23286,8 +23276,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 865,
-  "lookups_today": 6,
+  "lookups_month": 867,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
