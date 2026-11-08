@@ -7777,8 +7777,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T15:19:19.111637+00:00",
-   "looked_up": "2026-11-08T07:19:26+00:00",
+   "expires": "2027-01-31T01:55:31.842736+00:00",
+   "looked_up": "2026-11-08T08:01:16+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -7832,11 +7832,6 @@
   "futuredesks|mobile|l1": {
    "expires": "2026-11-12T08:34:42.744858+00:00",
    "looked_up": "2026-10-22T16:01:31+00:00",
-   "status": "not_found"
-  },
-  "fuzixel-technologies-private-limited|erp|l1": {
-   "expires": "2026-11-08T07:39:47.863937+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "fuzixel-technologies-private-limited|swe|l1": {
@@ -8005,11 +8000,6 @@
   },
   "geoiq-ai|frontend|l1": {
    "expires": "2026-11-13T16:05:43.366907+00:00",
-   "looked_up": "2026-10-31T15:01:37+00:00",
-   "status": "not_found"
-  },
-  "geoiq-ai|swe|l1": {
-   "expires": "2026-11-08T07:46:58.300675+00:00",
    "looked_up": "2026-10-31T15:01:37+00:00",
    "status": "not_found"
   },
@@ -11054,11 +11044,6 @@
    "status": "found",
    "year": 2024
   },
-  "jmdtechnologies-inc|swe|l1": {
-   "expires": "2026-11-08T07:19:30.909646+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "jobadder-middleware-test-company|swe|l1": {
    "expires": "2026-11-10T22:42:46.047569+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -11932,11 +11917,6 @@
   "labcorp|swe|l1": {
    "expires": "2026-11-12T18:17:07.992655+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "lancesoftindia|swe|l1": {
-   "expires": "2026-11-08T07:50:59.432630+00:00",
-   "looked_up": "2026-10-21T08:01:34+00:00",
    "status": "not_found"
   },
   "lanxess|erp|l1": {
@@ -18312,11 +18292,6 @@
   "smartworkingsolutions|devops|l1": {
    "expires": "2026-11-13T08:11:09.111783+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
-  "sme-careers|swe|l1": {
-   "expires": "2026-11-08T07:51:56.404219+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
   "smith-nephew|swe|l2": {
