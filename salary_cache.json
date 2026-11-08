@@ -7772,8 +7772,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:54:38.621316+00:00",
-   "looked_up": "2026-11-08T11:01:21+00:00",
+   "expires": "2027-02-01T21:45:12.887637+00:00",
+   "looked_up": "2026-11-08T12:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -17498,11 +17498,6 @@
    "looked_up": "2026-11-01T06:01:29+00:00",
    "status": "not_found"
   },
-  "saxo-bank|devops|l1": {
-   "expires": "2026-11-08T11:34:12.828566+00:00",
-   "looked_up": "2026-10-21T16:01:31+00:00",
-   "status": "not_found"
-  },
   "saya-care|mobile|l1": {
    "expires": "2026-11-11T13:48:30.005901+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
@@ -21257,11 +21252,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "urbanmistriistudio|swe|l1": {
-   "expires": "2026-11-08T11:04:50.924640+00:00",
-   "looked_up": "2026-10-24T11:00:03+00:00",
-   "status": "not_found"
   },
   "us-tech-solutions|erp|l1": {
    "expires": "2026-11-22T06:12:09.972503+00:00",
