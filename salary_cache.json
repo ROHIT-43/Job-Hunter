@@ -678,6 +678,11 @@
    "looked_up": "2026-10-20T20:01:26+00:00",
    "status": "not_found"
   },
+  "ageless-entertainment|frontend|l1": {
+   "expires": "2026-11-27T16:40:36.525051+00:00",
+   "looked_up": "2026-11-08T01:01:21+00:00",
+   "status": "not_found"
+  },
   "agivanttech|data|l1": {
    "expires": "2026-11-10T10:51:02.657748+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -7755,8 +7760,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T10:40:12.565151+00:00",
-   "looked_up": "2026-11-08T00:35:08+00:00",
+   "expires": "2027-02-01T21:10:38.168732+00:00",
+   "looked_up": "2026-11-08T01:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10661,8 +10666,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:18:04.073227+00:00",
-   "looked_up": "2026-11-08T00:35:08+00:00",
+   "expires": "2027-02-02T03:29:53.166862+00:00",
+   "looked_up": "2026-11-08T01:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -22741,11 +22746,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "xurrent|devops|l1": {
-   "expires": "2026-11-08T00:50:55.472712+00:00",
-   "looked_up": "2026-10-22T15:01:34+00:00",
-   "status": "not_found"
-  },
   "xylem|swe|l1": {
    "expires": "2026-11-16T22:33:48.283748+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
@@ -23288,8 +23288,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 859,
-  "lookups_today": 0,
+  "lookups_month": 860,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
