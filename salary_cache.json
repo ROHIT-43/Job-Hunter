@@ -678,11 +678,6 @@
    "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
-  "ageddoms|frontend|l1": {
-   "expires": "2026-11-08T16:54:47.841146+00:00",
-   "looked_up": "2026-10-20T20:01:26+00:00",
-   "status": "not_found"
-  },
   "ageless-entertainment|frontend|l1": {
    "expires": "2026-11-27T16:40:36.525051+00:00",
    "looked_up": "2026-11-08T01:01:21+00:00",
@@ -917,6 +912,11 @@
   "algoforge-aerospace|swe|l1": {
    "expires": "2026-11-22T15:08:13.381912+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
+   "status": "not_found"
+  },
+  "algoleap|data|l1": {
+   "expires": "2026-11-25T14:18:08.425357+00:00",
+   "looked_up": "2026-11-08T17:01:18+00:00",
    "status": "not_found"
   },
   "algoleap|devops|l1": {
@@ -8242,11 +8242,6 @@
    "status": "found",
    "year": 2026
   },
-  "globallogic|fullstack|l1": {
-   "expires": "2026-11-08T16:33:22.156652+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
-   "status": "not_found"
-  },
   "globallogic|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -11401,11 +11396,6 @@
    "looked_up": "2026-11-06T09:01:17+00:00",
    "status": "not_found"
   },
-  "kanishkasoftware|devops|l1": {
-   "expires": "2026-11-08T16:22:48.609624+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
   "kapivaayurveda|fullstack|l2": {
    "expires": "2026-11-17T06:59:54.101760+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
@@ -12101,6 +12091,11 @@
   "linde-india-ltd|erp|l1": {
    "expires": "2026-11-22T01:32:10.823641+00:00",
    "looked_up": "2026-11-07T15:01:18+00:00",
+   "status": "not_found"
+  },
+  "linde-india-ltd|fullstack|l1": {
+   "expires": "2026-11-27T20:29:41.683225+00:00",
+   "looked_up": "2026-11-08T17:01:18+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|swe|l1": {
@@ -14826,11 +14821,6 @@
    "status": "found",
    "year": 2025
   },
-  "opviain|data|l1": {
-   "expires": "2026-11-08T16:05:19.111232+00:00",
-   "looked_up": "2026-10-20T13:01:28+00:00",
-   "status": "not_found"
-  },
   "opviain|fullstack|l1": {
    "expires": "2026-11-11T02:57:41.244862+00:00",
    "looked_up": "2026-10-23T10:01:27+00:00",
@@ -15486,11 +15476,6 @@
   "pink-gorilla|fullstack|l1": {
    "expires": "2026-11-12T13:12:00.214605+00:00",
    "looked_up": "2026-10-25T00:01:34+00:00",
-   "status": "not_found"
-  },
-  "pinkerton-comprehensive-risk-management|erp|l1": {
-   "expires": "2026-11-08T16:48:43.559351+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "pinterview|swe|l1": {
@@ -18737,11 +18722,6 @@
   "srd-infotek-inc|swe|l1": {
    "expires": "2026-11-13T01:39:36.771306+00:00",
    "looked_up": "2026-10-28T19:01:28+00:00",
-   "status": "not_found"
-  },
-  "sreeramengineeringworks|swe|l1": {
-   "expires": "2026-11-08T16:05:51.010426+00:00",
-   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "srest|swe|l1": {
@@ -23215,8 +23195,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 889,
-  "lookups_today": 30,
+  "lookups_month": 891,
+  "lookups_today": 32,
   "month": "2026-11"
  }
 }
