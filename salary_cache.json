@@ -7760,8 +7760,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:10:38.168732+00:00",
-   "looked_up": "2026-11-08T01:01:21+00:00",
+   "expires": "2027-02-11T11:59:22.720527+00:00",
+   "looked_up": "2026-11-08T02:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -9744,11 +9744,6 @@
    "looked_up": "2026-10-29T14:01:33+00:00",
    "status": "not_found"
   },
-  "icare-infosystems-private-limited|frontend|l1": {
-   "expires": "2026-11-08T01:34:24.354258+00:00",
-   "looked_up": "2026-10-23T05:01:28+00:00",
-   "status": "not_found"
-  },
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10666,8 +10661,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T03:29:53.166862+00:00",
-   "looked_up": "2026-11-08T01:01:21+00:00",
+   "expires": "2027-02-05T16:55:33.276124+00:00",
+   "looked_up": "2026-11-08T02:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11855,6 +11850,11 @@
     }
    ],
    "status": "found"
+  },
+  "kvftech|devops|l1": {
+   "expires": "2026-11-22T13:00:54.462038+00:00",
+   "looked_up": "2026-11-08T02:01:17+00:00",
+   "status": "not_found"
   },
   "l&amp;t-technology-services-limited|fullstack|l1": {
    "basis": "ctc",
@@ -13075,11 +13075,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "megrisoft-limited|mobile|l1": {
-   "expires": "2026-11-08T01:42:02.477485+00:00",
-   "looked_up": "2026-10-18T18:01:24+00:00",
-   "status": "not_found"
   },
   "mempage-technologies|erp|l1": {
    "expires": "2026-11-12T17:27:44.095700+00:00",
@@ -23288,8 +23283,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 860,
-  "lookups_today": 1,
+  "lookups_month": 861,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
