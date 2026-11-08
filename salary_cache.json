@@ -3130,6 +3130,11 @@
    "looked_up": "2026-11-04T15:01:31+00:00",
    "status": "not_found"
   },
+  "boldlimited|devops|l1": {
+   "expires": "2026-11-18T02:07:43.641398+00:00",
+   "looked_up": "2026-11-08T16:01:17+00:00",
+   "status": "not_found"
+  },
   "bookingholdings|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -9848,11 +9853,6 @@
    "status": "found",
    "year": 2026
   },
-  "ideaelanindia|frontend|l1": {
-   "expires": "2026-11-08T15:18:22.799624+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
-   "status": "not_found"
-  },
   "ideaforge|swe|l2": {
    "expires": "2026-11-20T04:45:23.719404+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
@@ -10452,11 +10452,6 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
-  "ingersoll-rand|security|l1": {
-   "expires": "2026-11-08T15:39:10.417545+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
   "ingram-micro|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11054,6 +11049,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "jnjinnovativemedicine|swe|l1": {
+   "expires": "2026-11-24T07:24:41.840522+00:00",
+   "looked_up": "2026-11-08T16:01:17+00:00",
+   "status": "not_found"
   },
   "jobadder-middleware-test-company|swe|l1": {
    "expires": "2026-11-10T22:42:46.047569+00:00",
@@ -16625,11 +16625,6 @@
    "status": "found",
    "year": null
   },
-  "recrivio|swe|l1": {
-   "expires": "2026-11-08T15:52:04.455665+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
-   "status": "not_found"
-  },
   "recro-io|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17039,8 +17034,8 @@
    "year": 2026
   },
   "rudraitnetworks|frontend|l1": {
-   "expires": "2026-11-08T15:28:57.223165+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
+   "expires": "2026-11-21T06:42:20.858236+00:00",
+   "looked_up": "2026-11-08T16:01:17+00:00",
    "status": "not_found"
   },
   "rushiv-infotech|data|l1": {
@@ -17136,11 +17131,6 @@
   "saeculumsolutions|frontend|l1": {
    "expires": "2026-11-11T19:50:34.683562+00:00",
    "looked_up": "2026-10-23T15:01:32+00:00",
-   "status": "not_found"
-  },
-  "safartrak|swe|l1": {
-   "expires": "2026-11-08T16:01:15.207348+00:00",
-   "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
   "safe-tprm|swe|l1": {
@@ -17704,11 +17694,6 @@
   "segula-technologies|security|l1": {
    "expires": "2026-11-24T07:43:02.076047+00:00",
    "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
-  "seismic|swe|l2": {
-   "expires": "2026-11-08T15:54:56.460109+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
    "status": "not_found"
   },
   "selectandswitch|frontend|l1": {
@@ -18498,11 +18483,6 @@
   "softmivix|frontend|l1": {
    "expires": "2026-11-09T09:53:27.062296+00:00",
    "looked_up": "2026-10-27T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "softniceuklimited|data|l1": {
-   "expires": "2026-11-08T15:25:23.182880+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
    "status": "not_found"
   },
   "softniceuklimited|fullstack|l1": {
@@ -20278,11 +20258,6 @@
    "looked_up": "2026-10-22T18:01:28+00:00",
    "status": "not_found"
   },
-  "the-urbanindia|swe|l1": {
-   "expires": "2026-11-08T15:51:30.087578+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
-  },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -21913,6 +21888,11 @@
    "looked_up": "2026-11-07T10:01:22+00:00",
    "status": "not_found"
   },
+  "voedly|frontend|l1": {
+   "expires": "2026-11-24T05:55:06.069072+00:00",
+   "looked_up": "2026-11-08T16:01:17+00:00",
+   "status": "not_found"
+  },
   "vois|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22215,11 +22195,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "wearehaystack|swe|l1": {
-   "expires": "2026-11-08T15:36:51.752045+00:00",
-   "looked_up": "2026-10-21T20:01:26+00:00",
-   "status": "not_found"
   },
   "wearekinnectindia|swe|l1": {
    "expires": "2026-11-16T08:52:46.165317+00:00",
@@ -23240,8 +23215,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 885,
-  "lookups_today": 26,
+  "lookups_month": 889,
+  "lookups_today": 30,
   "month": "2026-11"
  }
 }
