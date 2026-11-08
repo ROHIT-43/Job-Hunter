@@ -477,11 +477,6 @@
    ],
    "status": "found"
   },
-  "acura-solutions-ltd|devops|l1": {
-   "expires": "2026-11-08T08:29:40.460678+00:00",
-   "looked_up": "2026-10-29T09:01:32+00:00",
-   "status": "not_found"
-  },
   "acura-solutions-ltd|security|l1": {
    "expires": "2026-11-10T22:54:49.088954+00:00",
    "looked_up": "2026-11-01T08:01:22+00:00",
@@ -7777,8 +7772,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T01:55:31.842736+00:00",
-   "looked_up": "2026-11-08T08:01:16+00:00",
+   "expires": "2027-02-05T15:32:43.922343+00:00",
+   "looked_up": "2026-11-08T09:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -13540,11 +13535,6 @@
    "looked_up": "2026-11-06T18:01:16+00:00",
    "status": "not_found"
   },
-  "mufg|fullstack|l1": {
-   "expires": "2026-11-08T08:25:05.639913+00:00",
-   "looked_up": "2026-10-19T19:01:27+00:00",
-   "status": "not_found"
-  },
   "mumzworld-com|devops|l1": {
    "expires": "2026-11-12T21:50:13.917292+00:00",
    "looked_up": "2026-11-02T17:01:41+00:00",
@@ -17612,6 +17602,11 @@
   "scoutit-in|frontend|l1": {
    "expires": "2026-11-16T19:21:16.559825+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "scoutit-in|fullstack|l1": {
+   "expires": "2026-11-16T11:07:31.971653+00:00",
+   "looked_up": "2026-11-08T09:01:15+00:00",
    "status": "not_found"
   },
   "scoutit-in|swe|l1": {
@@ -23236,8 +23231,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 867,
-  "lookups_today": 8,
+  "lookups_month": 868,
+  "lookups_today": 9,
   "month": "2026-11"
  }
 }
