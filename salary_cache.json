@@ -2300,11 +2300,6 @@
    "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
-  "aventra-group|swe|l1": {
-   "expires": "2026-11-08T10:54:05.468387+00:00",
-   "looked_up": "2026-10-22T00:01:31+00:00",
-   "status": "not_found"
-  },
   "aveva|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6838,11 +6833,6 @@
    "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
-  "ev-nexo-tech|swe|l1": {
-   "expires": "2026-11-08T10:20:37.907202+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
-   "status": "not_found"
-  },
   "evadivy|swe|l1": {
    "expires": "2026-11-17T00:12:19.803667+00:00",
    "looked_up": "2026-11-01T18:01:31+00:00",
@@ -7653,6 +7643,11 @@
    "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
   },
+  "flywire|security|l2": {
+   "expires": "2026-11-24T08:21:06.297197+00:00",
+   "looked_up": "2026-11-08T11:01:21+00:00",
+   "status": "not_found"
+  },
   "fm|swe|l1": {
    "expires": "2026-11-17T20:00:15.693118+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -7777,8 +7772,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:05:53.182166+00:00",
-   "looked_up": "2026-11-08T10:01:17+00:00",
+   "expires": "2027-02-13T10:54:38.621316+00:00",
+   "looked_up": "2026-11-08T11:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10585,11 +10580,6 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
-  "intact|data|l1": {
-   "expires": "2026-11-08T10:39:16.713277+00:00",
-   "looked_up": "2026-10-29T07:14:15+00:00",
-   "status": "not_found"
-  },
   "integrate-point|swe|l1": {
    "expires": "2026-11-12T03:17:17.597888+00:00",
    "looked_up": "2026-11-02T18:01:34+00:00",
@@ -12620,11 +12610,6 @@
    "looked_up": "2026-11-03T20:01:58+00:00",
    "status": "not_found"
   },
-  "mariinox|swe|l1": {
-   "expires": "2026-11-08T10:27:00.184346+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
   "marine-insight|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -13212,6 +13197,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "millerknoll|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T08:06:24.813539+00:00",
+   "looked_up": "2026-11-08T11:01:21+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/millerknoll-reviews/salesforce-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "mimecast|swe|l2": {
    "basis": "ctc",
@@ -14663,6 +14664,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "opengrab|fullstack|l1": {
+   "expires": "2026-11-17T08:08:42.601433+00:00",
+   "looked_up": "2026-11-08T11:01:21+00:00",
+   "status": "not_found"
   },
   "openingsfirst|swe|l1": {
    "expires": "2026-11-14T14:29:40.676673+00:00",
@@ -16950,11 +16956,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "rockwell-automation|swe|l1": {
-   "expires": "2026-11-08T10:38:47.091981+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
-  },
   "rohde-schwarz|swe|l1": {
    "expires": "2026-11-11T13:53:46.895033+00:00",
    "looked_up": "2026-11-02T18:01:34+00:00",
@@ -17309,11 +17310,6 @@
   "sandisk|swe|l1": {
    "expires": "2026-11-24T13:10:52.433463+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "sandisk|swe|l2": {
-   "expires": "2026-11-08T10:56:40.951864+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
    "status": "not_found"
   },
   "saneforce-pharma-sfa|mobile|l1": {
@@ -18122,6 +18118,11 @@
   "sitetracker|erp|l2": {
    "expires": "2026-11-13T21:41:03.861959+00:00",
    "looked_up": "2026-10-31T14:01:32+00:00",
+   "status": "not_found"
+  },
+  "skildai|mobile|l1": {
+   "expires": "2026-11-25T00:23:23.046877+00:00",
+   "looked_up": "2026-11-08T11:01:21+00:00",
    "status": "not_found"
   },
   "skillcollege|frontend|l1": {
@@ -23216,8 +23217,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 869,
-  "lookups_today": 10,
+  "lookups_month": 873,
+  "lookups_today": 14,
   "month": "2026-11"
  }
 }
