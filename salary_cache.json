@@ -727,11 +727,6 @@
    ],
    "status": "found"
   },
-  "air-arabia|data|l1": {
-   "expires": "2026-11-08T20:29:44.911698+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
-   "status": "not_found"
-  },
   "air-arabia|devops|l1": {
    "expires": "2026-11-16T11:00:27.146962+00:00",
    "looked_up": "2026-10-29T18:01:31+00:00",
@@ -13583,11 +13578,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "mycareernet|swe|l1": {
-   "expires": "2026-11-08T20:59:24.918212+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
   "myriad360|data|l1": {
    "expires": "2026-11-18T08:14:18.535590+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
@@ -16179,11 +16169,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "quadrant-it-services|swe|l1": {
-   "expires": "2026-11-08T20:18:31.660895+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
-   "status": "not_found"
   },
   "qualcomm|mobile|l1": {
    "basis": "base",
@@ -22625,11 +22610,6 @@
   "xcubesoftwares|swe|l1": {
    "expires": "2026-11-20T07:57:27.226744+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "xencia-technology-solutions|swe|l1": {
-   "expires": "2026-11-08T20:59:22.001625+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "xerox|swe|l1": {
