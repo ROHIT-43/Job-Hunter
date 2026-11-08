@@ -1,5 +1,10 @@
 {
  "entries": {
+  "1spirit-weavers-co1|swe|l1": {
+   "expires": "2026-11-22T23:22:46.615562+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
+   "status": "not_found"
+  },
   "2005labs|swe|l2": {
    "expires": "2026-11-11T18:31:59.199588+00:00",
    "looked_up": "2026-10-31T16:01:26+00:00",
@@ -257,6 +262,11 @@
   "accendra-health|devops|l1": {
    "expires": "2026-11-10T15:31:04.614783+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
+   "status": "not_found"
+  },
+  "accendra-health|erp|l1": {
+   "expires": "2026-11-24T06:36:44.003982+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
   "accendra-health|erp|l2": {
@@ -1561,6 +1571,11 @@
   "anovia-inc|swe|l1": {
    "expires": "2026-11-16T01:38:23.650641+00:00",
    "looked_up": "2026-10-31T00:01:25+00:00",
+   "status": "not_found"
+  },
+  "anr-business-consulting|devops|l1": {
+   "expires": "2026-11-21T23:40:25.176244+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
   "anr-business-consulting|erp|l1": {
@@ -5250,11 +5265,6 @@
    "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
-  "customertimes|erp|l1": {
-   "expires": "2026-11-08T12:06:45.596558+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
   "cxgroup|data|l3": {
    "expires": "2026-11-16T23:42:46.098187+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
@@ -6071,11 +6081,6 @@
   "dooritt|devops|l1": {
    "expires": "2026-11-23T09:27:46.652612+00:00",
    "looked_up": "2026-11-07T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "dotsolved|devops|l1": {
-   "expires": "2026-11-08T12:48:41.693163+00:00",
-   "looked_up": "2026-10-28T05:01:27+00:00",
    "status": "not_found"
   },
   "dotsolved|erp|l1": {
@@ -7683,6 +7688,22 @@
    "status": "found",
    "year": 2026
   },
+  "foodhubuk|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T23:09:08.758045+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/foodhub-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "forbes-advisor|data|l1": {
    "expires": "2026-11-21T23:26:06.481290+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
@@ -7772,8 +7793,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:45:12.887637+00:00",
-   "looked_up": "2026-11-08T12:01:17+00:00",
+   "expires": "2027-02-09T20:31:06.228909+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -11668,6 +11689,11 @@
    "looked_up": "2026-10-30T08:01:29+00:00",
    "status": "not_found"
   },
+  "kore-inc|devops|l1": {
+   "expires": "2026-11-21T06:18:03.261119+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
+   "status": "not_found"
+  },
   "kpmg-us|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11957,11 +11983,6 @@
   "leegality|frontend|l1": {
    "expires": "2026-11-10T18:13:44.403663+00:00",
    "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "leegality|swe|l1": {
-   "expires": "2026-11-08T12:02:45.177715+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
    "status": "not_found"
   },
   "legatioco|fullstack|l1": {
@@ -13443,6 +13464,11 @@
    "looked_up": "2026-10-29T13:01:31+00:00",
    "status": "not_found"
   },
+  "mouser-electronics|frontend|l1": {
+   "expires": "2026-11-16T02:04:47.973883+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
+   "status": "not_found"
+  },
   "mouser-electronics|swe|l1": {
    "expires": "2026-11-13T17:20:03.510833+00:00",
    "looked_up": "2026-11-05T12:01:24+00:00",
@@ -13635,11 +13661,6 @@
   "navihyr|fullstack|l1": {
    "expires": "2026-11-11T07:12:59.597662+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
-  "nazztec|erp|l1": {
-   "expires": "2026-11-08T12:30:41.284688+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "ncratleos|swe|l1": {
@@ -16477,11 +16498,6 @@
    "looked_up": "2026-11-04T23:01:20+00:00",
    "status": "not_found"
   },
-  "radian-generation|swe|l1": {
-   "expires": "2026-11-08T12:36:37.242030+00:00",
-   "looked_up": "2026-10-28T20:01:30+00:00",
-   "status": "not_found"
-  },
   "radiantbiz|fullstack|l1": {
    "expires": "2026-11-23T04:25:05.501081+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
@@ -16711,6 +16727,11 @@
   "relx-group|devops|l3": {
    "expires": "2026-11-10T17:31:19.085677+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
+   "status": "not_found"
+  },
+  "remote-wfh-india|data|l1": {
+   "expires": "2026-11-27T10:12:31.185449+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
   "renovision-automation-services-pvt-ltd|security|l1": {
@@ -19359,6 +19380,22 @@
    "looked_up": "2026-10-28T04:01:24+00:00",
    "status": "not_found"
   },
+  "tarana-wireless-inc|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T23:04:03.400571+00:00",
+   "looked_up": "2026-11-08T13:01:43+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tarana-wireless-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "target|mobile|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -21080,11 +21117,6 @@
   "umanistna|erp|l1": {
    "expires": "2026-11-16T12:19:10.646088+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
-  "unborderedin|swe|l2": {
-   "expires": "2026-11-08T12:02:28.934947+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
   "ungrammary-creatives|fullstack|l1": {
@@ -23207,8 +23239,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 873,
-  "lookups_today": 14,
+  "lookups_month": 881,
+  "lookups_today": 22,
   "month": "2026-11"
  }
 }
