@@ -4245,11 +4245,6 @@
    "status": "found",
    "year": 2025
   },
-  "cit-focus|erp|l1": {
-   "expires": "2026-11-08T00:06:46.460495+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
-   "status": "not_found"
-  },
   "citi|data|l1": {
    "expires": "2026-11-21T00:15:55.560208+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
@@ -7760,8 +7755,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-30T07:45:12.395707+00:00",
-   "looked_up": "2026-11-08T00:01:20+00:00",
+   "expires": "2027-02-05T10:40:12.565151+00:00",
+   "looked_up": "2026-11-08T00:35:08+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10666,8 +10661,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:08:30.438708+00:00",
-   "looked_up": "2026-11-08T00:01:20+00:00",
+   "expires": "2027-02-03T11:18:04.073227+00:00",
+   "looked_up": "2026-11-08T00:35:08+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13949,11 +13944,6 @@
    "looked_up": "2026-10-23T14:01:26+00:00",
    "status": "not_found"
   },
-  "nextpowerinc|devops|l1": {
-   "expires": "2026-11-08T00:07:58.254228+00:00",
-   "looked_up": "2026-10-29T11:01:33+00:00",
-   "status": "not_found"
-  },
   "nians|swe|l1": {
    "expires": "2026-11-10T19:11:49.672847+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
@@ -16043,11 +16033,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "pwc-india|data|l1": {
-   "expires": "2026-11-08T00:13:40.901488+00:00",
-   "looked_up": "2026-10-24T02:01:23+00:00",
-   "status": "not_found"
   },
   "pwc-india|erp|l1": {
    "basis": "base",
