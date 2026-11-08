@@ -796,6 +796,11 @@
    ],
    "status": "found"
   },
+  "aixpense-in|mobile|l1": {
+   "expires": "2026-11-17T16:11:53.347783+00:00",
+   "looked_up": "2026-11-08T10:01:17+00:00",
+   "status": "not_found"
+  },
   "akamai-technologies|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -7772,8 +7777,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T15:32:43.922343+00:00",
-   "looked_up": "2026-11-08T09:01:15+00:00",
+   "expires": "2027-02-12T14:05:53.182166+00:00",
+   "looked_up": "2026-11-08T10:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -8655,11 +8660,6 @@
   "gsk|devops|l1": {
    "expires": "2026-11-17T04:30:38.154790+00:00",
    "looked_up": "2026-10-28T23:01:40+00:00",
-   "status": "not_found"
-  },
-  "gtl-archived|swe|l1": {
-   "expires": "2026-11-08T09:50:56.846792+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
   "guidanz-inc|erp|l1": {
@@ -13296,11 +13296,6 @@
    "looked_up": "2026-10-28T09:01:31+00:00",
    "status": "not_found"
   },
-  "miraixorg|devops|l1": {
-   "expires": "2026-11-08T09:17:09.552128+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
-   "status": "not_found"
-  },
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15650,11 +15645,6 @@
    "looked_up": "2026-11-07T01:01:15+00:00",
    "status": "not_found"
   },
-  "pragyaa-ai-ml|swe|l1": {
-   "expires": "2026-11-08T09:18:08.317532+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
   "pri-india-it-services-private-limited|devops|l2": {
    "expires": "2026-11-26T23:01:50.636556+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -16694,11 +16684,6 @@
   "redholt|devops|l1": {
    "expires": "2026-11-14T23:31:56.830647+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "redingtonlimited|erp|l1": {
-   "expires": "2026-11-08T09:04:13.461633+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
   "reliaquest|swe|l1": {
@@ -23231,8 +23216,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 868,
-  "lookups_today": 9,
+  "lookups_month": 869,
+  "lookups_today": 10,
   "month": "2026-11"
  }
 }
