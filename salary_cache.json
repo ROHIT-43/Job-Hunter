@@ -6655,11 +6655,6 @@
    "status": "found",
    "year": 2026
   },
-  "ericsson|swe|l2": {
-   "expires": "2026-11-08T07:10:13.412561+00:00",
-   "looked_up": "2026-10-24T13:01:30+00:00",
-   "status": "not_found"
-  },
   "ernstandyoung|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7782,8 +7777,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T14:00:30.615359+00:00",
-   "looked_up": "2026-11-08T06:01:15+00:00",
+   "expires": "2027-01-30T15:19:19.111637+00:00",
+   "looked_up": "2026-11-08T07:19:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -13560,11 +13555,6 @@
    "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
-  "msg-global|frontend|l1": {
-   "expires": "2026-11-08T07:09:15.110087+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "msx-international|swe|l1": {
    "expires": "2026-11-15T00:04:57.636211+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -16315,11 +16305,6 @@
   "quantum|swe|l3": {
    "expires": "2026-11-21T13:02:11.297748+00:00",
    "looked_up": "2026-11-07T10:01:22+00:00",
-   "status": "not_found"
-  },
-  "quarticainc|frontend|l1": {
-   "expires": "2026-11-08T06:33:48.400197+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
   "quest-global|data|l1": {
