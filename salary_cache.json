@@ -3188,6 +3188,11 @@
    "looked_up": "2026-10-31T05:01:27+00:00",
    "status": "not_found"
   },
+  "botnex-social|swe|l1": {
+   "expires": "2026-11-16T15:21:37.873209+00:00",
+   "looked_up": "2026-11-08T03:01:21+00:00",
+   "status": "not_found"
+  },
   "bougaintech-bgt-3840aa306|swe|l1": {
    "expires": "2026-11-12T00:10:23.488189+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -4308,11 +4313,6 @@
   "cloud-is-good|erp|l1": {
    "expires": "2026-11-09T14:45:19.966475+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
-  "cloud-raptor|erp|l1": {
-   "expires": "2026-11-08T02:20:34.158177+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "cloudesign|fullstack|l1": {
@@ -6893,11 +6893,6 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
-  "excelya|swe|l1": {
-   "expires": "2026-11-08T02:25:28.934652+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
   "exl-service|devops|l1": {
    "expires": "2026-11-19T19:34:45.665699+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -7760,8 +7755,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T11:59:22.720527+00:00",
-   "looked_up": "2026-11-08T02:01:17+00:00",
+   "expires": "2027-02-04T21:38:50.488385+00:00",
+   "looked_up": "2026-11-08T03:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10661,8 +10656,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T16:55:33.276124+00:00",
-   "looked_up": "2026-11-08T02:01:17+00:00",
+   "expires": "2027-01-30T11:02:47.861883+00:00",
+   "looked_up": "2026-11-08T03:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -23283,8 +23278,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 861,
-  "lookups_today": 2,
+  "lookups_month": 862,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
