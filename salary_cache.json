@@ -3716,11 +3716,6 @@
    "looked_up": "2026-11-05T02:01:27+00:00",
    "status": "not_found"
   },
-  "careerpointltd|swe|l1": {
-   "expires": "2026-11-07T23:04:29.367625+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
   "careerxperts-consulting|frontend|l1": {
    "expires": "2026-11-17T11:28:27.389909+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -7765,8 +7760,8 @@
   "fundedin-org|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:08:26.608061+00:00",
-   "looked_up": "2026-11-07T23:01:24+00:00",
+   "expires": "2027-01-30T07:45:12.395707+00:00",
+   "looked_up": "2026-11-08T00:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -10671,8 +10666,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T11:56:50.475019+00:00",
-   "looked_up": "2026-11-07T23:01:24+00:00",
+   "expires": "2027-02-10T11:08:30.438708+00:00",
+   "looked_up": "2026-11-08T00:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -11407,11 +11402,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "karat|swe|l1": {
-   "expires": "2026-11-07T23:08:29.787872+00:00",
-   "looked_up": "2026-10-20T22:01:27+00:00",
-   "status": "not_found"
   },
   "karunashri-software|erp|l1": {
    "expires": "2026-11-13T23:54:58.445534+00:00",
@@ -17725,11 +17715,6 @@
    "looked_up": "2026-11-06T23:01:21+00:00",
    "status": "not_found"
   },
-  "securegen|swe|l1": {
-   "expires": "2026-11-07T23:18:49.081836+00:00",
-   "looked_up": "2026-10-22T21:01:31+00:00",
-   "status": "not_found"
-  },
   "securex360|frontend|l1": {
    "expires": "2026-11-15T02:19:14.960417+00:00",
    "looked_up": "2026-11-03T20:01:58+00:00",
@@ -22936,11 +22921,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "yotta-data-services|fullstack|l1": {
-   "expires": "2026-11-07T23:07:25.648039+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
   "your-website-io|swe|l1": {
    "expires": "2026-11-10T16:10:22.798712+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
@@ -23322,9 +23302,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-07",
+  "day": "2026-11-08",
   "lookups_month": 859,
-  "lookups_today": 49,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
