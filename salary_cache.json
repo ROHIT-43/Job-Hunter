@@ -8639,11 +8639,6 @@
    "looked_up": "2026-11-05T19:01:18+00:00",
    "status": "not_found"
   },
-  "growe-global|swe|l1": {
-   "expires": "2026-11-08T17:31:40.643121+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
-   "status": "not_found"
-  },
   "groww.in|security|l2": {
    "basis": "base",
    "confidence": "low",
@@ -10591,6 +10586,30 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "insight|devops|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T08:50:43.510611+00:00",
+   "looked_up": "2026-11-08T18:01:17+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/insight-salaries/senior-cloud-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/insight-salaries/devops-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/insight-salaries/cloud-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "instantdm|fullstack|l1": {
    "expires": "2026-11-21T02:58:09.046992+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -12463,6 +12482,22 @@
    ],
    "status": "found"
   },
+  "macquariegroup|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-01-31T18:14:17.379490+00:00",
+   "looked_up": "2026-11-08T18:01:17+00:00",
+   "max_lpa": 12.5,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/macquarie-group-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "madaan-exports|data|l1": {
    "expires": "2026-11-18T20:48:14.225562+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -12991,11 +13026,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mediotix|swe|l1": {
-   "expires": "2026-11-08T17:19:42.927514+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
   },
   "meditab-software-inc-|frontend|l2": {
    "expires": "2026-11-18T03:58:18.458408+00:00",
@@ -13648,6 +13678,26 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "nasdaq|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T23:14:57.376601+00:00",
+   "looked_up": "2026-11-08T18:01:17+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/nasdaq-reviews/mumbai-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nasdaq-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "nasuni|devops|l1": {
    "expires": "2026-11-19T01:11:34.501715+00:00",
@@ -14581,6 +14631,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "olus-infomatics|swe|l1": {
+   "expires": "2026-11-21T17:42:34.266867+00:00",
+   "looked_up": "2026-11-08T18:01:17+00:00",
+   "status": "not_found"
   },
   "omniskopeinc|data|l1": {
    "expires": "2026-11-24T16:21:57.762501+00:00",
@@ -18314,11 +18369,6 @@
    "status": "found",
    "year": 2026
   },
-  "sneate-tech|erp|l1": {
-   "expires": "2026-11-08T17:44:51.603363+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
   "snsin|security|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -20685,11 +20735,6 @@
   "trademo-inc|devops|l1": {
    "expires": "2026-11-21T09:02:06.331381+00:00",
    "looked_up": "2026-11-06T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "traker-live|frontend|l1": {
-   "expires": "2026-11-08T17:33:10.709014+00:00",
-   "looked_up": "2026-10-24T20:01:27+00:00",
    "status": "not_found"
   },
   "tranetechnologies|swe|l1": {
@@ -23195,8 +23240,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 891,
-  "lookups_today": 32,
+  "lookups_month": 895,
+  "lookups_today": 36,
   "month": "2026-11"
  }
 }
