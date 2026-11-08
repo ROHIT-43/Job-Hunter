@@ -3459,6 +3459,11 @@
    "status": "found",
    "year": 2024
   },
+  "bunge|erp|l1": {
+   "expires": "2026-11-22T00:02:37.666651+00:00",
+   "looked_up": "2026-11-08T15:01:17+00:00",
+   "status": "not_found"
+  },
   "bupa-capability-centre-india|devops|l1": {
    "expires": "2026-11-12T15:30:05.017194+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -12113,6 +12118,22 @@
    "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
+  "linde|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T08:42:29.515152+00:00",
+   "looked_up": "2026-11-08T15:01:17+00:00",
+   "max_lpa": 9.6,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/linde-india-salaries/web-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "linde|swe|l1": {
    "expires": "2026-11-10T23:40:08.383486+00:00",
    "looked_up": "2026-10-28T16:01:32+00:00",
@@ -18856,11 +18877,6 @@
    "looked_up": "2026-11-06T04:01:14+00:00",
    "status": "not_found"
   },
-  "strategic-ventures-co-in|swe|l1": {
-   "expires": "2026-11-08T14:55:31.025832+00:00",
-   "looked_up": "2026-10-23T15:01:32+00:00",
-   "status": "not_found"
-  },
   "strategy|devops|l1": {
    "expires": "2026-11-13T11:55:41.788207+00:00",
    "looked_up": "2026-10-31T16:01:26+00:00",
@@ -20488,11 +20504,6 @@
    "looked_up": "2026-10-25T08:01:27+00:00",
    "status": "not_found"
   },
-  "thoughtsol-infotech-ltd|data|l1": {
-   "expires": "2026-11-08T14:12:14.169863+00:00",
-   "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
   "thoughtsol-infotech-ltd|mobile|l1": {
    "expires": "2026-11-16T18:52:57.590606+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -20918,6 +20929,11 @@
   "trustgrid™|swe|l1": {
    "expires": "2026-11-14T13:24:54.225708+00:00",
    "looked_up": "2026-11-04T10:01:28+00:00",
+   "status": "not_found"
+  },
+  "truveta|swe|l1": {
+   "expires": "2026-11-26T06:22:29.560404+00:00",
+   "looked_up": "2026-11-08T15:01:17+00:00",
    "status": "not_found"
   },
   "truwave-software-llc|devops|l1": {
@@ -21953,6 +21969,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vontier|swe|l1": {
+   "expires": "2026-11-20T11:07:46.457907+00:00",
+   "looked_up": "2026-11-08T15:01:17+00:00",
+   "status": "not_found"
   },
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
@@ -23219,8 +23240,8 @@
  },
  "meta": {
   "day": "2026-11-08",
-  "lookups_month": 881,
-  "lookups_today": 22,
+  "lookups_month": 885,
+  "lookups_today": 26,
   "month": "2026-11"
  }
 }
