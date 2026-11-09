@@ -213,6 +213,11 @@
    ],
    "status": "found"
   },
+  "accedo-tv|devops|l1": {
+   "expires": "2026-11-22T18:46:26.463453+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
+   "status": "not_found"
+  },
   "accel-digtial-ad-operations|data|l1": {
    "expires": "2026-11-19T01:40:47.226882+00:00",
    "looked_up": "2026-10-31T12:01:25+00:00",
@@ -795,6 +800,11 @@
   "aitrillion|frontend|l1": {
    "expires": "2026-11-15T21:44:10.426064+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "aiventra-health|swe|l1": {
+   "expires": "2026-11-26T02:25:46.530721+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
   "aixpense-in|fullstack|l1": {
@@ -3515,11 +3525,6 @@
    "status": "found",
    "year": 2026
   },
-  "caidya|swe|l1": {
-   "expires": "2026-11-09T12:13:13.333823+00:00",
-   "looked_up": "2026-10-22T14:01:29+00:00",
-   "status": "not_found"
-  },
   "caisoftware|frontend|l1": {
    "expires": "2026-11-20T00:49:25.447847+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
@@ -5806,11 +5811,6 @@
    "looked_up": "2026-11-03T05:01:29+00:00",
    "status": "not_found"
   },
-  "devsatva|fullstack|l1": {
-   "expires": "2026-11-09T13:01:14.611445+00:00",
-   "looked_up": "2026-11-01T19:01:33+00:00",
-   "status": "not_found"
-  },
   "devvizy|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6408,6 +6408,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "emfica-pharmaceuticals-private-limited|fullstack|l1": {
+   "expires": "2026-11-28T12:50:14.404314+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
+   "status": "not_found"
   },
   "en-interactive-technologies-pvt-ltd|frontend|l1": {
    "expires": "2026-11-14T16:50:16.125334+00:00",
@@ -8986,6 +8991,22 @@
    "status": "found",
    "year": null
   },
+  "hcltech|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T08:02:33.855129+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hcl-technologies-salaries/fresher?page=2"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "hcltech|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10661,6 +10682,11 @@
   "intuition-it-intuitive-technology-recruitment|erp|l1": {
    "expires": "2026-11-12T03:54:09.046741+00:00",
    "looked_up": "2026-11-03T15:01:30+00:00",
+   "status": "not_found"
+  },
+  "intuition-it-intuitive-technology-recruitment|swe|l1": {
+   "expires": "2026-11-19T07:17:29.350361+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
   "intuit|swe|l1": {
@@ -14537,8 +14563,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T08:15:38.841437+00:00",
-   "looked_up": "2026-11-09T12:01:22+00:00",
+   "expires": "2027-02-04T10:25:44.425344+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -18249,6 +18275,11 @@
    "status": "found",
    "year": 2026
   },
+  "skyroot-aerospace|swe|l1": {
+   "expires": "2026-11-28T03:28:53.188081+00:00",
+   "looked_up": "2026-11-09T13:01:27+00:00",
+   "status": "not_found"
+  },
   "slbglobal|fullstack|l1": {
    "expires": "2026-11-13T00:54:03.454684+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
@@ -20884,11 +20915,6 @@
    "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
-  "truetechpro|fullstack|l1": {
-   "expires": "2026-11-09T12:47:11.407918+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "trustgrid™|swe|l1": {
    "expires": "2026-11-14T13:24:54.225708+00:00",
    "looked_up": "2026-11-04T10:01:28+00:00",
@@ -23193,8 +23219,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 939,
-  "lookups_today": 44,
+  "lookups_month": 945,
+  "lookups_today": 50,
   "month": "2026-11"
  }
 }
