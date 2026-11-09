@@ -367,11 +367,6 @@
    "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
-  "accolade-electronics|swe|l1": {
-   "expires": "2026-11-09T21:13:31.720636+00:00",
-   "looked_up": "2026-10-30T08:01:29+00:00",
-   "status": "not_found"
-  },
   "accurate-background|swe|l2": {
    "expires": "2026-11-28T09:33:01.374130+00:00",
    "looked_up": "2026-11-07T17:01:25+00:00",
@@ -2203,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:33:28.175061+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
+   "expires": "2027-02-01T17:45:21.313837+00:00",
+   "looked_up": "2026-11-09T22:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2401,11 +2396,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "avoca-ai|swe|l1": {
-   "expires": "2026-11-09T21:41:38.620930+00:00",
-   "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
   },
   "axa-global-business-services-axa-gbs|swe|l1": {
    "expires": "2026-11-18T15:36:08.344965+00:00",
@@ -6158,11 +6148,6 @@
    "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
-  "dunnhumby|data|l1": {
-   "expires": "2026-11-09T21:07:21.278650+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -8634,6 +8619,11 @@
    "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
   },
+  "gravyn-app|frontend|l1": {
+   "expires": "2026-11-29T18:28:56.635386+00:00",
+   "looked_up": "2026-11-09T22:01:23+00:00",
+   "status": "not_found"
+  },
   "grayson-talent-management-solutions|swe|l1": {
    "expires": "2026-11-18T04:58:37.090031+00:00",
    "looked_up": "2026-11-04T15:01:31+00:00",
@@ -9266,11 +9256,6 @@
    "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
-  "hiringhood|data|l1": {
-   "expires": "2026-11-09T21:49:50.597649+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
-   "status": "not_found"
-  },
   "hirojet|data|l1": {
    "expires": "2026-11-13T22:35:01.022917+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
@@ -9809,11 +9794,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "icapital-network-inc|swe|l1": {
-   "expires": "2026-11-09T21:56:34.299654+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
-   "status": "not_found"
   },
   "icemarkets|mobile|l1": {
    "basis": "posted",
@@ -10386,11 +10366,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "infotechbrains|swe|l1": {
-   "expires": "2026-11-09T21:32:46.976177+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
-   "status": "not_found"
   },
   "infotel|fullstack|l1": {
    "basis": "ctc",
@@ -14603,8 +14578,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:23:05.906559+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
+   "expires": "2027-02-04T22:09:53.542605+00:00",
+   "looked_up": "2026-11-09T22:01:23+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -16351,6 +16326,11 @@
   "qualityaigroup|erp|l1": {
    "expires": "2026-11-11T08:16:43.284200+00:00",
    "looked_up": "2026-10-23T01:01:23+00:00",
+   "status": "not_found"
+  },
+  "qualityenterprises|fullstack|l1": {
+   "expires": "2026-11-21T16:56:34.335837+00:00",
+   "looked_up": "2026-11-09T22:01:23+00:00",
    "status": "not_found"
   },
   "qualys|devops|l1": {
@@ -18220,11 +18200,6 @@
   "siraj-software-solution|frontend|l1": {
    "expires": "2026-11-18T15:03:22.676032+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "sirasoft-consultancy-services|swe|l1": {
-   "expires": "2026-11-09T21:27:20.126665+00:00",
-   "looked_up": "2026-10-23T08:01:27+00:00",
    "status": "not_found"
   },
   "sirionclm|devops|l1": {
@@ -23281,8 +23256,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 982,
-  "lookups_today": 87,
+  "lookups_month": 984,
+  "lookups_today": 89,
   "month": "2026-11"
  }
 }
