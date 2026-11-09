@@ -2203,8 +2203,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:57:42.362019+00:00",
-   "looked_up": "2026-11-09T20:01:20+00:00",
+   "expires": "2027-02-04T15:33:28.175061+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -5207,6 +5207,11 @@
   "criclive-in|swe|l1": {
    "expires": "2026-11-19T02:11:21.355872+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
+   "status": "not_found"
+  },
+  "crossinghurdles|data|l1": {
+   "expires": "2026-11-18T12:02:23.507889+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
   "crossinghurdles|frontend|l1": {
@@ -10450,11 +10455,6 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
-  "infrasingularity|devops|l1": {
-   "expires": "2026-11-09T20:30:28.041170+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "infratech-insights|mobile|l1": {
    "expires": "2026-11-15T11:04:01.689954+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -10468,6 +10468,11 @@
   "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
    "expires": "2026-11-19T00:07:02.556331+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
+  "ingersoll-rand|swe|l1": {
+   "expires": "2026-11-30T19:51:47.930269+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
   "ingram-micro|swe|l1": {
@@ -10857,6 +10862,11 @@
    "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
+  "ishift4cloud|swe|l1": {
+   "expires": "2026-11-28T05:53:24.594071+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11230,6 +11240,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "joraiq-ai|fullstack|l1": {
+   "expires": "2026-11-27T03:10:19.312221+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
   },
   "jpmorganchase|devops|l2": {
    "basis": "base",
@@ -11807,11 +11822,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "krishna-s-herbal-ayurveda|fullstack|l1": {
-   "expires": "2026-11-09T20:53:39.437915+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
   },
   "krusam-technologies-pvt-ltd|frontend|l1": {
    "expires": "2026-11-23T05:27:18.090825+00:00",
@@ -13616,6 +13626,11 @@
    "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
+  "msr-technology-group|swe|l1": {
+   "expires": "2026-11-17T00:55:37.056311+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
   "msx-international|swe|l1": {
    "expires": "2026-11-15T00:04:57.636211+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -13864,11 +13879,6 @@
   "neevglobal|erp|l1": {
    "expires": "2026-11-26T09:02:39.653621+00:00",
    "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
-  },
-  "neevglobal|swe|l1": {
-   "expires": "2026-11-09T20:14:57.436854+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
   },
   "nekss-pvt-ltd|swe|l1": {
@@ -14593,8 +14603,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T23:03:32.661461+00:00",
-   "looked_up": "2026-11-09T20:01:20+00:00",
+   "expires": "2027-02-03T19:23:05.906559+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -17996,11 +18006,6 @@
    "looked_up": "2026-11-07T06:01:18+00:00",
    "status": "not_found"
   },
-  "shriramgeneralinsurance|frontend|l1": {
-   "expires": "2026-11-09T20:21:00.138339+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
-   "status": "not_found"
-  },
   "shriramgeneralinsurance|swe|l1": {
    "expires": "2026-11-11T17:11:29.643645+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
@@ -19086,6 +19091,11 @@
   "superfan-ng|fullstack|l1": {
    "expires": "2026-11-15T14:04:27.843847+00:00",
    "looked_up": "2026-10-25T17:01:23+00:00",
+   "status": "not_found"
+  },
+  "superfan-ng|mobile|l1": {
+   "expires": "2026-11-27T12:25:22.843525+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
   "superfan-ng|swe|l1": {
@@ -21001,11 +21011,6 @@
    "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
-  "twelve-twelve|swe|l1": {
-   "expires": "2026-11-09T20:11:57.037789+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
   "tyson-foods|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22623,6 +22628,11 @@
    ],
    "status": "found"
   },
+  "workmatescore2cloud|swe|l1": {
+   "expires": "2026-11-19T05:36:34.813567+00:00",
+   "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
   "workowon|data|l1": {
    "expires": "2026-11-12T20:06:52.052797+00:00",
    "looked_up": "2026-10-26T18:01:27+00:00",
@@ -23271,8 +23281,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 975,
-  "lookups_today": 80,
+  "lookups_month": 982,
+  "lookups_today": 87,
   "month": "2026-11"
  }
 }
