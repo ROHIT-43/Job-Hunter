@@ -1718,11 +1718,6 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
-  "appsavio|erp|l1": {
-   "expires": "2026-11-09T08:02:01.215869+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
   "aptask|erp|l1": {
    "expires": "2026-11-25T14:24:04.860396+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
@@ -2222,6 +2217,11 @@
   "auo-mobility-solutions|devops|l1": {
    "expires": "2026-11-19T11:13:15.243375+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "aurora-jobs-ai|swe|l1": {
+   "expires": "2026-11-29T15:57:48.372008+00:00",
+   "looked_up": "2026-11-09T09:01:23+00:00",
    "status": "not_found"
   },
   "auto-data-catalog|swe|l1": {
@@ -5450,11 +5450,6 @@
    ],
    "status": "found"
   },
-  "dabstergroupuk|erp|l1": {
-   "expires": "2026-11-09T08:28:02.200048+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
-   "status": "not_found"
-  },
   "danfoss|security|l1": {
    "expires": "2026-11-09T19:02:33.880436+00:00",
    "looked_up": "2026-10-30T18:01:27+00:00",
@@ -7739,6 +7734,22 @@
    "expires": "2026-11-18T02:03:35.117502+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
+  },
+  "fujitsu|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T23:43:10.480102+00:00",
+   "looked_up": "2026-11-09T09:01:23+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 5.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/fujitsu-salaries/software-developer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "fujitsu|swe|l1": {
    "basis": "ctc",
@@ -14303,6 +14314,26 @@
    "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
+  "nuawoman|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T07:08:31.051536+00:00",
+   "looked_up": "2026-11-09T09:01:23+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nua-salaries/sde1"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nua-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "numentica-llc|frontend|l1": {
    "expires": "2026-11-13T00:17:43.553284+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
@@ -17867,11 +17898,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "siemens-healthineers|devops|l1": {
-   "expires": "2026-11-09T08:09:14.305916+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
   },
   "siemens-healthineers|frontend|l1": {
    "basis": "ctc",
@@ -23092,8 +23118,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 919,
-  "lookups_today": 24,
+  "lookups_month": 922,
+  "lookups_today": 27,
   "month": "2026-11"
  }
 }
