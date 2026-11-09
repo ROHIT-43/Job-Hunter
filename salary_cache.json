@@ -1559,8 +1559,8 @@
    "status": "not_found"
   },
   "anr-business-consulting|erp|l1": {
-   "expires": "2026-11-09T02:12:21.812152+00:00",
-   "looked_up": "2026-11-01T21:01:25+00:00",
+   "expires": "2026-11-22T14:49:11.415819+00:00",
+   "looked_up": "2026-11-09T03:01:22+00:00",
    "status": "not_found"
   },
   "anr-business-consulting|swe|l1": {
@@ -5357,11 +5357,6 @@
   "cybrogix|fullstack|l1": {
    "expires": "2026-11-21T09:42:55.518064+00:00",
    "looked_up": "2026-11-02T03:01:30+00:00",
-   "status": "not_found"
-  },
-  "cygnus-professionals-inc-|devops|l1": {
-   "expires": "2026-11-09T02:48:30.462986+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
    "status": "not_found"
   },
   "cyient|swe|l1": {
@@ -11478,6 +11473,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "kheewaincorporation|mobile|l1": {
+   "expires": "2026-11-20T21:21:17.019627+00:00",
+   "looked_up": "2026-11-09T03:01:22+00:00",
+   "status": "not_found"
+  },
   "kinaxis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14527,11 +14527,6 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
-  "onarrival-travel|swe|l1": {
-   "expires": "2026-11-09T02:39:54.955613+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
-   "status": "not_found"
-  },
   "one-advanced|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15487,11 +15482,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "populace-world-solutions|devops|l1": {
-   "expires": "2026-11-09T02:28:26.801713+00:00",
-   "looked_up": "2026-10-19T10:01:24+00:00",
-   "status": "not_found"
   },
   "postaresume|devops|l1": {
    "basis": "posted",
@@ -23021,11 +23011,6 @@
    "looked_up": "2026-11-02T15:01:34+00:00",
    "status": "not_found"
   },
-  "zimmerbiomet|frontend|l1": {
-   "expires": "2026-11-09T02:16:44.920029+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
-  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-20T04:22:28.430980+00:00",
    "looked_up": "2026-11-06T15:01:20+00:00",
@@ -23090,8 +23075,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 897,
-  "lookups_today": 2,
+  "lookups_month": 899,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
