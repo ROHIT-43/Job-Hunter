@@ -756,6 +756,26 @@
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
+  "airtel|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T10:58:22.409580+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
+   "max_lpa": 14.8,
+   "min_lpa": 12.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bharti-airtel-salaries/sde1"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bharti-airtel-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2022
+  },
   "aisensyofficial|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -1065,11 +1085,6 @@
   },
   "alternativepath|fullstack|l1": {
    "expires": "2026-11-16T00:09:45.459473+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "altumlabs|erp|l1": {
-   "expires": "2026-11-09T06:30:28.203822+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
@@ -5491,6 +5506,11 @@
    "looked_up": "2026-11-07T04:01:12+00:00",
    "status": "not_found"
   },
+  "databerry-technologies-pvt-ltd|devops|l1": {
+   "expires": "2026-11-26T07:43:10.265247+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "datae2e|devops|l1": {
    "expires": "2026-11-27T05:47:33.293661+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
@@ -6849,6 +6869,11 @@
   "exatech-inc|swe|l1": {
    "expires": "2026-11-18T01:24:35.447736+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
+   "status": "not_found"
+  },
+  "exl-service|data|l1": {
+   "expires": "2026-11-18T20:46:25.680756+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
   "exl-service|devops|l1": {
@@ -8475,6 +8500,11 @@
    "status": "found",
    "year": 2026
   },
+  "gostride-ventures|swe|l1": {
+   "expires": "2026-11-25T04:51:49.913669+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "govt-women-s-college-baripada|swe|l1": {
    "expires": "2026-11-23T12:34:44.358972+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -9531,11 +9561,6 @@
   "hyster-yale-group|swe|l1": {
    "expires": "2026-11-10T22:32:42.074434+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "i-novate-technologies-ltd|erp|l1": {
-   "expires": "2026-11-09T06:34:35.628961+00:00",
-   "looked_up": "2026-10-19T09:01:23+00:00",
    "status": "not_found"
   },
   "ibee-solutions|swe|l1": {
@@ -11296,6 +11321,11 @@
    "looked_up": "2026-11-06T09:01:17+00:00",
    "status": "not_found"
   },
+  "kanerika|data|l1": {
+   "expires": "2026-11-17T03:14:58.401147+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
+   "status": "not_found"
+  },
   "kapivaayurveda|fullstack|l2": {
    "expires": "2026-11-17T06:59:54.101760+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
@@ -11452,6 +11482,11 @@
   "kheewaincorporation|mobile|l1": {
    "expires": "2026-11-20T21:21:17.019627+00:00",
    "looked_up": "2026-11-09T03:01:22+00:00",
+   "status": "not_found"
+  },
+  "kheewaincorporation|swe|l1": {
+   "expires": "2026-11-23T19:21:49.593795+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
   "kinaxis|swe|l1": {
@@ -14508,11 +14543,6 @@
    "looked_up": "2026-10-31T11:01:28+00:00",
    "status": "not_found"
   },
-  "omnissa|swe|l1": {
-   "expires": "2026-11-09T06:37:17.342658+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "one-advanced|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16816,6 +16846,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "rnptech|fullstack|l1": {
+   "expires": "2026-11-24T20:45:38.469779+00:00",
+   "looked_up": "2026-11-09T07:01:24+00:00",
+   "status": "not_found"
   },
   "rntbc_chennai|swe|l1": {
    "basis": "ctc",
@@ -20859,11 +20894,6 @@
    "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
-  "ubs|erp|l1": {
-   "expires": "2026-11-09T06:36:28.809451+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
-  },
   "ucamind|swe|l1": {
    "expires": "2026-11-19T09:45:36.211532+00:00",
    "looked_up": "2026-11-03T23:01:40+00:00",
@@ -23041,8 +23071,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 906,
-  "lookups_today": 11,
+  "lookups_month": 913,
+  "lookups_today": 18,
   "month": "2026-11"
  }
 }
