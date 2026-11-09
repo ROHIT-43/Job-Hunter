@@ -4347,11 +4347,6 @@
    "status": "found",
    "year": 2026
   },
-  "cloud-is-good|erp|l1": {
-   "expires": "2026-11-09T14:45:19.966475+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
   "cloudesign|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5094,6 +5089,11 @@
   "coreel-technologies|swe|l1": {
    "expires": "2026-11-15T15:21:09.173374+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
+   "status": "not_found"
+  },
+  "corereflexs|swe|l1": {
+   "expires": "2026-11-25T16:35:19.415856+00:00",
+   "looked_up": "2026-11-09T15:01:24+00:00",
    "status": "not_found"
   },
   "cornerstoneondemand|swe|l1": {
@@ -5856,11 +5856,6 @@
    "status": "found",
    "year": 2026
   },
-  "dhruv-soft|swe|l1": {
-   "expires": "2026-11-09T14:37:18.667684+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "diageo|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6112,11 +6107,6 @@
   "dtcc|data|l1": {
    "expires": "2026-11-15T09:14:25.874170+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
-  "dtcc|security|l1": {
-   "expires": "2026-11-09T14:13:31.511212+00:00",
-   "looked_up": "2026-10-27T16:01:28+00:00",
    "status": "not_found"
   },
   "dun-&amp;-bradstreet|data|l1": {
@@ -8003,11 +7993,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "genesis-global-technology|swe|l1": {
-   "expires": "2026-11-09T14:25:34.123084+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
   },
   "genpact|erp|l1": {
    "basis": "ctc",
@@ -14568,8 +14553,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T02:36:40.729792+00:00",
-   "looked_up": "2026-11-09T14:01:26+00:00",
+   "expires": "2027-02-12T13:41:50.147044+00:00",
+   "looked_up": "2026-11-09T15:01:24+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -20287,11 +20272,6 @@
    "looked_up": "2026-10-22T18:01:28+00:00",
    "status": "not_found"
   },
-  "the-urbanindia|frontend|l1": {
-   "expires": "2026-11-09T14:56:28.630999+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
-  },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23214,8 +23194,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 950,
-  "lookups_today": 55,
+  "lookups_month": 951,
+  "lookups_today": 56,
   "month": "2026-11"
  }
 }
