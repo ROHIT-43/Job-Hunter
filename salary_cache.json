@@ -2198,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T17:45:21.313837+00:00",
-   "looked_up": "2026-11-09T22:01:23+00:00",
+   "expires": "2027-02-08T16:34:41.566714+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -5420,6 +5420,11 @@
    "status": "found",
    "year": 2026
   },
+  "cyber1armorofficial|data|l1": {
+   "expires": "2026-11-30T00:32:44.698431+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
+   "status": "not_found"
+  },
   "cyberbizztechnologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6622,11 +6627,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "equifax|erp|l1": {
-   "expires": "2026-11-09T22:08:14.613614+00:00",
-   "looked_up": "2026-10-29T19:01:27+00:00",
-   "status": "not_found"
   },
   "equifax|swe|l1": {
    "expires": "2026-11-15T18:19:22.883705+00:00",
@@ -11726,6 +11726,11 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
+  "kpg-99-inc-|erp|l1": {
+   "expires": "2026-11-25T04:29:33.909134+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
+   "status": "not_found"
+  },
   "kpmg-us|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12209,11 +12214,6 @@
     }
    ],
    "status": "found"
-  },
-  "locavanties|swe|l1": {
-   "expires": "2026-11-09T22:02:28.479557+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
   },
   "logicmonitor|devops|l1": {
    "expires": "2026-11-20T02:48:46.682498+00:00",
@@ -13988,11 +13988,6 @@
    "looked_up": "2026-10-23T07:01:26+00:00",
    "status": "not_found"
   },
-  "nexanor|swe|l1": {
-   "expires": "2026-11-09T22:44:27.868201+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "nexcope|swe|l1": {
    "expires": "2026-11-22T09:39:50.740890+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
@@ -14578,8 +14573,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T22:09:53.542605+00:00",
-   "looked_up": "2026-11-09T22:01:23+00:00",
+   "expires": "2027-02-06T05:03:41.820391+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -18912,6 +18907,11 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
+  "stefanini-na-apac|erp|l1": {
+   "expires": "2026-11-26T14:39:16.579429+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
+   "status": "not_found"
+  },
   "stefanini-na-apac|erp|l2": {
    "expires": "2026-11-15T19:18:32.982688+00:00",
    "looked_up": "2026-10-26T18:01:27+00:00",
@@ -20253,6 +20253,11 @@
    "status": "found",
    "year": 2026
   },
+  "thashortofit|fullstack|l1": {
+   "expires": "2026-11-26T02:43:52.082295+00:00",
+   "looked_up": "2026-11-09T23:01:26+00:00",
+   "status": "not_found"
+  },
   "the-aes-group|swe|l1": {
    "expires": "2026-11-23T15:56:35.347537+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -21510,11 +21515,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "valgenesis-inc|swe|l1": {
-   "expires": "2026-11-09T22:53:54.828004+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
   },
   "valmet|swe|l1": {
    "basis": "ctc",
@@ -23256,8 +23256,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 984,
-  "lookups_today": 89,
+  "lookups_month": 988,
+  "lookups_today": 93,
   "month": "2026-11"
  }
 }
