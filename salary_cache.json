@@ -1949,6 +1949,11 @@
    "looked_up": "2026-11-07T19:01:18+00:00",
    "status": "not_found"
   },
+  "arvvenza-realty|swe|l1": {
+   "expires": "2026-11-19T19:43:46.368826+00:00",
+   "looked_up": "2026-11-09T05:01:20+00:00",
+   "status": "not_found"
+  },
   "asap-infotech|erp|l1": {
    "expires": "2026-11-12T22:24:15.468376+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -5783,11 +5788,6 @@
     }
    ],
    "status": "found"
-  },
-  "dexlerenergy|fullstack|l1": {
-   "expires": "2026-11-09T04:30:25.533638+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
   },
   "dhl|devops|l1": {
    "expires": "2026-11-22T01:46:40.378786+00:00",
@@ -11680,6 +11680,11 @@
    "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
+  "krusam-technologies-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-23T05:27:18.090825+00:00",
+   "looked_up": "2026-11-09T05:01:20+00:00",
+   "status": "not_found"
+  },
   "ktree-com|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14020,6 +14025,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "nitiaide|mobile|l1": {
+   "expires": "2026-11-28T23:44:40.262759+00:00",
+   "looked_up": "2026-11-09T05:01:20+00:00",
+   "status": "not_found"
   },
   "nitrocommerce|devops|l1": {
    "expires": "2026-11-17T09:07:49.369742+00:00",
@@ -23055,8 +23065,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 899,
-  "lookups_today": 4,
+  "lookups_month": 902,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
