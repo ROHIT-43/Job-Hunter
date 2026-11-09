@@ -10063,11 +10063,6 @@
    "looked_up": "2026-10-26T06:17:27+00:00",
    "status": "not_found"
   },
-  "infolitz-software|swe|l1": {
-   "expires": "2026-11-09T01:55:30.055937+00:00",
-   "looked_up": "2026-10-20T20:01:26+00:00",
-   "status": "not_found"
-  },
   "informatrixit|devops|l1": {
    "expires": "2026-11-19T17:21:24.245641+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
@@ -11483,11 +11478,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "kidde-global-solutions|mobile|l1": {
-   "expires": "2026-11-09T01:17:55.342691+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "kinaxis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12268,11 +12258,6 @@
    "status": "found",
    "year": 2021
   },
-  "loyaltytown|swe|l1": {
-   "expires": "2026-11-09T01:42:52.089889+00:00",
-   "looked_up": "2026-10-22T02:01:24+00:00",
-   "status": "not_found"
-  },
   "lpl-global-capability-center|frontend|l1": {
    "expires": "2026-11-16T21:03:54.426984+00:00",
    "looked_up": "2026-11-07T12:01:20+00:00",
@@ -12604,11 +12589,6 @@
   "marriage-media-gulshan-uttara-dhaka-bangladesh-ghotok-matrimony|frontend|l1": {
    "expires": "2026-11-16T13:45:21.821317+00:00",
    "looked_up": "2026-11-03T22:01:33+00:00",
-   "status": "not_found"
-  },
-  "marslytics|data|l1": {
-   "expires": "2026-11-09T01:15:37.367869+00:00",
-   "looked_up": "2026-10-21T19:01:32+00:00",
    "status": "not_found"
   },
   "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
@@ -17761,6 +17741,11 @@
   "shine-infosoft|swe|l1": {
    "expires": "2026-11-18T17:50:20.053343+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
+   "status": "not_found"
+  },
+  "shining-3d-tech-co-ltd-|swe|l1": {
+   "expires": "2026-11-22T17:54:50.906721+00:00",
+   "looked_up": "2026-11-09T02:01:18+00:00",
    "status": "not_found"
   },
   "shivara|mobile|l1": {
@@ -23105,8 +23090,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 896,
-  "lookups_today": 1,
+  "lookups_month": 897,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
