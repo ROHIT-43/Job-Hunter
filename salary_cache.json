@@ -5754,11 +5754,6 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
-  "dentsuglobalservices|frontend|l1": {
-   "expires": "2026-11-09T10:14:54.397994+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "dentsuglobalservices|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7027,6 +7022,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "experityhealth|data|l2": {
+   "expires": "2026-11-25T17:40:32.718431+00:00",
+   "looked_up": "2026-11-09T11:01:23+00:00",
+   "status": "not_found"
   },
   "experityhealth|swe|l2": {
    "expires": "2026-11-12T05:46:22.542966+00:00",
@@ -9586,6 +9586,11 @@
    "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
+  "hyper-lychee-labs|swe|l1": {
+   "expires": "2026-11-22T02:39:42.771119+00:00",
+   "looked_up": "2026-11-09T11:01:23+00:00",
+   "status": "not_found"
+  },
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -11513,11 +11518,6 @@
   },
   "keywordsstudios|devops|l1": {
    "expires": "2026-11-11T18:06:20.455581+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "keywordsstudios|swe|l1": {
-   "expires": "2026-11-09T10:03:05.204877+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
@@ -14340,6 +14340,11 @@
    "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
+  "ntt-data-inc|security|l1": {
+   "expires": "2026-11-22T17:13:07.591536+00:00",
+   "looked_up": "2026-11-09T11:01:23+00:00",
+   "status": "not_found"
+  },
   "nuawoman|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14498,6 +14503,20 @@
    "expires": "2026-11-10T19:44:47.148017+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
+  },
+  "objectide|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-09T22:31:00.009491+00:00",
+   "looked_up": "2026-11-09T11:01:23+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "oceaneering|swe|l1": {
    "basis": "ctc",
@@ -17155,6 +17174,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "safeaiglobal|fullstack|l1": {
+   "expires": "2026-11-29T23:28:34.678564+00:00",
+   "looked_up": "2026-11-09T11:01:23+00:00",
+   "status": "not_found"
   },
   "saffiretech|frontend|l1": {
    "basis": "ctc",
@@ -22341,11 +22365,6 @@
    "looked_up": "2026-10-31T19:01:30+00:00",
    "status": "not_found"
   },
-  "whirlpool-of-india|swe|l1": {
-   "expires": "2026-11-09T10:40:49.741233+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
   "whitehall-resources|erp|l1": {
    "expires": "2026-11-13T15:04:55.281553+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -23149,8 +23168,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 927,
-  "lookups_today": 32,
+  "lookups_month": 931,
+  "lookups_today": 36,
   "month": "2026-11"
  }
 }
