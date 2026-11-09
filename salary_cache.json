@@ -111,14 +111,14 @@
    "looked_up": "2026-11-09T12:01:22+00:00",
    "status": "not_found"
   },
+  "9sprints|devops|l1": {
+   "expires": "2026-11-27T22:53:11.267649+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
   "aalim-muhammed-salegh-college-of-engineering|swe|l1": {
    "expires": "2026-11-12T13:24:04.178759+00:00",
    "looked_up": "2026-11-04T14:01:32+00:00",
-   "status": "not_found"
-  },
-  "aarleez-consultancy-services-acs-pvt-ltd|mobile|l1": {
-   "expires": "2026-11-09T19:22:31.326267+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
    "status": "not_found"
   },
   "aayaninfotech|swe|l1": {
@@ -1728,6 +1728,11 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
+  "appzlogic|swe|l1": {
+   "expires": "2026-11-24T02:29:03.126038+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
   "aptask|erp|l1": {
    "expires": "2026-11-25T14:24:04.860396+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
@@ -2198,8 +2203,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:14:59.835421+00:00",
-   "looked_up": "2026-11-09T19:01:30+00:00",
+   "expires": "2027-02-08T20:57:42.362019+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -5513,11 +5518,6 @@
     }
    ],
    "status": "found"
-  },
-  "danfoss|security|l1": {
-   "expires": "2026-11-09T19:02:33.880436+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
-   "status": "not_found"
   },
   "danfoss|swe|l1": {
    "basis": "ctc",
@@ -9617,11 +9617,6 @@
   "huntingcubeai|swe|l1": {
    "expires": "2026-11-13T02:28:11.097874+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
-  },
-  "huntingcubeai|swe|l3": {
-   "expires": "2026-11-09T19:03:36.865418+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
    "status": "not_found"
   },
   "huronconsulting|erp|l1": {
@@ -14598,8 +14593,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:36:59.913934+00:00",
-   "looked_up": "2026-11-09T19:01:30+00:00",
+   "expires": "2027-02-05T23:03:32.661461+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -15504,11 +15499,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "philips|swe|l1": {
-   "expires": "2026-11-09T19:06:49.692729+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
-   "status": "not_found"
   },
   "phonepe-internet|devops|l1": {
    "basis": "base",
@@ -16697,11 +16687,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "real-time-applications-center|devops|l1": {
-   "expires": "2026-11-09T19:45:50.063023+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
   "real-time-applications-center|swe|l1": {
    "expires": "2026-11-13T15:57:11.405483+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -17204,6 +17189,11 @@
   "s-j-c-nexus|swe|l1": {
    "expires": "2026-11-15T08:51:53.135601+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "saathapp-tech|swe|l1": {
+   "expires": "2026-11-26T15:44:09.037980+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|data|l1": {
@@ -21698,6 +21688,11 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
+  "verisk-analytics|security|l2": {
+   "expires": "2026-11-20T08:31:50.566398+00:00",
+   "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
   "veritymd|swe|l1": {
    "expires": "2026-11-10T01:23:07.511586+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -23276,8 +23271,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 971,
-  "lookups_today": 76,
+  "lookups_month": 975,
+  "lookups_today": 80,
   "month": "2026-11"
  }
 }
