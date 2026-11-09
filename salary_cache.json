@@ -2275,6 +2275,22 @@
    "looked_up": "2026-11-03T23:01:40+00:00",
    "status": "not_found"
   },
+  "avance-services|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T21:52:08.561562+00:00",
+   "looked_up": "2026-11-09T06:01:20+00:00",
+   "max_lpa": 3.7,
+   "min_lpa": 2.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/avance-consulting-services-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "avathonai|mobile|l1": {
    "expires": "2026-11-09T06:14:14.350244+00:00",
    "looked_up": "2026-10-26T19:01:28+00:00",
@@ -3140,6 +3156,11 @@
   "bornsec|security|l1": {
    "expires": "2026-11-23T09:06:21.329751+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
+   "status": "not_found"
+  },
+  "bosch-global-software-technologies|swe|l1": {
+   "expires": "2026-11-26T07:56:37.668282+00:00",
+   "looked_up": "2026-11-09T06:01:20+00:00",
    "status": "not_found"
   },
   "boston-consulting-group|swe|l1": {
@@ -4261,14 +4282,14 @@
    "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
-  "citi|swe|l1": {
-   "expires": "2026-11-09T05:38:38.321783+00:00",
-   "looked_up": "2026-10-26T23:01:33+00:00",
-   "status": "not_found"
-  },
   "cleanstart-official|fullstack|l1": {
    "expires": "2026-11-10T20:07:32.913322+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "clearinfosec|security|l1": {
+   "expires": "2026-11-24T16:49:49.495667+00:00",
+   "looked_up": "2026-11-09T06:01:20+00:00",
    "status": "not_found"
   },
   "clearwater-security-llc|security|l1": {
@@ -5102,11 +5123,6 @@
   "creospan|frontend|l1": {
    "expires": "2026-11-17T17:24:18.920141+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
-   "status": "not_found"
-  },
-  "cricheroes|mobile|l1": {
-   "expires": "2026-11-09T05:24:40.908477+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
   "crossinghurdles|frontend|l1": {
@@ -9078,11 +9094,6 @@
    "looked_up": "2026-11-07T08:01:19+00:00",
    "status": "not_found"
   },
-  "hinduja-global-solutions-inc--|swe|l1": {
-   "expires": "2026-11-09T05:25:57.418676+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
   "hindustan-brass-industries|swe|l1": {
    "expires": "2026-11-26T21:09:17.022814+00:00",
    "looked_up": "2026-11-06T16:01:16+00:00",
@@ -10791,11 +10802,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "itesterinc|swe|l1": {
-   "expires": "2026-11-09T05:28:47.813265+00:00",
-   "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
   },
   "itilite|swe|l1": {
    "expires": "2026-11-18T06:30:03.211929+00:00",
@@ -16902,11 +16908,6 @@
    "looked_up": "2026-11-05T20:01:22+00:00",
    "status": "not_found"
   },
-  "round1-jobs|frontend|l1": {
-   "expires": "2026-11-09T05:38:38.956644+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
-  },
   "rskiec|devops|l1": {
    "expires": "2026-11-16T03:01:46.238201+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -19650,11 +19651,6 @@
    "status": "found",
    "year": 2024
   },
-  "techdoquest|swe|l1": {
-   "expires": "2026-11-09T05:19:13.957400+00:00",
-   "looked_up": "2026-10-25T13:01:26+00:00",
-   "status": "not_found"
-  },
   "techflex-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T02:54:05.344790+00:00",
    "looked_up": "2026-11-04T02:01:37+00:00",
@@ -21459,6 +21455,11 @@
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
+  "veltique-software|erp|l1": {
+   "expires": "2026-11-17T23:13:50.509540+00:00",
+   "looked_up": "2026-11-09T06:01:20+00:00",
+   "status": "not_found"
+  },
   "venture-intelligence|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23065,8 +23066,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 902,
-  "lookups_today": 7,
+  "lookups_month": 906,
+  "lookups_today": 11,
   "month": "2026-11"
  }
 }
