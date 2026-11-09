@@ -5140,6 +5140,11 @@
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
+  "criclive-in|swe|l1": {
+   "expires": "2026-11-19T02:11:21.355872+00:00",
+   "looked_up": "2026-11-09T10:01:22+00:00",
+   "status": "not_found"
+  },
   "crossinghurdles|frontend|l1": {
    "expires": "2026-11-20T19:58:23.031662+00:00",
    "looked_up": "2026-11-06T15:01:20+00:00",
@@ -5732,6 +5737,11 @@
   "delphie-consulting-services|mobile|l1": {
    "expires": "2026-11-11T00:20:29.777026+00:00",
    "looked_up": "2026-10-26T08:01:27+00:00",
+   "status": "not_found"
+  },
+  "delta-technology-hub|erp|l1": {
+   "expires": "2026-11-29T00:24:26.532946+00:00",
+   "looked_up": "2026-11-09T10:01:22+00:00",
    "status": "not_found"
   },
   "delta-technology-hub|swe|l1": {
@@ -8929,6 +8939,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hclsoftware|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T23:28:46.926648+00:00",
+   "looked_up": "2026-11-09T10:01:22+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/hclsoftware"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "hcltech|security|l1": {
    "basis": "ctc",
@@ -15641,6 +15667,11 @@
    "status": "found",
    "year": 2024
   },
+  "ppfas-mutual-fund|swe|l1": {
+   "expires": "2026-11-21T23:26:58.959451+00:00",
+   "looked_up": "2026-11-09T10:01:22+00:00",
+   "status": "not_found"
+  },
   "ppstack|swe|l1": {
    "expires": "2026-11-24T04:55:58.618747+00:00",
    "looked_up": "2026-11-03T16:01:30+00:00",
@@ -18431,11 +18462,6 @@
   "softkode|fullstack|l1": {
    "expires": "2026-11-14T18:42:34.823401+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "softmivix|frontend|l1": {
-   "expires": "2026-11-09T09:53:27.062296+00:00",
-   "looked_up": "2026-10-27T20:01:24+00:00",
    "status": "not_found"
   },
   "softniceuklimited|fullstack|l1": {
@@ -21586,6 +21612,11 @@
    "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
+  "vervotech|swe|l2": {
+   "expires": "2026-11-18T01:58:08.525101+00:00",
+   "looked_up": "2026-11-09T10:01:22+00:00",
+   "status": "not_found"
+  },
   "veticin|swe|l1": {
    "expires": "2026-11-10T01:50:46.175250+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -23118,8 +23149,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 922,
-  "lookups_today": 27,
+  "lookups_month": 927,
+  "lookups_today": 32,
   "month": "2026-11"
  }
 }
