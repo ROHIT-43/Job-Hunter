@@ -3086,6 +3086,11 @@
    "status": "found",
    "year": 2026
   },
+  "boa-xr|swe|l1": {
+   "expires": "2026-11-24T22:54:34.888307+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
+  },
   "boeing|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5145,6 +5150,11 @@
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
+  "criclive-in|fullstack|l1": {
+   "expires": "2026-11-16T21:06:52.609518+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
+  },
   "criclive-in|swe|l1": {
    "expires": "2026-11-19T02:11:21.355872+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
@@ -6218,6 +6228,11 @@
    "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
+  "eclinical-solutions|swe|l1": {
+   "expires": "2026-11-18T14:49:59.962159+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
+  },
   "ecolab|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6806,11 +6821,6 @@
   "eunoia-designtech|swe|l1": {
    "expires": "2026-11-17T15:34:17.682750+00:00",
    "looked_up": "2026-11-01T04:01:23+00:00",
-   "status": "not_found"
-  },
-  "eurofins|frontend|l1": {
-   "expires": "2026-11-09T13:32:42.018710+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
    "status": "not_found"
   },
   "eurofins|fullstack|l1": {
@@ -8722,6 +8732,11 @@
    "status": "found",
    "year": null
   },
+  "guidehouse|security|l1": {
+   "expires": "2026-11-19T11:08:33.677792+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
+  },
   "guidewire-software|devops|l1": {
    "expires": "2026-11-13T01:55:01.179281+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -9992,11 +10007,6 @@
   "ilizien|swe|l1": {
    "expires": "2026-11-13T01:51:52.127275+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
-   "status": "not_found"
-  },
-  "illumina|data|l1": {
-   "expires": "2026-11-09T13:14:14.333615+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "imagineers-group|data|l1": {
@@ -12165,11 +12175,6 @@
   "linde|swe|l1": {
    "expires": "2026-11-10T23:40:08.383486+00:00",
    "looked_up": "2026-10-28T16:01:32+00:00",
-   "status": "not_found"
-  },
-  "linkedin|fullstack|l1": {
-   "expires": "2026-11-09T13:38:47.208131+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "linkedin|swe|l1": {
@@ -14563,8 +14568,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T10:25:44.425344+00:00",
-   "looked_up": "2026-11-09T13:01:27+00:00",
+   "expires": "2027-02-13T02:36:40.729792+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -15806,11 +15811,6 @@
    "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
-  "principle-pride|devops|l1": {
-   "expires": "2026-11-09T13:09:55.316400+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
   "prismberry-technologies|data|l1": {
    "expires": "2026-11-19T16:02:53.082096+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -15889,6 +15889,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "project-44|swe|l1": {
+   "expires": "2026-11-21T09:15:48.670328+00:00",
+   "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
   },
   "project-44|swe|l2": {
    "basis": "base",
@@ -17807,11 +17812,6 @@
   "servcrust|mobile|l1": {
    "expires": "2026-11-23T09:37:03.808430+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
-  "servcrust|swe|l1": {
-   "expires": "2026-11-09T13:57:59.866553+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
   "servicenow|fullstack|l1": {
@@ -21851,11 +21851,6 @@
    ],
    "status": "found"
   },
-  "vispero|swe|l1": {
-   "expires": "2026-11-09T13:30:59.837477+00:00",
-   "looked_up": "2026-10-20T16:01:30+00:00",
-   "status": "not_found"
-  },
   "visteon|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23219,8 +23214,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 945,
-  "lookups_today": 50,
+  "lookups_month": 950,
+  "lookups_today": 55,
   "month": "2026-11"
  }
 }
