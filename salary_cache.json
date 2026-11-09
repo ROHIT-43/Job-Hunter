@@ -223,11 +223,6 @@
    "looked_up": "2026-11-01T05:01:25+00:00",
    "status": "not_found"
   },
-  "accelleron-industries|swe|l1": {
-   "expires": "2026-11-09T07:22:13.587765+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
-   "status": "not_found"
-  },
   "accelonconsulting|swe|l1": {
    "expires": "2026-11-19T14:23:02.994730+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -1606,6 +1601,11 @@
   "apexon|fullstack|l1": {
    "expires": "2026-11-18T04:25:09.888652+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
+   "status": "not_found"
+  },
+  "apexplus-technologies|swe|l1": {
+   "expires": "2026-11-23T01:15:20.985302+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
   "apn-consulting-inc.|swe|l1": {
@@ -3418,6 +3418,11 @@
    "looked_up": "2026-10-28T20:01:30+00:00",
    "status": "not_found"
   },
+  "bruntworkcareers|swe|l1": {
+   "expires": "2026-11-24T04:36:36.079941+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
+   "status": "not_found"
+  },
   "bt|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4069,6 +4074,11 @@
   "centotech|security|l1": {
    "expires": "2026-11-12T04:39:42.555256+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
+   "status": "not_found"
+  },
+  "cerebra-consulting-inc|erp|l1": {
+   "expires": "2026-11-21T22:50:34.883193+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
   "cgi|data|l1": {
@@ -8877,11 +8887,6 @@
    "status": "found",
    "year": 2026
   },
-  "hawkmartech|swe|l1": {
-   "expires": "2026-11-09T07:57:05.508794+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
   "hca-healthcare-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -13052,6 +13057,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "metapoint-tech|security|l1": {
+   "expires": "2026-11-23T13:14:42.695477+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
+   "status": "not_found"
+  },
   "metasys-tech|mobile|l1": {
    "expires": "2026-11-15T10:41:43.178573+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
@@ -13889,6 +13899,11 @@
   "nexanor|swe|l1": {
    "expires": "2026-11-09T22:44:27.868201+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "nexcope|swe|l1": {
+   "expires": "2026-11-22T09:39:50.740890+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
   "nexer-group|fullstack|l1": {
@@ -14924,6 +14939,22 @@
    "expires": "2026-11-16T23:36:37.956985+00:00",
    "looked_up": "2026-10-31T09:01:28+00:00",
    "status": "not_found"
+  },
+  "osf-digital|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T05:35:31.406031+00:00",
+   "looked_up": "2026-11-09T08:01:22+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 5.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/osf-digital-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "others-limited|security|l1": {
    "expires": "2026-11-25T11:54:41.353903+00:00",
@@ -16824,11 +16855,6 @@
   "rivirtual-india|swe|l1": {
    "expires": "2026-11-18T17:18:51.675350+00:00",
    "looked_up": "2026-11-01T21:01:25+00:00",
-   "status": "not_found"
-  },
-  "rivirtual|swe|l1": {
-   "expires": "2026-11-09T07:19:16.013972+00:00",
-   "looked_up": "2026-10-29T04:01:30+00:00",
    "status": "not_found"
   },
   "rmsi|swe|l1": {
@@ -20196,11 +20222,6 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
-  "themesoft-inc.|data|l1": {
-   "expires": "2026-11-09T07:07:19.036078+00:00",
-   "looked_up": "2026-10-29T09:01:32+00:00",
-   "status": "not_found"
-  },
   "themesoft-inc.|erp|l1": {
    "expires": "2026-11-23T05:47:16.652285+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
@@ -23071,8 +23092,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 913,
-  "lookups_today": 18,
+  "lookups_month": 919,
+  "lookups_today": 24,
   "month": "2026-11"
  }
 }
