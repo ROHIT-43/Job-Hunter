@@ -199,11 +199,6 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
-  "acadvizen-digital-marketing-institute|swe|l1": {
-   "expires": "2026-11-09T16:31:20.313642+00:00",
-   "looked_up": "2026-10-26T04:01:24+00:00",
-   "status": "not_found"
-  },
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -231,11 +226,6 @@
   "accelgrowth|erp|l1": {
    "expires": "2026-11-10T09:14:16.745971+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "accelgrowth|swe|l1": {
-   "expires": "2026-11-09T16:27:17.818362+00:00",
-   "looked_up": "2026-11-01T05:01:25+00:00",
    "status": "not_found"
   },
   "accelonconsulting|swe|l1": {
@@ -2269,11 +2259,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "autozone|erp|l1": {
-   "expires": "2026-11-09T16:51:33.242254+00:00",
-   "looked_up": "2026-10-21T18:01:33+00:00",
-   "status": "not_found"
-  },
   "avaloq|devops|l1": {
    "expires": "2026-11-10T20:32:12.661195+00:00",
    "looked_up": "2026-10-21T09:01:36+00:00",
@@ -2705,11 +2690,6 @@
   "bayer|security|l1": {
    "expires": "2026-11-11T22:14:00.020485+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
-  "bcg-x|swe|l1": {
-   "expires": "2026-11-09T16:43:22.723249+00:00",
-   "looked_up": "2026-10-29T15:01:36+00:00",
    "status": "not_found"
   },
   "bctglobal|swe|l1": {
@@ -3912,6 +3892,11 @@
    "looked_up": "2026-10-28T15:01:35+00:00",
    "status": "not_found"
   },
+  "caterpillar-inc|devops|l1": {
+   "expires": "2026-11-24T19:43:55.045430+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
+   "status": "not_found"
+  },
   "caterpillar-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -4315,6 +4300,11 @@
   "cleanstart-official|fullstack|l1": {
    "expires": "2026-11-10T20:07:32.913322+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
+   "status": "not_found"
+  },
+  "cleargrid-ai|swe|l1": {
+   "expires": "2026-11-26T00:03:34.624619+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
    "status": "not_found"
   },
   "clearinfosec|security|l1": {
@@ -5160,6 +5150,11 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
+  "credhive-fintech|swe|l1": {
+   "expires": "2026-11-22T21:26:45.428665+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
+   "status": "not_found"
+  },
   "creospan|frontend|l1": {
    "expires": "2026-11-17T17:24:18.920141+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
@@ -5913,11 +5908,6 @@
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
-  "digicert-inc-|security|l1": {
-   "expires": "2026-11-09T16:52:04.865333+00:00",
-   "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
   "digicert-inc-|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6182,11 +6172,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "dvk-analytics|swe|l1": {
-   "expires": "2026-11-09T16:35:20.710260+00:00",
-   "looked_up": "2026-10-22T07:01:24+00:00",
-   "status": "not_found"
   },
   "eag-softwares-private-limited|erp|l1": {
    "expires": "2026-11-17T04:59:46.309224+00:00",
@@ -8301,11 +8286,6 @@
    "looked_up": "2026-10-25T13:01:26+00:00",
    "status": "not_found"
   },
-  "globus-academy|swe|l1": {
-   "expires": "2026-11-09T16:27:29.329711+00:00",
-   "looked_up": "2026-10-21T17:01:29+00:00",
-   "status": "not_found"
-  },
   "glopros|erp|l1": {
    "expires": "2026-11-13T03:33:37.803135+00:00",
    "looked_up": "2026-11-04T18:01:18+00:00",
@@ -8776,11 +8756,6 @@
   "h-e-services-india|data|l1": {
    "expires": "2026-11-15T02:02:51.098292+00:00",
    "looked_up": "2026-10-29T07:14:15+00:00",
-   "status": "not_found"
-  },
-  "h-e-services-india|erp|l1": {
-   "expires": "2026-11-09T16:26:48.559990+00:00",
-   "looked_up": "2026-10-29T09:01:32+00:00",
    "status": "not_found"
   },
   "h-e-services-india|fullstack|l1": {
@@ -12656,6 +12631,11 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "manipal-university-jaipur|swe|l1": {
+   "expires": "2026-11-27T06:35:13.232583+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
+   "status": "not_found"
+  },
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -13309,11 +13289,6 @@
   "mind-carve|fullstack|l1": {
    "expires": "2026-11-18T05:41:35.707735+00:00",
    "looked_up": "2026-11-05T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "mindtelgloba|security|l1": {
-   "expires": "2026-11-09T16:57:35.818319+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
   "mindtelg|swe|l1": {
@@ -14565,11 +14540,27 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
+  "oaktree-capital-management|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T02:48:46.241347+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
+   "max_lpa": 4.7,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/oaktree-capital-management-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T06:53:02.868007+00:00",
-   "looked_up": "2026-11-09T16:01:22+00:00",
+   "expires": "2027-02-05T07:23:23.563127+00:00",
+   "looked_up": "2026-11-09T17:01:26+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -17598,11 +17589,6 @@
     }
    ],
    "status": "found"
-  },
-  "savit-interactive-company|swe|l1": {
-   "expires": "2026-11-09T16:20:00.618395+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
   },
   "sawa-living|mobile|l1": {
    "expires": "2026-11-21T20:25:50.128738+00:00",
@@ -23214,8 +23200,8 @@
  },
  "meta": {
   "day": "2026-11-09",
-  "lookups_month": 956,
-  "lookups_today": 61,
+  "lookups_month": 961,
+  "lookups_today": 66,
   "month": "2026-11"
  }
 }
