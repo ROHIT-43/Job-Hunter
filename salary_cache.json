@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T04:51:54.216185+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-04T14:26:33.604678+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2253,8 +2253,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T16:49:52.049366+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-14T02:58:32.146158+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2306,8 +2306,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T17:48:59.865497+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-04T12:05:40.838660+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3439,8 +3439,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:01:10.003519+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-05T13:50:30.244390+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3453,8 +3453,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:11:16.183373+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-02T09:43:06.082634+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -3764,11 +3764,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "capgemini-engineering|mobile|l1": {
-   "expires": "2026-11-10T17:42:32.710986+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
   },
   "capgemini-engineering|swe|l1": {
    "basis": "ctc",
@@ -6449,8 +6444,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T19:39:43.973949+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-05T03:28:20.108470+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6463,8 +6458,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T12:58:49.553430+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-05T10:54:54.754338+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7745,8 +7740,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:24:47.621124+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-11T00:21:43.010505+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9381,8 +9376,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T08:58:13.491474+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-08T14:05:32.062907+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -10842,11 +10837,6 @@
   "innovative-information-technologies-inc.|erp|l1": {
    "expires": "2026-11-21T13:41:55.092813+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
-  "innowave360|swe|l1": {
-   "expires": "2026-11-10T17:39:43.956881+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
   "innowrap|fullstack|l1": {
@@ -14678,11 +14668,6 @@
    "looked_up": "2026-11-01T08:01:22+00:00",
    "status": "not_found"
   },
-  "ntt-data-americas|data|l1": {
-   "expires": "2026-11-10T17:48:55.599738+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
   "ntt-data-americas|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16130,11 +16115,6 @@
    "status": "found",
    "year": 2026
   },
-  "powermaster-tools-private-limited|fullstack|l1": {
-   "expires": "2026-11-10T17:15:04.127718+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
   "powerschool-group-llc|swe|l2": {
    "expires": "2026-11-19T01:01:28.336067+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -17277,11 +17257,6 @@
   "relic-consultancy-services|swe|l1": {
    "expires": "2026-11-26T18:12:03.036229+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "relx-group|devops|l3": {
-   "expires": "2026-11-10T17:31:19.085677+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "remote-wfh-india|data|l1": {
@@ -18477,8 +18452,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:56:58.899827+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-13T17:47:33.592091+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18678,11 +18653,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "signifycompany|data|l1": {
-   "expires": "2026-11-10T17:09:22.316705+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
   },
   "signifycompany|erp|l1": {
    "expires": "2026-11-15T20:07:08.395854+00:00",
@@ -19229,8 +19199,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T04:48:39.186051+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
+   "expires": "2027-02-11T14:55:45.346024+00:00",
+   "looked_up": "2026-11-10T17:49:50+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
