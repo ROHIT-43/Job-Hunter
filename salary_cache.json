@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:34:46.831141+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-07T15:55:31.533452+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1899,6 +1899,11 @@
    "status": "found",
    "year": 2025
   },
+  "arcatainteractive|swe|l1": {
+   "expires": "2026-11-25T01:06:35.220532+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
+   "status": "not_found"
+  },
   "archlynk|erp|l1": {
    "expires": "2026-11-13T17:27:59.134133+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -2150,11 +2155,6 @@
    "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
-  "astreya|swe|l2": {
-   "expires": "2026-11-10T18:22:05.543877+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
-   "status": "not_found"
-  },
   "athenahealth|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2190,11 +2190,6 @@
   "atisunyaprivatelimited|swe|l1": {
    "expires": "2026-11-25T02:47:12.083346+00:00",
    "looked_up": "2026-11-04T10:01:28+00:00",
-   "status": "not_found"
-  },
-  "atlas-copco-group|devops|l1": {
-   "expires": "2026-11-10T18:50:03.169562+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
    "status": "not_found"
   },
   "atlas-copco|security|l1": {
@@ -2288,11 +2283,6 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
-  "augnito|swe|l2": {
-   "expires": "2026-11-10T18:29:58.839905+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "aumi-robotics|swe|l1": {
    "expires": "2026-11-13T15:20:34.303473+00:00",
    "looked_up": "2026-10-25T10:01:24+00:00",
@@ -2306,8 +2296,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:29:52.711384+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-03T08:25:01.899119+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3439,8 +3429,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:45:42.213170+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-03T17:37:03.286027+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3453,8 +3443,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:37:12.044860+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-11T14:48:19.152603+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -3467,11 +3457,6 @@
   "bridgetown-consulting|swe|l1": {
    "expires": "2026-11-23T01:28:18.688176+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
-  "bright-money|devops|l1": {
-   "expires": "2026-11-10T18:31:02.672841+00:00",
-   "looked_up": "2026-10-30T13:01:31+00:00",
    "status": "not_found"
   },
   "brigosha|fullstack|l1": {
@@ -4408,6 +4393,11 @@
   "cisco|data|l1": {
    "expires": "2026-11-12T21:46:15.194163+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
+   "status": "not_found"
+  },
+  "cisco|devops|l1": {
+   "expires": "2026-11-20T02:46:24.121811+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "status": "not_found"
   },
   "cisco|swe|l1": {
@@ -5428,11 +5418,6 @@
   "cummins-india|data|l3": {
    "expires": "2026-11-14T05:20:23.970478+00:00",
    "looked_up": "2026-10-25T11:01:34+00:00",
-   "status": "not_found"
-  },
-  "cummins-india|swe|l1": {
-   "expires": "2026-11-10T18:35:24.127497+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "cupid-compusoft|swe|l1": {
@@ -6464,8 +6449,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T04:25:30.118351+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-14T21:06:01.898062+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6478,8 +6463,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:35:45.407478+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-12T00:11:34.851727+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7524,11 +7509,6 @@
    ],
    "status": "found"
   },
-  "fellafeeds|fullstack|l1": {
-   "expires": "2026-11-10T18:52:47.383441+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
   "fidelity-international|data|l1": {
    "expires": "2026-11-13T14:42:01.256761+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -7760,8 +7740,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T17:40:14.521058+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-02T07:24:06.734772+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9396,8 +9376,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T03:45:02.616657+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-07T18:23:11.337259+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -12356,11 +12336,6 @@
    "looked_up": "2026-10-29T13:01:31+00:00",
    "status": "not_found"
   },
-  "leegality|frontend|l1": {
-   "expires": "2026-11-10T18:13:44.403663+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
-   "status": "not_found"
-  },
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12504,6 +12479,22 @@
    "expires": "2026-11-10T23:40:08.383486+00:00",
    "looked_up": "2026-10-28T16:01:32+00:00",
    "status": "not_found"
+  },
+  "linedata|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T05:15:11.881287+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
+   "max_lpa": 10.5,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/linedata-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "linkedin|swe|l1": {
    "basis": "base",
@@ -13868,6 +13859,27 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "motorolasolutions|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T15:53:44.273276+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 5.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/motorola-solutions-salaries/automation-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "motorolasolutions|frontend|l1": {
+   "expires": "2026-11-24T18:21:50.809792+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
+   "status": "not_found"
   },
   "motorolasolutions|mobile|l1": {
    "expires": "2026-11-16T01:12:19.652231+00:00",
@@ -18492,8 +18504,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:04:27.628172+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-10T23:38:20.331469+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19244,8 +19256,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:32:15.633289+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
+   "expires": "2027-02-04T05:38:02.138562+00:00",
+   "looked_up": "2026-11-10T19:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -20576,11 +20588,6 @@
   "tekskills-inc|swe|l1": {
    "expires": "2026-11-16T18:02:24.020662+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "tekwissenindia|data|l1": {
-   "expires": "2026-11-10T18:54:58.615909+00:00",
-   "looked_up": "2026-10-31T23:01:32+00:00",
    "status": "not_found"
   },
   "tekwissenindia|erp|l1": {
@@ -23957,8 +23964,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1111,
-  "lookups_today": 123,
+  "lookups_month": 1116,
+  "lookups_today": 128,
   "month": "2026-11"
  }
 }
