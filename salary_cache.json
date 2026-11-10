@@ -2198,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:56:02.277135+00:00",
-   "looked_up": "2026-11-10T04:01:18+00:00",
+   "expires": "2027-02-11T07:56:19.934201+00:00",
+   "looked_up": "2026-11-10T05:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -3285,11 +3285,6 @@
     }
    ],
    "status": "found"
-  },
-  "brandstory-digital|frontend|l1": {
-   "expires": "2026-11-10T04:09:21.607589+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
   },
   "bravefederaltechnologies|devops|l1": {
    "expires": "2026-11-17T13:18:15.224473+00:00",
@@ -9076,8 +9071,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:15:28.647960+00:00",
-   "looked_up": "2026-11-10T04:01:18+00:00",
+   "expires": "2027-02-02T22:01:43.703585+00:00",
+   "looked_up": "2026-11-10T05:01:20+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -11004,11 +10999,6 @@
     }
    ],
    "status": "found"
-  },
-  "jenvyqo|data|l1": {
-   "expires": "2026-11-10T04:13:36.194660+00:00",
-   "looked_up": "2026-10-29T14:01:33+00:00",
-   "status": "not_found"
   },
   "jio-saavn|devops|l1": {
    "expires": "2026-11-19T03:14:19.283850+00:00",
@@ -14537,8 +14527,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T09:47:34.293706+00:00",
-   "looked_up": "2026-11-10T04:01:18+00:00",
+   "expires": "2027-02-09T11:35:59.004974+00:00",
+   "looked_up": "2026-11-10T05:01:20+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -21572,11 +21562,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "vectormind-labs|erp|l1": {
-   "expires": "2026-11-10T04:54:11.546825+00:00",
-   "looked_up": "2026-10-24T19:01:25+00:00",
-   "status": "not_found"
   },
   "velankanigroup|frontend|l1": {
    "expires": "2026-11-19T15:57:25.180183+00:00",
