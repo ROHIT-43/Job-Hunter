@@ -1824,11 +1824,6 @@
    "status": "found",
    "year": 2024
   },
-  "ara-resources-pvt.-ltd.|erp|l1": {
-   "expires": "2026-11-10T01:09:01.603255+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "arabellesolutions|swe|l1": {
    "expires": "2026-11-17T08:13:12.473151+00:00",
    "looked_up": "2026-11-09T18:01:28+00:00",
@@ -2198,8 +2193,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T21:54:26.264318+00:00",
-   "looked_up": "2026-11-10T01:01:22+00:00",
+   "expires": "2027-02-01T21:27:53.808939+00:00",
+   "looked_up": "2026-11-10T01:30:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14553,8 +14548,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T09:08:18.369622+00:00",
-   "looked_up": "2026-11-10T01:01:22+00:00",
+   "expires": "2027-02-02T11:25:07.936251+00:00",
+   "looked_up": "2026-11-10T01:30:18+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -15601,11 +15596,6 @@
   "playlisttechnologies|swe|l1": {
    "expires": "2026-11-18T00:32:20.672121+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
-   "status": "not_found"
-  },
-  "plomid|swe|l2": {
-   "expires": "2026-11-10T01:09:21.714214+00:00",
-   "looked_up": "2026-10-20T19:01:31+00:00",
    "status": "not_found"
   },
   "plumhq|swe|l1": {
@@ -21656,11 +21646,6 @@
   "verisk-analytics|security|l2": {
    "expires": "2026-11-20T08:31:50.566398+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
-   "status": "not_found"
-  },
-  "veritymd|swe|l1": {
-   "expires": "2026-11-10T01:23:07.511586+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
   "verizon|devops|l1": {
