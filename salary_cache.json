@@ -2198,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T16:34:41.566714+00:00",
-   "looked_up": "2026-11-09T23:01:26+00:00",
+   "expires": "2027-02-12T14:17:56.317208+00:00",
+   "looked_up": "2026-11-10T00:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -7537,11 +7537,6 @@
    ],
    "status": "found"
   },
-  "flawless-engineering-solutions-private-limited|swe|l1": {
-   "expires": "2026-11-09T23:23:23.971004+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "flexera|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8855,11 +8850,6 @@
   "hallmark-search-partners|swe|l1": {
    "expires": "2026-11-15T21:58:01.095155+00:00",
    "looked_up": "2026-11-04T16:01:28+00:00",
-   "status": "not_found"
-  },
-  "hamon-techonologies-llp|swe|l1": {
-   "expires": "2026-11-09T23:39:51.950587+00:00",
-   "looked_up": "2026-10-20T01:01:24+00:00",
    "status": "not_found"
   },
   "hancod|mobile|l1": {
@@ -12312,11 +12302,6 @@
    "status": "found",
    "year": 2024
   },
-  "lonza|erp|l1": {
-   "expires": "2026-11-09T23:59:14.010257+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
-   "status": "not_found"
-  },
   "lorventech|security|l1": {
    "expires": "2026-11-10T23:34:43.876077+00:00",
    "looked_up": "2026-10-23T12:01:33+00:00",
@@ -12607,6 +12592,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "maktechnologiesllc|erp|l1": {
+   "expires": "2026-11-19T16:52:58.156853+00:00",
+   "looked_up": "2026-11-10T00:01:21+00:00",
+   "status": "not_found"
   },
   "man-truck-and-bus-india-pvt-ltd|data|l1": {
    "basis": "ctc",
@@ -14573,8 +14563,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T05:03:41.820391+00:00",
-   "looked_up": "2026-11-09T23:01:26+00:00",
+   "expires": "2027-02-14T00:06:12.638554+00:00",
+   "looked_up": "2026-11-10T00:01:21+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -14628,11 +14618,6 @@
   "oenneo|erp|l1": {
    "expires": "2026-11-15T01:52:08.698044+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
-  "offensoacademy|security|l1": {
-   "expires": "2026-11-09T23:08:14.787687+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "officeworks-gcc-india|erp|l1": {
@@ -15833,11 +15818,6 @@
   "procter-and-gamble|security|l1": {
    "expires": "2026-11-18T09:00:21.984145+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "prodcontechservicespvtltd|swe|l1": {
-   "expires": "2026-11-09T23:13:42.410411+00:00",
-   "looked_up": "2026-10-22T10:01:26+00:00",
    "status": "not_found"
   },
   "prodigee-finance-ltd|swe|l1": {
@@ -18171,6 +18151,26 @@
    "expires": "2026-11-16T20:47:38.168797+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
+  },
+  "siliconlabs|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T02:25:59.637829+00:00",
+   "looked_up": "2026-11-10T00:01:21+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 10.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/silicon-labs-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/silicon-labs-salaries/engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "simple-digital-fze|swe|l1": {
    "expires": "2026-11-23T12:05:50.836862+00:00",
@@ -23255,9 +23255,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-09",
-  "lookups_month": 988,
-  "lookups_today": 93,
+  "day": "2026-11-10",
+  "lookups_month": 990,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
