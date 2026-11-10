@@ -2193,8 +2193,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:27:53.808939+00:00",
-   "looked_up": "2026-11-10T01:30:18+00:00",
+   "expires": "2027-02-07T15:36:15.719635+00:00",
+   "looked_up": "2026-11-10T02:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -7569,8 +7569,8 @@
    "status": "not_found"
   },
   "flexipletech|fullstack|l1": {
-   "expires": "2026-11-10T01:44:28.025236+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2026-11-27T22:06:54.679267+00:00",
+   "looked_up": "2026-11-10T02:01:22+00:00",
    "status": "not_found"
   },
   "flexipletech|mobile|l1": {
@@ -9083,6 +9083,20 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
+  "helios-systems-asia|erp|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T07:41:40.739044+00:00",
+   "looked_up": "2026-11-10T02:01:22+00:00",
+   "max_lpa": 35.0,
+   "min_lpa": 35.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "helios-systems-asia|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10026,11 +10040,6 @@
   "indian-dental-association-ho-|frontend|l1": {
    "expires": "2026-11-21T16:51:50.392519+00:00",
    "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
-  "indiasfutureinvestors|security|l1": {
-   "expires": "2026-11-10T01:58:19.322774+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
   "indmoney|devops|l1": {
@@ -14548,8 +14557,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T11:25:07.936251+00:00",
-   "looked_up": "2026-11-10T01:30:18+00:00",
+   "expires": "2027-02-06T21:14:29.852059+00:00",
+   "looked_up": "2026-11-10T02:01:22+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -19809,11 +19818,6 @@
    "status": "found",
    "year": 2026
   },
-  "tech-t7-innovations|swe|l1": {
-   "expires": "2026-11-10T01:59:58.029541+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
   "tech-talent-consulting|erp|l1": {
    "expires": "2026-11-12T15:37:32.650247+00:00",
    "looked_up": "2026-11-05T03:01:16+00:00",
@@ -21683,11 +21687,6 @@
    "looked_up": "2026-11-09T10:01:22+00:00",
    "status": "not_found"
   },
-  "veticin|swe|l1": {
-   "expires": "2026-11-10T01:50:46.175250+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
-   "status": "not_found"
-  },
   "vgroupmaritime|devops|l1": {
    "expires": "2026-11-20T16:46:37.208486+00:00",
    "looked_up": "2026-11-03T17:01:35+00:00",
@@ -23147,11 +23146,6 @@
    "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
-  "zf-group|swe|l1": {
-   "expires": "2026-11-10T01:46:59.247501+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "zillout|swe|l1": {
    "expires": "2026-11-15T14:08:17.328870+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -23226,8 +23220,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 990,
-  "lookups_today": 2,
+  "lookups_month": 991,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
