@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T14:26:33.604678+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-13T20:34:46.831141+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2253,8 +2253,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:58:32.146158+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-10T06:24:26.463468+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2306,8 +2306,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T12:05:40.838660+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-08T01:29:52.711384+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3439,8 +3439,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T13:50:30.244390+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-04T19:45:42.213170+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3453,8 +3453,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:43:06.082634+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-10T17:37:12.044860+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -5865,6 +5865,26 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
+  "deloitte|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T04:30:06.398241+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/jobs/azure-aws-devops-engineer-jobs-at-deloitte-hyderabad-apply-now-3-5lpa"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deloitte-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "deloitte|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6444,8 +6464,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T03:28:20.108470+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-13T04:25:30.118351+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6458,8 +6478,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T10:54:54.754338+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-11T05:35:45.407478+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7740,8 +7760,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:21:43.010505+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-09T17:40:14.521058+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9376,8 +9396,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T14:05:32.062907+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-02T03:45:02.616657+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -10094,6 +10114,11 @@
    "status": "found",
    "year": 2026
   },
+  "icapital-network-inc|swe|l1": {
+   "expires": "2026-11-24T03:55:49.527339+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
+   "status": "not_found"
+  },
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10453,6 +10478,16 @@
   "infocus-technologies-pvt-ltd|erp|l1": {
    "expires": "2026-11-12T23:31:29.370247+00:00",
    "looked_up": "2026-10-26T06:17:27+00:00",
+   "status": "not_found"
+  },
+  "information-systems-associates-fze|mobile|l1": {
+   "expires": "2026-11-20T10:35:39.008844+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
+   "status": "not_found"
+  },
+  "information-systems-associates-fze|swe|l1": {
+   "expires": "2026-11-20T14:20:13.717286+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "status": "not_found"
   },
   "informatrixit|devops|l1": {
@@ -17546,6 +17581,11 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
+  "rsm-us-llp|swe|l1": {
+   "expires": "2026-11-27T22:04:38.766678+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
+   "status": "not_found"
+  },
   "rspinnovations|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18452,8 +18492,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:47:33.592091+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-08T20:04:27.628172+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19067,6 +19107,11 @@
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
+  "softexpert-software|swe|l1": {
+   "expires": "2026-11-22T01:22:46.440281+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
+   "status": "not_found"
+  },
   "softkode|fullstack|l1": {
    "expires": "2026-11-14T18:42:34.823401+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -19199,8 +19244,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T14:55:45.346024+00:00",
-   "looked_up": "2026-11-10T17:49:50+00:00",
+   "expires": "2027-02-13T08:32:15.633289+00:00",
+   "looked_up": "2026-11-10T18:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -23912,8 +23957,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1105,
-  "lookups_today": 117,
+  "lookups_month": 1111,
+  "lookups_today": 123,
   "month": "2026-11"
  }
 }
