@@ -2209,8 +2209,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T16:19:41.267367+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
+   "expires": "2027-02-08T22:15:01.055565+00:00",
+   "looked_up": "2026-11-10T08:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2262,8 +2262,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:27:40.821939+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
+   "expires": "2027-02-07T08:32:46.704728+00:00",
+   "looked_up": "2026-11-10T08:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5636,11 +5636,6 @@
    "status": "found",
    "year": 2025
   },
-  "datavail|erp|l1": {
-   "expires": "2026-11-10T07:37:04.881041+00:00",
-   "looked_up": "2026-10-22T09:01:30+00:00",
-   "status": "not_found"
-  },
   "datavinyasolutions|erp|l1": {
    "expires": "2026-11-14T18:25:08.186332+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -6022,11 +6017,6 @@
   "digiletechnologies|swe|l1": {
    "expires": "2026-11-14T07:29:54.305086+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
-  "digiprima-technologies|swe|l1": {
-   "expires": "2026-11-10T07:16:36.347539+00:00",
-   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "digireach|swe|l1": {
@@ -9142,8 +9132,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T12:25:12.728461+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
+   "expires": "2027-02-03T15:58:15.235553+00:00",
+   "looked_up": "2026-11-10T08:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -10127,11 +10117,6 @@
   "indusgurunetwork|swe|l1": {
    "expires": "2026-11-15T23:55:43.533964+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
-  },
-  "inexture-solutions|devops|l1": {
-   "expires": "2026-11-10T07:35:00.161473+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "infineon-technologies|swe|l1": {
@@ -12991,11 +12976,6 @@
    "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
-  "mbtygl|fullstack|l1": {
-   "expires": "2026-11-10T07:39:10.578473+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
   "mcafeeenterprise|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14608,8 +14588,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T21:11:26.858310+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
+   "expires": "2027-02-07T11:09:36.539720+00:00",
+   "looked_up": "2026-11-10T08:01:24+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -16281,11 +16261,6 @@
    "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
-  "qrusibleltd|swe|l1": {
-   "expires": "2026-11-10T07:20:35.508983+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
   "quadeye|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17722,11 +17697,6 @@
    "looked_up": "2026-11-07T14:01:22+00:00",
    "status": "not_found"
   },
-  "schwab-india|data|l1": {
-   "expires": "2026-11-10T07:14:20.330171+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
-  },
   "schwab-india|devops|l1": {
    "expires": "2026-11-16T08:05:38.664610+00:00",
    "looked_up": "2026-11-02T01:01:29+00:00",
@@ -18804,8 +18774,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:25:57.220255+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
+   "expires": "2027-02-04T23:37:47.961251+00:00",
+   "looked_up": "2026-11-10T08:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -21887,11 +21857,6 @@
   "vighnesh-inc|swe|l1": {
    "expires": "2026-11-11T15:11:41.687711+00:00",
    "looked_up": "2026-10-23T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "vineforgetechnologies|swe|l1": {
-   "expires": "2026-11-10T07:09:57.943965+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
   "virinnovations|swe|l1": {
