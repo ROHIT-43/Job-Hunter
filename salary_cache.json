@@ -36,6 +36,20 @@
    "status": "found",
    "year": 2024
   },
+  "4point2tech|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T06:34:05.645488+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "4th-quarter-technologies|swe|l1": {
    "expires": "2026-11-12T15:35:04.936453+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -114,6 +128,11 @@
   "9sprints|devops|l1": {
    "expires": "2026-11-27T22:53:11.267649+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
+  "aakraya-research-llp|swe|l1": {
+   "expires": "2026-11-24T19:56:15.345742+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "aalim-muhammed-salegh-college-of-engineering|swe|l1": {
@@ -1995,6 +2014,11 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
+  "ascendeum|devops|l1": {
+   "expires": "2026-11-28T03:40:09.873350+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "ascendion|data|l1": {
    "expires": "2026-11-17T20:36:15.885836+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -2209,8 +2233,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:15:01.055565+00:00",
-   "looked_up": "2026-11-10T08:01:24+00:00",
+   "expires": "2027-02-02T20:52:09.014792+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2262,8 +2286,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:32:46.704728+00:00",
-   "looked_up": "2026-11-10T08:01:24+00:00",
+   "expires": "2027-02-05T05:13:45.847772+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -4813,11 +4837,6 @@
    "status": "found",
    "year": 2025
   },
-  "collinearai|swe|l1": {
-   "expires": "2026-11-10T08:53:38.338619+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "collins-aerospace|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4969,6 +4988,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "comprehendits|swe|l1": {
+   "expires": "2026-11-21T22:09:45.183227+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
   },
   "comscore|swe|l1": {
    "basis": "base",
@@ -6163,6 +6187,11 @@
    "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
+  "droom-media|fullstack|l1": {
+   "expires": "2026-11-23T19:34:38.513584+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "dtcc|data|l1": {
    "expires": "2026-11-15T09:14:25.874170+00:00",
    "looked_up": "2026-10-26T11:01:59+00:00",
@@ -6326,6 +6355,40 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "edliontechnologies|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-02T03:29:38.922799+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "edurun-virtuoso-pvt-ltd|data|l1": {
+   "expires": "2026-11-25T17:43:54.667562+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "edurun-virtuoso-pvt-ltd|erp|l1": {
+   "expires": "2026-11-30T11:25:06.344467+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "edurun-virtuoso-pvt-ltd|fullstack|l1": {
+   "expires": "2026-11-29T18:23:39.073937+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "edurun-virtuoso-pvt-ltd|swe|l1": {
+   "expires": "2026-11-23T22:00:18.466249+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
   },
   "edwards|devops|l1": {
    "expires": "2026-11-20T21:21:28.921382+00:00",
@@ -7561,6 +7624,11 @@
     }
    ],
    "status": "found"
+  },
+  "flat-ride-engineering|swe|l1": {
+   "expires": "2026-11-30T07:05:40.186192+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
   },
   "flexera|swe|l1": {
    "basis": "ctc",
@@ -9052,6 +9120,22 @@
    "status": "found",
    "year": 2025
   },
+  "hcltech|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T09:54:37.209382+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "max_lpa": 4.7,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/hcl-salaries/front-end-developer/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "hcltech|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9132,8 +9216,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T15:58:15.235553+00:00",
-   "looked_up": "2026-11-10T08:01:24+00:00",
+   "expires": "2027-02-08T17:25:13.025120+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -11611,6 +11695,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "khajwaniya-house-private-limited|swe|l1": {
+   "expires": "2026-11-24T13:20:34.823214+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "kheewaincorporation|mobile|l1": {
    "expires": "2026-11-20T21:21:17.019627+00:00",
    "looked_up": "2026-11-09T03:01:22+00:00",
@@ -12250,6 +12339,11 @@
    "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
+  "logistics-sector-skill-council|swe|l1": {
+   "expires": "2026-11-21T03:02:23.861841+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "logitech|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12425,6 +12519,11 @@
   "lumentechnologies|swe|l2": {
    "expires": "2026-11-15T17:15:30.327994+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
+   "status": "not_found"
+  },
+  "luminoxautomation|swe|l1": {
+   "expires": "2026-11-18T08:40:13.339660+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "luxoft-india|swe|l1": {
@@ -12882,6 +12981,27 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mastertech-web-applications|frontend|l2": {
+   "expires": "2026-11-25T23:34:09.516167+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "mastertech-web-applications|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T16:16:19.740164+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mastertech-web-applications-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "matriofficial|mobile|l1": {
    "basis": "posted",
@@ -14588,8 +14708,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T11:09:36.539720+00:00",
-   "looked_up": "2026-11-10T08:01:24+00:00",
+   "expires": "2027-02-10T23:39:00.276201+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -17946,11 +18066,6 @@
    ],
    "status": "found"
   },
-  "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
-   "expires": "2026-11-10T08:46:38.280310+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
-   "status": "not_found"
-  },
   "sharechat|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -18257,11 +18372,6 @@
   "singhania-tableting|swe|l1": {
    "expires": "2026-11-11T07:42:27.091426+00:00",
    "looked_up": "2026-10-25T02:01:27+00:00",
-   "status": "not_found"
-  },
-  "sintraxcreations|swe|l1": {
-   "expires": "2026-11-10T08:52:45.765615+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
    "status": "not_found"
   },
   "siraj-software-solution|frontend|l1": {
@@ -18774,8 +18884,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T23:37:47.961251+00:00",
-   "looked_up": "2026-11-10T08:01:24+00:00",
+   "expires": "2027-02-08T12:33:30.863622+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -22132,6 +22242,11 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
+  "vysystems|erp|l1": {
+   "expires": "2026-11-17T19:36:46.649450+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "vysystems|fullstack|l1": {
    "expires": "2026-11-17T10:51:00.817134+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
@@ -22991,11 +23106,6 @@
    "looked_up": "2026-10-31T09:01:28+00:00",
    "status": "not_found"
   },
-  "zeb-global|erp|l1": {
-   "expires": "2026-11-10T08:25:25.284752+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
-   "status": "not_found"
-  },
   "zebra-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23305,6 +23415,11 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
+  "zorba-consulting-india|data|l1": {
+   "expires": "2026-11-23T22:44:24.282771+00:00",
+   "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
   "zorba-consulting-india|swe|l1": {
    "expires": "2026-11-12T11:22:56.166285+00:00",
    "looked_up": "2026-10-23T07:01:26+00:00",
@@ -23359,8 +23474,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1018,
-  "lookups_today": 30,
+  "lookups_month": 1035,
+  "lookups_today": 47,
   "month": "2026-11"
  }
 }
