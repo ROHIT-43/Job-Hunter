@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T00:34:29.429001+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-13T06:32:09.465463+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -490,11 +490,6 @@
     }
    ],
    "status": "found"
-  },
-  "acura-solutions-ltd|security|l1": {
-   "expires": "2026-11-10T22:54:49.088954+00:00",
-   "looked_up": "2026-11-01T08:01:22+00:00",
-   "status": "not_found"
   },
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
@@ -1075,6 +1070,26 @@
     }
    ],
    "status": "found"
+  },
+  "alphavima|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T12:36:36.108090+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alphavima-technologies-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alphavima-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "alstom|security|l1": {
    "expires": "2026-11-19T09:31:17.703851+00:00",
@@ -2286,8 +2301,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T17:14:51.009977+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-07T04:44:21.070462+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3409,8 +3424,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:50:42.858204+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-08T19:16:47.909132+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3423,8 +3438,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T10:26:57.741431+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-02T19:26:13.980102+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6429,8 +6444,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T08:55:19.392712+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-05T07:14:21.768222+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6443,8 +6458,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:04:21.975053+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-11T14:18:44.132032+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7720,8 +7735,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:45:09.382444+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-10T11:20:16.254972+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -7915,11 +7930,6 @@
   "fm|swe|l1": {
    "expires": "2026-11-17T20:00:15.693118+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "fnz|devops|l1": {
-   "expires": "2026-11-10T22:22:14.338930+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
   "fnz|security|l1": {
@@ -9392,8 +9402,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T18:11:50.350734+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-06T06:43:40.456254+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -9979,11 +9989,6 @@
     }
    ],
    "status": "found"
-  },
-  "hyster-yale-group|swe|l1": {
-   "expires": "2026-11-10T22:32:42.074434+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
   },
   "ibee-solutions|swe|l1": {
    "expires": "2026-11-13T01:09:58.250133+00:00",
@@ -11410,11 +11415,6 @@
   "jnjinnovativemedicine|swe|l1": {
    "expires": "2026-11-24T07:24:41.840522+00:00",
    "looked_up": "2026-11-08T16:01:17+00:00",
-   "status": "not_found"
-  },
-  "jobadder-middleware-test-company|swe|l1": {
-   "expires": "2026-11-10T22:42:46.047569+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "jobbricksglobal|swe|l1": {
@@ -13832,6 +13832,11 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
+  "moortwix|frontend|l1": {
+   "expires": "2026-11-22T01:13:10.494335+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
+   "status": "not_found"
+  },
   "morningstar|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -15052,11 +15057,6 @@
    "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
-  "officeworks-gcc-india|erp|l1": {
-   "expires": "2026-11-10T22:27:30.018930+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
   "official-quick-bites|swe|l1": {
    "expires": "2026-11-22T21:46:05.716791+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
@@ -15805,11 +15805,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "peopleprimeww|swe|l1": {
-   "expires": "2026-11-10T22:57:58.475078+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
   },
   "pepsico|data|l1": {
    "expires": "2026-11-15T02:41:34.479742+00:00",
@@ -18516,8 +18511,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T17:36:31.055485+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-12T07:18:54.220172+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19263,8 +19258,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T18:36:54.680395+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
+   "expires": "2027-02-06T01:26:49.267788+00:00",
+   "looked_up": "2026-11-10T23:01:26+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -21618,11 +21613,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "ttec|swe|l1": {
-   "expires": "2026-11-10T22:53:28.153265+00:00",
-   "looked_up": "2026-10-27T00:01:27+00:00",
-   "status": "not_found"
-  },
   "turium-ai|security|l1": {
    "expires": "2026-11-14T11:49:12.306645+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
@@ -23961,8 +23951,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1123,
-  "lookups_today": 135,
+  "lookups_month": 1125,
+  "lookups_today": 137,
   "month": "2026-11"
  }
 }
