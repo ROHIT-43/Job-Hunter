@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T22:12:20.987371+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-02T04:51:54.216185+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2253,8 +2253,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:21:39.091319+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-07T16:49:52.049366+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2306,8 +2306,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:53:04.210576+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-01T17:48:59.865497+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3009,6 +3009,22 @@
    "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
+  "blue-cloud-softech-solutions|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T20:51:05.068828+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/blue-cloud-softech-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "bluebex|fullstack|l1": {
    "expires": "2026-11-14T05:13:56.870827+00:00",
    "looked_up": "2026-10-27T05:01:24+00:00",
@@ -3423,8 +3439,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T09:33:40.972187+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-05T06:01:10.003519+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3437,8 +3453,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:37:53.020227+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-02T09:11:16.183373+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6433,8 +6449,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T12:53:58.075461+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-12T19:39:43.973949+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6447,8 +6463,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:07:30.278084+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-09T12:58:49.553430+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7572,11 +7588,6 @@
    "looked_up": "2026-11-02T20:01:29+00:00",
    "status": "not_found"
   },
-  "fireblaze-ai-school|fullstack|l1": {
-   "expires": "2026-11-10T16:40:13.517041+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "firestorm-internet|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7734,8 +7745,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T14:45:14.189193+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-13T11:24:47.621124+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8584,6 +8595,11 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
+  "golden-opportunities-pvt-ltd|swe|l1": {
+   "expires": "2026-11-22T05:56:44.347136+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
+   "status": "not_found"
+  },
   "goldman-sachs|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9365,8 +9381,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T02:15:43.648300+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-15T08:58:13.491474+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -14552,11 +14568,6 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
-  "nityo-infotech|swe|l1": {
-   "expires": "2026-11-10T16:48:20.890417+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
   "nium-global|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -15031,11 +15042,6 @@
   "official-quick-bites|swe|l1": {
    "expires": "2026-11-22T21:46:05.716791+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
-   "status": "not_found"
-  },
-  "officialgates|frontend|l1": {
-   "expires": "2026-11-10T16:43:28.505343+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
    "status": "not_found"
   },
   "officialgates|swe|l1": {
@@ -15525,6 +15531,26 @@
    "expires": "2026-11-21T06:23:46.872728+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
+  },
+  "p360|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T03:46:31.508883+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 5.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/p360-solutions-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/p360-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "paisabazaar|mobile|l1": {
    "expires": "2026-11-22T16:18:13.285990+00:00",
@@ -17133,6 +17159,11 @@
    "status": "found",
    "year": null
   },
+  "recollia|security|l1": {
+   "expires": "2026-11-25T11:19:21.281253+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
+   "status": "not_found"
+  },
   "recrew-ai|data|l1": {
    "expires": "2026-11-25T12:54:16.499424+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
@@ -18446,8 +18477,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:40:48.453032+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-12T21:56:58.899827+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19198,8 +19229,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:59:34.132326+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
+   "expires": "2027-02-15T04:48:39.186051+00:00",
+   "looked_up": "2026-11-10T17:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -20465,11 +20496,6 @@
   "technoiogy-ia|swe|l1": {
    "expires": "2026-11-18T15:18:08.344157+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
-  "technometics|swe|l1": {
-   "expires": "2026-11-10T16:41:36.293035+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
    "status": "not_found"
   },
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
@@ -22078,11 +22104,6 @@
    "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
-  "valeo|swe|l1": {
-   "expires": "2026-11-10T16:03:54.777431+00:00",
-   "looked_up": "2026-10-22T14:01:29+00:00",
-   "status": "not_found"
-  },
   "valgenesis-inc|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -23487,11 +23508,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "your-website-io|swe|l1": {
-   "expires": "2026-11-10T16:10:22.798712+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
   "yral-foods|mobile|l1": {
    "expires": "2026-11-13T13:16:06.003547+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -23926,8 +23942,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1101,
-  "lookups_today": 113,
+  "lookups_month": 1105,
+  "lookups_today": 117,
   "month": "2026-11"
  }
 }
