@@ -1904,11 +1904,6 @@
    "looked_up": "2026-10-29T17:01:31+00:00",
    "status": "not_found"
   },
-  "aritioninfotech|swe|l1": {
-   "expires": "2026-11-10T05:41:50.749275+00:00",
-   "looked_up": "2026-10-22T20:01:26+00:00",
-   "status": "not_found"
-  },
   "arkin-software-technologies|mobile|l1": {
    "expires": "2026-11-12T04:37:42.740573+00:00",
    "looked_up": "2026-10-31T05:01:27+00:00",
@@ -2198,8 +2193,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:56:19.934201+00:00",
-   "looked_up": "2026-11-10T05:01:20+00:00",
+   "expires": "2027-02-05T19:55:11.960280+00:00",
+   "looked_up": "2026-11-10T06:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -3745,11 +3740,6 @@
   "cardinal-health|data|l1": {
    "expires": "2026-11-12T13:20:32.856975+00:00",
    "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
-  "cardoneventures|fullstack|l1": {
-   "expires": "2026-11-10T05:54:44.260876+00:00",
-   "looked_up": "2026-10-21T06:01:28+00:00",
    "status": "not_found"
   },
   "career-soft-solutions|swe|l1": {
@@ -9071,8 +9061,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:01:43.703585+00:00",
-   "looked_up": "2026-11-10T05:01:20+00:00",
+   "expires": "2027-02-12T04:31:06.221234+00:00",
+   "looked_up": "2026-11-10T06:01:20+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -9174,11 +9164,6 @@
     }
    ],
    "status": "found"
-  },
-  "hg-catalyst|swe|l1": {
-   "expires": "2026-11-10T05:39:13.862312+00:00",
-   "looked_up": "2026-10-25T08:01:27+00:00",
-   "status": "not_found"
   },
   "highlevel|fullstack|l1": {
    "expires": "2026-11-18T03:37:32.340501+00:00",
@@ -14527,8 +14512,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T11:35:59.004974+00:00",
-   "looked_up": "2026-11-10T05:01:20+00:00",
+   "expires": "2027-02-07T16:47:23.228311+00:00",
+   "looked_up": "2026-11-10T06:01:20+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -20793,11 +20778,6 @@
     }
    ],
    "status": "found"
-  },
-  "trexquant-investment-lp|swe|l1": {
-   "expires": "2026-11-10T05:48:42.370230+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
   },
   "trialx|devops|l1": {
    "expires": "2026-11-14T12:50:21.799397+00:00",
