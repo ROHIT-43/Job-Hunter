@@ -367,6 +367,11 @@
    "looked_up": "2026-10-23T17:01:26+00:00",
    "status": "not_found"
   },
+  "accordinnovations|swe|l1": {
+   "expires": "2026-11-24T13:36:38.124621+00:00",
+   "looked_up": "2026-11-10T04:01:18+00:00",
+   "status": "not_found"
+  },
   "accurate-background|swe|l2": {
    "expires": "2026-11-28T09:33:01.374130+00:00",
    "looked_up": "2026-11-07T17:01:25+00:00",
@@ -2193,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T20:52:28.686356+00:00",
-   "looked_up": "2026-11-10T03:01:22+00:00",
+   "expires": "2027-02-11T07:56:02.277135+00:00",
+   "looked_up": "2026-11-10T04:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -9071,8 +9076,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T02:31:38.416676+00:00",
-   "looked_up": "2026-11-10T03:01:22+00:00",
+   "expires": "2027-02-07T21:15:28.647960+00:00",
+   "looked_up": "2026-11-10T04:01:18+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -14532,8 +14537,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T22:50:40.838151+00:00",
-   "looked_up": "2026-11-10T03:01:22+00:00",
+   "expires": "2027-02-10T09:47:34.293706+00:00",
+   "looked_up": "2026-11-10T04:01:18+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -23190,8 +23195,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 991,
-  "lookups_today": 3,
+  "lookups_month": 992,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
