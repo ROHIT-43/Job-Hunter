@@ -2198,8 +2198,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:17:56.317208+00:00",
-   "looked_up": "2026-11-10T00:01:21+00:00",
+   "expires": "2027-02-14T21:54:26.264318+00:00",
+   "looked_up": "2026-11-10T01:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -4025,11 +4025,6 @@
    ],
    "status": "found",
    "year": 2023
-  },
-  "cdknorthamerica|swe|l1": {
-   "expires": "2026-11-10T00:56:39.438893+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
   },
   "celebaltechnologies|swe|l1": {
    "basis": "ctc",
@@ -10728,11 +10723,6 @@
    "status": "found",
    "year": 2025
   },
-  "iot-solutions-world|swe|l1": {
-   "expires": "2026-11-10T00:50:25.951816+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "ipivot|erp|l1": {
    "expires": "2026-11-12T06:38:08.941323+00:00",
    "looked_up": "2026-10-26T20:01:24+00:00",
@@ -14563,8 +14553,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:06:12.638554+00:00",
-   "looked_up": "2026-11-10T00:01:21+00:00",
+   "expires": "2027-02-03T09:08:18.369622+00:00",
+   "looked_up": "2026-11-10T01:01:22+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -20589,11 +20579,6 @@
     }
    ],
    "status": "found"
-  },
-  "tns|swe|l1": {
-   "expires": "2026-11-10T00:46:50.729854+00:00",
-   "looked_up": "2026-11-01T19:01:33+00:00",
-   "status": "not_found"
   },
   "tns|swe|l3": {
    "basis": "ctc",
