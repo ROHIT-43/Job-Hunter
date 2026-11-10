@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:54:05.256313+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-06T07:31:55.365126+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2258,8 +2258,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T10:44:26.733466+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-02T15:59:02.932474+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2311,8 +2311,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T02:53:23.691097+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-11T10:51:12.062476+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3433,8 +3433,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T15:43:14.036059+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-14T19:04:30.189211+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3447,8 +3447,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:12:23.653265+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-08T04:53:55.524194+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6433,8 +6433,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T05:53:02.836017+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-03T19:24:28.242483+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6447,8 +6447,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:27:17.117170+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-13T12:19:09.138165+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7739,8 +7739,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T07:02:27.317508+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-05T10:10:24.078539+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8014,11 +8014,6 @@
   "franklin-templeton|swe|l1": {
    "expires": "2026-11-25T04:40:48.406683+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
-   "status": "not_found"
-  },
-  "freelnace|security|l1": {
-   "expires": "2026-11-10T14:52:38.588269+00:00",
-   "looked_up": "2026-10-21T11:01:28+00:00",
    "status": "not_found"
   },
   "freseniusmedicalcare|erp|l1": {
@@ -9380,8 +9375,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:38:01.227374+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-04T05:49:00.230946+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -9404,6 +9399,26 @@
     }
    ],
    "status": "found"
+  },
+  "helpshift|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T17:58:59.898750+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
+   "max_lpa": 20.4,
+   "min_lpa": 8.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/helpshift-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/helpshift-salaries/sde/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "helpshift|swe|l1": {
    "expires": "2026-11-11T23:36:34.934391+00:00",
@@ -13525,11 +13540,6 @@
    "status": "found",
    "year": null
   },
-  "micron-technology|erp|l1": {
-   "expires": "2026-11-10T14:08:10.094238+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
   "micron-technology|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13960,6 +13970,11 @@
   "msx-international|swe|l1": {
    "expires": "2026-11-15T00:04:57.636211+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
+   "status": "not_found"
+  },
+  "multivac-technology-solutions-india-private-limited|erp|l1": {
+   "expires": "2026-11-27T00:26:24.244803+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "status": "not_found"
   },
   "mumzworld-com|devops|l1": {
@@ -18297,11 +18312,6 @@
    ],
    "status": "found"
   },
-  "selfcodeacademy|swe|l1": {
-   "expires": "2026-11-10T14:40:22.058444+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
   "sellers-commerce|swe|l1": {
    "expires": "2026-11-16T09:32:09.738389+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -18451,8 +18461,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:33:15.690635+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-12T16:43:37.016446+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19203,8 +19213,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:13:50.849684+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
+   "expires": "2027-02-11T09:13:34.359564+00:00",
+   "looked_up": "2026-11-10T15:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -23921,8 +23931,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1095,
-  "lookups_today": 107,
+  "lookups_month": 1097,
+  "lookups_today": 109,
   "month": "2026-11"
  }
 }
