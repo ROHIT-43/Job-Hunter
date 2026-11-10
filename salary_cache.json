@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:47:48.030496+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-05T08:32:44.729192+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -216,6 +216,11 @@
   "about-cloudiqs|fullstack|l1": {
    "expires": "2026-11-16T19:53:18.996109+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "acabes|data|l1": {
+   "expires": "2026-11-18T00:06:03.582975+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "status": "not_found"
   },
   "accedepro-private-limited|frontend|l3": {
@@ -695,11 +700,6 @@
   "ageless-entertainment|frontend|l1": {
    "expires": "2026-11-27T16:40:36.525051+00:00",
    "looked_up": "2026-11-08T01:01:21+00:00",
-   "status": "not_found"
-  },
-  "agivanttech|data|l1": {
-   "expires": "2026-11-10T10:51:02.657748+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
    "status": "not_found"
   },
   "ai-vidya|swe|l1": {
@@ -1884,6 +1884,26 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
+  "arcanaanalytics|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T03:11:44.592995+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 54.6,
+   "min_lpa": 49.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arcana-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arcana-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "archlynk|erp|l1": {
    "expires": "2026-11-13T17:27:59.134133+00:00",
    "looked_up": "2026-10-27T07:01:28+00:00",
@@ -2238,8 +2258,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:01:24.978558+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-15T05:05:00.235830+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2291,8 +2311,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T21:26:49.892847+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-03T14:16:21.635604+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -4105,6 +4125,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "celerityops|swe|l1": {
+   "expires": "2026-11-20T09:03:40.836468+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
   },
   "celestica|erp|l1": {
    "basis": "ctc",
@@ -6390,8 +6415,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T21:19:12.603403+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-11T03:55:23.840033+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6561,6 +6586,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "emerson|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T23:36:25.520226+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 13.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/emerson-global-salaries/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "emfica-pharmaceuticals-private-limited|fullstack|l1": {
    "expires": "2026-11-28T12:50:14.404314+00:00",
@@ -7196,6 +7237,11 @@
    "status": "found",
    "year": 2025
   },
+  "experian|erp|l1": {
+   "expires": "2026-11-29T18:17:36.533518+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
+  },
   "experityhealth|data|l2": {
    "expires": "2026-11-25T17:40:32.718431+00:00",
    "looked_up": "2026-11-09T11:01:23+00:00",
@@ -7209,6 +7255,11 @@
   "experityhealth|swe|l3": {
    "expires": "2026-11-14T08:49:10.035271+00:00",
    "looked_up": "2026-10-28T07:01:30+00:00",
+   "status": "not_found"
+  },
+  "ezspaceventures|data|l1": {
+   "expires": "2026-11-25T05:15:52.084905+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "status": "not_found"
   },
   "f5|devops|l1": {
@@ -7641,6 +7692,20 @@
    "expires": "2026-11-15T02:08:31.276453+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
+  },
+  "fizix-innovation-labs|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-01T23:10:44.693730+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "flableai|swe|l1": {
    "basis": "posted",
@@ -9257,8 +9322,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:00:27.727480+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-09T14:27:12.532762+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -9743,11 +9808,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "huntingcubeai|data|l1": {
-   "expires": "2026-11-10T10:40:33.916206+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
   },
   "huntingcubeai|frontend|l1": {
    "expires": "2026-11-14T18:15:38.826249+00:00",
@@ -13491,6 +13551,22 @@
    "looked_up": "2026-11-05T14:01:26+00:00",
    "status": "not_found"
   },
+  "mindsprint|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T10:06:19.623200+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mindsprint-salaries/backend-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "mindtelg|swe|l1": {
    "expires": "2026-11-25T22:50:52.489859+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
@@ -14598,6 +14674,11 @@
    "status": "found",
    "year": 2025
   },
+  "ntt-data-americas|security|l1": {
+   "expires": "2026-11-27T14:19:43.013373+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
+  },
   "ntt-data-americas|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14918,6 +14999,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "okta-inc-|erp|l1": {
+   "expires": "2026-11-19T10:33:49.024533+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
   },
   "olus-infomatics|swe|l1": {
    "expires": "2026-11-21T17:42:34.266867+00:00",
@@ -15335,6 +15421,11 @@
   "oslrs|data|l1": {
    "expires": "2026-11-24T10:41:53.390581+00:00",
    "looked_up": "2026-11-09T12:01:22+00:00",
+   "status": "not_found"
+  },
+  "osmos-the-omnichannel-commerce-media-operating-system|security|l1": {
+   "expires": "2026-11-19T10:45:27.287176+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "status": "not_found"
   },
   "others-limited|security|l1": {
@@ -17361,6 +17452,22 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
+  "rspinnovations|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T14:30:59.743287+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 2.8,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rspinnov-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rubrik-inc|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -18999,8 +19106,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:14:57.246324+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
+   "expires": "2027-02-03T09:00:37.658142+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -20165,6 +20272,11 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
+  "techcarvings-consultancy-pvt-ltd|erp|l1": {
+   "expires": "2026-11-30T13:13:30.916901+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
+  },
   "techdata-apac|devops|l1": {
    "expires": "2026-11-18T17:08:32.248711+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -20530,6 +20642,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/thales-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "thales|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T05:00:16.078688+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 9.3,
+   "min_lpa": 7.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/thales-salaries/noida-location?page=13"
     }
    ],
    "status": "found",
@@ -23267,6 +23395,22 @@
    "looked_up": "2026-10-31T09:01:28+00:00",
    "status": "not_found"
   },
+  "zebra-technologies|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T17:02:27.188006+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 19.6,
+   "min_lpa": 11.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/zebra-technologies-salaries/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "zebra-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23519,6 +23663,22 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
+  "zestl|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T19:04:38.862960+00:00",
+   "looked_up": "2026-11-10T11:01:25+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zvolv-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "zetasuite|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -23654,8 +23814,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1055,
-  "lookups_today": 67,
+  "lookups_month": 1070,
+  "lookups_today": 82,
   "month": "2026-11"
  }
 }
