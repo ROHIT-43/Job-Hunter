@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T14:10:29.547921+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-10T04:54:05.256313+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2258,8 +2258,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T23:30:32.037267+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-11T10:44:26.733466+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2311,8 +2311,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:28:44.085112+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-10T02:53:23.691097+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3034,11 +3034,6 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
-  "blueyonder|devops|l1": {
-   "expires": "2026-11-10T13:53:40.547908+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
   "blueyonder|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3438,8 +3433,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T09:11:28.951593+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-01T15:43:14.036059+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3452,8 +3447,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T13:31:09.319480+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-12T05:12:23.653265+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6438,8 +6433,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T06:19:31.107441+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-04T05:53:02.836017+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6452,8 +6447,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:40:42.478865+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-06T06:27:17.117170+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6862,8 +6857,8 @@
    "status": "not_found"
   },
   "ericsson|devops|l1": {
-   "expires": "2026-11-10T13:12:16.706020+00:00",
-   "looked_up": "2026-10-25T18:01:23+00:00",
+   "expires": "2026-11-28T15:09:15.056317+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "status": "not_found"
   },
   "ericsson|swe|l1": {
@@ -7744,8 +7739,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T16:17:14.491717+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-09T07:02:27.317508+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8404,6 +8399,11 @@
   "gitlab-com|data|l1": {
    "expires": "2026-11-20T06:22:27.870602+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "gitlab-com|devops|l1": {
+   "expires": "2026-11-19T18:52:56.673549+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "status": "not_found"
   },
   "gitlab-com|swe|l1": {
@@ -9372,11 +9372,16 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
+  "healthcatalyst|swe|l1": {
+   "expires": "2026-11-18T20:00:51.606283+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
+   "status": "not_found"
+  },
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T13:10:46.255603+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-14T02:38:01.227374+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -10299,6 +10304,11 @@
     }
    ],
    "status": "found"
+  },
+  "incubyte|data|l1": {
+   "expires": "2026-11-25T02:55:42.621320+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
+   "status": "not_found"
   },
   "incubyte|swe|l2": {
    "basis": "ctc",
@@ -11308,6 +11318,11 @@
     }
    ],
    "status": "found"
+  },
+  "jiffyai|devops|l1": {
+   "expires": "2026-11-19T23:00:28.161603+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
+   "status": "not_found"
   },
   "jio-saavn|devops|l1": {
    "expires": "2026-11-19T03:14:19.283850+00:00",
@@ -13655,11 +13670,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "minfy|security|l1": {
-   "expires": "2026-11-10T13:56:00.378707+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
   },
   "miq-digital|swe|l1": {
    "basis": "base",
@@ -18441,8 +18451,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T22:52:40.136575+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-15T07:33:15.690635+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18837,11 +18847,6 @@
    "looked_up": "2026-11-09T18:01:28+00:00",
    "status": "not_found"
   },
-  "smart-ims|frontend|l1": {
-   "expires": "2026-11-10T13:18:59.162407+00:00",
-   "looked_up": "2026-10-23T06:01:26+00:00",
-   "status": "not_found"
-  },
   "smartnode|swe|l1": {
    "expires": "2026-11-13T03:09:07.266842+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
@@ -19198,8 +19203,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:52:47.276222+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
+   "expires": "2027-02-04T08:13:50.849684+00:00",
+   "looked_up": "2026-11-10T14:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -23916,8 +23921,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1090,
-  "lookups_today": 102,
+  "lookups_month": 1095,
+  "lookups_today": 107,
   "month": "2026-11"
  }
 }
