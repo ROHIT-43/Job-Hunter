@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T18:01:50.649276+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-06T00:47:48.030496+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1577,6 +1577,11 @@
    "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
+  "animlslover|mobile|l1": {
+   "expires": "2026-11-19T18:26:10.318303+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "anish-ashirgade|erp|l1": {
    "expires": "2026-11-20T15:25:23.782658+00:00",
    "looked_up": "2026-11-03T03:01:30+00:00",
@@ -1872,6 +1877,11 @@
   "arcadiahq|swe|l2": {
    "expires": "2026-11-13T04:46:43.144908+00:00",
    "looked_up": "2026-10-26T13:14:58+00:00",
+   "status": "not_found"
+  },
+  "arcanaanalytics|devops|l1": {
+   "expires": "2026-11-20T14:02:23.505032+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
   "archlynk|erp|l1": {
@@ -2228,8 +2238,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T12:56:02.752652+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-11T07:01:24.978558+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -2281,8 +2291,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T01:47:14.288777+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-10T21:26:49.892847+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3246,6 +3256,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "boomlet|swe|l1": {
+   "expires": "2026-11-20T00:29:21.912650+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "bornsec|security|l1": {
    "expires": "2026-11-23T09:06:21.329751+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
@@ -4122,6 +4137,22 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "cencoraglobal|fullstack|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T07:13:49.299108+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 13.2,
+   "min_lpa": 10.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cencora-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "centera-tech|fullstack|l1": {
    "basis": "base",
@@ -6152,6 +6183,11 @@
    "looked_up": "2026-11-07T06:01:18+00:00",
    "status": "not_found"
   },
+  "dooritt|fullstack|l1": {
+   "expires": "2026-11-22T02:03:37.750030+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "dotsolved|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6354,8 +6390,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T15:22:50.236016+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-14T21:19:12.603403+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -8056,6 +8092,11 @@
    "status": "found",
    "year": 2026
   },
+  "gehealthcare|erp|l1": {
+   "expires": "2026-11-21T19:37:57.203720+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "gehealthcare|swe|l1": {
    "expires": "2026-11-18T01:29:30.375075+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -8674,6 +8715,11 @@
    "status": "found",
    "year": 2026
   },
+  "goscanpay|swe|l1": {
+   "expires": "2026-11-25T09:54:33.300427+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "gostride-ventures|swe|l1": {
    "expires": "2026-11-25T04:51:49.913669+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
@@ -9211,8 +9257,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T19:05:05.335846+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-05T18:00:27.727480+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -11288,6 +11334,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "johnson-controls|swe|l2": {
+   "expires": "2026-11-22T21:11:43.444806+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
   },
   "johnson-controls|swe|l3": {
    "expires": "2026-11-16T23:46:17.491097+00:00",
@@ -13450,6 +13501,32 @@
    "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
+  "mindzmap-digital-solutions|frontend|l1": {
+   "expires": "2026-11-18T02:14:56.447074+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
+  "mindzmap-digital-solutions|mobile|l1": {
+   "expires": "2026-11-29T18:53:32.963986+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
+  "mindzmap-digital-solutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T00:34:53.635732+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 1.8,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mindzmap-salaries/chennai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "minfy|security|l1": {
    "expires": "2026-11-10T13:56:00.378707+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -14071,6 +14148,38 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "netfillip-technologies-private-limited|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T12:49:40.833550+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "jobs.theindiajobs.com",
+     "uri": "https://jobs.theindiajobs.com/c/Netfillip-Technologies-Private-Limited/jobs/Junior-Front-End-Developer-c5EuxjXhZU"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
+  "netfillip-technologies-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T18:46:01.863846+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "thejobcompany.co.in",
+     "uri": "https://thejobcompany.co.in/frontend/job_details.php?job_id=387"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "netgear|swe|l2": {
    "basis": "ctc",
@@ -14703,8 +14812,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T13:17:25.167894+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-02T00:13:03.196006+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -17781,6 +17890,22 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
+  "schaeffler|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-03T20:57:08.113956+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 12.6,
+   "min_lpa": 4.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/schaeffler-india-salaries/embedded-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "schneider-electric|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18874,8 +18999,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:41:21.838112+00:00",
-   "looked_up": "2026-11-10T09:49:32+00:00",
+   "expires": "2027-02-10T15:14:57.246324+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -19207,6 +19332,11 @@
   "sun-life-financial|data|l1": {
    "expires": "2026-11-16T08:24:10.810098+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
+   "status": "not_found"
+  },
+  "sunamy-ai|fullstack|l1": {
+   "expires": "2026-11-30T02:32:41.757326+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
   "sunbeam-world-school123|fullstack|l1": {
@@ -20030,6 +20160,11 @@
    "looked_up": "2026-11-05T03:01:16+00:00",
    "status": "not_found"
   },
+  "techcarrot|erp|l1": {
+   "expires": "2026-11-23T11:16:23.575466+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
   "techdata-apac|devops|l1": {
    "expires": "2026-11-18T17:08:32.248711+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -20503,6 +20638,22 @@
    "expires": "2026-11-26T14:42:30.338288+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
+  },
+  "the-network|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T10:47:01.361334+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 5.7,
+   "min_lpa": 5.7,
+   "sources": [
+    {
+     "title": "jobs.weekday.works",
+     "uri": "https://jobs.weekday.works/navex-global-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "the-urbanindia|erp|l1": {
    "expires": "2026-11-11T03:58:57.594981+00:00",
@@ -22064,6 +22215,26 @@
    ],
    "status": "found"
   },
+  "visteon|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T07:40:45.798865+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/visteon-salaries/software-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/visteon-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "visteon|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22250,6 +22421,11 @@
   "wafynet|frontend|l1": {
    "expires": "2026-11-12T00:20:30.697057+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
+   "status": "not_found"
+  },
+  "wafynet|swe|l1": {
+   "expires": "2026-11-27T04:37:58.920692+00:00",
+   "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
   "walgreens|mobile|l1": {
@@ -23478,8 +23654,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1036,
-  "lookups_today": 48,
+  "lookups_month": 1055,
+  "lookups_today": 67,
   "month": "2026-11"
  }
 }
