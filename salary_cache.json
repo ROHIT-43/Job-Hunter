@@ -2193,8 +2193,8 @@
   "atraskiofficial|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T15:36:15.719635+00:00",
-   "looked_up": "2026-11-10T02:01:22+00:00",
+   "expires": "2027-02-10T20:52:28.686356+00:00",
+   "looked_up": "2026-11-10T03:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -4930,11 +4930,6 @@
    "status": "found",
    "year": 2026
   },
-  "comscore|frontend|l1": {
-   "expires": "2026-11-10T02:43:38.844882+00:00",
-   "looked_up": "2026-10-28T09:01:31+00:00",
-   "status": "not_found"
-  },
   "comscore|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6066,11 +6061,6 @@
   "ditto-insurance|swe|l1": {
    "expires": "2026-11-18T18:53:40.558599+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "dnegvfx|swe|l1": {
-   "expires": "2026-11-10T02:19:54.900967+00:00",
-   "looked_up": "2026-10-24T02:01:23+00:00",
    "status": "not_found"
   },
   "docusign|swe|l1": {
@@ -8290,11 +8280,6 @@
    "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
-  "globant|erp|l1": {
-   "expires": "2026-11-10T02:31:58.084228+00:00",
-   "looked_up": "2026-10-25T13:01:26+00:00",
-   "status": "not_found"
-  },
   "glopros|erp|l1": {
    "expires": "2026-11-13T03:33:37.803135+00:00",
    "looked_up": "2026-11-04T18:01:18+00:00",
@@ -9086,8 +9071,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:41:40.739044+00:00",
-   "looked_up": "2026-11-10T02:01:22+00:00",
+   "expires": "2027-02-03T02:31:38.416676+00:00",
+   "looked_up": "2026-11-10T03:01:22+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -12029,11 +12014,6 @@
    ],
    "status": "found"
   },
-  "levi-strauss-&amp;-co-|swe|l1": {
-   "expires": "2026-11-10T02:02:05.533764+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
   "levi-strauss-&amp;-co-|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -13341,11 +13321,6 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
-  "miraista|fullstack|l1": {
-   "expires": "2026-11-10T02:28:30.389166+00:00",
-   "looked_up": "2026-10-28T09:01:31+00:00",
-   "status": "not_found"
-  },
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14557,8 +14532,8 @@
   "objectide|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:14:29.852059+00:00",
-   "looked_up": "2026-11-10T02:01:22+00:00",
+   "expires": "2027-02-04T22:50:40.838151+00:00",
+   "looked_up": "2026-11-10T03:01:22+00:00",
    "max_lpa": 3.5,
    "min_lpa": 2.5,
    "sources": [
@@ -22691,11 +22666,6 @@
   "xylem|swe|l1": {
    "expires": "2026-11-16T22:33:48.283748+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
-   "status": "not_found"
-  },
-  "yachtlocharter|fullstack|l1": {
-   "expires": "2026-11-10T02:25:33.369660+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
   "yash-technologies-middle-east-region|data|l1": {
