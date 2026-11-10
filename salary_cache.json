@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T01:04:20.558909+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-10T00:34:29.429001+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2286,8 +2286,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T22:01:51.465262+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-04T17:14:51.009977+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2514,11 +2514,6 @@
   "ayurak|security|l1": {
    "expires": "2026-11-22T16:59:10.198885+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
-  },
-  "ayutalk|fullstack|l1": {
-   "expires": "2026-11-10T21:48:27.267185+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
   },
   "ayyati|swe|l1": {
@@ -3414,8 +3409,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:53:52.923944+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-08T02:50:42.858204+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3428,8 +3423,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T15:01:54.703065+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-03T10:26:57.741431+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6434,8 +6429,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:02:58.463144+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-12T08:55:19.392712+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6448,8 +6443,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:07:21.242363+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-11T05:04:21.975053+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7725,8 +7720,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:05:37.977288+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-04T19:45:09.382444+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -7792,9 +7787,20 @@
    "year": 2026
   },
   "flexipletech|frontend|l1": {
-   "expires": "2026-11-10T21:17:48.301480+00:00",
-   "looked_up": "2026-10-24T21:01:27+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T04:26:54.772186+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/flexiple-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "flexipletech|fullstack|l1": {
    "expires": "2026-11-27T22:06:54.679267+00:00",
@@ -8899,6 +8905,31 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
+  "greysoft|frontend|l1": {
+   "expires": "2026-11-27T02:52:31.984701+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
+   "status": "not_found"
+  },
+  "greysoft|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T18:08:37.582686+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 1.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/greysoft-salaries/mumbai-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/greysoft-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "grovergaming|swe|l1": {
    "expires": "2026-11-17T17:28:38.626231+00:00",
    "looked_up": "2026-11-05T19:01:18+00:00",
@@ -9361,8 +9392,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T06:36:33.087002+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-08T18:11:50.350734+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -10729,11 +10760,6 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
-  "infratech-insights|swe|l1": {
-   "expires": "2026-11-10T21:56:57.992892+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
-   "status": "not_found"
-  },
   "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
    "expires": "2026-11-19T00:07:02.556331+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -11571,11 +11597,6 @@
    "status": "found",
    "year": 2024
   },
-  "jpmorganchase|security|l2": {
-   "expires": "2026-11-10T21:34:34.782248+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
   "jpmorganchase|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11807,11 +11828,6 @@
   "katzen-system-india-pvt-ltd|swe|l1": {
    "expires": "2026-11-18T17:16:43.913272+00:00",
    "looked_up": "2026-10-31T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "kdksoftwareindia|fullstack|l1": {
-   "expires": "2026-11-10T21:31:32.360264+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
    "status": "not_found"
   },
   "kenzolegacyone|swe|l1": {
@@ -13285,11 +13301,6 @@
   "mbtygl|data|l1": {
    "expires": "2026-11-14T07:29:37.258499+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
-  "mbtygl|frontend|l1": {
-   "expires": "2026-11-10T22:00:44.852567+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
    "status": "not_found"
   },
   "mcafeeenterprise|swe|l1": {
@@ -17969,6 +17980,11 @@
    "status": "found",
    "year": 2025
   },
+  "sanmina|swe|l2": {
+   "expires": "2026-11-22T13:59:31.228939+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
+   "status": "not_found"
+  },
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -18500,8 +18516,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:33:18.174918+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-02T17:36:31.055485+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19247,8 +19263,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:15:13.951083+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
+   "expires": "2027-02-09T18:36:54.680395+00:00",
+   "looked_up": "2026-11-10T22:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -23945,8 +23961,8 @@
  },
  "meta": {
   "day": "2026-11-10",
-  "lookups_month": 1119,
-  "lookups_today": 131,
+  "lookups_month": 1123,
+  "lookups_today": 135,
   "month": "2026-11"
  }
 }
