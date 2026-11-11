@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:21:39.407540+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
+   "expires": "2027-02-08T15:59:38.511685+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3535,6 +3535,11 @@
    "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
+  "brigadegroup|swe|l1": {
+   "expires": "2026-11-28T18:09:17.335972+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
   "brigosha|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4099,11 +4104,6 @@
    "status": "found",
    "year": 2024
   },
-  "casepoint-llc|devops|l1": {
-   "expires": "2026-11-11T12:38:28.830122+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "cashfree|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -4501,6 +4501,22 @@
    ],
    "status": "found"
   },
+  "circles1|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T09:09:57.484571+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/circles-dot-life-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cisco|data|l1": {
    "expires": "2026-11-12T21:46:15.194163+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
@@ -4786,8 +4802,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T06:30:02.035605+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
+   "expires": "2027-02-11T06:39:52.493815+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4800,8 +4816,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:22:39.205278+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
+   "expires": "2027-02-12T00:52:40.504184+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6471,6 +6487,11 @@
    "status": "found",
    "year": 2024
   },
+  "dvk-analytics|data|l1": {
+   "expires": "2026-11-23T11:00:50.543148+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
   "eag-softwares-private-limited|erp|l1": {
    "expires": "2026-11-17T04:59:46.309224+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -6667,6 +6688,11 @@
   "ekloud|erp|l1": {
    "expires": "2026-11-24T09:36:54.617152+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "elanco|data|l1": {
+   "expires": "2026-11-25T15:51:36.937763+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "elanco|erp|l1": {
@@ -6868,6 +6894,22 @@
    "expires": "2026-11-13T14:45:20.679672+00:00",
    "looked_up": "2026-10-28T01:01:25+00:00",
    "status": "not_found"
+  },
+  "entain-india|swe|l3": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-09T16:44:15.418867+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "max_lpa": 25.4,
+   "min_lpa": 25.4,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/entain"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "enterprise-bot|devops|l1": {
    "expires": "2026-11-17T21:13:24.798599+00:00",
@@ -8463,6 +8505,11 @@
   "geoserve-maritime|devops|l1": {
    "expires": "2026-11-26T19:30:20.772816+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
+   "status": "not_found"
+  },
+  "geoserve-maritime|fullstack|l1": {
+   "expires": "2026-11-23T14:24:28.396434+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "getbadgeapp|fullstack|l1": {
@@ -10168,6 +10215,11 @@
    "looked_up": "2026-11-11T12:01:23+00:00",
    "status": "not_found"
   },
+  "hydromo|frontend|l1": {
+   "expires": "2026-11-21T22:02:29.757007+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
   "hyper-lychee-labs|frontend|l1": {
    "expires": "2026-11-16T10:27:34.057269+00:00",
    "looked_up": "2026-11-06T10:01:15+00:00",
@@ -10387,11 +10439,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "icon-strategic-solutions|swe|l1": {
-   "expires": "2026-11-11T12:14:29.865651+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
   },
   "ict-infracon|swe|l1": {
    "basis": "ctc",
@@ -12279,11 +12326,6 @@
   "knack-systems|erp|l1": {
    "expires": "2026-11-13T06:36:07.882702+00:00",
    "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
-  "kochinc|erp|l1": {
-   "expires": "2026-11-11T12:07:27.330485+00:00",
-   "looked_up": "2026-11-02T15:01:34+00:00",
    "status": "not_found"
   },
   "kognitiv-inc.|erp|l3": {
@@ -14774,11 +14816,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "nexsap-solutions|erp|l1": {
-   "expires": "2026-11-11T12:03:22.632619+00:00",
-   "looked_up": "2026-10-23T14:01:26+00:00",
-   "status": "not_found"
-  },
   "nice-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14847,6 +14884,11 @@
   "niitmts|swe|l2": {
    "expires": "2026-11-14T08:42:23.987818+00:00",
    "looked_up": "2026-11-03T17:01:35+00:00",
+   "status": "not_found"
+  },
+  "nikah-forever|swe|l2": {
+   "expires": "2026-11-29T16:16:14.322710+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "nike|devops|l1": {
@@ -15430,6 +15472,22 @@
    "expires": "2026-11-19T10:33:49.024533+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
    "status": "not_found"
+  },
+  "olivecrypto|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T23:30:15.794135+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/olive-crypto-systems-llp-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "olus-infomatics|swe|l1": {
    "expires": "2026-11-21T17:42:34.266867+00:00",
@@ -16137,8 +16195,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:26:41.953007+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
+   "expires": "2027-02-02T15:51:44.214276+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17090,6 +17148,11 @@
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
+  "qloron|devops|l1": {
+   "expires": "2026-11-26T08:17:13.473401+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
   "qnityelectronics|swe|l1": {
    "expires": "2026-11-17T12:41:14.031035+00:00",
    "looked_up": "2026-10-31T11:01:28+00:00",
@@ -17947,6 +18010,11 @@
    "status": "found",
    "year": 2026
   },
+  "roadcast-tech|devops|l1": {
+   "expires": "2026-11-25T00:20:23.493143+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
   "robotostudio|swe|l1": {
    "expires": "2026-11-19T11:36:12.966295+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
@@ -18147,11 +18215,6 @@
   "saathapp-tech|swe|l1": {
    "expires": "2026-11-26T15:44:09.037980+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
-   "status": "not_found"
-  },
-  "saatvik-agro-processors-private-limited|data|l1": {
-   "expires": "2026-11-11T12:29:46.999761+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|frontend|l1": {
@@ -18658,6 +18721,11 @@
   "schwab-india|devops|l1": {
    "expires": "2026-11-16T08:05:38.664610+00:00",
    "looked_up": "2026-11-02T01:01:29+00:00",
+   "status": "not_found"
+  },
+  "schwab-india|mobile|l1": {
+   "expires": "2026-11-20T10:23:42.954418+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "schwab-india|swe|l1": {
@@ -20350,6 +20418,22 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "syndigo|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T04:29:33.112521+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/syndigo-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "synechron|data|l1": {
    "basis": "ctc",
@@ -23112,11 +23196,6 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
-  "vml-enterprise-solutions|frontend|l1": {
-   "expires": "2026-11-11T12:15:21.503297+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "vml|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23244,6 +23323,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vyomic|security|l1": {
+   "expires": "2026-11-27T17:03:03.185148+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
   },
   "vysystems|data|l1": {
    "basis": "ctc",
@@ -23868,8 +23952,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:38:06.292422+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
+   "expires": "2027-02-09T02:20:34.455836+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24454,6 +24538,22 @@
    "status": "found",
    "year": 2025
   },
+  "zf-group|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-12T19:45:36.365304+00:00",
+   "looked_up": "2026-11-11T13:01:24+00:00",
+   "max_lpa": 5.9,
+   "min_lpa": 4.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/zf-india-technology-center-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "zillout|swe|l1": {
    "expires": "2026-11-15T14:08:17.328870+00:00",
    "looked_up": "2026-10-27T19:01:30+00:00",
@@ -24533,8 +24633,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1229,
-  "lookups_today": 104,
+  "lookups_month": 1244,
+  "lookups_today": 119,
   "month": "2026-11"
  }
 }
