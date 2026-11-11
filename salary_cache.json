@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T23:51:48.863349+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-04T05:30:29.656779+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -882,11 +882,6 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
-  "akriveia-technologies-pvt-ltd|swe|l1": {
-   "expires": "2026-11-11T04:04:42.187444+00:00",
-   "looked_up": "2026-10-21T12:01:28+00:00",
-   "status": "not_found"
-  },
   "alacriti-inc-|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1041,6 +1036,11 @@
   "alodirobotics|mobile|l1": {
    "expires": "2026-11-26T20:06:27.482998+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
+   "status": "not_found"
+  },
+  "alphacom-systems-and-solutions-private-limited|data|l1": {
+   "expires": "2026-12-01T05:49:00.108595+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
   },
   "alphadelving|frontend|l1": {
@@ -2291,8 +2291,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T16:09:09.597903+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-02T17:31:27.471072+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2917,11 +2917,6 @@
    "looked_up": "2026-10-24T00:01:32+00:00",
    "status": "not_found"
   },
-  "black-and-veatch|swe|l1": {
-   "expires": "2026-11-11T04:18:20.453543+00:00",
-   "looked_up": "2026-10-29T12:01:31+00:00",
-   "status": "not_found"
-  },
   "blackbaud-india|frontend|l1": {
    "expires": "2026-11-21T12:14:32.208254+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -3257,6 +3252,11 @@
    "status": "found",
    "year": 2026
   },
+  "bookmytournow|frontend|l1": {
+   "expires": "2026-11-21T06:55:03.278204+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
+  },
   "bookmytournow|mobile|l1": {
    "expires": "2026-11-14T05:34:44.868989+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -3409,8 +3409,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:56:28.897697+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-15T15:33:11.872114+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3423,8 +3423,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T21:07:17.137454+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-13T12:34:11.605370+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -3893,6 +3893,11 @@
   "careerxperts-consulting|fullstack|l1": {
    "expires": "2026-11-21T22:29:26.186181+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
+   "status": "not_found"
+  },
+  "careerxperts-consulting|security|l1": {
+   "expires": "2026-11-23T23:22:25.155351+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
   },
   "careerxperts-consulting|swe|l1": {
@@ -4443,6 +4448,11 @@
   "citi|fullstack|l1": {
    "expires": "2026-11-24T23:18:36.932107+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
+   "status": "not_found"
+  },
+  "clarity-medical-pvt-ltd|swe|l1": {
+   "expires": "2026-11-22T12:59:20.661556+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
   },
   "cleargrid-ai|swe|l1": {
@@ -6414,8 +6424,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:31:45.963746+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-05T16:11:24.275293+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6428,8 +6438,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T09:09:15.817567+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-08T11:10:27.751582+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7700,8 +7710,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:57:44.098900+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-07T23:04:13.944012+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -7973,6 +7983,11 @@
    "looked_up": "2026-11-01T08:01:22+00:00",
    "status": "not_found"
   },
+  "fortyv|fullstack|l1": {
+   "expires": "2026-11-18T17:40:58.957742+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
+  },
   "foxena-corporation|swe|l1": {
    "expires": "2026-11-12T09:41:25.031402+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
@@ -8144,11 +8159,6 @@
   "gcrs-group|frontend|l1": {
    "expires": "2026-11-21T07:59:04.796045+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
-   "status": "not_found"
-  },
-  "gcrs-group|swe|l1": {
-   "expires": "2026-11-11T04:17:39.576615+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
   "geappliancesco|swe|l1": {
@@ -9001,11 +9011,6 @@
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
-  "guidewire-software|swe|l1": {
-   "expires": "2026-11-11T04:53:26.398749+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "guidewire-software|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -9476,6 +9481,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "hexnode|security|l1": {
+   "expires": "2026-11-28T10:48:08.961386+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
   },
   "hextgenai|fullstack|l1": {
    "basis": "posted",
@@ -12647,6 +12657,11 @@
    "status": "found",
    "year": 2021
   },
+  "loylogic|swe|l1": {
+   "expires": "2026-11-19T17:26:33.661056+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
+  },
   "lpl-global-capability-center|frontend|l1": {
    "expires": "2026-11-16T21:03:54.426984+00:00",
    "looked_up": "2026-11-07T12:01:20+00:00",
@@ -14141,11 +14156,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ncrvoyix|data|l2": {
-   "expires": "2026-11-11T04:40:21.247416+00:00",
-   "looked_up": "2026-10-21T13:01:36+00:00",
-   "status": "not_found"
   },
   "ncrvoyix|devops|l1": {
    "expires": "2026-11-20T22:23:04.243602+00:00",
@@ -16956,6 +16966,11 @@
    "status": "found",
    "year": 2025
   },
+  "rabbitstay|swe|l1": {
+   "expires": "2026-11-21T21:06:21.952082+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
+  },
   "rackspace-technology|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -18446,8 +18461,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:16:17.449089+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-14T23:42:09.190241+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19193,8 +19208,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:59:34.674285+00:00",
-   "looked_up": "2026-11-11T04:01:21+00:00",
+   "expires": "2027-02-04T00:35:32.813213+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -20553,6 +20568,11 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
+  "tekshiras-software-services-private-limited|security|l1": {
+   "expires": "2026-11-30T09:00:42.838150+00:00",
+   "looked_up": "2026-11-11T05:01:21+00:00",
+   "status": "not_found"
+  },
   "tekskills-inc|swe|l1": {
    "expires": "2026-11-16T18:02:24.020662+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -21202,11 +21222,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "toadfly-technologies|devops|l1": {
-   "expires": "2026-11-11T04:07:58.849335+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
   },
   "tonbo-imaging|swe|l1": {
    "expires": "2026-11-13T04:17:40.828719+00:00",
@@ -23897,8 +23912,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1133,
-  "lookups_today": 8,
+  "lookups_month": 1142,
+  "lookups_today": 17,
   "month": "2026-11"
  }
 }
