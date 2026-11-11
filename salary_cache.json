@@ -627,11 +627,6 @@
    "status": "found",
    "year": 2025
   },
-  "adyapan-edutech-pvt-ltd|swe|l1": {
-   "expires": "2026-11-11T10:44:33.754544+00:00",
-   "looked_up": "2026-11-02T18:01:34+00:00",
-   "status": "not_found"
-  },
   "adyogi|fullstack|l1": {
    "expires": "2026-11-12T05:02:41.492693+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -1174,8 +1169,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T11:44:00.552564+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
+   "expires": "2027-02-14T00:02:29.660330+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1788,6 +1783,11 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
+  "appsteaninfotech|swe|l1": {
+   "expires": "2026-12-01T00:38:51.244938+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "appzlogic|swe|l1": {
    "expires": "2026-11-24T02:29:03.126038+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
@@ -2108,6 +2108,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ascendion|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T04:00:21.433214+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "max_lpa": 5.7,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ascendion-salaries/software-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ascendion-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ascendion|swe|l1": {
    "basis": "base",
@@ -3470,8 +3490,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:53:48.722550+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-04T04:09:09.867174+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3484,8 +3504,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T00:09:22.466220+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-16T09:33:11.108673+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -4751,8 +4771,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T00:49:48.863618+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-13T13:43:53.374915+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4765,8 +4785,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T02:50:06.556496+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-15T22:53:20.100738+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6543,8 +6563,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T07:36:52.089729+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-16T04:25:06.143338+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7250,6 +7270,11 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
+  "excacademy|erp|l1": {
+   "expires": "2026-11-28T05:30:19.246907+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "exl-service|data|l1": {
    "expires": "2026-11-18T20:46:25.680756+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
@@ -7765,6 +7790,11 @@
    "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
+  "fiserv|devops|l1": {
+   "expires": "2026-11-30T07:48:10.626665+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "fis|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -8018,6 +8048,11 @@
    "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
+  "fluke-corporation|security|l1": {
+   "expires": "2026-11-24T07:22:05.106354+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "flutter-entertainment-india|data|l1": {
    "expires": "2026-11-25T01:52:56.001363+00:00",
    "looked_up": "2026-11-09T12:01:22+00:00",
@@ -8113,11 +8148,6 @@
    ],
    "status": "found",
    "year": 2022
-  },
-  "foreseesecurity|security|l1": {
-   "expires": "2026-11-11T10:31:39.225662+00:00",
-   "looked_up": "2026-11-01T08:01:22+00:00",
-   "status": "not_found"
   },
   "fortyv|fullstack|l1": {
    "expires": "2026-11-18T17:40:58.957742+00:00",
@@ -9722,11 +9752,6 @@
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
-  "hirojet|devops|l1": {
-   "expires": "2026-11-11T10:05:36.292449+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
-   "status": "not_found"
-  },
   "hitachi-digital-services|swe|l1": {
    "expires": "2026-11-15T01:39:04.973727+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -10123,6 +10148,22 @@
    "looked_up": "2026-11-09T11:01:23+00:00",
    "status": "not_found"
   },
+  "hypersoft-technologies-ltd|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T02:52:40.759657+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hypersoft-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -10296,11 +10337,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "icon-plc-2|swe|l1": {
-   "expires": "2026-11-11T10:11:03.567654+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
   },
   "icon-plc-2|swe|l2": {
    "basis": "ctc",
@@ -11120,6 +11156,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "insixti|fullstack|l1": {
+   "expires": "2026-11-29T11:42:43.134353+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
   },
   "instantdm|fullstack|l1": {
    "expires": "2026-11-21T02:58:09.046992+00:00",
@@ -13268,6 +13309,11 @@
    ],
    "status": "found"
   },
+  "market-disc-media-private-limited|swe|l1": {
+   "expires": "2026-12-02T10:30:40.666433+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "marketingvertos|frontend|l1": {
    "expires": "2026-11-19T04:11:15.147085+00:00",
    "looked_up": "2026-11-11T09:01:25+00:00",
@@ -13526,6 +13572,11 @@
    "status": "found",
    "year": 2026
   },
+  "max-cement-green-valliey-industries-ltd|erp|l1": {
+   "expires": "2026-11-25T03:39:10.955106+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "maxval-group-inc.|erp|l1": {
    "expires": "2026-11-17T16:17:25.599380+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -13747,6 +13798,11 @@
   "metlife|data|l1": {
    "expires": "2026-11-23T14:03:57.529440+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
+   "status": "not_found"
+  },
+  "metlife|devops|l1": {
+   "expires": "2026-12-01T06:38:24.019806+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
   "metlife|devops|l2": {
@@ -15920,6 +15976,11 @@
    "looked_up": "2026-11-05T19:01:18+00:00",
    "status": "not_found"
   },
+  "parul-university|swe|l1": {
+   "expires": "2026-11-22T12:50:53.510909+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "pattern-hq|swe|l2": {
    "expires": "2026-11-19T16:50:04.710789+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -16041,8 +16102,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:45:10.660263+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-04T18:15:24.800131+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16303,6 +16364,11 @@
   "pink-gorilla|fullstack|l1": {
    "expires": "2026-11-12T13:12:00.214605+00:00",
    "looked_up": "2026-10-25T00:01:34+00:00",
+   "status": "not_found"
+  },
+  "pinnacleminds-it-solutions|frontend|l1": {
+   "expires": "2026-11-21T02:24:38.339189+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
   "pivot-path-global|erp|l1": {
@@ -17103,6 +17169,22 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "quantiphi|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T13:49:57.300205+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "max_lpa": 14.6,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/quantiphi/salaries/software-engineer/locations/mumbai-metropolitan-region"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "quantum-integrators-group-llc|erp|l1": {
    "expires": "2026-11-19T20:59:44.141173+00:00",
@@ -18038,6 +18120,11 @@
    "looked_up": "2026-10-21T21:01:29+00:00",
    "status": "not_found"
   },
+  "sabthik|erp|l1": {
+   "expires": "2026-11-22T12:34:04.788593+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "saeculumsolutions|frontend|l1": {
    "expires": "2026-11-11T19:50:34.683562+00:00",
    "looked_up": "2026-10-23T15:01:32+00:00",
@@ -18544,6 +18631,11 @@
    "looked_up": "2026-10-25T10:01:24+00:00",
    "status": "not_found"
   },
+  "scoutit-in|devops|l1": {
+   "expires": "2026-11-22T01:01:58.760835+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
   "scoutit-in|frontend|l1": {
    "expires": "2026-11-16T19:21:16.559825+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
@@ -18827,8 +18919,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T07:47:59.799243+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-02T18:38:55.228903+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19675,6 +19767,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/s-and-p-global-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "spider-software-pvt--ltd-|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T15:49:55.988935+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
+   "max_lpa": 4.4,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/spider-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/spider-software-salaries"
     }
    ],
    "status": "found",
@@ -23686,8 +23798,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:47:45.399107+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
+   "expires": "2027-02-11T18:39:42.378609+00:00",
+   "looked_up": "2026-11-11T11:01:40+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -23920,11 +24032,6 @@
   "yral-foods|mobile|l1": {
    "expires": "2026-11-13T13:16:06.003547+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
-  "yum-brands|data|l1": {
-   "expires": "2026-11-11T10:17:03.717777+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
   "z-transform-media|swe|l1": {
@@ -24356,8 +24463,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1204,
-  "lookups_today": 79,
+  "lookups_month": 1220,
+  "lookups_today": 95,
   "month": "2026-11"
  }
 }
