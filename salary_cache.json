@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T01:23:57.744750+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-10T06:00:58.531669+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2352,6 +2352,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "autoven|swe|l1": {
+   "expires": "2026-11-24T10:33:19.652919+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
+  },
   "avaloq|frontend|l1": {
    "expires": "2026-11-12T05:01:18.959150+00:00",
    "looked_up": "2026-10-22T12:01:29+00:00",
@@ -2824,6 +2829,22 @@
    "expires": "2026-11-26T00:16:18.150366+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
+  },
+  "bhanzu|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T21:19:25.677576+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "max_lpa": 28.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bhanzu-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "bikglobal|swe|l1": {
    "basis": "base",
@@ -3409,8 +3430,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T14:23:45.945744+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-15T07:22:23.934715+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3423,8 +3444,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:49:56.566632+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-13T01:49:04.493924+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -6424,8 +6445,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T13:27:27.099969+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-12T17:21:47.533692+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6438,8 +6459,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T21:35:41.517708+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-03T05:54:39.044761+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7731,8 +7752,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T00:08:49.745123+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-14T02:51:56.383988+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -8180,6 +8201,11 @@
   "gcrs-group|frontend|l1": {
    "expires": "2026-11-21T07:59:04.796045+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
+   "status": "not_found"
+  },
+  "gcrs-group|swe|l1": {
+   "expires": "2026-11-24T06:28:04.674993+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
   "geappliancesco|swe|l1": {
@@ -9466,6 +9492,26 @@
     }
    ],
    "status": "found"
+  },
+  "hevodata|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T14:03:23.584611+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hevo-data-salaries/software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1448892/hevo-data-sde-1-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "hewlett-packard-enterprise|swe|l1": {
    "basis": "base",
@@ -13752,6 +13798,11 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
+  "miraixorg|data|l1": {
+   "expires": "2026-11-23T03:28:50.583825+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
+  },
   "mirum-gmbh|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15258,6 +15309,11 @@
    "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
+  "openstars|frontend|l1": {
+   "expires": "2026-11-20T08:09:56.764107+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
+  },
   "openstellar|frontend|l1": {
    "expires": "2026-11-11T22:56:18.163299+00:00",
    "looked_up": "2026-11-04T03:01:31+00:00",
@@ -15559,6 +15615,11 @@
   "owlly-health|swe|l1": {
    "expires": "2026-11-22T20:36:13.883080+00:00",
    "looked_up": "2026-11-04T20:01:18+00:00",
+   "status": "not_found"
+  },
+  "owlsure|swe|l1": {
+   "expires": "2026-11-23T06:36:12.845763+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
   "oxybills|swe|l1": {
@@ -18541,8 +18602,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T08:54:30.079549+00:00",
-   "looked_up": "2026-11-11T06:35:48+00:00",
+   "expires": "2027-02-13T06:43:02.247941+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18586,6 +18647,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sibas-ultrasonics-private-limited|swe|l1": {
+   "expires": "2026-11-19T16:30:37.430371+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
   },
   "siemens-energy|security|l1": {
    "basis": "ctc",
@@ -20674,11 +20740,6 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
-  "tekwissenindia|erp|l1": {
-   "expires": "2026-11-11T06:53:36.763788+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
-  },
   "tekwissenindia|swe|l1": {
    "expires": "2026-11-14T05:08:56.149084+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
@@ -21099,6 +21160,11 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
+  "themesoft-inc.|swe|l1": {
+   "expires": "2026-11-26T10:40:26.144680+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
+  },
   "thepantproject|swe|l1": {
    "expires": "2026-11-20T08:55:05.770505+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -21232,11 +21298,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "thomson-reuters|swe|l2": {
-   "expires": "2026-11-11T06:48:35.410908+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
   },
   "thoughtsol-infotech-ltd|mobile|l1": {
    "expires": "2026-11-16T18:52:57.590606+00:00",
@@ -22877,11 +22938,6 @@
    "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
   },
-  "warriorbabe|data|l1": {
-   "expires": "2026-11-11T06:47:10.640163+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
-   "status": "not_found"
-  },
   "wbcsoftwarelabkaraikudi|devops|l1": {
    "expires": "2026-11-21T23:02:59.364343+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
@@ -23369,6 +23425,20 @@
    "expires": "2026-11-13T07:36:33.511976+00:00",
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
+  },
+  "wosirati|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-05T18:46:23.722242+00:00",
+   "looked_up": "2026-11-11T07:01:25+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "wpp-enterprise-solutions|frontend|l1": {
    "expires": "2026-11-17T03:56:51.203893+00:00",
@@ -24029,8 +24099,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1161,
-  "lookups_today": 36,
+  "lookups_month": 1170,
+  "lookups_today": 45,
   "month": "2026-11"
  }
 }
