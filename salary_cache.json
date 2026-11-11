@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T08:29:29.855874+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-02T23:51:48.863349+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2291,8 +2291,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:27:26.203162+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-07T16:09:09.597903+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3380,11 +3380,6 @@
    "looked_up": "2026-11-11T01:01:23+00:00",
    "status": "not_found"
   },
-  "bregidfashion|frontend|l1": {
-   "expires": "2026-11-11T03:33:33.078974+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
-   "status": "not_found"
-  },
   "brela-innovations|fullstack|l1": {
    "expires": "2026-11-11T15:14:14.692547+00:00",
    "looked_up": "2026-11-01T19:01:33+00:00",
@@ -3414,8 +3409,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T07:39:25.550562+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-07T03:56:28.897697+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3428,8 +3423,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T07:17:48.513034+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-04T21:07:17.137454+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -5439,11 +5434,6 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
-  "cxo-academy-us|swe|l1": {
-   "expires": "2026-11-11T03:23:25.152467+00:00",
-   "looked_up": "2026-10-28T04:01:24+00:00",
-   "status": "not_found"
-  },
   "cxo-awards-global|swe|l1": {
    "expires": "2026-11-11T17:23:01.183074+00:00",
    "looked_up": "2026-10-27T08:01:26+00:00",
@@ -6424,8 +6414,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T08:54:52.388091+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-03T06:31:45.963746+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6438,8 +6428,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T02:38:49.228659+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-03T09:09:15.817567+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6639,11 +6629,6 @@
   "encloseit|erp|l1": {
    "expires": "2026-11-11T20:47:54.688912+00:00",
    "looked_up": "2026-10-22T05:01:28+00:00",
-   "status": "not_found"
-  },
-  "encoreitsolutions|swe|l1": {
-   "expires": "2026-11-11T03:58:23.006628+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
   "englishyaari|swe|l1": {
@@ -7715,8 +7700,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T03:32:58.934112+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-05T01:57:44.098900+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -17085,11 +17070,6 @@
    "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
-  "rea-cyber-city|swe|l1": {
-   "expires": "2026-11-11T03:02:30.924044+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "real-time-applications-center|swe|l1": {
    "expires": "2026-11-13T15:57:11.405483+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -18466,8 +18446,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T09:35:44.850276+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-03T19:16:17.449089+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19213,8 +19193,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T16:05:56.565260+00:00",
-   "looked_up": "2026-11-11T03:01:19+00:00",
+   "expires": "2027-02-13T15:59:34.674285+00:00",
+   "looked_up": "2026-11-11T04:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -19593,11 +19573,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sunteknovation|swe|l1": {
-   "expires": "2026-11-11T03:40:51.737245+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
   },
   "supayou|swe|l1": {
    "expires": "2026-11-16T10:39:23.241644+00:00",
@@ -20935,11 +20910,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "the-urbanindia|erp|l1": {
-   "expires": "2026-11-11T03:58:57.594981+00:00",
-   "looked_up": "2026-10-22T18:01:28+00:00",
-   "status": "not_found"
   },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
