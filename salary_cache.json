@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T22:05:51.351009+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-03T01:23:57.744750+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -917,11 +917,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "alchem-international-pvt-ltd|frontend|l1": {
-   "expires": "2026-11-11T06:25:41.759972+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
-   "status": "not_found"
   },
   "algoforge-aerospace|swe|l1": {
    "expires": "2026-11-22T15:08:13.381912+00:00",
@@ -2296,8 +2291,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T22:30:20.400689+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-12T09:29:30.508339+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3414,8 +3409,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T16:16:03.816973+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-08T14:23:45.945744+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3428,8 +3423,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T22:50:39.449558+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-10T22:49:56.566632+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -4328,11 +4323,6 @@
   "chate-coaching-classes|fullstack|l1": {
    "expires": "2026-11-15T08:51:06.106086+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
-  "chate-coaching-classes|swe|l1": {
-   "expires": "2026-11-11T06:21:01.336646+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
    "status": "not_found"
   },
   "chevron|data|l1": {
@@ -6434,8 +6424,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:02:25.773183+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-02T13:27:27.099969+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6448,8 +6438,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T15:35:46.329199+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-02T21:35:41.517708+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6485,8 +6475,8 @@
    "status": "not_found"
   },
   "effulgent-inc|swe|l1": {
-   "expires": "2026-11-11T06:24:14.480621+00:00",
-   "looked_up": "2026-10-26T03:01:31+00:00",
+   "expires": "2026-11-20T10:20:58.266180+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "status": "not_found"
   },
   "eglogics-softech|swe|l1": {
@@ -7741,8 +7731,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T15:48:40.308459+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-09T00:08:49.745123+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -18551,8 +18541,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T11:36:34.914812+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-15T08:54:30.079549+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19298,8 +19288,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T03:55:05.331135+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
+   "expires": "2027-02-13T01:48:36.406364+00:00",
+   "looked_up": "2026-11-11T06:35:48+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -24039,8 +24029,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1160,
-  "lookups_today": 35,
+  "lookups_month": 1161,
+  "lookups_today": 36,
   "month": "2026-11"
  }
 }
