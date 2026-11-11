@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T06:00:58.531669+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-03T00:02:16.186590+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2278,6 +2278,11 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
+  "auditics|fullstack|l1": {
+   "expires": "2026-11-24T19:10:24.028655+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "aumi-robotics|swe|l1": {
    "expires": "2026-11-13T15:20:34.303473+00:00",
    "looked_up": "2026-10-25T10:01:24+00:00",
@@ -3430,8 +3435,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:22:23.934715+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-15T07:23:08.133781+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3444,8 +3449,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T01:49:04.493924+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-13T04:14:11.266783+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -3475,6 +3480,26 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "brigosha|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T10:28:47.686799+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/brigosha-technologies-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/brigosha-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "brillio|swe|l1": {
    "basis": "ctc",
@@ -4590,6 +4615,11 @@
     }
    ],
    "status": "found"
+  },
+  "cloudwick|devops|l1": {
+   "expires": "2026-11-29T04:40:44.248965+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
   },
   "cloudwick|frontend|l1": {
    "expires": "2026-11-16T03:07:26.055792+00:00",
@@ -6445,8 +6475,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T17:21:47.533692+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-03T07:27:14.393088+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6459,8 +6489,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T05:54:39.044761+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-04T08:28:39.451011+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7328,6 +7358,11 @@
    "looked_up": "2026-11-10T11:01:25+00:00",
    "status": "not_found"
   },
+  "ezspaceventures|erp|l1": {
+   "expires": "2026-11-20T21:51:28.907526+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "f5|devops|l1": {
    "expires": "2026-11-21T13:23:52.261108+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
@@ -7752,8 +7787,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:51:56.383988+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-09T22:04:26.101697+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -14214,11 +14249,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "navihyr|fullstack|l1": {
-   "expires": "2026-11-11T07:12:59.597662+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
   "ncratleos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16130,6 +16160,26 @@
    "looked_up": "2026-10-27T08:01:26+00:00",
    "status": "not_found"
   },
+  "planfirma-technologies-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T04:52:27.345730+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 1.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/planfirma-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/planfirma-reviews/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "planview|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -17413,6 +17463,11 @@
    "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
+  "resiliencesoft|fullstack|l1": {
+   "expires": "2026-11-30T10:27:13.270591+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "responsiveio|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18104,6 +18159,11 @@
    ],
    "status": "found"
   },
+  "sapphire-stream-technologies-private-limited|swe|l1": {
+   "expires": "2026-11-19T11:06:13.090151+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "sap|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18527,6 +18587,11 @@
    ],
    "status": "found"
   },
+  "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
+   "expires": "2026-11-26T13:19:06.781930+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "sharechat|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -18602,8 +18667,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:43:02.247941+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-12T09:04:25.872511+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18842,11 +18907,6 @@
   "simple-energy-pvt-ltd|mobile|l1": {
    "expires": "2026-11-16T02:52:09.150354+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
-  },
-  "singhania-tableting|swe|l1": {
-   "expires": "2026-11-11T07:42:27.091426+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
    "status": "not_found"
   },
   "siraj-software-solution|frontend|l1": {
@@ -19432,11 +19492,6 @@
   "south-system|data|l1": {
    "expires": "2026-11-19T13:52:59.020123+00:00",
    "looked_up": "2026-10-30T23:01:39+00:00",
-   "status": "not_found"
-  },
-  "south-system|fullstack|l1": {
-   "expires": "2026-11-11T07:30:24.633450+00:00",
-   "looked_up": "2026-10-30T00:01:35+00:00",
    "status": "not_found"
   },
   "spadtek-solutions|erp|l1": {
@@ -20071,11 +20126,6 @@
   "taazaa-inc|swe|l1": {
    "expires": "2026-11-20T12:54:02.041922+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
-  "talemexa-private-limited|mobile|l1": {
-   "expires": "2026-11-11T07:43:02.235338+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
    "status": "not_found"
   },
   "talent-matics|fullstack|l1": {
@@ -22395,6 +22445,11 @@
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
+  "velicham-finance|fullstack|l1": {
+   "expires": "2026-11-23T21:13:57.878788+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
   "veltique-software|erp|l1": {
    "expires": "2026-11-17T23:13:50.509540+00:00",
    "looked_up": "2026-11-09T06:01:20+00:00",
@@ -23429,8 +23484,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:46:23.722242+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
+   "expires": "2027-02-03T03:15:33.249513+00:00",
+   "looked_up": "2026-11-11T08:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24099,8 +24154,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1170,
-  "lookups_today": 45,
+  "lookups_month": 1179,
+  "lookups_today": 54,
   "month": "2026-11"
  }
 }
