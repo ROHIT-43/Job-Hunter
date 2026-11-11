@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:18:58.136741+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-16T05:28:13.967090+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2205,6 +2205,22 @@
    "looked_up": "2026-11-11T09:01:25+00:00",
    "status": "not_found"
   },
+  "athenahealth|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T00:23:10.393911+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 11.5,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/athenahealth/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "athenahealth|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2820,6 +2836,11 @@
    "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
+  "bash.ai|fullstack|l1": {
+   "expires": "2026-11-28T21:39:39.801478+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
+  },
   "bayer|erp|l1": {
    "expires": "2026-11-23T00:40:12.897989+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -2986,6 +3007,11 @@
   "bizzaidev|fullstack|l1": {
    "expires": "2026-11-13T10:02:48.947670+00:00",
    "looked_up": "2026-10-24T00:01:32+00:00",
+   "status": "not_found"
+  },
+  "black-and-veatch|swe|l1": {
+   "expires": "2026-11-28T11:49:14.137635+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "blackbaud-india|frontend|l1": {
@@ -4792,8 +4818,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T12:38:30.161864+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-12T03:58:59.973901+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4806,8 +4832,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T09:42:10.987976+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-16T13:29:29.727384+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5630,11 +5656,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "cyanaq-systems|frontend|l1": {
-   "expires": "2026-11-11T16:01:57.708987+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "cyanaq-systems|fullstack|l1": {
    "expires": "2026-11-12T16:59:04.621220+00:00",
    "looked_up": "2026-11-01T04:01:23+00:00",
@@ -5854,6 +5875,11 @@
   "databerry-technologies-pvt-ltd|devops|l1": {
    "expires": "2026-11-26T07:43:10.265247+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "datacurate|data|l1": {
+   "expires": "2026-11-28T01:00:00.630812+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "datae2e|data|l1": {
@@ -7493,6 +7519,11 @@
   "experian|erp|l1": {
    "expires": "2026-11-29T18:17:36.533518+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
+   "status": "not_found"
+  },
+  "experian|swe|l1": {
+   "expires": "2026-11-20T14:58:22.358945+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "experityhealth|data|l2": {
@@ -11077,6 +11108,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "infynova|swe|l1": {
+   "expires": "2026-12-01T23:46:35.962240+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
+  },
   "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
    "expires": "2026-11-19T00:07:02.556331+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
@@ -11806,11 +11842,6 @@
   "joblet-ai|swe|l1": {
    "expires": "2026-11-20T23:04:59.713753+00:00",
    "looked_up": "2026-11-06T18:01:16+00:00",
-   "status": "not_found"
-  },
-  "jobofdreams|data|l1": {
-   "expires": "2026-11-11T16:32:54.995350+00:00",
-   "looked_up": "2026-10-24T18:01:42+00:00",
    "status": "not_found"
   },
   "jobspiq|devops|l1": {
@@ -14408,6 +14439,11 @@
    "status": "found",
    "year": 2025
   },
+  "mri-software-llc|swe|l3": {
+   "expires": "2026-12-02T04:26:58.023530+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
+  },
   "msd-global|swe|l1": {
    "expires": "2026-11-18T08:28:06.012690+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
@@ -14542,6 +14578,11 @@
   "nationwide|swe|l1": {
    "expires": "2026-11-18T10:15:18.851023+00:00",
    "looked_up": "2026-11-04T19:01:20+00:00",
+   "status": "not_found"
+  },
+  "natwest-group|data|l1": {
+   "expires": "2026-11-23T14:53:55.960974+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "natwest-group|devops|l1": {
@@ -15564,11 +15605,6 @@
    "status": "found",
    "year": 2025
   },
-  "one-simulation|devops|l1": {
-   "expires": "2026-11-11T16:02:27.094759+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
-   "status": "not_found"
-  },
   "one-simulation|frontend|l1": {
    "expires": "2026-11-19T20:55:28.985220+00:00",
    "looked_up": "2026-11-04T03:01:31+00:00",
@@ -16231,8 +16267,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:51:19.830482+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-08T16:59:15.944772+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17174,11 +17210,6 @@
    "status": "found",
    "year": 2026
   },
-  "qapsoftwaresolutions|swe|l1": {
-   "expires": "2026-11-11T16:18:27.216815+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
-   "status": "not_found"
-  },
   "qbyss|frontend|l1": {
    "expires": "2026-11-15T03:04:21.966123+00:00",
    "looked_up": "2026-10-25T12:01:27+00:00",
@@ -17601,6 +17632,11 @@
   "rapidbrains|erp|l1": {
    "expires": "2026-11-17T10:33:28.283818+00:00",
    "looked_up": "2026-11-09T12:01:22+00:00",
+   "status": "not_found"
+  },
+  "rawatsons-engineers-private-limited|swe|l1": {
+   "expires": "2026-12-01T18:32:54.675437+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "razorpay|frontend|l1": {
@@ -18682,6 +18718,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "sauce-labs|swe|l1": {
+   "expires": "2026-11-19T17:46:19.001537+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
   },
   "sava-info-systems-pvt-ltd|swe|l3": {
    "basis": "posted",
@@ -22452,8 +22493,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T16:44:05.337036+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-13T21:06:28.891713+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22466,8 +22507,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T08:59:10.625025+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-05T17:35:15.609333+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22564,6 +22605,27 @@
     {
      "title": "glassdoor.com",
      "uri": "https://www.glassdoor.com/Job/servicenow-developer-hrsd-jobs-SRCH_IC2833209_KO0,25.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ups|frontend|l1": {
+   "expires": "2026-11-18T20:28:15.171776+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
+  },
+  "ups|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T18:49:15.467828+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "hw.glich.co",
+     "uri": "https://hw.glich.co/jobboard/jobs/associate-application-developer-full-stack-at-ups-iydezw"
     }
    ],
    "status": "found",
@@ -24016,8 +24078,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:26:28.566765+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2027-02-08T12:39:29.274252+00:00",
+   "looked_up": "2026-11-11T17:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24697,8 +24759,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1257,
-  "lookups_today": 132,
+  "lookups_month": 1269,
+  "lookups_today": 144,
   "month": "2026-11"
  }
 }
