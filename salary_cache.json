@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T01:01:38.732194+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-09T21:31:03.757858+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -138,6 +138,11 @@
   "aalim-muhammed-salegh-college-of-engineering|swe|l1": {
    "expires": "2026-11-12T13:24:04.178759+00:00",
    "looked_up": "2026-11-04T14:01:32+00:00",
+   "status": "not_found"
+  },
+  "aatmunn-ai|swe|l1": {
+   "expires": "2026-11-29T11:47:09.465405+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "status": "not_found"
   },
   "aayaninfotech|swe|l1": {
@@ -470,11 +475,6 @@
   "activefitnessstore|swe|l1": {
    "expires": "2026-11-15T00:08:38.867630+00:00",
    "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
-  "actowiz|fullstack|l1": {
-   "expires": "2026-11-11T00:21:07.531017+00:00",
-   "looked_up": "2026-10-24T05:01:36+00:00",
    "status": "not_found"
   },
   "acttconnect20|swe|l1": {
@@ -1617,11 +1617,6 @@
    "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
-  "antyl-ai|fullstack|l1": {
-   "expires": "2026-11-11T00:53:32.044841+00:00",
-   "looked_up": "2026-10-23T09:01:25+00:00",
-   "status": "not_found"
-  },
   "anzo-controls|swe|l1": {
    "expires": "2026-11-11T18:36:10.825212+00:00",
    "looked_up": "2026-10-26T10:01:29+00:00",
@@ -2301,8 +2296,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T21:57:53.035117+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-06T06:01:10.853377+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -3390,6 +3385,11 @@
    ],
    "status": "found"
   },
+  "break-the-code-company|frontend|l1": {
+   "expires": "2026-11-29T22:53:05.908424+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
+   "status": "not_found"
+  },
   "bregidfashion|frontend|l1": {
    "expires": "2026-11-11T03:33:33.078974+00:00",
    "looked_up": "2026-11-03T18:02:22+00:00",
@@ -3424,8 +3424,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:30:09.445127+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-10T19:14:18.816517+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3438,8 +3438,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T08:12:16.461722+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-14T08:29:22.710059+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -3661,6 +3661,26 @@
    "expires": "2026-11-20T00:49:25.447847+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
+  },
+  "canonical|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T17:55:27.385391+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
+   "max_lpa": 48.0,
+   "min_lpa": 25.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/canonical-salaries"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/canonical/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "cantellat|mobile|l1": {
    "expires": "2026-11-11T05:24:43.777615+00:00",
@@ -4092,11 +4112,6 @@
   "caxton-associates|security|l1": {
    "expires": "2026-11-21T13:43:00.061729+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "cbts-technology-covered|devops|l1": {
-   "expires": "2026-11-11T00:52:10.040735+00:00",
-   "looked_up": "2026-10-22T15:01:34+00:00",
    "status": "not_found"
   },
   "cbts-technology-covered|security|l1": {
@@ -5937,11 +5952,6 @@
    "status": "found",
    "year": 2026
   },
-  "delphie-consulting-services|mobile|l1": {
-   "expires": "2026-11-11T00:20:29.777026+00:00",
-   "looked_up": "2026-10-26T08:01:27+00:00",
-   "status": "not_found"
-  },
   "delta-technology-hub|erp|l1": {
    "expires": "2026-11-29T00:24:26.532946+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
@@ -6444,8 +6454,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T15:43:41.845459+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-04T07:27:55.670899+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6458,8 +6468,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T13:33:52.877932+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-12T01:51:06.342835+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7735,8 +7745,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T06:31:20.278947+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-13T05:31:56.940888+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9402,8 +9412,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T09:47:06.243751+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-07T18:33:14.204426+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -11145,6 +11155,11 @@
   "iris-software-inc.|erp|l1": {
    "expires": "2026-11-13T17:56:28.375336+00:00",
    "looked_up": "2026-10-30T02:01:28+00:00",
+   "status": "not_found"
+  },
+  "isha-life-health-solutions|fullstack|l1": {
+   "expires": "2026-11-21T14:47:25.922716+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "status": "not_found"
   },
   "ishift4cloud|swe|l1": {
@@ -18501,8 +18516,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T03:55:41.537742+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-08T16:46:12.938628+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19248,8 +19263,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T04:41:50.696671+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
+   "expires": "2027-02-04T04:24:32.060537+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -19437,6 +19452,22 @@
    "expires": "2026-11-14T05:32:11.176731+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
+  },
+  "startoonlabs|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-07T05:52:39.673890+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/startoon-labs-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "state-street|data|l1": {
    "expires": "2026-11-13T02:10:42.184846+00:00",
@@ -20507,6 +20538,31 @@
    "looked_up": "2026-11-02T20:01:29+00:00",
    "status": "not_found"
   },
+  "technogenindia|fullstack|l1": {
+   "expires": "2026-12-01T01:46:47.515635+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
+   "status": "not_found"
+  },
+  "technogenindia|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T04:00:19.813105+00:00",
+   "looked_up": "2026-11-11T01:01:23+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/technogen-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/technogen-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "technoiogy-ia|swe|l1": {
    "expires": "2026-11-18T15:18:08.344157+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
@@ -20952,11 +21008,6 @@
   "the10xagency|swe|l1": {
    "expires": "2026-11-13T04:43:49.829339+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
-  "thealteroffice|mobile|l1": {
-   "expires": "2026-11-11T00:34:04.337923+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
   "thealteroffice|swe|l1": {
@@ -22678,11 +22729,6 @@
    "looked_up": "2026-10-27T10:01:29+00:00",
    "status": "not_found"
   },
-  "wabotech|data|l1": {
-   "expires": "2026-11-11T00:44:41.968134+00:00",
-   "looked_up": "2026-10-31T18:01:24+00:00",
-   "status": "not_found"
-  },
   "wafynet|frontend|l1": {
    "expires": "2026-11-12T00:20:30.697057+00:00",
    "looked_up": "2026-11-02T23:01:34+00:00",
@@ -23936,8 +23982,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1126,
-  "lookups_today": 1,
+  "lookups_month": 1133,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
