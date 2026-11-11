@@ -607,6 +607,26 @@
    "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
+  "adtran|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T23:42:18.773575+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "builtinhyderabad.in",
+     "uri": "https://builtinhyderabad.in/job/software-engineer/4151592"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/adtran-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "adyapan-edutech-pvt-ltd|swe|l1": {
    "expires": "2026-11-11T10:44:33.754544+00:00",
    "looked_up": "2026-11-02T18:01:34+00:00",
@@ -759,6 +779,26 @@
    "expires": "2026-11-12T07:24:49.294824+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
+  },
+  "airtel|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-02T13:09:50.582332+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 9.2,
+   "min_lpa": 7.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/airtel-digital-salaries/devops-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bharti-airtel-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "airtel|swe|l1": {
    "basis": "ctc",
@@ -3430,8 +3470,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:19:42.036859+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-02T18:53:48.722550+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3444,8 +3484,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T04:38:28.193893+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-07T00:09:22.466220+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -4708,11 +4748,25 @@
    ],
    "status": "found"
   },
+  "coderoundai|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-12T00:49:48.863618+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T02:38:54.417763+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
+   "expires": "2027-02-03T02:50:06.556496+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5379,6 +5433,11 @@
    "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
+  "crossinghurdles|fullstack|l1": {
+   "expires": "2026-11-29T11:13:30.519409+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "crossinghurdles|mobile|l1": {
    "expires": "2026-11-17T02:16:26.748237+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
@@ -5983,11 +6042,6 @@
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
-  "deltatre|mobile|l1": {
-   "expires": "2026-11-11T09:40:04.992002+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
   "dentsuglobalservices|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6489,8 +6543,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:03:16.039728+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-08T07:36:52.089729+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6651,6 +6705,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "emergenceai|swe|l1": {
+   "expires": "2026-11-24T01:04:08.330884+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
   },
   "emerson|erp|l1": {
    "expires": "2026-11-16T19:29:45.591262+00:00",
@@ -7787,8 +7846,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:47:35.288636+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-09T05:52:13.267107+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -10437,6 +10496,11 @@
    "looked_up": "2026-11-07T21:01:17+00:00",
    "status": "not_found"
   },
+  "imi|swe|l1": {
+   "expires": "2026-11-22T17:39:57.079189+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "in-tech-gmbh|swe|l1": {
    "expires": "2026-11-12T13:15:18.864827+00:00",
    "looked_up": "2026-10-27T11:01:31+00:00",
@@ -10992,6 +11056,11 @@
   "innowrap|swe|l1": {
    "expires": "2026-11-13T03:13:17.852107+00:00",
    "looked_up": "2026-10-29T09:01:32+00:00",
+   "status": "not_found"
+  },
+  "inovalon|swe|l1": {
+   "expires": "2026-11-28T04:42:06.870436+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
   "insight-global|devops|l1": {
@@ -12163,6 +12232,11 @@
   "komodo-health|erp|l1": {
    "expires": "2026-11-22T03:25:56.663870+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
+  "kone|devops|l1": {
+   "expires": "2026-11-27T06:45:16.340998+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
   "konrad-group|fullstack|l1": {
@@ -14829,6 +14903,11 @@
    "status": "found",
    "year": 2025
   },
+  "northladder|frontend|l1": {
+   "expires": "2026-11-19T00:22:20.312892+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "norwin-technologies|security|l1": {
    "expires": "2026-11-25T06:46:35.699255+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -15958,6 +16037,20 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "peopleimpact2020|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T00:45:10.660263+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 40.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "peopleprimeww|frontend|l1": {
    "basis": "ctc",
@@ -18590,6 +18683,11 @@
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
+  "servcrust|swe|l1": {
+   "expires": "2026-11-20T11:04:22.388649+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "servicenow|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18729,8 +18827,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T01:45:07.959848+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-13T07:47:59.799243+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19725,6 +19823,22 @@
    "expires": "2026-11-26T01:32:25.986580+00:00",
    "looked_up": "2026-11-06T06:01:16+00:00",
    "status": "not_found"
+  },
+  "stratacent|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T06:16:46.589230+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/stratacent-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "strategic-ventures-co-in|devops|l1": {
    "expires": "2026-11-26T02:00:16.018546+00:00",
@@ -20917,6 +21031,11 @@
    "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
   },
+  "terasync-tech|fullstack|l1": {
+   "expires": "2026-11-30T13:50:06.174857+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "tesco-bengaluru|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21628,6 +21747,22 @@
    "expires": "2026-11-21T09:02:06.331381+00:00",
    "looked_up": "2026-11-06T05:01:17+00:00",
    "status": "not_found"
+  },
+  "tranetechnologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T01:56:49.875789+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 4.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/trane-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "transunion|data|l1": {
    "basis": "base",
@@ -22566,6 +22701,11 @@
    "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
+  "vertageglobal|erp|l1": {
+   "expires": "2026-11-29T04:27:58.178057+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
   "vertiv|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -22648,6 +22788,11 @@
     }
    ],
    "status": "found"
+  },
+  "virtualconnect-inc|security|l1": {
+   "expires": "2026-11-30T23:16:38.064243+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
   },
   "virtusa|erp|l1": {
    "basis": "ctc",
@@ -23541,8 +23686,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:16:22.086157+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
+   "expires": "2027-02-15T21:47:45.399107+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -23785,6 +23930,11 @@
   "z-transform-media|swe|l1": {
    "expires": "2026-11-18T04:02:49.445400+00:00",
    "looked_up": "2026-10-31T09:01:28+00:00",
+   "status": "not_found"
+  },
+  "zebra-technologies|data|l1": {
+   "expires": "2026-11-25T07:45:07.371020+00:00",
+   "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
   "zebra-technologies|devops|l2": {
@@ -24206,8 +24356,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1189,
-  "lookups_today": 64,
+  "lookups_month": 1204,
+  "lookups_today": 79,
   "month": "2026-11"
  }
 }
