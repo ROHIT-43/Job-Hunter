@@ -5,11 +5,6 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
-  "2005labs|swe|l2": {
-   "expires": "2026-11-11T18:31:59.199588+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
-   "status": "not_found"
-  },
   "3edge-solutions|swe|l3": {
    "expires": "2026-11-12T09:46:19.939685+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -1169,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T04:49:32.515089+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-09T19:59:08.798718+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1645,11 +1640,6 @@
   "antal-international|erp|l1": {
    "expires": "2026-11-20T10:24:55.939142+00:00",
    "looked_up": "2026-11-03T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "anzo-controls|swe|l1": {
-   "expires": "2026-11-11T18:36:10.825212+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
    "status": "not_found"
   },
   "apex-orbital-x|swe|l1": {
@@ -4829,8 +4819,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:21:29.466113+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-03T13:10:13.263471+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4843,8 +4833,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:53:09.393869+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-04T00:43:25.306584+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -11609,6 +11599,11 @@
    "status": "found",
    "year": 2026
   },
+  "itesign-gmbh|frontend|l1": {
+   "expires": "2026-11-22T18:00:36.571671+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
+   "status": "not_found"
+  },
   "itilite|swe|l1": {
    "expires": "2026-11-18T06:30:03.211929+00:00",
    "looked_up": "2026-10-30T06:01:28+00:00",
@@ -12279,11 +12274,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "keywordsstudios|devops|l1": {
-   "expires": "2026-11-11T18:06:20.455581+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
   },
   "khajwaniya-house-private-limited|swe|l1": {
    "expires": "2026-11-24T13:20:34.823214+00:00",
@@ -16268,8 +16258,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T16:53:11.993079+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-09T00:34:58.660113+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18811,11 +18801,6 @@
    "looked_up": "2026-11-05T19:01:18+00:00",
    "status": "not_found"
   },
-  "scientific-games-lottery|swe|l1": {
-   "expires": "2026-11-11T18:13:58.144723+00:00",
-   "looked_up": "2026-10-22T08:01:30+00:00",
-   "status": "not_found"
-  },
   "sciplaygames|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -20292,6 +20277,11 @@
   "superfan-ng|mobile|l1": {
    "expires": "2026-11-27T12:25:22.843525+00:00",
    "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
+  "superfan-ng|security|l1": {
+   "expires": "2026-11-19T23:57:19.649000+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "status": "not_found"
   },
   "superfan-ng|swe|l1": {
@@ -22499,8 +22489,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T13:03:54.970177+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-16T03:15:52.973957+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22513,8 +22503,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:31:35.142846+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-13T00:44:08.533640+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24089,8 +24079,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:18:31.804434+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
+   "expires": "2027-02-04T17:31:51.563723+00:00",
+   "looked_up": "2026-11-11T19:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24761,17 +24751,12 @@
    "expires": "2026-11-22T10:53:53.845516+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
-  },
-  "وظائف-المملكة-السعودية|frontend|l1": {
-   "expires": "2026-11-11T18:07:19.324073+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
-   "status": "not_found"
   }
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1276,
-  "lookups_today": 151,
+  "lookups_month": 1278,
+  "lookups_today": 153,
   "month": "2026-11"
  }
 }
