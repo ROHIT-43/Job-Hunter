@@ -376,11 +376,6 @@
    "status": "found",
    "year": 2026
   },
-  "accentureindia|swe|l3": {
-   "expires": "2026-11-11T13:11:09.321031+00:00",
-   "looked_up": "2026-10-23T17:01:26+00:00",
-   "status": "not_found"
-  },
   "accordinnovations|swe|l1": {
    "expires": "2026-11-24T13:36:38.124621+00:00",
    "looked_up": "2026-11-10T04:01:18+00:00",
@@ -1164,8 +1159,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T15:59:38.511685+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
+   "expires": "2027-02-02T21:33:08.471632+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2868,11 +2863,6 @@
   "best-nanotech|swe|l1": {
    "expires": "2026-11-24T01:56:45.103384+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "bestex-research-group|data|l1": {
-   "expires": "2026-11-11T13:42:02.593928+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
   "bestex-research-group|swe|l1": {
@@ -4802,8 +4792,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T06:39:52.493815+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
+   "expires": "2027-02-14T22:56:18.289398+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4816,8 +4806,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T00:52:40.504184+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
+   "expires": "2027-02-10T00:32:37.292835+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5728,6 +5718,22 @@
    "expires": "2026-11-21T09:42:55.518064+00:00",
    "looked_up": "2026-11-02T03:01:30+00:00",
    "status": "not_found"
+  },
+  "cyient|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T13:46:42.245987+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "max_lpa": 16.4,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cyient-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cyient|swe|l1": {
    "basis": "ctc",
@@ -9264,6 +9270,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "h&amp;m|swe|l1": {
+   "expires": "2026-11-20T04:40:29.279055+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "status": "not_found"
   },
   "h-e-services-india|data|l1": {
    "expires": "2026-11-15T02:02:51.098292+00:00",
@@ -13396,6 +13407,11 @@
    "looked_up": "2026-11-03T22:01:33+00:00",
    "status": "not_found"
   },
+  "mars-telecom-systems-pvt.-ltd.|swe|l1": {
+   "expires": "2026-11-23T15:10:34.465476+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "status": "not_found"
+  },
   "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
    "expires": "2026-11-17T16:55:41.687871+00:00",
    "looked_up": "2026-10-30T21:01:32+00:00",
@@ -15562,11 +15578,6 @@
    "looked_up": "2026-10-28T17:01:38+00:00",
    "status": "not_found"
   },
-  "onpointinsights|data|l1": {
-   "expires": "2026-11-11T13:57:19.124901+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
-   "status": "not_found"
-  },
   "opengov-inc|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -16195,8 +16206,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T15:51:44.214276+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
+   "expires": "2027-02-03T01:55:17.002560+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16432,6 +16443,11 @@
   "photon-interactive|mobile|l1": {
    "expires": "2026-11-15T02:28:29.278866+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
+   "status": "not_found"
+  },
+  "phu-my-3-bot-power-company|frontend|l1": {
+   "expires": "2026-12-01T16:54:52.741161+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "status": "not_found"
   },
   "pincler|swe|l1": {
@@ -18041,11 +18057,6 @@
    "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
-  "rohde-schwarz|swe|l1": {
-   "expires": "2026-11-11T13:53:46.895033+00:00",
-   "looked_up": "2026-11-02T18:01:34+00:00",
-   "status": "not_found"
-  },
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -18242,11 +18253,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sabre-corporation|swe|l2": {
-   "expires": "2026-11-11T13:57:48.535152+00:00",
-   "looked_up": "2026-10-21T21:01:29+00:00",
-   "status": "not_found"
   },
   "sabthik|erp|l1": {
    "expires": "2026-11-22T12:34:04.788593+00:00",
@@ -18669,11 +18675,6 @@
   "sawa-living|mobile|l1": {
    "expires": "2026-11-21T20:25:50.128738+00:00",
    "looked_up": "2026-11-01T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "saya-care|mobile|l1": {
-   "expires": "2026-11-11T13:48:30.005901+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
   "schaeffler|swe|l1": {
@@ -19317,11 +19318,6 @@
   "skillcollege|frontend|l1": {
    "expires": "2026-11-14T22:23:52.312769+00:00",
    "looked_up": "2026-11-01T01:01:35+00:00",
-   "status": "not_found"
-  },
-  "skillcollege|swe|l1": {
-   "expires": "2026-11-11T13:32:52.790532+00:00",
-   "looked_up": "2026-10-31T13:01:27+00:00",
    "status": "not_found"
   },
   "skillinabox|swe|l1": {
@@ -21227,6 +21223,26 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "tektronix|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T23:04:04.116830+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tektronix-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tektronix-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "tekwissenindia|swe|l1": {
    "expires": "2026-11-14T05:08:56.149084+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
@@ -22407,6 +22423,34 @@
    "expires": "2026-11-13T09:17:44.079103+00:00",
    "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
+  },
+  "unifydd|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T02:29:35.480980+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "unifydd|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-07T19:33:08.651459+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "unisoftglobalservices|erp|l1": {
    "expires": "2026-11-23T06:21:13.337294+00:00",
@@ -23952,8 +23996,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:20:34.455836+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
+   "expires": "2027-02-13T11:55:53.081906+00:00",
+   "looked_up": "2026-11-11T14:01:27+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24633,8 +24677,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1244,
-  "lookups_today": 119,
+  "lookups_month": 1249,
+  "lookups_today": 124,
   "month": "2026-11"
  }
 }
