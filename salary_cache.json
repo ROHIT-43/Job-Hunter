@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:46:56.743875+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-03T23:32:14.699731+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4819,8 +4819,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:35:46.867581+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-04T05:48:07.428426+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4833,8 +4833,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:37:22.447379+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-09T20:32:53.700872+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5436,11 +5436,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "cosmicport|swe|l1": {
-   "expires": "2026-11-11T21:47:31.057462+00:00",
-   "looked_up": "2026-10-23T13:01:27+00:00",
-   "status": "not_found"
   },
   "cosmostechnologiesusa|swe|l1": {
    "basis": "posted",
@@ -6772,11 +6767,6 @@
   "emagine|frontend|l1": {
    "expires": "2026-11-17T02:21:47.916597+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
-   "status": "not_found"
-  },
-  "emagine|fullstack|l1": {
-   "expires": "2026-11-11T21:12:51.561239+00:00",
-   "looked_up": "2026-10-22T14:01:29+00:00",
    "status": "not_found"
   },
   "emagine|swe|l1": {
@@ -16269,8 +16259,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:16:35.509260+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-15T11:55:36.508522+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -22495,8 +22485,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:13:21.825886+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-05T00:58:19.385725+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22509,8 +22499,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:26:20.798515+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-12T07:11:04.566329+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24085,8 +24075,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T00:02:02.861947+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
+   "expires": "2027-02-15T17:38:25.777460+00:00",
+   "looked_up": "2026-11-11T21:57:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
