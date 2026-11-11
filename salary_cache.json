@@ -1159,8 +1159,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T07:16:29.352913+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-09T04:03:55.605636+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4792,8 +4792,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T04:08:17.985684+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-10T12:43:33.889139+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4806,8 +4806,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:08:29.834444+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-14T22:56:23.718537+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16221,8 +16221,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T15:36:01.747803+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-02T19:17:37.744504+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -19941,11 +19941,6 @@
    "looked_up": "2026-10-25T15:01:25+00:00",
    "status": "not_found"
   },
-  "spydra|data|l1": {
-   "expires": "2026-11-11T15:10:09.698537+00:00",
-   "looked_up": "2026-10-29T01:01:34+00:00",
-   "status": "not_found"
-  },
   "srd-infotek-inc|swe|l1": {
    "expires": "2026-11-13T01:39:36.771306+00:00",
    "looked_up": "2026-10-28T19:01:28+00:00",
@@ -22447,8 +22442,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T10:12:29.599448+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-15T11:06:41.924924+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22461,8 +22456,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:23:22.859092+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-12T01:59:27.482914+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24016,8 +24011,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T09:08:07.070430+00:00",
-   "looked_up": "2026-11-11T15:01:22+00:00",
+   "expires": "2027-02-13T22:57:30.684277+00:00",
+   "looked_up": "2026-11-11T15:11:12+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
