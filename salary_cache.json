@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:06:30.419158+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-13T12:46:07.617744+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2734,6 +2734,11 @@
    "status": "found",
    "year": 2026
   },
+  "barclays-bank|mobile|l1": {
+   "expires": "2026-11-22T18:07:38.645595+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
+   "status": "not_found"
+  },
   "barclays-bank|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2839,11 +2844,6 @@
   "bayer|erp|l1": {
    "expires": "2026-11-23T00:40:12.897989+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "bayer|security|l1": {
-   "expires": "2026-11-11T22:14:00.020485+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
    "status": "not_found"
   },
   "bctglobal|swe|l1": {
@@ -4819,8 +4819,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T12:03:44.095995+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-07T07:05:52.832662+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4833,8 +4833,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T05:19:35.386566+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-10T01:46:43.636189+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -9413,11 +9413,6 @@
    "status": "found",
    "year": 2025
   },
-  "hard-n-soft-technologies|swe|l1": {
-   "expires": "2026-11-11T22:40:10.019473+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "harmanindia|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -13855,11 +13850,6 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
-  "medvirtual|swe|l1": {
-   "expires": "2026-11-11T22:07:21.145398+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
-   "status": "not_found"
-  },
   "meet-archer|data|l2": {
    "expires": "2026-11-14T00:50:12.916667+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
@@ -15688,11 +15678,6 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
-  "openstellar|frontend|l1": {
-   "expires": "2026-11-11T22:56:18.163299+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
-   "status": "not_found"
-  },
   "opensystems|swe|l1": {
    "expires": "2026-11-15T00:32:56.119032+00:00",
    "looked_up": "2026-10-26T15:01:27+00:00",
@@ -16224,6 +16209,11 @@
    "status": "found",
    "year": 2026
   },
+  "pearson|swe|l1": {
+   "expires": "2026-11-21T20:13:38.219827+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
+   "status": "not_found"
+  },
   "pegasystems|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16259,8 +16249,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:57:35.138674+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-13T22:52:42.282747+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18867,6 +18857,11 @@
     }
    ],
    "status": "found"
+  },
+  "sealed-air-corporation|data|l1": {
+   "expires": "2026-11-29T12:55:03.568342+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
+   "status": "not_found"
   },
   "searchboxed|frontend|l1": {
    "basis": "posted",
@@ -21654,6 +21649,11 @@
    "status": "found",
    "year": 2026
   },
+  "the-retail-insights|devops|l1": {
+   "expires": "2026-11-19T20:38:13.040395+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
+   "status": "not_found"
+  },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -22485,8 +22485,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:41:20.043284+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-09T00:48:24.650335+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22499,8 +22499,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:32:07.833697+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-15T05:35:42.798676+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24075,8 +24075,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:53:29.339127+00:00",
-   "looked_up": "2026-11-11T22:01:22+00:00",
+   "expires": "2027-02-14T03:00:57.145297+00:00",
+   "looked_up": "2026-11-11T23:01:29+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24751,8 +24751,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1281,
-  "lookups_today": 156,
+  "lookups_month": 1285,
+  "lookups_today": 160,
   "month": "2026-11"
  }
 }
