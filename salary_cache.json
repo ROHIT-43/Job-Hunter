@@ -1044,11 +1044,6 @@
    "looked_up": "2026-11-06T13:01:18+00:00",
    "status": "not_found"
   },
-  "allimetech|security|l1": {
-   "expires": "2026-11-11T11:30:00.952464+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
-   "status": "not_found"
-  },
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1169,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:02:29.660330+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-13T03:21:39.407540+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3091,6 +3086,26 @@
    "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
+  "blueyonder|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T12:24:06.432614+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "max_lpa": 25.2,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/blue-yonder-salaries/hyderabad-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/blue-yonder-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "blueyonder|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3490,8 +3505,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:09:09.867174+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-05T07:49:12.391567+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3504,8 +3519,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:33:11.108673+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-09T05:24:06.564922+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -4771,8 +4786,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:43:53.374915+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-07T06:30:02.035605+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4785,8 +4800,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:53:20.100738+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-09T02:22:39.205278+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5359,6 +5374,11 @@
    "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
+  "coram-ai|swe|l1": {
+   "expires": "2026-11-22T23:45:18.081661+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
+  },
   "coreel-technologies|swe|l1": {
    "expires": "2026-11-15T15:21:09.173374+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -5894,6 +5914,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "decskill|erp|l1": {
+   "expires": "2026-11-30T23:55:36.548760+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
   },
   "deepintent|swe|l1": {
    "basis": "ctc",
@@ -6563,8 +6588,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T04:25:06.143338+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-03T06:19:11.156703+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -10137,6 +10162,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hydraulic-engineering-instruments|swe|l1": {
+   "expires": "2026-11-20T08:03:07.099563+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
   },
   "hyper-lychee-labs|frontend|l1": {
    "expires": "2026-11-16T10:27:34.057269+00:00",
@@ -15946,6 +15976,11 @@
    "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
+  "paperchaseaccountancy|data|l1": {
+   "expires": "2026-11-25T12:07:14.768649+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
+  },
   "papigon.com|swe|l1": {
    "expires": "2026-11-14T06:19:20.592967+00:00",
    "looked_up": "2026-10-27T15:01:29+00:00",
@@ -16102,8 +16137,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T18:15:24.800131+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-10T13:26:41.953007+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16638,6 +16673,11 @@
    ],
    "status": "found"
   },
+  "profilentdigital|swe|l1": {
+   "expires": "2026-11-20T08:20:09.791253+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
+  },
   "profoundme|fullstack|l3": {
    "expires": "2026-11-14T08:10:15.616290+00:00",
    "looked_up": "2026-10-24T16:01:37+00:00",
@@ -16916,6 +16956,11 @@
   "pwc-ac-india|frontend|l1": {
    "expires": "2026-11-12T05:11:10.516437+00:00",
    "looked_up": "2026-10-23T16:01:28+00:00",
+   "status": "not_found"
+  },
+  "pwc-ac-india|fullstack|l1": {
+   "expires": "2026-11-22T06:31:01.589421+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "status": "not_found"
   },
   "pwc-ac-india|swe|l1": {
@@ -18046,6 +18091,26 @@
    "status": "found",
    "year": 2026
   },
+  "rws-group|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T00:43:33.354204+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "max_lpa": 12.5,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/reviews/rws-group-reviews/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rws-group-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rx-digital-school|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -18919,8 +18984,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-02T18:38:55.228903+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-15T04:43:39.327272+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -23640,6 +23705,11 @@
    "looked_up": "2026-11-05T05:01:17+00:00",
    "status": "not_found"
   },
+  "willware-technologies|frontend|l1": {
+   "expires": "2026-11-26T17:24:19.142187+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
+   "status": "not_found"
+  },
   "willware-technologies|swe|l1": {
    "expires": "2026-11-16T15:16:01.216779+00:00",
    "looked_up": "2026-11-03T19:01:57+00:00",
@@ -23798,8 +23868,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T18:39:42.378609+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2027-02-14T00:38:06.292422+00:00",
+   "looked_up": "2026-11-11T12:01:23+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24463,8 +24533,8 @@
  },
  "meta": {
   "day": "2026-11-11",
-  "lookups_month": 1220,
-  "lookups_today": 95,
+  "lookups_month": 1229,
+  "lookups_today": 104,
   "month": "2026-11"
  }
 }
