@@ -39,8 +39,8 @@
   "4point2tech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:31:03.757858+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-03T06:34:39.328034+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1773,11 +1773,6 @@
    "looked_up": "2026-10-29T00:01:33+00:00",
    "status": "not_found"
   },
-  "aptiv|data|l1": {
-   "expires": "2026-11-11T01:02:42.915704+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "aptiv|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2296,8 +2291,8 @@
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:01:10.853377+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-09T02:44:09.509819+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -2500,11 +2495,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "axeltechnologies|swe|l1": {
-   "expires": "2026-11-11T01:35:35.048386+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
   },
   "axionix-technologies|swe|l2": {
    "expires": "2026-11-13T03:29:06.435731+00:00",
@@ -3424,8 +3414,8 @@
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T19:14:18.816517+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-15T09:43:52.281310+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 6.6,
    "min_lpa": 3.0,
    "sources": [
@@ -3438,8 +3428,8 @@
   "bridgestone-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T08:29:22.710059+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-07T18:14:30.427275+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 7.2,
    "min_lpa": 3.6,
    "sources": [
@@ -4103,11 +4093,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "cavitak|swe|l1": {
-   "expires": "2026-11-11T01:39:38.382880+00:00",
-   "looked_up": "2026-10-21T09:01:36+00:00",
-   "status": "not_found"
   },
   "caxton-associates|security|l1": {
    "expires": "2026-11-21T13:43:00.061729+00:00",
@@ -6454,8 +6439,8 @@
   "edliontechnologies|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T07:27:55.670899+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-05T12:29:58.325248+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 11.0,
    "min_lpa": 9.0,
    "sources": [
@@ -6468,8 +6453,8 @@
   "edliontechnologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T01:51:06.342835+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-15T05:12:08.090975+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -7745,8 +7730,8 @@
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T05:31:56.940888+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-13T15:31:25.436880+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.0,
    "sources": [
@@ -9412,8 +9397,8 @@
   "helios-systems-asia|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:33:14.204426+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-02T15:37:44.977401+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 35.0,
    "min_lpa": 35.0,
    "sources": [
@@ -14435,11 +14420,6 @@
    "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
-  "newspacert|swe|l2": {
-   "expires": "2026-11-11T01:18:38.274701+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "status": "not_found"
-  },
   "nexcope|swe|l1": {
    "expires": "2026-11-22T09:39:50.740890+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
@@ -18516,8 +18496,8 @@
   "shoshintech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T16:46:12.938628+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-05T14:27:41.432225+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19263,8 +19243,8 @@
   "sorviai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:24:32.060537+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
+   "expires": "2027-02-14T04:13:29.718619+00:00",
+   "looked_up": "2026-11-11T02:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
