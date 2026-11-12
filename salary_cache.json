@@ -2524,8 +2524,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:17:58.050258+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-07T08:25:07.308056+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4263,8 +4263,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T07:40:26.327913+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-06T03:25:48.447923+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4708,11 +4708,6 @@
    "status": "found",
    "year": 2026
   },
-  "cisco|data|l1": {
-   "expires": "2026-11-12T21:46:15.194163+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
-   "status": "not_found"
-  },
   "cisco|devops|l1": {
    "expires": "2026-11-20T02:46:24.121811+00:00",
    "looked_up": "2026-11-10T19:01:24+00:00",
@@ -4966,11 +4961,6 @@
    "status": "found",
    "year": 2026
   },
-  "codefeast|swe|l1": {
-   "expires": "2026-11-12T21:27:49.979523+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "codemancers|devops|l1": {
    "expires": "2026-11-15T15:51:28.752837+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -4979,11 +4969,6 @@
   "codemarinetech|swe|l1": {
    "expires": "2026-11-23T10:49:08.172462+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
-   "status": "not_found"
-  },
-  "codemonk|devops|l1": {
-   "expires": "2026-11-12T21:23:31.830287+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
   "codequery|fullstack|l1": {
@@ -5005,8 +4990,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T12:01:57.927473+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-06T14:26:09.128286+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5061,8 +5046,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T03:30:12.153052+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-05T01:32:21.350018+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5717,8 +5702,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:47:57.263775+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-16T03:18:05.759556+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6026,8 +6011,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:07:58.795263+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-11T05:05:32.561711+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7249,8 +7234,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:42:30.969461+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-06T23:06:36.822481+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -11534,11 +11519,6 @@
    "status": "found",
    "year": 2026
   },
-  "infra-cap|swe|l1": {
-   "expires": "2026-11-12T22:00:05.653805+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "infrafino|swe|l1": {
    "expires": "2026-11-21T19:09:07.268013+00:00",
    "looked_up": "2026-11-11T09:01:25+00:00",
@@ -13207,6 +13187,22 @@
    ],
    "status": "found"
   },
+  "leidos|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T05:28:21.935211+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
+   "max_lpa": 9.9,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/leidos-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "levelxmicrosystemes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14816,8 +14812,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T01:13:11.499040+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-11T12:14:37.428164+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -15024,11 +15020,6 @@
   "multivac-technology-solutions-india-private-limited|erp|l1": {
    "expires": "2026-11-27T00:26:24.244803+00:00",
    "looked_up": "2026-11-10T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "mumzworld-com|devops|l1": {
-   "expires": "2026-11-12T21:50:13.917292+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "mycareernet|data|l1": {
@@ -20750,8 +20741,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T17:17:46.486058+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-17T16:06:53.309747+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21952,8 +21943,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T19:06:30.660060+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-05T22:24:03.909529+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24599,8 +24590,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:18:50.049251+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-17T07:18:58.531856+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25228,8 +25219,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T03:24:08.533595+00:00",
-   "looked_up": "2026-11-12T21:01:18+00:00",
+   "expires": "2027-02-06T02:15:35.732119+00:00",
+   "looked_up": "2026-11-12T22:01:22+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25789,8 +25780,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1464,
-  "lookups_today": 179,
+  "lookups_month": 1465,
+  "lookups_today": 180,
   "month": "2026-11"
  }
 }
