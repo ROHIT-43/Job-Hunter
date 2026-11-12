@@ -1554,6 +1554,11 @@
    "status": "found",
    "year": 2026
   },
+  "ameriprise-financial-services-llc|erp|l1": {
+   "expires": "2026-11-22T19:01:51.387714+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "status": "not_found"
+  },
   "ametek|swe|l1": {
    "expires": "2026-11-13T05:33:37.932771+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
@@ -1743,6 +1748,11 @@
   "apex-orbital-x|swe|l1": {
    "expires": "2026-11-23T16:50:05.373059+00:00",
    "looked_up": "2026-11-06T15:01:20+00:00",
+   "status": "not_found"
+  },
+  "apex-tech-software-institute|swe|l1": {
+   "expires": "2026-11-23T08:06:29.112203+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "status": "not_found"
   },
   "apexon|fullstack|l1": {
@@ -2529,8 +2539,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:08:56.688002+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-05T10:50:59.415507+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4263,8 +4273,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T04:04:59.245435+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-16T18:09:08.473746+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5000,8 +5010,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T07:42:00.541273+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-04T14:40:48.849299+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5056,8 +5066,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T12:15:14.423389+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-15T14:57:35.519471+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5209,6 +5219,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "cognizant|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-10T12:11:49.743081+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "max_lpa": 4.3,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/cognizant-salaries/trainee-analyst/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "cognizant|fullstack|l1": {
    "basis": "base",
@@ -5696,8 +5722,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T17:01:00.351610+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-16T09:58:20.758128+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6005,8 +6031,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T10:44:26.977647+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-14T07:58:47.509081+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6494,6 +6520,22 @@
    "looked_up": "2026-11-11T09:01:25+00:00",
    "status": "not_found"
   },
+  "deutsche-bank|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T09:33:02.016259+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "max_lpa": 19.5,
+   "min_lpa": 15.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deutsche-bank-salaries/sde"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "devloit|devops|l1": {
    "expires": "2026-11-13T14:44:37.266972+00:00",
    "looked_up": "2026-10-28T05:01:27+00:00",
@@ -6903,6 +6945,11 @@
    "looked_up": "2026-11-12T18:01:22+00:00",
    "status": "not_found"
   },
+  "eci-software--solutions|swe|l3": {
+   "expires": "2026-11-22T19:01:45.725171+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "status": "not_found"
+  },
   "eclinical-solutions|swe|l1": {
    "expires": "2026-11-18T14:49:59.962159+00:00",
    "looked_up": "2026-11-09T14:01:26+00:00",
@@ -7207,8 +7254,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:21:49.739587+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-09T10:52:50.002868+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7818,6 +7865,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "expediagroup|mobile|l3": {
+   "expires": "2026-11-20T01:40:15.375836+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "status": "not_found"
   },
   "expediagroup|swe|l2": {
    "basis": "base",
@@ -14763,8 +14815,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:29:48.332876+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-09T09:54:12.857885+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -19925,6 +19977,26 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
+  "siemens-eda|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T06:50:33.323375+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 6.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/siemens-eda-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/siemens-eda-salaries/fresher?page=2"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "siemens-energy|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20677,8 +20749,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T11:10:18.270312+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-09T19:09:04.970188+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21879,8 +21951,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:58:18.109241+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-17T13:07:28.176617+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24541,8 +24613,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:35:44.586533+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-10T15:33:34.481111+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25169,8 +25241,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:01:46.793486+00:00",
-   "looked_up": "2026-11-12T18:55:41+00:00",
+   "expires": "2027-02-13T06:03:28.450605+00:00",
+   "looked_up": "2026-11-12T19:01:26+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25730,8 +25802,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1451,
-  "lookups_today": 166,
+  "lookups_month": 1458,
+  "lookups_today": 173,
   "month": "2026-11"
  }
 }
