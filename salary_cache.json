@@ -125,9 +125,19 @@
    "looked_up": "2026-11-12T07:01:24+00:00",
    "status": "not_found"
   },
+  "9sprints|data|l1": {
+   "expires": "2026-11-30T11:27:15.789446+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "9sprints|devops|l1": {
    "expires": "2026-11-27T22:53:11.267649+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
+  "9sprints|swe|l1": {
+   "expires": "2026-11-24T14:42:52.873410+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "aakraya-research-llp|swe|l1": {
@@ -139,6 +149,22 @@
    "expires": "2026-11-12T13:24:04.178759+00:00",
    "looked_up": "2026-11-04T14:01:32+00:00",
    "status": "not_found"
+  },
+  "aartek-software-solutons-pvt-ltd-|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T01:03:24.601476+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "max_lpa": 3.7,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aartek-software-solutions-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "aatmunn-ai|swe|l1": {
    "expires": "2026-11-29T11:47:09.465405+00:00",
@@ -780,11 +806,6 @@
    ],
    "status": "found"
   },
-  "airisdata|security|l1": {
-   "expires": "2026-11-12T07:24:49.294824+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "airtel|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1195,8 +1216,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T21:59:29.324404+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-15T05:47:50.626973+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2422,8 +2443,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T09:04:20.522631+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-10T22:15:48.235998+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4144,8 +4165,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T20:02:32.352544+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-06T23:18:55.479343+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4853,8 +4874,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T23:17:04.929781+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-08T18:24:32.132990+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4867,8 +4888,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T02:44:17.591316+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-17T07:15:43.642383+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5240,11 +5261,6 @@
    "status": "found",
    "year": 2026
   },
-  "comply-org|data|l1": {
-   "expires": "2026-11-12T07:24:08.929132+00:00",
-   "looked_up": "2026-11-03T12:01:28+00:00",
-   "status": "not_found"
-  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5498,8 +5514,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T18:44:35.296461+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-04T13:11:13.601165+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5668,6 +5684,11 @@
   "customertimes|erp|l1": {
    "expires": "2026-11-22T19:23:43.230591+00:00",
    "looked_up": "2026-11-10T21:01:21+00:00",
+   "status": "not_found"
+  },
+  "cv-raman-academy|swe|l1": {
+   "expires": "2026-11-29T16:57:50.415787+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "cxgroup|data|l3": {
@@ -8579,11 +8600,6 @@
    "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
-  "getcruxai|fullstack|l1": {
-   "expires": "2026-11-12T07:54:10.791048+00:00",
-   "looked_up": "2026-10-31T01:01:30+00:00",
-   "status": "not_found"
-  },
   "getixhealth|swe|l1": {
    "expires": "2026-11-19T10:41:00.008317+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -9167,6 +9183,11 @@
   "greathrsolutions|erp|l1": {
    "expires": "2026-11-20T04:33:24.541251+00:00",
    "looked_up": "2026-10-31T05:01:27+00:00",
+   "status": "not_found"
+  },
+  "greatindiansweets|frontend|l1": {
+   "expires": "2026-12-01T11:19:56.072909+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "greenway-health|swe|l1": {
@@ -11238,6 +11259,11 @@
    "looked_up": "2026-11-06T09:01:17+00:00",
    "status": "not_found"
   },
+  "innovative-information-technologies-inc.|swe|l1": {
+   "expires": "2026-11-29T18:28:21.759264+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "innowrap|fullstack|l1": {
    "expires": "2026-11-22T23:22:52.312514+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -12126,6 +12152,11 @@
    "looked_up": "2026-11-06T09:01:17+00:00",
    "status": "not_found"
   },
+  "kaliper-tech|swe|l1": {
+   "expires": "2026-11-29T20:32:12.691519+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "kanerika|data|l1": {
    "expires": "2026-11-17T03:14:58.401147+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
@@ -12736,11 +12767,6 @@
    "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
-  "learnlight|swe|l1": {
-   "expires": "2026-11-12T07:42:25.428144+00:00",
-   "looked_up": "2026-10-29T13:01:31+00:00",
-   "status": "not_found"
-  },
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12944,6 +12970,16 @@
     }
    ],
    "status": "found"
+  },
+  "locus-sh|swe|l2": {
+   "expires": "2026-11-30T09:09:34.333541+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
+  "logicalwings|frontend|l1": {
+   "expires": "2026-11-21T22:39:15.371720+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
   },
   "logicmonitor|devops|l1": {
    "expires": "2026-11-20T02:48:46.682498+00:00",
@@ -14631,6 +14667,11 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
+  "nbc-bearings|swe|l1": {
+   "expires": "2026-11-25T23:12:13.541412+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "ncratleos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16152,6 +16193,11 @@
    "looked_up": "2026-10-27T15:01:29+00:00",
    "status": "not_found"
   },
+  "parallelteam|data|l1": {
+   "expires": "2026-12-01T11:00:46.577235+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "parexel|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16308,8 +16354,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:07:58.626937+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-04T01:41:28.955178+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -18755,6 +18801,11 @@
    "looked_up": "2026-10-24T04:01:22+00:00",
    "status": "not_found"
   },
+  "sas-powertech-pvt.-ltd.|swe|l1": {
+   "expires": "2026-11-20T18:07:57.920809+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "saskentechnologieslimited|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18842,11 +18893,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "schneider-electric|swe|l2": {
-   "expires": "2026-11-12T07:27:13.868472+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
-   "status": "not_found"
   },
   "schr-dinger|swe|l1": {
    "expires": "2026-11-25T05:36:31.612702+00:00",
@@ -20051,9 +20097,9 @@
    "status": "found",
    "year": 2026
   },
-  "spinach-experience-design|frontend|l2": {
-   "expires": "2026-11-12T07:21:45.710131+00:00",
-   "looked_up": "2026-10-25T15:01:25+00:00",
+  "square-bpo-services-pvt-ltd|devops|l1": {
+   "expires": "2026-11-23T11:51:52.712191+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "srd-infotek-inc|swe|l1": {
@@ -22573,8 +22619,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:05:57.790607+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-04T23:34:33.104591+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22587,8 +22633,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T02:55:11.110925+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-04T09:27:56.572768+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24353,8 +24399,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T02:01:18.047639+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
+   "expires": "2027-02-12T17:39:04.205677+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -24844,6 +24890,11 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
+  "zonvoir-technologies|swe|l1": {
+   "expires": "2026-11-21T07:06:33.591680+00:00",
+   "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
   "zorba-consulting-india|data|l1": {
    "expires": "2026-11-23T22:44:24.282771+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -24898,8 +24949,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1328,
-  "lookups_today": 43,
+  "lookups_month": 1342,
+  "lookups_today": 57,
   "month": "2026-11"
  }
 }
