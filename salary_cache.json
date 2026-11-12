@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T05:59:41.001784+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-07T03:56:22.288012+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4809,8 +4809,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T14:53:15.394085+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-14T13:47:46.605054+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4823,8 +4823,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T08:36:41.635197+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-08T13:54:46.397717+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16239,8 +16239,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T17:32:52.719610+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-16T06:05:27.551907+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20624,11 +20624,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "talentrabbit|frontend|l1": {
-   "expires": "2026-11-12T01:02:33.621175+00:00",
-   "looked_up": "2026-10-25T05:01:26+00:00",
-   "status": "not_found"
-  },
   "talentrabbit|swe|l1": {
    "expires": "2026-11-26T09:37:43.505852+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -22465,8 +22460,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T18:56:54.019326+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-08T03:30:50.331890+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22479,8 +22474,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T10:23:19.056646+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-08T00:09:43.444163+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24050,8 +24045,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T19:09:35.292351+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
+   "expires": "2027-02-09T06:57:01.794417+00:00",
+   "looked_up": "2026-11-12T02:01:23+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
