@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T07:49:28.412719+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-06T20:46:55.572922+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4809,8 +4809,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T07:18:57.027585+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-15T15:26:47.859209+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4823,8 +4823,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T04:23:56.639750+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-06T21:18:20.637912+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5709,11 +5709,6 @@
   "cyberintelsys|security|l1": {
    "expires": "2026-11-16T21:29:50.115299+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "cybersecurity-nxxt|security|l1": {
-   "expires": "2026-11-12T02:59:37.996206+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "cybrogix|fullstack|l1": {
@@ -16229,8 +16224,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:52:22.531356+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-10T22:46:03.119822+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -22445,8 +22440,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T12:18:06.836529+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-03T13:04:00.499824+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22459,8 +22454,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T23:32:16.260016+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-16T02:37:12.150528+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24025,8 +24020,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T13:33:26.728207+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-09T13:16:07.099039+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24210,8 +24205,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T12:27:03.931760+00:00",
-   "looked_up": "2026-11-12T02:58:54+00:00",
+   "expires": "2027-02-10T23:02:28.073300+00:00",
+   "looked_up": "2026-11-12T03:02:07+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
