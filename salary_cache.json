@@ -1420,11 +1420,6 @@
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
-  "ambia-systems|swe|l1": {
-   "expires": "2026-11-12T11:07:55.363639+00:00",
-   "looked_up": "2026-10-28T18:01:29+00:00",
-   "status": "not_found"
-  },
   "amd|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2478,8 +2473,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T09:45:38.781091+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-05T03:13:45.019184+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2729,11 +2724,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bangdb|fullstack|l1": {
-   "expires": "2026-11-12T11:04:48.282212+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
   },
   "bank-of-america|swe|l1": {
    "expires": "2026-11-28T19:53:35.897931+00:00",
@@ -4200,8 +4190,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:12:44.607165+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-08T19:58:06.449218+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4895,8 +4885,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:51:52.913227+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-15T02:37:36.748231+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4951,8 +4941,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:08:18.927230+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-13T11:59:21.885526+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5508,6 +5498,11 @@
    "status": "found",
    "year": 2024
   },
+  "coram-ai|frontend|l1": {
+   "expires": "2026-11-20T18:56:03.400052+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
+   "status": "not_found"
+  },
   "coram-ai|swe|l1": {
    "expires": "2026-11-22T23:45:18.081661+00:00",
    "looked_up": "2026-11-11T12:01:23+00:00",
@@ -5586,8 +5581,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T16:30:03.104701+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-07T01:04:57.575938+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5900,8 +5895,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T23:19:12.834178+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-13T02:06:24.642445+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -5954,6 +5949,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/cynlr-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "cyncly|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T20:39:12.039251+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cyncly-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cyncly-salaries/software-engineer"
     }
    ],
    "status": "found",
@@ -12405,6 +12420,11 @@
    "status": "found",
    "year": 2025
   },
+  "katbotz|erp|l1": {
+   "expires": "2026-11-20T01:10:30.041643+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
+   "status": "not_found"
+  },
   "katzen-system-india-pvt-ltd|swe|l1": {
    "expires": "2026-11-18T17:16:43.913272+00:00",
    "looked_up": "2026-10-31T18:01:24+00:00",
@@ -13915,11 +13935,6 @@
    "looked_up": "2026-11-03T12:01:28+00:00",
    "status": "not_found"
   },
-  "mattel|swe|l1": {
-   "expires": "2026-11-12T11:07:07.674170+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
   "mavenberg-innovations-india-private-limited|swe|l1": {
    "expires": "2026-11-15T03:48:53.103039+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
@@ -13967,6 +13982,11 @@
   "mbtygl|data|l1": {
    "expires": "2026-11-14T07:29:37.258499+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
+  "mbtygl|frontend|l1": {
+   "expires": "2026-11-19T17:47:49.020649+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "status": "not_found"
   },
   "mcafeeenterprise|swe|l1": {
@@ -20342,8 +20362,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T03:00:22.533912+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-13T08:09:07.265814+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21534,8 +21554,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:13:25.645980+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-07T03:15:14.901529+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -22969,8 +22989,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:40:39.887001+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-06T19:21:40.709870+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22983,8 +23003,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T17:21:39.483814+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-11T06:52:16.368481+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24759,8 +24779,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:27:24.885586+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
+   "expires": "2027-02-17T01:46:40.114222+00:00",
+   "looked_up": "2026-11-12T11:19:56+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25325,8 +25345,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1391,
-  "lookups_today": 106,
+  "lookups_month": 1395,
+  "lookups_today": 110,
   "month": "2026-11"
  }
 }
