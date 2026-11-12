@@ -140,11 +140,6 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
-  "aalim-muhammed-salegh-college-of-engineering|swe|l1": {
-   "expires": "2026-11-12T13:24:04.178759+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
-   "status": "not_found"
-  },
   "aartek-software-solutons-pvt-ltd-|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2483,8 +2478,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:31:59.625030+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-16T00:37:05.902199+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3161,11 +3156,6 @@
   "blacklistedagency|swe|l1": {
    "expires": "2026-11-12T18:48:17.627728+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
-   "status": "not_found"
-  },
-  "blackrock|frontend|l1": {
-   "expires": "2026-11-12T13:06:05.451213+00:00",
-   "looked_up": "2026-10-24T19:01:25+00:00",
    "status": "not_found"
   },
   "blackrock|fullstack|l1": {
@@ -4090,11 +4080,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "cardinal-health|data|l1": {
-   "expires": "2026-11-12T13:20:32.856975+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
   "career-soft-solutions|swe|l1": {
    "expires": "2026-11-24T22:56:41.224428+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
@@ -4216,8 +4201,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:59:55.305287+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-05T01:45:19.586659+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4942,8 +4927,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T22:30:38.696089+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-16T23:36:46.599326+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4998,8 +4983,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T05:43:27.190076+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-11T20:36:33.100953+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5638,8 +5623,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T19:54:11.037550+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-16T23:37:52.094216+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5952,8 +5937,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:08:08.939103+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-12T15:35:37.644672+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7133,8 +7118,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:35:06.155874+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-04T19:08:57.891282+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9408,11 +9393,6 @@
    ],
    "status": "found"
   },
-  "graniteshares|swe|l1": {
-   "expires": "2026-11-12T13:39:11.077061+00:00",
-   "looked_up": "2026-11-03T12:01:28+00:00",
-   "status": "not_found"
-  },
   "grapesworldwide|fullstack|l1": {
    "expires": "2026-11-22T15:15:38.732546+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -10955,11 +10935,6 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
-  "in-tech-gmbh|swe|l1": {
-   "expires": "2026-11-12T13:15:18.864827+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -11126,11 +11101,6 @@
   "informatrixit|devops|l1": {
    "expires": "2026-11-19T17:21:24.245641+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "infor|data|l1": {
-   "expires": "2026-11-12T13:30:51.350610+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "infor|fullstack|l1": {
@@ -16124,11 +16094,6 @@
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
   },
-  "openingsfirst|swe|l2": {
-   "expires": "2026-11-12T13:35:25.076730+00:00",
-   "looked_up": "2026-11-04T18:01:18+00:00",
-   "status": "not_found"
-  },
   "openlm|security|l1": {
    "expires": "2026-11-17T11:26:52.684247+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
@@ -17016,11 +16981,6 @@
    "looked_up": "2026-10-26T01:01:29+00:00",
    "status": "not_found"
   },
-  "pink-gorilla|fullstack|l1": {
-   "expires": "2026-11-12T13:12:00.214605+00:00",
-   "looked_up": "2026-10-25T00:01:34+00:00",
-   "status": "not_found"
-  },
   "pinkerton-comprehensive-risk-management|erp|l1": {
    "expires": "2026-11-21T16:10:32.288616+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -17229,6 +17189,11 @@
   "practo-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-26T19:42:43.891903+00:00",
    "looked_up": "2026-11-07T01:01:15+00:00",
+   "status": "not_found"
+  },
+  "pragyani-business-solution|swe|l1": {
+   "expires": "2026-11-22T12:32:36.288299+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
   "pri-india-it-services-private-limited|devops|l2": {
@@ -20518,8 +20483,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T02:21:32.561330+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-07T06:29:08.142524+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21715,8 +21680,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:43:04.952590+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-12T09:49:19.899850+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -21755,6 +21720,11 @@
   "techflex-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T02:54:05.344790+00:00",
    "looked_up": "2026-11-04T02:01:37+00:00",
+   "status": "not_found"
+  },
+  "techgrove-by-banyan-software|devops|l1": {
+   "expires": "2026-11-21T02:30:26.486313+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
   "technetit|erp|l1": {
@@ -22605,6 +22575,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "toadster-technologies-private-limited|devops|l1": {
+   "expires": "2026-11-19T18:27:05.755567+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
+   "status": "not_found"
   },
   "tonbo-imaging|swe|l1": {
    "expires": "2026-11-13T04:17:40.828719+00:00",
@@ -24950,8 +24925,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T19:44:55.158632+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-14T01:30:39.791341+00:00",
+   "looked_up": "2026-11-12T14:01:22+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25511,8 +25486,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1414,
-  "lookups_today": 129,
+  "lookups_month": 1417,
+  "lookups_today": 132,
   "month": "2026-11"
  }
 }
