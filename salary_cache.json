@@ -96,6 +96,11 @@
    ],
    "status": "found"
   },
+  "7figurelocal|frontend|l1": {
+   "expires": "2026-11-25T02:56:03.407466+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "98thpercentile|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -786,6 +791,11 @@
     }
    ],
    "status": "found"
+  },
+  "aiquant|frontend|l1": {
+   "expires": "2026-11-27T22:57:59.642921+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
   },
   "air-arabia|devops|l1": {
    "expires": "2026-11-16T11:00:27.146962+00:00",
@@ -2379,6 +2389,11 @@
    "looked_up": "2026-11-06T08:01:19+00:00",
    "status": "not_found"
   },
+  "atorus|swe|l1": {
+   "expires": "2026-11-26T22:49:45.205404+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "atozinterview-ai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -2478,8 +2493,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:37:05.902199+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-04T04:21:36.905167+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3033,11 +3048,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "billmartfintech|mobile|l1": {
-   "expires": "2026-11-12T14:11:17.283761+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
-   "status": "not_found"
   },
   "binaire-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T19:08:01.828158+00:00",
@@ -3775,6 +3785,22 @@
    "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
+  "bryka-electrosystems-and-software-pvt-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T10:21:29.433510+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "max_lpa": 4.9,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bryka-group-salaries/mumbai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "bt|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4090,11 +4116,6 @@
    "looked_up": "2026-11-07T07:01:15+00:00",
    "status": "not_found"
   },
-  "careercrafterz|fullstack|l1": {
-   "expires": "2026-11-12T14:02:26.798118+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "careerdomain|frontend|l1": {
    "expires": "2026-11-15T09:15:02.060294+00:00",
    "looked_up": "2026-11-05T02:01:27+00:00",
@@ -4201,8 +4222,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:45:19.586659+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-12T15:42:07.800868+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4927,8 +4948,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:36:46.599326+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-12T01:12:57.953539+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4983,8 +5004,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:36:33.100953+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-09T17:29:22.045636+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5623,8 +5644,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:37:52.094216+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-16T20:28:08.072732+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5937,8 +5958,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T15:35:37.644672+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-08T02:18:29.509951+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6779,6 +6800,22 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "eagleburgmann|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T05:50:39.273426+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "max_lpa": 3.7,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/eagleburgmann-salaries/sap-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "eaton|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7118,8 +7155,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T19:08:57.891282+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-06T07:40:56.146430+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7488,6 +7525,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "esri|devops|l1": {
+   "expires": "2026-11-27T14:41:46.974574+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
   },
   "esri|swe|l1": {
    "basis": "ctc",
@@ -7864,6 +7906,26 @@
    ],
    "status": "found"
   },
+  "factset|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-08T03:43:33.503013+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "max_lpa": 8.9,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/945371/factset-software-engineer-hyderabad"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1554454/factset-se-1-hydrabad"
+    }
+   ],
+   "status": "found",
+   "year": 2021
+  },
   "factset|frontend|l2": {
    "basis": "base",
    "confidence": "low",
@@ -7951,6 +8013,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "fedex-global-capability-services-–-hyderabad|swe|l2": {
+   "expires": "2026-11-22T11:23:49.619008+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
   },
   "fedex|fullstack|l2": {
    "basis": "ctc",
@@ -8622,11 +8689,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "fusionconsultingag|frontend|l1": {
-   "expires": "2026-11-12T14:10:16.954411+00:00",
-   "looked_up": "2026-10-28T09:01:31+00:00",
-   "status": "not_found"
   },
   "fusionconsultingag|swe|l1": {
    "expires": "2026-11-17T10:23:16.254712+00:00",
@@ -12568,6 +12630,11 @@
    "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "khurana-and-khurana|swe|l1": {
+   "expires": "2026-11-27T13:24:13.189035+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "kinaxis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13652,6 +13719,11 @@
    "looked_up": "2026-11-10T00:01:21+00:00",
    "status": "not_found"
   },
+  "maktechnologiesllc|fullstack|l1": {
+   "expires": "2026-11-25T10:53:43.710394+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "malloftrends|swe|l1": {
    "expires": "2026-12-01T02:29:32.711064+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -14093,11 +14165,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "meatec-batteryintelligence|security|l1": {
-   "expires": "2026-11-12T14:06:49.856444+00:00",
-   "looked_up": "2026-10-24T17:01:32+00:00",
-   "status": "not_found"
   },
   "media.net|swe|l1": {
    "basis": "ctc",
@@ -15326,6 +15393,11 @@
    "status": "found",
    "year": 2026
   },
+  "nielseniq|devops|l1": {
+   "expires": "2026-12-01T06:50:11.550156+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "nielseniq|devops|l3": {
    "expires": "2026-11-16T07:29:36.560591+00:00",
    "looked_up": "2026-11-04T20:01:18+00:00",
@@ -15570,11 +15642,6 @@
   "nri-pelligola|mobile|l1": {
    "expires": "2026-11-16T07:55:56.371712+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "nthalpix-technologies|swe|l1": {
-   "expires": "2026-11-12T14:59:22.822623+00:00",
-   "looked_up": "2026-11-01T08:01:22+00:00",
    "status": "not_found"
   },
   "ntt-data-americas|devops|l1": {
@@ -17949,6 +18016,26 @@
     {
      "title": "glassdoor.co.in",
      "uri": "https://www.glassdoor.co.in/Salary/Quest-Global-Bangalore-Salaries-EI_IE432989.0,12_IL.13,22_IM1091.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "quest-global|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T11:48:48.303257+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/quest-global-salaries/security-analyst"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/quest-global-salaries/software-engineer/bengaluru-location"
     }
    ],
    "status": "found",
@@ -20483,8 +20570,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T06:29:08.142524+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-05T01:13:38.157455+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21244,6 +21331,11 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
+  "talentrabbit|frontend|l1": {
+   "expires": "2026-12-02T01:09:58.319811+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "status": "not_found"
+  },
   "talentrabbit|swe|l1": {
    "expires": "2026-11-26T09:37:43.505852+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -21680,8 +21772,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:49:19.899850+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-06T02:28:03.526639+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -23770,6 +23862,26 @@
    "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
+  "verve-logic|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T03:13:20.295361+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vervelogic-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vervelogic-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "vervotech|swe|l2": {
    "expires": "2026-11-18T01:58:08.525101+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
@@ -24925,8 +25037,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:30:39.791341+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
+   "expires": "2027-02-06T14:23:42.318022+00:00",
+   "looked_up": "2026-11-12T15:01:25+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25486,8 +25598,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1417,
-  "lookups_today": 132,
+  "lookups_month": 1431,
+  "lookups_today": 146,
   "month": "2026-11"
  }
 }
