@@ -2182,11 +2182,6 @@
    "looked_up": "2026-11-09T05:01:20+00:00",
    "status": "not_found"
   },
-  "asap-infotech|erp|l1": {
-   "expires": "2026-11-12T22:24:15.468376+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "ascendeum|devops|l1": {
    "expires": "2026-11-28T03:40:09.873350+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -2524,8 +2519,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:25:07.308056+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-12T05:56:48.356314+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4263,8 +4258,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T03:25:48.447923+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-08T05:36:17.682023+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4990,8 +4985,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:26:09.128286+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-08T22:59:17.927550+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5046,8 +5041,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:32:21.350018+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-15T05:14:34.364371+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5702,8 +5697,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:18:05.759556+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-09T12:07:50.019732+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6011,8 +6006,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:05:32.561711+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-11T12:46:55.097366+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7234,8 +7229,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:06:36.822481+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-13T12:25:37.291676+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -14812,8 +14807,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:14:37.428164+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-16T11:42:08.656250+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -16194,6 +16189,11 @@
   "omniskopeinc|data|l1": {
    "expires": "2026-11-24T16:21:57.762501+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
+   "status": "not_found"
+  },
+  "omp-supply-chain-planning|erp|l1": {
+   "expires": "2026-11-27T09:50:00.509377+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "status": "not_found"
   },
   "omygontechnology|fullstack|l1": {
@@ -20741,8 +20741,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T16:06:53.309747+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-17T02:03:59.526474+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21930,6 +21930,11 @@
    "looked_up": "2026-11-12T16:01:24+00:00",
    "status": "not_found"
   },
+  "techaxisinc|erp|l1": {
+   "expires": "2026-11-23T09:33:24.995644+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
+   "status": "not_found"
+  },
   "techcarrot|erp|l1": {
    "expires": "2026-11-23T11:16:23.575466+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
@@ -21943,8 +21948,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T22:24:03.909529+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-13T19:28:44.255985+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24590,8 +24595,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:18:58.531856+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-12T21:48:10.864744+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25219,8 +25224,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:15:35.732119+00:00",
-   "looked_up": "2026-11-12T22:01:22+00:00",
+   "expires": "2027-02-11T19:18:15.700289+00:00",
+   "looked_up": "2026-11-12T23:01:27+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25780,8 +25785,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1465,
-  "lookups_today": 180,
+  "lookups_month": 1467,
+  "lookups_today": 182,
   "month": "2026-11"
  }
 }
