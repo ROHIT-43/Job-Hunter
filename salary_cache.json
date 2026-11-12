@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:46:07.617744+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-16T04:30:48.019942+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2486,11 +2486,6 @@
    "status": "found",
    "year": 2026
   },
-  "aveva|swe|l2": {
-   "expires": "2026-11-11T23:06:01.762933+00:00",
-   "looked_up": "2026-10-29T20:01:27+00:00",
-   "status": "not_found"
-  },
   "avisysservices|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2951,6 +2946,11 @@
   "binaire-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T19:08:01.828158+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
+   "status": "not_found"
+  },
+  "binary-geckos|fullstack|l1": {
+   "expires": "2026-11-21T02:21:07.298130+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "status": "not_found"
   },
   "binated|fullstack|l1": {
@@ -4008,11 +4008,6 @@
    "looked_up": "2026-11-07T07:01:15+00:00",
    "status": "not_found"
   },
-  "careerblocc|swe|l1": {
-   "expires": "2026-11-11T23:26:24.948112+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
-   "status": "not_found"
-  },
   "careercrafterz|fullstack|l1": {
    "expires": "2026-11-12T14:02:26.798118+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -4599,6 +4594,11 @@
    "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
+  "citi|swe|l1": {
+   "expires": "2026-12-01T14:11:02.466290+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
+   "status": "not_found"
+  },
   "clarity-medical-pvt-ltd|swe|l1": {
    "expires": "2026-11-22T12:59:20.661556+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
@@ -4819,8 +4819,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T07:05:52.832662+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-09T21:56:16.044924+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4833,8 +4833,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T01:46:43.636189+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-08T01:55:20.854404+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -9688,11 +9688,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "helpshift|swe|l1": {
-   "expires": "2026-11-11T23:36:34.934391+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
   },
   "hermes-corporate|fullstack|l1": {
    "expires": "2026-11-21T07:02:09.655905+00:00",
@@ -16249,8 +16244,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T22:52:42.282747+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-06T11:18:51.988014+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -20624,11 +20619,6 @@
    "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
-  "talentgigs|devops|l1": {
-   "expires": "2026-11-11T23:45:23.459970+00:00",
-   "looked_up": "2026-10-30T04:01:27+00:00",
-   "status": "not_found"
-  },
   "talentgigs|swe|l1": {
    "expires": "2026-11-19T23:36:12.101546+00:00",
    "looked_up": "2026-11-11T18:01:20+00:00",
@@ -22485,8 +22475,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T00:48:24.650335+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-09T13:37:59.151756+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22499,8 +22489,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:35:42.798676+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-12T05:43:56.533861+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24075,8 +24065,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T03:00:57.145297+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
+   "expires": "2027-02-13T13:16:29.285230+00:00",
+   "looked_up": "2026-11-12T00:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24750,9 +24740,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-11",
-  "lookups_month": 1285,
-  "lookups_today": 160,
+  "day": "2026-11-12",
+  "lookups_month": 1287,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
