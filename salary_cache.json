@@ -571,6 +571,11 @@
    ],
    "status": "found"
   },
+  "admiezo|fullstack|l1": {
+   "expires": "2026-11-22T19:46:47.129780+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
+   "status": "not_found"
+  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1164,8 +1169,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T00:49:50.359529+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-07T20:24:52.403655+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1763,6 +1768,11 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
+  "appliedbusinessconsulting|swe|l1": {
+   "expires": "2026-11-28T02:30:13.174903+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
+   "status": "not_found"
+  },
   "apps-island|swe|l1": {
    "expires": "2026-11-21T01:11:58.350099+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
@@ -1972,11 +1982,6 @@
   "aristocratcorporate|swe|l2": {
    "expires": "2026-11-19T04:37:40.398683+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
-   "status": "not_found"
-  },
-  "arkin-software-technologies|mobile|l1": {
-   "expires": "2026-11-12T04:37:42.740573+00:00",
-   "looked_up": "2026-10-31T05:01:27+00:00",
    "status": "not_found"
   },
   "arm|devops|l1": {
@@ -2382,6 +2387,20 @@
    "expires": "2026-11-29T15:57:48.372008+00:00",
    "looked_up": "2026-11-09T09:01:23+00:00",
    "status": "not_found"
+  },
+  "authentica|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T10:56:13.279298+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "auto-data-catalog|swe|l1": {
    "expires": "2026-11-23T07:13:14.050687+00:00",
@@ -3018,11 +3037,6 @@
   "blackbaud-india|frontend|l1": {
    "expires": "2026-11-21T12:14:32.208254+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
-  "blackbaud-india|swe|l1": {
-   "expires": "2026-11-12T04:44:06.131497+00:00",
-   "looked_up": "2026-11-04T17:01:19+00:00",
    "status": "not_found"
   },
   "blackhawk-network-india|devops|l1": {
@@ -4332,11 +4346,6 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
-  "centotech|security|l1": {
-   "expires": "2026-11-12T04:39:42.555256+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
   "cerebra-consulting-inc|erp|l1": {
    "expires": "2026-11-21T22:50:34.883193+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
@@ -4804,8 +4813,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T23:57:14.635246+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-12T07:14:26.480931+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4818,8 +4827,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:27:18.914349+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-03T05:10:46.555972+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6888,11 +6897,6 @@
     }
    ],
    "status": "found"
-  },
-  "enkay|devops|l1": {
-   "expires": "2026-11-12T04:15:10.351302+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
-   "status": "not_found"
   },
   "entain-india|erp|l1": {
    "expires": "2026-11-13T14:45:20.679672+00:00",
@@ -11643,11 +11647,6 @@
    "status": "found",
    "year": 2026
   },
-  "jacobs|fullstack|l1": {
-   "expires": "2026-11-12T04:05:48.139142+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
   "jade-global|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11780,6 +11779,11 @@
     }
    ],
    "status": "found"
+  },
+  "jobgether|erp|l1": {
+   "expires": "2026-11-29T10:41:17.700503+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
+   "status": "not_found"
   },
   "jobgether|mobile|l1": {
    "expires": "2026-11-16T04:06:56.922281+00:00",
@@ -12015,11 +12019,6 @@
     }
    ],
    "status": "found"
-  },
-  "juniordelhischool|swe|l1": {
-   "expires": "2026-11-12T04:22:35.278414+00:00",
-   "looked_up": "2026-10-23T10:01:27+00:00",
-   "status": "not_found"
   },
   "juspay-technologies|frontend|l1": {
    "basis": "ctc",
@@ -16214,8 +16213,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:26:38.887436+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-12T21:46:12.160012+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -16900,6 +16899,22 @@
    "expires": "2026-11-14T14:19:16.991310+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
+  },
+  "prudent-technologies-and-consulting-inc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T15:14:14.946807+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/prudent-technologies-reviews"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pt-global-tiket-network|frontend|l1": {
    "basis": "base",
@@ -17932,11 +17947,6 @@
   "rhenova-tech|swe|l1": {
    "expires": "2026-11-14T14:39:59.850346+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
-  },
-  "rhombus-power|data|l1": {
-   "expires": "2026-11-12T04:06:29.329780+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
    "status": "not_found"
   },
   "rickshaw-studios|swe|l1": {
@@ -22435,8 +22445,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T17:20:11.486740+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-16T09:38:10.079882+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22449,8 +22459,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T06:33:54.416885+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-06T00:05:30.037357+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24015,8 +24025,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:33:49.848375+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-08T05:55:11.887761+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24200,8 +24210,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:14:05.335552+00:00",
-   "looked_up": "2026-11-12T04:01:15+00:00",
+   "expires": "2027-02-06T08:58:11.190897+00:00",
+   "looked_up": "2026-11-12T05:01:17+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -24705,8 +24715,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1293,
-  "lookups_today": 8,
+  "lookups_month": 1297,
+  "lookups_today": 12,
   "month": "2026-11"
  }
 }
