@@ -395,6 +395,11 @@
    ],
    "status": "found"
   },
+  "acenetio|data|l1": {
+   "expires": "2026-11-26T23:24:31.166897+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "acetech-group-of-companies|swe|l1": {
    "expires": "2026-11-20T17:02:17.253223+00:00",
    "looked_up": "2026-10-31T12:01:25+00:00",
@@ -626,11 +631,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "adyogi|fullstack|l1": {
-   "expires": "2026-11-12T05:02:41.492693+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
   },
   "aegan-global|swe|l1": {
    "expires": "2026-11-13T11:25:21.289159+00:00",
@@ -1068,6 +1068,22 @@
    "looked_up": "2026-11-06T14:01:14+00:00",
    "status": "not_found"
   },
+  "alphabin|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T08:37:58.315645+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alphabin-technology-consulting-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "alphacom-systems-and-solutions-private-limited|data|l1": {
    "expires": "2026-12-01T05:49:00.108595+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
@@ -1169,8 +1185,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T20:24:52.403655+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-15T22:29:36.994428+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1657,6 +1673,11 @@
    "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
+  "apm-technologies|swe|l1": {
+   "expires": "2026-11-30T04:50:20.599653+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "appinventiv|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1714,8 +1735,8 @@
    "year": 2025
   },
   "applicantz-com|erp|l1": {
-   "expires": "2026-11-12T05:55:09.949570+00:00",
-   "looked_up": "2026-10-29T07:01:34+00:00",
+   "expires": "2026-11-27T00:43:04.607760+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
   "applicantz-com|swe|l1": {
@@ -1791,11 +1812,6 @@
   "aptask|erp|l1": {
    "expires": "2026-11-25T14:24:04.860396+00:00",
    "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
-  "aptita-talent-experts|swe|l1": {
-   "expires": "2026-11-12T05:06:33.615890+00:00",
-   "looked_up": "2026-10-29T00:01:33+00:00",
    "status": "not_found"
   },
   "aptiv|security|l1": {
@@ -1887,6 +1903,11 @@
   "arabianaroma|frontend|l1": {
    "expires": "2026-11-25T18:49:17.622700+00:00",
    "looked_up": "2026-11-07T09:01:19+00:00",
+   "status": "not_found"
+  },
+  "arbelosgroup|swe|l1": {
+   "expires": "2026-11-26T06:00:36.539359+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
   "arcadiahq|swe|l2": {
@@ -2391,8 +2412,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:56:13.279298+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-12T06:39:22.911759+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2435,11 +2456,6 @@
   "autoven|swe|l1": {
    "expires": "2026-11-24T10:33:19.652919+00:00",
    "looked_up": "2026-11-11T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "avaloq|frontend|l1": {
-   "expires": "2026-11-12T05:01:18.959150+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
    "status": "not_found"
   },
   "avaloq|mobile|l1": {
@@ -2874,6 +2890,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "bds-ai-digital-solutions-pvt-ltd|swe|l1": {
+   "expires": "2026-11-28T16:43:11.452138+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
   },
   "be-additive|swe|l1": {
    "expires": "2026-11-18T16:41:31.508940+00:00",
@@ -3617,6 +3638,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "brio-technologies|data|l1": {
+   "expires": "2026-11-30T19:20:31.574549+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
   },
   "bristlecone|erp|l1": {
    "basis": "ctc",
@@ -4813,8 +4839,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T07:14:26.480931+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-11T07:30:21.499015+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4827,8 +4853,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T05:10:46.555972+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-08T14:47:26.677445+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5455,6 +5481,20 @@
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
+  "crawldigitally|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-06T08:39:00.927723+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "credapp|security|l1": {
    "expires": "2026-11-16T09:21:40.429074+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -5520,6 +5560,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "crowe-capabilities-center|devops|l1": {
+   "expires": "2026-11-27T14:15:30.159144+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
   },
   "cruxinternational|swe|l1": {
    "expires": "2026-11-15T05:00:10.278813+00:00",
@@ -5986,11 +6031,6 @@
     }
    ],
    "status": "found"
-  },
-  "deepterrain-ai-pvt-ltd|swe|l2": {
-   "expires": "2026-11-12T05:34:23.138094+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
   },
   "delaplex|swe|l1": {
    "basis": "ctc",
@@ -7507,11 +7547,6 @@
    "looked_up": "2026-11-09T11:01:23+00:00",
    "status": "not_found"
   },
-  "experityhealth|swe|l2": {
-   "expires": "2026-11-12T05:46:22.542966+00:00",
-   "looked_up": "2026-10-22T12:01:29+00:00",
-   "status": "not_found"
-  },
   "experityhealth|swe|l3": {
    "expires": "2026-11-14T08:49:10.035271+00:00",
    "looked_up": "2026-10-28T07:01:30+00:00",
@@ -8252,11 +8287,6 @@
   "freseniusmedicalcare|erp|l1": {
    "expires": "2026-11-18T12:38:00.071736+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "fressers|swe|l1": {
-   "expires": "2026-11-12T05:34:37.645604+00:00",
-   "looked_up": "2026-10-25T02:01:27+00:00",
    "status": "not_found"
   },
   "frnd-app|mobile|l1": {
@@ -13072,6 +13102,11 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
+  "lumibyte-ai|fullstack|l1": {
+   "expires": "2026-12-01T05:48:03.287464+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "luminoxautomation|swe|l1": {
    "expires": "2026-11-18T08:40:13.339660+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -13898,6 +13933,11 @@
   "metro-services-private-limited|security|l1": {
    "expires": "2026-11-16T14:35:31.144796+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
+   "status": "not_found"
+  },
+  "metsoofficial|erp|l1": {
+   "expires": "2026-11-20T00:12:39.969890+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
   "miamin-systems-inc|swe|l1": {
@@ -14985,6 +15025,11 @@
    "status": "found",
    "year": 2024
   },
+  "nisieon|mobile|l1": {
+   "expires": "2026-11-24T19:53:04.723556+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "nitiaide|mobile|l1": {
    "expires": "2026-11-28T23:44:40.262759+00:00",
    "looked_up": "2026-11-09T05:01:20+00:00",
@@ -15008,11 +15053,6 @@
     }
    ],
    "status": "found"
-  },
-  "nkt-cables|swe|l1": {
-   "expires": "2026-11-12T05:33:33.158740+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
   },
   "nmdcon|swe|l1": {
    "basis": "posted",
@@ -16213,8 +16253,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:46:12.160012+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-06T00:54:34.836299+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17054,11 +17094,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "pwc-ac-india|frontend|l1": {
-   "expires": "2026-11-12T05:11:10.516437+00:00",
-   "looked_up": "2026-10-23T16:01:28+00:00",
-   "status": "not_found"
   },
   "pwc-ac-india|fullstack|l1": {
    "expires": "2026-11-22T06:31:01.589421+00:00",
@@ -18493,6 +18528,22 @@
    "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
+  "sandvik|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T01:33:47.803815+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "thejobcompany.co.in",
+     "uri": "https://thejobcompany.co.in/frontend/job_details?job_id=798"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "saneforce-pharma-sfa|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19338,6 +19389,11 @@
    "looked_up": "2026-11-08T11:01:21+00:00",
    "status": "not_found"
   },
+  "skillbridge-staffing-pvt-ltd|swe|l1": {
+   "expires": "2026-11-19T23:52:56.372610+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "skillcollege|frontend|l1": {
    "expires": "2026-11-14T22:23:52.312769+00:00",
    "looked_up": "2026-11-01T01:01:35+00:00",
@@ -19370,11 +19426,6 @@
     }
    ],
    "status": "found"
-  },
-  "sky-systems-inc-skysys|erp|l1": {
-   "expires": "2026-11-12T05:53:31.982282+00:00",
-   "looked_up": "2026-11-03T20:58:56+00:00",
-   "status": "not_found"
   },
   "skyetrip|frontend|l1": {
    "expires": "2026-11-26T11:24:53.134660+00:00",
@@ -21804,6 +21855,22 @@
    "status": "found",
    "year": 2026
   },
+  "thinkbiz-technology-private-limited|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T01:15:09.454551+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/thinkbiz-technology-salaries?page=3"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "thomson-reuters|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22445,8 +22512,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:38:10.079882+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-15T11:07:14.221423+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22459,8 +22526,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:05:30.037357+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-09T05:56:44.785982+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -23458,6 +23525,11 @@
    "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
+  "wall-street-consulting-services-llc|fullstack|l1": {
+   "expires": "2026-11-24T01:01:31.156926+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "walmartglobaltechindia|fullstack|l3": {
    "basis": "base",
    "confidence": "low",
@@ -24025,8 +24097,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T05:55:11.887761+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-12T11:22:30.208872+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24207,11 +24279,16 @@
    "status": "found",
    "year": 2024
   },
+  "yaza-group|swe|l1": {
+   "expires": "2026-11-27T16:33:55.417446+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T08:58:11.190897+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
+   "expires": "2027-02-06T01:44:21.275147+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -24553,6 +24630,46 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
+  "zeptonow|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-13T14:25:05.920806+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/5954592/Zepto-or-SDE-1-or-Bengaluru/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2179745/zepto-sde-1-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
+  "zeptonow|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-09T00:51:50.007055+00:00",
+   "looked_up": "2026-11-12T06:01:20+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/5954592/Zepto-or-SDE-1-or-Bengaluru/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2179745/zepto-sde-1-bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "zestl|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24715,8 +24832,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1297,
-  "lookups_today": 12,
+  "lookups_month": 1315,
+  "lookups_today": 30,
   "month": "2026-11"
  }
 }
