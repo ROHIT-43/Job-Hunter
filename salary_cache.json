@@ -599,11 +599,6 @@
    "looked_up": "2026-11-05T23:01:23+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|swe|l1": {
-   "expires": "2026-11-12T19:09:00.249531+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1705,11 +1700,6 @@
    ],
    "status": "found"
   },
-  "anglertechnologies|frontend|l1": {
-   "expires": "2026-11-12T19:33:45.417164+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
   "animlslover|mobile|l1": {
    "expires": "2026-11-19T18:26:10.318303+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
@@ -2539,8 +2529,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T10:50:59.415507+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-14T15:25:11.873858+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -2647,6 +2637,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aviacaodeangola|frontend|l1": {
+   "expires": "2026-11-30T07:42:04.682154+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
+   "status": "not_found"
   },
   "avisysservices|erp|l1": {
    "basis": "ctc",
@@ -4273,8 +4268,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:09:08.473746+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-11T18:07:54.048606+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4894,6 +4889,11 @@
    "looked_up": "2026-10-30T13:01:31+00:00",
    "status": "not_found"
   },
+  "cloudplay-xp|swe|l1": {
+   "expires": "2026-11-20T21:12:05.624818+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
+   "status": "not_found"
+  },
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -5010,8 +5010,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T14:40:48.849299+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-07T16:53:31.816455+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5066,8 +5066,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:57:35.519471+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-08T22:38:45.047467+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5722,8 +5722,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:58:20.758128+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-10T10:42:29.564792+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6031,8 +6031,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T07:58:47.509081+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-04T19:03:32.552739+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7254,8 +7254,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T10:52:50.002868+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-05T08:09:28.903199+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -11207,6 +11207,22 @@
    "status": "found",
    "year": 2026
   },
+  "info-swift-corp|fullstack|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-15T22:03:30.652377+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/infoswift-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "infobeans|erp|l1": {
    "expires": "2026-11-20T19:44:55.701063+00:00",
    "looked_up": "2026-11-05T12:01:24+00:00",
@@ -11849,11 +11865,6 @@
     }
    ],
    "status": "found"
-  },
-  "invyte-ai|devops|l1": {
-   "expires": "2026-11-12T19:49:36.453689+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
   },
   "iongroup|swe|l1": {
    "basis": "base",
@@ -14815,8 +14826,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T09:54:12.857885+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-13T03:36:39.587428+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -20749,8 +20760,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T19:09:04.970188+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-05T08:49:43.297605+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21951,8 +21962,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T13:07:28.176617+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-10T19:49:30.543826+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -22034,11 +22045,6 @@
    ],
    "status": "found",
    "year": 2023
-  },
-  "technixindia|fullstack|l1": {
-   "expires": "2026-11-12T19:07:21.993784+00:00",
-   "looked_up": "2026-11-02T20:01:29+00:00",
-   "status": "not_found"
   },
   "technogenindia|fullstack|l1": {
    "expires": "2026-12-01T01:46:47.515635+00:00",
@@ -24613,8 +24619,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:33:34.481111+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-12T09:15:00.212042+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -24651,6 +24657,22 @@
     }
    ],
    "status": "found"
+  },
+  "weareuplers|mobile|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-11T14:29:34.231499+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/uplers-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "weareuplers|swe|l1": {
    "basis": "posted",
@@ -25241,8 +25263,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:03:28.450605+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
+   "expires": "2027-02-17T05:48:31.459496+00:00",
+   "looked_up": "2026-11-12T20:01:21+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25802,8 +25824,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1458,
-  "lookups_today": 173,
+  "lookups_month": 1462,
+  "lookups_today": 177,
   "month": "2026-11"
  }
 }
