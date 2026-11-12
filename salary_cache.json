@@ -40,11 +40,6 @@
    ],
    "status": "found"
   },
-  "4th-quarter-technologies|swe|l1": {
-   "expires": "2026-11-12T15:35:04.936453+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
   "5exceptions-software-solutions-pvt-ltd|security|l1": {
    "basis": "base",
    "confidence": "low",
@@ -1435,6 +1430,11 @@
    "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
+  "amd-pensando|swe|l1": {
+   "expires": "2026-11-28T23:34:50.346252+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
+   "status": "not_found"
+  },
   "amd|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2493,8 +2493,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T04:21:36.905167+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-13T21:20:54.169943+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3301,6 +3301,11 @@
    "status": "found",
    "year": 2026
   },
+  "bmc-software|swe|l1": {
+   "expires": "2026-12-02T16:38:37.811531+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
+   "status": "not_found"
+  },
   "bmchelix|swe|l1": {
    "expires": "2026-11-13T15:26:29.081575+00:00",
    "looked_up": "2026-10-24T11:22:21+00:00",
@@ -3843,11 +3848,6 @@
    "looked_up": "2026-11-08T15:01:17+00:00",
    "status": "not_found"
   },
-  "bupa-capability-centre-india|devops|l1": {
-   "expires": "2026-11-12T15:30:05.017194+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
   "burns-mcdonnell-india|data|l1": {
    "expires": "2026-11-25T20:55:47.123281+00:00",
    "looked_up": "2026-11-10T16:01:23+00:00",
@@ -4081,6 +4081,11 @@
    "status": "found",
    "year": 2025
   },
+  "capgemini|fullstack|l1": {
+   "expires": "2026-11-22T15:37:01.974129+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
+   "status": "not_found"
+  },
   "capgemini|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4222,8 +4227,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T15:42:07.800868+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-16T08:07:00.921240+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4465,9 +4470,20 @@
    "year": 2026
   },
   "centotech|erp|l1": {
-   "expires": "2026-11-12T15:22:29.955629+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T15:26:19.649203+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/centotech-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cerebra-consulting-inc|erp|l1": {
    "expires": "2026-11-21T22:50:34.883193+00:00",
@@ -4948,8 +4964,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T01:12:57.953539+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-07T19:23:09.918796+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5004,8 +5020,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T17:29:22.045636+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-16T09:20:31.978366+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5644,8 +5660,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:28:08.072732+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-08T04:29:06.818573+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5958,8 +5974,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:18:29.509951+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-07T14:21:49.583375+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7155,8 +7171,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T07:40:56.146430+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-08T00:39:07.915546+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7408,11 +7424,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ernstandyoung|security|l1": {
-   "expires": "2026-11-12T15:55:28.272797+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
-   "status": "not_found"
   },
   "ernstandyoung|swe|l1": {
    "basis": "ctc",
@@ -12669,6 +12680,11 @@
   "kisan-sadhan|mobile|l1": {
    "expires": "2026-11-18T13:52:02.242718+00:00",
    "looked_up": "2026-10-31T08:01:24+00:00",
+   "status": "not_found"
+  },
+  "kiswok-industries-pvt-ltd|swe|l1": {
+   "expires": "2026-12-02T17:32:26.549168+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "status": "not_found"
   },
   "kizen-education|swe|l1": {
@@ -20570,8 +20586,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T01:13:38.157455+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-10T19:40:20.925990+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21755,8 +21771,8 @@
    "year": 2026
   },
   "tech-talent-consulting|erp|l1": {
-   "expires": "2026-11-12T15:37:32.650247+00:00",
-   "looked_up": "2026-11-05T03:01:16+00:00",
+   "expires": "2026-12-02T16:25:37.781312+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "status": "not_found"
   },
   "techcarrot|erp|l1": {
@@ -21772,8 +21788,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:28:03.526639+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-13T05:53:04.003774+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24436,6 +24452,20 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
+  "weareuplers|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T17:15:24.931202+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -25037,8 +25067,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T14:23:42.318022+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
+   "expires": "2027-02-10T20:45:48.244491+00:00",
+   "looked_up": "2026-11-12T16:01:24+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25598,8 +25628,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1431,
-  "lookups_today": 146,
+  "lookups_month": 1437,
+  "lookups_today": 152,
   "month": "2026-11"
  }
 }
