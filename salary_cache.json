@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:56:22.288012+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-09T07:49:28.412719+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4809,8 +4809,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T13:47:46.605054+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-08T07:18:57.027585+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4823,8 +4823,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T13:54:46.397717+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-15T04:23:56.639750+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -10524,11 +10524,6 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
-  "iecp22|devops|l1": {
-   "expires": "2026-11-12T02:26:47.688207+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
-   "status": "not_found"
-  },
   "ienergydigital|fullstack|l1": {
    "expires": "2026-11-21T03:02:01.958019+00:00",
    "looked_up": "2026-11-07T17:01:25+00:00",
@@ -16027,11 +16022,6 @@
    "status": "found",
    "year": null
   },
-  "pallav-technologies|swe|l1": {
-   "expires": "2026-11-12T02:11:44.023642+00:00",
-   "looked_up": "2026-10-28T18:01:29+00:00",
-   "status": "not_found"
-  },
   "palo-alto-networks|security|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16239,8 +16229,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T06:05:27.551907+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-10T17:52:22.531356+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -19524,11 +19514,6 @@
    "status": "found",
    "year": 2025
   },
-  "snaphomz|fullstack|l1": {
-   "expires": "2026-11-12T02:07:34.229882+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
-   "status": "not_found"
-  },
   "snapmintfinserv|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22460,8 +22445,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T03:30:50.331890+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-04T12:18:06.836529+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22474,8 +22459,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:09:43.444163+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-11T23:32:16.260016+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -23014,6 +22999,11 @@
   "veltique-software|erp|l1": {
    "expires": "2026-11-17T23:13:50.509540+00:00",
    "looked_up": "2026-11-09T06:01:20+00:00",
+   "status": "not_found"
+  },
+  "vensys-leap-engineering-services-coimbatore|swe|l1": {
+   "expires": "2026-12-02T04:32:41.496959+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "status": "not_found"
   },
   "venture-intelligence|fullstack|l1": {
@@ -23962,11 +23952,6 @@
    "status": "found",
    "year": 2026
   },
-  "withorbital|swe|l1": {
-   "expires": "2026-11-12T02:16:02.458920+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
   "wolters-kluwer|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23986,11 +23971,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "wonder-worth-solutions-llc|swe|l1": {
-   "expires": "2026-11-12T02:52:40.118318+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
-   "status": "not_found"
   },
   "workelate|fullstack|l3": {
    "basis": "posted",
@@ -24045,8 +24025,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:57:01.794417+00:00",
-   "looked_up": "2026-11-12T02:01:23+00:00",
+   "expires": "2027-02-03T13:33:26.728207+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24226,6 +24206,20 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "ycms-one-digital-technologies|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-12T12:27:03.931760+00:00",
+   "looked_up": "2026-11-12T02:58:54+00:00",
+   "max_lpa": 2.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "yebelo|swe|l1": {
    "basis": "posted",
@@ -24721,8 +24715,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1289,
-  "lookups_today": 4,
+  "lookups_month": 1290,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
