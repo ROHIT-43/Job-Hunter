@@ -171,6 +171,11 @@
    "looked_up": "2026-11-11T01:01:23+00:00",
    "status": "not_found"
   },
+  "aavedanco|swe|l1": {
+   "expires": "2026-11-28T09:14:09.226199+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "status": "not_found"
+  },
   "aayaninfotech|swe|l1": {
    "expires": "2026-11-17T10:58:16.722978+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -636,6 +641,11 @@
   "adroit-innovative-india|swe|l1": {
    "expires": "2026-11-17T07:00:47.547790+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
+   "status": "not_found"
+  },
+  "adroitec-engineering-solutions-pvt-ltd|swe|l1": {
+   "expires": "2026-11-26T15:32:16.695723+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
   "adswerve-inc-|swe|l2": {
@@ -1216,8 +1226,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:47:50.626973+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-15T02:52:07.079303+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1707,6 +1717,11 @@
   "apm-technologies|swe|l1": {
    "expires": "2026-11-30T04:50:20.599653+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
+   "status": "not_found"
+  },
+  "appinventiv|frontend|l1": {
+   "expires": "2026-11-24T01:21:35.147355+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
   "appinventiv|swe|l1": {
@@ -2443,8 +2458,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:15:48.235998+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-08T09:21:33.047278+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4165,8 +4180,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:18:55.479343+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-10T15:41:14.534436+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4860,8 +4875,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T12:07:04.421798+00:00",
-   "looked_up": "2026-10-29T07:14:15+00:00",
+   "expires": "2027-02-09T03:15:06.909302+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4874,8 +4889,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T18:24:32.132990+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-15T16:50:20.292113+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4888,8 +4903,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:15:43.642383+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-14T17:18:25.757711+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4916,8 +4931,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T08:26:47.909730+00:00",
-   "looked_up": "2026-11-06T09:23:37+00:00",
+   "expires": "2027-02-14T05:24:08.034609+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5411,6 +5426,22 @@
    "status": "found",
    "year": 2026
   },
+  "constaccent-consultancy-private-limited|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T07:46:30.916941+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/constaccent-consultancy-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "constraal|fullstack|l1": {
    "expires": "2026-11-15T02:22:24.503359+00:00",
    "looked_up": "2026-10-30T07:01:31+00:00",
@@ -5514,8 +5545,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T13:11:13.601165+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-07T18:52:12.651308+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6786,6 +6817,11 @@
   "ekloud|erp|l1": {
    "expires": "2026-11-24T09:36:54.617152+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "ekloud|swe|l1": {
+   "expires": "2026-11-28T05:50:33.248943+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
   "elanco|data|l1": {
@@ -8411,11 +8447,6 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
-  "futuredesks|mobile|l1": {
-   "expires": "2026-11-12T08:34:42.744858+00:00",
-   "looked_up": "2026-10-22T16:01:31+00:00",
-   "status": "not_found"
-  },
   "fuzixel-technologies-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8462,6 +8493,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/en-gb/companies/gartner/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "gartner|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T06:00:43.270510+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 12.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/gartner-salaries/software-engineer-ii"
     }
    ],
    "status": "found",
@@ -12385,6 +12432,11 @@
    "looked_up": "2026-11-01T12:01:27+00:00",
    "status": "not_found"
   },
+  "kksoft-bim|swe|l1": {
+   "expires": "2026-11-24T13:44:33.451985+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "status": "not_found"
+  },
   "klacorp|fullstack|l1": {
    "expires": "2026-11-16T16:55:17.200580+00:00",
    "looked_up": "2026-10-27T17:01:29+00:00",
@@ -15697,11 +15749,6 @@
    "looked_up": "2026-11-04T03:01:31+00:00",
    "status": "not_found"
   },
-  "onehousehq|swe|l1": {
-   "expires": "2026-11-12T08:37:11.865987+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16354,8 +16401,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T01:41:28.955178+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-08T10:21:02.633882+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -17092,6 +17139,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "publicissapient|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T11:51:16.629539+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "max_lpa": 20.6,
+   "min_lpa": 5.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/publicis-sapient-salaries/associate-software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "pulp-strategy-communications-pvt-ltd|swe|l1": {
    "basis": "ctc",
@@ -20166,6 +20229,11 @@
    "status": "found",
    "year": 2026
   },
+  "stansyssoftwaresolutions|swe|l1": {
+   "expires": "2026-11-21T09:53:39.503683+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
+   "status": "not_found"
+  },
   "starclinch|swe|l1": {
    "expires": "2026-11-14T05:32:11.176731+00:00",
    "looked_up": "2026-10-26T09:01:34+00:00",
@@ -22619,8 +22687,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T23:34:33.104591+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-05T21:15:16.478623+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22633,8 +22701,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T09:27:56.572768+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-07T08:31:56.910411+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24399,8 +24467,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T17:39:04.205677+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
+   "expires": "2027-02-04T08:28:27.171524+00:00",
+   "looked_up": "2026-11-12T09:01:24+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -24949,8 +25017,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1342,
-  "lookups_today": 57,
+  "lookups_month": 1351,
+  "lookups_today": 66,
   "month": "2026-11"
  }
 }
