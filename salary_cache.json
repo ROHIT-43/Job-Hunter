@@ -1164,8 +1164,8 @@
   "amagicorporation|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:46:55.572922+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-10T00:49:50.359529+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3411,11 +3411,6 @@
    "status": "found",
    "year": 2026
   },
-  "botconsulting-ai|erp|l1": {
-   "expires": "2026-11-12T03:26:36.629218+00:00",
-   "looked_up": "2026-10-31T05:01:27+00:00",
-   "status": "not_found"
-  },
   "botnex-social|swe|l1": {
    "expires": "2026-11-16T15:21:37.873209+00:00",
    "looked_up": "2026-11-08T03:01:21+00:00",
@@ -4809,8 +4804,8 @@
   "coderoundai|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:26:47.859209+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-03T23:57:14.635246+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -4823,8 +4818,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:18:20.637912+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-15T21:27:18.914349+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5520,6 +5515,11 @@
   "cruxinternational|swe|l1": {
    "expires": "2026-11-15T05:00:10.278813+00:00",
    "looked_up": "2026-11-05T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "cscgovae|security|l1": {
+   "expires": "2026-11-20T10:01:45.676500+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "status": "not_found"
   },
   "csm-tech-americas|swe|l1": {
@@ -8677,6 +8677,11 @@
    "looked_up": "2026-10-26T22:01:27+00:00",
    "status": "not_found"
   },
+  "global-cxo-events|swe|l1": {
+   "expires": "2026-11-30T05:52:41.915280+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
+   "status": "not_found"
+  },
   "global-payments|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11278,11 +11283,6 @@
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
-  "integrate-point|swe|l1": {
-   "expires": "2026-11-12T03:17:17.597888+00:00",
-   "looked_up": "2026-11-02T18:01:34+00:00",
-   "status": "not_found"
-  },
   "integrichain|data|l1": {
    "expires": "2026-11-24T05:53:42.215439+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
@@ -11331,11 +11331,6 @@
   "intraedge|data|l1": {
    "expires": "2026-11-18T13:40:13.960092+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "intuition-it-intuitive-technology-recruitment|erp|l1": {
-   "expires": "2026-11-12T03:54:09.046741+00:00",
-   "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
   "intuition-it-intuitive-technology-recruitment|swe|l1": {
@@ -15951,11 +15946,6 @@
    "looked_up": "2026-11-04T21:01:18+00:00",
    "status": "not_found"
   },
-  "outcome-school|swe|l1": {
-   "expires": "2026-11-12T03:13:52.232009+00:00",
-   "looked_up": "2026-10-24T00:01:32+00:00",
-   "status": "not_found"
-  },
   "owlly-health|swe|l1": {
    "expires": "2026-11-22T20:36:13.883080+00:00",
    "looked_up": "2026-11-04T20:01:18+00:00",
@@ -16224,8 +16214,8 @@
   "peopleimpact2020|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:46:03.119822+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-09T06:26:38.887436+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 40.0,
    "min_lpa": 15.0,
    "sources": [
@@ -22162,6 +22152,11 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
+  "trigent-professional-services|devops|l1": {
+   "expires": "2026-11-23T08:02:37.679751+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
+   "status": "not_found"
+  },
   "trigent-professional-services|erp|l1": {
    "expires": "2026-11-20T17:17:29.575383+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -22440,8 +22435,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-03T13:04:00.499824+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-08T17:20:11.486740+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22454,8 +22449,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T02:37:12.150528+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-14T06:33:54.416885+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24020,8 +24015,8 @@
   "wosirati|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T13:16:07.099039+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-13T12:33:49.848375+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 4.0,
    "min_lpa": 3.5,
    "sources": [
@@ -24205,8 +24200,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T23:02:28.073300+00:00",
-   "looked_up": "2026-11-12T03:02:07+00:00",
+   "expires": "2027-02-12T10:14:05.335552+00:00",
+   "looked_up": "2026-11-12T04:01:15+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -24710,8 +24705,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1290,
-  "lookups_today": 5,
+  "lookups_month": 1293,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
