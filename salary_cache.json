@@ -10,6 +10,22 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
+  "3m|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T12:21:51.812598+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 15.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/3m-salaries/engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "3m|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -904,6 +920,11 @@
   "aixpense-in|mobile|l1": {
    "expires": "2026-11-17T16:11:53.347783+00:00",
    "looked_up": "2026-11-08T10:01:17+00:00",
+   "status": "not_found"
+  },
+  "akamai-technologies|data|l2": {
+   "expires": "2026-11-26T08:45:11.868546+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "status": "not_found"
   },
   "akamai-technologies|devops|l2": {
@@ -1921,6 +1942,26 @@
    "status": "found",
    "year": 2025
   },
+  "aptiv|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T22:52:55.933462+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 8.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aptiv-salaries/senior-soft-engineer"
+    },
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/aptiv"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "aptoraims|fullstack|l1": {
    "expires": "2026-11-15T02:54:14.983318+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -2024,11 +2065,6 @@
   "arcticwolf|swe|l2": {
    "expires": "2026-11-21T19:03:28.357034+00:00",
    "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
-  "arcticwolf|swe|l3": {
-   "expires": "2026-11-12T16:15:19.545732+00:00",
-   "looked_up": "2026-10-24T13:01:30+00:00",
    "status": "not_found"
   },
   "ares-management|fullstack|l1": {
@@ -2493,8 +2529,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T21:20:54.169943+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-03T19:02:42.311834+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -4227,8 +4263,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:07:00.921240+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-07T07:02:43.567429+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4964,8 +5000,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T19:23:09.918796+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-04T08:06:00.520203+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5020,8 +5056,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:20:31.978366+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-10T11:30:17.779716+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5660,8 +5696,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T04:29:06.818573+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-09T06:38:03.917943+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5892,11 +5928,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "cyanaq-systems|fullstack|l1": {
-   "expires": "2026-11-12T16:59:04.621220+00:00",
-   "looked_up": "2026-11-01T04:01:23+00:00",
-   "status": "not_found"
-  },
   "cyanaq-systems|swe|l1": {
    "expires": "2026-11-13T22:47:35.094467+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
@@ -5974,8 +6005,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T14:21:49.583375+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-06T22:21:59.193434+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7171,8 +7202,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:39:07.915546+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-10T16:05:04.837758+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9511,6 +9542,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "greif|data|l1": {
+   "expires": "2026-11-27T08:35:56.669731+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "status": "not_found"
   },
   "greif|erp|l1": {
    "expires": "2026-11-24T18:31:46.554631+00:00",
@@ -12468,6 +12504,22 @@
    "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
+  "kannanware|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T20:47:04.188353+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/kannanware-innovations-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "kapivaayurveda|fullstack|l2": {
    "expires": "2026-11-17T06:59:54.101760+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
@@ -14109,6 +14161,30 @@
    "status": "found",
    "year": 2026
   },
+  "mavenir|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T14:41:44.123868+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 16.5,
+   "min_lpa": 13.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/mavenir/salaries/software-engineer"
+    },
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-mavenir-pay"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/6050900/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "max-cement-green-valliey-industries-ltd|erp|l1": {
    "expires": "2026-11-25T03:39:10.955106+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
@@ -14690,9 +14766,18 @@
    "year": 2025
   },
   "moodys-corporation|swe|l1": {
-   "expires": "2026-11-15T14:08:37.462025+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-14T21:58:06.741685+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 21.6,
+   "min_lpa": 12.9,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "moortwix|frontend|l1": {
    "expires": "2026-11-22T01:13:10.494335+00:00",
@@ -15211,11 +15296,6 @@
   "nescode|swe|l1": {
    "expires": "2026-11-28T20:33:03.209929+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "nestorservices|swe|l1": {
-   "expires": "2026-11-12T16:04:32.337953+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
    "status": "not_found"
   },
   "netapp|erp|l1": {
@@ -19396,6 +19476,22 @@
    "looked_up": "2026-11-01T06:01:29+00:00",
    "status": "not_found"
   },
+  "saxo-bank|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-04T16:55:42.920608+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
+   "max_lpa": 40.0,
+   "min_lpa": 10.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/saxo-bank-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "schaeffler|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20586,8 +20682,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T19:40:20.925990+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-09T20:19:42.691946+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20755,11 +20851,6 @@
   "state-street|data|l1": {
    "expires": "2026-11-13T02:10:42.184846+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "stealth-startup-aai|security|l1": {
-   "expires": "2026-11-12T16:55:45.467931+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "stealth-startup-community|fullstack|l1": {
@@ -21788,8 +21879,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T05:53:04.003774+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-06T12:37:59.967038+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24455,8 +24546,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:15:24.931202+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-11T04:08:38.330772+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25067,8 +25158,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T20:45:48.244491+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
+   "expires": "2027-02-07T09:14:54.855552+00:00",
+   "looked_up": "2026-11-12T17:01:24+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25628,8 +25719,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1437,
-  "lookups_today": 152,
+  "lookups_month": 1444,
+  "lookups_today": 159,
   "month": "2026-11"
  }
 }
