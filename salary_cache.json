@@ -1085,6 +1085,11 @@
    "looked_up": "2026-10-29T11:01:33+00:00",
    "status": "not_found"
   },
+  "allbridge-technologies|swe|l1": {
+   "expires": "2026-12-03T01:38:33.639392+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
+  },
   "allegis-global-solutions|swe|l1": {
    "expires": "2026-11-23T15:22:22.873533+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
@@ -1301,6 +1306,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "amazon|erp|l1": {
+   "expires": "2026-11-30T05:09:58.803600+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
   },
   "amazon|frontend|l2": {
    "basis": "base",
@@ -2473,8 +2483,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:30:49.286329+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-13T13:31:59.625030+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3048,6 +3058,22 @@
    "expires": "2026-11-23T15:55:33.381419+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
+  },
+  "birlasoft|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T01:38:32.895174+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 5.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/birlasoft-salaries/junior-data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "birlasoft|erp|l1": {
    "basis": "ctc",
@@ -4190,8 +4216,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:17:33.549714+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-15T18:59:55.305287+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -4340,6 +4366,11 @@
   "cdops-tech|frontend|l1": {
    "expires": "2026-11-18T22:50:14.675353+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "cekuraai|swe|l1": {
+   "expires": "2026-11-24T19:28:37.786994+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
   "celebaltechnologies|swe|l1": {
@@ -4541,6 +4572,16 @@
   "chinmay-finlease-limited|devops|l1": {
    "expires": "2026-11-14T03:07:45.520353+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
+   "status": "not_found"
+  },
+  "cibc-india|security|l1": {
+   "expires": "2026-12-02T20:17:15.668939+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
+  },
+  "cibc-india|swe|l1": {
+   "expires": "2026-11-29T06:40:23.172243+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
   "ciena|swe|l1": {
@@ -4814,6 +4855,22 @@
    "looked_up": "2026-11-05T19:01:18+00:00",
    "status": "not_found"
   },
+  "cme-group|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T02:20:44.684441+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 16.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cme-group-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cme-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4885,8 +4942,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T01:32:43.354317+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-06T22:30:38.696089+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -4941,8 +4998,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T11:06:44.068793+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-10T05:43:27.190076+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5581,8 +5638,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:26:19.426975+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-03T19:54:11.037550+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -5895,8 +5952,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T14:31:21.178246+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-15T05:08:08.939103+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -5954,6 +6011,22 @@
    "status": "found",
    "year": 2025
   },
+  "cyncly|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T18:24:40.875399+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cyncly-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cyncly|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6001,6 +6074,11 @@
     }
    ],
    "status": "found"
+  },
+  "d-square-consulting-services-pvt-ltd|mobile|l1": {
+   "expires": "2026-11-25T08:08:54.284039+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
   },
   "danfoss|swe|l1": {
    "basis": "ctc",
@@ -7051,6 +7129,20 @@
    "expires": "2026-11-14T16:50:16.125334+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
+  },
+  "encore-consulting|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-09T21:35:06.155874+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "englishyaari|swe|l1": {
    "basis": "posted",
@@ -9587,11 +9679,6 @@
   "hakkoda|fullstack|l1": {
    "expires": "2026-11-18T23:21:33.173970+00:00",
    "looked_up": "2026-11-06T20:01:24+00:00",
-   "status": "not_found"
-  },
-  "hakkoda|swe|l1": {
-   "expires": "2026-11-12T13:01:09.963702+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "hallmark-search-partners|swe|l1": {
@@ -14533,6 +14620,22 @@
    "looked_up": "2026-11-09T19:01:30+00:00",
    "status": "not_found"
   },
+  "moodle|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T21:35:14.530319+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 8.4,
+   "min_lpa": 4.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/moodle-india-salaries/moodle-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "moodys-corporation|swe|l1": {
    "expires": "2026-11-15T14:08:37.462025+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -15066,6 +15169,22 @@
    "expires": "2026-11-17T21:36:20.644490+00:00",
    "looked_up": "2026-11-06T23:01:21+00:00",
    "status": "not_found"
+  },
+  "netapp|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T17:44:26.747214+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 19.3,
+   "min_lpa": 16.9,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/netapp--fresher--cy"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "netapp|security|l1": {
    "basis": "ctc",
@@ -15905,11 +16024,6 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
-  "omnissa|security|l1": {
-   "expires": "2026-11-12T12:58:17.637443+00:00",
-   "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
-  },
   "omygontechnology|fullstack|l1": {
    "expires": "2026-11-30T10:36:12.961446+00:00",
    "looked_up": "2026-11-12T01:01:24+00:00",
@@ -15961,6 +16075,11 @@
   "onit|fullstack|l1": {
    "expires": "2026-11-18T06:33:23.871062+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
+   "status": "not_found"
+  },
+  "openfunnel|swe|l1": {
+   "expires": "2026-11-29T04:22:19.623826+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
   "opengov-inc|swe|l2": {
@@ -18022,11 +18141,6 @@
    "looked_up": "2026-11-03T05:01:29+00:00",
    "status": "not_found"
   },
-  "rainfocus|frontend|l1": {
-   "expires": "2026-11-12T12:27:25.698955+00:00",
-   "looked_up": "2026-10-28T01:01:25+00:00",
-   "status": "not_found"
-  },
   "ransitech|erp|l1": {
    "expires": "2026-11-13T06:41:52.148933+00:00",
    "looked_up": "2026-10-30T19:01:32+00:00",
@@ -18560,6 +18674,11 @@
    "looked_up": "2026-10-28T06:01:28+00:00",
    "status": "not_found"
   },
+  "rskind|swe|l1": {
+   "expires": "2026-11-28T19:30:16.683129+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
+  },
   "rsm-us-llp|swe|l1": {
    "expires": "2026-11-27T22:04:38.766678+00:00",
    "looked_up": "2026-11-10T18:01:24+00:00",
@@ -18692,6 +18811,11 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
+  "saarthee|erp|l1": {
+   "expires": "2026-11-20T05:14:32.590144+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
+  },
   "saathapp-tech|swe|l1": {
    "expires": "2026-11-26T15:44:09.037980+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
@@ -18722,6 +18846,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "sabre-corporation|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T02:40:00.690301+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 19.0,
+   "min_lpa": 14.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/sabre-salaries/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "sabthik|erp|l1": {
    "expires": "2026-11-22T12:34:04.788593+00:00",
@@ -18919,6 +19059,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/en-gb/companies/salesforce/salaries/software-engineer/locations/greater-hyderabad-area"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "samartherp|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T04:27:48.066557+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/samarth-egov-salaries"
     }
    ],
    "status": "found",
@@ -20362,8 +20518,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T15:04:09.105274+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-16T02:21:32.561330+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20892,6 +21048,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "swiss-re|swe|l2": {
+   "expires": "2026-12-01T09:42:06.444632+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
   },
   "swissinvest|mobile|l1": {
    "expires": "2026-11-18T08:29:50.048707+00:00",
@@ -21554,8 +21715,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:04:28.060699+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-15T01:43:04.952590+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -22989,8 +23150,8 @@
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:13:49.645963+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-06T23:37:57.281766+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -23003,8 +23164,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:44:44.565589+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-10T09:32:09.132125+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24093,6 +24254,11 @@
    "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
   },
+  "waystoneglobal|swe|l1": {
+   "expires": "2026-12-02T11:15:50.913497+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
+   "status": "not_found"
+  },
   "wbcsoftwarelabkaraikudi|devops|l1": {
    "expires": "2026-11-21T23:02:59.364343+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
@@ -24398,6 +24564,11 @@
   "whiteblue-ai-services|devops|l1": {
    "expires": "2026-11-19T23:24:10.127584+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
+   "status": "not_found"
+  },
+  "whitefield-careers|swe|l1": {
+   "expires": "2026-11-29T01:45:58.725172+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
   "whitehall-resources|erp|l1": {
@@ -24779,8 +24950,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:04:43.871941+00:00",
-   "looked_up": "2026-11-12T12:01:26+00:00",
+   "expires": "2027-02-10T19:44:55.158632+00:00",
+   "looked_up": "2026-11-12T13:01:20+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25340,8 +25511,8 @@
  },
  "meta": {
   "day": "2026-11-12",
-  "lookups_month": 1395,
-  "lookups_today": 110,
+  "lookups_month": 1414,
+  "lookups_today": 129,
   "month": "2026-11"
  }
 }
