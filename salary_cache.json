@@ -604,6 +604,11 @@
    "looked_up": "2026-11-05T23:01:23+00:00",
    "status": "not_found"
   },
+  "aditiconsulting|swe|l1": {
+   "expires": "2026-11-26T11:14:39.842583+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1769,6 +1774,22 @@
    "expires": "2026-11-30T04:50:20.599653+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
+  },
+  "apn-consulting-inc.|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T20:19:39.556880+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/apn-consulting-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "appinventiv|frontend|l1": {
    "expires": "2026-11-24T01:21:35.147355+00:00",
@@ -3029,6 +3050,26 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
+  "bcits-private-limited|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T13:33:53.099861+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bcits-salaries/full-stack-web-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bcits-salaries/full-stack-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "bctglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3953,11 +3994,6 @@
   "c3-ai-enterprise-ai|swe|l1": {
    "expires": "2026-11-21T00:21:38.926367+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "c4-technical-services|devops|l1": {
-   "expires": "2026-11-13T07:47:47.780002+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
   "caddemirates|swe|l1": {
@@ -5046,8 +5082,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:27:10.380206+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-04T11:22:16.856024+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5102,8 +5138,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T22:43:48.555656+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-05T07:32:08.199388+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6082,8 +6118,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:08:24.237109+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-11T13:11:47.335505+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6180,8 +6216,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T17:57:19.990034+00:00",
-   "looked_up": "2026-11-05T04:01:24+00:00",
+   "expires": "2027-02-07T03:21:41.447855+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7099,6 +7135,11 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "edurun-virtuoso-pvt-ltd|frontend|l1": {
+   "expires": "2026-11-23T07:59:37.777956+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "edurun-virtuoso-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-29T18:23:39.073937+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -7305,8 +7346,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:36:54.438536+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-05T09:31:48.065221+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8830,11 +8871,6 @@
    ],
    "status": "found"
   },
-  "furniconcepts|mobile|l1": {
-   "expires": "2026-11-13T07:16:11.635783+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
-   "status": "not_found"
-  },
   "fusion-practices|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10217,11 +10253,6 @@
   "hermes-corporate|fullstack|l1": {
    "expires": "2026-11-21T07:02:09.655905+00:00",
    "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
-  "hero-fincorp-ltd|mobile|l1": {
-   "expires": "2026-11-13T07:55:13.339090+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "hevis-technologies-pvt-ltd|swe|l1": {
@@ -14514,6 +14545,11 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "metabase|security|l1": {
+   "expires": "2026-11-21T01:10:55.363940+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "metapoint-tech|security|l1": {
    "expires": "2026-11-23T13:14:42.695477+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
@@ -14894,8 +14930,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:40:47.263987+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-04T08:26:52.282720+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -15223,6 +15259,11 @@
   "natwest-group|devops|l1": {
    "expires": "2026-11-24T01:22:22.099403+00:00",
    "looked_up": "2026-11-11T00:01:24+00:00",
+   "status": "not_found"
+  },
+  "navan|swe|l2": {
+   "expires": "2026-11-28T03:58:05.332819+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "nbc-bearings|swe|l1": {
@@ -18616,6 +18657,11 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
+  "renaissance-eservices-pvt.-ltd.|swe|l1": {
+   "expires": "2026-11-21T04:33:19.354911+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "renesas|swe|l1": {
    "expires": "2026-11-27T23:43:28.314466+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
@@ -18672,11 +18718,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "reveation-labs|fullstack|l1": {
-   "expires": "2026-11-13T07:50:08.145804+00:00",
-   "looked_up": "2026-10-24T06:01:27+00:00",
-   "status": "not_found"
   },
   "reveation-labs|swe|l1": {
    "basis": "ctc",
@@ -18948,6 +18989,11 @@
   "rudraitnetworks|frontend|l1": {
    "expires": "2026-11-21T06:42:20.858236+00:00",
    "looked_up": "2026-11-08T16:01:17+00:00",
+   "status": "not_found"
+  },
+  "runmapglobal|erp|l1": {
+   "expires": "2026-11-29T03:13:03.859478+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "rushiv-infotech|data|l1": {
@@ -19736,6 +19782,11 @@
    "looked_up": "2026-11-06T23:01:21+00:00",
    "status": "not_found"
   },
+  "secure-meters-limited|swe|l1": {
+   "expires": "2026-11-25T03:36:03.788818+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "securex360|frontend|l1": {
    "expires": "2026-11-15T02:19:14.960417+00:00",
    "looked_up": "2026-11-03T20:01:58+00:00",
@@ -19869,6 +19920,11 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
+  "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
+   "expires": "2026-11-24T01:32:05.096641+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "sharechat|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -19984,6 +20040,11 @@
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-11-25T14:32:45.764721+00:00",
    "looked_up": "2026-11-07T06:01:18+00:00",
+   "status": "not_found"
+  },
+  "shriramgeneralinsurance|swe|l1": {
+   "expires": "2026-12-03T00:20:37.337553+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "shyam-kumar-sahoo|swe|l1": {
@@ -20773,8 +20834,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:32:09.584793+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-16T12:41:33.325319+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20801,6 +20862,11 @@
   "south-system|data|l1": {
    "expires": "2026-11-19T13:52:59.020123+00:00",
    "looked_up": "2026-10-30T23:01:39+00:00",
+   "status": "not_found"
+  },
+  "sparken-it-solutions-pvt.-ltd|mobile|l1": {
+   "expires": "2026-11-30T13:05:14.255143+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "spear-security|swe|l1": {
@@ -20849,6 +20915,11 @@
    "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
+  "squareshift|security|l1": {
+   "expires": "2026-12-02T11:07:56.394436+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "srest|swe|l1": {
    "expires": "2026-11-20T15:48:31.038577+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
@@ -20867,11 +20938,6 @@
   "stackkindia|swe|l1": {
    "expires": "2026-11-21T13:38:30.449998+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
-   "status": "not_found"
-  },
-  "stafingo|swe|l1": {
-   "expires": "2026-11-13T07:04:26.222224+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
   },
   "stageworks-in|swe|l1": {
@@ -21504,6 +21570,16 @@
    "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
   },
+  "talent-to-job|fullstack|l1": {
+   "expires": "2026-11-29T09:47:13.436204+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
+  "talent-to-job|swe|l1": {
+   "expires": "2026-11-24T12:27:22.198692+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
   "talentgigs|devops|l1": {
    "expires": "2026-11-20T10:16:12.784597+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -21975,8 +22051,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T01:19:32.576661+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-13T17:23:33.666938+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24633,8 +24709,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:15:43.086059+00:00",
-   "looked_up": "2026-11-13T07:01:23+00:00",
+   "expires": "2027-02-08T14:38:32.161556+00:00",
+   "looked_up": "2026-11-13T07:57:00+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25073,11 +25149,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "worldwide-clinical-trials-inc-|swe|l1": {
-   "expires": "2026-11-13T07:36:33.511976+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
   },
   "wosirati|swe|l1": {
    "basis": "posted",
@@ -25833,8 +25904,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1502,
-  "lookups_today": 35,
+  "lookups_month": 1517,
+  "lookups_today": 50,
   "month": "2026-11"
  }
 }
