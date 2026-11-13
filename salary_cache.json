@@ -533,6 +533,11 @@
    ],
    "status": "found"
   },
+  "acuityanalytics|data|l1": {
+   "expires": "2026-11-21T20:45:41.087960+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "status": "not_found"
+  },
   "acura-solutions-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -2853,11 +2858,6 @@
    "looked_up": "2026-11-09T18:01:28+00:00",
    "status": "not_found"
   },
-  "bank-of-america|swe|l2": {
-   "expires": "2026-11-13T08:24:22.827655+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
-   "status": "not_found"
-  },
   "bank-of-america|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -4915,6 +4915,11 @@
    "status": "found",
    "year": 2026
   },
+  "closerugc|swe|l1": {
+   "expires": "2026-11-30T17:30:14.402161+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "status": "not_found"
+  },
   "cloudesign|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5093,6 +5098,20 @@
    "confidence": "high",
    "expires": "2027-02-15T16:50:20.292113+00:00",
    "looked_up": "2026-11-12T09:01:24+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "coderoundai|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T20:03:51.837039+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6113,8 +6132,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T09:28:56.088493+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-13T13:50:58.893862+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6211,8 +6230,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T04:05:35.189758+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-14T11:55:32.533030+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7336,8 +7355,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T21:30:08.157913+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-09T05:20:58.448852+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -8406,6 +8425,22 @@
    "expires": "2026-11-28T22:45:53.092270+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
    "status": "not_found"
+  },
+  "firstsource-solutions-limited|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T08:21:22.141460+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/first-source-salaries/web-developer/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "fiscalox|security|l1": {
    "expires": "2026-11-19T19:05:23.282884+00:00",
@@ -14920,8 +14955,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T00:27:13.537098+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-13T17:30:22.494958+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -19329,6 +19364,11 @@
    "status": "found",
    "year": 2026
   },
+  "salexi-hr|swe|l1": {
+   "expires": "2026-11-24T01:36:09.675339+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "status": "not_found"
+  },
   "samartherp|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19910,6 +19950,20 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
+  "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-04T15:59:17.045965+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
    "expires": "2026-11-24T01:32:05.096641+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -20007,6 +20061,11 @@
     }
    ],
    "status": "found"
+  },
+  "shodh-ai|swe|l1": {
+   "expires": "2026-11-30T20:51:41.534876+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "status": "not_found"
   },
   "shoshintech|swe|l1": {
    "basis": "posted",
@@ -20171,11 +20230,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "siemenssoftware|fullstack|l1": {
-   "expires": "2026-11-13T08:24:26.140195+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
   },
   "siemenssoftware|swe|l1": {
    "basis": "ctc",
@@ -20443,11 +20497,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "smartworkingsolutions|devops|l1": {
-   "expires": "2026-11-13T08:11:09.111783+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
   },
   "smith-nephew|swe|l2": {
    "expires": "2026-11-19T19:09:27.253899+00:00",
@@ -20824,8 +20873,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T04:17:13.091088+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-17T22:46:15.552437+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22041,8 +22090,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:58:06.846858+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-16T22:06:19.423351+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -22087,6 +22136,22 @@
    "expires": "2026-11-21T02:30:26.486313+00:00",
    "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
+  },
+  "techmantranow|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T02:23:55.830138+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/techmantra-now-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "technetit|erp|l1": {
    "expires": "2026-11-16T11:08:54.113820+00:00",
@@ -22922,6 +22987,22 @@
    "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
+  "tonbo-imaging|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-18T05:15:50.585686+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "wellfound.com",
+     "uri": "https://wellfound.com/company/tonbo-imaging-pvt-ltd"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "toprankers|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -23159,6 +23240,22 @@
    "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
+  "trellixsecurity|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-10T11:40:14.935097+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
+   "max_lpa": 14.3,
+   "min_lpa": 14.3,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/trellix/salaries/software-engineer.md"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "trendwick|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23384,11 +23481,6 @@
   "ucamind|swe|l1": {
    "expires": "2026-11-19T09:45:36.211532+00:00",
    "looked_up": "2026-11-03T23:01:40+00:00",
-   "status": "not_found"
-  },
-  "udshaa|data|l1": {
-   "expires": "2026-11-13T08:55:09.072149+00:00",
-   "looked_up": "2026-10-26T16:01:28+00:00",
    "status": "not_found"
   },
   "uipath|swe|l1": {
@@ -24699,8 +24791,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T00:39:52.682833+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-15T15:53:57.629690+00:00",
+   "looked_up": "2026-11-13T09:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25894,8 +25986,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1517,
-  "lookups_today": 50,
+  "lookups_month": 1525,
+  "lookups_today": 58,
   "month": "2026-11"
  }
 }
