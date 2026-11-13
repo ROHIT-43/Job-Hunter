@@ -2487,11 +2487,6 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
-  "atomicads|swe|l1": {
-   "expires": "2026-11-13T08:03:30.821842+00:00",
-   "looked_up": "2026-11-06T08:01:19+00:00",
-   "status": "not_found"
-  },
   "atorus|swe|l1": {
    "expires": "2026-11-26T22:49:45.205404+00:00",
    "looked_up": "2026-11-12T15:01:25+00:00",
@@ -5082,8 +5077,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T11:22:16.856024+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-13T21:07:00.208470+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5138,8 +5133,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T07:32:08.199388+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-09T21:04:03.727683+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6118,8 +6113,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T13:11:47.335505+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-04T09:28:56.088493+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6216,8 +6211,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:21:41.447855+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-11T04:05:35.189758+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6931,11 +6926,6 @@
    ],
    "status": "found"
   },
-  "durapidtechnologies|data|l1": {
-   "expires": "2026-11-13T07:59:13.824700+00:00",
-   "looked_up": "2026-10-23T12:01:33+00:00",
-   "status": "not_found"
-  },
   "durapidtechnologies|fullstack|l1": {
    "expires": "2026-11-14T09:39:06.013147+00:00",
    "looked_up": "2026-10-26T18:01:27+00:00",
@@ -7346,8 +7336,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T09:31:48.065221+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-11T21:30:08.157913+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -14930,8 +14920,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T08:26:52.282720+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-09T00:27:13.537098+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -20834,8 +20824,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T12:41:33.325319+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-18T04:17:13.091088+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -22051,8 +22041,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:23:33.666938+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-05T18:58:06.846858+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -24709,8 +24699,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T14:38:32.161556+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
+   "expires": "2027-02-09T00:39:52.682833+00:00",
+   "looked_up": "2026-11-13T08:05:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
