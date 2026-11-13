@@ -1755,6 +1755,11 @@
    "looked_up": "2026-11-09T03:01:22+00:00",
    "status": "not_found"
   },
+  "anr-business-consulting|security|l1": {
+   "expires": "2026-11-25T05:55:57.260643+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
+   "status": "not_found"
+  },
   "anr-business-consulting|swe|l1": {
    "expires": "2026-11-17T05:47:00.598973+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
@@ -5194,8 +5199,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T14:46:20.275023+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-09T05:33:22.937059+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6314,8 +6319,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:53:01.595109+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-10T04:03:34.530897+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6746,11 +6751,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "devloit|devops|l1": {
-   "expires": "2026-11-13T14:44:37.266972+00:00",
-   "looked_up": "2026-10-28T05:01:27+00:00",
-   "status": "not_found"
   },
   "devrabbit-it-solutions|erp|l1": {
    "expires": "2026-11-20T09:37:34.223078+00:00",
@@ -7534,9 +7534,20 @@
    "status": "found"
   },
   "entain-india|erp|l1": {
-   "expires": "2026-11-13T14:45:20.679672+00:00",
-   "looked_up": "2026-10-28T01:01:25+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T21:42:52.502665+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
+   "max_lpa": 10.4,
+   "min_lpa": 8.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/entain-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "entain-india|swe|l3": {
    "basis": "base",
@@ -8404,11 +8415,6 @@
   "fictiv|erp|l1": {
    "expires": "2026-11-23T13:51:45.758094+00:00",
    "looked_up": "2026-11-13T14:01:38+00:00",
-   "status": "not_found"
-  },
-  "fidelity-international|data|l1": {
-   "expires": "2026-11-13T14:42:01.256761+00:00",
-   "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
   "fidelity-investments|swe|l1": {
@@ -9847,8 +9853,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:32:24.459631+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-18T10:48:36.840032+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -11164,6 +11170,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ibsfulcro|frontend|l1": {
+   "expires": "2026-12-02T02:43:45.987330+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
+   "status": "not_found"
   },
   "icapital-network-inc|swe|l1": {
    "expires": "2026-11-24T03:55:49.527339+00:00",
@@ -14230,8 +14241,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-31T10:22:25.124401+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
+   "expires": "2027-02-05T17:03:21.710644+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15197,8 +15208,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T01:41:13.143042+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-18T10:03:28.264130+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -18456,11 +18467,6 @@
    "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
-  "quantum-it-solutions-surat|frontend|l1": {
-   "expires": "2026-11-13T14:18:48.966356+00:00",
-   "looked_up": "2026-10-24T07:01:21+00:00",
-   "status": "not_found"
-  },
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -20257,8 +20263,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:37:32.857028+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-07T12:20:07.038463+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20644,6 +20650,11 @@
   "siraj-software-solution|frontend|l1": {
    "expires": "2026-11-18T15:03:22.676032+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
+   "status": "not_found"
+  },
+  "sirionclm|devops|l1": {
+   "expires": "2026-11-20T20:01:06.643663+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "status": "not_found"
   },
   "sisir-radar|swe|l1": {
@@ -21737,11 +21748,6 @@
    ],
    "status": "found"
   },
-  "switsdigital|swe|l1": {
-   "expires": "2026-11-13T14:49:20.273052+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
   "synchrony-financial|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21834,11 +21840,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "synectics-apac|swe|l1": {
-   "expires": "2026-11-13T14:30:15.313860+00:00",
-   "looked_up": "2026-10-23T19:01:29+00:00",
-   "status": "not_found"
   },
   "syneos-health|swe|l2": {
    "basis": "ctc",
@@ -23604,6 +23605,11 @@
    ],
    "status": "found"
   },
+  "trexquant-investment-lp|swe|l1": {
+   "expires": "2026-11-26T23:41:44.919028+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
+   "status": "not_found"
+  },
   "trialx|devops|l1": {
    "expires": "2026-11-14T12:50:21.799397+00:00",
    "looked_up": "2026-11-03T10:01:30+00:00",
@@ -25146,8 +25152,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T20:47:22.930478+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-12T09:30:47.940412+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25609,8 +25615,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T02:41:14.883781+00:00",
-   "looked_up": "2026-11-13T14:01:38+00:00",
+   "expires": "2027-02-05T06:41:27.355794+00:00",
+   "looked_up": "2026-11-13T15:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26360,8 +26366,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1579,
-  "lookups_today": 112,
+  "lookups_month": 1584,
+  "lookups_today": 117,
   "month": "2026-11"
  }
 }
