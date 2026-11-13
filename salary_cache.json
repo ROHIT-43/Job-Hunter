@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:26:22.141295+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-12T11:28:46.976639+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -658,11 +658,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "adroit-innovative-india|erp|l1": {
-   "expires": "2026-11-13T22:04:39.776623+00:00",
-   "looked_up": "2026-10-26T06:01:29+00:00",
-   "status": "not_found"
   },
   "adroit-innovative-india|swe|l1": {
    "expires": "2026-11-17T07:00:47.547790+00:00",
@@ -5200,8 +5195,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:42:14.392983+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-15T14:28:59.515017+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6315,8 +6310,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:07:40.337883+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-12T10:44:45.338426+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9897,8 +9892,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T04:32:36.277401+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-12T03:50:48.688105+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -10647,11 +10642,6 @@
   "hirelyglobal|swe|l1": {
    "expires": "2026-11-27T20:48:47.549862+00:00",
    "looked_up": "2026-11-08T06:01:15+00:00",
-   "status": "not_found"
-  },
-  "hirojet|data|l1": {
-   "expires": "2026-11-13T22:35:01.022917+00:00",
-   "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
   "hitachi-digital-services|swe|l1": {
@@ -11627,11 +11617,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "infocepts|data|l1": {
-   "expires": "2026-11-13T22:02:27.020662+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
   },
   "information-systems-associates-fze|data|l1": {
    "expires": "2026-11-24T10:43:29.691387+00:00",
@@ -14280,8 +14265,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T00:55:22.487312+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-08T13:09:53.840962+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15220,9 +15205,20 @@
    "status": "not_found"
   },
   "mondelezinternational|data|l1": {
-   "expires": "2026-11-13T22:27:03.996223+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T19:51:28.068932+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
+   "max_lpa": 29.9,
+   "min_lpa": 23.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mondelez-international-salaries/sde1"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "monetunes|swe|l1": {
    "expires": "2026-12-01T11:56:26.274044+00:00",
@@ -20335,8 +20331,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T04:07:54.679863+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-08T21:13:01.874796+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23122,8 +23118,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:32:00.601030+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-15T09:28:30.371982+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25677,8 +25673,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T19:52:03.000801+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
+   "expires": "2027-02-04T23:42:59.126329+00:00",
+   "looked_up": "2026-11-13T22:37:15+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26433,8 +26429,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1615,
-  "lookups_today": 148,
+  "lookups_month": 1616,
+  "lookups_today": 149,
   "month": "2026-11"
  }
 }
