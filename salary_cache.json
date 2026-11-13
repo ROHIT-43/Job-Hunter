@@ -2564,11 +2564,6 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
-  "aumi-robotics|swe|l1": {
-   "expires": "2026-11-13T15:20:34.303473+00:00",
-   "looked_up": "2026-10-25T10:01:24+00:00",
-   "status": "not_found"
-  },
   "auo-mobility-solutions|devops|l1": {
    "expires": "2026-11-19T11:13:15.243375+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -3454,11 +3449,6 @@
    "looked_up": "2026-11-12T16:01:24+00:00",
    "status": "not_found"
   },
-  "bmchelix|swe|l1": {
-   "expires": "2026-11-13T15:26:29.081575+00:00",
-   "looked_up": "2026-10-24T11:22:21+00:00",
-   "status": "not_found"
-  },
   "bmconsultingindia|swe|l1": {
    "expires": "2026-12-01T03:17:48.957500+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
@@ -3813,11 +3803,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "bridgenext|swe|l1": {
-   "expires": "2026-11-13T15:49:26.662984+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
   },
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
@@ -5199,8 +5184,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T05:33:22.937059+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-06T19:25:37.136605+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6319,8 +6304,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:03:34.530897+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-06T23:07:42.793571+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7046,6 +7031,22 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
+  "dunnhumby|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T17:52:57.992032+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
+   "max_lpa": 20.5,
+   "min_lpa": 8.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dunnhumby-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "dunnhumby|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7149,6 +7150,11 @@
   "ebitaus|swe|l1": {
    "expires": "2026-11-14T13:13:08.240345+00:00",
    "looked_up": "2026-10-30T12:01:31+00:00",
+   "status": "not_found"
+  },
+  "echnotek|swe|l1": {
+   "expires": "2026-12-04T09:35:59.007894+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "status": "not_found"
   },
   "eci-software--solutions|swe|l2": {
@@ -9475,11 +9481,6 @@
    "status": "found",
    "year": 2026
   },
-  "global-university-systems|swe|l1": {
-   "expires": "2026-11-13T15:51:54.622967+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
   "globallogic|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9853,8 +9854,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:48:36.840032+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-07T02:41:11.674552+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -11000,6 +11001,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hyconsolutions|swe|l1": {
+   "expires": "2026-11-29T19:58:28.581947+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
+   "status": "not_found"
   },
   "hydraulic-engineering-instruments|swe|l1": {
    "expires": "2026-11-20T08:03:07.099563+00:00",
@@ -14241,8 +14247,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T17:03:21.710644+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-16T02:40:20.815042+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15208,8 +15214,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:03:28.264130+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-10T10:13:22.956350+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -18799,11 +18805,6 @@
    "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
-  "real-time-applications-center|swe|l1": {
-   "expires": "2026-11-13T15:57:11.405483+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
-  },
   "realpage-india|fullstack|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -20263,8 +20264,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:20:07.038463+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-06T00:57:12.769822+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21485,11 +21486,6 @@
    "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
-  "sulzer|swe|l1": {
-   "expires": "2026-11-13T15:18:37.863367+00:00",
-   "looked_up": "2026-11-03T15:01:30+00:00",
-   "status": "not_found"
-  },
   "sumanhealth|swe|l1": {
    "expires": "2026-11-19T19:11:06.487365+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
@@ -21988,11 +21984,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "tapi-prestressed-products-ltd---india|swe|l1": {
-   "expires": "2026-11-13T15:53:17.302234+00:00",
-   "looked_up": "2026-10-28T04:01:24+00:00",
-   "status": "not_found"
   },
   "tarana-wireless-inc|devops|l1": {
    "basis": "ctc",
@@ -22731,6 +22722,11 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
+  "terveystech|swe|l1": {
+   "expires": "2026-11-21T04:46:22.353326+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
+   "status": "not_found"
+  },
   "tesco-bengaluru|security|l1": {
    "expires": "2026-11-26T00:20:54.851173+00:00",
    "looked_up": "2026-11-13T10:01:23+00:00",
@@ -23060,8 +23056,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-28T12:28:31.868410+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
+   "expires": "2027-02-10T08:30:58.965427+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25406,11 +25402,6 @@
    "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
-  "whitehall-resources|erp|l1": {
-   "expires": "2026-11-13T15:04:55.281553+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "whizz-hr|security|l1": {
    "expires": "2026-11-16T19:12:27.890631+00:00",
    "looked_up": "2026-11-04T18:01:18+00:00",
@@ -25615,8 +25606,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T06:41:27.355794+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
+   "expires": "2027-02-12T03:38:32.279409+00:00",
+   "looked_up": "2026-11-13T16:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26366,8 +26357,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1584,
-  "lookups_today": 117,
+  "lookups_month": 1588,
+  "lookups_today": 121,
   "month": "2026-11"
  }
 }
