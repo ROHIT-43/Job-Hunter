@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:28:46.976639+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-05T21:16:12.004358+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5195,8 +5195,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:28:59.515017+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-08T04:53:20.753579+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6135,11 +6135,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "cyanaq-systems|swe|l1": {
-   "expires": "2026-11-13T22:47:35.094467+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
-   "status": "not_found"
-  },
   "cyber-infrastructure|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6310,8 +6305,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:44:45.338426+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-06T22:25:49.729473+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9892,8 +9887,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T03:50:48.688105+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-13T12:32:59.350950+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12450,11 +12445,6 @@
    "looked_up": "2026-11-09T12:01:22+00:00",
    "status": "not_found"
   },
-  "itvedant|frontend|l1": {
-   "expires": "2026-11-13T22:38:54.906711+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "ix7-research|swe|l1": {
    "expires": "2026-11-17T22:41:58.021404+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
@@ -14265,8 +14255,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T13:09:53.840962+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-11T11:12:18.192335+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -20331,8 +20321,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:13:01.874796+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-13T12:09:49.135660+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23118,8 +23108,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T09:28:30.371982+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-14T03:30:58.383954+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25673,8 +25663,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T23:42:59.126329+00:00",
-   "looked_up": "2026-11-13T22:37:15+00:00",
+   "expires": "2027-02-07T00:42:50.333602+00:00",
+   "looked_up": "2026-11-13T23:01:32+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
