@@ -5184,8 +5184,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T19:25:37.136605+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-15T01:53:48.965477+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6304,8 +6304,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:07:42.793571+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-15T10:08:20.108178+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9285,11 +9285,6 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
-  "geoiq-ai|frontend|l1": {
-   "expires": "2026-11-13T16:05:43.366907+00:00",
-   "looked_up": "2026-10-31T15:01:37+00:00",
-   "status": "not_found"
-  },
   "geoserve-maritime|devops|l1": {
    "expires": "2026-11-26T19:30:20.772816+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
@@ -9854,8 +9849,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T02:41:11.674552+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-13T16:08:00.064704+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -13658,11 +13653,6 @@
    "looked_up": "2026-11-08T17:01:18+00:00",
    "status": "not_found"
   },
-  "linde-india-ltd|swe|l1": {
-   "expires": "2026-11-13T16:10:18.598990+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
   "linde|data|l1": {
    "expires": "2026-11-14T02:53:15.639203+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -14247,8 +14237,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T02:40:20.815042+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-06T20:49:28.926795+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15214,8 +15204,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T10:13:22.956350+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-15T22:22:10.241403+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -20264,8 +20254,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T00:57:12.769822+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-08T20:01:09.793219+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23056,8 +23046,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T08:30:58.965427+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-13T15:07:52.918800+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25606,8 +25596,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T03:38:32.279409+00:00",
-   "looked_up": "2026-11-13T16:01:23+00:00",
+   "expires": "2027-02-15T01:13:55.255630+00:00",
+   "looked_up": "2026-11-13T16:22:51+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
