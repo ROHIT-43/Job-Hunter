@@ -2535,8 +2535,8 @@
   "authentica|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:29:26.059078+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-13T15:00:05.724605+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 11.0,
    "min_lpa": 7.0,
    "sources": [
@@ -3260,11 +3260,6 @@
   "bluebex|mobile|l1": {
    "expires": "2026-11-25T03:00:19.651615+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "bluefoxsystems|swe|l1": {
-   "expires": "2026-11-13T01:16:07.324783+00:00",
-   "looked_up": "2026-10-24T06:01:27+00:00",
    "status": "not_found"
   },
   "blueprine-technologies|fullstack|l1": {
@@ -4274,8 +4269,8 @@
   "cartrade-tech-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T16:52:06.424974+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-11T18:03:03.971238+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 30.0,
    "min_lpa": 15.0,
    "sources": [
@@ -5001,8 +4996,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:54:46.610663+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-06T09:55:10.962790+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5057,8 +5052,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T15:33:48.373356+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-16T06:57:35.117742+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5713,8 +5708,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T04:17:24.544193+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-13T12:03:45.029624+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6022,8 +6017,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:08:01.662935+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-13T15:49:48.085937+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7245,8 +7240,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T08:40:45.538878+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-13T05:47:08.732081+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -9727,11 +9722,6 @@
    "looked_up": "2026-11-09T14:01:26+00:00",
    "status": "not_found"
   },
-  "guidewire-software|devops|l1": {
-   "expires": "2026-11-13T01:55:01.179281+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
   "guidewire-software|devops|l3": {
    "expires": "2026-11-24T02:24:13.929667+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -10758,11 +10748,6 @@
    ],
    "status": "found"
   },
-  "ibee-solutions|swe|l1": {
-   "expires": "2026-11-13T01:09:58.250133+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
   "ibm|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11090,11 +11075,6 @@
   "iking-tech-solutions|swe|l1": {
    "expires": "2026-11-28T23:52:24.614744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "ilizien|swe|l1": {
-   "expires": "2026-11-13T01:51:52.127275+00:00",
-   "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
   "imagineers-group|data|l1": {
@@ -13184,6 +13164,11 @@
    "status": "found",
    "year": 2026
   },
+  "lastworkingday|erp|l1": {
+   "expires": "2026-12-03T19:27:07.052112+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
+   "status": "not_found"
+  },
   "lastworkingday|fullstack|l1": {
    "expires": "2026-11-18T10:48:27.693091+00:00",
    "looked_up": "2026-11-03T15:01:30+00:00",
@@ -14838,8 +14823,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:43:45.476328+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-14T11:27:07.037995+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -20330,11 +20315,6 @@
    "status": "found",
    "year": 2025
   },
-  "smaowl9|fullstack|l1": {
-   "expires": "2026-11-13T01:20:23.752725+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "smart-data-solutions|swe|l2": {
    "expires": "2026-11-24T14:27:38.483725+00:00",
    "looked_up": "2026-11-09T18:01:28+00:00",
@@ -20757,8 +20737,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T07:07:09.458048+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-12T13:03:40.785972+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -20831,11 +20811,6 @@
   "square-bpo-services-pvt-ltd|devops|l1": {
    "expires": "2026-11-23T11:51:52.712191+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
-   "status": "not_found"
-  },
-  "srd-infotek-inc|swe|l1": {
-   "expires": "2026-11-13T01:39:36.771306+00:00",
-   "looked_up": "2026-10-28T19:01:28+00:00",
    "status": "not_found"
   },
   "srest|swe|l1": {
@@ -21564,6 +21539,11 @@
    "status": "found",
    "year": 2025
   },
+  "targetjobsuk|swe|l1": {
+   "expires": "2026-11-23T20:51:54.871958+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
+   "status": "not_found"
+  },
   "target|mobile|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -21959,8 +21939,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T22:09:46.238757+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-16T06:14:26.037564+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -22800,11 +22780,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "tide-banking|swe|l1": {
-   "expires": "2026-11-13T01:06:37.535748+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
-   "status": "not_found"
   },
   "timesofev|swe|l1": {
    "basis": "posted",
@@ -24616,8 +24591,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T17:11:59.456851+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-14T10:50:35.606908+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25245,8 +25220,8 @@
   "ycms-one-digital-technologies|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:33:24.358111+00:00",
-   "looked_up": "2026-11-13T01:01:24+00:00",
+   "expires": "2027-02-04T06:47:38.110714+00:00",
+   "looked_up": "2026-11-13T02:01:26+00:00",
    "max_lpa": 2.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25806,8 +25781,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1471,
-  "lookups_today": 4,
+  "lookups_month": 1473,
+  "lookups_today": 6,
   "month": "2026-11"
  }
 }
