@@ -151,6 +151,11 @@
    "looked_up": "2026-11-09T20:01:20+00:00",
    "status": "not_found"
   },
+  "9sprints|fullstack|l1": {
+   "expires": "2026-11-21T08:13:42.280370+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "9sprints|swe|l1": {
    "expires": "2026-11-24T14:42:52.873410+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -552,6 +557,11 @@
    ],
    "status": "found"
   },
+  "acv-auctions|swe|l2": {
+   "expires": "2026-12-03T22:31:07.411488+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "adaan-digital-solutions-pvt-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -687,11 +697,6 @@
   "advent-electronics-pte-ltd|swe|l1": {
    "expires": "2026-11-29T12:11:15.421097+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "aegan-global|swe|l1": {
-   "expires": "2026-11-13T11:25:21.289159+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
   "aeon-software-pvt-ltd|swe|l1": {
@@ -3115,6 +3120,11 @@
    "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
   },
+  "bestex-research-group|data|l1": {
+   "expires": "2026-11-23T21:47:51.035368+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "bestpeersllc|data|l1": {
    "expires": "2026-11-26T00:16:18.150366+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -4825,6 +4835,30 @@
    "looked_up": "2026-11-10T19:01:24+00:00",
    "status": "not_found"
   },
+  "cisco|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T02:50:53.505771+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "max_lpa": 11.4,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cisco-salaries/full-stack-web-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cisco-salaries/developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cisco-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "cisco|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -5135,8 +5169,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T11:28:12.432589+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
+   "expires": "2027-02-05T03:18:26.634733+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5915,6 +5949,11 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
+  "crowe-capabilities-center|swe|l1": {
+   "expires": "2026-11-24T16:37:54.160615+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "cruxinternational|swe|l1": {
    "expires": "2026-11-15T05:00:10.278813+00:00",
    "looked_up": "2026-11-05T18:01:20+00:00",
@@ -6250,8 +6289,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:38:12.847029+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
+   "expires": "2027-02-16T22:46:12.342682+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6431,6 +6470,22 @@
    "expires": "2026-11-30T23:55:36.548760+00:00",
    "looked_up": "2026-11-11T12:01:23+00:00",
    "status": "not_found"
+  },
+  "dedalus-group|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T21:49:33.493837+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "max_lpa": 8.5,
+   "min_lpa": 3.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dedalus-salaries/product-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "deepintent|swe|l1": {
    "basis": "ctc",
@@ -15033,8 +15088,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T04:08:08.468825+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
+   "expires": "2027-02-13T23:06:33.591719+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -16407,6 +16462,11 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
+  "omnissa|data|l1": {
+   "expires": "2026-11-26T23:21:21.428975+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "omp-supply-chain-planning|erp|l1": {
    "expires": "2026-11-27T09:50:00.509377+00:00",
    "looked_up": "2026-11-12T23:01:27+00:00",
@@ -17639,6 +17699,11 @@
    ],
    "status": "found"
   },
+  "primemover-solutions|swe|l1": {
+   "expires": "2026-11-30T18:15:14.989395+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
   "principalfinancialgroup|swe|l1": {
    "expires": "2026-11-18T23:34:23.695075+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
@@ -18607,6 +18672,11 @@
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-11-28T18:03:18.584955+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "real-time-applications-center|mobile|l1": {
+   "expires": "2026-11-28T17:57:38.048866+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
   "real-time-applications-center|swe|l1": {
@@ -20078,8 +20148,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T05:01:17.662638+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
+   "expires": "2027-02-16T10:26:13.532277+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21224,14 +21294,14 @@
    "looked_up": "2026-11-06T04:01:14+00:00",
    "status": "not_found"
   },
-  "strategy|devops|l1": {
-   "expires": "2026-11-13T11:55:41.788207+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
-   "status": "not_found"
-  },
   "stratign|swe|l1": {
    "expires": "2026-11-21T10:48:21.344877+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
+   "status": "not_found"
+  },
+  "strider-electronic-systems-private-limited|swe|l1": {
+   "expires": "2026-11-30T15:57:07.651683+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
   "stripe|swe|l1": {
@@ -24931,8 +25001,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:54:18.341572+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
+   "expires": "2027-02-15T13:15:13.297258+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25390,6 +25460,20 @@
    "expires": "2026-11-17T03:56:51.203893+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
+  },
+  "wrathcode-technology|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-17T00:29:54.544612+00:00",
+   "looked_up": "2026-11-13T12:01:45+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "wri-india|swe|l1": {
    "basis": "posted",
@@ -26131,8 +26215,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1548,
-  "lookups_today": 81,
+  "lookups_month": 1558,
+  "lookups_today": 91,
   "month": "2026-11"
  }
 }
