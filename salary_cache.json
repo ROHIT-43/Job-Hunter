@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T00:47:10.778423+00:00",
-   "looked_up": "2026-11-07T16:26:14+00:00",
+   "expires": "2027-02-17T18:22:29.004841+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -830,11 +830,6 @@
   },
   "air-arabia|devops|l1": {
    "expires": "2026-11-16T11:00:27.146962+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
-   "status": "not_found"
-  },
-  "air-arabia|mobile|l1": {
-   "expires": "2026-11-13T17:35:42.585428+00:00",
    "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
@@ -2127,11 +2122,6 @@
   "arcatainteractive|swe|l1": {
    "expires": "2026-11-25T01:06:35.220532+00:00",
    "looked_up": "2026-11-10T19:01:24+00:00",
-   "status": "not_found"
-  },
-  "archlynk|erp|l1": {
-   "expires": "2026-11-13T17:27:59.134133+00:00",
-   "looked_up": "2026-10-27T07:01:28+00:00",
    "status": "not_found"
   },
   "arcticwolf|swe|l2": {
@@ -5210,8 +5200,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:13:39.440934+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-12T03:16:06.760806+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6330,8 +6320,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:01:27.035347+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-10T10:11:31.611241+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7746,6 +7736,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ernstandyoung|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T20:50:40.581134+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/eygbs-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ernstandyoung|erp|l1": {
    "basis": "base",
@@ -9875,8 +9881,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T05:45:03.464642+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-09T05:28:21.773874+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -11442,6 +11448,11 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
+  "immersivetouch-inc-|swe|l2": {
+   "expires": "2026-11-23T09:01:05.874824+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
+   "status": "not_found"
+  },
   "includehelp|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -12148,11 +12159,6 @@
    ],
    "status": "found"
   },
-  "interaktv|swe|l1": {
-   "expires": "2026-11-13T17:55:36.104768+00:00",
-   "looked_up": "2026-10-30T02:01:28+00:00",
-   "status": "not_found"
-  },
   "into-university-partnerships|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12312,11 +12318,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "iris-software-inc.|erp|l1": {
-   "expires": "2026-11-13T17:56:28.375336+00:00",
-   "looked_up": "2026-10-30T02:01:28+00:00",
-   "status": "not_found"
   },
   "isha-life-health-solutions|fullstack|l1": {
    "expires": "2026-11-21T14:47:25.922716+00:00",
@@ -14273,8 +14274,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T14:15:02.038286+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-12T07:33:19.497902+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15340,11 +15341,6 @@
   "mouser-electronics|frontend|l1": {
    "expires": "2026-11-16T02:04:47.973883+00:00",
    "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
-  "mouser-electronics|swe|l1": {
-   "expires": "2026-11-13T17:20:03.510833+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
   "mouser-electronics|swe|l2": {
@@ -19272,6 +19268,11 @@
    "status": "found",
    "year": 2026
   },
+  "roche|devops|l1": {
+   "expires": "2026-11-27T21:18:49.644322+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
+   "status": "not_found"
+  },
   "roche|erp|l1": {
    "expires": "2026-11-15T17:56:06.017590+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -20316,8 +20317,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:03:20.048956+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-05T01:45:31.562943+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20633,11 +20634,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "sifive|swe|l2": {
-   "expires": "2026-11-13T17:40:17.936776+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
   },
   "signant-health|swe|l1": {
    "basis": "base",
@@ -23108,8 +23104,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T04:33:22.423877+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-08T21:32:00.063837+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25658,8 +25654,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T17:26:55.238779+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
+   "expires": "2027-02-05T06:47:43.756128+00:00",
+   "looked_up": "2026-11-13T18:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26409,8 +26405,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1597,
-  "lookups_today": 130,
+  "lookups_month": 1600,
+  "lookups_today": 133,
   "month": "2026-11"
  }
 }
