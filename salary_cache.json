@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T19:03:11.709669+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-09T02:26:22.141295+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3311,6 +3311,11 @@
    "status": "found",
    "year": 2023
   },
+  "blackrock|data|l1": {
+   "expires": "2026-11-28T07:49:36.333183+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
+   "status": "not_found"
+  },
   "blackrock|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5195,8 +5200,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T12:41:03.423681+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-17T18:42:14.392983+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6310,8 +6315,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T12:23:38.582776+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-15T01:07:40.337883+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9892,8 +9897,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:08:17.822366+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-13T04:32:36.277401+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12340,6 +12345,11 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
+  "it-america-inc|swe|l1": {
+   "expires": "2026-11-24T19:43:19.247057+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
+   "status": "not_found"
+  },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14270,8 +14280,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T15:45:15.997931+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-09T00:55:22.487312+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14886,11 +14896,6 @@
   "metlife|devops|l1": {
    "expires": "2026-12-01T06:38:24.019806+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "metlife|devops|l2": {
-   "expires": "2026-11-13T21:36:38.854520+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
   "metro-services-private-limited|security|l1": {
@@ -17631,11 +17636,6 @@
    "looked_up": "2026-11-11T14:01:27+00:00",
    "status": "not_found"
   },
-  "pincler|swe|l1": {
-   "expires": "2026-11-13T21:28:02.447879+00:00",
-   "looked_up": "2026-10-28T22:01:34+00:00",
-   "status": "not_found"
-  },
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-21T20:31:57.788392+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
@@ -18225,9 +18225,20 @@
    "year": 2026
   },
   "pwc-ac-india|erp|l1": {
-   "expires": "2026-11-13T21:18:30.590815+00:00",
-   "looked_up": "2026-10-24T02:01:23+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T18:44:36.123553+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/pwc-salaries/software-analyst"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pwc-ac-india|erp|l2": {
    "basis": "ctc",
@@ -20324,8 +20335,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:15:34.911075+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-09T04:07:54.679863+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20716,11 +20727,6 @@
   "sisir-radar|swe|l1": {
    "expires": "2026-11-28T03:46:22.640427+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
-  "sitetracker|erp|l2": {
-   "expires": "2026-11-13T21:41:03.861959+00:00",
-   "looked_up": "2026-10-31T14:01:32+00:00",
    "status": "not_found"
   },
   "skildai|mobile|l1": {
@@ -23116,8 +23122,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T20:19:15.752718+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-15T19:32:00.601030+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23679,11 +23685,6 @@
   "trigent-professional-services|erp|l1": {
    "expires": "2026-11-20T17:17:29.575383+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "trigent-professional-services|security|l1": {
-   "expires": "2026-11-13T21:18:18.006276+00:00",
-   "looked_up": "2026-10-26T13:14:58+00:00",
    "status": "not_found"
   },
   "trigent-professional-services|swe|l1": {
@@ -25676,8 +25677,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T12:16:21.675291+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
+   "expires": "2027-02-05T19:52:03.000801+00:00",
+   "looked_up": "2026-11-13T22:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26432,8 +26433,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1612,
-  "lookups_today": 145,
+  "lookups_month": 1615,
+  "lookups_today": 148,
   "month": "2026-11"
  }
 }
