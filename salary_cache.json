@@ -5,6 +5,11 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
+  "360technology-usa|swe|l1": {
+   "expires": "2026-11-29T09:34:17.335473+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
+  },
   "3ionetra-swadharma|mobile|l1": {
    "expires": "2026-11-24T03:54:50.840787+00:00",
    "looked_up": "2026-11-04T10:01:28+00:00",
@@ -1580,6 +1585,11 @@
    "status": "found",
    "year": 2026
   },
+  "amplio-invest|fullstack|l1": {
+   "expires": "2026-12-03T00:47:28.713391+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
+  },
   "analog-devices|swe|l1": {
    "expires": "2026-11-25T11:39:34.593956+00:00",
    "looked_up": "2026-11-07T13:01:17+00:00",
@@ -2182,6 +2192,31 @@
    "expires": "2026-11-24T02:46:34.083744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
+  },
+  "artechllc|devops|l1": {
+   "expires": "2026-11-28T11:33:50.280599+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
+  },
+  "artechllc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T05:44:20.730490+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/artech-salaries/hyderabad-location?page=2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/artech-reviews/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "aruyatech|mobile|l1": {
    "expires": "2026-11-15T15:16:30.811178+00:00",
@@ -5011,8 +5046,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T14:42:02.578652+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-15T13:27:10.380206+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5067,8 +5102,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:53:28.853093+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-12T22:43:48.555656+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6047,8 +6082,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T09:56:45.873405+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-14T02:08:24.237109+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -7270,8 +7305,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T22:51:22.072966+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-16T20:36:54.438536+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7749,6 +7784,22 @@
    "expires": "2026-11-15T10:04:05.258460+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
+  },
+  "evolving-systems|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T01:43:04.356409+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/evolving-systems-salaries/engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "evvara-ai|frontend|l1": {
    "expires": "2026-11-18T02:47:29.165049+00:00",
@@ -12843,11 +12894,6 @@
    "status": "found",
    "year": null
   },
-  "knack-systems|erp|l1": {
-   "expires": "2026-11-13T06:36:07.882702+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -14448,6 +14494,11 @@
    "status": "found",
    "year": 2025
   },
+  "mehbooba-apparels|swe|l1": {
+   "expires": "2026-11-27T09:58:55.797855+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
+  },
   "meridian-review-group-news|swe|l1": {
    "expires": "2026-11-19T00:12:46.296794+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -14843,8 +14894,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T17:45:06.683641+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-10T04:40:47.263987+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -18324,19 +18375,9 @@
    "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
-  "radware|devops|l1": {
-   "expires": "2026-11-13T06:17:43.178934+00:00",
-   "looked_up": "2026-10-27T10:01:29+00:00",
-   "status": "not_found"
-  },
   "rail-labs|swe|l1": {
    "expires": "2026-11-22T04:32:45.571728+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
-   "status": "not_found"
-  },
-  "ransitech|erp|l1": {
-   "expires": "2026-11-13T06:41:52.148933+00:00",
-   "looked_up": "2026-10-30T19:01:32+00:00",
    "status": "not_found"
   },
   "rapidbrains|erp|l1": {
@@ -20732,8 +20773,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T03:35:14.742584+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-16T03:32:09.584793+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -21934,8 +21975,8 @@
   "techcognics-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T05:15:08.784866+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-11T01:19:32.576661+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 3.0,
    "sources": [
@@ -23190,6 +23231,11 @@
   "tsclarity|swe|l1": {
    "expires": "2026-11-16T02:28:34.895512+00:00",
    "looked_up": "2026-10-27T13:01:29+00:00",
+   "status": "not_found"
+  },
+  "turium-ai|fullstack|l1": {
+   "expires": "2026-11-29T05:53:06.898352+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "status": "not_found"
   },
   "turium-ai|security|l1": {
@@ -24587,8 +24633,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:19:31.809868+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
+   "expires": "2027-02-14T01:15:43.086059+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -24697,6 +24743,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "webs-it-solution|frontend|l1": {
+   "expires": "2026-12-02T15:07:41.068626+00:00",
+   "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
   },
   "webzone-network|swe|l1": {
    "expires": "2026-11-21T03:24:52.309050+00:00",
@@ -25782,8 +25833,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1494,
-  "lookups_today": 27,
+  "lookups_month": 1502,
+  "lookups_today": 35,
   "month": "2026-11"
  }
 }
