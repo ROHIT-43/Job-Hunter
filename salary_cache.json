@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T20:07:03.098081+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-08T12:51:52.176751+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1579,11 +1579,6 @@
    "looked_up": "2026-11-13T17:01:26+00:00",
    "status": "not_found"
   },
-  "amgen|frontend|l1": {
-   "expires": "2026-11-13T19:18:21.969977+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2408,6 +2403,11 @@
   "astrdefence|swe|l1": {
    "expires": "2026-11-21T23:44:57.519094+00:00",
    "looked_up": "2026-11-08T06:01:15+00:00",
+   "status": "not_found"
+  },
+  "asymmetric-research|security|l1": {
+   "expires": "2026-12-02T19:21:01.718035+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "status": "not_found"
   },
   "asymmetriccompany|mobile|l1": {
@@ -5200,8 +5200,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T08:07:42.712910+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-08T06:59:26.834709+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6315,8 +6315,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:30:10.844209+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-09T05:58:17.629306+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -7901,11 +7901,6 @@
    "status": "found",
    "year": 2023
   },
-  "etg-world|erp|l1": {
-   "expires": "2026-11-13T19:45:59.602775+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "etherealexplorationguild|swe|l1": {
    "expires": "2026-12-01T21:42:16.189749+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -9307,6 +9302,11 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
+  "georgiatek-systems-inc|erp|l1": {
+   "expires": "2026-12-03T15:51:41.702720+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
+   "status": "not_found"
+  },
   "geoserve-maritime|devops|l1": {
    "expires": "2026-11-26T19:30:20.772816+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
@@ -9871,8 +9871,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:13:01.046235+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-11T04:19:02.525282+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12900,11 +12900,6 @@
    "status": "found",
    "year": 2025
   },
-  "kaliper-tech|frontend|l1": {
-   "expires": "2026-11-13T19:26:21.730352+00:00",
-   "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
   "kaliper-tech|swe|l1": {
    "expires": "2026-11-29T20:32:12.691519+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -14259,8 +14254,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T06:38:32.610240+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-04T20:19:22.840781+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14334,6 +14329,22 @@
    "expires": "2026-11-23T15:10:34.465476+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
    "status": "not_found"
+  },
+  "marshglobal|security|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-06T01:55:12.986352+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mmc-salaries/engineer/gurgaon-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "marvell|security|l1": {
    "expires": "2026-12-03T05:42:10.464333+00:00",
@@ -15150,11 +15161,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "moengage|security|l1": {
-   "expires": "2026-11-13T19:32:28.832382+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
   },
   "mogi-i-o|swe|l1": {
    "basis": "ctc",
@@ -20302,8 +20308,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:31:29.633319+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-07T08:05:05.153545+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23094,8 +23100,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T20:50:21.818591+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-07T06:56:10.058907+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23955,6 +23961,11 @@
   "unilever|devops|l1": {
    "expires": "2026-11-23T02:50:23.961151+00:00",
    "looked_up": "2026-11-13T00:01:28+00:00",
+   "status": "not_found"
+  },
+  "unimech-aerospace|swe|l1": {
+   "expires": "2026-11-21T22:32:31.652293+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "status": "not_found"
   },
   "unisoftglobalservices|erp|l1": {
@@ -25644,8 +25655,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T06:58:45.769428+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
+   "expires": "2027-02-13T02:56:43.661676+00:00",
+   "looked_up": "2026-11-13T20:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26395,8 +26406,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1603,
-  "lookups_today": 136,
+  "lookups_month": 1607,
+  "lookups_today": 140,
   "month": "2026-11"
  }
 }
