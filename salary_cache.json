@@ -1579,6 +1579,11 @@
    "looked_up": "2026-11-12T19:01:26+00:00",
    "status": "not_found"
   },
+  "ametek|swe|l1": {
+   "expires": "2026-11-24T03:11:45.859624+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "status": "not_found"
+  },
   "amgen|frontend|l1": {
    "expires": "2026-11-13T19:18:21.969977+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -3454,6 +3459,27 @@
    "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
+  "bnp-paribas|data|l1": {
+   "expires": "2026-11-21T15:46:32.062607+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "status": "not_found"
+  },
+  "bnp-paribas|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T10:24:45.623140+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bnp-paribas-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "bnp-paribas|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5184,8 +5210,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:53:48.965477+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-10T13:13:39.440934+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6304,8 +6330,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:08:20.108178+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-11T03:01:27.035347+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9849,8 +9875,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T16:08:00.064704+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-17T05:45:03.464642+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -11553,6 +11579,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "infoblox|security|l1": {
+   "expires": "2026-12-03T12:59:50.649484+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "status": "not_found"
   },
   "infoblox|swe|l1": {
    "basis": "ctc",
@@ -13826,6 +13857,11 @@
    "status": "found",
    "year": 2026
   },
+  "london-stock-exchange-group|devops|l1": {
+   "expires": "2026-11-29T15:17:46.449953+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "status": "not_found"
+  },
   "london-stock-exchange-group|security|l1": {
    "expires": "2026-11-19T05:02:19.920227+00:00",
    "looked_up": "2026-11-06T16:01:16+00:00",
@@ -14237,8 +14273,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:49:28.926795+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-10T14:15:02.038286+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14272,6 +14308,11 @@
   "marduk-technologies|swe|l1": {
    "expires": "2026-11-16T14:17:41.188600+00:00",
    "looked_up": "2026-11-03T20:01:58+00:00",
+   "status": "not_found"
+  },
+  "marichi-energy|swe|l1": {
+   "expires": "2026-11-27T17:26:40.441004+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "status": "not_found"
   },
   "marine-insight|mobile|l1": {
@@ -15860,6 +15901,11 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
+  "neuphonic|devops|l1": {
+   "expires": "2026-11-23T20:50:27.290242+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "status": "not_found"
+  },
   "neuralcraft-co|swe|l1": {
    "expires": "2026-11-16T03:56:35.395751+00:00",
    "looked_up": "2026-10-26T12:01:31+00:00",
@@ -15888,6 +15934,11 @@
   "nexionpro-sevices-llp|security|l1": {
    "expires": "2026-11-21T14:36:18.497552+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
+   "status": "not_found"
+  },
+  "nexvion-labs|swe|l1": {
+   "expires": "2026-11-23T21:03:15.626837+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "status": "not_found"
   },
   "nice-systems|swe|l1": {
@@ -16301,6 +16352,22 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "numerator|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T22:15:13.211660+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
+   "max_lpa": 15.6,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "in.indeed.com",
+     "uri": "https://in.indeed.com/cmp/Numerator-1/salaries/Software-Engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "nura-electric-mobility|swe|l2": {
    "expires": "2026-11-15T16:50:19.030561+00:00",
@@ -17223,11 +17290,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "payrup|devops|l1": {
-   "expires": "2026-11-13T16:44:45.676223+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
-   "status": "not_found"
   },
   "pdi-technologies|swe|l3": {
    "basis": "ctc",
@@ -20254,8 +20316,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:01:09.793219+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-08T01:03:20.048956+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23046,8 +23108,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:07:52.918800+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-05T04:33:22.423877+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25596,8 +25658,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:13:55.255630+00:00",
-   "looked_up": "2026-11-13T16:22:51+00:00",
+   "expires": "2027-02-07T17:26:55.238779+00:00",
+   "looked_up": "2026-11-13T17:01:26+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26347,8 +26409,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1588,
-  "lookups_today": 121,
+  "lookups_month": 1597,
+  "lookups_today": 130,
   "month": "2026-11"
  }
 }
