@@ -664,11 +664,6 @@
    "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
-  "adswerve-inc-|swe|l2": {
-   "expires": "2026-11-13T09:31:16.283024+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
   "adtran|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2708,6 +2703,11 @@
   "aviacaodeangola|frontend|l1": {
    "expires": "2026-11-30T07:42:04.682154+00:00",
    "looked_up": "2026-11-12T20:01:21+00:00",
+   "status": "not_found"
+  },
+  "aviaralabs|swe|l1": {
+   "expires": "2026-11-28T13:22:07.446363+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
   "avisysservices|erp|l1": {
@@ -5110,8 +5110,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:03:51.837039+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-15T18:22:47.977274+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -5549,11 +5549,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "comtek1|erp|l1": {
-   "expires": "2026-11-13T09:59:05.885364+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
   },
   "comviva|data|l1": {
    "basis": "ctc",
@@ -6132,8 +6127,8 @@
   "cygnusad|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:50:58.893862+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-06T20:54:59.292434+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 6.6,
    "min_lpa": 6.0,
    "sources": [
@@ -6230,8 +6225,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T11:55:32.533030+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-11T20:17:04.256836+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6856,6 +6851,11 @@
    "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
   },
+  "document-it-llc|devops|l1": {
+   "expires": "2026-11-27T11:12:08.905550+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "status": "not_found"
+  },
   "docusign|swe|l1": {
    "expires": "2026-11-20T13:48:04.846261+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -7355,8 +7355,8 @@
   "encore-consulting|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T05:20:58.448852+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-17T21:11:51.479510+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 18.0,
    "sources": [
@@ -7543,8 +7543,8 @@
    "status": "not_found"
   },
   "equifax|swe|l2": {
-   "expires": "2026-11-13T09:05:19.735773+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
+   "expires": "2026-11-25T08:18:53.343291+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
   "equinix|swe|l1": {
@@ -8834,6 +8834,22 @@
    "expires": "2026-11-18T17:40:58.957742+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
+  },
+  "fractal-analytics|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T06:38:39.655014+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "jobsociety.in",
+     "uri": "https://jobsociety.in/?p=14884"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "franklin-templeton|swe|l1": {
    "expires": "2026-11-25T04:40:48.406683+00:00",
@@ -11920,6 +11936,22 @@
    "looked_up": "2026-10-30T02:01:28+00:00",
    "status": "not_found"
   },
+  "into-university-partnerships|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T18:09:25.413140+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 5.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/into-university-partnerships-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "intraedge|data|l1": {
    "expires": "2026-11-18T13:40:13.960092+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
@@ -14955,8 +14987,8 @@
   "moodys-corporation|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:30:22.494958+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-06T18:06:00.013009+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 21.6,
    "min_lpa": 12.9,
    "sources": [
@@ -16884,6 +16916,22 @@
    "looked_up": "2026-11-05T19:01:18+00:00",
    "status": "not_found"
   },
+  "partechnology|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-06T08:15:38.356504+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "max_lpa": 22.5,
+   "min_lpa": 19.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/par-technology-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "parul-university|swe|l1": {
    "expires": "2026-11-22T12:50:53.510909+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
@@ -18552,6 +18600,11 @@
    "status": "found",
    "year": null
   },
+  "reckitt|erp|l1": {
+   "expires": "2026-12-01T22:02:28.981326+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "status": "not_found"
+  },
   "recollia|security|l1": {
    "expires": "2026-11-25T11:19:21.281253+00:00",
    "looked_up": "2026-11-10T17:01:24+00:00",
@@ -19953,8 +20006,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-04T15:59:17.045965+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-13T17:58:35.982677+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -22406,6 +22459,11 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
+  "tesco-bengaluru|security|l1": {
+   "expires": "2026-11-26T00:20:54.851173+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "status": "not_found"
+  },
   "tesco-bengaluru|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22457,6 +22515,11 @@
    ],
    "status": "found",
    "year": 2020
+  },
+  "tesco-technology|security|l1": {
+   "expires": "2026-11-29T05:16:54.579176+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
+   "status": "not_found"
   },
   "tesco-technology|swe|l1": {
    "expires": "2026-11-20T04:06:10.859133+00:00",
@@ -23543,11 +23606,6 @@
   "uniabroadly|swe|l1": {
    "expires": "2026-11-21T12:14:38.128763+00:00",
    "looked_up": "2026-11-04T14:01:32+00:00",
-   "status": "not_found"
-  },
-  "unicornisai|swe|l2": {
-   "expires": "2026-11-13T09:17:44.079103+00:00",
-   "looked_up": "2026-10-23T11:01:26+00:00",
    "status": "not_found"
   },
   "unifydd|frontend|l1": {
@@ -24791,8 +24849,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:53:57.629690+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
+   "expires": "2027-02-09T00:20:54.364357+00:00",
+   "looked_up": "2026-11-13T10:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 15.0,
    "sources": [
@@ -25986,8 +26044,8 @@
  },
  "meta": {
   "day": "2026-11-13",
-  "lookups_month": 1525,
-  "lookups_today": 58,
+  "lookups_month": 1534,
+  "lookups_today": 67,
   "month": "2026-11"
  }
 }
