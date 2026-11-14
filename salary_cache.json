@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:15:01.920006+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-06T06:56:43.901265+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5152,8 +5152,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T02:22:05.335771+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-12T14:04:52.594097+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6792,8 +6792,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:15:53.069148+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-17T12:00:08.304332+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -9886,8 +9886,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T04:17:49.904478+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-08T09:35:56.111869+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12214,8 +12214,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:33:26.589441+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-12T16:14:42.455394+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14275,8 +14275,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:34:46.216319+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-18T14:42:46.080691+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -17833,11 +17833,6 @@
    "looked_up": "2026-10-28T09:01:31+00:00",
    "status": "not_found"
   },
-  "practicesuite-inc-web-based-medical-billing-and-practice-management-software|data|l1": {
-   "expires": "2026-11-14T10:15:40.115627+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "practo-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-26T19:42:43.891903+00:00",
    "looked_up": "2026-11-07T01:01:15+00:00",
@@ -21371,8 +21366,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:09:39.113542+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-16T00:44:56.568878+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -23099,8 +23094,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T13:49:41.322788+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-10T15:04:59.423339+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25654,8 +25649,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T13:32:13.365550+00:00",
-   "looked_up": "2026-11-14T10:01:18+00:00",
+   "expires": "2027-02-18T02:55:04.751988+00:00",
+   "looked_up": "2026-11-14T10:32:39+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
