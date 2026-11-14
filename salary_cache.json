@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T02:59:17.909389+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-12T21:21:41.838400+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4950,11 +4950,6 @@
    "looked_up": "2026-11-09T06:01:20+00:00",
    "status": "not_found"
   },
-  "clearwater-security-llc|security|l1": {
-   "expires": "2026-11-14T08:39:39.465435+00:00",
-   "looked_up": "2026-10-29T20:01:27+00:00",
-   "status": "not_found"
-  },
   "clearwateranalytics|swe|l2": {
    "expires": "2026-11-21T10:07:32.147557+00:00",
    "looked_up": "2026-11-07T10:01:22+00:00",
@@ -5162,8 +5157,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T21:07:00.208470+00:00",
-   "looked_up": "2026-11-13T08:05:28+00:00",
+   "expires": "2027-02-12T00:22:17.988435+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6799,6 +6794,20 @@
    "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
+  "dialdeskindia|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T23:56:29.820341+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "diebold|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7015,11 +7024,6 @@
   "drc-systems|devops|l1": {
    "expires": "2026-11-19T20:46:45.756521+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
-  },
-  "driif-ai|swe|l1": {
-   "expires": "2026-11-14T08:57:44.897547+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "drishticon|swe|l1": {
@@ -8219,8 +8223,8 @@
    "status": "not_found"
   },
   "experityhealth|swe|l3": {
-   "expires": "2026-11-14T08:49:10.035271+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
+   "expires": "2026-11-22T12:48:58.946510+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "status": "not_found"
   },
   "exxonmobil-india-careers|swe|l1": {
@@ -9892,8 +9896,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T01:25:15.742730+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-16T17:33:28.667398+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12209,8 +12213,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:41:42.041001+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-15T12:49:44.587671+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14270,8 +14274,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:51:01.579674+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-12T02:29:59.457644+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15367,6 +15371,11 @@
    "status": "found",
    "year": 2026
   },
+  "moxsh-overseas-educom-pvt-ltd|swe|l1": {
+   "expires": "2026-11-27T01:23:40.826271+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
+   "status": "not_found"
+  },
   "mphasis|data|l1": {
    "expires": "2026-11-25T15:47:41.129375+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
@@ -16004,11 +16013,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "niitmts|swe|l2": {
-   "expires": "2026-11-14T08:42:23.987818+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
   },
   "nikah-forever|swe|l2": {
    "expires": "2026-11-29T16:16:14.322710+00:00",
@@ -17907,11 +17911,6 @@
   "profilentdigital|swe|l1": {
    "expires": "2026-11-20T08:20:09.791253+00:00",
    "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "profoundme|fullstack|l3": {
-   "expires": "2026-11-14T08:10:15.616290+00:00",
-   "looked_up": "2026-10-24T16:01:37+00:00",
    "status": "not_found"
   },
   "progenesis-ivf|fullstack|l1": {
@@ -21355,8 +21354,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T22:59:17.890509+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-11T14:37:41.970431+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21467,6 +21466,11 @@
    "looked_up": "2026-11-06T04:01:14+00:00",
    "status": "not_found"
   },
+  "strateworks-the-business-it-hub|swe|l1": {
+   "expires": "2026-12-02T12:44:31.976701+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
+   "status": "not_found"
+  },
   "stratign|swe|l1": {
    "expires": "2026-11-21T10:48:21.344877+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
@@ -21547,11 +21551,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sumtracker-inventory|swe|l1": {
-   "expires": "2026-11-14T08:38:21.775645+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
-   "status": "not_found"
   },
   "sun-life-financial|data|l1": {
    "expires": "2026-11-16T08:24:10.810098+00:00",
@@ -23083,8 +23082,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T02:28:20.427817+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-13T19:11:17.473880+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25638,8 +25637,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T00:45:17.638169+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
+   "expires": "2027-02-13T15:57:01.118988+00:00",
+   "looked_up": "2026-11-14T09:01:18+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26399,8 +26398,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1643,
-  "lookups_today": 27,
+  "lookups_month": 1646,
+  "lookups_today": 30,
   "month": "2026-11"
  }
 }
