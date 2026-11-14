@@ -779,6 +779,11 @@
    "looked_up": "2026-11-13T03:01:20+00:00",
    "status": "not_found"
   },
+  "aionsofttech|fullstack|l1": {
+   "expires": "2026-11-25T20:16:37.449199+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
+   "status": "not_found"
+  },
   "aiprise|frontend|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -5162,8 +5167,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:45:04.753632+00:00",
-   "looked_up": "2026-11-14T17:08:42+00:00",
+   "expires": "2027-02-05T21:08:45.213943+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6430,8 +6435,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:30:51.927439+00:00",
-   "looked_up": "2026-11-14T17:08:42+00:00",
+   "expires": "2027-02-15T17:31:17.824066+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6821,8 +6826,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T07:30:14.728616+00:00",
-   "looked_up": "2026-11-14T17:08:42+00:00",
+   "expires": "2027-02-05T18:23:21.275445+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -10178,6 +10183,11 @@
    "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
+  "hamid-tech-world|frontend|l1": {
+   "expires": "2026-11-26T05:38:42.996968+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
+   "status": "not_found"
+  },
   "hancod|mobile|l1": {
    "expires": "2026-11-17T20:00:02.232384+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
@@ -12223,8 +12233,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T07:06:24.816223+00:00",
-   "looked_up": "2026-11-14T17:08:42+00:00",
+   "expires": "2027-02-11T09:14:32.948779+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -17210,6 +17220,22 @@
    "status": "found",
    "year": 2026
   },
+  "park-place-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T23:47:35.079495+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
+   "max_lpa": 12.6,
+   "min_lpa": 9.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/park-place-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "parsewave|swe|l1": {
    "expires": "2026-12-04T10:21:08.563968+00:00",
    "looked_up": "2026-11-14T04:01:25+00:00",
@@ -17753,6 +17779,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "portage-point-partners|devops|l1": {
+   "expires": "2026-12-01T07:33:21.403929+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
+   "status": "not_found"
   },
   "postaresume|devops|l1": {
    "basis": "posted",
@@ -21393,8 +21424,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:45:44.143807+00:00",
-   "looked_up": "2026-11-14T17:08:42+00:00",
+   "expires": "2027-02-09T03:39:35.494851+00:00",
+   "looked_up": "2026-11-14T18:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -26443,8 +26474,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1666,
-  "lookups_today": 50,
+  "lookups_month": 1670,
+  "lookups_today": 54,
   "month": "2026-11"
  }
 }
