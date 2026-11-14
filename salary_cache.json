@@ -614,6 +614,11 @@
    "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
+  "aditya-birla-capital|data|l1": {
+   "expires": "2026-11-27T17:29:55.992803+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
+   "status": "not_found"
+  },
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -5167,8 +5172,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T21:08:45.213943+00:00",
-   "looked_up": "2026-11-14T18:01:20+00:00",
+   "expires": "2027-02-07T00:40:04.051545+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6427,16 +6432,11 @@
    "status": "found",
    "year": 2025
   },
-  "datavinyasolutions|erp|l1": {
-   "expires": "2026-11-14T18:25:08.186332+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
-   "status": "not_found"
-  },
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:31:17.824066+00:00",
-   "looked_up": "2026-11-14T18:01:20+00:00",
+   "expires": "2027-02-15T15:10:48.245142+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6826,8 +6826,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T18:23:21.275445+00:00",
-   "looked_up": "2026-11-14T18:01:20+00:00",
+   "expires": "2027-02-19T12:19:53.141463+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -11008,8 +11008,8 @@
    "status": "not_found"
   },
   "huntingcubeai|frontend|l1": {
-   "expires": "2026-11-14T18:15:38.826249+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
+   "expires": "2026-12-01T16:14:28.489014+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "status": "not_found"
   },
   "huntingcubeai|fullstack|l1": {
@@ -12233,8 +12233,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T09:14:32.948779+00:00",
-   "looked_up": "2026-11-14T18:01:20+00:00",
+   "expires": "2027-02-17T22:34:24.092454+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14425,11 +14425,6 @@
   "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
    "expires": "2026-11-17T16:55:41.687871+00:00",
    "looked_up": "2026-10-30T21:01:32+00:00",
-   "status": "not_found"
-  },
-  "mastercam|swe|l1": {
-   "expires": "2026-11-14T18:26:34.816188+00:00",
-   "looked_up": "2026-10-26T19:26:21+00:00",
    "status": "not_found"
   },
   "mastercard|data|l2": {
@@ -19390,6 +19385,22 @@
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
+  "routemobile|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T06:34:49.660031+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
+   "max_lpa": 9.6,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/routemobile-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rskiec|devops|l1": {
    "expires": "2026-11-16T03:01:46.238201+00:00",
    "looked_up": "2026-10-28T06:01:28+00:00",
@@ -21133,11 +21144,6 @@
    "looked_up": "2026-11-10T18:01:24+00:00",
    "status": "not_found"
   },
-  "softkode|fullstack|l1": {
-   "expires": "2026-11-14T18:42:34.823401+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "softniceuklimited|fullstack|l1": {
    "expires": "2026-11-15T22:32:20.620307+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
@@ -21424,8 +21430,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T03:39:35.494851+00:00",
-   "looked_up": "2026-11-14T18:01:20+00:00",
+   "expires": "2027-02-15T16:55:22.396362+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25963,6 +25969,11 @@
    "status": "found",
    "year": 2025
   },
+  "youpackwelyft|mobile|l1": {
+   "expires": "2026-11-25T00:44:49.892713+00:00",
+   "looked_up": "2026-11-14T19:01:17+00:00",
+   "status": "not_found"
+  },
   "z-transform-media|swe|l1": {
    "expires": "2026-11-18T04:02:49.445400+00:00",
    "looked_up": "2026-10-31T09:01:28+00:00",
@@ -26474,8 +26485,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1670,
-  "lookups_today": 54,
+  "lookups_month": 1674,
+  "lookups_today": 58,
   "month": "2026-11"
  }
 }
