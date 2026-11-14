@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:00:33.286513+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-17T08:12:01.880229+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5157,8 +5157,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:25:23.129004+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-13T00:28:45.369070+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5922,6 +5922,11 @@
   "crossinghurdles|data|l1": {
    "expires": "2026-11-18T12:02:23.507889+00:00",
    "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
+  "crossinghurdles|devops|l1": {
+   "expires": "2026-11-25T01:12:54.142840+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "status": "not_found"
   },
   "crossinghurdles|frontend|l1": {
@@ -6797,8 +6802,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T23:01:12.595522+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-10T15:00:45.432368+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -9891,8 +9896,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T09:12:49.165962+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-10T04:57:09.759062+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12224,8 +12229,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:30:19.158925+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-16T18:22:13.455133+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13448,6 +13453,22 @@
    "status": "found",
    "year": 2026
   },
+  "kumaran-systems|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-05T19:26:40.354060+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/kumaran-systems-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "kumaran-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14295,8 +14316,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-05T19:05:14.459118+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-17T11:44:46.519388+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -17668,11 +17689,6 @@
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
   },
-  "placeelements-hr|swe|l1": {
-   "expires": "2026-11-14T11:06:33.452133+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
   "planfirma-technologies-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18355,11 +18371,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "pythian|devops|l1": {
-   "expires": "2026-11-14T11:17:57.729642+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
   },
   "q2software|swe|l1": {
    "expires": "2026-11-17T02:35:06.053561+00:00",
@@ -19079,11 +19090,6 @@
   "rengy|mobile|l2": {
    "expires": "2026-11-23T21:27:05.170540+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "renovision-automation-services-pvt-ltd|security|l1": {
-   "expires": "2026-11-14T11:59:25.240859+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "rentesy|mobile|l1": {
@@ -21402,8 +21408,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T22:23:55.257039+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-06T13:00:19.788766+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -22356,6 +22362,22 @@
    "status": "found",
    "year": 2026
   },
+  "teamviewer|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T18:25:12.885829+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/teamviewer-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "teamware-solutions|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23073,6 +23095,11 @@
    "looked_up": "2026-10-27T18:01:29+00:00",
    "status": "not_found"
   },
+  "the-hartford-india|swe|l1": {
+   "expires": "2026-12-05T07:37:28.185684+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
+   "status": "not_found"
+  },
   "the-kraft-heinz-company|data|l2": {
    "expires": "2026-11-26T14:42:30.338288+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -23130,8 +23157,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:31:17.856173+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-10T08:09:53.624481+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23149,6 +23176,11 @@
   "thejobbie|fullstack|l1": {
    "expires": "2026-11-18T09:22:56.037573+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
+   "status": "not_found"
+  },
+  "thekalki|frontend|l1": {
+   "expires": "2026-11-21T12:08:42.441577+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "status": "not_found"
   },
   "themesoft-inc.|erp|l1": {
@@ -23799,11 +23831,6 @@
   "turium-ai|fullstack|l1": {
    "expires": "2026-11-29T05:53:06.898352+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
-   "status": "not_found"
-  },
-  "turium-ai|security|l1": {
-   "expires": "2026-11-14T11:49:12.306645+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
   "tvh|devops|l1": {
@@ -25685,8 +25712,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:22:55.305782+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
+   "expires": "2027-02-06T10:53:16.026499+00:00",
+   "looked_up": "2026-11-14T12:01:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26446,8 +26473,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1653,
-  "lookups_today": 37,
+  "lookups_month": 1658,
+  "lookups_today": 42,
   "month": "2026-11"
  }
 }
