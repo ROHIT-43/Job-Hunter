@@ -2380,11 +2380,6 @@
    "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
   },
-  "aspen-technology|swe|l1": {
-   "expires": "2026-11-14T22:54:08.373390+00:00",
-   "looked_up": "2026-11-07T18:01:18+00:00",
-   "status": "not_found"
-  },
   "aspen-technology|swe|l2": {
    "expires": "2026-11-27T01:00:40.250687+00:00",
    "looked_up": "2026-11-07T18:01:18+00:00",
@@ -5182,8 +5177,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T11:33:36.508463+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-13T07:51:38.160291+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6445,8 +6440,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T01:34:39.310252+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-15T06:09:51.818883+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6836,8 +6831,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T15:12:08.073790+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-12T16:05:14.477431+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -9996,11 +9991,6 @@
    "looked_up": "2026-11-04T17:01:19+00:00",
    "status": "not_found"
   },
-  "greymatterauto|swe|l1": {
-   "expires": "2026-11-14T22:25:50.230207+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
   "greysoft|frontend|l1": {
    "expires": "2026-11-27T02:52:31.984701+00:00",
    "looked_up": "2026-11-10T22:01:19+00:00",
@@ -12243,8 +12233,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T13:52:50.183538+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-06T02:25:41.684681+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13214,11 +13204,6 @@
    ],
    "status": "found"
   },
-  "kkcatax|swe|l1": {
-   "expires": "2026-11-14T22:42:12.537396+00:00",
-   "looked_up": "2026-11-01T12:01:27+00:00",
-   "status": "not_found"
-  },
   "kksoft-bim|swe|l1": {
    "expires": "2026-11-24T13:44:33.451985+00:00",
    "looked_up": "2026-11-12T09:01:24+00:00",
@@ -13605,8 +13590,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T17:35:05.052424+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-09T06:11:51.098744+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14833,11 +14818,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "medpace|devops|l1": {
-   "expires": "2026-11-14T22:07:59.097084+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
   },
   "medpace|erp|l1": {
    "basis": "ctc",
@@ -20799,11 +20779,6 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
-  "skillcollege|frontend|l1": {
-   "expires": "2026-11-14T22:23:52.312769+00:00",
-   "looked_up": "2026-11-01T01:01:35+00:00",
-   "status": "not_found"
-  },
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -21439,8 +21414,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:07:41.019805+00:00",
-   "looked_up": "2026-11-14T22:01:21+00:00",
+   "expires": "2027-02-10T12:44:55.174727+00:00",
+   "looked_up": "2026-11-14T23:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
