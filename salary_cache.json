@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T20:42:43.275593+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-10T19:57:44.546275+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4775,11 +4775,6 @@
    "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
-  "chinmay-finlease-limited|devops|l1": {
-   "expires": "2026-11-14T03:07:45.520353+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
   "cibc-india|security|l1": {
    "expires": "2026-12-02T20:17:15.668939+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -5195,8 +5190,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T03:06:08.490548+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-05T15:39:06.831826+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6305,8 +6300,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T19:22:39.384739+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-06T09:40:48.757318+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9887,8 +9882,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:09:25.355686+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-11T19:36:56.603303+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -14250,8 +14245,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T04:27:22.121526+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-09T13:11:55.678642+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -20306,8 +20301,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:29:24.467264+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-10T19:06:19.398314+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23088,8 +23083,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T16:20:24.474264+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-14T04:26:37.149246+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25643,8 +25638,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:24:30.082781+00:00",
-   "looked_up": "2026-11-14T03:01:31+00:00",
+   "expires": "2027-02-16T11:02:14.288695+00:00",
+   "looked_up": "2026-11-14T03:15:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
