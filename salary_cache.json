@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T06:56:43.901265+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-19T09:00:33.286513+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5055,6 +5055,11 @@
    ],
    "status": "found"
   },
+  "cloudswift-technologies-pvt-ltd|erp|l1": {
+   "expires": "2026-12-01T03:37:02.243270+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
+   "status": "not_found"
+  },
   "cloudwick|devops|l1": {
    "expires": "2026-11-29T04:40:44.248965+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
@@ -5152,8 +5157,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:04:52.594097+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-11T07:25:23.129004+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6792,8 +6797,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T12:00:08.304332+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-12T23:01:12.595522+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -9886,8 +9891,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T09:35:56.111869+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-14T09:12:49.165962+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -10982,6 +10987,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "humanitapp|swe|l1": {
+   "expires": "2026-12-05T02:43:19.616541+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
+   "status": "not_found"
   },
   "huntingcubeai|frontend|l1": {
    "expires": "2026-11-14T18:15:38.826249+00:00",
@@ -12214,8 +12224,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T16:14:42.455394+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-17T11:30:19.158925+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13353,6 +13363,11 @@
    "status": "found",
    "year": 2025
   },
+  "kriyal|security|l1": {
+   "expires": "2026-12-05T00:56:46.488699+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
+   "status": "not_found"
+  },
   "krusam-technologies-pvt-ltd|frontend|l1": {
    "expires": "2026-11-23T05:27:18.090825+00:00",
    "looked_up": "2026-11-09T05:01:20+00:00",
@@ -13989,6 +14004,11 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "lunatechnologiespvtltd|swe|l1": {
+   "expires": "2026-12-03T11:12:53.042181+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
+   "status": "not_found"
+  },
   "luxoft-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14275,8 +14295,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T14:42:46.080691+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-05T19:05:14.459118+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16638,6 +16658,22 @@
    "expires": "2026-11-26T23:21:21.428975+00:00",
    "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
+  },
+  "omnissa|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-18T23:50:06.416186+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
+   "max_lpa": 20.1,
+   "min_lpa": 15.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/omnissa-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "omp-supply-chain-planning|erp|l1": {
    "expires": "2026-11-27T09:50:00.509377+00:00",
@@ -21366,8 +21402,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:44:56.568878+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-07T22:23:55.257039+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -23094,8 +23130,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:04:59.423339+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-14T01:31:17.856173+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25649,8 +25685,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:55:04.751988+00:00",
-   "looked_up": "2026-11-14T10:32:39+00:00",
+   "expires": "2027-02-14T23:22:55.305782+00:00",
+   "looked_up": "2026-11-14T11:01:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26410,8 +26446,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1648,
-  "lookups_today": 32,
+  "lookups_month": 1653,
+  "lookups_today": 37,
   "month": "2026-11"
  }
 }
