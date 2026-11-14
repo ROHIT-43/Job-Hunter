@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T18:52:34.891881+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-05T04:20:56.460981+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5195,8 +5195,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T01:14:55.372181+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-14T07:04:00.723160+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6305,8 +6305,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T03:23:59.322971+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-14T20:00:18.187411+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -9887,8 +9887,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:15:51.441778+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-13T18:57:21.798636+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -12320,6 +12320,11 @@
    "looked_up": "2026-11-11T01:01:23+00:00",
    "status": "not_found"
   },
+  "ishift4cloud|devops|l1": {
+   "expires": "2026-12-02T07:54:25.198979+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
+   "status": "not_found"
+  },
   "ishift4cloud|swe|l1": {
    "expires": "2026-11-28T05:53:24.594071+00:00",
    "looked_up": "2026-11-09T21:01:22+00:00",
@@ -14250,8 +14255,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T22:37:51.426357+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-08T04:26:09.742465+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14796,11 +14801,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "meet-archer|data|l2": {
-   "expires": "2026-11-14T00:50:12.916667+00:00",
-   "looked_up": "2026-10-30T07:01:31+00:00",
-   "status": "not_found"
   },
   "meet-archer|frontend|l2": {
    "expires": "2026-11-18T06:46:50.321197+00:00",
@@ -15497,11 +15497,6 @@
   "nam-info-inc|swe|l1": {
    "expires": "2026-11-16T10:12:12.297626+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
-  "naresh-i-technologies|fullstack|l1": {
-   "expires": "2026-11-14T00:24:49.435252+00:00",
-   "looked_up": "2026-10-25T03:01:37+00:00",
    "status": "not_found"
   },
   "naresh-i-technologies|swe|l1": {
@@ -17188,11 +17183,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "park-place-technologies|swe|l1": {
-   "expires": "2026-11-14T00:20:29.341275+00:00",
-   "looked_up": "2026-11-05T19:01:18+00:00",
-   "status": "not_found"
   },
   "partechnology|swe|l2": {
    "basis": "ctc",
@@ -20311,8 +20301,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:46:06.207434+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-17T14:15:15.388582+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23093,8 +23083,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:48:48.498357+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-13T15:21:34.372404+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25648,8 +25638,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T07:29:32.131381+00:00",
-   "looked_up": "2026-11-14T00:01:25+00:00",
+   "expires": "2027-02-07T20:07:34.160452+00:00",
+   "looked_up": "2026-11-14T01:01:38+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26404,8 +26394,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1617,
-  "lookups_today": 1,
+  "lookups_month": 1618,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
