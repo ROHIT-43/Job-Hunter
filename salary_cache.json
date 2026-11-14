@@ -5172,8 +5172,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T00:40:04.051545+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
+   "expires": "2027-02-17T11:33:06.323099+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6435,8 +6435,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:10:48.245142+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
+   "expires": "2027-02-14T09:56:16.363197+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6826,8 +6826,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T12:19:53.141463+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
+   "expires": "2027-02-07T05:59:59.169885+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12233,8 +12233,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:34:24.092454+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
+   "expires": "2027-02-19T01:28:51.520376+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13591,6 +13591,20 @@
    "expires": "2026-11-18T10:48:27.693091+00:00",
    "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
+  },
+  "launch-ecom-solutions|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T15:53:38.588023+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "leadsource-tech|fullstack|l1": {
    "expires": "2026-11-16T05:22:39.102117+00:00",
@@ -19215,11 +19229,6 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
-  "rikruit|swe|l1": {
-   "expires": "2026-11-14T19:09:17.449686+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
   "rippling|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -21430,8 +21439,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:55:22.396362+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
+   "expires": "2027-02-15T00:10:09.172450+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21580,6 +21589,11 @@
   "strong-point-digital|swe|l1": {
    "expires": "2026-11-21T16:44:19.469730+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
+   "status": "not_found"
+  },
+  "study-ark|swe|l1": {
+   "expires": "2026-11-30T04:02:05.609473+00:00",
+   "looked_up": "2026-11-14T20:01:15+00:00",
    "status": "not_found"
   },
   "suffescom|devops|l1": {
@@ -24707,11 +24721,6 @@
    ],
    "status": "found"
   },
-  "vighnaharta|swe|l1": {
-   "expires": "2026-11-14T19:25:06.734119+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "virinnovations|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -26485,8 +26494,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1674,
-  "lookups_today": 58,
+  "lookups_month": 1675,
+  "lookups_today": 59,
   "month": "2026-11"
  }
 }
