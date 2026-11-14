@@ -3558,11 +3558,6 @@
    "status": "found",
    "year": 2026
   },
-  "bnyglobal|devops|l1": {
-   "expires": "2026-11-14T21:54:16.485622+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
   "bnyglobal|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -5187,8 +5182,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:36:37.164965+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-11T11:33:36.508463+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6450,8 +6445,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T09:24:35.433209+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-09T01:34:39.310252+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6841,8 +6836,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:14:13.860466+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-09T15:12:08.073790+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12248,8 +12243,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:24:45.066430+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-11T13:52:50.183538+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13610,8 +13605,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T10:44:04.807228+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-18T17:35:05.052424+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -21444,8 +21439,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T19:38:34.600092+00:00",
-   "looked_up": "2026-11-14T21:29:41+00:00",
+   "expires": "2027-02-17T17:07:41.019805+00:00",
+   "looked_up": "2026-11-14T22:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
