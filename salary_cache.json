@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:56:44.882508+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-06T21:44:21.808476+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5162,8 +5162,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:42:05.186795+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-09T05:44:41.279498+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6430,8 +6430,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:14:26.635356+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-08T06:55:20.408342+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6821,8 +6821,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:51:30.131326+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-17T14:35:34.338399+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12248,8 +12248,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:21:41.355837+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-17T03:36:27.022973+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13803,11 +13803,6 @@
    "status": "found",
    "year": null
   },
-  "linkton|fullstack|l1": {
-   "expires": "2026-11-14T14:29:40.558025+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
-   "status": "not_found"
-  },
   "literaai|swe|l1": {
    "expires": "2026-11-21T09:09:23.457588+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
@@ -14335,8 +14330,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T23:33:33.336939+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-15T18:44:51.859363+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15108,11 +15103,6 @@
   "mindtelg|swe|l1": {
    "expires": "2026-11-25T22:50:52.489859+00:00",
    "looked_up": "2026-11-05T08:01:23+00:00",
-   "status": "not_found"
-  },
-  "mindvora-solution|frontend|l1": {
-   "expires": "2026-11-14T14:51:34.056144+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "mindzmap-digital-solutions|frontend|l1": {
@@ -16815,11 +16805,6 @@
    "looked_up": "2026-11-08T11:01:21+00:00",
    "status": "not_found"
   },
-  "openingsfirst|swe|l1": {
-   "expires": "2026-11-14T14:29:40.676673+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "openlm|security|l1": {
    "expires": "2026-11-17T11:26:52.684247+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
@@ -18127,11 +18112,6 @@
    "status": "found",
    "year": 2024
   },
-  "providenceindia|security|l1": {
-   "expires": "2026-11-14T14:19:16.991310+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "prudent-technologies-and-consulting-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19233,11 +19213,6 @@
     }
    ],
    "status": "found"
-  },
-  "rhenova-tech|swe|l1": {
-   "expires": "2026-11-14T14:39:59.850346+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
   },
   "rickshaw-studios|swe|l1": {
    "expires": "2026-11-18T18:31:39.923658+00:00",
@@ -21453,8 +21428,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T10:40:01.017984+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-10T16:43:19.464785+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -23207,8 +23182,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T07:16:37.101357+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
+   "expires": "2027-02-10T13:31:58.490519+00:00",
+   "looked_up": "2026-11-14T15:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
