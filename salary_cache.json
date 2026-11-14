@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:21:36.687617+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-13T02:06:48.279392+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5190,8 +5190,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:14:17.607775+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-17T11:21:39.919452+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6300,8 +6300,8 @@
   "d-square-consulting-services-pvt-ltd|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T19:48:00.894974+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-15T03:50:44.247920+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6757,6 +6757,11 @@
    ],
    "status": "found"
   },
+  "dexter-s-tech|frontend|l1": {
+   "expires": "2026-12-02T13:55:13.949147+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
+   "status": "not_found"
+  },
   "dhl|devops|l1": {
    "expires": "2026-11-22T01:46:40.378786+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -6990,6 +6995,11 @@
   "dooritt|fullstack|l1": {
    "expires": "2026-11-22T02:03:37.750030+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
+   "status": "not_found"
+  },
+  "dooscale|swe|l1": {
+   "expires": "2026-11-26T11:50:31.062534+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "status": "not_found"
   },
   "dotsolved|erp|l1": {
@@ -7488,6 +7498,11 @@
   "emfica-pharmaceuticals-private-limited|fullstack|l1": {
    "expires": "2026-11-28T12:50:14.404314+00:00",
    "looked_up": "2026-11-09T13:01:27+00:00",
+   "status": "not_found"
+  },
+  "emriom-solutions|swe|l1": {
+   "expires": "2026-12-03T06:43:35.738784+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "status": "not_found"
   },
   "en-interactive-technologies-pvt-ltd|frontend|l1": {
@@ -9882,8 +9897,8 @@
   "grab-space|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T11:22:14.542440+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-18T16:22:17.472459+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.2,
    "sources": [
@@ -11844,6 +11859,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "infovenz-software-solution|swe|l1": {
+   "expires": "2026-12-02T11:10:03.360627+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
+   "status": "not_found"
   },
   "infovision|data|l1": {
    "basis": "ctc",
@@ -14245,8 +14265,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:13:05.490161+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-13T17:29:50.752478+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -19468,11 +19488,6 @@
    "looked_up": "2026-11-09T20:01:20+00:00",
    "status": "not_found"
   },
-  "saatvik-agro-processors-private-limited|frontend|l1": {
-   "expires": "2026-11-14T04:06:32.164955+00:00",
-   "looked_up": "2026-11-06T03:01:27+00:00",
-   "status": "not_found"
-  },
   "saatvik-agro-processors-private-limited|fullstack|l1": {
    "expires": "2026-11-15T23:38:23.453029+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
@@ -20306,8 +20321,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:47:35.452258+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-13T00:22:57.994678+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20746,6 +20761,11 @@
   "skillre-com|frontend|l1": {
    "expires": "2026-11-21T18:12:56.350689+00:00",
    "looked_up": "2026-11-13T19:01:21+00:00",
+   "status": "not_found"
+  },
+  "skoollagejobs|fullstack|l1": {
+   "expires": "2026-12-02T17:21:50.790004+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "status": "not_found"
   },
   "skyetrip|frontend|l1": {
@@ -21306,6 +21326,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "spikewell|data|l1": {
+   "expires": "2026-11-24T01:51:00.069495+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
+   "status": "not_found"
   },
   "square-bpo-services-pvt-ltd|devops|l1": {
    "expires": "2026-11-23T11:51:52.712191+00:00",
@@ -23078,8 +23103,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:56:44.515677+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-07T05:36:06.109026+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25633,8 +25658,8 @@
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T20:14:04.290548+00:00",
-   "looked_up": "2026-11-14T04:01:25+00:00",
+   "expires": "2027-02-05T05:47:49.494173+00:00",
+   "looked_up": "2026-11-14T05:01:30+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -26389,8 +26414,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1621,
-  "lookups_today": 5,
+  "lookups_month": 1627,
+  "lookups_today": 11,
   "month": "2026-11"
  }
 }
