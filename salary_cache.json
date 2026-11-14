@@ -1250,6 +1250,26 @@
    "status": "found",
    "year": 2026
   },
+  "alten|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T19:20:21.374156+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alten-salaries/bengaluru-location?page=2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alten-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "alternativepath|fullstack|l1": {
    "expires": "2026-11-16T00:09:45.459473+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
@@ -1880,11 +1900,6 @@
   "applicantz-com|erp|l1": {
    "expires": "2026-11-27T00:43:04.607760+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
-  "applicantz-com|swe|l1": {
-   "expires": "2026-11-14T20:06:51.701463+00:00",
-   "looked_up": "2026-11-03T04:01:24+00:00",
    "status": "not_found"
   },
   "applied-materials-india|erp|l1": {
@@ -5172,8 +5187,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:33:06.323099+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-13T11:51:05.321536+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6435,8 +6450,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T09:56:16.363197+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-08T01:35:03.392367+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6826,8 +6841,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T05:59:59.169885+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-10T11:31:12.280244+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7294,6 +7309,11 @@
     }
    ],
    "status": "found"
+  },
+  "educationzonepvtltd|swe|l1": {
+   "expires": "2026-11-23T00:18:25.219637+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
+   "status": "not_found"
   },
   "edurun-virtuoso-pvt-ltd|data|l1": {
    "expires": "2026-11-25T17:43:54.667562+00:00",
@@ -11384,11 +11404,6 @@
    "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
-  "iff|erp|l1": {
-   "expires": "2026-11-14T20:10:40.762104+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "iff|swe|l1": {
    "expires": "2026-11-15T05:55:31.230069+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -12233,8 +12248,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:28:51.520376+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-16T02:45:16.251223+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13595,8 +13610,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:53:38.588023+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-15T16:09:26.112914+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -19720,11 +19735,6 @@
    "status": "found",
    "year": 2026
   },
-  "sahney-insulations|swe|l1": {
-   "expires": "2026-11-14T20:13:26.756499+00:00",
-   "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
   "salaamtix|frontend|l1": {
    "expires": "2026-11-17T08:31:27.196626+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -21133,11 +21143,6 @@
    "status": "found",
    "year": 2025
   },
-  "socium-teams-done-differently|erp|l1": {
-   "expires": "2026-11-14T20:16:06.300241+00:00",
-   "looked_up": "2026-10-27T15:01:29+00:00",
-   "status": "not_found"
-  },
   "soctronics|devops|l1": {
    "expires": "2026-11-29T08:48:38.942494+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -21439,8 +21444,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T00:10:09.172450+00:00",
-   "looked_up": "2026-11-14T20:01:15+00:00",
+   "expires": "2027-02-10T13:14:51.005414+00:00",
+   "looked_up": "2026-11-14T21:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -26494,8 +26499,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1675,
-  "lookups_today": 59,
+  "lookups_month": 1677,
+  "lookups_today": 61,
   "month": "2026-11"
  }
 }
