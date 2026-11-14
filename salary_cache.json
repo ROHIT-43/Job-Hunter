@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:06:25.984906+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-09T15:10:47.431891+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5162,8 +5162,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T00:50:53.376848+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-11T05:45:04.753632+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6430,8 +6430,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T21:20:01.571748+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-08T00:30:51.927439+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6821,8 +6821,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T00:00:14.833084+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-07T07:30:14.728616+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12223,8 +12223,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T04:20:27.685766+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-13T07:06:24.816223+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -21393,8 +21393,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:49:02.080697+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
+   "expires": "2027-02-17T22:45:44.143807+00:00",
+   "looked_up": "2026-11-14T17:08:42+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
