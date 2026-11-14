@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T21:44:21.808476+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-17T20:45:47.011269+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5162,8 +5162,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T05:44:41.279498+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-17T02:54:57.506255+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6430,8 +6430,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T06:55:20.408342+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-09T00:52:29.394614+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6821,8 +6821,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T14:35:34.338399+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-06T04:11:18.959707+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -11915,11 +11915,6 @@
    "status": "found",
    "year": 2025
   },
-  "infovision|fullstack|l1": {
-   "expires": "2026-11-14T15:21:06.225093+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "infovision|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12248,8 +12243,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T03:36:27.022973+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-15T04:59:54.095611+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14913,11 +14908,6 @@
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
-  "meril|mobile|l1": {
-   "expires": "2026-11-14T15:48:12.869371+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "meril|swe|l1": {
    "expires": "2026-11-16T01:20:41.154759+00:00",
    "looked_up": "2026-10-28T13:01:36+00:00",
@@ -17047,11 +17037,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "oremda-infotech|erp|l1": {
-   "expires": "2026-11-14T15:27:29.214488+00:00",
-   "looked_up": "2026-11-06T03:01:27+00:00",
-   "status": "not_found"
   },
   "orestes-technologies|swe|l1": {
    "expires": "2026-11-22T22:55:08.345791+00:00",
@@ -21428,8 +21413,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T16:43:19.464785+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-13T20:05:19.761884+00:00",
+   "looked_up": "2026-11-14T16:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21689,11 +21674,6 @@
   "superfan-ng|swe|l1": {
    "expires": "2026-11-15T02:31:57.285033+00:00",
    "looked_up": "2026-10-25T14:01:30+00:00",
-   "status": "not_found"
-  },
-  "supersquareai|fullstack|l1": {
-   "expires": "2026-11-14T15:20:44.689895+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "supersquareai|swe|l1": {
