@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T23:23:16.672904+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-12T05:56:44.882508+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -5162,8 +5162,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T14:50:04.325707+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-14T16:42:05.186795+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6430,8 +6430,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T12:49:50.053873+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-15T07:14:26.635356+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6821,8 +6821,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:29:46.366489+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-10T22:51:30.131326+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7185,11 +7185,6 @@
   "ebay|devops|l1": {
    "expires": "2026-11-15T16:08:36.789805+00:00",
    "looked_up": "2026-10-31T10:01:27+00:00",
-   "status": "not_found"
-  },
-  "ebitaus|swe|l1": {
-   "expires": "2026-11-14T13:13:08.240345+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
   "echnotek|swe|l1": {
@@ -8067,6 +8062,11 @@
   "excacademy|erp|l1": {
    "expires": "2026-11-28T05:30:19.246907+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
+   "status": "not_found"
+  },
+  "excelya|swe|l1": {
+   "expires": "2026-11-23T17:42:07.511277+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "status": "not_found"
   },
   "exl-service|data|l1": {
@@ -12248,8 +12248,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:05:10.408670+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-17T17:21:41.355837+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14335,8 +14335,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T13:45:49.857584+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-13T23:33:33.336939+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16603,11 +16603,6 @@
    "status": "found",
    "year": 2024
   },
-  "oculusit|security|l1": {
-   "expires": "2026-11-14T13:51:42.016804+00:00",
-   "looked_up": "2026-10-30T22:01:28+00:00",
-   "status": "not_found"
-  },
   "odox-softhub|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18451,6 +18446,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qapsoftwaresolutions|swe|l1": {
+   "expires": "2026-11-21T22:04:36.911015+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
+   "status": "not_found"
   },
   "qbyss|frontend|l1": {
    "expires": "2026-11-15T03:04:21.966123+00:00",
@@ -21453,8 +21453,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:44:39.623352+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-09T10:40:01.017984+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -22742,6 +22742,11 @@
    "looked_up": "2026-11-13T04:01:20+00:00",
    "status": "not_found"
   },
+  "tejent-solutions-llp|erp|l1": {
+   "expires": "2026-11-30T16:02:48.185454+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
+   "status": "not_found"
+  },
   "tekgenio|swe|l1": {
    "expires": "2026-11-20T23:38:28.524500+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -23202,8 +23207,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T06:31:27.181551+00:00",
-   "looked_up": "2026-11-14T13:01:16+00:00",
+   "expires": "2027-02-09T07:16:37.101357+00:00",
+   "looked_up": "2026-11-14T14:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23838,19 +23843,9 @@
    "status": "found",
    "year": 2025
   },
-  "triton-infotech-fzc|swe|l1": {
-   "expires": "2026-11-14T13:22:35.642605+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
   "trucktec|swe|l1": {
    "expires": "2026-11-16T03:11:37.816120+00:00",
    "looked_up": "2026-10-26T16:01:28+00:00",
-   "status": "not_found"
-  },
-  "trustgrid™|swe|l1": {
-   "expires": "2026-11-14T13:24:54.225708+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
   "truveta|swe|l1": {
@@ -26513,8 +26508,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1662,
-  "lookups_today": 46,
+  "lookups_month": 1665,
+  "lookups_today": 49,
   "month": "2026-11"
  }
 }
