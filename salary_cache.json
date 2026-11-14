@@ -224,8 +224,8 @@
   "abc-fitness|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:12:01.880229+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-11T23:23:16.672904+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -708,6 +708,11 @@
   "aeonmed-health-hospitals|swe|l1": {
    "expires": "2026-11-16T07:58:20.006384+00:00",
    "looked_up": "2026-11-06T08:01:19+00:00",
+   "status": "not_found"
+  },
+  "aero360-dronix|swe|l1": {
+   "expires": "2026-12-02T04:34:18.194655+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "status": "not_found"
   },
   "aervon|swe|l1": {
@@ -5157,8 +5162,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T00:28:45.369070+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-14T14:50:04.325707+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6422,6 +6427,20 @@
    "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
+  "dataworkstirunelveli|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-19T12:49:50.053873+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "datumtg|swe|l1": {
    "expires": "2026-11-30T19:26:22.597084+00:00",
    "looked_up": "2026-11-10T16:01:23+00:00",
@@ -6802,8 +6821,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:00:45.432368+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-09T02:29:46.366489+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12229,8 +12248,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:22:13.455133+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-10T17:05:10.408670+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -14316,8 +14335,8 @@
   "manning-global-gmbh|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:44:46.519388+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-12T13:45:49.857584+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 30.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14635,6 +14654,11 @@
   "matrix-medicals-pvt-ltd---india|frontend|l1": {
    "expires": "2026-11-15T22:20:29.151902+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
+   "status": "not_found"
+  },
+  "matrixcare|swe|l1": {
+   "expires": "2026-11-25T10:14:51.331660+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "status": "not_found"
   },
   "mavenberg-innovations-india-private-limited|swe|l1": {
@@ -17895,6 +17919,11 @@
    "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
+  "prem-software|fullstack|l1": {
+   "expires": "2026-12-04T23:08:10.842819+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
+   "status": "not_found"
+  },
   "pri-india-it-services-private-limited|devops|l2": {
    "expires": "2026-11-26T23:01:50.636556+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -18306,6 +18335,22 @@
     {
      "title": "levels.fyi",
      "uri": "https://www.levels.fyi/companies/pwc/salaries/software-engineer/levels/l1/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "pwc-india|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T07:40:35.187923+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
+   "max_lpa": 10.2,
+   "min_lpa": 10.2,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/pwc/salaries/software-engineer/title/data-engineer"
     }
    ],
    "status": "found",
@@ -21408,8 +21453,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T13:00:19.788766+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-15T14:44:39.623352+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -23157,8 +23202,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T08:09:53.624481+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
+   "expires": "2027-02-14T06:31:27.181551+00:00",
+   "looked_up": "2026-11-14T13:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23710,11 +23755,6 @@
   "trexquant-investment-lp|swe|l1": {
    "expires": "2026-11-26T23:41:44.919028+00:00",
    "looked_up": "2026-11-13T15:01:23+00:00",
-   "status": "not_found"
-  },
-  "trialx|devops|l1": {
-   "expires": "2026-11-14T12:50:21.799397+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
   "trigent-professional-services|devops|l1": {
@@ -26473,8 +26513,8 @@
  },
  "meta": {
   "day": "2026-11-14",
-  "lookups_month": 1658,
-  "lookups_today": 42,
+  "lookups_month": 1662,
+  "lookups_today": 46,
   "month": "2026-11"
  }
 }
