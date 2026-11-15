@@ -5147,8 +5147,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T22:51:26.547815+00:00",
-   "looked_up": "2026-11-15T06:01:17+00:00",
+   "expires": "2027-02-09T11:38:49.445702+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6400,8 +6400,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T09:59:45.427883+00:00",
-   "looked_up": "2026-11-15T06:01:17+00:00",
+   "expires": "2027-02-17T16:57:47.557708+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6812,8 +6812,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:06:52.131278+00:00",
-   "looked_up": "2026-11-15T06:01:17+00:00",
+   "expires": "2027-02-08T21:50:25.530442+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -8698,11 +8698,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "five9|swe|l2": {
-   "expires": "2026-11-15T06:09:40.442798+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
-   "status": "not_found"
   },
   "fivetran|swe|l2": {
    "basis": "base",
@@ -13566,8 +13561,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T04:54:41.752946+00:00",
-   "looked_up": "2026-11-15T06:01:17+00:00",
+   "expires": "2027-02-07T03:04:44.873760+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14831,6 +14826,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "meet-archer|data|l2": {
+   "expires": "2026-11-24T22:16:28.679068+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
+   "status": "not_found"
   },
   "meet-archer|frontend|l2": {
    "expires": "2026-11-18T06:46:50.321197+00:00",
@@ -17670,11 +17670,6 @@
    "status": "found",
    "year": null
   },
-  "platinum-software-cbe|swe|l1": {
-   "expires": "2026-11-15T06:56:07.676428+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
   "playlisttechnologies|swe|l1": {
    "expires": "2026-11-18T00:32:20.672121+00:00",
    "looked_up": "2026-10-31T07:01:28+00:00",
@@ -18845,11 +18840,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "rbp-digital-360|swe|l1": {
-   "expires": "2026-11-15T06:25:27.166721+00:00",
-   "looked_up": "2026-11-06T02:01:19+00:00",
-   "status": "not_found"
   },
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-11-28T18:03:18.584955+00:00",
@@ -20224,11 +20214,6 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
-  "sel|swe|l1": {
-   "expires": "2026-11-15T06:53:12.287265+00:00",
-   "looked_up": "2026-10-26T06:17:27+00:00",
-   "status": "not_found"
-  },
   "servcrust|mobile|l1": {
    "expires": "2026-11-23T09:37:03.808430+00:00",
    "looked_up": "2026-11-02T10:01:26+00:00",
@@ -21330,8 +21315,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T11:46:02.205449+00:00",
-   "looked_up": "2026-11-15T06:01:17+00:00",
+   "expires": "2027-02-09T03:19:31.932744+00:00",
+   "looked_up": "2026-11-15T07:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -26360,8 +26345,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1689,
-  "lookups_today": 12,
+  "lookups_month": 1690,
+  "lookups_today": 13,
   "month": "2026-11"
  }
 }
