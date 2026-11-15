@@ -4735,11 +4735,6 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
-  "charles-&amp;-keith-singapore-pte-ltd|erp|l1": {
-   "expires": "2026-11-15T16:21:42.742434+00:00",
-   "looked_up": "2026-11-07T08:01:19+00:00",
-   "status": "not_found"
-  },
   "chevron|data|l1": {
    "expires": "2026-11-22T12:24:50.718783+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -7159,11 +7154,6 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
-  "ebay|devops|l1": {
-   "expires": "2026-11-15T16:08:36.789805+00:00",
-   "looked_up": "2026-10-31T10:01:27+00:00",
-   "status": "not_found"
-  },
   "echnotek|swe|l1": {
    "expires": "2026-12-04T09:35:59.007894+00:00",
    "looked_up": "2026-11-13T16:01:23+00:00",
@@ -7522,6 +7512,11 @@
     }
    ],
    "status": "found"
+  },
+  "engradar|fullstack|l1": {
+   "expires": "2026-12-04T08:10:45.385751+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
+   "status": "not_found"
   },
   "engradar|swe|l1": {
    "expires": "2026-11-20T19:26:49.113661+00:00",
@@ -7968,6 +7963,11 @@
    "looked_up": "2026-11-01T18:01:31+00:00",
    "status": "not_found"
   },
+  "evearis|swe|l1": {
+   "expires": "2026-12-04T02:58:47.185216+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
+   "status": "not_found"
+  },
   "eventsalta|fullstack|l1": {
    "expires": "2026-11-18T00:14:20.542371+00:00",
    "looked_up": "2026-10-30T10:01:28+00:00",
@@ -8263,11 +8263,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "f5|swe|l3": {
-   "expires": "2026-11-15T16:48:17.414859+00:00",
-   "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
   },
   "fabconnect-hr|data|l1": {
    "basis": "posted",
@@ -9627,6 +9622,11 @@
   "goaudits|data|l1": {
    "expires": "2026-11-20T22:00:20.309876+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
+   "status": "not_found"
+  },
+  "gocharting|swe|l1": {
+   "expires": "2026-11-27T17:23:18.538863+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
    "status": "not_found"
   },
   "gogreyorange|swe|l3": {
@@ -12499,8 +12499,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:00:38.040216+00:00",
-   "looked_up": "2026-11-15T16:01:19+00:00",
+   "expires": "2027-02-17T21:50:08.908799+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13546,8 +13546,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T17:17:13.575047+00:00",
-   "looked_up": "2026-11-15T16:01:19+00:00",
+   "expires": "2027-02-13T07:10:21.643877+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16333,11 +16333,6 @@
    "status": "found",
    "year": 2026
   },
-  "nura-electric-mobility|swe|l2": {
-   "expires": "2026-11-15T16:50:19.030561+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
-   "status": "not_found"
-  },
   "nutanix|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -17927,8 +17922,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T11:35:45.607092+00:00",
-   "looked_up": "2026-11-15T16:01:19+00:00",
+   "expires": "2027-02-17T22:14:59.988123+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20270,8 +20265,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:14:31.254165+00:00",
-   "looked_up": "2026-11-15T16:01:19+00:00",
+   "expires": "2027-02-06T17:54:24.892014+00:00",
+   "looked_up": "2026-11-15T17:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20828,11 +20823,6 @@
   "smith-nephew|swe|l2": {
    "expires": "2026-11-19T19:09:27.253899+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
-   "status": "not_found"
-  },
-  "smithprofsllp|erp|l1": {
-   "expires": "2026-11-15T16:14:42.472821+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
   "smiths-detection|swe|l1": {
@@ -26299,8 +26289,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1707,
-  "lookups_today": 30,
+  "lookups_month": 1710,
+  "lookups_today": 33,
   "month": "2026-11"
  }
 }
