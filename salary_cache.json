@@ -5167,8 +5167,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:46:19.769324+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-11T07:49:24.384654+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6435,8 +6435,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T06:40:05.670575+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-07T17:11:34.415939+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6831,8 +6831,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:20:44.721314+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-10T01:31:58.232646+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12228,8 +12228,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:35:55.974337+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-16T09:18:55.701865+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13585,8 +13585,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T12:05:38.843194+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-08T14:48:30.228903+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15942,6 +15942,11 @@
   "neurealm|swe|l1": {
    "expires": "2026-11-18T19:01:10.767182+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "neurodrift|swe|l1": {
+   "expires": "2026-11-30T22:43:16.760929+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "status": "not_found"
   },
   "new-relic-inc-|swe|l1": {
@@ -21369,8 +21374,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T22:21:04.479103+00:00",
-   "looked_up": "2026-11-15T01:55:18+00:00",
+   "expires": "2027-02-08T17:11:54.428718+00:00",
+   "looked_up": "2026-11-15T02:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -26419,8 +26424,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1680,
-  "lookups_today": 3,
+  "lookups_month": 1681,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
