@@ -769,11 +769,6 @@
    "looked_up": "2026-11-14T00:01:25+00:00",
    "status": "not_found"
   },
-  "ai-vidya|swe|l1": {
-   "expires": "2026-11-15T03:55:42.698056+00:00",
-   "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
-  },
   "aihealthops|swe|l1": {
    "expires": "2026-11-30T10:16:18.381884+00:00",
    "looked_up": "2026-11-13T03:01:20+00:00",
@@ -5152,8 +5147,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T10:52:12.922988+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-14T08:18:55.947488+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6415,8 +6410,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:48:19.152511+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-08T19:32:24.981549+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6827,8 +6822,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T12:08:07.326718+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-17T06:30:39.450778+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12214,8 +12209,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:23:43.061891+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-18T06:44:53.544417+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -12645,8 +12640,8 @@
    "status": "not_found"
   },
   "joblet-ai|fullstack|l1": {
-   "expires": "2026-11-15T03:41:03.027503+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
+   "expires": "2026-12-05T23:03:35.316853+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "status": "not_found"
   },
   "joblet-ai|security|l1": {
@@ -12844,11 +12839,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "jr-automation|swe|l1": {
-   "expires": "2026-11-15T03:30:35.268232+00:00",
-   "looked_up": "2026-10-29T16:01:30+00:00",
-   "status": "not_found"
   },
   "jumbooconsulting|fullstack|l1": {
    "basis": "posted",
@@ -13571,8 +13561,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:20:51.581714+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-10T17:27:15.653957+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14624,11 +14614,6 @@
   "matrixcare|swe|l1": {
    "expires": "2026-11-25T10:14:51.331660+00:00",
    "looked_up": "2026-11-14T13:01:16+00:00",
-   "status": "not_found"
-  },
-  "mavenberg-innovations-india-private-limited|swe|l1": {
-   "expires": "2026-11-15T03:48:53.103039+00:00",
-   "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
   },
   "mavenir|swe|l1": {
@@ -17947,11 +17932,6 @@
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
-  "progenesis-ivf|swe|l1": {
-   "expires": "2026-11-15T03:03:56.498415+00:00",
-   "looked_up": "2026-11-04T07:01:28+00:00",
-   "status": "not_found"
-  },
   "programmers-io|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18391,11 +18371,6 @@
   "qapsoftwaresolutions|swe|l1": {
    "expires": "2026-11-21T22:04:36.911015+00:00",
    "looked_up": "2026-11-14T14:01:19+00:00",
-   "status": "not_found"
-  },
-  "qbyss|frontend|l1": {
-   "expires": "2026-11-15T03:04:21.966123+00:00",
-   "looked_up": "2026-10-25T12:01:27+00:00",
    "status": "not_found"
   },
   "qisacademy|swe|l1": {
@@ -21350,8 +21325,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:56:36.685130+00:00",
-   "looked_up": "2026-11-15T03:01:25+00:00",
+   "expires": "2027-02-14T01:21:11.393555+00:00",
+   "looked_up": "2026-11-15T04:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21955,11 +21930,6 @@
   "talentgigs|swe|l1": {
    "expires": "2026-11-19T23:36:12.101546+00:00",
    "looked_up": "2026-11-11T18:01:20+00:00",
-   "status": "not_found"
-  },
-  "talentienglobalsolutions|frontend|l1": {
-   "expires": "2026-11-15T03:41:58.798781+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
    "status": "not_found"
   },
   "talentquell|fullstack|l1": {
@@ -23021,11 +22991,6 @@
     }
    ],
    "status": "found"
-  },
-  "the-hartford-india|devops|l1": {
-   "expires": "2026-11-15T03:51:11.088882+00:00",
-   "looked_up": "2026-10-27T18:01:29+00:00",
-   "status": "not_found"
   },
   "the-hartford-india|swe|l1": {
    "expires": "2026-12-05T07:37:28.185684+00:00",
@@ -26395,8 +26360,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1684,
-  "lookups_today": 7,
+  "lookups_month": 1685,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
