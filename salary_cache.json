@@ -10660,11 +10660,6 @@
    "looked_up": "2026-10-29T12:01:31+00:00",
    "status": "not_found"
   },
-  "hireflex|erp|l1": {
-   "expires": "2026-11-15T13:19:36.020356+00:00",
-   "looked_up": "2026-10-31T07:01:28+00:00",
-   "status": "not_found"
-  },
   "hirehut1|swe|l1": {
    "expires": "2026-11-21T13:03:00.953365+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
@@ -13557,8 +13552,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T23:43:27.251577+00:00",
-   "looked_up": "2026-11-15T13:01:25+00:00",
+   "expires": "2027-02-12T11:01:47.119199+00:00",
+   "looked_up": "2026-11-15T14:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17943,8 +17938,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T02:51:30.326887+00:00",
-   "looked_up": "2026-11-15T13:01:25+00:00",
+   "expires": "2027-02-19T08:23:34.649076+00:00",
+   "looked_up": "2026-11-15T14:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20286,8 +20281,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:38:22.505045+00:00",
-   "looked_up": "2026-11-15T13:01:25+00:00",
+   "expires": "2027-02-18T16:30:29.453094+00:00",
+   "looked_up": "2026-11-15T14:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20408,11 +20403,6 @@
     }
    ],
    "status": "found"
-  },
-  "showpad|frontend|l1": {
-   "expires": "2026-11-15T13:25:50.685864+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
-   "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-11-25T14:32:45.764721+00:00",
@@ -21571,6 +21561,11 @@
   "superfan-ng|security|l1": {
    "expires": "2026-11-19T23:57:19.649000+00:00",
    "looked_up": "2026-11-11T19:01:21+00:00",
+   "status": "not_found"
+  },
+  "superfan-ng|swe|l1": {
+   "expires": "2026-11-25T20:14:48.386886+00:00",
+   "looked_up": "2026-11-15T14:01:22+00:00",
    "status": "not_found"
   },
   "supersquareai|swe|l1": {
@@ -23562,11 +23557,6 @@
   "travitons-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-16T18:02:34.973023+00:00",
    "looked_up": "2026-10-27T14:01:33+00:00",
-   "status": "not_found"
-  },
-  "trekbikes|swe|l2": {
-   "expires": "2026-11-15T13:46:37.988590+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
    "status": "not_found"
   },
   "trellixsecurity|swe|l1": {
@@ -26330,8 +26320,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1704,
-  "lookups_today": 27,
+  "lookups_month": 1705,
+  "lookups_today": 28,
   "month": "2026-11"
  }
 }
