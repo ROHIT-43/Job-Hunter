@@ -1502,11 +1502,6 @@
    "status": "found",
    "year": 2026
   },
-  "american-express|devops|l1": {
-   "expires": "2026-11-15T02:07:59.694945+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
   "american-express|security|l1": {
    "expires": "2026-11-17T12:32:03.057360+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -2043,11 +2038,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "aptoraims|fullstack|l1": {
-   "expires": "2026-11-15T02:54:14.983318+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
   },
   "aqm-technologies|qa|l1": {
    "basis": "ctc",
@@ -4127,11 +4117,6 @@
    "looked_up": "2026-10-27T13:01:29+00:00",
    "status": "not_found"
   },
-  "capco|fullstack|l1": {
-   "expires": "2026-11-15T02:48:54.457626+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
   "capco|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -5167,8 +5152,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:49:24.384654+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-16T10:52:12.922988+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5768,11 +5753,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "constraal|fullstack|l1": {
-   "expires": "2026-11-15T02:22:24.503359+00:00",
-   "looked_up": "2026-10-30T07:01:31+00:00",
-   "status": "not_found"
   },
   "consultixscorp|swe|l1": {
    "expires": "2026-11-19T22:16:17.363364+00:00",
@@ -6435,8 +6415,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T17:11:34.415939+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-13T15:48:19.152511+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6471,6 +6451,22 @@
     {
      "title": "in.indeed.com",
      "uri": "https://in.indeed.com/cmp/Dazn/salaries?location=IN%2FTS%2FHyderabad"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "dazn|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T23:19:35.638715+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
+   "max_lpa": 13.8,
+   "min_lpa": 13.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/dazn/salaries/software-engineer/locations/greater-hyderabad-area"
     }
    ],
    "status": "found",
@@ -6831,8 +6827,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T01:31:58.232646+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-14T12:08:07.326718+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -8747,11 +8743,6 @@
    "status": "found",
    "year": 2025
   },
-  "fizi-fitness-gym-workouts|fullstack|l1": {
-   "expires": "2026-11-15T02:08:31.276453+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
-   "status": "not_found"
-  },
   "fizix-innovation-labs|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -10121,11 +10112,6 @@
   "h&amp;m|swe|l1": {
    "expires": "2026-11-20T04:40:29.279055+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "h-e-services-india|data|l1": {
-   "expires": "2026-11-15T02:02:51.098292+00:00",
-   "looked_up": "2026-10-29T07:14:15+00:00",
    "status": "not_found"
   },
   "hackerkernel|frontend|l1": {
@@ -12228,8 +12214,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:18:55.701865+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-08T22:23:43.061891+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13585,8 +13571,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T14:48:30.228903+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-16T00:20:51.581714+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15944,6 +15930,11 @@
    "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
+  "neurodrift|fullstack|l1": {
+   "expires": "2026-12-05T13:10:19.927674+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
+   "status": "not_found"
+  },
   "neurodrift|swe|l1": {
    "expires": "2026-11-30T22:43:16.760929+00:00",
    "looked_up": "2026-11-15T02:01:19+00:00",
@@ -17410,14 +17401,14 @@
    "status": "found",
    "year": 2026
   },
-  "pepsico|data|l1": {
-   "expires": "2026-11-15T02:41:34.479742+00:00",
-   "looked_up": "2026-10-28T18:01:29+00:00",
-   "status": "not_found"
-  },
   "perceptyne-robots|swe|l1": {
    "expires": "2026-11-16T09:54:15.418049+00:00",
    "looked_up": "2026-10-28T15:01:35+00:00",
+   "status": "not_found"
+  },
+  "perennation-computer-solutions|swe|l1": {
+   "expires": "2026-12-01T14:32:05.336849+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "status": "not_found"
   },
   "persistent-systems|data|l1": {
@@ -17632,11 +17623,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "photon-interactive|mobile|l1": {
-   "expires": "2026-11-15T02:28:29.278866+00:00",
-   "looked_up": "2026-10-30T07:01:31+00:00",
-   "status": "not_found"
   },
   "phu-my-3-bot-power-company|frontend|l1": {
    "expires": "2026-12-01T16:54:52.741161+00:00",
@@ -20209,11 +20195,6 @@
    "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
-  "securex360|frontend|l1": {
-   "expires": "2026-11-15T02:19:14.960417+00:00",
-   "looked_up": "2026-11-03T20:01:58+00:00",
-   "status": "not_found"
-  },
   "sedin-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21361,11 +21342,6 @@
    "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
-  "ss-c-technologies|swe|l1": {
-   "expires": "2026-11-15T02:46:21.929231+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
-   "status": "not_found"
-  },
   "stackkindia|swe|l1": {
    "expires": "2026-11-21T13:38:30.449998+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -21374,8 +21350,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T17:11:54.428718+00:00",
-   "looked_up": "2026-11-15T02:01:19+00:00",
+   "expires": "2027-02-11T00:56:36.685130+00:00",
+   "looked_up": "2026-11-15T03:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21630,11 +21606,6 @@
   "superfan-ng|security|l1": {
    "expires": "2026-11-19T23:57:19.649000+00:00",
    "looked_up": "2026-11-11T19:01:21+00:00",
-   "status": "not_found"
-  },
-  "superfan-ng|swe|l1": {
-   "expires": "2026-11-15T02:31:57.285033+00:00",
-   "looked_up": "2026-10-25T14:01:30+00:00",
    "status": "not_found"
   },
   "supersquareai|swe|l1": {
@@ -26424,8 +26395,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1681,
-  "lookups_today": 4,
+  "lookups_month": 1684,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
