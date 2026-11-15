@@ -509,11 +509,6 @@
    "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
-  "activefitnessstore|swe|l1": {
-   "expires": "2026-11-15T00:08:38.867630+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1484,11 +1479,6 @@
   "amazure-technologies-pvt-ltd|devops|l1": {
    "expires": "2026-11-16T00:27:35.830390+00:00",
    "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
-  },
-  "amazure-technologies-pvt-ltd|erp|l1": {
-   "expires": "2026-11-15T00:55:13.334301+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
    "status": "not_found"
   },
   "amd-pensando|swe|l1": {
@@ -5177,8 +5167,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T03:33:24.504367+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-08T01:32:34.338854+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5557,6 +5547,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "commonwealthbank|devops|l1": {
+   "expires": "2026-11-29T19:06:04.137627+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
+   "status": "not_found"
   },
   "commure|swe|l1": {
    "expires": "2026-11-16T20:20:25.004352+00:00",
@@ -6440,8 +6435,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T05:03:15.153443+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-08T11:49:03.095275+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6836,8 +6831,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:24:47.849124+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-10T14:35:24.440666+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12238,8 +12233,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T13:27:13.081094+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-15T03:10:51.120432+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13595,8 +13590,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:21:22.743626+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-06T23:17:18.189574+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15498,11 +15493,6 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
-  "msx-international|swe|l1": {
-   "expires": "2026-11-15T00:04:57.636211+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
-   "status": "not_found"
-  },
   "multivac-technology-solutions-india-private-limited|erp|l1": {
    "expires": "2026-11-27T00:26:24.244803+00:00",
    "looked_up": "2026-11-10T15:01:28+00:00",
@@ -16794,11 +16784,6 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
-  "opensystems|swe|l1": {
-   "expires": "2026-11-15T00:32:56.119032+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
-   "status": "not_found"
-  },
   "opentext|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17951,11 +17936,6 @@
     }
    ],
    "status": "found"
-  },
-  "procore-technologies|mobile|l2": {
-   "expires": "2026-11-15T00:51:12.344119+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
-   "status": "not_found"
   },
   "procter-and-gamble|security|l1": {
    "expires": "2026-11-18T09:00:21.984145+00:00",
@@ -20133,11 +20113,6 @@
    "status": "found",
    "year": 2026
   },
-  "scott-sheldon-india-pvt-ltd|erp|l1": {
-   "expires": "2026-11-15T00:16:22.710898+00:00",
-   "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
   "scoutit-in|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21409,8 +21384,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:03:53.523093+00:00",
-   "looked_up": "2026-11-15T00:01:21+00:00",
+   "expires": "2027-02-16T23:59:11.396160+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -25718,6 +25693,11 @@
    ],
    "status": "found"
   },
+  "wsi-alm|fullstack|l1": {
+   "expires": "2026-12-05T19:03:08.475744+00:00",
+   "looked_up": "2026-11-15T01:01:32+00:00",
+   "status": "not_found"
+  },
   "wsp-consultants-india-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26459,8 +26439,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1678,
-  "lookups_today": 1,
+  "lookups_month": 1680,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
