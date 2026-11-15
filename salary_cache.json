@@ -6385,8 +6385,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:16:02.452951+00:00",
-   "looked_up": "2026-11-15T11:01:21+00:00",
+   "expires": "2027-02-12T08:14:28.986581+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6877,6 +6877,22 @@
    "status": "found",
    "year": 2026
   },
+  "digiletechnologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T21:43:53.911743+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/digile-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "digital-creationsjd|swe|l1": {
    "expires": "2026-11-16T11:34:20.309469+00:00",
    "looked_up": "2026-10-28T08:01:28+00:00",
@@ -7359,6 +7375,11 @@
   "elanco|swe|l1": {
    "expires": "2026-11-17T20:11:02.764655+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
+   "status": "not_found"
+  },
+  "electroglobal-electronic-components|swe|l1": {
+   "expires": "2026-11-24T15:44:43.499446+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
    "status": "not_found"
   },
   "element-technologies|erp|l1": {
@@ -11409,11 +11430,6 @@
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
-  "imagineers-group|data|l1": {
-   "expires": "2026-11-15T11:30:13.551139+00:00",
-   "looked_up": "2026-11-07T21:01:17+00:00",
-   "status": "not_found"
-  },
   "imi|swe|l1": {
    "expires": "2026-11-22T17:39:57.079189+00:00",
    "looked_up": "2026-11-11T10:01:29+00:00",
@@ -11860,11 +11876,6 @@
   "infrafino|swe|l1": {
    "expires": "2026-11-21T19:09:07.268013+00:00",
    "looked_up": "2026-11-11T09:01:25+00:00",
-   "status": "not_found"
-  },
-  "infratech-insights|mobile|l1": {
-   "expires": "2026-11-15T11:04:01.689954+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "infrys|fullstack|l1": {
@@ -13521,8 +13532,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:59:01.059682+00:00",
-   "looked_up": "2026-11-15T11:01:21+00:00",
+   "expires": "2027-02-07T15:36:06.901464+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14154,11 +14165,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "magnet-tech-digital|mobile|l1": {
-   "expires": "2026-11-15T11:33:56.312385+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
   },
   "magnite|security|l1": {
    "expires": "2026-11-18T12:10:20.628312+00:00",
@@ -17909,16 +17915,11 @@
    "status": "found",
    "year": 2026
   },
-  "project-solthr|swe|l1": {
-   "expires": "2026-11-15T11:48:40.837892+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T20:46:58.496265+00:00",
-   "looked_up": "2026-11-15T11:01:21+00:00",
+   "expires": "2027-02-10T02:38:52.854302+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18370,6 +18371,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "qualcomm|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-13T07:43:11.949288+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
+   "max_lpa": 15.4,
+   "min_lpa": 15.4,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/qualcomm/salaries/software-engineer/locations/greater-bengaluru"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/qualcomm-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "qualcomm|mobile|l1": {
    "basis": "base",
@@ -20240,8 +20261,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T14:34:34.776322+00:00",
-   "looked_up": "2026-11-15T11:01:21+00:00",
+   "expires": "2027-02-11T03:41:43.204415+00:00",
+   "looked_up": "2026-11-15T12:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21967,11 +21988,6 @@
   "tark-innovation-private-limited|devops|l1": {
    "expires": "2026-11-15T17:44:28.403353+00:00",
    "looked_up": "2026-10-31T18:01:24+00:00",
-   "status": "not_found"
-  },
-  "tasi-india|swe|l1": {
-   "expires": "2026-11-15T11:29:14.916601+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "tata-communication|swe|l1": {
@@ -25366,11 +25382,6 @@
    "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
-  "win-quoter|frontend|l1": {
-   "expires": "2026-11-15T11:56:57.575530+00:00",
-   "looked_up": "2026-10-26T10:01:29+00:00",
-   "status": "not_found"
-  },
   "wipro|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26294,8 +26305,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1697,
-  "lookups_today": 20,
+  "lookups_month": 1700,
+  "lookups_today": 23,
   "month": "2026-11"
  }
 }
