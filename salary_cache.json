@@ -6785,11 +6785,6 @@
    "status": "found",
    "year": 2025
   },
-  "diagrid-inc|fullstack|l1": {
-   "expires": "2026-11-15T18:08:45.518617+00:00",
-   "looked_up": "2026-10-30T06:01:28+00:00",
-   "status": "not_found"
-  },
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -7701,11 +7696,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "equifax|swe|l1": {
-   "expires": "2026-11-15T18:19:22.883705+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
-   "status": "not_found"
   },
   "equifax|swe|l2": {
    "expires": "2026-11-25T08:18:53.343291+00:00",
@@ -11984,11 +11974,6 @@
    "status": "found",
    "year": 2026
   },
-  "innovaesi|erp|l1": {
-   "expires": "2026-11-15T18:33:47.889493+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
-   "status": "not_found"
-  },
   "innovaesi|swe|l1": {
    "expires": "2026-11-23T17:20:50.573364+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -12510,8 +12495,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T16:52:01.465536+00:00",
-   "looked_up": "2026-11-15T18:01:34+00:00",
+   "expires": "2027-02-11T16:51:02.044678+00:00",
+   "looked_up": "2026-11-15T19:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13557,8 +13542,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:47:19.593137+00:00",
-   "looked_up": "2026-11-15T18:01:34+00:00",
+   "expires": "2027-02-11T15:18:54.336340+00:00",
+   "looked_up": "2026-11-15T19:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17944,8 +17929,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:18:36.059193+00:00",
-   "looked_up": "2026-11-15T18:01:34+00:00",
+   "expires": "2027-02-20T09:01:59.516825+00:00",
+   "looked_up": "2026-11-15T19:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20292,8 +20277,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:09:03.457387+00:00",
-   "looked_up": "2026-11-15T18:01:34+00:00",
+   "expires": "2027-02-16T23:32:33.405628+00:00",
+   "looked_up": "2026-11-15T19:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24527,11 +24512,6 @@
   "viasat|devops|l1": {
    "expires": "2026-11-21T03:46:42.264210+00:00",
    "looked_up": "2026-11-13T00:01:28+00:00",
-   "status": "not_found"
-  },
-  "vicharak-in|swe|l1": {
-   "expires": "2026-11-15T18:01:41.158318+00:00",
-   "looked_up": "2026-11-03T12:01:28+00:00",
    "status": "not_found"
   },
   "vidhyutron-technology-private-limited|swe|l1": {
