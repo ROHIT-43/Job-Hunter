@@ -4387,6 +4387,11 @@
    ],
    "status": "found"
   },
+  "cascovia|swe|l1": {
+   "expires": "2026-11-28T09:44:36.272653+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
+   "status": "not_found"
+  },
   "cashfree|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6375,8 +6380,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T17:19:13.944693+00:00",
-   "looked_up": "2026-11-15T09:25:23+00:00",
+   "expires": "2027-02-10T11:02:49.008999+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -7344,11 +7349,6 @@
   "elanco|data|l1": {
    "expires": "2026-11-25T15:51:36.937763+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "elanco|erp|l1": {
-   "expires": "2026-11-15T10:00:37.864309+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
   "elanco|swe|l1": {
@@ -13521,8 +13521,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:14:32.317530+00:00",
-   "looked_up": "2026-11-15T09:25:23+00:00",
+   "expires": "2027-02-17T08:17:14.234534+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17922,8 +17922,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:25:57.580492+00:00",
-   "looked_up": "2026-11-15T09:25:23+00:00",
+   "expires": "2027-02-11T00:41:46.941317+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20245,8 +20245,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T05:49:59.753692+00:00",
-   "looked_up": "2026-11-15T09:25:23+00:00",
+   "expires": "2027-02-12T02:57:22.236131+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -22481,6 +22481,11 @@
   "technoiogy-ia|swe|l1": {
    "expires": "2026-11-18T15:18:08.344157+00:00",
    "looked_up": "2026-10-28T17:01:38+00:00",
+   "status": "not_found"
+  },
+  "technology-innovation-hub-mkce|fullstack|l1": {
+   "expires": "2026-11-22T13:48:29.591390+00:00",
+   "looked_up": "2026-11-15T10:01:18+00:00",
    "status": "not_found"
   },
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
@@ -26294,8 +26299,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1693,
-  "lookups_today": 16,
+  "lookups_month": 1695,
+  "lookups_today": 18,
   "month": "2026-11"
  }
 }
