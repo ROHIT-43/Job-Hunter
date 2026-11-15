@@ -166,6 +166,11 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "aakritimfg|swe|l1": {
+   "expires": "2026-12-01T04:15:56.337619+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
+   "status": "not_found"
+  },
   "aartek-software-solutons-pvt-ltd-|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3291,6 +3296,22 @@
    "looked_up": "2026-11-13T22:01:23+00:00",
    "status": "not_found"
   },
+  "blackrock|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T19:34:55.283272+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
+   "max_lpa": 5.2,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/blackrock-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "blackrock|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6003,11 +6024,6 @@
   "curemeabroad|fullstack|l1": {
    "expires": "2026-11-17T20:59:50.226776+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "curviaai|swe|l1": {
-   "expires": "2026-11-15T17:15:26.708573+00:00",
-   "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
   "customertimes|erp|l1": {
@@ -12494,8 +12510,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:42:59.300733+00:00",
-   "looked_up": "2026-11-15T17:10:31+00:00",
+   "expires": "2027-02-20T16:52:01.465536+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13541,8 +13557,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T16:14:14.625574+00:00",
-   "looked_up": "2026-11-15T17:10:31+00:00",
+   "expires": "2027-02-13T03:47:19.593137+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -13948,6 +13964,22 @@
    "looked_up": "2026-11-03T19:01:57+00:00",
    "status": "not_found"
   },
+  "lrn|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T10:52:02.648568+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/lrn-corporation-salaries"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "ltm-larsenandtoubrocompany|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13967,11 +13999,6 @@
   "lucey-group-limited|swe|l1": {
    "expires": "2026-11-17T02:11:37.739555+00:00",
    "looked_up": "2026-11-06T17:01:20+00:00",
-   "status": "not_found"
-  },
-  "lumentechnologies|swe|l2": {
-   "expires": "2026-11-15T17:15:30.327994+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
   "lumibyte-ai|fullstack|l1": {
@@ -17917,8 +17944,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T19:17:59.967606+00:00",
-   "looked_up": "2026-11-15T17:10:31+00:00",
+   "expires": "2027-02-17T11:18:36.059193+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19240,11 +19267,6 @@
    "looked_up": "2026-11-13T18:01:21+00:00",
    "status": "not_found"
   },
-  "roche|erp|l1": {
-   "expires": "2026-11-15T17:56:06.017590+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "roche|fullstack|l1": {
    "expires": "2026-11-23T04:44:36.311910+00:00",
    "looked_up": "2026-11-11T18:01:20+00:00",
@@ -20159,6 +20181,16 @@
    "status": "found",
    "year": null
   },
+  "seeclearstudio|frontend|l1": {
+   "expires": "2026-12-02T15:40:39.821894+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
+   "status": "not_found"
+  },
+  "seeclearstudio|swe|l1": {
+   "expires": "2026-12-02T03:53:48.660258+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
+   "status": "not_found"
+  },
   "segula-technologies|erp|l1": {
    "expires": "2026-11-23T16:10:30.233068+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
@@ -20260,8 +20292,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T20:14:53.285578+00:00",
-   "looked_up": "2026-11-15T17:10:31+00:00",
+   "expires": "2027-02-11T20:09:03.457387+00:00",
+   "looked_up": "2026-11-15T18:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21973,11 +22005,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "tark-innovation-private-limited|devops|l1": {
-   "expires": "2026-11-15T17:44:28.403353+00:00",
-   "looked_up": "2026-10-31T18:01:24+00:00",
-   "status": "not_found"
   },
   "tata-communication|swe|l1": {
    "basis": "base",
@@ -24692,11 +24719,6 @@
    "status": "found",
    "year": 2026
   },
-  "vmc-soft-technologies-inc|devops|l1": {
-   "expires": "2026-11-15T17:18:25.413926+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
   "vml|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26284,8 +26306,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1710,
-  "lookups_today": 33,
+  "lookups_month": 1715,
+  "lookups_today": 38,
   "month": "2026-11"
  }
 }
