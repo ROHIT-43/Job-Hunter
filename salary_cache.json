@@ -2458,11 +2458,6 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
-  "atlas-copco|security|l1": {
-   "expires": "2026-11-15T09:10:11.567249+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
-   "status": "not_found"
-  },
   "atlassian|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -4278,11 +4273,6 @@
   "careerblocc|frontend|l1": {
    "expires": "2026-11-21T20:01:48.451587+00:00",
    "looked_up": "2026-11-07T07:01:15+00:00",
-   "status": "not_found"
-  },
-  "careerdomain|frontend|l1": {
-   "expires": "2026-11-15T09:15:02.060294+00:00",
-   "looked_up": "2026-11-05T02:01:27+00:00",
    "status": "not_found"
   },
   "careerxperts-consulting|frontend|l1": {
@@ -6385,8 +6375,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:25:18.251137+00:00",
-   "looked_up": "2026-11-15T09:01:17+00:00",
+   "expires": "2027-02-18T17:19:13.944693+00:00",
+   "looked_up": "2026-11-15T09:25:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -7045,11 +7035,6 @@
   "droom-media|fullstack|l1": {
    "expires": "2026-11-23T19:34:38.513584+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
-  "dtcc|data|l1": {
-   "expires": "2026-11-15T09:14:25.874170+00:00",
-   "looked_up": "2026-10-26T11:01:59+00:00",
    "status": "not_found"
   },
   "dunnhumby|data|l1": {
@@ -13536,8 +13521,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T05:01:51.564566+00:00",
-   "looked_up": "2026-11-15T09:01:17+00:00",
+   "expires": "2027-02-12T14:14:32.317530+00:00",
+   "looked_up": "2026-11-15T09:25:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17937,8 +17922,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T17:54:26.012006+00:00",
-   "looked_up": "2026-11-15T09:01:17+00:00",
+   "expires": "2027-02-18T13:25:57.580492+00:00",
+   "looked_up": "2026-11-15T09:25:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20260,8 +20245,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T14:02:29.831905+00:00",
-   "looked_up": "2026-11-15T09:01:17+00:00",
+   "expires": "2027-02-19T05:49:59.753692+00:00",
+   "looked_up": "2026-11-15T09:25:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23755,11 +23740,6 @@
     }
    ],
    "status": "found"
-  },
-  "ubs|data|l1": {
-   "expires": "2026-11-15T09:02:13.089772+00:00",
-   "looked_up": "2026-11-04T13:01:29+00:00",
-   "status": "not_found"
   },
   "ucamind|swe|l1": {
    "expires": "2026-11-19T09:45:36.211532+00:00",
