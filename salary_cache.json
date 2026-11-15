@@ -12490,8 +12490,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T01:35:16.025823+00:00",
-   "looked_up": "2026-11-15T20:01:17+00:00",
+   "expires": "2027-02-11T13:35:06.856855+00:00",
+   "looked_up": "2026-11-15T21:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15441,11 +15441,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "mycareernet|erp|l1": {
-   "expires": "2026-11-15T21:00:38.588606+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "mycareernet|swe|l1": {
    "expires": "2026-11-25T22:58:20.542995+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
@@ -17924,8 +17919,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T08:47:48.174058+00:00",
-   "looked_up": "2026-11-15T20:01:17+00:00",
+   "expires": "2027-02-18T00:20:33.486109+00:00",
+   "looked_up": "2026-11-15T21:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20272,8 +20267,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T12:24:07.150982+00:00",
-   "looked_up": "2026-11-15T20:01:17+00:00",
+   "expires": "2027-02-13T12:22:45.071974+00:00",
+   "looked_up": "2026-11-15T21:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20595,11 +20590,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "signifycompany|erp|l1": {
-   "expires": "2026-11-15T20:07:08.395854+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
   },
   "signifycompany|swe|l1": {
    "expires": "2026-11-24T10:53:54.413317+00:00",
