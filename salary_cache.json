@@ -5147,8 +5147,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T11:38:49.445702+00:00",
-   "looked_up": "2026-11-15T07:01:19+00:00",
+   "expires": "2027-02-15T01:34:50.650635+00:00",
+   "looked_up": "2026-11-15T08:01:14+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6400,8 +6400,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T16:57:47.557708+00:00",
-   "looked_up": "2026-11-15T07:01:19+00:00",
+   "expires": "2027-02-14T01:09:22.677985+00:00",
+   "looked_up": "2026-11-15T08:01:14+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6812,8 +6812,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:50:25.530442+00:00",
-   "looked_up": "2026-11-15T07:01:19+00:00",
+   "expires": "2027-02-12T05:31:41.169317+00:00",
+   "looked_up": "2026-11-15T08:01:14+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -11301,11 +11301,6 @@
    "looked_up": "2026-11-02T23:01:34+00:00",
    "status": "not_found"
   },
-  "ideagen|devops|l1": {
-   "expires": "2026-11-15T07:44:19.948098+00:00",
-   "looked_up": "2026-10-30T06:01:28+00:00",
-   "status": "not_found"
-  },
   "idemiagroup|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -13561,8 +13556,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T03:04:44.873760+00:00",
-   "looked_up": "2026-11-15T07:01:19+00:00",
+   "expires": "2027-02-10T23:36:09.088951+00:00",
+   "looked_up": "2026-11-15T08:01:14+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17220,11 +17215,6 @@
   "pattern-hq|swe|l2": {
    "expires": "2026-11-19T16:50:04.710789+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "paxos|data|l1": {
-   "expires": "2026-11-15T07:20:49.363451+00:00",
-   "looked_up": "2026-11-07T14:01:22+00:00",
    "status": "not_found"
   },
   "paydohmoney|mobile|l1": {
@@ -22579,6 +22569,11 @@
    "status": "found",
    "year": 2026
   },
+  "techs-to-suit-inc|swe|l1": {
+   "expires": "2026-11-26T06:17:54.565599+00:00",
+   "looked_up": "2026-11-15T08:01:14+00:00",
+   "status": "not_found"
+  },
   "tecsys-inc|swe|l1": {
    "expires": "2026-11-26T00:16:13.857260+00:00",
    "looked_up": "2026-11-13T04:01:20+00:00",
@@ -24331,11 +24326,6 @@
    "status": "found",
    "year": 2026
   },
-  "value-spectrum-technologies|data|l1": {
-   "expires": "2026-11-15T07:38:29.182661+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "value2biz|devops|l1": {
    "expires": "2026-11-27T03:22:18.715902+00:00",
    "looked_up": "2026-11-11T18:01:20+00:00",
@@ -24788,11 +24778,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "vois|devops|l1": {
-   "expires": "2026-11-15T07:02:53.120321+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
-   "status": "not_found"
   },
   "vois|swe|l1": {
    "basis": "base",
@@ -26345,8 +26330,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1690,
-  "lookups_today": 13,
+  "lookups_month": 1691,
+  "lookups_today": 14,
   "month": "2026-11"
  }
 }
