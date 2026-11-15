@@ -2244,11 +2244,6 @@
    "status": "found",
    "year": 2026
   },
-  "aruyatech|mobile|l1": {
-   "expires": "2026-11-15T15:16:30.811178+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
-   "status": "not_found"
-  },
   "arvmultimedia|swe|l1": {
    "expires": "2026-11-24T17:43:10.193475+00:00",
    "looked_up": "2026-11-07T19:01:18+00:00",
@@ -5113,11 +5108,6 @@
    "looked_up": "2026-11-14T07:01:19+00:00",
    "status": "not_found"
   },
-  "codemancers|devops|l1": {
-   "expires": "2026-11-15T15:51:28.752837+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
-   "status": "not_found"
-  },
   "codemarinetech|swe|l1": {
    "expires": "2026-11-23T10:49:08.172462+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
@@ -5578,6 +5568,11 @@
    "status": "found",
    "year": 2026
   },
+  "complest|fullstack|l1": {
+   "expires": "2026-11-29T07:18:12.772105+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
+   "status": "not_found"
+  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5783,11 +5778,6 @@
   "coram-ai|swe|l1": {
    "expires": "2026-11-22T23:45:18.081661+00:00",
    "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "coreel-technologies|swe|l1": {
-   "expires": "2026-11-15T15:21:09.173374+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
   "corereflexs|swe|l1": {
@@ -12509,8 +12499,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T16:51:54.320159+00:00",
-   "looked_up": "2026-11-15T15:01:19+00:00",
+   "expires": "2027-02-17T01:00:38.040216+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13556,8 +13546,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:16:21.552213+00:00",
-   "looked_up": "2026-11-15T15:01:19+00:00",
+   "expires": "2027-02-12T17:17:13.575047+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16389,11 +16379,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "nuvo-aeon-diamond-jewellery-pvt-ltd|swe|l1": {
-   "expires": "2026-11-15T15:56:49.095027+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "nvent|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17942,8 +17927,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T19:13:09.643864+00:00",
-   "looked_up": "2026-11-15T15:01:19+00:00",
+   "expires": "2027-02-19T11:35:45.607092+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20285,8 +20270,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T17:04:48.505192+00:00",
-   "looked_up": "2026-11-15T15:01:19+00:00",
+   "expires": "2027-02-12T18:14:31.254165+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23918,11 +23903,6 @@
    "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
-  "unvii-ltd|swe|l1": {
-   "expires": "2026-11-15T15:51:55.821048+00:00",
-   "looked_up": "2026-10-27T08:01:26+00:00",
-   "status": "not_found"
-  },
   "updot|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -24037,6 +24017,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "urva-ai|swe|l1": {
+   "expires": "2026-11-30T12:36:11.801461+00:00",
+   "looked_up": "2026-11-15T16:01:19+00:00",
+   "status": "not_found"
   },
   "us-tech-solutions|erp|l1": {
    "expires": "2026-11-22T06:12:09.972503+00:00",
@@ -26314,8 +26299,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1705,
-  "lookups_today": 28,
+  "lookups_month": 1707,
+  "lookups_today": 30,
   "month": "2026-11"
  }
 }
