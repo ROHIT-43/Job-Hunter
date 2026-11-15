@@ -10161,11 +10161,6 @@
    "looked_up": "2026-11-06T20:01:24+00:00",
    "status": "not_found"
   },
-  "hallmark-search-partners|swe|l1": {
-   "expires": "2026-11-15T21:58:01.095155+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
-   "status": "not_found"
-  },
   "hamid-tech-world|frontend|l1": {
    "expires": "2026-11-26T05:38:42.996968+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
@@ -12480,8 +12475,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T23:34:05.993452+00:00",
-   "looked_up": "2026-11-15T21:49:20+00:00",
+   "expires": "2027-02-17T13:44:32.727566+00:00",
+   "looked_up": "2026-11-15T22:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13488,11 +13483,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "lanxess|erp|l1": {
-   "expires": "2026-11-15T22:00:40.418357+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
   },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
@@ -17909,8 +17899,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T23:41:15.735588+00:00",
-   "looked_up": "2026-11-15T21:49:20+00:00",
+   "expires": "2027-02-13T00:51:36.173225+00:00",
+   "looked_up": "2026-11-15T22:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20257,8 +20247,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:09:17.171785+00:00",
-   "looked_up": "2026-11-15T21:49:20+00:00",
+   "expires": "2027-02-15T09:38:44.945192+00:00",
+   "looked_up": "2026-11-15T22:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21197,11 +21187,6 @@
    "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
-  "spear-security|swe|l1": {
-   "expires": "2026-11-15T21:55:43.136056+00:00",
-   "looked_up": "2026-11-06T06:01:16+00:00",
-   "status": "not_found"
-  },
   "spglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21241,6 +21226,16 @@
   "spikewell|data|l1": {
    "expires": "2026-11-24T01:51:00.069495+00:00",
    "looked_up": "2026-11-14T05:01:30+00:00",
+   "status": "not_found"
+  },
+  "sporensprouts|data|l1": {
+   "expires": "2026-12-05T03:21:22.368227+00:00",
+   "looked_up": "2026-11-15T22:01:18+00:00",
+   "status": "not_found"
+  },
+  "sporensprouts|swe|l1": {
+   "expires": "2026-11-27T00:05:48.741874+00:00",
+   "looked_up": "2026-11-15T22:01:18+00:00",
    "status": "not_found"
   },
   "square-bpo-services-pvt-ltd|devops|l1": {
@@ -26241,8 +26236,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1715,
-  "lookups_today": 38,
+  "lookups_month": 1717,
+  "lookups_today": 40,
   "month": "2026-11"
  }
 }
