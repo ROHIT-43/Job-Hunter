@@ -6061,11 +6061,6 @@
    "looked_up": "2026-10-30T12:01:31+00:00",
    "status": "not_found"
   },
-  "cxo-magazine-global|swe|l1": {
-   "expires": "2026-11-15T19:57:15.237628+00:00",
-   "looked_up": "2026-10-26T14:01:31+00:00",
-   "status": "not_found"
-  },
   "cxo-spotlight-us|swe|l1": {
    "expires": "2026-11-17T09:50:42.901238+00:00",
    "looked_up": "2026-10-28T03:01:30+00:00",
@@ -12495,8 +12490,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T16:51:02.044678+00:00",
-   "looked_up": "2026-11-15T19:01:19+00:00",
+   "expires": "2027-02-16T01:35:16.025823+00:00",
+   "looked_up": "2026-11-15T20:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17929,8 +17924,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T09:01:59.516825+00:00",
-   "looked_up": "2026-11-15T19:01:19+00:00",
+   "expires": "2027-02-10T08:47:48.174058+00:00",
+   "looked_up": "2026-11-15T20:01:17+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20277,8 +20272,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:32:33.405628+00:00",
-   "looked_up": "2026-11-15T19:01:19+00:00",
+   "expires": "2027-02-20T12:24:07.150982+00:00",
+   "looked_up": "2026-11-15T20:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21365,11 +21360,6 @@
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-11-26T14:39:16.579429+00:00",
    "looked_up": "2026-11-09T23:01:26+00:00",
-   "status": "not_found"
-  },
-  "stefanini-na-apac|erp|l2": {
-   "expires": "2026-11-15T19:18:32.982688+00:00",
-   "looked_up": "2026-10-26T18:01:27+00:00",
    "status": "not_found"
   },
   "stockbazaarhq|devops|l1": {
@@ -24336,11 +24326,6 @@
   "vanguard-india|swe|l3": {
    "expires": "2026-11-16T08:16:11.154871+00:00",
    "looked_up": "2026-10-30T05:01:26+00:00",
-   "status": "not_found"
-  },
-  "vanguard|swe|l2": {
-   "expires": "2026-11-15T19:11:41.561348+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
    "status": "not_found"
   },
   "varmas-trust|fullstack|l1": {
