@@ -2129,11 +2129,6 @@
    "looked_up": "2026-11-06T13:01:18+00:00",
    "status": "not_found"
   },
-  "argano|data|l1": {
-   "expires": "2026-11-15T17:06:38.345443+00:00",
-   "looked_up": "2026-10-30T18:01:27+00:00",
-   "status": "not_found"
-  },
   "argano|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12499,8 +12494,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T21:50:08.908799+00:00",
-   "looked_up": "2026-11-15T17:01:26+00:00",
+   "expires": "2027-02-09T23:42:59.300733+00:00",
+   "looked_up": "2026-11-15T17:10:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13546,8 +13541,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T07:10:21.643877+00:00",
-   "looked_up": "2026-11-15T17:01:26+00:00",
+   "expires": "2027-02-16T16:14:14.625574+00:00",
+   "looked_up": "2026-11-15T17:10:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17922,8 +17917,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:14:59.988123+00:00",
-   "looked_up": "2026-11-15T17:01:26+00:00",
+   "expires": "2027-02-08T19:17:59.967606+00:00",
+   "looked_up": "2026-11-15T17:10:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20265,8 +20260,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T17:54:24.892014+00:00",
-   "looked_up": "2026-11-15T17:01:26+00:00",
+   "expires": "2027-02-07T20:14:53.285578+00:00",
+   "looked_up": "2026-11-15T17:10:31+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
