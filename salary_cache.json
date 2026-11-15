@@ -2214,11 +2214,6 @@
    "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
-  "arohanatechsolutions|erp|l1": {
-   "expires": "2026-11-15T14:06:07.244504+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "arohanatechsolutions|frontend|l1": {
    "expires": "2026-11-24T02:46:34.083744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -11988,11 +11983,6 @@
    "status": "found",
    "year": 2026
   },
-  "innovaesi|devops|l1": {
-   "expires": "2026-11-15T14:23:53.222002+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "innovaesi|erp|l1": {
    "expires": "2026-11-15T18:33:47.889493+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -12509,6 +12499,20 @@
    "looked_up": "2026-10-26T20:01:24+00:00",
    "max_lpa": 5.4,
    "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "jasviv-technologies|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-19T16:51:54.320159+00:00",
+   "looked_up": "2026-11-15T15:01:19+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 3.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -13552,8 +13556,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:01:47.119199+00:00",
-   "looked_up": "2026-11-15T14:01:22+00:00",
+   "expires": "2027-02-15T22:16:21.552213+00:00",
+   "looked_up": "2026-11-15T15:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17938,8 +17942,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T08:23:34.649076+00:00",
-   "looked_up": "2026-11-15T14:01:22+00:00",
+   "expires": "2027-02-19T19:13:09.643864+00:00",
+   "looked_up": "2026-11-15T15:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20281,8 +20285,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T16:30:29.453094+00:00",
-   "looked_up": "2026-11-15T14:01:22+00:00",
+   "expires": "2027-02-14T17:04:48.505192+00:00",
+   "looked_up": "2026-11-15T15:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -21546,11 +21550,6 @@
   "superfan-ng|devops|l1": {
    "expires": "2026-11-22T04:47:48.488711+00:00",
    "looked_up": "2026-11-05T14:01:26+00:00",
-   "status": "not_found"
-  },
-  "superfan-ng|fullstack|l1": {
-   "expires": "2026-11-15T14:04:27.843847+00:00",
-   "looked_up": "2026-10-25T17:01:23+00:00",
    "status": "not_found"
   },
   "superfan-ng|mobile|l1": {
@@ -26224,11 +26223,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zillout|swe|l1": {
-   "expires": "2026-11-15T14:08:17.328870+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
-   "status": "not_found"
   },
   "zillow|swe|l1": {
    "expires": "2026-11-16T07:14:38.038817+00:00",
