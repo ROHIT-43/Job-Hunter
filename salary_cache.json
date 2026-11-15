@@ -5167,8 +5167,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T01:32:34.338854+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-10T22:46:19.769324+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6435,8 +6435,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T11:49:03.095275+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-17T06:40:05.670575+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6831,8 +6831,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T14:35:24.440666+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-10T22:20:44.721314+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -10673,11 +10673,6 @@
    "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
-  "hitachi-digital-services|swe|l1": {
-   "expires": "2026-11-15T01:39:04.973727+00:00",
-   "looked_up": "2026-10-26T09:01:34+00:00",
-   "status": "not_found"
-  },
   "hitachi-vantara|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -12233,8 +12228,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T03:10:51.120432+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-07T21:35:55.974337+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13590,8 +13585,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T23:17:18.189574+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-07T12:05:38.843194+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16582,11 +16577,6 @@
    "status": "found",
    "year": 2025
   },
-  "oenneo|erp|l1": {
-   "expires": "2026-11-15T01:52:08.698044+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
   "official-quick-bites|swe|l1": {
    "expires": "2026-11-22T21:46:05.716791+00:00",
    "looked_up": "2026-11-05T07:01:17+00:00",
@@ -18888,11 +18878,6 @@
   "rbp-digital-360|swe|l1": {
    "expires": "2026-11-15T06:25:27.166721+00:00",
    "looked_up": "2026-11-06T02:01:19+00:00",
-   "status": "not_found"
-  },
-  "rchilli-inc-|swe|l1": {
-   "expires": "2026-11-15T01:23:05.705618+00:00",
-   "looked_up": "2026-10-26T13:01:30+00:00",
    "status": "not_found"
   },
   "real-jobs-consulting-services2|swe|l1": {
@@ -21384,8 +21369,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:59:11.396160+00:00",
-   "looked_up": "2026-11-15T01:01:32+00:00",
+   "expires": "2027-02-12T22:21:04.479103+00:00",
+   "looked_up": "2026-11-15T01:55:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21964,11 +21949,6 @@
   "talent-matics|fullstack|l1": {
    "expires": "2026-11-28T06:03:36.141058+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "talent-matics|swe|l1": {
-   "expires": "2026-11-15T01:03:53.071775+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
   "talent-ro|swe|l1": {
