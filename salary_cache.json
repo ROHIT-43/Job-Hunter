@@ -5177,8 +5177,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T07:51:38.160291+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-12T03:33:24.504367+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6440,8 +6440,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T06:09:51.818883+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-18T05:03:15.153443+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6757,6 +6757,11 @@
    "status": "found",
    "year": 2026
   },
+  "devops-engineering|devops|l1": {
+   "expires": "2026-11-23T20:12:34.823628+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
+   "status": "not_found"
+  },
   "devrabbit-it-solutions|erp|l1": {
    "expires": "2026-11-20T09:37:34.223078+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -6831,8 +6836,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T16:05:14.477431+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-11T00:24:47.849124+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -12233,8 +12238,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-06T02:25:41.684681+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-07T13:27:13.081094+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13590,8 +13595,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:11:51.098744+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-09T23:21:22.743626+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15962,11 +15967,6 @@
   "nexcope|swe|l1": {
    "expires": "2026-11-22T09:39:50.740890+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
-   "status": "not_found"
-  },
-  "nexer-group|fullstack|l1": {
-   "expires": "2026-11-14T23:55:12.244090+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
   "nexionpro-sevices-llp|security|l1": {
@@ -19066,11 +19066,6 @@
    "status": "found",
    "year": 2026
   },
-  "redholt|devops|l1": {
-   "expires": "2026-11-14T23:31:56.830647+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "reliaquest|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -21414,8 +21409,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T12:44:55.174727+00:00",
-   "looked_up": "2026-11-14T23:01:23+00:00",
+   "expires": "2027-02-15T19:03:53.523093+00:00",
+   "looked_up": "2026-11-15T00:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -21479,11 +21474,6 @@
     }
    ],
    "status": "found"
-  },
-  "stealthaistartup|data|l1": {
-   "expires": "2026-11-14T23:07:20.162714+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
-   "status": "not_found"
   },
   "stefanini-na-apac|erp|l1": {
    "expires": "2026-11-26T14:39:16.579429+00:00",
@@ -26468,9 +26458,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-14",
-  "lookups_month": 1677,
-  "lookups_today": 61,
+  "day": "2026-11-15",
+  "lookups_month": 1678,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
