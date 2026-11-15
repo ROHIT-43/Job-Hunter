@@ -5147,8 +5147,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T08:18:55.947488+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-10T16:39:05.593133+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5965,11 +5965,6 @@
    "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
-  "cruxinternational|swe|l1": {
-   "expires": "2026-11-15T05:00:10.278813+00:00",
-   "looked_up": "2026-11-05T18:01:20+00:00",
-   "status": "not_found"
-  },
   "cscgovae|security|l1": {
    "expires": "2026-11-20T10:01:45.676500+00:00",
    "looked_up": "2026-11-12T04:01:15+00:00",
@@ -6410,8 +6405,8 @@
   "dataworkstirunelveli|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T19:32:24.981549+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-13T21:38:57.090402+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.5,
    "sources": [
@@ -6822,8 +6817,8 @@
   "dialdeskindia|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T06:30:39.450778+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-08T23:44:08.844916+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -8863,6 +8858,26 @@
    "expires": "2026-11-17T16:28:48.867489+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
    "status": "not_found"
+  },
+  "flipkart|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-02-06T16:37:48.025064+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 19.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/flipkart/salaries/software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1970363/flipkart-sde1-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "flipkart|swe|l3": {
    "basis": "base",
@@ -12209,8 +12224,8 @@
   "investoclub-com|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T06:44:53.544417+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-09T21:31:58.878259+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -13245,6 +13260,11 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
+  "kovalty|swe|l1": {
+   "expires": "2026-11-24T08:43:04.203399+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
+   "status": "not_found"
+  },
   "kpg-99-inc-|erp|l1": {
    "expires": "2026-11-25T04:29:33.909134+00:00",
    "looked_up": "2026-11-09T23:01:26+00:00",
@@ -13561,8 +13581,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:27:15.653957+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-17T14:43:46.938201+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -21004,11 +21024,6 @@
    "status": "found",
    "year": 2025
   },
-  "societe_generale_global_solution_centre|security|l1": {
-   "expires": "2026-11-15T04:35:52.983639+00:00",
-   "looked_up": "2026-11-04T14:01:32+00:00",
-   "status": "not_found"
-  },
   "societe_generale_global_solution_centre|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21073,6 +21088,11 @@
   "solarxindia|fullstack|l1": {
    "expires": "2026-11-26T08:51:53.407388+00:00",
    "looked_up": "2026-11-14T08:01:19+00:00",
+   "status": "not_found"
+  },
+  "solvative|data|l1": {
+   "expires": "2026-12-04T05:08:05.475898+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "status": "not_found"
   },
   "solventumhealth|devops|l1": {
@@ -21325,8 +21345,8 @@
   "stageworks-in|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:21:11.393555+00:00",
-   "looked_up": "2026-11-15T04:01:18+00:00",
+   "expires": "2027-02-13T19:46:38.637123+00:00",
+   "looked_up": "2026-11-15T05:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 1.8,
    "sources": [
@@ -26360,8 +26380,8 @@
  },
  "meta": {
   "day": "2026-11-15",
-  "lookups_month": 1685,
-  "lookups_today": 8,
+  "lookups_month": 1688,
+  "lookups_today": 11,
   "month": "2026-11"
  }
 }
