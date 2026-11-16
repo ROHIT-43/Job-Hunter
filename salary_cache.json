@@ -784,6 +784,11 @@
    "looked_up": "2026-11-13T03:01:20+00:00",
    "status": "not_found"
   },
+  "ailogic-neural-network-pvt-ltd|swe|l1": {
+   "expires": "2026-12-01T16:51:14.142200+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "status": "not_found"
+  },
   "aionsofttech|fullstack|l1": {
    "expires": "2026-11-25T20:16:37.449199+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
@@ -5539,6 +5544,11 @@
    "looked_up": "2026-11-15T16:01:19+00:00",
    "status": "not_found"
   },
+  "complest|swe|l1": {
+   "expires": "2026-11-29T18:09:45.439087+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "status": "not_found"
+  },
   "compnova|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5834,6 +5844,26 @@
    "expires": "2026-11-17T17:24:18.920141+00:00",
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
+  },
+  "cricheroes|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T00:10:49.913089+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cricheroes-salaries/ahmedabad-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cricheroes-salaries/android-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "criclive-in|devops|l1": {
    "expires": "2026-12-02T03:05:35.417933+00:00",
@@ -6638,6 +6668,11 @@
    "looked_up": "2026-11-11T09:01:25+00:00",
    "status": "not_found"
   },
+  "designbrandshark|swe|l1": {
+   "expires": "2026-12-07T00:56:21.028480+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "status": "not_found"
+  },
   "deutsche-bank|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6887,6 +6922,11 @@
   "digitrix-software-llp|swe|l1": {
    "expires": "2026-11-19T01:25:54.278336+00:00",
    "looked_up": "2026-11-07T05:01:30+00:00",
+   "status": "not_found"
+  },
+  "discusbusinesssolutions|erp|l1": {
+   "expires": "2026-12-01T14:11:53.949078+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "status": "not_found"
   },
   "ditansource|fullstack|l1": {
@@ -7458,8 +7498,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T23:11:09.282414+00:00",
-   "looked_up": "2026-11-16T05:01:39+00:00",
+   "expires": "2027-02-15T01:50:47.804732+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8471,6 +8511,22 @@
    "looked_up": "2026-11-03T18:02:22+00:00",
    "status": "not_found"
   },
+  "fioneer|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-07T09:23:28.304702+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/sap-fioneer-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "fireblaze-ai-school|erp|l1": {
    "expires": "2026-11-21T22:38:58.550012+00:00",
    "looked_up": "2026-11-02T20:01:29+00:00",
@@ -9355,6 +9411,11 @@
   "giant-eagle-gcc|swe|l1": {
    "expires": "2026-11-20T19:18:51.242566+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "giantmind-solutions|devops|l1": {
+   "expires": "2026-11-28T10:51:38.726392+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "status": "not_found"
   },
   "gihhr|swe|l1": {
@@ -12446,8 +12507,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T14:12:43.916676+00:00",
-   "looked_up": "2026-11-16T05:01:39+00:00",
+   "expires": "2027-02-08T16:43:17.195464+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -13493,11 +13554,6 @@
     }
    ],
    "status": "found"
-  },
-  "leadsource-tech|fullstack|l1": {
-   "expires": "2026-11-16T05:22:39.102117+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
   },
   "leanwatts|swe|l1": {
    "expires": "2026-11-19T22:54:09.602954+00:00",
@@ -17820,8 +17876,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:50:26.697171+00:00",
-   "looked_up": "2026-11-16T05:01:39+00:00",
+   "expires": "2027-02-15T02:28:24.557932+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18596,11 +18652,6 @@
   "qurinomsolutions|mobile|l1": {
    "expires": "2026-11-22T00:08:20.500891+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
-   "status": "not_found"
-  },
-  "qvantel|swe|l1": {
-   "expires": "2026-11-16T05:56:20.623168+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "r-systems|data|l1": {
@@ -19503,11 +19554,6 @@
    "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
-  "salesforce-ad|fullstack|l1": {
-   "expires": "2026-11-16T05:14:25.642283+00:00",
-   "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
   "salesforce-ad|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -20158,8 +20204,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T23:59:01.476106+00:00",
-   "looked_up": "2026-11-16T05:01:39+00:00",
+   "expires": "2027-02-14T05:46:17.248542+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -22091,6 +22137,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "teamware-solutions|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T06:43:13.410102+00:00",
+   "looked_up": "2026-11-16T06:01:18+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 2.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/team-lease-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "teamware-solutions|erp|l1": {
    "basis": "ctc",
@@ -26122,8 +26184,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1729,
-  "lookups_today": 9,
+  "lookups_month": 1737,
+  "lookups_today": 17,
   "month": "2026-11"
  }
 }
