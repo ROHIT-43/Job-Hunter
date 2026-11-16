@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T10:45:18.644141+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-13T06:25:09.352755+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -2702,6 +2702,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "autoliv|swe|l1": {
+   "expires": "2026-11-26T23:23:28.962364+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
+   "status": "not_found"
   },
   "autoven|swe|l1": {
    "expires": "2026-11-24T10:33:19.652919+00:00",
@@ -7387,8 +7392,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:09:52.080502+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-17T16:25:12.931525+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7761,8 +7766,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:54:55.307258+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-11T14:02:07.629463+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10892,6 +10897,11 @@
    "status": "found",
    "year": 2025
   },
+  "hewlett-packard-enterprise|frontend|l1": {
+   "expires": "2026-12-05T14:34:40.707111+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
+   "status": "not_found"
+  },
   "hewlett-packard-enterprise|fullstack|l1": {
    "expires": "2026-11-26T14:05:28.228368+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
@@ -13449,11 +13459,6 @@
    "looked_up": "2026-10-31T18:01:24+00:00",
    "status": "not_found"
   },
-  "kenzolegacyone|swe|l1": {
-   "expires": "2026-11-16T14:46:17.917533+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
-   "status": "not_found"
-  },
   "keron-research-labs|erp|l1": {
    "expires": "2026-11-27T11:48:36.825806+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -14753,11 +14758,6 @@
    "status": "found",
    "year": 2026
   },
-  "marduk-technologies|swe|l1": {
-   "expires": "2026-11-16T14:17:41.188600+00:00",
-   "looked_up": "2026-11-03T20:01:58+00:00",
-   "status": "not_found"
-  },
   "marichi-energy|swe|l1": {
    "expires": "2026-11-27T17:26:40.441004+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
@@ -15297,11 +15297,6 @@
   "metlife|devops|l1": {
    "expires": "2026-12-01T06:38:24.019806+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "metro-services-private-limited|security|l1": {
-   "expires": "2026-11-16T14:35:31.144796+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
    "status": "not_found"
   },
   "metsoofficial|erp|l1": {
@@ -15903,8 +15898,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T09:46:21.396675+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-18T22:23:20.977062+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -15931,8 +15926,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T20:56:02.169764+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-14T01:50:08.756980+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16408,6 +16403,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "nielseniq|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T13:19:11.352436+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
+   "max_lpa": 11.3,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nielseniq-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "nielseniq|devops|l1": {
    "expires": "2026-12-01T06:50:11.550156+00:00",
@@ -17426,8 +17437,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T11:20:02.770441+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-09T16:27:54.928688+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18421,8 +18432,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T20:13:50.083117+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-15T10:30:45.346062+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19309,8 +19320,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:15:02.903297+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-20T07:33:06.274354+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21196,8 +21207,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:24:38.524219+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
+   "expires": "2027-02-11T11:47:52.725993+00:00",
+   "looked_up": "2026-11-16T15:01:28+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -26904,8 +26915,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1851,
-  "lookups_today": 131,
+  "lookups_month": 1854,
+  "lookups_today": 134,
   "month": "2026-11"
  }
 }
