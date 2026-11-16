@@ -5011,11 +5011,6 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
-  "cloudwick|frontend|l1": {
-   "expires": "2026-11-16T03:07:26.055792+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "cluster-classes|frontend|l1": {
    "expires": "2026-11-16T11:44:32.159525+00:00",
    "looked_up": "2026-11-05T19:01:18+00:00",
@@ -7458,8 +7453,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:03:49.098906+00:00",
-   "looked_up": "2026-11-16T03:01:27+00:00",
+   "expires": "2027-02-12T23:34:58.567012+00:00",
+   "looked_up": "2026-11-16T04:01:14+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12420,8 +12415,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T15:16:42.209954+00:00",
-   "looked_up": "2026-11-16T03:01:27+00:00",
+   "expires": "2027-02-17T01:17:22.840787+00:00",
+   "looked_up": "2026-11-16T04:01:14+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15626,11 +15621,6 @@
    "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
-  "neptuneinfotech|mobile|l1": {
-   "expires": "2026-11-16T03:40:06.711341+00:00",
-   "looked_up": "2026-10-27T06:01:25+00:00",
-   "status": "not_found"
-  },
   "nescode|swe|l1": {
    "expires": "2026-11-28T20:33:03.209929+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
@@ -15780,11 +15770,6 @@
   "neuphonic|devops|l1": {
    "expires": "2026-11-23T20:50:27.290242+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "neuralcraft-co|swe|l1": {
-   "expires": "2026-11-16T03:56:35.395751+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
    "status": "not_found"
   },
   "neurealm|swe|l1": {
@@ -16188,11 +16173,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ntt-data-business-solutions|swe|l1": {
-   "expires": "2026-11-16T03:19:01.392913+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
   },
   "ntt-data-inc|devops|l1": {
    "expires": "2026-11-24T13:38:12.238348+00:00",
@@ -17824,8 +17804,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T10:37:14.922198+00:00",
-   "looked_up": "2026-11-16T03:01:27+00:00",
+   "expires": "2027-02-15T18:42:13.303831+00:00",
+   "looked_up": "2026-11-16T04:01:14+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19202,11 +19182,6 @@
    "status": "found",
    "year": 2025
   },
-  "rskiec|devops|l1": {
-   "expires": "2026-11-16T03:01:46.238201+00:00",
-   "looked_up": "2026-10-28T06:01:28+00:00",
-   "status": "not_found"
-  },
   "rskind|swe|l1": {
    "expires": "2026-11-28T19:30:16.683129+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -20167,8 +20142,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:28:16.265160+00:00",
-   "looked_up": "2026-11-16T03:01:27+00:00",
+   "expires": "2027-02-16T03:56:23.615056+00:00",
+   "looked_up": "2026-11-16T04:01:14+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23520,11 +23495,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "trucktec|swe|l1": {
-   "expires": "2026-11-16T03:11:37.816120+00:00",
-   "looked_up": "2026-10-26T16:01:28+00:00",
-   "status": "not_found"
   },
   "truveta|swe|l1": {
    "expires": "2026-11-26T06:22:29.560404+00:00",
