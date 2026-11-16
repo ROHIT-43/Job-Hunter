@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T03:31:33.944045+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
+   "expires": "2027-02-07T18:40:10.539869+00:00",
+   "looked_up": "2026-11-16T09:43:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -776,11 +776,6 @@
   "aftershootco|swe|l1": {
    "expires": "2026-11-20T09:39:30.527929+00:00",
    "looked_up": "2026-11-09T18:01:28+00:00",
-   "status": "not_found"
-  },
-  "agasty-ai|swe|l1": {
-   "expires": "2026-11-16T09:35:38.995635+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
   "ageless-entertainment|frontend|l1": {
@@ -5484,11 +5479,6 @@
    "status": "found",
    "year": 2026
   },
-  "colt-technology-services|devops|l1": {
-   "expires": "2026-11-16T09:30:17.074672+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
   "comcast|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -5883,11 +5873,6 @@
     }
    ],
    "status": "found"
-  },
-  "credapp|security|l1": {
-   "expires": "2026-11-16T09:21:40.429074+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
   },
   "credhive-fintech|swe|l1": {
    "expires": "2026-11-22T21:26:45.428665+00:00",
@@ -7582,8 +7567,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:42:25.825472+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
+   "expires": "2027-02-18T23:08:35.553787+00:00",
+   "looked_up": "2026-11-16T09:43:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10545,11 +10530,6 @@
    "status": "found",
    "year": 2026
   },
-  "heads-up-for-tails|swe|l1": {
-   "expires": "2026-11-16T09:21:07.667400+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "headspin|devops|l1": {
    "expires": "2026-11-30T00:27:20.461553+00:00",
    "looked_up": "2026-11-11T09:01:25+00:00",
@@ -12623,8 +12603,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T04:21:49.337139+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
+   "expires": "2027-02-10T21:53:31.037817+00:00",
+   "looked_up": "2026-11-16T09:43:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15274,11 +15254,6 @@
    "status": "found",
    "year": 2026
   },
-  "moksh-overseas-education-consultant|swe|l1": {
-   "expires": "2026-11-16T09:10:26.921891+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
-   "status": "not_found"
-  },
   "molex|swe|l1": {
    "expires": "2026-11-21T16:21:46.388957+00:00",
    "looked_up": "2026-11-02T07:01:32+00:00",
@@ -17041,8 +17016,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T11:53:22.716487+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
+   "expires": "2027-02-19T18:23:47.591754+00:00",
+   "looked_up": "2026-11-16T09:43:18+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18909,8 +18884,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T02:56:57.096287+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
+   "expires": "2027-02-08T00:35:42.807559+00:00",
+   "looked_up": "2026-11-16T09:43:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -20326,11 +20301,6 @@
     }
    ],
    "status": "found"
-  },
-  "sellers-commerce|swe|l1": {
-   "expires": "2026-11-16T09:32:09.738389+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
   },
   "servcrust|mobile|l1": {
    "expires": "2026-11-23T09:37:03.808430+00:00",
