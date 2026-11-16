@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T18:10:48.750749+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-13T14:54:19.136871+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T06:18:08.345464+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
+   "expires": "2027-02-12T21:55:01.335643+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -357,6 +357,11 @@
   "accendra-health|swe|l3": {
    "expires": "2026-11-17T09:11:43.445819+00:00",
    "looked_up": "2026-11-06T13:01:18+00:00",
+   "status": "not_found"
+  },
+  "accentureindia|devops|l1": {
+   "expires": "2026-11-26T17:45:36.343749+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "status": "not_found"
   },
   "accentureindia|erp|l1": {
@@ -3799,11 +3804,6 @@
    "status": "found",
    "year": 2026
   },
-  "bp|swe|l1": {
-   "expires": "2026-11-16T16:41:08.877018+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "brace-infotech|devops|l1": {
    "expires": "2026-11-29T05:27:22.236172+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -4021,6 +4021,11 @@
    ],
    "status": "found",
    "year": 2023
+  },
+  "bristol-myers-squibb|data|l1": {
+   "expires": "2026-11-25T02:35:08.489288+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
   },
   "bristol-myers-squibb|devops|l1": {
    "expires": "2026-11-17T10:01:53.941850+00:00",
@@ -4720,6 +4725,26 @@
    "status": "found",
    "year": 2026
   },
+  "cencoraglobal|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T11:36:24.261852+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cencora-salaries/software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4998028/"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "cencoraglobal|swe|l2": {
    "expires": "2026-12-02T23:26:51.745011+00:00",
    "looked_up": "2026-11-16T12:01:23+00:00",
@@ -4783,10 +4808,42 @@
    "status": "found",
    "year": 2026
   },
+  "cgi|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T22:00:19.831972+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 2.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cgi-group-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "cgi|erp|l1": {
    "expires": "2026-11-17T17:44:37.194970+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
    "status": "not_found"
+  },
+  "cgi|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T14:48:28.283243+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cgi-group-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "cgi|fullstack|l1": {
    "basis": "ctc",
@@ -6501,6 +6558,16 @@
    "status": "found",
    "year": 2026
   },
+  "data-eminence|data|l1": {
+   "expires": "2026-11-27T22:26:49.379849+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
+  },
+  "data-eminence|devops|l1": {
+   "expires": "2026-12-05T08:14:00.001852+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
+  },
   "data-eminence|frontend|l1": {
    "expires": "2026-11-24T23:16:01.547334+00:00",
    "looked_up": "2026-11-07T04:01:12+00:00",
@@ -7403,8 +7470,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:16:53.150226+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-19T01:03:18.596769+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7777,8 +7844,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T12:09:01.111979+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-15T13:17:27.019337+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13164,6 +13231,20 @@
    "looked_up": "2026-10-27T09:01:27+00:00",
    "status": "not_found"
   },
+  "joinsaarthi|data|l2": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-08T07:58:58.133439+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "joinsaarthi|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13179,6 +13260,22 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "joinsaarthi|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T15:21:35.032247+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 8.7,
+   "min_lpa": 6.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/saarthi-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "joraiq-ai|fullstack|l1": {
    "expires": "2026-11-27T03:10:19.312221+00:00",
@@ -13632,9 +13729,24 @@
    "status": "not_found"
   },
   "klacorp|fullstack|l1": {
-   "expires": "2026-11-16T16:55:17.200580+00:00",
-   "looked_up": "2026-10-27T17:01:29+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T15:46:41.194160+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1737151/kla-software-engineer-chennai"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/kla-salaries"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "klacorp|swe|l1": {
    "basis": "ctc",
@@ -14087,11 +14199,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "lexisnexis-risk-solutions|devops|l3": {
-   "expires": "2026-11-16T16:11:33.581605+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
   },
   "lh2-ai-labs|security|l1": {
    "expires": "2026-11-17T00:16:36.136127+00:00",
@@ -15569,6 +15676,11 @@
    ],
    "status": "found"
   },
+  "mistrymarketing|frontend|l1": {
+   "expires": "2026-11-26T22:08:40.181255+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
+  },
   "mizuho|swe|l1": {
    "expires": "2026-11-21T18:33:57.874343+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -15924,8 +16036,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T02:54:18.179285+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-11T01:50:52.926319+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -15952,8 +16064,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T18:53:24.493055+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-09T05:16:29.776113+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17463,8 +17575,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T21:57:34.716900+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-14T03:31:32.750339+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18458,8 +18570,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:11:18.742384+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-11T04:08:35.955374+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18599,6 +18711,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ptosh-hotels-us|frontend|l1": {
+   "expires": "2026-12-06T18:38:54.616068+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
   },
   "publicissapient|swe|l1": {
    "basis": "ctc",
@@ -19346,8 +19463,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T19:16:06.317661+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-09T07:30:00.247593+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19971,6 +20088,11 @@
   "rushiv-infotech|data|l1": {
    "expires": "2026-11-17T11:45:04.952687+00:00",
    "looked_up": "2026-11-03T14:01:33+00:00",
+   "status": "not_found"
+  },
+  "rv5-uksag|swe|l1": {
+   "expires": "2026-12-05T21:19:10.870299+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "status": "not_found"
   },
   "rvsiglobal|swe|l1": {
@@ -21233,8 +21355,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T14:23:59.335280+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
+   "expires": "2027-02-12T09:31:04.589423+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -21263,6 +21385,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "simcorp|swe|l1": {
+   "expires": "2026-12-04T09:28:12.065599+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "status": "not_found"
   },
   "simple-digital-fze|swe|l1": {
    "expires": "2026-11-23T12:05:50.836862+00:00",
@@ -25395,6 +25522,22 @@
    "status": "found",
    "year": 2026
   },
+  "vois|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T16:58:05.245062+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 10.6,
+   "min_lpa": 4.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/vodafone-intelligent-services-salaries/software-engineer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "vois|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -25440,10 +25583,10 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-20T04:21:40.092843+00:00",
-   "looked_up": "2026-10-27T16:38:58+00:00",
-   "max_lpa": 6.0,
-   "min_lpa": 5.0,
+   "expires": "2027-02-14T05:46:01.885922+00:00",
+   "looked_up": "2026-11-16T17:01:27+00:00",
+   "max_lpa": 6.5,
+   "min_lpa": 5.5,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -26957,8 +27100,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1863,
-  "lookups_today": 143,
+  "lookups_month": 1877,
+  "lookups_today": 157,
   "month": "2026-11"
  }
 }
