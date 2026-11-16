@@ -1265,11 +1265,6 @@
    "status": "found",
    "year": 2026
   },
-  "alternativepath|fullstack|l1": {
-   "expires": "2026-11-16T00:09:45.459473+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "amagicorporation|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1470,11 +1465,6 @@
    ],
    "status": "found",
    "year": 2022
-  },
-  "amazure-technologies-pvt-ltd|devops|l1": {
-   "expires": "2026-11-16T00:27:35.830390+00:00",
-   "looked_up": "2026-10-28T12:01:36+00:00",
-   "status": "not_found"
   },
   "amd-pensando|swe|l1": {
    "expires": "2026-11-28T23:34:50.346252+00:00",
@@ -2259,11 +2249,6 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
-  "ascendion|devops|l1": {
-   "expires": "2026-11-16T00:21:17.777201+00:00",
-   "looked_up": "2026-10-29T11:01:33+00:00",
-   "status": "not_found"
-  },
   "ascendion|erp|l1": {
    "expires": "2026-11-21T21:52:43.149073+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -2612,11 +2597,6 @@
    "status": "found",
    "year": 2026
   },
-  "autoflowtech|data|l1": {
-   "expires": "2026-11-16T01:01:30.400561+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
   "autoven|swe|l1": {
    "expires": "2026-11-24T10:33:19.652919+00:00",
    "looked_up": "2026-11-11T07:01:25+00:00",
@@ -2779,11 +2759,6 @@
   "ayurak|security|l1": {
    "expires": "2026-11-22T16:59:10.198885+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
-  },
-  "ayyati|swe|l1": {
-   "expires": "2026-11-16T00:26:35.130678+00:00",
-   "looked_up": "2026-10-31T21:01:26+00:00",
    "status": "not_found"
   },
   "backblaze|devops|l2": {
@@ -5104,6 +5079,11 @@
    "status": "found",
    "year": 2026
   },
+  "coalition-against-financial-crime|frontend|l1": {
+   "expires": "2026-12-03T18:46:24.901363+00:00",
+   "looked_up": "2026-11-16T01:01:34+00:00",
+   "status": "not_found"
+  },
   "code-rustlers|mobile|l1": {
    "expires": "2026-12-03T15:55:03.528580+00:00",
    "looked_up": "2026-11-14T07:01:19+00:00",
@@ -6054,11 +6034,6 @@
   "cxo-spotlight-us|swe|l1": {
    "expires": "2026-11-17T09:50:42.901238+00:00",
    "looked_up": "2026-10-28T03:01:30+00:00",
-   "status": "not_found"
-  },
-  "cxo-tv|swe|l1": {
-   "expires": "2026-11-16T00:16:06.093101+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
    "status": "not_found"
   },
   "cxoinc|swe|l1": {
@@ -12460,8 +12435,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:43:37.055950+00:00",
-   "looked_up": "2026-11-16T00:01:21+00:00",
+   "expires": "2027-02-08T22:25:43.240957+00:00",
+   "looked_up": "2026-11-16T01:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14146,6 +14121,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "magnawiz|swe|l1": {
+   "expires": "2026-12-02T05:40:40.187873+00:00",
+   "looked_up": "2026-11-16T01:01:34+00:00",
+   "status": "not_found"
   },
   "magnite|security|l1": {
    "expires": "2026-11-18T12:10:20.628312+00:00",
@@ -17879,8 +17859,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:37:39.242400+00:00",
-   "looked_up": "2026-11-16T00:01:21+00:00",
+   "expires": "2027-02-21T00:14:00.516111+00:00",
+   "looked_up": "2026-11-16T01:01:34+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19964,11 +19944,6 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
-  "schwab-india|swe|l1": {
-   "expires": "2026-11-16T00:57:58.978564+00:00",
-   "looked_up": "2026-11-05T19:01:18+00:00",
-   "status": "not_found"
-  },
   "sciplaygames|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -20227,8 +20202,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:45:31.258074+00:00",
-   "looked_up": "2026-11-16T00:01:21+00:00",
+   "expires": "2027-02-19T13:39:29.794832+00:00",
+   "looked_up": "2026-11-16T01:01:34+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -26211,8 +26186,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1720,
-  "lookups_today": 0,
+  "lookups_month": 1722,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
