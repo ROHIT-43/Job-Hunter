@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T04:16:15.090393+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-20T16:08:47.136394+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -845,11 +845,6 @@
   "aiquant|frontend|l1": {
    "expires": "2026-11-27T22:57:59.642921+00:00",
    "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
-  },
-  "air-arabia|devops|l1": {
-   "expires": "2026-11-16T11:00:27.146962+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
    "status": "not_found"
   },
   "air-arabia|swe|l1": {
@@ -2278,6 +2273,22 @@
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
+  "ascendion|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T12:58:56.322140+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "max_lpa": 5.8,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ascendion-salaries/cloud-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ascendion|erp|l1": {
    "expires": "2026-11-21T21:52:43.149073+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -2575,6 +2586,11 @@
   "aurify-technology|fullstack|l1": {
    "expires": "2026-12-01T01:42:52.928260+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "auronix-tech|swe|l1": {
+   "expires": "2026-12-01T20:15:31.613215+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
   "aurora-jobs-ai|swe|l1": {
@@ -6732,6 +6748,11 @@
    "status": "found",
    "year": 2026
   },
+  "depth-consulting-services-private-limited|erp|l1": {
+   "expires": "2026-12-02T05:09:10.428083+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "deservely-india|frontend|l1": {
    "expires": "2026-11-16T17:33:38.227697+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -7062,6 +7083,11 @@
    "status": "found",
    "year": 2026
   },
+  "doomindustries|swe|l1": {
+   "expires": "2026-11-24T16:28:56.276124+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "dooritt|devops|l1": {
    "expires": "2026-11-23T09:27:46.652612+00:00",
    "looked_up": "2026-11-07T06:01:18+00:00",
@@ -7233,6 +7259,20 @@
    "expires": "2026-12-04T09:35:59.007894+00:00",
    "looked_up": "2026-11-13T16:01:23+00:00",
    "status": "not_found"
+  },
+  "echoweb-technolgoy|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-09T03:31:20.521296+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "eci-software--solutions|swe|l2": {
    "expires": "2026-11-30T23:57:12.565984+00:00",
@@ -7467,6 +7507,11 @@
    "looked_up": "2026-11-05T22:01:17+00:00",
    "status": "not_found"
   },
+  "elsevier|swe|l2": {
+   "expires": "2026-11-27T12:45:30.345246+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "emagine|frontend|l1": {
    "expires": "2026-11-17T02:21:47.916597+00:00",
    "looked_up": "2026-11-05T17:01:23+00:00",
@@ -7587,8 +7632,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T16:16:39.412406+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-19T16:41:23.667717+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -10044,6 +10089,11 @@
    ],
    "status": "found"
   },
+  "grant-thornton-indus|erp|l1": {
+   "expires": "2026-11-24T04:31:49.298266+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "grapesworldwide|fullstack|l1": {
    "expires": "2026-11-22T15:15:38.732546+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -11184,11 +11234,6 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
-  "hyper-lychee-labs|frontend|l1": {
-   "expires": "2026-11-16T10:27:34.057269+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
   "hyper-lychee-labs|swe|l1": {
    "expires": "2026-11-22T02:39:42.771119+00:00",
    "looked_up": "2026-11-09T11:01:23+00:00",
@@ -11223,6 +11268,26 @@
     }
    ],
    "status": "found"
+  },
+  "i-five-technology-pvt-ltd|swe|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-19T06:24:50.117041+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ifive-technology-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ifive-technology-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ibm|data|l1": {
    "basis": "ctc",
@@ -12659,8 +12724,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:54:08.874762+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-17T04:16:10.032100+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14447,6 +14512,11 @@
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
   },
+  "marble-x|devops|l1": {
+   "expires": "2026-11-24T19:23:12.869293+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "marcusevansgroup|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15580,6 +15650,11 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
+  "mufg|erp|l1": {
+   "expires": "2026-11-25T15:26:14.487361+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "multivac-technology-solutions-india-private-limited|erp|l1": {
    "expires": "2026-11-27T00:26:24.244803+00:00",
    "looked_up": "2026-11-10T15:01:28+00:00",
@@ -15599,6 +15674,20 @@
    "expires": "2026-11-18T08:14:18.535590+00:00",
    "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
+  },
+  "mystinex|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-12T18:55:36.283898+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "mytripmatch-in|frontend|l1": {
    "basis": "posted",
@@ -15629,11 +15718,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "nam-info-inc|swe|l1": {
-   "expires": "2026-11-16T10:12:12.297626+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
   },
   "naresh-i-technologies|swe|l1": {
    "basis": "base",
@@ -15704,6 +15788,11 @@
   "navan|swe|l2": {
    "expires": "2026-11-28T03:58:05.332819+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
+  "navindia|fullstack|l1": {
+   "expires": "2026-12-06T12:30:43.454636+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
   "nbc-bearings|swe|l1": {
@@ -17072,8 +17161,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T21:37:05.167466+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-12T16:55:08.263730+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18052,8 +18141,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T08:37:57.101395+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-17T12:54:52.386609+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18935,8 +19024,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T22:32:09.494231+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
+   "expires": "2027-02-13T00:52:16.341495+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19200,6 +19289,11 @@
   "rengy|mobile|l2": {
    "expires": "2026-11-23T21:27:05.170540+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "renovision-automation-services-pvt-ltd|swe|l1": {
+   "expires": "2026-11-23T12:33:26.390320+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
   "rentesy|mobile|l1": {
@@ -20980,6 +21074,11 @@
    "status": "found",
    "year": 2025
   },
+  "sme-careers|swe|l1": {
+   "expires": "2026-11-25T17:52:36.894428+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
   "smith-nephew|swe|l2": {
    "expires": "2026-11-19T19:09:27.253899+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -21660,11 +21759,6 @@
   "sunlord-electronics-technology-pte-ltd|swe|l1": {
    "expires": "2026-11-25T19:14:08.376155+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "supayou|swe|l1": {
-   "expires": "2026-11-16T10:39:23.241644+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
    "status": "not_found"
   },
   "superfan-ng|devops|l1": {
@@ -22765,6 +22859,26 @@
    "looked_up": "2026-10-28T13:01:36+00:00",
    "status": "not_found"
   },
+  "teksystems|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T15:07:57.542086+00:00",
+   "looked_up": "2026-11-16T11:01:23+00:00",
+   "max_lpa": 6.7,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/teksystems-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/teksystems-salaries/software-engineer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "tektronix|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23634,11 +23748,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "transunion|devops|l1": {
-   "expires": "2026-11-16T10:41:06.599247+00:00",
-   "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
   },
   "transunion|swe|l1": {
    "basis": "base",
@@ -26435,8 +26544,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1793,
-  "lookups_today": 73,
+  "lookups_month": 1806,
+  "lookups_today": 86,
   "month": "2026-11"
  }
 }
