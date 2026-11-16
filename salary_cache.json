@@ -11492,11 +11492,6 @@
    "looked_up": "2026-11-05T04:01:24+00:00",
    "status": "not_found"
   },
-  "indusgurunetwork|swe|l1": {
-   "expires": "2026-11-15T23:55:43.533964+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
-  },
   "infineon-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12465,8 +12460,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T19:42:29.908747+00:00",
-   "looked_up": "2026-11-15T23:01:38+00:00",
+   "expires": "2027-02-13T15:43:37.055950+00:00",
+   "looked_up": "2026-11-16T00:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17884,8 +17879,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T18:26:40.679524+00:00",
-   "looked_up": "2026-11-15T23:01:38+00:00",
+   "expires": "2027-02-15T18:37:39.242400+00:00",
+   "looked_up": "2026-11-16T00:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19414,11 +19409,6 @@
    "looked_up": "2026-11-09T20:01:20+00:00",
    "status": "not_found"
   },
-  "saatvik-agro-processors-private-limited|fullstack|l1": {
-   "expires": "2026-11-15T23:38:23.453029+00:00",
-   "looked_up": "2026-11-04T08:01:29+00:00",
-   "status": "not_found"
-  },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20237,8 +20227,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:32:41.430763+00:00",
-   "looked_up": "2026-11-15T23:01:38+00:00",
+   "expires": "2027-02-15T13:45:31.258074+00:00",
+   "looked_up": "2026-11-16T00:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20981,11 +20971,6 @@
    "status": "found",
    "year": 2026
   },
-  "solarwinds|devops|l1": {
-   "expires": "2026-11-15T23:45:31.613720+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
   "solarxindia|fullstack|l1": {
    "expires": "2026-11-26T08:51:53.407388+00:00",
    "looked_up": "2026-11-14T08:01:19+00:00",
@@ -21123,11 +21108,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "sourcebae|devops|l1": {
-   "expires": "2026-11-15T23:09:06.333703+00:00",
-   "looked_up": "2026-10-30T08:01:29+00:00",
-   "status": "not_found"
   },
   "sourceright|swe|l1": {
    "expires": "2026-11-16T15:20:02.023667+00:00",
@@ -26230,9 +26210,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-15",
+  "day": "2026-11-16",
   "lookups_month": 1720,
-  "lookups_today": 43,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
