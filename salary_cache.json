@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T20:34:02.047369+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-19T09:04:52.109393+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -797,6 +797,26 @@
    "expires": "2026-12-01T16:51:14.142200+00:00",
    "looked_up": "2026-11-16T06:01:18+00:00",
    "status": "not_found"
+  },
+  "aimleap|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T10:04:50.108590+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 4.9,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aimleap-salaries/software-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aimleap-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "aionsofttech|fullstack|l1": {
    "expires": "2026-11-25T20:16:37.449199+00:00",
@@ -1675,6 +1695,11 @@
    "looked_up": "2026-11-04T14:01:32+00:00",
    "status": "not_found"
   },
+  "anaptyss-inc|swe|l1": {
+   "expires": "2026-12-04T12:13:54.346085+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
   "anaxistech|swe|l1": {
    "expires": "2026-11-24T02:58:12.994939+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -2268,6 +2293,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aruba-a-hewlett-packard-enterprise-company|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T06:40:00.522018+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 17.5,
+   "min_lpa": 8.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aruba-networks-salaries"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/hpe/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "arvmultimedia|swe|l1": {
    "expires": "2026-11-24T17:43:10.193475+00:00",
@@ -3152,6 +3197,11 @@
    "status": "found",
    "year": 2025
   },
+  "betasoft-solutions|swe|l2": {
+   "expires": "2026-12-02T09:25:40.758408+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
   "bhanzu|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3936,6 +3986,22 @@
    "expires": "2026-11-30T19:20:31.574549+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
+  },
+  "bristlecone|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T19:24:13.171957+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 10.9,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bristlecone-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "bristlecone|erp|l1": {
    "basis": "ctc",
@@ -5725,11 +5791,6 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
-  "concinnitycorp|erp|l1": {
-   "expires": "2026-11-16T12:18:43.488114+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
   "conduent|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7310,8 +7371,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T12:54:16.289900+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-16T05:48:54.951595+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7679,8 +7740,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:26:16.717618+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-07T16:13:52.571795+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8098,6 +8159,11 @@
    ],
    "status": "found",
    "year": 2023
+  },
+  "estate-now|fullstack|l1": {
+   "expires": "2026-11-30T22:42:44.898638+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
   },
   "etherealexplorationguild|swe|l1": {
    "expires": "2026-12-01T21:42:16.189749+00:00",
@@ -9350,6 +9416,11 @@
     }
    ],
    "status": "found"
+  },
+  "garmin-technologies-india-official|security|l1": {
+   "expires": "2026-12-01T14:00:45.525811+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
   },
   "gartner|frontend|l1": {
    "basis": "ctc",
@@ -10780,6 +10851,31 @@
    "status": "found",
    "year": 2025
   },
+  "hewlett-packard-enterprise|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T18:41:26.059181+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "hw.glich.co",
+     "uri": "https://hw.glich.co/jobboard/jobs/devops-engineer-at-hewlett-packard-enterprise-ymx5ky"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/hpe/salaries/software-engineer/locations/greater-bengaluru"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "hewlett-packard-enterprise|fullstack|l1": {
+   "expires": "2026-11-26T14:05:28.228368+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
   "hewlett-packard-enterprise|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -10815,6 +10911,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "hewlett-packard-enterprise|swe|l3": {
+   "expires": "2026-11-28T20:15:53.308509+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
   },
   "hexnode|security|l1": {
    "expires": "2026-11-28T10:48:08.961386+00:00",
@@ -12812,8 +12913,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:25:40.296276+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-11T01:57:49.114580+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15776,8 +15877,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T02:37:17.215814+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-18T05:43:33.559603+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -15804,8 +15905,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T18:12:03.850607+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-10T17:39:56.964363+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16210,6 +16311,11 @@
   "netspi|security|l2": {
    "expires": "2026-11-20T00:12:37.927942+00:00",
    "looked_up": "2026-10-31T10:01:27+00:00",
+   "status": "not_found"
+  },
+  "netsysconconsulting|fullstack|l1": {
+   "expires": "2026-11-28T05:10:54.709248+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "netsysconconsulting|swe|l1": {
@@ -16774,6 +16880,22 @@
    "status": "found",
    "year": 2026
   },
+  "o-hi-social-network|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T23:27:35.708375+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ohi-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "oaktree-capital-management|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17141,6 +17263,11 @@
    "status": "found",
    "year": 2025
   },
+  "opviain|swe|l1": {
+   "expires": "2026-12-05T12:12:58.195147+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
   "ora-apps|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17273,8 +17400,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T21:10:23.727899+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-12T09:10:30.870763+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18263,8 +18390,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T15:45:31.635562+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-16T18:04:53.659741+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19146,8 +19273,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:16:47.207466+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-17T02:17:54.843165+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19645,6 +19772,26 @@
    "expires": "2026-11-23T04:44:36.311910+00:00",
    "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
+  },
+  "rockwell-automation|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T01:04:23.604900+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 18.5,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rockwell-automation-salaries/sde"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rockwell-automation-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "rockwool-group|swe|l1": {
    "expires": "2026-11-25T16:39:26.034443+00:00",
@@ -20356,6 +20503,26 @@
    "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
   },
+  "scan-it-|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T01:11:15.120134+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/overview/scan-it-overview/locations/pune-offices"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/scan-it-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "schaeffler|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20438,6 +20605,11 @@
   "scoutit-in|frontend|l1": {
    "expires": "2026-11-16T19:21:16.559825+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
+   "status": "not_found"
+  },
+  "scoutit-in|fullstack|l1": {
+   "expires": "2026-11-29T04:17:26.167332+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "scoutit-in|swe|l1": {
@@ -20988,8 +21160,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:06:58.029498+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
+   "expires": "2027-02-20T02:24:01.031916+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -21530,6 +21702,11 @@
     }
    ],
    "status": "found"
+  },
+  "soterius|swe|l1": {
+   "expires": "2026-12-06T22:35:12.571719+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
   },
   "soti|swe|l2": {
    "basis": "ctc",
@@ -22266,6 +22443,11 @@
    "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
+  "talent500|swe|l1": {
+   "expires": "2026-11-23T17:16:20.185736+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
   "talentgigs|devops|l1": {
    "expires": "2026-11-20T10:16:12.784597+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -22289,6 +22471,11 @@
   "talentrabbit|swe|l1": {
    "expires": "2026-11-26T09:37:43.505852+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "talevo|swe|l1": {
+   "expires": "2026-11-28T16:16:27.296277+00:00",
+   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "talkdesk|mobile|l2": {
@@ -24197,11 +24384,6 @@
   "umanistna|devops|l1": {
    "expires": "2026-11-20T10:09:18.748425+00:00",
    "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "umanistna|erp|l1": {
-   "expires": "2026-11-16T12:19:10.646088+00:00",
-   "looked_up": "2026-11-06T09:01:17+00:00",
    "status": "not_found"
   },
   "unhr2022|fullstack|l1": {
@@ -26685,8 +26867,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1824,
-  "lookups_today": 104,
+  "lookups_month": 1843,
+  "lookups_today": 123,
   "month": "2026-11"
  }
 }
