@@ -1116,6 +1116,11 @@
    "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
+  "alignerr|swe|l1": {
+   "expires": "2026-11-25T07:27:45.058524+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "status": "not_found"
+  },
   "allbridge-technologies|swe|l1": {
    "expires": "2026-12-03T01:38:33.639392+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -2333,11 +2338,6 @@
   "astek|data|l1": {
    "expires": "2026-11-21T06:31:23.944678+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
-  "astek|erp|l1": {
-   "expires": "2026-11-16T04:12:46.611342+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
   "astek|swe|l1": {
@@ -6664,6 +6664,11 @@
    "looked_up": "2026-11-03T05:01:29+00:00",
    "status": "not_found"
   },
+  "devrabbit-it-solutions|fullstack|l1": {
+   "expires": "2026-12-01T21:03:15.679814+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "status": "not_found"
+  },
   "devryxa|frontend|l1": {
    "expires": "2026-12-03T06:22:13.904316+00:00",
    "looked_up": "2026-11-13T21:01:23+00:00",
@@ -7453,8 +7458,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T23:34:58.567012+00:00",
-   "looked_up": "2026-11-16T04:01:14+00:00",
+   "expires": "2027-02-10T23:11:09.282414+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -11282,6 +11287,11 @@
    "looked_up": "2026-11-07T17:01:25+00:00",
    "status": "not_found"
   },
+  "iepcc-solutions|swe|l1": {
+   "expires": "2026-11-29T00:37:29.349943+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "status": "not_found"
+  },
   "igrs-iit-madras|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12012,6 +12022,22 @@
    "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
+  "intel-corporation|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T23:03:23.762752+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/intel-salaries/sde/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "intelegencianalytics|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -12412,11 +12438,16 @@
    ],
    "status": "found"
   },
+  "jasapp-techserv-pvt-ltd-|swe|l1": {
+   "expires": "2026-12-06T00:42:27.738922+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "status": "not_found"
+  },
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:17:22.840787+00:00",
-   "looked_up": "2026-11-16T04:01:14+00:00",
+   "expires": "2027-02-14T14:12:43.916676+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -12528,11 +12559,6 @@
   "jobgether|erp|l1": {
    "expires": "2026-11-29T10:41:17.700503+00:00",
    "looked_up": "2026-11-12T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "jobgether|mobile|l1": {
-   "expires": "2026-11-16T04:06:56.922281+00:00",
-   "looked_up": "2026-11-02T03:01:30+00:00",
    "status": "not_found"
   },
   "jobgether|swe|l1": {
@@ -15616,11 +15642,6 @@
    "status": "found",
    "year": 2026
   },
-  "nemetschekgroup|mobile|l1": {
-   "expires": "2026-11-16T04:23:19.158515+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
   "nescode|swe|l1": {
    "expires": "2026-11-28T20:33:03.209929+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
@@ -17471,11 +17492,6 @@
    "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
-  "pivot-path-global|erp|l1": {
-   "expires": "2026-11-16T04:02:13.862222+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "planfirma-technologies-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17804,8 +17820,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:42:13.303831+00:00",
-   "looked_up": "2026-11-16T04:01:14+00:00",
+   "expires": "2027-02-11T12:50:26.697171+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17972,11 +17988,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "puma|fullstack|l1": {
-   "expires": "2026-11-16T04:34:46.787483+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
-   "status": "not_found"
   },
   "puma|swe|l1": {
    "expires": "2026-11-21T15:33:51.389993+00:00",
@@ -18804,6 +18815,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "recro-io|fullstack|l1": {
+   "expires": "2026-12-01T09:00:10.641204+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
+   "status": "not_found"
   },
   "recro-io|mobile|l1": {
    "basis": "ctc",
@@ -20142,8 +20158,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:56:23.615056+00:00",
-   "looked_up": "2026-11-16T04:01:14+00:00",
+   "expires": "2027-02-07T23:59:01.476106+00:00",
+   "looked_up": "2026-11-16T05:01:39+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -26106,8 +26122,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1723,
-  "lookups_today": 3,
+  "lookups_month": 1729,
+  "lookups_today": 9,
   "month": "2026-11"
  }
 }
