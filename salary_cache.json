@@ -1730,11 +1730,6 @@
    "looked_up": "2026-11-03T03:01:30+00:00",
    "status": "not_found"
   },
-  "anovia-inc|swe|l1": {
-   "expires": "2026-11-16T01:38:23.650641+00:00",
-   "looked_up": "2026-10-31T00:01:25+00:00",
-   "status": "not_found"
-  },
   "anr-business-consulting|devops|l1": {
    "expires": "2026-11-21T23:40:25.176244+00:00",
    "looked_up": "2026-11-08T13:01:43+00:00",
@@ -9346,11 +9341,6 @@
    "status": "found",
    "year": 2025
   },
-  "gevernova|security|l1": {
-   "expires": "2026-11-16T01:03:50.480180+00:00",
-   "looked_up": "2026-10-26T12:01:31+00:00",
-   "status": "not_found"
-  },
   "gevernova|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12435,8 +12425,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:25:43.240957+00:00",
-   "looked_up": "2026-11-16T01:01:34+00:00",
+   "expires": "2027-02-19T01:34:24.631903+00:00",
+   "looked_up": "2026-11-16T02:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -14785,11 +14775,6 @@
    "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
-  "meril|swe|l1": {
-   "expires": "2026-11-16T01:20:41.154759+00:00",
-   "looked_up": "2026-10-28T13:01:36+00:00",
-   "status": "not_found"
-  },
   "metabase|security|l1": {
    "expires": "2026-11-21T01:10:55.363940+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -15230,11 +15215,6 @@
   "motorolasolutions|frontend|l1": {
    "expires": "2026-11-24T18:21:50.809792+00:00",
    "looked_up": "2026-11-10T19:01:24+00:00",
-   "status": "not_found"
-  },
-  "motorolasolutions|mobile|l1": {
-   "expires": "2026-11-16T01:12:19.652231+00:00",
-   "looked_up": "2026-10-27T19:01:30+00:00",
    "status": "not_found"
   },
   "motorolasolutions|swe|l1": {
@@ -17859,8 +17839,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T00:14:00.516111+00:00",
-   "looked_up": "2026-11-16T01:01:34+00:00",
+   "expires": "2027-02-16T14:50:57.674888+00:00",
+   "looked_up": "2026-11-16T02:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20202,8 +20182,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:39:29.794832+00:00",
-   "looked_up": "2026-11-16T01:01:34+00:00",
+   "expires": "2027-02-13T08:24:36.903255+00:00",
+   "looked_up": "2026-11-16T02:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25634,11 +25614,6 @@
     }
    ],
    "status": "found"
-  },
-  "yes-algo|swe|l1": {
-   "expires": "2026-11-16T01:04:25.364298+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
-   "status": "not_found"
   },
   "yeste-migration-consulting|swe|l1": {
    "expires": "2026-11-16T06:06:07.804295+00:00",
