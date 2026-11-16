@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-07T18:40:10.539869+00:00",
-   "looked_up": "2026-11-16T09:43:18+00:00",
+   "expires": "2027-02-09T04:16:15.090393+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -1975,6 +1975,11 @@
   "appzlogic|swe|l1": {
    "expires": "2026-11-24T02:29:03.126038+00:00",
    "looked_up": "2026-11-09T20:01:20+00:00",
+   "status": "not_found"
+  },
+  "apriden|fullstack|l1": {
+   "expires": "2026-11-29T02:18:44.118566+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "aptask|erp|l1": {
@@ -5990,6 +5995,11 @@
    "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
   },
+  "cult.fit|security|l1": {
+   "expires": "2026-12-02T15:47:28.623644+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
+  },
   "cult.fit|swe|l2": {
    "basis": "base",
    "confidence": "low",
@@ -6025,6 +6035,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cummins-india|data|l3": {
+   "expires": "2026-12-05T19:39:55.884380+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
   },
   "cupid-compusoft|swe|l1": {
    "basis": "posted",
@@ -6093,6 +6108,11 @@
   "cxosmedia|swe|l1": {
    "expires": "2026-12-03T06:18:48.129424+00:00",
    "looked_up": "2026-11-13T04:01:20+00:00",
+   "status": "not_found"
+  },
+  "cyan360-inc|erp|l1": {
+   "expires": "2026-11-26T15:39:07.525584+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "cyanaq-systems|swe|l1": {
@@ -7567,8 +7587,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T23:08:35.553787+00:00",
-   "looked_up": "2026-11-16T09:43:18+00:00",
+   "expires": "2027-02-17T16:16:39.412406+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8510,6 +8530,11 @@
     }
    ],
    "status": "found"
+  },
+  "festoindia|security|l1": {
+   "expires": "2026-12-06T22:43:57.875954+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
   },
   "fictiv|erp|l1": {
    "expires": "2026-11-23T13:51:45.758094+00:00",
@@ -9492,6 +9517,22 @@
    "looked_up": "2026-11-13T03:01:20+00:00",
    "status": "not_found"
   },
+  "ginesys|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T19:44:37.696655+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ginesys-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "gistimpact|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9693,6 +9734,11 @@
   "gocharting|swe|l1": {
    "expires": "2026-11-27T17:23:18.538863+00:00",
    "looked_up": "2026-11-15T17:01:26+00:00",
+   "status": "not_found"
+  },
+  "goghl-ai|fullstack|l2": {
+   "expires": "2026-11-23T20:15:57.484714+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "gogreyorange|swe|l3": {
@@ -12535,6 +12581,16 @@
    "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
+  "izivar|frontend|l1": {
+   "expires": "2026-11-27T02:08:52.952547+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "izivar|swe|l1": {
+   "expires": "2026-12-04T06:30:30.028097+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
+  },
   "jabil|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -12603,8 +12659,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T21:53:31.037817+00:00",
-   "looked_up": "2026-11-16T09:43:18+00:00",
+   "expires": "2027-02-15T16:54:08.874762+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17016,8 +17072,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T18:23:47.591754+00:00",
-   "looked_up": "2026-11-16T09:43:18+00:00",
+   "expires": "2027-02-07T21:37:05.167466+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17424,11 +17480,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "perceptyne-robots|swe|l1": {
-   "expires": "2026-11-16T09:54:15.418049+00:00",
-   "looked_up": "2026-10-28T15:01:35+00:00",
-   "status": "not_found"
   },
   "perennation-computer-solutions|swe|l1": {
    "expires": "2026-12-01T14:32:05.336849+00:00",
@@ -18001,8 +18052,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T17:28:33.648844+00:00",
-   "looked_up": "2026-11-16T08:06:20+00:00",
+   "expires": "2027-02-14T08:37:57.101395+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18884,8 +18935,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T00:35:42.807559+00:00",
-   "looked_up": "2026-11-16T09:43:18+00:00",
+   "expires": "2027-02-09T22:32:09.494231+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19004,6 +19055,11 @@
   "recrew-ai|data|l1": {
    "expires": "2026-11-25T12:54:16.499424+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
+   "status": "not_found"
+  },
+  "recrew-ai|swe|l1": {
+   "expires": "2026-11-24T06:01:08.484975+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "recro-io|data|l1": {
@@ -20310,6 +20366,11 @@
   "servcrust|swe|l1": {
    "expires": "2026-11-20T11:04:22.388649+00:00",
    "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "servicenow|devops|l1": {
+   "expires": "2026-12-05T13:53:52.797254+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "servicenow|fullstack|l1": {
@@ -21892,6 +21953,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "synopsys|erp|l1": {
+   "expires": "2026-11-24T21:36:50.919494+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
   },
   "syntel-private-limited|swe|l1": {
    "basis": "ctc",
@@ -23779,6 +23845,11 @@
    "looked_up": "2026-11-10T16:01:23+00:00",
    "status": "not_found"
   },
+  "twilio-inc-|swe|l1": {
+   "expires": "2026-11-27T01:06:30.065582+00:00",
+   "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
+  },
   "tyson-foods|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24491,11 +24562,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "vericoreapi|frontend|l1": {
-   "expires": "2026-11-16T09:56:56.404070+00:00",
-   "looked_up": "2026-10-26T13:14:58+00:00",
-   "status": "not_found"
   },
   "vericoreapi|fullstack|l1": {
    "expires": "2026-11-17T14:57:02.646177+00:00",
@@ -26369,8 +26435,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1780,
-  "lookups_today": 60,
+  "lookups_month": 1793,
+  "lookups_today": 73,
   "month": "2026-11"
  }
 }
