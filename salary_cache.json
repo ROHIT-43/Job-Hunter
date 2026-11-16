@@ -5806,11 +5806,6 @@
    "status": "found",
    "year": 2025
   },
-  "covenant-hr|security|l2": {
-   "expires": "2026-11-16T02:50:02.673085+00:00",
-   "looked_up": "2026-11-06T22:01:18+00:00",
-   "status": "not_found"
-  },
   "craftix-creative-studio|swe|l1": {
    "expires": "2026-11-19T04:14:12.803406+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -7364,6 +7359,11 @@
    "status": "found",
    "year": null
   },
+  "emaptaglobal|swe|l1": {
+   "expires": "2026-11-23T21:31:13.096024+00:00",
+   "looked_up": "2026-11-16T03:01:27+00:00",
+   "status": "not_found"
+  },
   "embitel-technologies-india|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -7458,8 +7458,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-19T00:15:30.580686+00:00",
-   "looked_up": "2026-10-20T07:01:25+00:00",
+   "expires": "2027-02-15T05:03:49.098906+00:00",
+   "looked_up": "2026-11-16T03:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12420,8 +12420,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T20:15:47.728010+00:00",
-   "looked_up": "2026-11-16T02:11:56+00:00",
+   "expires": "2027-02-18T15:16:42.209954+00:00",
+   "looked_up": "2026-11-16T03:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -17824,8 +17824,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:17:01.720133+00:00",
-   "looked_up": "2026-11-16T02:11:56+00:00",
+   "expires": "2027-02-09T10:37:14.922198+00:00",
+   "looked_up": "2026-11-16T03:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20167,8 +20167,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T18:22:07.367627+00:00",
-   "looked_up": "2026-11-16T02:11:56+00:00",
+   "expires": "2027-02-14T00:28:16.265160+00:00",
+   "looked_up": "2026-11-16T03:01:27+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20524,11 +20524,6 @@
   "simple-digital-fze|swe|l1": {
    "expires": "2026-11-23T12:05:50.836862+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "simple-energy-pvt-ltd|mobile|l1": {
-   "expires": "2026-11-16T02:52:09.150354+00:00",
-   "looked_up": "2026-10-26T15:01:27+00:00",
    "status": "not_found"
   },
   "siraj-software-solution|frontend|l1": {
@@ -23541,11 +23536,6 @@
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
-  "tsclarity|swe|l1": {
-   "expires": "2026-11-16T02:28:34.895512+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "turium-ai|fullstack|l1": {
    "expires": "2026-11-29T05:53:06.898352+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
@@ -26146,8 +26136,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1722,
-  "lookups_today": 2,
+  "lookups_month": 1723,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
