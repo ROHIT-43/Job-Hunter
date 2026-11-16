@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T14:54:19.136871+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-17T03:34:26.461793+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:55:01.335643+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-11T21:36:55.351923+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -505,6 +505,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "aci-worldwide|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T04:36:57.093087+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
+   "max_lpa": 23.6,
+   "min_lpa": 7.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/aci-worldwide-reviews/bengaluru-location?tag=salary"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "acies-home|swe|l1": {
    "basis": "ctc",
@@ -1072,6 +1088,11 @@
   "albertsons-companies-india|frontend|l1": {
    "expires": "2026-11-25T13:05:24.651581+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
+   "status": "not_found"
+  },
+  "albertsons-companies-india|swe|l1": {
+   "expires": "2026-12-06T12:08:21.981201+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "status": "not_found"
   },
   "alcon|security|l1": {
@@ -3634,6 +3655,11 @@
   "boa-xr|swe|l1": {
    "expires": "2026-11-24T22:54:34.888307+00:00",
    "looked_up": "2026-11-09T14:01:26+00:00",
+   "status": "not_found"
+  },
+  "boardapp|devops|l1": {
+   "expires": "2026-12-04T07:50:46.639916+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "status": "not_found"
   },
   "boeing|fullstack|l1": {
@@ -6944,11 +6970,6 @@
    "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
-  "deservely-india|frontend|l1": {
-   "expires": "2026-11-16T17:33:38.227697+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "deservely-india|swe|l1": {
    "expires": "2026-11-19T21:10:38.637887+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -7470,8 +7491,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:03:18.596769+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-20T15:25:19.886033+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7844,8 +7865,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:17:27.019337+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-19T10:35:59.924392+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9300,11 +9321,6 @@
   "fm|swe|l1": {
    "expires": "2026-11-17T20:00:15.693118+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "fnz|security|l1": {
-   "expires": "2026-11-16T17:13:31.578631+00:00",
-   "looked_up": "2026-10-27T11:01:31+00:00",
    "status": "not_found"
   },
   "fnz|swe|l1": {
@@ -11751,6 +11767,22 @@
    "status": "found",
    "year": 2026
   },
+  "icon-strategic-solutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T22:05:36.485612+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/icon-plc-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ict-infracon|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11857,6 +11889,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "igt|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T09:25:41.877449+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/igt-solutions-reviews/software-engineer?tag=salary"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "iit-bombay|fullstack|l1": {
    "basis": "ctc",
@@ -13234,8 +13282,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T07:58:58.133439+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-21T01:33:17.790231+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16036,8 +16084,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T01:50:52.926319+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-15T09:25:08.226620+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16064,8 +16112,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T05:16:29.776113+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-20T05:08:45.653948+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17263,6 +17311,11 @@
    "status": "found",
    "year": 2025
   },
+  "one-katha-at-a-time|swe|l1": {
+   "expires": "2026-12-07T02:35:02.505363+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
+   "status": "not_found"
+  },
   "one-simulation|frontend|l1": {
    "expires": "2026-11-19T20:55:28.985220+00:00",
    "looked_up": "2026-11-04T03:01:31+00:00",
@@ -17575,8 +17628,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T03:31:32.750339+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-11T14:33:09.307298+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18570,8 +18623,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T04:08:35.955374+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-18T03:30:47.089727+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19463,8 +19516,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T07:30:00.247593+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-08T00:51:22.306711+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21355,8 +21408,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:31:04.589423+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-19T18:04:24.954395+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -23769,6 +23822,11 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
+  "the-manitowoc-company|swe|l1": {
+   "expires": "2026-11-27T04:12:24.572074+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
+   "status": "not_found"
+  },
   "the-network|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -25583,8 +25641,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T05:46:01.885922+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
+   "expires": "2027-02-10T17:24:09.269903+00:00",
+   "looked_up": "2026-11-16T18:01:20+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27100,8 +27158,8 @@
  },
  "meta": {
   "day": "2026-11-16",
-  "lookups_month": 1877,
-  "lookups_today": 157,
+  "lookups_month": 1884,
+  "lookups_today": 164,
   "month": "2026-11"
  }
 }
