@@ -1116,11 +1116,6 @@
    "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
-  "alignerr|swe|l1": {
-   "expires": "2026-11-16T02:06:36.154174+00:00",
-   "looked_up": "2026-10-29T11:01:33+00:00",
-   "status": "not_found"
-  },
   "allbridge-technologies|swe|l1": {
    "expires": "2026-12-03T01:38:33.639392+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -12425,8 +12420,8 @@
   "jasviv-technologies|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:34:24.631903+00:00",
-   "looked_up": "2026-11-16T02:01:20+00:00",
+   "expires": "2027-02-20T20:15:47.728010+00:00",
+   "looked_up": "2026-11-16T02:11:56+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -15243,11 +15238,6 @@
    "looked_up": "2026-10-29T13:01:31+00:00",
    "status": "not_found"
   },
-  "mouser-electronics|frontend|l1": {
-   "expires": "2026-11-16T02:04:47.973883+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
   "mouser-electronics|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -17568,11 +17558,6 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
-  "pluswealth|fullstack|l1": {
-   "expires": "2026-11-16T02:09:54.116904+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "pocket-fm|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17839,8 +17824,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:50:57.674888+00:00",
-   "looked_up": "2026-11-16T02:01:20+00:00",
+   "expires": "2027-02-16T05:17:01.720133+00:00",
+   "looked_up": "2026-11-16T02:11:56+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -20182,8 +20167,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:24:36.903255+00:00",
-   "looked_up": "2026-11-16T02:01:20+00:00",
+   "expires": "2027-02-08T18:22:07.367627+00:00",
+   "looked_up": "2026-11-16T02:11:56+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
