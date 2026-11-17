@@ -4065,8 +4065,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:25:44.753344+00:00",
-   "looked_up": "2026-11-17T22:23:38+00:00",
+   "expires": "2027-02-09T07:27:33.651444+00:00",
+   "looked_up": "2026-11-17T23:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5689,8 +5689,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T00:31:55.925088+00:00",
-   "looked_up": "2026-11-17T22:23:38+00:00",
+   "expires": "2027-02-12T19:44:46.343617+00:00",
+   "looked_up": "2026-11-17T23:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -13587,11 +13587,6 @@
    "looked_up": "2026-11-09T12:01:22+00:00",
    "status": "not_found"
   },
-  "ix7-research|swe|l1": {
-   "expires": "2026-11-17T22:41:58.021404+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
-   "status": "not_found"
-  },
   "izicart|swe|l1": {
    "expires": "2026-11-28T03:46:39.902352+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -18250,8 +18245,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T13:33:32.189556+00:00",
-   "looked_up": "2026-11-17T22:23:38+00:00",
+   "expires": "2027-02-14T14:27:00.213224+00:00",
+   "looked_up": "2026-11-17T23:01:28+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -26478,8 +26473,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:49:10.206006+00:00",
-   "looked_up": "2026-11-17T22:23:38+00:00",
+   "expires": "2027-02-10T15:23:59.996118+00:00",
+   "looked_up": "2026-11-17T23:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
