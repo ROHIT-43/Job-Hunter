@@ -639,11 +639,6 @@
    "looked_up": "2026-11-11T16:01:21+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|fullstack|l1": {
-   "expires": "2026-11-17T22:07:18.266766+00:00",
-   "looked_up": "2026-11-06T04:01:14+00:00",
-   "status": "not_found"
-  },
   "aditiconsulting|swe|l1": {
    "expires": "2026-11-26T11:14:39.842583+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -1745,11 +1740,6 @@
   "anaxistech|swe|l1": {
    "expires": "2026-11-24T02:58:12.994939+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "anchusa-software-solutions-private-limited|swe|l1": {
-   "expires": "2026-11-17T22:17:49.102374+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
    "status": "not_found"
   },
   "andromedaloans|swe|l1": {
@@ -4075,8 +4065,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T16:41:14.189979+00:00",
-   "looked_up": "2026-11-17T22:01:14+00:00",
+   "expires": "2027-02-12T11:25:44.753344+00:00",
+   "looked_up": "2026-11-17T22:23:38+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5699,8 +5689,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:56:14.607617+00:00",
-   "looked_up": "2026-11-17T22:01:14+00:00",
+   "expires": "2027-02-21T00:31:55.925088+00:00",
+   "looked_up": "2026-11-17T22:23:38+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -18260,8 +18250,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:21:50.084279+00:00",
-   "looked_up": "2026-11-17T22:01:14+00:00",
+   "expires": "2027-02-16T13:33:32.189556+00:00",
+   "looked_up": "2026-11-17T22:23:38+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -26488,8 +26478,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T03:12:01.164321+00:00",
-   "looked_up": "2026-11-17T22:01:14+00:00",
+   "expires": "2027-02-13T08:49:10.206006+00:00",
+   "looked_up": "2026-11-17T22:23:38+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
