@@ -3623,11 +3623,6 @@
    "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
   },
-  "blueprine-technologies|fullstack|l1": {
-   "expires": "2026-11-17T18:14:59.429894+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
   "blueyonder|devops|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -4069,8 +4064,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T20:10:40.918038+00:00",
-   "looked_up": "2026-11-17T18:01:39+00:00",
+   "expires": "2027-02-10T13:10:44.572667+00:00",
+   "looked_up": "2026-11-17T19:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4467,11 +4462,6 @@
   "cantellat|mobile|l1": {
    "expires": "2026-11-21T12:12:17.705944+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "cantellat|swe|l1": {
-   "expires": "2026-11-17T18:31:55.051979+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
   "capco|data|l1": {
@@ -5698,8 +5688,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:48:06.979237+00:00",
-   "looked_up": "2026-11-17T18:01:39+00:00",
+   "expires": "2027-02-18T21:49:17.372924+00:00",
+   "looked_up": "2026-11-17T19:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -9828,11 +9818,6 @@
   "forbes-advisor|data|l1": {
    "expires": "2026-11-21T23:26:06.481290+00:00",
    "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
-  },
-  "force-intellect-pvt-ltd-|frontend|l1": {
-   "expires": "2026-11-17T18:26:47.097102+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
   },
   "ford-motor-company|data|l1": {
@@ -18281,6 +18266,20 @@
    "status": "found",
    "year": 2025
   },
+  "opviain|data|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-11T03:38:33.179369+00:00",
+   "looked_up": "2026-11-17T19:01:24+00:00",
+   "max_lpa": 24.0,
+   "min_lpa": 18.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "opviain|swe|l1": {
    "expires": "2026-12-05T12:12:58.195147+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
@@ -26354,6 +26353,30 @@
    "status": "found",
    "year": null
   },
+  "veradigm|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T17:43:38.316059+00:00",
+   "looked_up": "2026-11-17T19:01:24+00:00",
+   "max_lpa": 6.6,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/veradigm-salaries/pune-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/veradigm-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/veradigm-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "verint|erp|l1": {
    "expires": "2026-12-02T13:41:11.630605+00:00",
    "looked_up": "2026-11-13T19:01:21+00:00",
@@ -26453,8 +26476,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:13:37.647502+00:00",
-   "looked_up": "2026-11-17T18:01:39+00:00",
+   "expires": "2027-02-22T18:22:44.350643+00:00",
+   "looked_up": "2026-11-17T19:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -28293,8 +28316,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2067,
-  "lookups_today": 174,
+  "lookups_month": 2068,
+  "lookups_today": 175,
   "month": "2026-11"
  }
 }
