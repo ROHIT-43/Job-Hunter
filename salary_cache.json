@@ -814,6 +814,11 @@
    "looked_up": "2026-11-08T01:01:21+00:00",
    "status": "not_found"
   },
+  "agilegrid-solutions|swe|l1": {
+   "expires": "2026-11-27T22:40:09.399635+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
+   "status": "not_found"
+  },
   "agilent-technologies|swe|l1": {
    "expires": "2026-12-03T14:16:39.846876+00:00",
    "looked_up": "2026-11-14T00:01:25+00:00",
@@ -4064,8 +4069,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:10:44.572667+00:00",
-   "looked_up": "2026-11-17T19:01:24+00:00",
+   "expires": "2027-02-11T22:14:44.439478+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5688,8 +5693,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:49:17.372924+00:00",
-   "looked_up": "2026-11-17T19:01:24+00:00",
+   "expires": "2027-02-09T11:19:43.446643+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -9774,11 +9779,6 @@
    "looked_up": "2026-11-08T11:01:21+00:00",
    "status": "not_found"
   },
-  "fm|swe|l1": {
-   "expires": "2026-11-17T20:00:15.693118+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
   "fnz|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11060,11 +11060,6 @@
   "hamid-tech-world|frontend|l1": {
    "expires": "2026-11-26T05:38:42.996968+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
-   "status": "not_found"
-  },
-  "hancod|mobile|l1": {
-   "expires": "2026-11-17T20:00:02.232384+00:00",
-   "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
   "hanuman-silk-creation|swe|l1": {
@@ -18269,8 +18264,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:38:33.179369+00:00",
-   "looked_up": "2026-11-17T19:01:24+00:00",
+   "expires": "2027-02-09T06:06:25.495785+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19208,6 +19203,11 @@
   "portage-point-partners|devops|l1": {
    "expires": "2026-12-01T07:33:21.403929+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "portal26|swe|l1": {
+   "expires": "2026-11-29T14:21:56.654257+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
    "status": "not_found"
   },
   "postaresume|devops|l1": {
@@ -23721,11 +23721,6 @@
    "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
-  "talentquell|fullstack|l1": {
-   "expires": "2026-11-17T19:47:24.459920+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
   "talentrabbit|frontend|l1": {
    "expires": "2026-12-02T01:09:58.319811+00:00",
    "looked_up": "2026-11-12T15:01:25+00:00",
@@ -26427,6 +26422,22 @@
    "status": "found",
    "year": 2026
   },
+  "vertiv|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T12:20:52.899890+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
+   "max_lpa": 25.3,
+   "min_lpa": 19.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vertiv-salaries/software-developer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "verve-logic|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26476,8 +26487,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T18:22:44.350643+00:00",
-   "looked_up": "2026-11-17T19:01:24+00:00",
+   "expires": "2027-02-21T21:08:20.957484+00:00",
+   "looked_up": "2026-11-17T20:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26866,11 +26877,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "vysystems|erp|l1": {
-   "expires": "2026-11-17T19:36:46.649450+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
   },
   "vysystems|frontend|l1": {
    "expires": "2026-12-03T12:37:48.555775+00:00",
@@ -28316,8 +28322,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2068,
-  "lookups_today": 175,
+  "lookups_month": 2071,
+  "lookups_today": 178,
   "month": "2026-11"
  }
 }
