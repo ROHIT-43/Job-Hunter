@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T02:37:59.029268+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-20T08:21:17.006756+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T23:52:24.570878+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-08T10:53:27.070125+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -3111,6 +3111,22 @@
    "expires": "2026-11-23T00:40:12.897989+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
+  },
+  "bayone-solutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T04:13:01.648019+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bayone-solutions-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "bcits-private-limited|fullstack|l1": {
    "basis": "ctc",
@@ -6779,8 +6795,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:16:52.404189+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-17T00:13:03.778798+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7422,6 +7438,11 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
+  "dvk-analytics|swe|l1": {
+   "expires": "2026-12-06T09:56:32.345907+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
+   "status": "not_found"
+  },
   "dwellfi|frontend|l1": {
    "expires": "2026-11-26T08:15:47.756832+00:00",
    "looked_up": "2026-11-16T12:01:23+00:00",
@@ -7481,8 +7502,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:04:55.395293+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-10T10:46:25.022918+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7628,6 +7649,11 @@
   "edwards|devops|l1": {
    "expires": "2026-11-20T21:21:28.921382+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
+   "status": "not_found"
+  },
+  "effulgent-inc|fullstack|l1": {
+   "expires": "2026-12-04T19:00:10.356342+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "status": "not_found"
   },
   "effulgent-inc|swe|l1": {
@@ -12805,6 +12831,11 @@
    "status": "found",
    "year": 2025
   },
+  "iouring|swe|l1": {
+   "expires": "2026-12-01T15:27:57.336244+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
+   "status": "not_found"
+  },
   "iqvia-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13299,8 +13330,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T03:24:35.936400+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-21T05:14:04.450650+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16066,8 +16097,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T21:52:57.407242+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-15T08:08:02.939031+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16094,8 +16125,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:38:38.715796+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-13T06:11:22.499355+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17615,8 +17646,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T21:17:38.475491+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-21T14:06:22.036506+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18605,8 +18636,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T15:20:52.288548+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-09T07:46:52.707389+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19498,8 +19529,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:12:08.607695+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-19T03:49:55.722101+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21390,8 +21421,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T09:57:09.829194+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-21T16:52:25.394951+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -25609,8 +25640,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:10:07.690847+00:00",
-   "looked_up": "2026-11-17T03:53:02+00:00",
+   "expires": "2027-02-11T11:56:19.593738+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -26069,6 +26100,11 @@
    "status": "found",
    "year": 2025
   },
+  "welocityai|swe|l1": {
+   "expires": "2026-11-29T15:02:58.893871+00:00",
+   "looked_up": "2026-11-17T04:01:21+00:00",
+   "status": "not_found"
+  },
   "western-digital|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26341,11 +26377,6 @@
     }
    ],
    "status": "found"
-  },
-  "wpp-enterprise-solutions|frontend|l1": {
-   "expires": "2026-11-17T03:56:51.203893+00:00",
-   "looked_up": "2026-11-04T08:01:29+00:00",
-   "status": "not_found"
   },
   "wrathcode-technology|swe|l1": {
    "basis": "posted",
@@ -27116,8 +27147,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1900,
-  "lookups_today": 7,
+  "lookups_month": 1905,
+  "lookups_today": 12,
   "month": "2026-11"
  }
 }
