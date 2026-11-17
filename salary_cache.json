@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:14:40.715759+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-18T14:20:23.024939+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T14:56:51.722247+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-08T15:47:49.796312+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1159,11 +1159,6 @@
   "algoworks|data|l1": {
    "expires": "2026-11-19T06:46:26.741844+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
-  "alightsolutions|swe|l1": {
-   "expires": "2026-11-17T00:11:24.684882+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "alignerr|security|l1": {
@@ -5249,6 +5244,11 @@
    "looked_up": "2026-11-12T20:01:21+00:00",
    "status": "not_found"
   },
+  "cloudstaff|devops|l1": {
+   "expires": "2026-12-04T03:54:51.592715+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
+   "status": "not_found"
+  },
   "cloudsutra|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6789,8 +6789,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:35:18.000214+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-16T15:45:43.533065+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7496,8 +7496,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T14:38:55.224076+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-20T11:13:34.290666+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7741,8 +7741,8 @@
    "status": "not_found"
   },
   "ellkay|data|l1": {
-   "expires": "2026-11-17T00:08:28.230433+00:00",
-   "looked_up": "2026-11-05T22:01:17+00:00",
+   "expires": "2026-11-28T05:08:45.867848+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "status": "not_found"
   },
   "elsevier|swe|l2": {
@@ -7865,8 +7865,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:08:15.438985+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-09T22:03:10.345804+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -8319,11 +8319,6 @@
   "eurotechsol-gmbh|erp|l1": {
    "expires": "2026-11-23T10:37:50.104364+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
-  "evadivy|swe|l1": {
-   "expires": "2026-11-17T00:12:19.803667+00:00",
-   "looked_up": "2026-11-01T18:01:31+00:00",
    "status": "not_found"
   },
   "evearis|swe|l1": {
@@ -13324,8 +13319,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:06:39.030687+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-21T12:48:09.642876+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14289,11 +14284,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "lh2-ai-labs|security|l1": {
-   "expires": "2026-11-17T00:16:36.136127+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
   },
   "liaison-bank|swe|l1": {
    "basis": "posted",
@@ -15430,11 +15420,6 @@
    "status": "found",
    "year": null
   },
-  "medpace|swe|l1": {
-   "expires": "2026-11-17T00:47:18.764556+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "medtronic|swe|l1": {
    "expires": "2026-11-17T02:36:46.199291+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
@@ -16088,11 +16073,6 @@
    "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
-  "msr-technology-group|swe|l1": {
-   "expires": "2026-11-17T00:55:37.056311+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
-   "status": "not_found"
-  },
   "mufg|erp|l1": {
    "expires": "2026-11-25T15:26:14.487361+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
@@ -16121,8 +16101,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:48:29.951298+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-10T16:39:25.590282+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16149,8 +16129,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T11:53:45.270222+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-12T22:38:24.944087+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17670,8 +17650,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:19:21.370154+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-08T08:51:24.898652+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18660,8 +18640,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:00:00.165372+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-15T19:05:11.599191+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -18957,6 +18937,16 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "pwc-brasil|data|l1": {
+   "expires": "2026-11-26T13:57:15.391756+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
+   "status": "not_found"
+  },
+  "pwc-brasil|erp|l1": {
+   "expires": "2026-11-29T04:40:37.383856+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
+   "status": "not_found"
   },
   "pwc-india|data|l1": {
    "basis": "ctc",
@@ -19548,8 +19538,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:22:38.563231+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-14T22:05:20.165219+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21430,8 +21420,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:49:33.511770+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-17T02:38:00.937239+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -22314,11 +22304,6 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
-  "sunbeam-world-school123|fullstack|l1": {
-   "expires": "2026-11-17T00:30:36.452513+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "sunkingglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22382,6 +22367,22 @@
     }
    ],
    "status": "found"
+  },
+  "surebright|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T12:15:22.329485+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "foundit.in",
+     "uri": "https://www.foundit.in/job/software-engineer-founder-s-office-surebright-gurugram-58925570"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "surepass|frontend|l1": {
    "basis": "base",
@@ -23792,11 +23793,6 @@
   "the-brand-exact|frontend|l1": {
    "expires": "2026-11-24T13:23:39.712877+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "the-economist|data|l1": {
-   "expires": "2026-11-17T00:48:49.066497+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
   "the-emmes-group|swe|l1": {
@@ -25648,8 +25644,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T12:41:43.820127+00:00",
-   "looked_up": "2026-11-17T00:01:31+00:00",
+   "expires": "2027-02-15T06:17:13.227233+00:00",
+   "looked_up": "2026-11-17T01:01:37+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27155,8 +27151,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1893,
-  "lookups_today": 0,
+  "lookups_month": 1898,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
