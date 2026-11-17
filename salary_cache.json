@@ -992,11 +992,6 @@
    ],
    "status": "found"
   },
-  "aixpense-in|mobile|l1": {
-   "expires": "2026-11-17T16:11:53.347783+00:00",
-   "looked_up": "2026-11-08T10:01:17+00:00",
-   "status": "not_found"
-  },
   "akamai-technologies|data|l2": {
    "expires": "2026-11-26T08:45:11.868546+00:00",
    "looked_up": "2026-11-12T17:01:24+00:00",
@@ -2670,6 +2665,26 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
+  "atkinsrealis|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T02:57:56.023932+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
+   "max_lpa": 11.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/jobs/atkinsrealis-jobs"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/atkinsrealis-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "atlassian|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -4049,8 +4064,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T07:09:29.518700+00:00",
-   "looked_up": "2026-11-17T16:01:28+00:00",
+   "expires": "2027-02-08T18:30:43.275881+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5672,8 +5687,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:15:57.584969+00:00",
-   "looked_up": "2026-11-17T16:01:28+00:00",
+   "expires": "2027-02-14T02:08:24.769739+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7073,8 +7088,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T19:01:49.222798+00:00",
-   "looked_up": "2026-11-17T16:01:28+00:00",
+   "expires": "2027-02-19T10:09:02.930797+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9674,11 +9689,6 @@
    "looked_up": "2026-11-07T01:01:15+00:00",
    "status": "not_found"
   },
-  "flint-thread|fullstack|l1": {
-   "expires": "2026-11-17T16:28:48.867489+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
-   "status": "not_found"
-  },
   "flipkart|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -9858,6 +9868,11 @@
    ],
    "status": "found",
    "year": 2022
+  },
+  "forrester-research|erp|l1": {
+   "expires": "2026-12-04T16:59:31.919080+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
+   "status": "not_found"
   },
   "fortyv|fullstack|l1": {
    "expires": "2026-11-18T17:40:58.957742+00:00",
@@ -12586,6 +12601,11 @@
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
   },
+  "indian-institutes-of-public-health-iiphs|swe|l1": {
+   "expires": "2026-12-07T01:31:31.485349+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
+   "status": "not_found"
+  },
   "indmoney|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13718,10 +13738,25 @@
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
-  "jio-star|data|l2": {
-   "expires": "2026-11-17T16:06:09.317080+00:00",
-   "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
+  "jio-star|fullstack|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-20T14:55:27.149079+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
+   "max_lpa": 31.0,
+   "min_lpa": 23.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/jio-salaries/sde-2/bengaluru-location"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/7529982/jiohotstar-software-development-engineer-6uz4/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "jio-star|security|l1": {
    "expires": "2026-11-24T15:17:45.999682+00:00",
@@ -15587,9 +15622,9 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "master-2-droit-international-économique-paris-ii-panthéon-assas|swe|l1": {
-   "expires": "2026-11-17T16:55:41.687871+00:00",
-   "looked_up": "2026-10-30T21:01:32+00:00",
+  "mastercam|swe|l1": {
+   "expires": "2026-12-03T06:18:48.429820+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "status": "not_found"
   },
   "mastercard|data|l2": {
@@ -15852,11 +15887,6 @@
   "max-cement-green-valliey-industries-ltd|erp|l1": {
    "expires": "2026-11-25T03:39:10.955106+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "maxval-group-inc.|erp|l1": {
-   "expires": "2026-11-17T16:17:25.599380+00:00",
-   "looked_up": "2026-10-28T08:01:28+00:00",
    "status": "not_found"
   },
   "mbtygl|frontend|l1": {
@@ -16154,6 +16184,11 @@
   "mikron-automation|swe|l1": {
    "expires": "2026-11-30T10:10:34.508883+00:00",
    "looked_up": "2026-11-14T02:01:27+00:00",
+   "status": "not_found"
+  },
+  "milestone-technologies|erp|l1": {
+   "expires": "2026-11-25T06:49:49.285582+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "status": "not_found"
   },
   "millennium-partners|swe|l1": {
@@ -18603,6 +18638,11 @@
   "parsewave|swe|l1": {
    "expires": "2026-12-04T10:21:08.563968+00:00",
    "looked_up": "2026-11-14T04:01:25+00:00",
+   "status": "not_found"
+  },
+  "parspec|swe|l1": {
+   "expires": "2026-11-27T22:16:58.185464+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "status": "not_found"
   },
   "partechnology|swe|l2": {
@@ -26154,6 +26194,26 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
+  "vanguard|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T10:31:21.108286+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
+   "max_lpa": 11.5,
+   "min_lpa": 9.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vanguard-salaries/software-developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vanguard-salaries/hyderabad-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "vastika-inc|swe|l1": {
    "expires": "2026-11-20T21:05:48.312931+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -26324,8 +26384,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T00:44:21.499037+00:00",
-   "looked_up": "2026-11-17T16:01:28+00:00",
+   "expires": "2027-02-13T07:35:29.142437+00:00",
+   "looked_up": "2026-11-17T17:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -28149,8 +28209,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2046,
-  "lookups_today": 153,
+  "lookups_month": 2054,
+  "lookups_today": 161,
   "month": "2026-11"
  }
 }
