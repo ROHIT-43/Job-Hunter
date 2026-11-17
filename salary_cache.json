@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:57:03.728830+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-14T08:06:05.817592+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T13:35:28.270589+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-17T18:22:44.966173+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1795,6 +1795,11 @@
    "looked_up": "2026-11-03T03:01:30+00:00",
    "status": "not_found"
   },
+  "anovia-inc|swe|l1": {
+   "expires": "2026-12-08T03:14:04.937754+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "status": "not_found"
+  },
   "anr-business-consulting|devops|l1": {
    "expires": "2026-11-21T23:40:25.176244+00:00",
    "looked_up": "2026-11-08T13:01:43+00:00",
@@ -2812,6 +2817,11 @@
    "looked_up": "2026-11-06T07:01:16+00:00",
    "status": "not_found"
   },
+  "aventiq-ai|frontend|l1": {
+   "expires": "2026-11-30T22:05:12.461444+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "status": "not_found"
+  },
   "aveva|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -2923,6 +2933,22 @@
    "expires": "2026-11-22T16:59:10.198885+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
    "status": "not_found"
+  },
+  "baazi-games|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T02:17:32.322834+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "max_lpa": 19.6,
+   "min_lpa": 12.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/baazi-games-salaries/software-development-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "backblaze|devops|l2": {
    "expires": "2026-11-18T19:39:43.243732+00:00",
@@ -5512,8 +5538,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T05:23:22.996296+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-21T08:53:37.012173+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6871,8 +6897,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T07:23:32.805232+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-19T22:08:35.086952+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7583,8 +7609,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T05:38:08.639163+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-12T16:43:43.197022+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -11216,6 +11242,11 @@
    "looked_up": "2026-11-12T01:01:24+00:00",
    "status": "not_found"
   },
+  "hightemp-furnaces|swe|l1": {
+   "expires": "2026-12-04T02:36:27.185176+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "status": "not_found"
+  },
   "hindustan-brass-industries|swe|l1": {
    "expires": "2026-11-26T21:09:17.022814+00:00",
    "looked_up": "2026-11-06T16:01:16+00:00",
@@ -13498,8 +13529,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T17:22:29.734049+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-18T21:03:33.016001+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -15457,6 +15488,11 @@
    "status": "found",
    "year": 2025
   },
+  "mavenworkforce|swe|l1": {
+   "expires": "2026-11-28T02:19:23.521605+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "status": "not_found"
+  },
   "max-cement-green-valliey-industries-ltd|erp|l1": {
    "expires": "2026-11-25T03:39:10.955106+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
@@ -16281,8 +16317,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:55:15.804696+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-15T03:58:20.529238+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16309,8 +16345,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:08:34.748769+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-10T16:32:01.060821+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16760,6 +16796,11 @@
   "nexionpro-sevices-llp|security|l1": {
    "expires": "2026-11-21T14:36:18.497552+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
+   "status": "not_found"
+  },
+  "nextup-robotics|swe|l1": {
+   "expires": "2026-12-04T01:33:03.620152+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "status": "not_found"
   },
   "nexvion-labs|swe|l1": {
@@ -18845,8 +18886,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T05:48:29.244064+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-21T07:08:10.614737+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19910,6 +19951,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "recro-io|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T20:06:53.433528+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "max_lpa": 8.1,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/recro-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
   },
   "recro-io|fullstack|l1": {
    "expires": "2026-12-01T09:00:10.641204+00:00",
@@ -21640,8 +21697,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T08:22:37.546980+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-10T07:33:27.267033+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -23657,6 +23714,26 @@
    "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
+  "tekpillar|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T18:43:02.368700+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tekpillar-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tekpillar-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "tekshiras-software-services-private-limited|security|l1": {
    "expires": "2026-11-30T09:00:42.838150+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
@@ -25634,8 +25711,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T11:37:57.097380+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-18T19:51:06.163971+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -25952,8 +26029,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T12:33:27.576894+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
+   "expires": "2027-02-21T01:37:57.708806+00:00",
+   "looked_up": "2026-11-17T08:01:21+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27459,8 +27536,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1953,
-  "lookups_today": 60,
+  "lookups_month": 1961,
+  "lookups_today": 68,
   "month": "2026-11"
  }
 }
