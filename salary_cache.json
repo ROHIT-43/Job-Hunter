@@ -229,8 +229,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:32:31.954340+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-16T17:25:20.632648+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2196,6 +2196,22 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
+  "arcadiahq|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T05:12:26.380064+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "max_lpa": 15.1,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arcadia-salaries/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "arcanaanalytics|devops|l1": {
    "expires": "2026-11-20T14:02:23.505032+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
@@ -3955,6 +3971,11 @@
    "status": "found",
    "year": 2026
   },
+  "bp|devops|l1": {
+   "expires": "2026-12-02T15:40:35.906363+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "brace-infotech|devops|l1": {
    "expires": "2026-11-29T05:27:22.236172+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -3991,8 +4012,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:14:37.841937+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-13T02:38:19.523133+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4566,11 +4587,6 @@
   "careerblocc|frontend|l1": {
    "expires": "2026-11-21T20:01:48.451587+00:00",
    "looked_up": "2026-11-07T07:01:15+00:00",
-   "status": "not_found"
-  },
-  "careerxperts-consulting|frontend|l1": {
-   "expires": "2026-11-17T11:28:27.389909+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
   "careerxperts-consulting|fullstack|l1": {
@@ -5598,8 +5614,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:37:36.184828+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-15T17:06:51.639961+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6701,6 +6717,11 @@
    "status": "found",
    "year": 2025
   },
+  "cynergyservices|data|l1": {
+   "expires": "2026-12-03T04:56:36.234926+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "cysec-global|frontend|l1": {
    "expires": "2026-11-24T19:50:24.564737+00:00",
    "looked_up": "2026-11-16T08:06:20+00:00",
@@ -6994,8 +7015,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T00:09:42.341058+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-18T08:13:39.892780+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7081,6 +7102,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "deloitte|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T02:50:10.085521+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "max_lpa": 17.0,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deloitte-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "deloitte|fullstack|l1": {
    "basis": "ctc",
@@ -7986,6 +8023,11 @@
    "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
+  "emagine|erp|l1": {
+   "expires": "2026-11-29T07:45:49.697450+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "emagine|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8074,6 +8116,11 @@
    "looked_up": "2026-11-14T06:01:18+00:00",
    "status": "not_found"
   },
+  "employlabs|fullstack|l1": {
+   "expires": "2026-11-30T13:34:56.460856+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "emriom-solutions|swe|l1": {
    "expires": "2026-12-03T06:43:35.738784+00:00",
    "looked_up": "2026-11-14T05:01:30+00:00",
@@ -8092,6 +8139,11 @@
     }
    ],
    "status": "found"
+  },
+  "engel-global|erp|l1": {
+   "expires": "2026-12-01T05:04:49.736826+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
   },
   "englishyaari|swe|l1": {
    "basis": "posted",
@@ -11494,6 +11546,11 @@
    "status": "found",
    "year": 2026
   },
+  "hitachienergy|data|l1": {
+   "expires": "2026-11-27T03:56:52.168120+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "hitachienergy|swe|l1": {
    "expires": "2026-11-20T05:37:04.761200+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -12375,6 +12432,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "iitjobs|data|l1": {
+   "expires": "2026-11-26T09:47:07.790348+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
   },
   "iitjobs|erp|l1": {
    "expires": "2026-11-18T10:09:19.183930+00:00",
@@ -13465,6 +13527,11 @@
    "status": "found",
    "year": 2026
   },
+  "j-s-held|swe|l1": {
+   "expires": "2026-12-01T13:39:41.478744+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "jabil|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -13693,6 +13760,11 @@
    "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
+  "johnson-&amp;-johnson|erp|l1": {
+   "expires": "2026-12-05T20:15:00.284696+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "johnson-controls|devops|l1": {
    "expires": "2026-11-27T12:41:08.980031+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -13730,8 +13802,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T11:55:44.730906+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-10T11:01:58.641156+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17347,6 +17419,11 @@
    "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
+  "nrg-foods|swe|l1": {
+   "expires": "2026-12-07T08:00:50.964573+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
   "ntt-data-americas|data|l1": {
    "expires": "2026-12-04T01:02:56.433952+00:00",
    "looked_up": "2026-11-16T23:01:36+00:00",
@@ -17448,6 +17525,22 @@
     {
      "title": "fita.in",
      "uri": "https://www.fita.in/ntt-data-salary-for-freshers/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "ntt-data-inc|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T06:16:12.561760+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ntt-data-inc-salaries/associate-software-engineer/bengaluru-location"
     }
    ],
    "status": "found",
@@ -17912,11 +18005,6 @@
    "status": "found",
    "year": 2026
   },
-  "openlm|security|l1": {
-   "expires": "2026-11-17T11:26:52.684247+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
-  },
   "openstars|frontend|l1": {
    "expires": "2026-11-20T08:09:56.764107+00:00",
    "looked_up": "2026-11-11T07:01:25+00:00",
@@ -18364,6 +18452,11 @@
   "parallelteam|data|l1": {
    "expires": "2026-12-01T11:00:46.577235+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
+   "status": "not_found"
+  },
+  "parcel-apps|swe|l1": {
+   "expires": "2026-11-28T19:50:00.447659+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "status": "not_found"
   },
   "parexel|swe|l1": {
@@ -20354,6 +20447,22 @@
    "status": "found",
    "year": 2026
   },
+  "refyne-india|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T22:05:31.483404+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
+   "max_lpa": 32.0,
+   "min_lpa": 15.0,
+   "sources": [
+    {
+     "title": "cutshort.io",
+     "uri": "https://cutshort.io/job/Software-Development-Engineer-2-3-Bengaluru-Bangalore-Refyne-GCR22Qhi"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "reliaquest|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -20758,11 +20867,6 @@
   "runmapglobal|erp|l1": {
    "expires": "2026-11-29T03:13:03.859478+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
-  "rushiv-infotech|data|l1": {
-   "expires": "2026-11-17T11:45:04.952687+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
   "rv5-uksag|swe|l1": {
@@ -26059,8 +26163,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:20:48.081700+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-15T16:53:11.284036+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26204,6 +26308,11 @@
   "vishay-intertechnology-inc-|swe|l1": {
    "expires": "2026-11-22T03:56:58.535805+00:00",
    "looked_up": "2026-11-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "visionet-systems-inc-|devops|l1": {
+   "expires": "2026-12-01T00:55:23.849779+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "status": "not_found"
   },
   "visionet-systems-inc-|swe|l1": {
@@ -26377,8 +26486,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T06:16:50.424506+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
+   "expires": "2027-02-21T06:10:25.788108+00:00",
+   "looked_up": "2026-11-17T12:01:31+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27184,11 +27293,6 @@
    "status": "found",
    "year": 2026
   },
-  "xhawk|swe|l1": {
-   "expires": "2026-11-17T11:58:27.671365+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "yachtlocharter|fullstack|l1": {
    "expires": "2026-12-03T10:12:10.550693+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
@@ -27879,8 +27983,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2004,
-  "lookups_today": 111,
+  "lookups_month": 2020,
+  "lookups_today": 127,
   "month": "2026-11"
  }
 }
