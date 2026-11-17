@@ -229,8 +229,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T17:25:20.632648+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-15T19:58:13.106256+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -561,6 +561,11 @@
   "acuityanalytics|data|l1": {
    "expires": "2026-11-21T20:45:41.087960+00:00",
    "looked_up": "2026-11-13T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "acumenzconsulting|erp|l1": {
+   "expires": "2026-11-26T13:09:50.437293+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "status": "not_found"
   },
   "acura-solutions-ltd|swe|l1": {
@@ -1557,11 +1562,6 @@
    "status": "found",
    "year": 2026
   },
-  "american-express|security|l1": {
-   "expires": "2026-11-17T12:32:03.057360+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "american-express|security|l3": {
    "basis": "base",
    "confidence": "low",
@@ -1978,6 +1978,22 @@
    "expires": "2026-11-27T00:43:04.607760+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
+  },
+  "applicantz-com|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T19:33:23.152765+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "max_lpa": 32.2,
+   "min_lpa": 25.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/applicantz-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "application-software-centre-iit-bombay|fullstack|l1": {
    "expires": "2026-11-26T02:46:03.118121+00:00",
@@ -2574,6 +2590,22 @@
    "expires": "2026-11-21T23:44:57.519094+00:00",
    "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
+  },
+  "astreya|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T05:27:15.896661+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 13.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/astreya-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "asymmetric-research|security|l1": {
    "expires": "2026-12-02T19:21:01.718035+00:00",
@@ -4012,8 +4044,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T02:38:19.523133+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-22T02:46:16.896773+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5614,8 +5646,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:06:51.639961+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-13T12:52:25.841250+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7015,8 +7047,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:13:39.892780+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-10T13:47:55.582592+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7041,11 +7073,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "delegenix|fullstack|l1": {
-   "expires": "2026-11-17T12:38:54.714345+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
-   "status": "not_found"
   },
   "deloitte|devops|l1": {
    "basis": "ctc",
@@ -9179,6 +9206,26 @@
    "expires": "2026-11-23T13:51:45.758094+00:00",
    "looked_up": "2026-11-13T14:01:38+00:00",
    "status": "not_found"
+  },
+  "fidelity-international|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T05:22:50.540340+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "max_lpa": 12.7,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/fidelity-international-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/fidelity-international-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "fidelity-investments|swe|l1": {
    "basis": "ctc",
@@ -12902,6 +12949,11 @@
    "status": "found",
    "year": 2026
   },
+  "infoway-solutions|security|l1": {
+   "expires": "2026-11-26T03:03:02.830773+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
+  },
   "infrafino|swe|l1": {
    "expires": "2026-11-21T19:09:07.268013+00:00",
    "looked_up": "2026-11-11T09:01:25+00:00",
@@ -13802,8 +13854,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:01:58.641156+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-15T23:33:52.295367+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14889,6 +14941,11 @@
    "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
+  "littlebig-connection|swe|l1": {
+   "expires": "2026-12-04T07:04:49.947927+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
+  },
   "livesupr|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15398,11 +15455,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "mancer-consulting-services|data|l1": {
-   "expires": "2026-11-17T12:31:18.725007+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
   },
   "manipal-university-jaipur|swe|l1": {
    "expires": "2026-11-27T06:35:13.232583+00:00",
@@ -17097,11 +17149,6 @@
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
-  "netsysconconsulting|swe|l1": {
-   "expires": "2026-11-17T12:38:14.939827+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "neuphonic|devops|l1": {
    "expires": "2026-11-23T20:50:27.290242+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
@@ -18296,6 +18343,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "osfin-ai|devops|l1": {
+   "expires": "2026-12-03T11:03:44.886896+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
   },
   "oslrs|data|l1": {
    "expires": "2026-11-24T10:41:53.390581+00:00",
@@ -19736,11 +19788,6 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
-  "qnityelectronics|swe|l1": {
-   "expires": "2026-11-17T12:41:14.031035+00:00",
-   "looked_up": "2026-10-31T11:01:28+00:00",
-   "status": "not_found"
-  },
   "qriosity-work|swe|l1": {
    "expires": "2026-11-24T20:08:09.009636+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
@@ -20785,6 +20832,11 @@
     }
    ],
    "status": "found"
+  },
+  "role-nest|mobile|l1": {
+   "expires": "2026-12-01T08:23:14.780331+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
   },
   "rollingarrays|erp|l1": {
    "expires": "2026-11-23T17:06:09.382373+00:00",
@@ -25886,6 +25938,11 @@
    "status": "found",
    "year": 2026
   },
+  "vaics-consulting|swe|l1": {
+   "expires": "2026-11-25T09:02:35.437180+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
+  },
   "valarr|swe|l1": {
    "expires": "2026-11-24T06:42:32.298204+00:00",
    "looked_up": "2026-11-03T07:01:29+00:00",
@@ -26054,11 +26111,6 @@
    ],
    "status": "found"
   },
-  "venturo-technologies|swe|l1": {
-   "expires": "2026-11-17T12:30:40.306894+00:00",
-   "looked_up": "2026-10-29T09:01:32+00:00",
-   "status": "not_found"
-  },
   "veradigm|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26163,8 +26215,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:53:11.284036+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-17T17:52:42.236572+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26486,8 +26538,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T06:10:25.788108+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
+   "expires": "2027-02-17T21:58:32.407614+00:00",
+   "looked_up": "2026-11-17T13:01:24+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27983,8 +28035,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2020,
-  "lookups_today": 127,
+  "lookups_month": 2029,
+  "lookups_today": 136,
   "month": "2026-11"
  }
 }
