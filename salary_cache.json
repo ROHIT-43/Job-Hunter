@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:22:44.966173+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-12T01:21:47.026282+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -644,11 +644,6 @@
    "looked_up": "2026-11-11T16:01:21+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|devops|l1": {
-   "expires": "2026-11-17T08:07:45.585798+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
   "aditiconsulting|fullstack|l1": {
    "expires": "2026-11-17T22:07:18.266766+00:00",
    "looked_up": "2026-11-06T04:01:14+00:00",
@@ -798,6 +793,26 @@
    "expires": "2026-11-20T09:39:30.527929+00:00",
    "looked_up": "2026-11-09T18:01:28+00:00",
    "status": "not_found"
+  },
+  "agam-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T02:08:23.224599+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/agam-technologies-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/overview/agam-technologies-overview"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ageless-entertainment|frontend|l1": {
    "expires": "2026-11-27T16:40:36.525051+00:00",
@@ -1319,6 +1334,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "altraize|swe|l1": {
+   "expires": "2026-12-07T14:57:49.367683+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
   },
   "amadeus|devops|l1": {
    "expires": "2026-11-29T17:59:12.269552+00:00",
@@ -2160,11 +2180,6 @@
    "status": "found",
    "year": 2024
   },
-  "arabellesolutions|swe|l1": {
-   "expires": "2026-11-17T08:13:12.473151+00:00",
-   "looked_up": "2026-11-09T18:01:28+00:00",
-   "status": "not_found"
-  },
   "arabianaroma|frontend|l1": {
    "expires": "2026-11-25T18:49:17.622700+00:00",
    "looked_up": "2026-11-07T09:01:19+00:00",
@@ -2293,6 +2308,11 @@
   "arnifiofficial|swe|l1": {
    "expires": "2026-11-25T06:14:41.736147+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
+   "status": "not_found"
+  },
+  "arnsoft-technologies-pvt-ltd|swe|l1": {
+   "expires": "2026-11-28T01:58:04.923075+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "status": "not_found"
   },
   "arohanatechsolutions|erp|l1": {
@@ -3589,6 +3609,11 @@
    "status": "found",
    "year": 2026
   },
+  "blum-novotest-india|swe|l1": {
+   "expires": "2026-11-25T12:27:26.089679+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
+  },
   "blumetra-solutions|data|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -3944,6 +3969,20 @@
    "expires": "2027-01-24T17:07:03.960431+00:00",
    "looked_up": "2026-10-28T10:01:32+00:00",
    "max_lpa": 12.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
+  "brainstorm-force|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-22T07:12:33.578974+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
     {
@@ -5066,6 +5105,11 @@
    "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
+  "chinmay-finlease-limited|devops|l1": {
+   "expires": "2026-12-01T09:49:56.898995+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
+  },
   "cibc-india|security|l1": {
    "expires": "2026-12-02T20:17:15.668939+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -5538,8 +5582,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T08:53:37.012173+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-17T22:39:49.116403+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -5767,6 +5811,27 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "collegedunia|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-08T22:49:53.908850+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 12.3,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/collegedunia-salaries/android-developer"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
+  "collegedunia|swe|l1": {
+   "expires": "2026-12-02T19:46:10.504592+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
   },
   "collins-aerospace|swe|l1": {
    "basis": "ctc",
@@ -6733,6 +6798,11 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
+  "dataprowess|data|l1": {
+   "expires": "2026-12-03T01:45:58.205093+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
+  },
   "dataterrain-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6897,8 +6967,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:08:35.086952+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-17T21:51:47.070815+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7609,8 +7679,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T16:43:43.197022+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-15T02:48:27.686766+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -8104,6 +8174,11 @@
   "enverus-energy|erp|l1": {
    "expires": "2026-11-21T02:18:55.251267+00:00",
    "looked_up": "2026-11-03T20:01:58+00:00",
+   "status": "not_found"
+  },
+  "enviropolengineers|swe|l1": {
+   "expires": "2026-11-27T04:07:02.632990+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "status": "not_found"
   },
   "epam-systems|frontend|l1": {
@@ -10867,6 +10942,22 @@
    "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
+  "hawk-sense-business-solutions-pvt-ltd|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T20:02:19.247136+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "hirist.tech",
+     "uri": "https://www.hirist.tech/j/datapower-developer-1649344?jobPos=12"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "hbs-solutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13529,8 +13620,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:03:33.016001+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-16T01:53:30.073560+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14473,6 +14564,16 @@
     }
    ],
    "status": "found"
+  },
+  "levi-strauss-&amp;-co-|swe|l1": {
+   "expires": "2026-12-07T08:09:29.547400+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
+  },
+  "levi-strauss-&amp;-co-|swe|l2": {
+   "expires": "2026-11-27T19:25:40.935239+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "status": "not_found"
   },
   "levi-strauss-&amp;-co-|swe|l3": {
    "basis": "ctc",
@@ -16317,8 +16418,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T03:58:20.529238+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-15T17:24:51.866140+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16345,8 +16446,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T16:32:01.060821+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-08T19:19:56.558015+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17640,11 +17741,6 @@
    "status": "found",
    "year": 2026
   },
-  "opengrab|fullstack|l1": {
-   "expires": "2026-11-17T08:08:42.601433+00:00",
-   "looked_up": "2026-11-08T11:01:21+00:00",
-   "status": "not_found"
-  },
   "openlm|security|l1": {
    "expires": "2026-11-17T11:26:52.684247+00:00",
    "looked_up": "2026-10-30T09:01:38+00:00",
@@ -18886,8 +18982,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T07:08:10.614737+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-16T13:36:47.522426+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19259,6 +19355,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "pwc-india|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T00:24:40.505422+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 5.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/pwc-salaries/cyber-security-specialist"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/pwc-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pwc|erp|l1": {
    "basis": "ctc",
@@ -20680,11 +20796,6 @@
    "status": "found",
    "year": 2026
   },
-  "salaamtix|frontend|l1": {
-   "expires": "2026-11-17T08:31:27.196626+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "salesblox-uk|fullstack|l1": {
    "expires": "2026-11-25T07:10:11.021206+00:00",
    "looked_up": "2026-11-07T17:01:25+00:00",
@@ -21697,8 +21808,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T07:33:27.267033+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-15T17:34:26.552025+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -22473,6 +22584,26 @@
    "expires": "2026-11-26T01:32:25.986580+00:00",
    "looked_up": "2026-11-06T06:01:16+00:00",
    "status": "not_found"
+  },
+  "stratacent|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-20T20:09:52.561839+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
+   "max_lpa": 7.7,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/stratacent-salaries/developer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/stratacent-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "stratacent|swe|l1": {
    "basis": "ctc",
@@ -25711,8 +25842,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:51:06.163971+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-17T23:46:32.655943+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26029,8 +26160,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:37:57.708806+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
+   "expires": "2027-02-10T05:04:36.148004+00:00",
+   "looked_up": "2026-11-17T09:01:19+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27536,8 +27667,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1961,
-  "lookups_today": 68,
+  "lookups_month": 1975,
+  "lookups_today": 82,
   "month": "2026-11"
  }
 }
