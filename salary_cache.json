@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T19:18:09.329677+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-19T13:14:40.715759+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T08:53:43.876496+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-09T14:56:51.722247+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -6319,11 +6319,6 @@
    "status": "found",
    "year": 2026
   },
-  "cxgroup|data|l3": {
-   "expires": "2026-11-16T23:42:46.098187+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "cxo-spotlight-us|swe|l1": {
    "expires": "2026-11-17T09:50:42.901238+00:00",
    "looked_up": "2026-10-28T03:01:30+00:00",
@@ -6794,8 +6789,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:48:08.424043+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-10T04:35:18.000214+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7501,8 +7496,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:04:23.387621+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-09T14:38:55.224076+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7870,8 +7865,8 @@
   "englishyaari|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:19:13.817157+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-16T22:08:15.438985+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13326,16 +13321,11 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
-  "johnson-controls|swe|l3": {
-   "expires": "2026-11-16T23:46:17.491097+00:00",
-   "looked_up": "2026-10-27T09:01:27+00:00",
-   "status": "not_found"
-  },
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T03:34:57.250643+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-17T18:06:39.030687+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16131,8 +16121,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T08:19:34.511828+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-19T22:48:29.951298+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16159,8 +16149,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:16:49.056769+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-19T11:53:45.270222+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17680,8 +17670,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T16:16:45.049725+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-20T22:19:21.370154+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17709,11 +17699,6 @@
     }
    ],
    "status": "found"
-  },
-  "origin-autonomy|swe|l1": {
-   "expires": "2026-11-16T23:36:37.956985+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
-   "status": "not_found"
   },
   "osf-digital|erp|l1": {
    "expires": "2026-12-01T05:22:13.552630+00:00",
@@ -18675,8 +18660,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:28:08.558194+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-19T09:00:00.165372+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19563,8 +19548,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T04:28:23.621015+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-11T12:22:38.563231+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21445,8 +21430,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T10:29:19.998368+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-11T17:49:33.511770+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -25663,8 +25648,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:43:39.183766+00:00",
-   "looked_up": "2026-11-16T23:01:36+00:00",
+   "expires": "2027-02-16T12:41:43.820127+00:00",
+   "looked_up": "2026-11-17T00:01:31+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27169,9 +27154,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-16",
+  "day": "2026-11-17",
   "lookups_month": 1893,
-  "lookups_today": 173,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
