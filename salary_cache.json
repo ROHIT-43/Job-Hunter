@@ -229,8 +229,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:00:24.508453+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-10T01:32:02.427061+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2891,6 +2891,11 @@
    "status": "found",
    "year": 2025
   },
+  "avathonai|mobile|l1": {
+   "expires": "2026-12-08T03:54:22.954224+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "status": "not_found"
+  },
   "avaya|swe|l2": {
    "expires": "2026-11-20T22:15:27.634014+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
@@ -4044,8 +4049,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T05:22:26.824009+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-22T08:00:28.055672+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5450,6 +5455,22 @@
    "looked_up": "2026-10-30T13:01:31+00:00",
    "status": "not_found"
   },
+  "cloudologic-consulting|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T19:37:11.189310+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "max_lpa": 4.3,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cloudologic-consulting-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "cloudplay-xp|swe|l1": {
    "expires": "2026-11-20T21:12:05.624818+00:00",
    "looked_up": "2026-11-12T20:01:21+00:00",
@@ -5641,8 +5662,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:55:28.414656+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-19T06:29:34.241749+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7042,8 +7063,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:30:46.187541+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-14T03:56:15.516186+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -13849,8 +13870,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:40:32.352999+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-09T21:09:21.721280+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14857,11 +14878,6 @@
   "linde-engineering|swe|l2": {
    "expires": "2026-11-26T14:04:49.683872+00:00",
    "looked_up": "2026-11-11T16:01:21+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|data|l1": {
-   "expires": "2026-11-17T13:47:56.429155+00:00",
-   "looked_up": "2026-10-29T17:01:31+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|erp|l1": {
@@ -16352,6 +16368,11 @@
    "status": "found",
    "year": 2025
   },
+  "modulr-finance|swe|l1": {
+   "expires": "2026-12-07T07:25:39.766550+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "status": "not_found"
+  },
   "mogi-i-o|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17773,6 +17794,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "oaknorth-in-india|security|l1": {
+   "expires": "2026-11-26T08:32:54.310385+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "status": "not_found"
   },
   "oaktree-capital-management|erp|l1": {
    "basis": "ctc",
@@ -19709,6 +19735,22 @@
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/pwc-salaries/cyber-security-specialist"
     },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/pwc-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "pwc-india|security|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T03:11:02.389265+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 6.5,
+   "sources": [
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/pwc-salaries/security-engineer"
@@ -23366,6 +23408,11 @@
    "status": "found",
    "year": 2026
   },
+  "synechron|devops|l1": {
+   "expires": "2026-11-27T04:11:00.943900+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
+   "status": "not_found"
+  },
   "synechron|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26210,8 +26257,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:37:26.717053+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-11T01:34:40.842905+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26533,8 +26580,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T16:55:53.071553+00:00",
-   "looked_up": "2026-11-17T13:26:15+00:00",
+   "expires": "2027-02-20T00:13:37.828049+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27229,6 +27276,11 @@
   "workmatescore2cloud|swe|l1": {
    "expires": "2026-11-19T05:36:34.813567+00:00",
    "looked_up": "2026-11-09T21:01:22+00:00",
+   "status": "not_found"
+  },
+  "world-wide-technology|devops|l1": {
+   "expires": "2026-12-07T08:58:24.875314+00:00",
+   "looked_up": "2026-11-17T14:01:21+00:00",
    "status": "not_found"
   },
   "world-wide-technology|swe|l1": {
@@ -28030,8 +28082,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2029,
-  "lookups_today": 136,
+  "lookups_month": 2036,
+  "lookups_today": 143,
   "month": "2026-11"
  }
 }
