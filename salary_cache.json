@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:19:21.121976+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-12T05:10:53.265428+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T09:40:50.212767+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-15T16:05:30.467033+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1134,11 +1134,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "algoleap|fullstack|l1": {
-   "expires": "2026-11-17T02:23:27.071114+00:00",
-   "looked_up": "2026-10-27T05:01:24+00:00",
-   "status": "not_found"
   },
   "algoleap|swe|l1": {
    "basis": "ctc",
@@ -6173,11 +6168,6 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
-  "crossinghurdles|mobile|l1": {
-   "expires": "2026-11-17T02:16:26.748237+00:00",
-   "looked_up": "2026-10-30T12:01:31+00:00",
-   "status": "not_found"
-  },
   "crossinghurdles|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6789,8 +6779,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T06:30:31.079640+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-19T20:15:15.398660+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7496,8 +7486,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:32:28.585854+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-10T08:43:33.930178+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7748,11 +7738,6 @@
   "elsevier|swe|l2": {
    "expires": "2026-11-27T12:45:30.345246+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
-   "status": "not_found"
-  },
-  "emagine|frontend|l1": {
-   "expires": "2026-11-17T02:21:47.916597+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
   "emagine|swe|l1": {
@@ -13319,8 +13304,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:34:48.424559+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-13T07:37:06.152292+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14623,11 +14608,6 @@
    "status": "found",
    "year": 2026
   },
-  "lucey-group-limited|swe|l1": {
-   "expires": "2026-11-17T02:11:37.739555+00:00",
-   "looked_up": "2026-11-06T17:01:20+00:00",
-   "status": "not_found"
-  },
   "lumibyte-ai|fullstack|l1": {
    "expires": "2026-12-01T05:48:03.287464+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
@@ -15420,11 +15400,6 @@
    "status": "found",
    "year": null
   },
-  "medtronic|swe|l1": {
-   "expires": "2026-11-17T02:36:46.199291+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
-   "status": "not_found"
-  },
   "medtronic|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -16101,8 +16076,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:22:48.852009+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-14T19:03:36.461546+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16129,8 +16104,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:49:19.770639+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-12T11:02:42.167746+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17650,8 +17625,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:18:17.666759+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-12T20:36:34.895740+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18640,8 +18615,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T06:35:04.922051+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-18T11:32:57.787526+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19019,11 +18994,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "q2software|swe|l1": {
-   "expires": "2026-11-17T02:35:06.053561+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
   },
   "qa-lab-sandbox|swe|l1": {
    "expires": "2026-11-18T02:52:34.233247+00:00",
@@ -19538,8 +19508,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:15:04.732455+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-11T05:16:51.990271+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -19892,6 +19862,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "revecloud|swe|l1": {
+   "expires": "2026-11-25T11:32:17.050379+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
+   "status": "not_found"
   },
   "reverse-india|fullstack|l1": {
    "basis": "posted",
@@ -20507,6 +20482,11 @@
   "samayconsulting|swe|l1": {
    "expires": "2026-11-23T03:18:31.680638+00:00",
    "looked_up": "2026-11-05T23:01:23+00:00",
+   "status": "not_found"
+  },
+  "samisha-holidays|frontend|l1": {
+   "expires": "2026-12-07T20:32:20.586586+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "status": "not_found"
   },
   "samsdigitalin|swe|l1": {
@@ -21420,8 +21400,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T15:27:15.642102+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-18T05:06:02.862941+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -25639,8 +25619,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T02:02:40.576205+00:00",
-   "looked_up": "2026-11-17T02:01:25+00:00",
+   "expires": "2027-02-11T22:48:54.156289+00:00",
+   "looked_up": "2026-11-17T03:01:22+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27146,8 +27126,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1898,
-  "lookups_today": 5,
+  "lookups_month": 1900,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
