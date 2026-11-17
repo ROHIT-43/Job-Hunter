@@ -229,8 +229,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:51:41.388361+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-10T01:59:27.253082+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4049,8 +4049,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T22:27:01.580307+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-19T07:09:29.518700+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5672,8 +5672,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T16:25:19.203395+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-20T11:15:57.584969+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6255,11 +6255,6 @@
    "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
   },
-  "copart|swe|l1": {
-   "expires": "2026-11-17T15:07:20.268046+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "copeland|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6345,6 +6340,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "covet-it-inc|data|l1": {
+   "expires": "2026-12-02T14:40:43.371379+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
+   "status": "not_found"
   },
   "craftix-creative-studio|swe|l1": {
    "expires": "2026-11-19T04:14:12.803406+00:00",
@@ -7073,8 +7073,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T15:30:43.069247+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-20T19:01:49.222798+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7876,11 +7876,6 @@
     }
    ],
    "status": "found"
-  },
-  "edatabae|swe|l1": {
-   "expires": "2026-11-17T16:01:16.004012+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
   },
   "edgeverve|swe|l1": {
    "basis": "ctc",
@@ -8686,11 +8681,6 @@
   "etherealexplorationguild|swe|l1": {
    "expires": "2026-12-01T21:42:16.189749+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "eunoia-designtech|swe|l1": {
-   "expires": "2026-11-17T15:34:17.682750+00:00",
-   "looked_up": "2026-11-01T04:01:23+00:00",
    "status": "not_found"
   },
   "eurofins|swe|l1": {
@@ -13890,8 +13880,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T22:29:25.305643+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-19T19:16:30.327425+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16700,6 +16690,22 @@
    "status": "found",
    "year": 2023
   },
+  "msg-global|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T14:45:43.299525+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
+   "max_lpa": 6.3,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "weekday.works",
+     "uri": "https://www.weekday.works/salary/what-salary-does-msg_global_solutions-pay"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "mufg|erp|l1": {
    "expires": "2026-11-25T15:26:14.487361+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
@@ -17439,11 +17445,6 @@
   "nornux-solutions-private-limited|swe|l1": {
    "expires": "2026-11-18T08:30:16.801388+00:00",
    "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
-  },
-  "northern-trust|erp|l1": {
-   "expires": "2026-11-17T15:07:29.513520+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
   "northern-trust|swe|l1": {
@@ -22367,6 +22368,11 @@
    "looked_up": "2026-11-13T19:01:21+00:00",
    "status": "not_found"
   },
+  "skillsncr|fullstack|l1": {
+   "expires": "2026-11-30T11:19:41.379629+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
+   "status": "not_found"
+  },
   "skoollagejobs|frontend|l1": {
    "expires": "2026-12-02T20:44:25.494424+00:00",
    "looked_up": "2026-11-14T07:01:19+00:00",
@@ -26318,8 +26324,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T04:35:18.322908+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-17T00:44:21.499037+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26641,8 +26647,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T20:38:16.594804+00:00",
-   "looked_up": "2026-11-17T15:01:31+00:00",
+   "expires": "2027-02-19T17:24:32.221747+00:00",
+   "looked_up": "2026-11-17T16:01:28+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -28143,8 +28149,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2043,
-  "lookups_today": 150,
+  "lookups_month": 2046,
+  "lookups_today": 153,
   "month": "2026-11"
  }
 }
