@@ -50,8 +50,8 @@
   "4at-consulting|mobile|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T04:46:54.390442+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-18T09:44:03.685802+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -234,8 +234,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T15:02:46.922022+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-15T08:17:18.336134+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -611,6 +611,11 @@
   "adactingroup|erp|l1": {
    "expires": "2026-11-25T01:44:42.747357+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "adam-eveinc|swe|l1": {
+   "expires": "2026-12-06T05:00:53.224130+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "adesso-india|erp|l1": {
@@ -1706,6 +1711,11 @@
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
+  "anav3d|swe|l1": {
+   "expires": "2026-12-01T01:00:13.666191+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "anaxistech|swe|l1": {
    "expires": "2026-11-24T02:58:12.994939+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -1796,8 +1806,8 @@
    "status": "not_found"
   },
   "anr-business-consulting|swe|l1": {
-   "expires": "2026-11-17T05:47:00.598973+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
+   "expires": "2026-11-28T15:27:25.325603+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "ansitindia|swe|l1": {
@@ -1996,6 +2006,11 @@
   "apps-island|swe|l1": {
    "expires": "2026-11-21T01:11:58.350099+00:00",
    "looked_up": "2026-11-04T09:01:30+00:00",
+   "status": "not_found"
+  },
+  "appsforbharat|frontend|l1": {
+   "expires": "2026-12-03T07:42:42.443778+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "appsforbharat|mobile|l1": {
@@ -2477,6 +2492,11 @@
    "looked_up": "2026-11-02T20:01:29+00:00",
    "status": "not_found"
   },
+  "astranovamobility|fullstack|l1": {
+   "expires": "2026-11-24T09:20:19.396293+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "astrdefence|swe|l1": {
    "expires": "2026-11-21T23:44:57.519094+00:00",
    "looked_up": "2026-11-08T06:01:15+00:00",
@@ -2904,11 +2924,6 @@
    "status": "found",
    "year": 2026
   },
-  "bain-and-company|fullstack|l1": {
-   "expires": "2026-11-17T05:41:09.338715+00:00",
-   "looked_up": "2026-10-27T13:01:29+00:00",
-   "status": "not_found"
-  },
   "bain-and-company|swe|l1": {
    "expires": "2026-11-19T06:18:58.655353+00:00",
    "looked_up": "2026-11-01T12:01:27+00:00",
@@ -3115,6 +3130,11 @@
   "bash.ai|fullstack|l1": {
    "expires": "2026-11-28T21:39:39.801478+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
+   "status": "not_found"
+  },
+  "bavarian-machineing-works-pvt-ltd|swe|l1": {
+   "expires": "2026-11-28T00:56:18.990959+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "bayer|erp|l1": {
@@ -5154,6 +5174,11 @@
    "looked_up": "2026-11-12T00:01:20+00:00",
    "status": "not_found"
   },
+  "clanxai|swe|l1": {
+   "expires": "2026-12-04T18:19:28.400296+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "clarity-medical-pvt-ltd|swe|l1": {
    "expires": "2026-11-22T12:59:20.661556+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
@@ -6810,8 +6835,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T02:14:02.727298+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-16T12:57:33.771367+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -7517,8 +7542,8 @@
   "echoweb-technolgoy|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T23:15:27.276884+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-15T13:39:21.796264+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -7992,6 +8017,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "entratasoftware|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T03:38:24.546694+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/entrata-india-reviews/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "enverus-energy|erp|l1": {
    "expires": "2026-11-21T02:18:55.251267+00:00",
@@ -9416,6 +9457,26 @@
    "expires": "2026-11-17T18:26:47.097102+00:00",
    "looked_up": "2026-11-02T16:01:36+00:00",
    "status": "not_found"
+  },
+  "ford-motor-company|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T11:34:51.664381+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ford-motor-salaries/data-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/chennai-ford-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ford-motor-company|swe|l1": {
    "basis": "ctc",
@@ -11032,6 +11093,11 @@
   "hewlett-packard-enterprise|fullstack|l1": {
    "expires": "2026-11-26T14:05:28.228368+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
+  "hewlett-packard-enterprise|security|l1": {
+   "expires": "2026-11-29T03:59:49.995366+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "hewlett-packard-enterprise|swe|l1": {
@@ -12699,6 +12765,11 @@
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
+  "intangles-lab-pvt-ltd|swe|l1": {
+   "expires": "2026-11-24T11:19:22.580908+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "integrichain|data|l1": {
    "expires": "2026-11-24T05:53:42.215439+00:00",
    "looked_up": "2026-11-06T00:01:23+00:00",
@@ -13075,6 +13146,22 @@
    "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
+  "izoologic|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T17:49:52.304852+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 5.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/izoologic-salaries/jaipur-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "jabil|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -13330,8 +13417,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:25:07.283328+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-13T09:07:21.154326+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16084,6 +16171,22 @@
    "looked_up": "2026-11-10T15:01:28+00:00",
    "status": "not_found"
   },
+  "multiversitygroup|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-10T17:05:25.141227+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "max_lpa": 2.3,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/multiversity-salaries/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "mycareernet|data|l1": {
    "expires": "2026-11-19T21:13:32.559663+00:00",
    "looked_up": "2026-11-05T11:01:19+00:00",
@@ -16102,8 +16205,8 @@
   "mystinex|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T05:00:18.812363+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-09T10:40:36.687936+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.6,
    "sources": [
@@ -16130,8 +16233,8 @@
   "mytruematch|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T18:26:41.412020+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-10T03:56:01.982967+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 10.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17661,8 +17764,8 @@
   "orennow|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:46:49.134689+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-12T03:18:37.535720+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 18.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18656,8 +18759,8 @@
   "pronative-ai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T01:53:06.360109+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-14T18:27:13.184117+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -19554,8 +19657,8 @@
   "rasta-pay|fullstack|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-08T07:38:02.369764+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-17T17:57:16.232288+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.6,
    "sources": [
@@ -21446,8 +21549,8 @@
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T06:23:27.025438+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-10T19:08:38.873165+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 4.8,
    "min_lpa": 3.6,
    "sources": [
@@ -23564,11 +23667,6 @@
    "status": "found",
    "year": 2026
   },
-  "teradyne|swe|l1": {
-   "expires": "2026-11-17T05:24:54.481244+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
-   "status": "not_found"
-  },
   "terasync-tech|fullstack|l1": {
    "expires": "2026-11-30T13:50:06.174857+00:00",
    "looked_up": "2026-11-11T10:01:29+00:00",
@@ -24694,6 +24792,11 @@
    "looked_up": "2026-11-04T14:01:32+00:00",
    "status": "not_found"
   },
+  "unicloud-it-services|swe|l1": {
+   "expires": "2026-12-02T02:29:46.015464+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "unifydd|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -25207,6 +25310,11 @@
    "status": "found",
    "year": 2024
   },
+  "vanguard-india|swe|l1": {
+   "expires": "2026-12-04T18:15:51.624692+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "vanguard-india|swe|l2": {
    "expires": "2026-11-21T08:31:11.671312+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
@@ -25318,6 +25426,11 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
+  "vertageglobal|swe|l1": {
+   "expires": "2026-11-28T06:01:04.010258+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
+   "status": "not_found"
+  },
   "vertiv|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -25371,8 +25484,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:09:13.491399+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-21T00:28:44.318449+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -25689,8 +25802,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:09:52.600562+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
+   "expires": "2027-02-20T02:58:49.043066+00:00",
+   "looked_up": "2026-11-17T06:01:18+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -27196,8 +27309,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 1916,
-  "lookups_today": 23,
+  "lookups_month": 1932,
+  "lookups_today": 39,
   "month": "2026-11"
  }
 }
