@@ -644,11 +644,6 @@
    "looked_up": "2026-11-06T04:01:14+00:00",
    "status": "not_found"
   },
-  "aditiconsulting|security|l1": {
-   "expires": "2026-11-17T20:39:37.053330+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
-   "status": "not_found"
-  },
   "aditiconsulting|swe|l1": {
    "expires": "2026-11-26T11:14:39.842583+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -2444,11 +2439,6 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
-  "ascendion|data|l1": {
-   "expires": "2026-11-17T20:36:15.885836+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "ascendion|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4069,8 +4059,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T22:14:44.439478+00:00",
-   "looked_up": "2026-11-17T20:01:25+00:00",
+   "expires": "2027-02-15T12:38:08.726053+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5693,8 +5683,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T11:19:43.446643+00:00",
-   "looked_up": "2026-11-17T20:01:25+00:00",
+   "expires": "2027-02-10T22:28:45.404591+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6562,11 +6552,6 @@
     }
    ],
    "status": "found"
-  },
-  "curemeabroad|fullstack|l1": {
-   "expires": "2026-11-17T20:59:50.226776+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
-   "status": "not_found"
   },
   "customertimes|erp|l1": {
    "expires": "2026-11-22T19:23:43.230591+00:00",
@@ -8035,11 +8020,6 @@
   "elanco|data|l1": {
    "expires": "2026-11-25T15:51:36.937763+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "elanco|swe|l1": {
-   "expires": "2026-11-17T20:11:02.764655+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
    "status": "not_found"
   },
   "electroglobal-electronic-components|swe|l1": {
@@ -17294,6 +17274,11 @@
    "looked_up": "2026-11-02T08:01:31+00:00",
    "status": "not_found"
   },
+  "nextdealnow|mobile|l1": {
+   "expires": "2026-12-03T12:09:29.613319+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
+   "status": "not_found"
+  },
   "nextup-robotics|swe|l1": {
    "expires": "2026-12-04T01:33:03.620152+00:00",
    "looked_up": "2026-11-17T08:01:21+00:00",
@@ -18264,8 +18249,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T06:06:25.495785+00:00",
-   "looked_up": "2026-11-17T20:01:25+00:00",
+   "expires": "2027-02-14T16:08:07.655589+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -21774,6 +21759,11 @@
   "schwab-india|mobile|l1": {
    "expires": "2026-11-20T10:23:42.954418+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
+   "status": "not_found"
+  },
+  "scigon|security|l1": {
+   "expires": "2026-11-30T07:25:41.573630+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
    "status": "not_found"
   },
   "sciplaygames|swe|l1": {
@@ -26487,8 +26477,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T21:08:20.957484+00:00",
-   "looked_up": "2026-11-17T20:01:25+00:00",
+   "expires": "2027-02-17T12:03:38.104567+00:00",
+   "looked_up": "2026-11-17T21:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26835,11 +26825,6 @@
     }
    ],
    "status": "found"
-  },
-  "vsan-groups|swe|l1": {
-   "expires": "2026-11-17T20:58:19.293419+00:00",
-   "looked_up": "2026-10-28T00:01:36+00:00",
-   "status": "not_found"
   },
   "vymotech|frontend|l1": {
    "basis": "ctc",
@@ -28322,8 +28307,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2071,
-  "lookups_today": 178,
+  "lookups_month": 2073,
+  "lookups_today": 180,
   "month": "2026-11"
  }
 }
