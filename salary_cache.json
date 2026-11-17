@@ -849,6 +849,22 @@
    "status": "found",
    "year": 2025
   },
+  "aims-infosoft|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T19:19:31.338637+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
+   "max_lpa": 3.7,
+   "min_lpa": 2.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aims-infosoft-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "aionsofttech|fullstack|l1": {
    "expires": "2026-11-25T20:16:37.449199+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
@@ -4059,8 +4075,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:38:08.726053+00:00",
-   "looked_up": "2026-11-17T21:01:22+00:00",
+   "expires": "2027-02-13T16:41:14.189979+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5683,8 +5699,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:28:45.404591+00:00",
-   "looked_up": "2026-11-17T21:01:22+00:00",
+   "expires": "2027-02-12T11:56:14.607617+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -8272,11 +8288,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "enterprise-bot|devops|l1": {
-   "expires": "2026-11-17T21:13:24.798599+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
   },
   "enterprise-bot|fullstack|l1": {
    "expires": "2026-11-24T19:25:57.608230+00:00",
@@ -17099,8 +17110,8 @@
    "status": "not_found"
   },
   "netapp|erp|l1": {
-   "expires": "2026-11-17T21:36:20.644490+00:00",
-   "looked_up": "2026-11-06T23:01:21+00:00",
+   "expires": "2026-11-26T21:28:37.382620+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
    "status": "not_found"
   },
   "netapp|fullstack|l1": {
@@ -18249,8 +18260,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:08:07.655589+00:00",
-   "looked_up": "2026-11-17T21:01:22+00:00",
+   "expires": "2027-02-13T03:21:50.084279+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -26477,8 +26488,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T12:03:38.104567+00:00",
-   "looked_up": "2026-11-17T21:01:22+00:00",
+   "expires": "2027-02-10T03:12:01.164321+00:00",
+   "looked_up": "2026-11-17T22:01:14+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -28307,8 +28318,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2073,
-  "lookups_today": 180,
+  "lookups_month": 2075,
+  "lookups_today": 182,
   "month": "2026-11"
  }
 }
