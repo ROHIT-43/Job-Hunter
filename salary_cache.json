@@ -229,8 +229,8 @@
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T01:32:02.427061+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-14T00:51:41.388361+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -899,8 +899,8 @@
    "status": "not_found"
   },
   "air-arabia|swe|l1": {
-   "expires": "2026-11-17T14:41:02.015415+00:00",
-   "looked_up": "2026-10-29T18:01:31+00:00",
+   "expires": "2026-12-04T16:11:08.993699+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "status": "not_found"
   },
   "airbnb|swe|l1": {
@@ -4049,8 +4049,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:00:28.055672+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-08T22:27:01.580307+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4094,6 +4094,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "bridgenext|swe|l1": {
+   "expires": "2026-12-02T03:51:32.896184+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "status": "not_found"
   },
   "bridgestone-technology|fullstack|l1": {
    "basis": "posted",
@@ -4683,6 +4688,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "carl-zeiss-india-czi|security|l1": {
+   "expires": "2026-12-03T07:12:52.052122+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "status": "not_found"
   },
   "carl-zeiss-india-czi|swe|l1": {
    "expires": "2026-11-23T17:51:36.317145+00:00",
@@ -5662,8 +5672,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T06:29:34.241749+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-20T16:25:19.203395+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7063,8 +7073,8 @@
   "defmate|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T03:56:15.516186+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-12T15:30:43.069247+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -9016,6 +9026,26 @@
     {
      "title": "6figr.com",
      "uri": "https://6figr.com/in/salary/f5-networks"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "f5|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T15:18:35.342828+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "max_lpa": 35.0,
+   "min_lpa": 30.0,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/f5"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/t/software-engineer/locations/hyderabad-ind"
     }
    ],
    "status": "found",
@@ -11005,11 +11035,6 @@
    "status": "found",
    "year": 2026
   },
-  "hadigitalhubpk|swe|l1": {
-   "expires": "2026-11-17T14:14:32.355927+00:00",
-   "looked_up": "2026-11-05T18:01:20+00:00",
-   "status": "not_found"
-  },
   "hakkoda|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11561,11 +11586,6 @@
   "hirealpha|erp|l1": {
    "expires": "2026-11-29T05:12:11.844848+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "hirealpha|swe|l1": {
-   "expires": "2026-11-17T14:12:40.637990+00:00",
-   "looked_up": "2026-10-29T12:01:31+00:00",
    "status": "not_found"
   },
   "hireflexperts|swe|l1": {
@@ -13870,8 +13890,8 @@
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T21:09:21.721280+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-11T22:29:25.305643+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16664,6 +16684,22 @@
    "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
+  "msg-global|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T05:10:39.584373+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/msg-global-solutions-salaries/web-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "mufg|erp|l1": {
    "expires": "2026-11-25T15:26:14.487361+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
@@ -17340,11 +17376,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "niksun|security|l1": {
-   "expires": "2026-11-17T14:42:23.643564+00:00",
-   "looked_up": "2026-10-31T08:01:24+00:00",
-   "status": "not_found"
   },
   "nippon-data-systems|swe|l1": {
    "basis": "ctc",
@@ -20256,6 +20287,30 @@
    "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
   },
+  "rackspace-technology|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T13:21:27.989536+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "talentd.in",
+     "uri": "https://www.talentd.in/jobs/trainee-cloud-database-engineer-jobs-at-rackspace-gurgaon-apply-now-3-5-lpa"
+    },
+    {
+     "title": "freshersvoice.com",
+     "uri": "https://www.freshersvoice.com/rackspace-technology-recruitment"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rackspace-salaries/gurgaon-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rackspace-technology|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -21734,11 +21789,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "secfix|swe|l1": {
-   "expires": "2026-11-17T14:57:12.796713+00:00",
-   "looked_up": "2026-11-06T23:01:21+00:00",
-   "status": "not_found"
   },
   "secure-meters-limited|swe|l1": {
    "expires": "2026-11-25T03:36:03.788818+00:00",
@@ -26169,11 +26219,6 @@
    "status": "found",
    "year": null
   },
-  "vericoreapi|fullstack|l1": {
-   "expires": "2026-11-17T14:57:02.646177+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "verint|erp|l1": {
    "expires": "2026-12-02T13:41:11.630605+00:00",
    "looked_up": "2026-11-13T19:01:21+00:00",
@@ -26244,6 +26289,22 @@
    "status": "found",
    "year": 2026
   },
+  "vervotech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T11:39:44.629776+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vervotech-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "vervotech|swe|l2": {
    "expires": "2026-11-18T01:58:08.525101+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
@@ -26257,8 +26318,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T01:34:40.842905+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-10T04:35:18.322908+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -26580,8 +26641,8 @@
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T00:13:37.828049+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
+   "expires": "2027-02-18T20:38:16.594804+00:00",
+   "looked_up": "2026-11-17T15:01:31+00:00",
    "max_lpa": 6.5,
    "min_lpa": 5.5,
    "sources": [
@@ -28082,8 +28143,8 @@
  },
  "meta": {
   "day": "2026-11-17",
-  "lookups_month": 2036,
-  "lookups_today": 143,
+  "lookups_month": 2043,
+  "lookups_today": 150,
   "month": "2026-11"
  }
 }
