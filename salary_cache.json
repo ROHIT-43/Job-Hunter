@@ -3423,11 +3423,6 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
-  "be-additive|swe|l1": {
-   "expires": "2026-11-18T16:41:31.508940+00:00",
-   "looked_up": "2026-11-03T02:01:29+00:00",
-   "status": "not_found"
-  },
   "berkadia|data|l1": {
    "expires": "2026-11-26T09:43:55.264970+00:00",
    "looked_up": "2026-11-06T10:01:15+00:00",
@@ -3626,8 +3621,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T19:36:53.339491+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-22T13:19:19.820149+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4570,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:32:02.005254+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-11T04:54:12.850513+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -4585,11 +4580,6 @@
     }
    ],
    "status": "found"
-  },
-  "capco|data|l1": {
-   "expires": "2026-11-18T16:18:11.819112+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
   },
   "capco|fullstack|l1": {
    "expires": "2026-11-23T12:19:16.575865+00:00",
@@ -4892,6 +4882,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cargill|swe|l1": {
+   "expires": "2026-11-25T19:54:48.590340+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "status": "not_found"
   },
   "carl-zeiss-india-czi|security|l1": {
    "expires": "2026-12-03T07:12:52.052122+00:00",
@@ -5301,6 +5296,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "cgi|mobile|l1": {
+   "expires": "2026-11-30T11:24:07.409268+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "status": "not_found"
   },
   "cgi|swe|l1": {
    "basis": "base",
@@ -5833,8 +5833,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T11:54:40.845970+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-18T15:48:04.237010+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6580,8 +6580,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:01:14.742530+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-21T09:00:09.176835+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8731,6 +8731,11 @@
    "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
+  "equinix|devops|l1": {
+   "expires": "2026-11-28T02:28:30.110406+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "status": "not_found"
+  },
   "equinix|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9257,6 +9262,11 @@
   "experityhealth|swe|l3": {
    "expires": "2026-11-22T12:48:58.946510+00:00",
    "looked_up": "2026-11-14T09:01:18+00:00",
+   "status": "not_found"
+  },
+  "expertalent-hire|swe|l1": {
+   "expires": "2026-12-04T10:52:48.836894+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "status": "not_found"
   },
   "exxonmobil-india-careers|swe|l1": {
@@ -10589,9 +10599,20 @@
    "year": null
   },
   "glencore|swe|l1": {
-   "expires": "2026-11-18T16:02:40.489669+00:00",
-   "looked_up": "2026-10-30T09:01:38+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T20:24:07.634755+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 7.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/glencore-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "global-cxo-events|swe|l1": {
    "expires": "2026-11-30T05:52:41.915280+00:00",
@@ -10833,6 +10854,30 @@
     }
    ],
    "status": "found"
+  },
+  "google|data|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-12T04:10:28.407757+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "max_lpa": 23.1,
+   "min_lpa": 20.4,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/google--data"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/6541970/google-l3-swe-2-india-by-rvishwaa-51dm/"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/google/salaries/software-engineer/locations/greater-bengaluru.md"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "google|data|l3": {
    "basis": "base",
@@ -11802,6 +11847,22 @@
    ],
    "status": "found"
   },
+  "hicore-software-technologies-private-limited|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T22:28:49.757717+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/hicore-software-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "highbrow-technology-inc|erp|l1": {
    "expires": "2026-11-29T09:03:13.817402+00:00",
    "looked_up": "2026-11-17T18:01:39+00:00",
@@ -12585,6 +12646,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/icon-plc-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "icon-strategic-solutions|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T14:07:54.458639+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 5.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/icon-plc-salaries/software-engineer"
     }
    ],
    "status": "found",
@@ -14748,6 +14825,11 @@
     }
    ],
    "status": "found"
+  },
+  "kkr|erp|l1": {
+   "expires": "2026-12-06T01:50:08.978859+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "status": "not_found"
   },
   "kksoft-bim|swe|l1": {
    "expires": "2026-11-24T13:44:33.451985+00:00",
@@ -17865,8 +17947,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T12:56:18.898114+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-13T06:07:37.058472+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18681,8 +18763,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:25:58.300998+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-16T23:48:59.796516+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19830,6 +19912,11 @@
     }
    ],
    "status": "found"
+  },
+  "procorp-systems|devops|l1": {
+   "expires": "2026-11-27T02:45:43.047595+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "status": "not_found"
   },
   "prodcontechservicespvtltd|swe|l1": {
    "expires": "2026-12-06T20:37:42.884731+00:00",
@@ -21173,8 +21260,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:18:51.268860+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-20T12:19:58.557657+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22538,8 +22625,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T22:42:35.323439+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-11T08:23:12.984442+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25423,8 +25510,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:27:59.293264+00:00",
-   "looked_up": "2026-11-18T16:01:21+00:00",
+   "expires": "2027-02-18T15:41:10.255350+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27823,6 +27910,26 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
+  "wellsfargo|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T04:24:02.873419+00:00",
+   "looked_up": "2026-11-18T17:01:21+00:00",
+   "max_lpa": 16.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/wells-fargo-salaries/graduate-trainee"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/wells-fargo-salaries/sde1"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "wellsfargo|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28956,8 +29063,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2188,
-  "lookups_today": 113,
+  "lookups_month": 2199,
+  "lookups_today": 124,
   "month": "2026-11"
  }
 }
