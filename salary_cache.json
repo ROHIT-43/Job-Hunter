@@ -3891,11 +3891,6 @@
    "looked_up": "2026-11-04T15:01:31+00:00",
    "status": "not_found"
   },
-  "boldlimited|devops|l1": {
-   "expires": "2026-11-18T02:07:43.641398+00:00",
-   "looked_up": "2026-11-08T16:01:17+00:00",
-   "status": "not_found"
-  },
   "bolzano-india|swe|l1": {
    "expires": "2026-11-24T04:56:40.079367+00:00",
    "looked_up": "2026-11-13T19:01:21+00:00",
@@ -4060,8 +4055,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:26:29.657926+00:00",
-   "looked_up": "2026-11-18T02:01:20+00:00",
+   "expires": "2027-02-09T18:36:50.323772+00:00",
+   "looked_up": "2026-11-18T03:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5700,8 +5695,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T13:47:49.224884+00:00",
-   "looked_up": "2026-11-18T02:01:20+00:00",
+   "expires": "2027-02-12T18:18:16.270272+00:00",
+   "looked_up": "2026-11-18T03:01:25+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -6071,11 +6066,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "commvault|erp|l1": {
-   "expires": "2026-11-18T02:06:19.830937+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
-   "status": "not_found"
   },
   "commvault|swe|l1": {
    "basis": "ctc",
@@ -8770,11 +8760,6 @@
    "status": "found",
    "year": 2024
   },
-  "evvara-ai|frontend|l1": {
-   "expires": "2026-11-18T02:47:29.165049+00:00",
-   "looked_up": "2026-10-28T14:01:41+00:00",
-   "status": "not_found"
-  },
   "exasoftglobal|swe|l1": {
    "expires": "2026-11-23T03:42:42.975800+00:00",
    "looked_up": "2026-11-06T05:01:17+00:00",
@@ -9871,11 +9856,6 @@
   "freseniusmedicalcare|erp|l1": {
    "expires": "2026-11-18T12:38:00.071736+00:00",
    "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
-  "frnd-app|mobile|l1": {
-   "expires": "2026-11-18T02:03:35.117502+00:00",
-   "looked_up": "2026-10-28T10:01:32+00:00",
    "status": "not_found"
   },
   "fujitsu|erp|l1": {
@@ -13822,6 +13802,11 @@
    "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
+  "jobgether|swe|l2": {
+   "expires": "2026-11-28T19:37:52.954913+00:00",
+   "looked_up": "2026-11-18T03:01:25+00:00",
+   "status": "not_found"
+  },
   "joblet-ai|data|l1": {
    "expires": "2026-11-27T06:22:08.850217+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -16234,11 +16219,6 @@
    "looked_up": "2026-11-05T08:01:23+00:00",
    "status": "not_found"
   },
-  "mindzmap-digital-solutions|frontend|l1": {
-   "expires": "2026-11-18T02:14:56.447074+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "mindzmap-digital-solutions|mobile|l1": {
    "expires": "2026-11-29T18:53:32.963986+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
@@ -18247,8 +18227,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:15:24.415135+00:00",
-   "looked_up": "2026-11-18T02:01:20+00:00",
+   "expires": "2027-02-16T19:34:41.708470+00:00",
+   "looked_up": "2026-11-18T03:01:25+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19876,11 +19856,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "qa-lab-sandbox|swe|l1": {
-   "expires": "2026-11-18T02:52:34.233247+00:00",
-   "looked_up": "2026-10-30T06:01:28+00:00",
-   "status": "not_found"
   },
   "qad|frontend|l1": {
    "expires": "2026-11-27T08:06:25.165726+00:00",
@@ -26450,8 +26425,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T21:28:04.078538+00:00",
-   "looked_up": "2026-11-18T02:01:20+00:00",
+   "expires": "2027-02-15T21:31:54.799608+00:00",
+   "looked_up": "2026-11-18T03:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -28280,8 +28255,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2079,
-  "lookups_today": 4,
+  "lookups_month": 2080,
+  "lookups_today": 5,
   "month": "2026-11"
  }
 }
