@@ -3594,8 +3594,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T21:37:38.988026+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-10T18:55:10.295382+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5771,8 +5771,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T19:22:24.029276+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-12T02:49:49.639869+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6518,8 +6518,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:57:23.746804+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-11T09:27:44.105356+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8410,6 +8410,11 @@
    ],
    "status": "found"
   },
+  "engel-global|devops|l1": {
+   "expires": "2026-11-30T05:23:21.331049+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
+  },
   "engel-global|erp|l1": {
    "expires": "2026-12-01T05:04:49.736826+00:00",
    "looked_up": "2026-11-17T12:01:31+00:00",
@@ -9524,11 +9529,6 @@
    "looked_up": "2026-11-03T13:01:30+00:00",
    "status": "not_found"
   },
-  "fintech-iq|devops|l1": {
-   "expires": "2026-11-18T11:21:58.493291+00:00",
-   "looked_up": "2026-11-03T18:02:22+00:00",
-   "status": "not_found"
-  },
   "fioneer|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9923,6 +9923,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "flow-material-grid-llp|frontend|l1": {
+   "expires": "2026-12-08T03:20:42.861516+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
   },
   "flowserve|swe|l1": {
    "basis": "ctc",
@@ -10685,6 +10690,11 @@
   "gohire.io|swe|l1": {
    "expires": "2026-11-21T11:51:31.759637+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
+   "status": "not_found"
+  },
+  "golden-opportunities-pvt-ltd|fullstack|l1": {
+   "expires": "2026-12-06T03:20:50.852007+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "status": "not_found"
   },
   "golden-opportunities-pvt-ltd|swe|l1": {
@@ -16744,6 +16754,11 @@
    "looked_up": "2026-11-17T18:01:39+00:00",
    "status": "not_found"
   },
+  "mondelezinternational|swe|l1": {
+   "expires": "2026-11-29T12:59:39.929278+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
+  },
   "monetunes|swe|l1": {
    "expires": "2026-12-01T11:56:26.274044+00:00",
    "looked_up": "2026-11-11T15:01:22+00:00",
@@ -17175,6 +17190,22 @@
    "expires": "2026-11-19T14:14:50.625642+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
+  },
+  "nathabit|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T13:19:15.566222+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "max_lpa": 5.4,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nat-habit-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "nationsbenefitsindia|devops|l1": {
    "expires": "2026-12-02T03:49:08.393860+00:00",
@@ -17767,8 +17798,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T08:02:11.425931+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-20T21:08:01.188243+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17960,6 +17991,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "ntt-data-business-solutions|swe|l1": {
+   "expires": "2026-12-01T16:46:30.057958+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
   },
   "ntt-data-inc|data|l1": {
    "basis": "ctc",
@@ -18419,6 +18455,11 @@
    ],
    "status": "found"
   },
+  "onit-india|fullstack|l1": {
+   "expires": "2026-12-06T04:17:42.032347+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
+  },
   "open-queue|swe|l1": {
    "expires": "2026-11-28T16:01:48.004512+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
@@ -18568,8 +18609,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T15:32:53.056570+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-21T09:39:51.496916+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19934,6 +19975,11 @@
    "looked_up": "2026-11-16T17:01:27+00:00",
    "status": "not_found"
   },
+  "public-health-career|swe|l1": {
+   "expires": "2026-12-08T07:50:32.077975+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "status": "not_found"
+  },
   "publicissapient|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21045,8 +21091,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T11:52:45.071773+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-10T09:04:51.857537+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22410,8 +22456,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T01:43:17.635969+00:00",
-   "looked_up": "2026-11-18T11:01:25+00:00",
+   "expires": "2027-02-10T22:34:52.106299+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -27282,6 +27328,22 @@
    ],
    "status": "found"
   },
+  "vrt-management-group-llc|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T16:36:22.209290+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "cutshort.io",
+     "uri": "https://cutshort.io/job/Full-Stack-Developer-Hyderabad-VRT-Management-Group-aEfFwC4u"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "vymotech|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28595,6 +28657,30 @@
    "status": "found",
    "year": 2024
   },
+  "zeptonow|swe|l1": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-02-11T03:30:53.705852+00:00",
+   "looked_up": "2026-11-18T12:01:21+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 23.0,
+   "sources": [
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/post/5954592/Zepto-or-SDE-1-or-Bengaluru/"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/1942108/zepto-bangalore-software-engineer-1-backend-april-2022"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2078250/Zepto-or-SDE1-or-Bangalore"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "zestl|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28768,8 +28854,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2152,
-  "lookups_today": 77,
+  "lookups_month": 2162,
+  "lookups_today": 87,
   "month": "2026-11"
  }
 }
