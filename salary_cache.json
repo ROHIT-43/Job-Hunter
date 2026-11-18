@@ -1898,6 +1898,22 @@
    "status": "found",
    "year": 2026
   },
+  "appglide-solutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T09:59:07.427386+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
+   "max_lpa": 4.6,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/appglide-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "appinventiv|frontend|l1": {
    "expires": "2026-11-24T01:21:35.147355+00:00",
    "looked_up": "2026-11-12T09:01:24+00:00",
@@ -3594,8 +3610,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:48:49.908749+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-19T17:58:56.164942+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4539,6 +4555,20 @@
    "expires": "2026-11-21T12:12:17.705944+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
+  },
+  "capace-software-private-limited|mobile|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-10T11:37:12.301999+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "capco|data|l1": {
    "expires": "2026-11-18T16:18:11.819112+00:00",
@@ -5507,6 +5537,11 @@
    "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
+  "claranet-india|devops|l1": {
+   "expires": "2026-12-07T20:19:21.981687+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
+   "status": "not_found"
+  },
   "clarity-medical-pvt-ltd|swe|l1": {
    "expires": "2026-11-22T12:59:20.661556+00:00",
    "looked_up": "2026-11-11T05:01:21+00:00",
@@ -5782,8 +5817,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:38:42.043393+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-16T16:40:54.259757+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6529,8 +6564,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T07:52:04.062600+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-17T18:00:17.018836+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8043,11 +8078,6 @@
   "eci-software--solutions|swe|l3": {
    "expires": "2026-11-22T19:01:45.725171+00:00",
    "looked_up": "2026-11-12T19:01:26+00:00",
-   "status": "not_found"
-  },
-  "eclinical-solutions|swe|l1": {
-   "expires": "2026-11-18T14:49:59.962159+00:00",
-   "looked_up": "2026-11-09T14:01:26+00:00",
    "status": "not_found"
   },
   "ecolab|swe|l1": {
@@ -13484,11 +13514,6 @@
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
-  "insureka|mobile|l1": {
-   "expires": "2026-11-18T14:58:09.371716+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
   "intangles-lab-pvt-ltd|swe|l1": {
    "expires": "2026-11-24T11:19:22.580908+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
@@ -14003,6 +14028,11 @@
   "jiffyai|devops|l1": {
    "expires": "2026-11-19T23:00:28.161603+00:00",
    "looked_up": "2026-11-10T14:01:24+00:00",
+   "status": "not_found"
+  },
+  "jindal-india-limited|erp|l1": {
+   "expires": "2026-12-05T23:33:26.032057+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "status": "not_found"
   },
   "jio-saavn|devops|l1": {
@@ -15223,6 +15253,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "linde-engineering|data|l1": {
+   "expires": "2026-12-02T09:10:29.644270+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
+   "status": "not_found"
   },
   "linde-engineering|swe|l2": {
    "expires": "2026-11-26T14:04:49.683872+00:00",
@@ -17809,8 +17844,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T20:28:21.866610+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-22T03:46:55.956096+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18625,8 +18660,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T09:10:40.353892+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-17T13:30:37.914180+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19537,6 +19572,11 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
+  "pnazo|frontend|l1": {
+   "expires": "2026-12-06T03:23:15.897311+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
+   "status": "not_found"
+  },
   "pocket-fm|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19749,6 +19789,11 @@
   "prithvi-industries|swe|l1": {
    "expires": "2026-12-01T13:04:39.275179+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
+   "status": "not_found"
+  },
+  "prithvi-technologies-llc|data|l1": {
+   "expires": "2026-12-09T07:06:26.122178+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "status": "not_found"
   },
   "pro5-ai|swe|l1": {
@@ -21107,8 +21152,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:56:41.092021+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-23T02:13:59.917254+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22472,8 +22517,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T03:57:54.819671+00:00",
-   "looked_up": "2026-11-18T14:19:28+00:00",
+   "expires": "2027-02-10T02:28:31.755870+00:00",
+   "looked_up": "2026-11-18T15:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -28885,8 +28930,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2175,
-  "lookups_today": 100,
+  "lookups_month": 2181,
+  "lookups_today": 106,
   "month": "2026-11"
  }
 }
