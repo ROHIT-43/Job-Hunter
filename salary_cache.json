@@ -4055,8 +4055,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T18:36:50.323772+00:00",
-   "looked_up": "2026-11-18T03:01:25+00:00",
+   "expires": "2027-02-16T23:13:36.010932+00:00",
+   "looked_up": "2026-11-18T04:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5695,8 +5695,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:18:16.270272+00:00",
-   "looked_up": "2026-11-18T03:01:25+00:00",
+   "expires": "2027-02-15T19:43:34.082483+00:00",
+   "looked_up": "2026-11-18T04:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -11511,11 +11511,6 @@
    "looked_up": "2026-11-17T18:01:39+00:00",
    "status": "not_found"
   },
-  "highlevel|fullstack|l1": {
-   "expires": "2026-11-18T03:37:32.340501+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
   "highstreetitsolutions|erp|l1": {
    "expires": "2026-11-28T04:04:31.837226+00:00",
    "looked_up": "2026-11-12T01:01:24+00:00",
@@ -15912,11 +15907,6 @@
    "status": "found",
    "year": 2026
   },
-  "meditab-software-inc-|frontend|l2": {
-   "expires": "2026-11-18T03:58:18.458408+00:00",
-   "looked_up": "2026-10-30T14:15:30+00:00",
-   "status": "not_found"
-  },
   "meditab-software-inc-|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -18227,8 +18217,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T19:34:41.708470+00:00",
-   "looked_up": "2026-11-18T03:01:25+00:00",
+   "expires": "2027-02-18T08:27:32.977003+00:00",
+   "looked_up": "2026-11-18T04:01:23+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -24740,11 +24730,6 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
-  "the-ai-training-company|swe|l1": {
-   "expires": "2026-11-18T03:42:15.984055+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "the-brand-exact|frontend|l1": {
    "expires": "2026-11-24T13:23:39.712877+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -26425,8 +26410,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T21:31:54.799608+00:00",
-   "looked_up": "2026-11-18T03:01:25+00:00",
+   "expires": "2027-02-21T05:24:04.566892+00:00",
+   "looked_up": "2026-11-18T04:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
