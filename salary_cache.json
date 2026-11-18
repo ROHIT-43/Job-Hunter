@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:12:33.122295+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-21T03:30:54.378611+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:35:43.772633+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-22T22:35:17.053309+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5843,8 +5843,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T04:49:19.440358+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-19T22:08:05.354886+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6610,8 +6610,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:04:48.495782+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-11T12:56:38.289942+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9104,11 +9104,6 @@
   "excelya|swe|l1": {
    "expires": "2026-11-23T17:42:07.511277+00:00",
    "looked_up": "2026-11-14T14:01:19+00:00",
-   "status": "not_found"
-  },
-  "exl-service|data|l1": {
-   "expires": "2026-11-18T20:46:25.680756+00:00",
-   "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
   "exl-service|devops|l1": {
@@ -12062,8 +12057,8 @@
    "year": 2026
   },
   "honeywell-aerospace|swe|l2": {
-   "expires": "2026-11-18T20:43:14.344374+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
+   "expires": "2026-11-27T10:57:14.222387+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "status": "not_found"
   },
   "honeywell|fullstack|l1": {
@@ -12856,6 +12851,11 @@
    "looked_up": "2026-11-16T05:01:39+00:00",
    "status": "not_found"
   },
+  "ifit-solutions-ltd|devops|l1": {
+   "expires": "2026-11-26T13:14:10.633953+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
+   "status": "not_found"
+  },
   "igrs-iit-madras|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13040,6 +13040,11 @@
   "indian-institutes-of-public-health-iiphs|swe|l1": {
    "expires": "2026-12-07T01:31:31.485349+00:00",
    "looked_up": "2026-11-17T17:01:21+00:00",
+   "status": "not_found"
+  },
+  "indiasfutureinvestors|frontend|l1": {
+   "expires": "2026-12-02T14:31:51.674132+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "status": "not_found"
   },
   "indiasfutureinvestors|swe|l1": {
@@ -15888,11 +15893,6 @@
    "status": "found",
    "year": 2025
   },
-  "madaan-exports|data|l1": {
-   "expires": "2026-11-18T20:48:14.225562+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "madmantra-games|swe|l1": {
    "expires": "2026-11-24T18:24:15.335523+00:00",
    "looked_up": "2026-11-14T08:01:19+00:00",
@@ -18035,8 +18035,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:54:16.345874+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-23T13:59:28.618420+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21353,8 +21353,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T21:26:59.728211+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-21T19:23:24.406478+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22708,8 +22708,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:41:52.318211+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-22T18:35:33.259518+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25583,8 +25583,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T00:16:30.393100+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
+   "expires": "2027-02-17T18:29:21.598700+00:00",
+   "looked_up": "2026-11-18T21:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -26553,11 +26553,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ups|frontend|l1": {
-   "expires": "2026-11-18T20:28:15.171776+00:00",
-   "looked_up": "2026-11-11T17:01:24+00:00",
-   "status": "not_found"
   },
   "ups|fullstack|l1": {
    "basis": "ctc",
@@ -27636,11 +27631,6 @@
   "vysystems|frontend|l1": {
    "expires": "2026-12-03T12:37:48.555775+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "vysystems|swe|l1": {
-   "expires": "2026-11-18T20:15:04.569378+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
   "wafynet|swe|l1": {
@@ -29152,8 +29142,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2218,
-  "lookups_today": 143,
+  "lookups_month": 2221,
+  "lookups_today": 146,
   "month": "2026-11"
  }
 }
