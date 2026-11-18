@@ -2629,6 +2629,16 @@
    "status": "found",
    "year": 2024
   },
+  "asurion-india-gcc1|data|l1": {
+   "expires": "2026-12-03T15:35:25.562892+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
+   "status": "not_found"
+  },
+  "asurion-india-gcc1|devops|l1": {
+   "expires": "2026-12-09T04:35:22.115189+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
+   "status": "not_found"
+  },
   "asymmetric-research|security|l1": {
    "expires": "2026-12-02T19:21:01.718035+00:00",
    "looked_up": "2026-11-13T20:01:24+00:00",
@@ -3579,8 +3589,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-09T22:39:38.707448+00:00",
-   "looked_up": "2026-11-18T09:01:19+00:00",
+   "expires": "2027-02-18T06:43:10.321828+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4432,6 +4442,11 @@
   "business-intelli-solutions|data|l1": {
    "expires": "2026-12-01T09:19:50.733725+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
+   "status": "not_found"
+  },
+  "buxton-consulting|erp|l1": {
+   "expires": "2026-12-01T05:28:29.485872+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "status": "not_found"
   },
   "bydqatar|swe|l1": {
@@ -7343,6 +7358,22 @@
    "status": "found",
    "year": 2026
   },
+  "deloitte|fullstack|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-20T11:42:19.190367+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
+   "max_lpa": 14.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "glassdoor.co.in",
+     "uri": "https://www.glassdoor.co.in/Salary/Deloitte-Full-Stack-Software-Engineer-Salaries-E2763_D_KO9,37.htm"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "deloitte|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -9912,6 +9943,11 @@
   "flywire|security|l2": {
    "expires": "2026-11-24T08:21:06.297197+00:00",
    "looked_up": "2026-11-08T11:01:21+00:00",
+   "status": "not_found"
+  },
+  "fnz|security|l1": {
+   "expires": "2026-12-01T23:44:45.006824+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "status": "not_found"
   },
   "fnz|swe|l1": {
@@ -15460,6 +15496,22 @@
    "status": "found",
    "year": 2026
   },
+  "lumentechnologies|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T03:11:00.585038+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 11.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/lumen-technologies-salaries?page=4"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "lumibyte-ai|fullstack|l1": {
    "expires": "2026-12-01T05:48:03.287464+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
@@ -17689,8 +17741,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T16:54:59.994557+00:00",
-   "looked_up": "2026-11-18T09:01:19+00:00",
+   "expires": "2027-02-10T05:51:11.209079+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18490,8 +18542,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T10:29:00.357960+00:00",
-   "looked_up": "2026-11-18T09:01:19+00:00",
+   "expires": "2027-02-14T12:55:51.553112+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19743,6 +19795,11 @@
    "looked_up": "2026-11-05T11:01:19+00:00",
    "status": "not_found"
   },
+  "prosoai|data|l1": {
+   "expires": "2026-11-26T16:07:36.374025+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
+   "status": "not_found"
+  },
   "prosoai|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20941,8 +20998,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T09:09:14.349541+00:00",
-   "looked_up": "2026-11-18T09:01:19+00:00",
+   "expires": "2027-02-12T00:38:29.113739+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -20980,6 +21037,11 @@
   "renovision-automation-services-pvt-ltd|swe|l1": {
    "expires": "2026-11-23T12:33:26.390320+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
+  "rentablez|fullstack|l1": {
+   "expires": "2026-12-06T20:10:08.112536+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "status": "not_found"
   },
   "rentesy|mobile|l1": {
@@ -22301,8 +22363,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T00:04:04.247266+00:00",
-   "looked_up": "2026-11-18T09:01:19+00:00",
+   "expires": "2027-02-16T21:35:21.179330+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25192,11 +25254,6 @@
    ],
    "status": "found"
   },
-  "thejobbie|fullstack|l1": {
-   "expires": "2026-11-18T09:22:56.037573+00:00",
-   "looked_up": "2026-11-10T13:01:24+00:00",
-   "status": "not_found"
-  },
   "thekalki|frontend|l1": {
    "expires": "2026-11-21T12:08:42.441577+00:00",
    "looked_up": "2026-11-14T12:01:22+00:00",
@@ -25845,6 +25902,11 @@
   "truwave-software-llc|devops|l1": {
    "expires": "2026-11-23T14:47:26.736368+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
+   "status": "not_found"
+  },
+  "tshmedia|swe|l1": {
+   "expires": "2026-12-09T01:37:33.632032+00:00",
+   "looked_up": "2026-11-18T10:01:16+00:00",
    "status": "not_found"
   },
   "tslconsultingpvtltd|swe|l1": {
@@ -28659,8 +28721,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2134,
-  "lookups_today": 59,
+  "lookups_month": 2143,
+  "lookups_today": 68,
   "month": "2026-11"
  }
 }
