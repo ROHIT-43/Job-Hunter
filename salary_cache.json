@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:30:03.326521+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-16T14:40:54.166899+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:00:53.559083+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-13T20:37:02.418628+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5843,8 +5843,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T16:50:24.439123+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-19T20:50:41.591278+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6590,8 +6590,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T11:54:28.455420+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-21T21:12:09.837915+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6604,6 +6604,11 @@
   "creators-mind|frontend|l1": {
    "expires": "2026-12-02T07:59:12.126151+00:00",
    "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
+  },
+  "creators-mind|swe|l1": {
+   "expires": "2026-12-08T20:13:48.204253+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "status": "not_found"
   },
   "credhive-fintech|swe|l1": {
@@ -7548,6 +7553,11 @@
    "looked_up": "2026-11-16T06:01:18+00:00",
    "status": "not_found"
   },
+  "deutsche-bank|devops|l1": {
+   "expires": "2026-11-26T18:05:18.081393+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
+   "status": "not_found"
+  },
   "deutsche-bank|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7859,11 +7869,6 @@
     }
    ],
    "status": "found"
-  },
-  "ditto-insurance|swe|l1": {
-   "expires": "2026-11-18T18:53:40.558599+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
   },
   "docdortbydevdort|swe|l1": {
    "expires": "2026-11-24T08:00:50.321205+00:00",
@@ -9708,6 +9713,22 @@
    "looked_up": "2026-11-12T07:01:24+00:00",
    "status": "not_found"
   },
+  "firstcitizensindia|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-09T21:59:22.062438+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
+   "max_lpa": 15.4,
+   "min_lpa": 12.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/first-citizens-india-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "firstcitizensindia|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9933,8 +9954,8 @@
    "status": "not_found"
   },
   "flexipletech|mobile|l1": {
-   "expires": "2026-11-18T18:59:50.097480+00:00",
-   "looked_up": "2026-11-07T17:01:25+00:00",
+   "expires": "2026-12-09T09:24:38.050006+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "status": "not_found"
   },
   "flexipletech|security|l1": {
@@ -11954,6 +11975,11 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
+  "hitachirail|swe|l1": {
+   "expires": "2026-12-04T00:31:00.983997+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
+   "status": "not_found"
+  },
   "hitasoft|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12141,11 +12167,6 @@
    "status": "found",
    "year": 2024
   },
-  "hp|mobile|l1": {
-   "expires": "2026-11-18T18:15:03.088143+00:00",
-   "looked_up": "2026-10-29T06:01:32+00:00",
-   "status": "not_found"
-  },
   "hp|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12296,6 +12317,11 @@
   "huntingcubeai|fullstack|l1": {
    "expires": "2026-11-25T21:34:20.792811+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "huntingcubeai|fullstack|l2": {
+   "expires": "2026-12-01T05:56:10.622167+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "status": "not_found"
   },
   "huntingcubeai|mobile|l1": {
@@ -17759,11 +17785,6 @@
    "looked_up": "2026-11-13T17:01:26+00:00",
    "status": "not_found"
   },
-  "neurealm|swe|l1": {
-   "expires": "2026-11-18T19:01:10.767182+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
-   "status": "not_found"
-  },
   "neurodrift|fullstack|l1": {
    "expires": "2026-12-05T13:10:19.927674+00:00",
    "looked_up": "2026-11-15T03:01:25+00:00",
@@ -17994,8 +18015,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T20:11:32.569960+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-17T01:25:05.089507+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21307,8 +21328,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T00:49:36.490748+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-23T08:50:16.310936+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -21459,11 +21480,6 @@
     }
    ],
    "status": "found"
-  },
-  "rickshaw-studios|swe|l1": {
-   "expires": "2026-11-18T18:31:39.923658+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
   },
   "rippling|fullstack|l1": {
    "basis": "base",
@@ -22667,8 +22683,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:02:10.826663+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-17T19:52:34.395458+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25542,8 +25558,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T05:24:48.843882+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
+   "expires": "2027-02-21T20:00:56.431449+00:00",
+   "looked_up": "2026-11-18T19:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29111,8 +29127,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2208,
-  "lookups_today": 133,
+  "lookups_month": 2214,
+  "lookups_today": 139,
   "month": "2026-11"
  }
 }
