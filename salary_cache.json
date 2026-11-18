@@ -3427,6 +3427,11 @@
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
+  "better-future-solutions-inc|erp|l1": {
+   "expires": "2026-12-07T00:01:00.006706+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "status": "not_found"
+  },
   "bhanzu|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3574,8 +3579,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T01:17:43.929381+00:00",
-   "looked_up": "2026-11-18T08:01:17+00:00",
+   "expires": "2027-02-09T22:39:38.707448+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6232,6 +6237,11 @@
   "comprehendits|swe|l1": {
    "expires": "2026-11-21T22:09:45.183227+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
+   "status": "not_found"
+  },
+  "comscore|devops|l1": {
+   "expires": "2026-11-26T13:42:06.356150+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
    "status": "not_found"
   },
   "comscore|swe|l1": {
@@ -14107,6 +14117,11 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
+  "johnson-controls|swe|l3": {
+   "expires": "2026-11-30T21:00:13.155553+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "status": "not_found"
+  },
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -15448,11 +15463,6 @@
   "lumibyte-ai|fullstack|l1": {
    "expires": "2026-12-01T05:48:03.287464+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
-  "luminoxautomation|swe|l1": {
-   "expires": "2026-11-18T08:40:13.339660+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "lunatechnologiespvtltd|swe|l1": {
@@ -16911,11 +16921,6 @@
    "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
-  "msd-global|swe|l1": {
-   "expires": "2026-11-18T08:28:06.012690+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
-   "status": "not_found"
-  },
   "msg-global|devops|l1": {
    "expires": "2026-11-22T11:16:17.301814+00:00",
    "looked_up": "2026-11-04T16:01:28+00:00",
@@ -16987,11 +16992,6 @@
   "mycareernet|swe|l1": {
    "expires": "2026-11-25T22:58:20.542995+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "myriad360|data|l1": {
-   "expires": "2026-11-18T08:14:18.535590+00:00",
-   "looked_up": "2026-10-30T17:01:28+00:00",
    "status": "not_found"
   },
   "mystinex|fullstack|l1": {
@@ -17484,6 +17484,22 @@
    "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
+  "nexgen-techsolutions|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T20:06:12.129333+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/nexgen-tech-solutions-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nexionpro-sevices-llp|security|l1": {
    "expires": "2026-11-21T14:36:18.497552+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -17673,8 +17689,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T17:38:52.321880+00:00",
-   "looked_up": "2026-11-18T08:01:17+00:00",
+   "expires": "2027-02-18T16:54:59.994557+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -17687,11 +17703,6 @@
   "nooncom|security|l1": {
    "expires": "2026-11-25T01:06:08.788153+00:00",
    "looked_up": "2026-11-17T11:01:25+00:00",
-   "status": "not_found"
-  },
-  "nornux-solutions-private-limited|swe|l1": {
-   "expires": "2026-11-18T08:30:16.801388+00:00",
-   "looked_up": "2026-10-28T11:01:45+00:00",
    "status": "not_found"
   },
   "northern-trust|swe|l1": {
@@ -18479,8 +18490,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:09:12.823445+00:00",
-   "looked_up": "2026-11-18T08:01:17+00:00",
+   "expires": "2027-02-21T10:29:00.357960+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19609,11 +19620,6 @@
    ],
    "status": "found"
   },
-  "procter-and-gamble|security|l1": {
-   "expires": "2026-11-18T09:00:21.984145+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
   "prodcontechservicespvtltd|swe|l1": {
    "expires": "2026-12-06T20:37:42.884731+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -20544,11 +20550,6 @@
    ],
    "status": "found"
   },
-  "quixta|mobile|l1": {
-   "expires": "2026-11-18T08:26:17.372885+00:00",
-   "looked_up": "2026-10-30T13:01:31+00:00",
-   "status": "not_found"
-  },
   "quixta|swe|l1": {
    "expires": "2026-11-19T00:37:00.899182+00:00",
    "looked_up": "2026-10-30T13:01:31+00:00",
@@ -20936,6 +20937,20 @@
    "expires": "2026-11-26T18:12:03.036229+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
    "status": "not_found"
+  },
+  "remdesk|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T09:09:14.349541+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "remote-wfh-india|data|l1": {
    "expires": "2026-11-27T10:12:31.185449+00:00",
@@ -22286,8 +22301,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T12:37:13.255127+00:00",
-   "looked_up": "2026-11-18T08:01:17+00:00",
+   "expires": "2027-02-15T00:04:04.247266+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23750,11 +23765,6 @@
   "swiss-re|swe|l2": {
    "expires": "2026-12-01T09:42:06.444632+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "swissinvest|mobile|l1": {
-   "expires": "2026-11-18T08:29:50.048707+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
    "status": "not_found"
   },
   "switsdigital|erp|l1": {
@@ -26456,6 +26466,26 @@
    "looked_up": "2026-11-18T07:01:34+00:00",
    "status": "not_found"
   },
+  "vahan-inc-|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T14:07:18.711951+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "max_lpa": 25.3,
+   "min_lpa": 19.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vahan-inc-salaries/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vahan-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "vaics-consulting|swe|l1": {
    "expires": "2026-11-25T09:02:35.437180+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
@@ -27577,6 +27607,11 @@
    "status": "found",
    "year": 2025
   },
+  "welocalize|swe|l1": {
+   "expires": "2026-12-02T23:16:05.409283+00:00",
+   "looked_up": "2026-11-18T09:01:19+00:00",
+   "status": "not_found"
+  },
   "welocityai|swe|l1": {
    "expires": "2026-11-29T15:02:58.893871+00:00",
    "looked_up": "2026-11-17T04:01:21+00:00",
@@ -28624,8 +28659,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2128,
-  "lookups_today": 53,
+  "lookups_month": 2134,
+  "lookups_today": 59,
   "month": "2026-11"
  }
 }
