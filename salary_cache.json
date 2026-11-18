@@ -3040,6 +3040,11 @@
    "status": "found",
    "year": 2025
   },
+  "babbage-beyond|devops|l1": {
+   "expires": "2026-12-05T12:28:10.997897+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "backblaze|devops|l2": {
    "expires": "2026-11-18T19:39:43.243732+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -4050,8 +4055,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T20:29:32.657071+00:00",
-   "looked_up": "2026-11-18T05:01:28+00:00",
+   "expires": "2027-02-16T00:16:14.308743+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -4571,6 +4576,22 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "capgemini|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T23:52:48.340149+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "max_lpa": 4.0,
+   "min_lpa": 3.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/capgemini-salaries/full-stack-developer/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "capgemini|frontend|l2": {
    "basis": "ctc",
@@ -5690,8 +5711,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T20:44:00.468822+00:00",
-   "looked_up": "2026-11-18T05:01:28+00:00",
+   "expires": "2027-02-10T17:21:02.573135+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7924,6 +7945,11 @@
    ],
    "status": "found"
   },
+  "edterraedventures|frontend|l1": {
+   "expires": "2026-12-01T03:21:48.577010+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "educationzonepvtltd|swe|l1": {
    "expires": "2026-11-23T00:18:25.219637+00:00",
    "looked_up": "2026-11-14T21:01:18+00:00",
@@ -10067,11 +10093,6 @@
    ],
    "status": "found"
   },
-  "generac-power-systems|swe|l2": {
-   "expires": "2026-11-18T05:40:41.732160+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
   "general-mills|devops|l1": {
    "expires": "2026-11-27T01:07:11.098719+00:00",
    "looked_up": "2026-11-06T10:01:15+00:00",
@@ -11536,6 +11557,11 @@
    "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
+  "hiringhood|data|l1": {
+   "expires": "2026-12-04T04:39:55.600759+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "hissyo-consultancy-private-limited|erp|l1": {
    "expires": "2026-11-27T20:24:16.641177+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
@@ -12258,6 +12284,22 @@
    "status": "found",
    "year": 2025
   },
+  "ict-infracon|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T12:03:18.490107+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ict-infracon-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ict-infracon|mobile|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12492,6 +12534,22 @@
     }
    ],
    "status": "found"
+  },
+  "incubxperts|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T18:06:07.212306+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "kalingauniversity.prosple.com",
+     "uri": "https://kalingauniversity.prosple.com/graduate-employers/incubxperts"
+    }
+   ],
+   "status": "found",
+   "year": null
   },
   "incubyte|data|l1": {
    "expires": "2026-11-25T02:55:42.621320+00:00",
@@ -13558,6 +13616,11 @@
    "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
+  "izoologic|security|l1": {
+   "expires": "2026-12-04T04:12:48.865562+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "izoologic|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13686,6 +13749,22 @@
    "expires": "2026-11-19T03:14:19.283850+00:00",
    "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
+  },
+  "jio-saavn|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-10T04:10:07.970422+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "max_lpa": 28.0,
+   "min_lpa": 24.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/saavn-salaries/navi-mumbai-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "jio-star|fullstack|l2": {
    "basis": "base",
@@ -14732,6 +14811,11 @@
    "status": "found",
    "year": 2025
   },
+  "lancesoft|swe|l1": {
+   "expires": "2026-11-25T08:05:40.183315+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14936,6 +15020,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "lingo-sol|swe|l1": {
+   "expires": "2026-12-03T07:12:36.195806+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
   },
   "linkedin|swe|l1": {
    "basis": "base",
@@ -16194,11 +16283,6 @@
    "status": "found",
    "year": 2026
   },
-  "mind-carve|fullstack|l1": {
-   "expires": "2026-11-18T05:41:35.707735+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
-   "status": "not_found"
-  },
   "mindsprint|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17437,8 +17521,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:02:03.080688+00:00",
-   "looked_up": "2026-11-18T05:01:28+00:00",
+   "expires": "2027-02-13T00:36:28.309091+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18228,8 +18312,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:15:26.279821+00:00",
-   "looked_up": "2026-11-18T05:01:28+00:00",
+   "expires": "2027-02-11T16:45:08.072876+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -20644,6 +20728,11 @@
    "status": "found",
    "year": 2026
   },
+  "redseal-co|swe|l2": {
+   "expires": "2026-11-30T12:02:51.968521+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "refyne-india|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -21633,6 +21722,11 @@
    ],
    "status": "found",
    "year": 2021
+  },
+  "sathya-educare-competency-trust|fullstack|l1": {
+   "expires": "2026-11-25T12:24:25.215872+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
   },
   "sauce-labs|swe|l1": {
    "expires": "2026-11-19T17:46:19.001537+00:00",
@@ -23034,6 +23128,11 @@
    "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
+  "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
+   "expires": "2026-12-06T20:20:01.315357+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
+   "status": "not_found"
+  },
   "stackkindia|swe|l1": {
    "expires": "2026-11-21T13:38:30.449998+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
@@ -24144,6 +24243,11 @@
   "tech-talent-consulting|erp|l1": {
    "expires": "2026-12-02T16:25:37.781312+00:00",
    "looked_up": "2026-11-12T16:01:24+00:00",
+   "status": "not_found"
+  },
+  "techaivv-technologies|erp|l1": {
+   "expires": "2026-11-28T08:05:23.364474+00:00",
+   "looked_up": "2026-11-18T06:01:19+00:00",
    "status": "not_found"
   },
   "techaxisinc|erp|l1": {
@@ -28302,8 +28406,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2086,
-  "lookups_today": 11,
+  "lookups_month": 2100,
+  "lookups_today": 25,
   "month": "2026-11"
  }
 }
