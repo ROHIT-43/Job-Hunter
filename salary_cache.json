@@ -3133,6 +3133,11 @@
    "status": "found",
    "year": 2026
   },
+  "bakerhughes|swe|l2": {
+   "expires": "2026-12-08T12:54:25.235815+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "status": "not_found"
+  },
   "bank-of-america|swe|l1": {
    "expires": "2026-11-28T19:53:35.897931+00:00",
    "looked_up": "2026-11-09T18:01:28+00:00",
@@ -3589,8 +3594,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T06:43:10.321828+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
+   "expires": "2027-02-17T21:37:38.988026+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5737,6 +5742,11 @@
    "looked_up": "2026-11-14T07:01:19+00:00",
    "status": "not_found"
   },
+  "code-xq|swe|l1": {
+   "expires": "2026-12-04T16:31:56.017557+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "status": "not_found"
+  },
   "codemarinetech|swe|l1": {
    "expires": "2026-11-23T10:49:08.172462+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
@@ -5761,8 +5771,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T01:34:50.650635+00:00",
-   "looked_up": "2026-11-15T08:01:14+00:00",
+   "expires": "2027-02-16T19:22:24.029276+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -5910,11 +5920,6 @@
   "cognidrive-technologies|swe|l1": {
    "expires": "2026-11-20T21:54:54.854936+00:00",
    "looked_up": "2026-11-02T04:01:28+00:00",
-   "status": "not_found"
-  },
-  "cognitedata|swe|l1": {
-   "expires": "2026-11-18T10:19:50.494382+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
    "status": "not_found"
   },
   "cogniter-technologies|frontend|l1": {
@@ -6513,8 +6518,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:55:32.695406+00:00",
-   "looked_up": "2026-11-13T05:01:20+00:00",
+   "expires": "2027-02-15T21:57:23.746804+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8257,6 +8262,11 @@
    "looked_up": "2026-11-17T01:01:37+00:00",
    "status": "not_found"
   },
+  "eloeloapp|mobile|l1": {
+   "expires": "2026-12-07T06:28:49.147174+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "status": "not_found"
+  },
   "elsevier|swe|l2": {
    "expires": "2026-11-27T12:45:30.345246+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
@@ -8374,6 +8384,11 @@
   "employlabs|fullstack|l1": {
    "expires": "2026-11-30T13:34:56.460856+00:00",
    "looked_up": "2026-11-17T12:01:31+00:00",
+   "status": "not_found"
+  },
+  "emriom-solutions|erp|l1": {
+   "expires": "2026-12-07T05:29:16.945549+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "status": "not_found"
   },
   "emriom-solutions|swe|l1": {
@@ -12345,6 +12360,22 @@
    "status": "found",
    "year": 2026
   },
+  "ibm|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T12:46:51.325342+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 4.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ibm-salaries/android-app-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ibm|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12710,8 +12741,8 @@
    "status": "not_found"
   },
   "iitjobs|erp|l1": {
-   "expires": "2026-11-18T10:09:19.183930+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
+   "expires": "2026-11-29T10:41:37.268862+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "status": "not_found"
   },
   "iitmatrix|data|l1": {
@@ -15054,11 +15085,6 @@
    "looked_up": "2026-11-13T02:01:26+00:00",
    "status": "not_found"
   },
-  "lastworkingday|fullstack|l1": {
-   "expires": "2026-11-18T10:48:27.693091+00:00",
-   "looked_up": "2026-11-03T15:01:30+00:00",
-   "status": "not_found"
-  },
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -17155,11 +17181,6 @@
    "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
   },
-  "nationwide|swe|l1": {
-   "expires": "2026-11-18T10:15:18.851023+00:00",
-   "looked_up": "2026-11-04T19:01:20+00:00",
-   "status": "not_found"
-  },
   "natwest-group|data|l1": {
    "expires": "2026-11-23T14:53:55.960974+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
@@ -17653,6 +17674,11 @@
    "status": "found",
    "year": 2026
   },
+  "nikah-forever|swe|l1": {
+   "expires": "2026-12-04T07:11:33.161509+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "status": "not_found"
+  },
   "nikah-forever|swe|l2": {
    "expires": "2026-11-29T16:16:14.322710+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
@@ -17741,8 +17767,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T05:51:11.209079+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
+   "expires": "2027-02-21T08:02:11.425931+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18542,8 +18568,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T12:55:51.553112+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
+   "expires": "2027-02-14T15:32:53.056570+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19625,6 +19651,11 @@
   "primemover-solutions|swe|l1": {
    "expires": "2026-11-30T18:15:14.989395+00:00",
    "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
+  "primexvisa-group|frontend|l1": {
+   "expires": "2026-11-25T22:52:49.922671+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "status": "not_found"
   },
   "principalfinancialgroup|data|l1": {
@@ -20953,6 +20984,22 @@
    "status": "found",
    "year": 2026
   },
+  "redingtonlimited|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T03:24:12.942318+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/redington-salaries/sap-abap-consultant"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "redseal-co|swe|l2": {
    "expires": "2026-11-30T12:02:51.968521+00:00",
    "looked_up": "2026-11-18T06:01:19+00:00",
@@ -20998,8 +21045,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T00:38:29.113739+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
+   "expires": "2027-02-22T11:52:45.071773+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22363,8 +22410,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T21:35:21.179330+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
+   "expires": "2027-02-20T01:43:17.635969+00:00",
+   "looked_up": "2026-11-18T11:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -28721,8 +28768,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2143,
-  "lookups_today": 68,
+  "lookups_month": 2152,
+  "lookups_today": 77,
   "month": "2026-11"
  }
 }
