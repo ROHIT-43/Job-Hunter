@@ -284,11 +284,6 @@
    "status": "found",
    "year": 2025
   },
-  "acabes|data|l1": {
-   "expires": "2026-11-18T00:06:03.582975+00:00",
-   "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
-  },
   "accedepro-private-limited|frontend|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -2280,6 +2275,11 @@
    "status": "found",
    "year": 2025
   },
+  "arglobalhub|frontend|l1": {
+   "expires": "2026-12-08T11:21:38.639267+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
+   "status": "not_found"
+  },
   "argyll-infotech-inc|devops|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4060,8 +4060,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T06:24:24.204977+00:00",
-   "looked_up": "2026-11-18T00:01:19+00:00",
+   "expires": "2027-02-09T11:41:53.909750+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5532,6 +5532,22 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
+  "clover-infotech|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T18:50:19.023875+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
+   "max_lpa": 4.1,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/clover-infotech-salaries/apex-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "cme-group|devops|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -5684,8 +5700,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T18:11:46.319257+00:00",
-   "looked_up": "2026-11-18T00:01:19+00:00",
+   "expires": "2027-02-09T15:20:58.464072+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -8699,11 +8715,6 @@
   "evearis|swe|l1": {
    "expires": "2026-12-04T02:58:47.185216+00:00",
    "looked_up": "2026-11-15T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "eventsalta|fullstack|l1": {
-   "expires": "2026-11-18T00:14:20.542371+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
    "status": "not_found"
   },
   "everpure-data|erp|l1": {
@@ -18246,8 +18257,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:09:13.777528+00:00",
-   "looked_up": "2026-11-18T00:01:19+00:00",
+   "expires": "2027-02-14T12:28:40.503329+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -19131,11 +19142,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "playlisttechnologies|swe|l1": {
-   "expires": "2026-11-18T00:32:20.672121+00:00",
-   "looked_up": "2026-10-31T07:01:28+00:00",
-   "status": "not_found"
   },
   "pluang|swe|l1": {
    "basis": "ctc",
@@ -20023,11 +20029,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "qualitrol|swe|l1": {
-   "expires": "2026-11-18T00:06:55.064273+00:00",
-   "looked_up": "2026-11-01T11:01:27+00:00",
-   "status": "not_found"
   },
   "qualityenterprises|fullstack|l1": {
    "expires": "2026-11-21T16:56:34.335837+00:00",
@@ -24391,11 +24392,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "tekgl|erp|l1": {
-   "expires": "2026-11-18T00:41:11.770552+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
-   "status": "not_found"
-  },
   "teknikoz|erp|l1": {
    "expires": "2026-11-21T21:51:14.215188+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -26469,8 +26465,8 @@
   "vgreentek|erp|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:58:58.686006+00:00",
-   "looked_up": "2026-11-18T00:01:19+00:00",
+   "expires": "2027-02-13T02:10:16.399725+00:00",
+   "looked_up": "2026-11-18T01:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -28299,8 +28295,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2076,
-  "lookups_today": 1,
+  "lookups_month": 2078,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
