@@ -1202,6 +1202,11 @@
    "looked_up": "2026-11-06T13:01:18+00:00",
    "status": "not_found"
   },
+  "allicabank|security|l1": {
+   "expires": "2026-12-05T00:27:40.297078+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
+   "status": "not_found"
+  },
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3123,11 +3128,6 @@
    "looked_up": "2026-11-18T06:01:19+00:00",
    "status": "not_found"
   },
-  "backblaze|devops|l2": {
-   "expires": "2026-11-18T19:39:43.243732+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "bain-and-company|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:40:54.166899+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-22T02:12:33.122295+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:37:02.418628+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-19T09:35:43.772633+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5843,8 +5843,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T20:50:41.591278+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-14T04:49:19.440358+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6260,6 +6260,26 @@
    "looked_up": "2026-11-15T01:01:32+00:00",
    "status": "not_found"
   },
+  "commure|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-23T17:09:49.123120+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
+   "max_lpa": 20.7,
+   "min_lpa": 16.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/commure-salaries/software-engineer-ii"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/commure-salaries/bengaluru-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "commvault|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6590,8 +6610,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T21:12:09.837915+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-11T20:04:48.495782+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11645,11 +11665,6 @@
    "looked_up": "2026-11-11T09:01:25+00:00",
    "status": "not_found"
   },
-  "healthcatalyst|swe|l1": {
-   "expires": "2026-11-18T20:00:51.606283+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
-   "status": "not_found"
-  },
   "healthifyme|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13025,6 +13040,11 @@
   "indian-institutes-of-public-health-iiphs|swe|l1": {
    "expires": "2026-12-07T01:31:31.485349+00:00",
    "looked_up": "2026-11-17T17:01:21+00:00",
+   "status": "not_found"
+  },
+  "indiasfutureinvestors|swe|l1": {
+   "expires": "2026-11-26T06:56:41.108406+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "status": "not_found"
   },
   "indmoney|devops|l1": {
@@ -18015,8 +18035,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:25:05.089507+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-15T07:54:16.345874+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21027,6 +21047,11 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
+  "raerollc|swe|l1": {
+   "expires": "2026-12-08T18:12:29.365442+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
+   "status": "not_found"
+  },
   "rail-labs|swe|l1": {
    "expires": "2026-11-22T04:32:45.571728+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
@@ -21328,8 +21353,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:50:16.310936+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-17T21:26:59.728211+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22683,8 +22708,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:52:34.395458+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-13T13:41:52.318211+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25558,8 +25583,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:00:56.431449+00:00",
-   "looked_up": "2026-11-18T19:01:17+00:00",
+   "expires": "2027-02-18T00:16:30.393100+00:00",
+   "looked_up": "2026-11-18T20:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29127,8 +29152,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2214,
-  "lookups_today": 139,
+  "lookups_month": 2218,
+  "lookups_today": 143,
   "month": "2026-11"
  }
 }
