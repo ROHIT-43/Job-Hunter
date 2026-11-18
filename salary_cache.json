@@ -2320,6 +2320,22 @@
    ],
    "status": "found"
   },
+  "arise-tech-global|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T08:35:56.086784+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/arise-tech-global-salaries"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "aristocratcorporate|swe|l2": {
    "expires": "2026-11-19T04:37:40.398683+00:00",
    "looked_up": "2026-10-29T17:01:31+00:00",
@@ -3036,11 +3052,6 @@
    "status": "found",
    "year": 2026
   },
-  "axa-global-business-services-axa-gbs|swe|l1": {
-   "expires": "2026-11-18T15:36:08.344965+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3422,6 +3433,11 @@
    "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
+  "beroe-inc|swe|l1": {
+   "expires": "2026-12-08T09:34:13.082725+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
+  },
   "best-nanotech|swe|l1": {
    "expires": "2026-11-24T01:56:45.103384+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
@@ -3610,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T17:58:56.164942+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-12T19:36:53.339491+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4559,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:37:12.301999+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-17T04:32:02.005254+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5817,8 +5833,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T16:40:54.259757+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-21T11:54:40.845970+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6564,8 +6580,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:00:17.018836+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-20T22:01:14.742530+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6574,6 +6590,11 @@
     }
    ],
    "status": "found"
+  },
+  "creators-mind|frontend|l1": {
+   "expires": "2026-12-02T07:59:12.126151+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
   },
   "credhive-fintech|swe|l1": {
    "expires": "2026-11-22T21:26:45.428665+00:00",
@@ -10415,11 +10436,6 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
-  "getbadgeapp|fullstack|l1": {
-   "expires": "2026-11-18T15:21:44.157392+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
-  },
   "getixhealth|swe|l1": {
    "expires": "2026-11-19T10:41:00.008317+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -14235,6 +14251,11 @@
    "looked_up": "2026-11-18T09:01:19+00:00",
    "status": "not_found"
   },
+  "joinanyscale|swe|l1": {
+   "expires": "2026-12-07T11:52:49.729496+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
+  },
   "joinsaarthi|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -17844,8 +17865,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T03:46:55.956096+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-19T12:56:18.898114+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18660,8 +18681,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T13:30:37.914180+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-12T09:25:58.300998+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -21152,8 +21173,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T02:13:59.917254+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-12T05:18:51.268860+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22517,8 +22538,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T02:28:31.755870+00:00",
-   "looked_up": "2026-11-18T15:01:28+00:00",
+   "expires": "2027-02-18T22:42:35.323439+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -22888,11 +22909,6 @@
   "simple-digital-fze|swe|l1": {
    "expires": "2026-11-23T12:05:50.836862+00:00",
    "looked_up": "2026-11-05T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "siraj-software-solution|frontend|l1": {
-   "expires": "2026-11-18T15:03:22.676032+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
   "sirionclm|devops|l1": {
@@ -23474,6 +23490,11 @@
   "sparken-it-solutions-pvt.-ltd|mobile|l1": {
    "expires": "2026-11-30T13:05:14.255143+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
+   "status": "not_found"
+  },
+  "speedmart-india|fullstack|l1": {
+   "expires": "2026-12-08T22:19:28.419912+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "status": "not_found"
   },
   "speedradio|swe|l1": {
@@ -24822,11 +24843,6 @@
    "status": "found",
    "year": 2026
   },
-  "technoiogy-ia|swe|l1": {
-   "expires": "2026-11-18T15:18:08.344157+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
-   "status": "not_found"
-  },
   "technology-innovation-hub-mkce|fullstack|l1": {
    "expires": "2026-11-22T13:48:29.591390+00:00",
    "looked_up": "2026-11-15T10:01:18+00:00",
@@ -25407,8 +25423,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T13:31:58.490519+00:00",
-   "looked_up": "2026-11-14T15:01:22+00:00",
+   "expires": "2027-02-21T17:27:59.293264+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27706,6 +27722,11 @@
    "status": "found",
    "year": 2026
   },
+  "weareuplers|security|l1": {
+   "expires": "2026-12-03T07:27:13.200276+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
+  },
   "weareuplers|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -28845,6 +28866,11 @@
    "status": "found",
    "year": 2026
   },
+  "zimmerbiomet|frontend|l1": {
+   "expires": "2026-11-29T01:01:57.210665+00:00",
+   "looked_up": "2026-11-18T16:01:21+00:00",
+   "status": "not_found"
+  },
   "zimmerbiomet|swe|l1": {
    "expires": "2026-11-20T04:22:28.430980+00:00",
    "looked_up": "2026-11-06T15:01:20+00:00",
@@ -28930,8 +28956,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2181,
-  "lookups_today": 106,
+  "lookups_month": 2188,
+  "lookups_today": 113,
   "month": "2026-11"
  }
 }
