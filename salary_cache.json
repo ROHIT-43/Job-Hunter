@@ -3594,8 +3594,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T18:55:10.295382+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-12T03:57:51.625455+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5742,6 +5742,22 @@
    "looked_up": "2026-11-14T07:01:19+00:00",
    "status": "not_found"
   },
+  "code-vyasa|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T09:13:54.187024+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/code-vyasa-salaries/data-analyst"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "code-xq|swe|l1": {
    "expires": "2026-12-04T16:31:56.017557+00:00",
    "looked_up": "2026-11-18T11:01:25+00:00",
@@ -5771,8 +5787,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T02:49:49.639869+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-22T02:37:14.473512+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6518,8 +6534,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T09:27:44.105356+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-11T04:40:10.056234+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6594,11 +6610,6 @@
   "criclive-in|swe|l1": {
    "expires": "2026-11-19T02:11:21.355872+00:00",
    "looked_up": "2026-11-09T10:01:22+00:00",
-   "status": "not_found"
-  },
-  "crossinghurdles|data|l1": {
-   "expires": "2026-11-18T12:02:23.507889+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
   "crossinghurdles|devops|l1": {
@@ -7012,6 +7023,11 @@
   "dar-al-handasah|swe|l1": {
    "expires": "2026-11-25T21:08:16.815078+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
+  "dariohealth|erp|l1": {
+   "expires": "2026-11-28T13:23:36.633838+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
   "dassaultsystemes|swe|l1": {
@@ -8968,6 +8984,11 @@
    "status": "found",
    "year": 2024
   },
+  "evolent|devops|l1": {
+   "expires": "2026-11-30T17:09:12.508434+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
+   "status": "not_found"
+  },
   "evolving-systems|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10082,11 +10103,6 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
-  "freseniusmedicalcare|erp|l1": {
-   "expires": "2026-11-18T12:38:00.071736+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "fujitsu|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10997,11 +11013,6 @@
   "grapesworldwide|fullstack|l1": {
    "expires": "2026-11-22T15:15:38.732546+00:00",
    "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "gravitaspod|mobile|l1": {
-   "expires": "2026-11-18T12:14:15.327314+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
   },
   "gravyn-app|frontend|l1": {
@@ -12768,6 +12779,11 @@
   "imi|swe|l1": {
    "expires": "2026-11-22T17:39:57.079189+00:00",
    "looked_up": "2026-11-11T10:01:29+00:00",
+   "status": "not_found"
+  },
+  "immersiveinfotech|data|l1": {
+   "expires": "2026-11-30T13:43:54.108032+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
   "immersivetouch-inc-|swe|l2": {
@@ -15070,6 +15086,11 @@
    "looked_up": "2026-11-18T06:01:19+00:00",
    "status": "not_found"
   },
+  "lanxess|erp|l1": {
+   "expires": "2026-12-08T08:00:23.854462+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
+   "status": "not_found"
+  },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15739,9 +15760,9 @@
    "looked_up": "2026-11-16T01:01:34+00:00",
    "status": "not_found"
   },
-  "magnite|security|l1": {
-   "expires": "2026-11-18T12:10:20.628312+00:00",
-   "looked_up": "2026-10-28T17:01:38+00:00",
+  "magnet-tech-digital|mobile|l1": {
+   "expires": "2026-12-06T18:01:10.957318+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
   "makeflow-india|fullstack|l1": {
@@ -17558,6 +17579,11 @@
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
+  "netwrix-corporation|devops|l1": {
+   "expires": "2026-12-09T04:42:24.845389+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
+   "status": "not_found"
+  },
   "neuphonic|devops|l1": {
    "expires": "2026-11-23T20:50:27.290242+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
@@ -17798,8 +17824,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:08:01.188243+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-12T02:09:12.787213+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18609,8 +18635,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:39:51.496916+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-23T09:32:03.883997+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -21091,8 +21117,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T09:04:51.857537+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-16T15:22:14.629898+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22456,8 +22482,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T22:34:52.106299+00:00",
-   "looked_up": "2026-11-18T12:01:21+00:00",
+   "expires": "2027-02-18T12:08:31.329395+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24539,6 +24565,11 @@
    "status": "found",
    "year": 2026
   },
+  "teccadon-technology|frontend|l1": {
+   "expires": "2026-11-28T19:11:05.213958+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
+   "status": "not_found"
+  },
   "tech-mahindra|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -24824,6 +24855,11 @@
   "techs-to-suit-inc|swe|l1": {
    "expires": "2026-11-26T06:17:54.565599+00:00",
    "looked_up": "2026-11-15T08:01:14+00:00",
+   "status": "not_found"
+  },
+  "techsprout-ai-labs-private-limited|swe|l1": {
+   "expires": "2026-12-03T15:30:09.338127+00:00",
+   "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
   "techwave-technology|fullstack|l1": {
@@ -28854,8 +28890,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2162,
-  "lookups_today": 87,
+  "lookups_month": 2171,
+  "lookups_today": 96,
   "month": "2026-11"
  }
 }
