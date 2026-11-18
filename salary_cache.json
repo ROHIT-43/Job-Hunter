@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:59:30.956995+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-12T11:22:45.324390+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:11:28.040088+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-15T13:19:22.244463+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5081,11 +5081,6 @@
   "cdknorthamerica|security|l1": {
    "expires": "2026-11-26T03:30:37.675064+00:00",
    "looked_up": "2026-11-16T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "cdops-tech|frontend|l1": {
-   "expires": "2026-11-18T22:50:14.675353+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
   "ceeq1|swe|l1": {
@@ -5843,8 +5838,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:39:36.547755+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-13T03:45:20.624220+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6610,8 +6605,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T19:12:45.523896+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-22T09:14:10.372485+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -12339,11 +12334,6 @@
    "looked_up": "2026-11-10T13:01:24+00:00",
    "status": "not_found"
   },
-  "huntingcubeai|mobile|l3": {
-   "expires": "2026-11-18T22:33:44.999709+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
-   "status": "not_found"
-  },
   "huntingcubeai|swe|l1": {
    "expires": "2026-11-30T06:46:00.951121+00:00",
    "looked_up": "2026-11-13T03:01:20+00:00",
@@ -17992,6 +17982,26 @@
    "status": "found",
    "year": 2026
   },
+  "niksun|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T16:34:20.538059+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/niksun-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/niksun-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nippon-data-systems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18035,8 +18045,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T22:36:39.242988+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-12T14:45:53.802050+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21348,8 +21358,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T12:49:16.263203+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-17T12:48:59.812912+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22703,8 +22713,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:34:59.968008+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-21T13:13:32.115144+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25578,8 +25588,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T03:11:48.945327+00:00",
-   "looked_up": "2026-11-18T22:03:35+00:00",
+   "expires": "2027-02-10T19:37:10.660191+00:00",
+   "looked_up": "2026-11-18T23:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29142,8 +29152,8 @@
  },
  "meta": {
   "day": "2026-11-18",
-  "lookups_month": 2223,
-  "lookups_today": 148,
+  "lookups_month": 2224,
+  "lookups_today": 149,
   "month": "2026-11"
  }
 }
