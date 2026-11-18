@@ -4055,8 +4055,8 @@
   "brainstorm-force|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:13:36.010932+00:00",
-   "looked_up": "2026-11-18T04:01:23+00:00",
+   "expires": "2027-02-19T02:10:30.285607+00:00",
+   "looked_up": "2026-11-18T04:22:54+00:00",
    "max_lpa": 8.0,
    "min_lpa": 6.0,
    "sources": [
@@ -5695,8 +5695,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:43:34.082483+00:00",
-   "looked_up": "2026-11-18T04:01:23+00:00",
+   "expires": "2027-02-19T09:44:50.923241+00:00",
+   "looked_up": "2026-11-18T04:22:54+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -18217,8 +18217,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:27:32.977003+00:00",
-   "looked_up": "2026-11-18T04:01:23+00:00",
+   "expires": "2027-02-10T17:18:40.656559+00:00",
+   "looked_up": "2026-11-18T04:22:54+00:00",
    "max_lpa": 24.0,
    "min_lpa": 18.0,
    "sources": [
@@ -27743,11 +27743,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "z-transform-media|swe|l1": {
-   "expires": "2026-11-18T04:02:49.445400+00:00",
-   "looked_up": "2026-10-31T09:01:28+00:00",
-   "status": "not_found"
   },
   "zebra-technologies|data|l1": {
    "expires": "2026-11-25T07:45:07.371020+00:00",
