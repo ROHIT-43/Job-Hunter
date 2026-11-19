@@ -529,6 +529,11 @@
    "status": "found",
    "year": null
   },
+  "acnovate-corporation|erp|l1": {
+   "expires": "2026-12-03T18:11:10.053369+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
+  },
   "acsis-india-private-limited|swe|l1": {
    "expires": "2026-11-20T15:46:33.293150+00:00",
    "looked_up": "2026-11-05T09:01:22+00:00",
@@ -3137,8 +3142,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:44:10.027085+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-14T03:51:19.199852+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3493,8 +3498,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:41:13.990703+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-11T01:31:12.539476+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4352,6 +4357,22 @@
    "expires": "2026-11-28T18:09:17.335972+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
+  },
+  "brightbots-privated-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T11:54:59.700083+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "goodspace.ai",
+     "uri": "https://goodspace.ai/jobs/embeded-design-engineer-gurugram-haryana-india?id=30071"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "brightpeeps|mobile|l1": {
    "expires": "2026-11-20T20:51:24.981465+00:00",
@@ -6003,8 +6024,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T07:45:27.854755+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-20T22:18:44.262908+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6692,8 +6713,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:23:08.384709+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-17T07:58:22.269339+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6761,8 +6782,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T23:46:10.738814+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-21T17:37:05.919989+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11604,6 +11625,11 @@
    "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
+  "gyansys|erp|l1": {
+   "expires": "2026-12-09T05:37:15.629748+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
+  },
   "h&amp;m|swe|l1": {
    "expires": "2026-11-20T04:40:29.279055+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
@@ -12796,6 +12822,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "iassistl|devops|l1": {
+   "expires": "2026-12-04T22:17:23.685714+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
   },
   "ibm|data|l1": {
    "basis": "ctc",
@@ -14662,8 +14693,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T05:55:26.026773+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-21T01:42:25.803255+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14676,8 +14707,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T19:43:37.062340+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-22T08:45:58.554006+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -15690,6 +15721,11 @@
    "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
+  "largeton-inc|fullstack|l1": {
+   "expires": "2026-11-29T02:38:55.191924+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
+  },
   "larsen-&amp;-toubro-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16368,6 +16404,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "magna-international|security|l1": {
+   "expires": "2026-11-30T16:39:25.849010+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
   },
   "magna-international|swe|l1": {
    "basis": "ctc",
@@ -24732,11 +24773,6 @@
    "looked_up": "2026-11-15T14:01:22+00:00",
    "status": "not_found"
   },
-  "supersquareai|swe|l1": {
-   "expires": "2026-11-19T15:43:29.495099+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "supportsages|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -25593,6 +25629,11 @@
    "looked_up": "2026-11-12T23:01:27+00:00",
    "status": "not_found"
   },
+  "techbrawn-it-solutions-private-limited|erp|l1": {
+   "expires": "2026-11-29T16:05:21.970618+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
+  },
   "techcarrot|erp|l1": {
    "expires": "2026-11-23T11:16:23.575466+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
@@ -25648,6 +25689,11 @@
    "looked_up": "2026-11-04T02:01:37+00:00",
    "status": "not_found"
   },
+  "techflowservices|mobile|l1": {
+   "expires": "2026-11-30T04:19:04.415648+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
+  },
   "techgrove-by-banyan-software|devops|l1": {
    "expires": "2026-11-21T02:30:26.486313+00:00",
    "looked_up": "2026-11-12T14:01:22+00:00",
@@ -25668,6 +25714,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "technetit|erp|l1": {
+   "expires": "2026-12-08T19:34:05.504919+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
   },
   "technipfmc|swe|l1": {
    "basis": "ctc",
@@ -26306,8 +26357,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T20:29:22.160763+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-16T13:45:39.611869+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -26981,6 +27032,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "trustedtrucks|frontend|l1": {
+   "expires": "2026-12-10T08:03:10.365450+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
+   "status": "not_found"
   },
   "truveta|swe|l1": {
    "expires": "2026-11-26T06:22:29.560404+00:00",
@@ -27810,11 +27866,6 @@
    "status": "found",
    "year": 2026
   },
-  "velankanigroup|frontend|l1": {
-   "expires": "2026-11-19T15:57:25.180183+00:00",
-   "looked_up": "2026-11-04T07:01:28+00:00",
-   "status": "not_found"
-  },
   "velicham-finance|fullstack|l1": {
    "expires": "2026-11-23T21:13:57.878788+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
@@ -28159,11 +28210,6 @@
   "visionet-systems-inc-|devops|l1": {
    "expires": "2026-12-01T00:55:23.849779+00:00",
    "looked_up": "2026-11-17T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "visionet-systems-inc-|swe|l1": {
-   "expires": "2026-11-19T15:49:07.066343+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
   "visiongroupretail|data|l1": {
@@ -29214,8 +29260,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:29:54.067763+00:00",
-   "looked_up": "2026-11-19T15:01:18+00:00",
+   "expires": "2027-02-13T00:08:56.544634+00:00",
+   "looked_up": "2026-11-19T16:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29965,8 +30011,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2343,
-  "lookups_today": 119,
+  "lookups_month": 2353,
+  "lookups_today": 129,
   "month": "2026-11"
  }
 }
