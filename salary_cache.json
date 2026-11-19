@@ -805,6 +805,11 @@
    "status": "found",
    "year": 2024
   },
+  "agdova-technologies|swe|l1": {
+   "expires": "2026-12-10T05:28:23.708608+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
+   "status": "not_found"
+  },
   "ageless-entertainment|frontend|l1": {
    "expires": "2026-11-27T16:40:36.525051+00:00",
    "looked_up": "2026-11-08T01:01:21+00:00",
@@ -2552,11 +2557,6 @@
    "looked_up": "2026-11-07T19:01:18+00:00",
    "status": "not_found"
   },
-  "arvvenza-realty|swe|l1": {
-   "expires": "2026-11-19T19:43:46.368826+00:00",
-   "looked_up": "2026-11-09T05:01:20+00:00",
-   "status": "not_found"
-  },
   "aryatech-offshore-and-marine-services|swe|l1": {
    "expires": "2026-11-24T14:05:52.194678+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -3179,8 +3179,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T23:03:06.607583+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-19T01:45:16.845984+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3535,8 +3535,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T20:21:34.114466+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-18T14:36:44.034334+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6077,8 +6077,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:07:32.724222+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-21T10:56:49.631578+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6771,8 +6771,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:57:34.155672+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-22T04:03:28.559561+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6840,8 +6840,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T14:33:10.019651+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-16T19:25:38.243628+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9467,9 +9467,20 @@
    "year": 2025
   },
   "exl-service|devops|l1": {
-   "expires": "2026-11-19T19:34:45.665699+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T21:32:46.519130+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/exl-service-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "exl-service|erp|l1": {
    "expires": "2026-11-28T00:14:19.104488+00:00",
@@ -10135,11 +10146,6 @@
    ],
    "status": "found",
    "year": 2023
-  },
-  "fiscalox|security|l1": {
-   "expires": "2026-11-19T19:05:23.282884+00:00",
-   "looked_up": "2026-11-07T17:01:25+00:00",
-   "status": "not_found"
   },
   "fiserv|devops|l1": {
    "expires": "2026-11-30T07:48:10.626665+00:00",
@@ -14799,8 +14805,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T05:51:24.701282+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-17T21:51:54.404768+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14813,8 +14819,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:16:49.294287+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-24T08:59:55.495995+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -22476,6 +22482,11 @@
    "looked_up": "2026-11-10T18:01:24+00:00",
    "status": "not_found"
   },
+  "rsmultixindia|swe|l1": {
+   "expires": "2026-11-29T02:58:24.279319+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
+   "status": "not_found"
+  },
   "rspinnovations|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24060,11 +24071,6 @@
    "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
-  "smith-nephew|swe|l2": {
-   "expires": "2026-11-19T19:09:27.253899+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
-   "status": "not_found"
-  },
   "smiths-detection|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24799,11 +24805,6 @@
   "sulzer|erp|l1": {
    "expires": "2026-11-24T13:18:50.477030+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "sumanhealth|swe|l1": {
-   "expires": "2026-11-19T19:11:06.487365+00:00",
-   "looked_up": "2026-10-30T13:01:31+00:00",
    "status": "not_found"
   },
   "sumo-logic|swe|l2": {
@@ -27280,6 +27281,11 @@
    ],
    "status": "found"
   },
+  "uffizio-india-software|devops|l1": {
+   "expires": "2026-12-03T08:25:44.360923+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
+   "status": "not_found"
+  },
   "uipath|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29374,8 +29380,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T14:28:52.107573+00:00",
-   "looked_up": "2026-11-19T19:01:18+00:00",
+   "expires": "2027-02-24T00:42:56.547590+00:00",
+   "looked_up": "2026-11-19T20:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30125,8 +30131,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2372,
-  "lookups_today": 148,
+  "lookups_month": 2376,
+  "lookups_today": 152,
   "month": "2026-11"
  }
 }
