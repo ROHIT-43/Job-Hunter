@@ -308,11 +308,6 @@
    "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
-  "accelonconsulting|swe|l1": {
-   "expires": "2026-11-19T14:23:02.994730+00:00",
-   "looked_up": "2026-10-30T14:01:30+00:00",
-   "status": "not_found"
-  },
   "accelya|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1589,6 +1584,22 @@
    "status": "found",
    "year": 2026
   },
+  "american-express|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T08:48:07.128078+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "max_lpa": 32.0,
+   "min_lpa": 20.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/american-express-salaries/senior-devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "american-express|security|l3": {
    "basis": "base",
    "confidence": "low",
@@ -2117,11 +2128,6 @@
   "appsforbharat|frontend|l1": {
    "expires": "2026-12-03T07:42:42.443778+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "appsforbharat|mobile|l1": {
-   "expires": "2026-11-19T14:50:52.681454+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
   "appsteaninfotech|swe|l1": {
@@ -3131,8 +3137,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T12:58:22.893147+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-24T07:44:10.027085+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3439,6 +3445,11 @@
    "status": "found",
    "year": 2026
   },
+  "bcg-x|swe|l1": {
+   "expires": "2026-12-02T23:34:01.770303+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "status": "not_found"
+  },
   "bcits-private-limited|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3482,8 +3493,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T13:41:04.257322+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-22T16:41:13.990703+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5992,8 +6003,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T06:44:31.346048+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-23T07:45:27.854755+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6681,8 +6692,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:26:43.898289+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-18T10:23:08.384709+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6750,8 +6761,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T20:14:46.873273+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-12T23:46:10.738814+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11828,6 +11839,22 @@
    "status": "found",
    "year": null
   },
+  "hcltech|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T20:50:58.614700+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "max_lpa": 8.7,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/hcl-technologies-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "hcltech|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12328,6 +12355,22 @@
    "expires": "2026-11-28T12:21:07.065664+00:00",
    "looked_up": "2026-11-19T11:01:19+00:00",
    "status": "not_found"
+  },
+  "hmhlearn|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T18:23:30.675564+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "max_lpa": 15.0,
+   "min_lpa": 13.0,
+   "sources": [
+    {
+     "title": "jobs.weekday.works",
+     "uri": "https://jobs.weekday.works/houghton-mifflin-harcourt-(hmh)-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "hoichoitv|swe|l1": {
    "expires": "2026-11-20T06:38:58.850207+00:00",
@@ -14619,8 +14662,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:47:39.181689+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-23T05:55:26.026773+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14633,8 +14676,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:18:19.690975+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-13T19:43:37.062340+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -14690,11 +14733,6 @@
   "jobgether|erp|l1": {
    "expires": "2026-11-29T10:41:17.700503+00:00",
    "looked_up": "2026-11-12T05:01:17+00:00",
-   "status": "not_found"
-  },
-  "jobgether|swe|l1": {
-   "expires": "2026-11-19T14:49:52.619445+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
    "status": "not_found"
   },
   "jobgether|swe|l2": {
@@ -17897,11 +17935,6 @@
    "status": "found",
    "year": 2025
   },
-  "nasuni|swe|l1": {
-   "expires": "2026-11-19T14:14:50.625642+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "nathabit|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18278,6 +18311,26 @@
    "expires": "2026-11-28T05:10:54.709248+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
+  },
+  "network-marvels-india-private-limited|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T17:38:56.226316+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/overview/network-marvels-overview"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/network-marvels-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "netwrix-corporation|devops|l1": {
    "expires": "2026-12-09T04:42:24.845389+00:00",
@@ -19557,6 +19610,11 @@
   "osfin-ai|devops|l1": {
    "expires": "2026-12-03T11:03:44.886896+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
+   "status": "not_found"
+  },
+  "osheeva|swe|l1": {
+   "expires": "2026-12-04T19:31:12.586431+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "status": "not_found"
   },
   "oslrs|data|l1": {
@@ -23662,6 +23720,11 @@
    "looked_up": "2026-11-13T15:01:23+00:00",
    "status": "not_found"
   },
+  "siroclinpharm|swe|l1": {
+   "expires": "2026-12-09T01:09:23.837416+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
+   "status": "not_found"
+  },
   "sisir-radar|swe|l1": {
    "expires": "2026-11-28T03:46:22.640427+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
@@ -26243,8 +26306,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:05:21.298458+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-22T20:29:22.160763+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29151,8 +29214,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T20:20:23.182899+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-11T05:29:54.067763+00:00",
+   "looked_up": "2026-11-19T15:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29902,8 +29965,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2336,
-  "lookups_today": 112,
+  "lookups_month": 2343,
+  "lookups_today": 119,
   "month": "2026-11"
  }
 }
