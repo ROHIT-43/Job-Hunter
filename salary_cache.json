@@ -308,11 +308,6 @@
    "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
-  "accel-digtial-ad-operations|data|l1": {
-   "expires": "2026-11-19T01:40:47.226882+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
-   "status": "not_found"
-  },
   "accelonconsulting|swe|l1": {
    "expires": "2026-11-19T14:23:02.994730+00:00",
    "looked_up": "2026-10-30T14:01:30+00:00",
@@ -3626,8 +3621,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:22:40.119729+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-16T03:43:06.504777+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3987,11 +3982,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bold-business|fullstack|l1": {
-   "expires": "2026-11-19T01:02:50.407750+00:00",
-   "looked_up": "2026-11-04T15:01:31+00:00",
-   "status": "not_found"
   },
   "bolzano-india|swe|l1": {
    "expires": "2026-11-24T04:56:40.079367+00:00",
@@ -4575,8 +4565,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:48:05.668492+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-13T11:33:04.677704+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -4901,11 +4891,6 @@
   "carl-zeiss-india-czi|swe|l1": {
    "expires": "2026-11-23T17:51:36.317145+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
-   "status": "not_found"
-  },
-  "carpet-international|frontend|l1": {
-   "expires": "2026-11-19T01:03:39.117095+00:00",
-   "looked_up": "2026-10-30T06:01:28+00:00",
    "status": "not_found"
   },
   "carrier|swe|l1": {
@@ -5838,8 +5823,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T02:46:44.920737+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-22T18:49:01.294250+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6610,8 +6595,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:24:40.958104+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-22T07:40:59.542193+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7838,11 +7823,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "digitrix-software-llp|swe|l1": {
-   "expires": "2026-11-19T01:25:54.278336+00:00",
-   "looked_up": "2026-11-07T05:01:30+00:00",
-   "status": "not_found"
   },
   "dikshatechnologies|mobile|l1": {
    "basis": "ctc",
@@ -16027,6 +16007,11 @@
    "status": "found",
    "year": 2025
   },
+  "management-education-research-institute-meri-new-delhi|swe|l1": {
+   "expires": "2026-11-29T05:48:50.323994+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
+   "status": "not_found"
+  },
   "manipal-university-jaipur|swe|l1": {
    "expires": "2026-11-27T06:35:13.232583+00:00",
    "looked_up": "2026-11-09T17:01:26+00:00",
@@ -17398,11 +17383,6 @@
    "status": "found",
    "year": 2025
   },
-  "nasuni|devops|l1": {
-   "expires": "2026-11-19T01:11:34.501715+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "nasuni|swe|l1": {
    "expires": "2026-11-19T14:14:50.625642+00:00",
    "looked_up": "2026-11-03T11:01:33+00:00",
@@ -18040,8 +18020,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:02:55.718006+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-12T05:51:13.418606+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19851,11 +19831,6 @@
    "status": "found",
    "year": 2026
   },
-  "powerschool-group-llc|swe|l2": {
-   "expires": "2026-11-19T01:01:28.336067+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "powersoft-techno-solutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21338,8 +21313,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T05:38:18.926299+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-17T12:11:46.204544+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22698,8 +22673,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:57:03.606849+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-11T13:37:15.995608+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25568,8 +25543,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T03:30:30.779814+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
+   "expires": "2027-02-14T01:56:55.259671+00:00",
+   "looked_up": "2026-11-19T02:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29127,8 +29102,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2227,
-  "lookups_today": 3,
+  "lookups_month": 2228,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
