@@ -2616,6 +2616,11 @@
    "looked_up": "2026-11-07T18:01:18+00:00",
    "status": "not_found"
   },
+  "aspire-club-fuuast|swe|l1": {
+   "expires": "2026-12-02T14:12:14.681468+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
+  },
   "aspirox-private-limited|swe|l1": {
    "expires": "2026-11-21T23:39:47.417440+00:00",
    "looked_up": "2026-11-03T12:01:28+00:00",
@@ -3126,8 +3131,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T22:52:13.018612+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-18T12:58:22.893147+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3477,8 +3482,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T07:38:26.607153+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-12T13:41:04.257322+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4676,8 +4681,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:03:51.000026+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-19T10:39:27.025521+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5987,8 +5992,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:51:48.341533+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-18T06:44:31.346048+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6676,8 +6681,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:57:01.739035+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-12T10:26:43.898289+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6745,8 +6750,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T14:13:32.350776+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-23T20:14:46.873273+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7758,6 +7763,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "developerbazaar|swe|l1": {
+   "expires": "2026-12-02T22:53:34.969944+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
   },
   "devops-engineering|devops|l1": {
    "expires": "2026-11-23T20:12:34.823628+00:00",
@@ -11520,6 +11530,11 @@
    "looked_up": "2026-11-19T10:01:15+00:00",
    "status": "not_found"
   },
+  "gsk|devops|l1": {
+   "expires": "2026-12-07T08:21:39.431085+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
+  },
   "guidehouse|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14604,8 +14619,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T18:44:32.254078+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-13T12:47:39.181689+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14618,8 +14633,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T23:09:57.860892+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-19T22:18:19.690975+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17706,6 +17721,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "msi-services-pvt-ltd|swe|l1": {
+   "expires": "2026-12-09T13:15:54.696821+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
   },
   "mufg|erp|l1": {
    "expires": "2026-11-25T15:26:14.487361+00:00",
@@ -21249,6 +21269,11 @@
    "looked_up": "2026-11-02T14:01:43+00:00",
    "status": "not_found"
   },
+  "quantum-integrators-group-llc|swe|l1": {
+   "expires": "2026-11-29T00:54:44.687543+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
+  },
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -24068,6 +24093,11 @@
    "looked_up": "2026-10-31T17:01:23+00:00",
    "status": "not_found"
   },
+  "solvex-solutions|fullstack|l1": {
+   "expires": "2026-11-26T21:54:02.998422+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
+  },
   "solvex-solutions|swe|l1": {
    "expires": "2026-11-22T20:57:29.200475+00:00",
    "looked_up": "2026-11-02T09:01:48+00:00",
@@ -24213,11 +24243,6 @@
     }
    ],
    "status": "found"
-  },
-  "south-system|data|l1": {
-   "expires": "2026-11-19T13:52:59.020123+00:00",
-   "looked_up": "2026-10-30T23:01:39+00:00",
-   "status": "not_found"
   },
   "spadtek-solutions|erp|l1": {
    "expires": "2026-12-04T23:27:10.827524+00:00",
@@ -26218,8 +26243,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:43:28.692324+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-16T05:05:21.298458+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -26867,6 +26892,11 @@
   "trinity-technology-solutions|data|l1": {
    "expires": "2026-11-23T10:14:40.659861+00:00",
    "looked_up": "2026-11-06T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "trioptus|swe|l1": {
+   "expires": "2026-12-01T00:41:18.863723+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "status": "not_found"
   },
   "tripjack-official|swe|l1": {
@@ -29121,8 +29151,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T07:34:30.884223+00:00",
-   "looked_up": "2026-11-19T13:29:13+00:00",
+   "expires": "2027-02-17T20:20:23.182899+00:00",
+   "looked_up": "2026-11-19T14:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29872,8 +29902,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2329,
-  "lookups_today": 105,
+  "lookups_month": 2336,
+  "lookups_today": 112,
   "month": "2026-11"
  }
 }
