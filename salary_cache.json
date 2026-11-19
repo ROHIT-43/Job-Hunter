@@ -2964,6 +2964,26 @@
    "status": "found",
    "year": 2025
   },
+  "avaloq|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T08:49:24.134469+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
+   "max_lpa": 9.2,
+   "min_lpa": 7.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/avaloq-salaries/pune-location?page=3"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/avaloq-salaries/developer/pune-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "avance-services|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3621,8 +3641,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T10:27:12.862466+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-12T01:07:14.177818+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4565,8 +4585,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T06:51:38.993179+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-10T19:21:35.799769+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5823,8 +5843,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:42:26.314604+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-17T02:07:21.891510+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6595,8 +6615,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T17:44:53.112677+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-14T02:14:12.320981+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -14276,6 +14296,30 @@
    ],
    "status": "found"
   },
+  "jobgether|devops|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-12T22:53:15.397886+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
+   "max_lpa": 30.7,
+   "min_lpa": 22.3,
+   "sources": [
+    {
+     "title": "aijobs.app",
+     "uri": "https://aijobs.app/devops-engineer-remote-india-jobgether-7436927"
+    },
+    {
+     "title": "usemimi.com",
+     "uri": "https://usemimi.com/jobs/devops-engineer-remote-india-at-jobgether-mnl6mzpb"
+    },
+    {
+     "title": "foundit.in",
+     "uri": "https://www.foundit.in/job/devops-engineer-remote-india-jobgether-india-38148909"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "jobgether|erp|l1": {
    "expires": "2026-11-29T10:41:17.700503+00:00",
    "looked_up": "2026-11-12T05:01:17+00:00",
@@ -18005,8 +18049,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T15:00:52.074079+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-11T14:37:06.592909+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18367,11 +18411,6 @@
   "nxerra|swe|l1": {
    "expires": "2026-11-24T11:38:47.940620+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "nxp-semiconductors|data|l1": {
-   "expires": "2026-11-19T03:46:31.636058+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
    "status": "not_found"
   },
   "nxp-semiconductors|swe|l1": {
@@ -21298,8 +21337,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T09:25:00.544483+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-24T01:12:22.477121+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22653,8 +22692,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T19:52:02.937794+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-21T11:12:25.397835+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25523,8 +25562,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T16:38:10.984183+00:00",
-   "looked_up": "2026-11-19T03:27:13+00:00",
+   "expires": "2027-02-17T08:43:14.148518+00:00",
+   "looked_up": "2026-11-19T04:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29087,8 +29126,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2229,
-  "lookups_today": 5,
+  "lookups_month": 2231,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
