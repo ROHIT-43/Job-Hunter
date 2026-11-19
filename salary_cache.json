@@ -804,6 +804,11 @@
    "looked_up": "2026-11-14T00:01:25+00:00",
    "status": "not_found"
   },
+  "ai-mploy|security|l1": {
+   "expires": "2026-12-01T23:16:57.636071+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "aihealthops|swe|l1": {
    "expires": "2026-11-30T10:16:18.381884+00:00",
    "looked_up": "2026-11-13T03:01:20+00:00",
@@ -2841,11 +2846,6 @@
    "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
-  "auo-mobility-solutions|devops|l1": {
-   "expires": "2026-11-19T11:13:15.243375+00:00",
-   "looked_up": "2026-10-30T16:01:29+00:00",
-   "status": "not_found"
-  },
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3121,8 +3121,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:34:25.481844+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-14T10:10:20.133794+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3472,8 +3472,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:25:04.285790+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-14T05:38:17.225457+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4474,6 +4474,11 @@
    "looked_up": "2026-11-16T20:01:18+00:00",
    "status": "not_found"
   },
+  "broccoli-com|swe|l2": {
+   "expires": "2026-12-07T15:33:49.482838+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "broomboom|mobile|l1": {
    "expires": "2026-11-27T22:33:18.412738+00:00",
    "looked_up": "2026-11-18T08:01:17+00:00",
@@ -4572,6 +4577,11 @@
    "looked_up": "2026-11-05T20:01:22+00:00",
    "status": "not_found"
   },
+  "bytebeam|swe|l1": {
+   "expires": "2026-12-05T02:11:55.362112+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "c3-ai-enterprise-ai|swe|l1": {
    "expires": "2026-11-21T00:21:38.926367+00:00",
    "looked_up": "2026-11-01T14:01:27+00:00",
@@ -4661,8 +4671,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T07:29:12.012046+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-11T06:49:33.569578+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5469,6 +5479,11 @@
    "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
+  "ciena|security|l1": {
+   "expires": "2026-12-08T07:31:52.415947+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "ciena|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5967,8 +5982,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T06:45:05.429632+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-22T11:37:34.112613+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6656,8 +6671,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T08:27:43.512345+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-16T09:40:18.340074+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6725,8 +6740,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T00:09:43.203172+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-12T20:18:16.046496+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11502,11 +11517,6 @@
    "status": "found",
    "year": null
   },
-  "guidehouse|security|l1": {
-   "expires": "2026-11-19T11:08:33.677792+00:00",
-   "looked_up": "2026-11-09T14:01:26+00:00",
-   "status": "not_found"
-  },
   "guidewire-software|devops|l3": {
    "expires": "2026-11-24T02:24:13.929667+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -14258,6 +14268,11 @@
    "looked_up": "2026-11-11T19:01:21+00:00",
    "status": "not_found"
   },
+  "ithinkdigitalofficial|swe|l1": {
+   "expires": "2026-11-26T15:20:38.693786+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "itroninc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14536,6 +14551,11 @@
    "looked_up": "2026-11-14T08:01:19+00:00",
    "status": "not_found"
   },
+  "job-sphere-india|frontend|l1": {
+   "expires": "2026-12-06T16:09:16.487418+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "job-sphere-india|fullstack|l1": {
    "expires": "2026-11-30T22:32:29.304521+00:00",
    "looked_up": "2026-11-19T09:01:21+00:00",
@@ -14544,8 +14564,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:07:30.225185+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-19T00:32:42.084817+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14558,8 +14578,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T20:38:30.426343+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-12T02:26:16.246099+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16178,6 +16198,11 @@
   "lxme|devops|l1": {
    "expires": "2026-12-10T00:52:40.007320+00:00",
    "looked_up": "2026-11-19T11:01:19+00:00",
+   "status": "not_found"
+  },
+  "lyzr-platform|devops|l1": {
+   "expires": "2026-12-02T03:14:55.079479+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
   },
   "maayasthra|swe|l1": {
@@ -19338,6 +19363,11 @@
    "status": "found",
    "year": 2025
   },
+  "orange-business|devops|l1": {
+   "expires": "2026-11-29T12:33:32.938778+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
+  },
   "orange-business|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19846,6 +19876,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "pepsico|data|l1": {
+   "expires": "2026-11-28T17:15:01.993343+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
   },
   "perennation-computer-solutions|swe|l1": {
    "expires": "2026-12-01T14:32:05.336849+00:00",
@@ -22032,11 +22067,6 @@
    "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
-  "robotostudio|swe|l1": {
-   "expires": "2026-11-19T11:36:12.966295+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
-  },
   "roche|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22624,11 +22654,6 @@
     }
    ],
    "status": "found"
-  },
-  "sapphire-stream-technologies-private-limited|swe|l1": {
-   "expires": "2026-11-19T11:06:13.090151+00:00",
-   "looked_up": "2026-11-11T08:01:21+00:00",
-   "status": "not_found"
   },
   "sap|devops|l1": {
    "basis": "ctc",
@@ -24248,6 +24273,22 @@
    ],
    "status": "found"
   },
+  "standard-chartered-india|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T07:23:01.242860+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/standard-chartered-salaries/developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "standard-chartered-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24803,6 +24844,11 @@
   "synopsys|erp|l1": {
    "expires": "2026-11-24T21:36:50.919494+00:00",
    "looked_up": "2026-11-16T10:01:23+00:00",
+   "status": "not_found"
+  },
+  "synopsys|swe|l1": {
+   "expires": "2026-12-06T19:59:00.322411+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
   },
   "syntel-private-limited|swe|l1": {
@@ -25367,6 +25413,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "tech-t7-innovations|swe|l1": {
+   "expires": "2026-12-04T19:20:59.885655+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
+   "status": "not_found"
   },
   "tech-talent-consulting|erp|l1": {
    "expires": "2026-12-02T16:25:37.781312+00:00",
@@ -26096,8 +26147,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:44:50.944322+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-21T01:04:56.174233+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -28999,8 +29050,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T18:57:00.435690+00:00",
-   "looked_up": "2026-11-19T11:01:19+00:00",
+   "expires": "2027-02-14T18:47:18.027697+00:00",
+   "looked_up": "2026-11-19T12:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29750,8 +29801,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2307,
-  "lookups_today": 83,
+  "lookups_month": 2319,
+  "lookups_today": 95,
   "month": "2026-11"
  }
 }
