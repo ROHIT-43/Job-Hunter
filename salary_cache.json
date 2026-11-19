@@ -3433,6 +3433,20 @@
    "status": "found",
    "year": 2025
   },
+  "bdoinindia|swe|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-20T18:43:55.705315+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "bds-ai-digital-solutions-pvt-ltd|swe|l1": {
    "expires": "2026-11-28T16:43:11.452138+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
@@ -3636,8 +3650,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:48:21.315249+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-23T03:01:00.265263+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4596,8 +4610,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T22:32:04.673699+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-12T06:05:41.761981+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5499,6 +5513,26 @@
    "status": "found",
    "year": 2023
   },
+  "cisco|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T18:59:43.596035+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 18.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/cisco-salaries/bengaluru-location"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/2907060/Cisco-or-Software-Engineer-or-Bengaluru/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "cisco|swe|l1": {
    "basis": "base",
    "confidence": "medium",
@@ -5854,8 +5888,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T10:21:09.463467+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-10T11:11:36.941668+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6621,8 +6655,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T10:00:15.301581+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-24T01:53:02.901087+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7991,6 +8025,22 @@
    ],
    "status": "found",
    "year": null
+  },
+  "droisys|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T06:46:02.531723+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 9.1,
+   "min_lpa": 2.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/droisys-salaries/data-analyst"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "droom-media|fullstack|l1": {
    "expires": "2026-11-23T19:34:38.513584+00:00",
@@ -15658,8 +15708,8 @@
    "status": "not_found"
   },
   "london-stock-exchange-group|security|l1": {
-   "expires": "2026-11-19T05:02:19.920227+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
+   "expires": "2026-12-09T10:54:49.075036+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "status": "not_found"
   },
   "london-stock-exchange-group|swe|l1": {
@@ -17226,6 +17276,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/mphasis-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "mpms-mufg|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T03:29:21.784185+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 5.7,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/mufg-pension-and-market-services-salaries/analyst"
     }
    ],
    "status": "found",
@@ -18995,6 +19061,11 @@
    "status": "found",
    "year": 2025
   },
+  "orbion-infotech|devops|l1": {
+   "expires": "2026-12-08T15:42:25.566720+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "status": "not_found"
+  },
   "orbion-infotech|erp|l1": {
    "expires": "2026-11-29T02:54:56.865898+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
@@ -20180,6 +20251,22 @@
    "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
+  "prudent-corporate-advisory-services|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T00:03:08.460074+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 2.1,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/prudent-corporate-advisory-services-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "prudent-technologies-and-consulting-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20873,6 +20960,11 @@
    "status": "found",
    "year": 2025
   },
+  "questhiring|data|l1": {
+   "expires": "2026-12-07T13:05:10.084587+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "status": "not_found"
+  },
   "questhiring|devops|l1": {
    "expires": "2026-11-23T10:21:17.919192+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -21353,8 +21445,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:45:10.937294+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-19T09:29:59.635479+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22713,8 +22805,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T15:12:31.897652+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-11T15:10:28.364576+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23557,11 +23649,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "sonicwall|frontend|l1": {
-   "expires": "2026-11-19T05:07:24.239586+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
   },
   "sophos|devops|l1": {
    "expires": "2026-11-20T20:16:05.344225+00:00",
@@ -24823,6 +24910,11 @@
    "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
+  "tecdatum|fullstack|l1": {
+   "expires": "2026-11-28T09:07:20.511007+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "status": "not_found"
+  },
   "tech-mahindra|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -25615,8 +25707,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:42:53.830968+00:00",
-   "looked_up": "2026-11-19T05:01:15+00:00",
+   "expires": "2027-02-15T10:54:45.098392+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27028,6 +27120,26 @@
    "status": "found",
    "year": 2024
   },
+  "valuemomentum|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-23T08:37:24.940437+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/valuemomentum-salaries/fresher"
+    },
+    {
+     "title": "kluniversity.in",
+     "uri": "https://www.kluniversity.in/Placement-Reports/Value%20Momentum.pdf"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "vanguard-india|swe|l1": {
    "expires": "2026-12-04T18:15:51.624692+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
@@ -27301,6 +27413,11 @@
   "vijesha-it-services-llp|mobile|l1": {
    "expires": "2026-12-07T02:51:37.314885+00:00",
    "looked_up": "2026-11-17T18:01:39+00:00",
+   "status": "not_found"
+  },
+  "vikat-ai|security|l1": {
+   "expires": "2026-11-29T02:47:03.963516+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
    "status": "not_found"
   },
   "virinnovations|swe|l1": {
@@ -28326,9 +28443,20 @@
    "status": "found"
   },
   "workmatescore2cloud|swe|l1": {
-   "expires": "2026-11-19T05:36:34.813567+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
-   "status": "not_found"
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T05:17:58.532013+00:00",
+   "looked_up": "2026-11-19T06:01:17+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/workmates-core2cloud-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "world-wide-technology|devops|l1": {
    "expires": "2026-12-07T08:58:24.875314+00:00",
@@ -29179,8 +29307,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2238,
-  "lookups_today": 14,
+  "lookups_month": 2249,
+  "lookups_today": 25,
   "month": "2026-11"
  }
 }
