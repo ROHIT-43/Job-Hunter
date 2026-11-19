@@ -3184,8 +3184,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T03:59:28.803083+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-20T05:39:42.943820+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3540,8 +3540,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T17:38:26.013868+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-16T18:27:21.662385+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6092,8 +6092,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T21:39:52.275746+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-16T12:59:45.873170+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6786,8 +6786,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:48:32.719213+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-15T12:00:43.003460+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6855,8 +6855,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:25:55.008926+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-11T09:47:09.960819+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7858,11 +7858,6 @@
   "descprotechnologies|swe|l1": {
    "expires": "2026-12-01T08:47:00.421022+00:00",
    "looked_up": "2026-11-19T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "deservely-india|swe|l1": {
-   "expires": "2026-11-19T21:10:38.637887+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
   "design-directuk|devops|l1": {
@@ -14815,8 +14810,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:33:00.445040+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-23T07:08:22.620054+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14829,8 +14824,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T23:14:58.819694+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-11T23:03:45.365780+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17975,11 +17970,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mycareernet|data|l1": {
-   "expires": "2026-11-19T21:13:32.559663+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
   },
   "mycareernet|swe|l1": {
    "expires": "2026-11-25T22:58:20.542995+00:00",
@@ -29380,8 +29370,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T20:37:57.765802+00:00",
-   "looked_up": "2026-11-19T21:01:22+00:00",
+   "expires": "2027-02-22T21:57:26.436563+00:00",
+   "looked_up": "2026-11-19T21:33:38+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
