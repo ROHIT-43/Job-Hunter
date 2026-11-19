@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T22:22:53.855614+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-20T04:22:40.119729+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:20:46.269149+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-17T08:48:05.668492+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5838,8 +5838,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T22:29:10.605040+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-17T02:46:44.920737+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6255,6 +6255,11 @@
    "looked_up": "2026-11-15T01:01:32+00:00",
    "status": "not_found"
   },
+  "commonwealthbank|swe|l1": {
+   "expires": "2026-11-27T17:49:02.267315+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
+   "status": "not_found"
+  },
   "commure|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6605,8 +6610,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T06:31:04.331405+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-20T17:24:40.958104+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -6629,6 +6634,11 @@
   "credhive-fintech|swe|l1": {
    "expires": "2026-11-22T21:26:45.428665+00:00",
    "looked_up": "2026-11-09T17:01:26+00:00",
+   "status": "not_found"
+  },
+  "creenosolutions|erp|l1": {
+   "expires": "2026-12-02T18:18:19.158158+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "status": "not_found"
   },
   "creospan|data|l1": {
@@ -13461,11 +13471,6 @@
    "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
-  "ingersoll-rand-compressor-systems-&amp;-services|security|l1": {
-   "expires": "2026-11-19T00:07:02.556331+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
-  },
   "ingersoll-rand|swe|l1": {
    "expires": "2026-11-30T19:51:47.930269+00:00",
    "looked_up": "2026-11-09T21:01:22+00:00",
@@ -16563,11 +16568,6 @@
    "looked_up": "2026-11-13T07:01:23+00:00",
    "status": "not_found"
   },
-  "meridian-review-group-news|swe|l1": {
-   "expires": "2026-11-19T00:12:46.296794+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "metabase|security|l1": {
    "expires": "2026-11-21T01:10:55.363940+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -18040,8 +18040,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T04:06:11.215226+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-17T01:02:55.718006+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -18071,11 +18071,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "northladder|frontend|l1": {
-   "expires": "2026-11-19T00:22:20.312892+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
-   "status": "not_found"
   },
   "norwin-technologies|security|l1": {
    "expires": "2026-11-25T06:46:35.699255+00:00",
@@ -20941,11 +20936,6 @@
    ],
    "status": "found"
   },
-  "quixta|swe|l1": {
-   "expires": "2026-11-19T00:37:00.899182+00:00",
-   "looked_up": "2026-10-30T13:01:31+00:00",
-   "status": "not_found"
-  },
   "qurinomsolutions|mobile|l1": {
    "expires": "2026-11-22T00:08:20.500891+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -21348,8 +21338,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:31:26.851677+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-10T05:38:18.926299+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22286,6 +22276,11 @@
    "status": "found",
    "year": 2025
   },
+  "sarmah-enterprise|swe|l1": {
+   "expires": "2026-12-04T02:06:55.668504+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
+   "status": "not_found"
+  },
   "sas-powertech-pvt.-ltd.|swe|l1": {
    "expires": "2026-11-20T18:07:57.920809+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -22703,8 +22698,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:42:30.481322+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-22T21:57:03.606849+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24132,11 +24127,6 @@
   "swiftb2b|fullstack|l1": {
    "expires": "2026-11-25T06:20:29.920447+00:00",
    "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "swiftcruit|fullstack|l1": {
-   "expires": "2026-11-19T01:01:14.605472+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
   "swiggy-in|swe|l1": {
@@ -25578,8 +25568,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T07:37:44.404609+00:00",
-   "looked_up": "2026-11-19T00:01:20+00:00",
+   "expires": "2027-02-18T03:30:30.779814+00:00",
+   "looked_up": "2026-11-19T01:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27907,11 +27897,6 @@
    "status": "found",
    "year": 2025
   },
-  "web-testing-123|swe|l1": {
-   "expires": "2026-11-19T00:37:22.694584+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "webboostsolutions|frontend|l1": {
    "expires": "2026-12-01T16:51:57.983439+00:00",
    "looked_up": "2026-11-14T07:01:19+00:00",
@@ -29142,8 +29127,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2224,
-  "lookups_today": 0,
+  "lookups_month": 2227,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
