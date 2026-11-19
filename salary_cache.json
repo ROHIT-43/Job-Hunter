@@ -1167,11 +1167,6 @@
    "status": "found",
    "year": 2026
   },
-  "algoworks|data|l1": {
-   "expires": "2026-11-19T06:46:26.741844+00:00",
-   "looked_up": "2026-10-30T11:01:37+00:00",
-   "status": "not_found"
-  },
   "alignerr|security|l1": {
    "expires": "2026-11-30T17:19:46.682476+00:00",
    "looked_up": "2026-11-18T21:56:30+00:00",
@@ -3010,6 +3005,11 @@
    "looked_up": "2026-11-17T08:01:21+00:00",
    "status": "not_found"
   },
+  "aventiq-ai|swe|l1": {
+   "expires": "2026-12-05T23:19:37.962586+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
+  },
   "aveva|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3153,11 +3153,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bain-and-company|swe|l1": {
-   "expires": "2026-11-19T06:18:58.655353+00:00",
-   "looked_up": "2026-11-01T12:01:27+00:00",
-   "status": "not_found"
   },
   "bakerhughes|swe|l1": {
    "basis": "base",
@@ -3436,8 +3431,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T18:43:55.705315+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-16T23:07:55.571379+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4610,8 +4605,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T06:05:41.761981+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-14T20:57:13.915930+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5888,8 +5883,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T11:11:36.941668+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-18T11:43:57.305763+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6655,8 +6650,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T01:53:02.901087+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-20T14:35:13.172470+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7601,6 +7596,11 @@
   "depth-consulting-services-private-limited|erp|l1": {
    "expires": "2026-12-02T05:09:10.428083+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
+   "status": "not_found"
+  },
+  "descprotechnologies|swe|l1": {
+   "expires": "2026-12-01T08:47:00.421022+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "deservely-india|swe|l1": {
@@ -10456,6 +10456,11 @@
    "status": "found",
    "year": 2026
   },
+  "geekssolutions|devops|l1": {
+   "expires": "2026-12-04T07:11:37.467131+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
+  },
   "geektrust|data|l1": {
    "expires": "2026-11-30T23:23:55.195191+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
@@ -10906,6 +10911,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "good-enough-energy|swe|l1": {
+   "expires": "2026-11-27T08:54:06.195791+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
   },
   "goodscoreapp|data|l1": {
    "expires": "2026-11-25T04:55:48.677257+00:00",
@@ -16030,6 +16040,11 @@
    "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
+  "maitsys|erp|l1": {
+   "expires": "2026-11-27T03:21:22.993980+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
+  },
   "makeflow-india|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -16906,6 +16921,11 @@
   "mirafra-technologies|mobile|l1": {
    "expires": "2026-11-19T22:40:02.311078+00:00",
    "looked_up": "2026-11-02T13:01:35+00:00",
+   "status": "not_found"
+  },
+  "mirafra-technologies|swe|l1": {
+   "expires": "2026-12-03T20:49:59.775992+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "miraixorg|data|l1": {
@@ -18884,6 +18904,11 @@
   "optiv-inc|swe|l1": {
    "expires": "2026-11-25T13:36:08.959563+00:00",
    "looked_up": "2026-11-11T16:01:21+00:00",
+   "status": "not_found"
+  },
+  "optivaluetek|erp|l1": {
+   "expires": "2026-11-27T20:29:37.240915+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "optumindia|data|l1": {
@@ -21445,8 +21470,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:29:59.635479+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-12T14:53:37.077866+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22805,8 +22830,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T15:10:28.364576+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-22T21:13:53.626527+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23573,6 +23598,11 @@
    "looked_up": "2026-11-17T11:01:25+00:00",
    "status": "not_found"
   },
+  "solidcam-india1|swe|l1": {
+   "expires": "2026-11-29T22:26:25.948435+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
+  },
   "solvative|data|l1": {
    "expires": "2026-12-04T05:08:05.475898+00:00",
    "looked_up": "2026-11-15T05:01:21+00:00",
@@ -23624,11 +23654,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sonata-software|frontend|l1": {
-   "expires": "2026-11-19T06:26:41.743437+00:00",
-   "looked_up": "2026-10-29T10:01:25+00:00",
-   "status": "not_found"
   },
   "sonata-software|swe|l1": {
    "basis": "ctc",
@@ -23838,6 +23863,11 @@
   "stackkindia|swe|l1": {
    "expires": "2026-11-21T13:38:30.449998+00:00",
    "looked_up": "2026-11-02T06:01:28+00:00",
+   "status": "not_found"
+  },
+  "stafingo|erp|l1": {
+   "expires": "2026-11-29T12:58:41.355448+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "stageworks-in|swe|l1": {
@@ -24235,11 +24265,6 @@
   },
   "sweken-it-solutions|devops|l1": {
    "expires": "2026-11-25T02:12:32.629812+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "sweken-it-solutions|frontend|l1": {
-   "expires": "2026-11-19T06:29:17.668132+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
@@ -25707,8 +25732,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:54:45.098392+00:00",
-   "looked_up": "2026-11-19T06:01:17+00:00",
+   "expires": "2027-02-21T08:10:24.475902+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -26072,6 +26097,26 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "towards-vision-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "medium",
+   "expires": "2027-02-17T20:09:59.564555+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/c-zentrix-salaries/software-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/reviews/c-zentrix-reviews/gurgaon-location?tag=salary"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "tower-research-capital|swe|l1": {
    "basis": "base",
@@ -29303,12 +29348,17 @@
    "expires": "2026-11-22T10:53:53.845516+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
+  },
+  "传音控股集团|mobile|l1": {
+   "expires": "2026-12-02T04:21:30.223077+00:00",
+   "looked_up": "2026-11-19T07:01:25+00:00",
+   "status": "not_found"
   }
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2249,
-  "lookups_today": 25,
+  "lookups_month": 2260,
+  "lookups_today": 36,
   "month": "2026-11"
  }
 }
