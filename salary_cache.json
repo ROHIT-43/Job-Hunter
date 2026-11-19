@@ -2341,11 +2341,6 @@
    "status": "found",
    "year": null
   },
-  "aristocratcorporate|swe|l2": {
-   "expires": "2026-11-19T04:37:40.398683+00:00",
-   "looked_up": "2026-10-29T17:01:31+00:00",
-   "status": "not_found"
-  },
   "arm|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3641,8 +3636,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T01:07:14.177818+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-15T19:48:21.315249+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3651,6 +3646,22 @@
     }
    ],
    "status": "found"
+  },
+  "bitrixinfotech|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T10:10:09.286223+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
+   "max_lpa": 2.1,
+   "min_lpa": 1.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bitrix-infotech-salaries/surat-location"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "black-and-veatch|swe|l1": {
    "expires": "2026-11-28T11:49:14.137635+00:00",
@@ -4585,8 +4596,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T19:21:35.799769+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-22T22:32:04.673699+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5843,8 +5854,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T02:07:21.891510+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-16T10:21:09.463467+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6607,16 +6618,11 @@
    "looked_up": "2026-11-17T16:01:28+00:00",
    "status": "not_found"
   },
-  "craftix-creative-studio|swe|l1": {
-   "expires": "2026-11-19T04:14:12.803406+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T02:14:12.320981+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-11T10:00:15.301581+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8257,6 +8263,11 @@
   "edwards|devops|l1": {
    "expires": "2026-11-20T21:21:28.921382+00:00",
    "looked_up": "2026-11-02T19:01:30+00:00",
+   "status": "not_found"
+  },
+  "effulgent-inc|devops|l1": {
+   "expires": "2026-11-26T13:27:05.152270+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "status": "not_found"
   },
   "effulgent-inc|fullstack|l1": {
@@ -9994,6 +10005,11 @@
    "status": "found",
    "year": 2026
   },
+  "flexspeed-technology-india-private-limited|swe|l1": {
+   "expires": "2026-12-09T22:48:21.897002+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
+   "status": "not_found"
+  },
   "flexxdgym|fullstack|l1": {
    "expires": "2026-11-24T17:35:21.351586+00:00",
    "looked_up": "2026-11-07T01:01:15+00:00",
@@ -11319,6 +11335,11 @@
   "h&amp;m|swe|l1": {
    "expires": "2026-11-20T04:40:29.279055+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
+   "status": "not_found"
+  },
+  "h-p-inc|swe|l1": {
+   "expires": "2026-12-07T08:30:15.428683+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "status": "not_found"
   },
   "hackerkernel|frontend|l1": {
@@ -16108,11 +16129,6 @@
   "market-disc-media-private-limited|swe|l1": {
    "expires": "2026-12-02T10:30:40.666433+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "marketingvertos|frontend|l1": {
-   "expires": "2026-11-19T04:11:15.147085+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
    "status": "not_found"
   },
   "mars-telecom-systems-pvt.-ltd.|swe|l1": {
@@ -21337,8 +21353,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T01:12:22.477121+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-15T20:45:10.937294+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22296,6 +22312,11 @@
    "status": "found",
    "year": 2026
   },
+  "sas|frontend|l1": {
+   "expires": "2026-12-01T01:40:05.273115+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
+   "status": "not_found"
+  },
   "sas|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -22692,8 +22713,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T11:12:25.397835+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-16T15:12:31.897652+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23782,6 +23803,38 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/startoon-labs-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "statusneo|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T14:08:34.695579+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/statusneo-salaries/front-end-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "statusneo|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T17:26:56.927453+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
+   "max_lpa": 7.5,
+   "min_lpa": 3.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/statusneo-salaries/software-engineer"
     }
    ],
    "status": "found",
@@ -25562,8 +25615,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:43:14.148518+00:00",
-   "looked_up": "2026-11-19T04:01:15+00:00",
+   "expires": "2027-02-21T09:42:53.830968+00:00",
+   "looked_up": "2026-11-19T05:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29126,8 +29179,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2231,
-  "lookups_today": 7,
+  "lookups_month": 2238,
+  "lookups_today": 14,
   "month": "2026-11"
  }
 }
