@@ -941,6 +941,11 @@
    "looked_up": "2026-11-12T15:01:25+00:00",
    "status": "not_found"
   },
+  "air-arabia|devops|l1": {
+   "expires": "2026-11-30T12:37:40.978792+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
+   "status": "not_found"
+  },
   "air-arabia|swe|l1": {
    "expires": "2026-12-04T16:11:08.993699+00:00",
    "looked_up": "2026-11-17T15:01:31+00:00",
@@ -1859,11 +1864,6 @@
     }
    ],
    "status": "found"
-  },
-  "animlslover|mobile|l1": {
-   "expires": "2026-11-19T18:26:10.318303+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
   },
   "anish-ashirgade|erp|l1": {
    "expires": "2026-11-20T15:25:23.782658+00:00",
@@ -3179,8 +3179,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:45:48.212883+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-12T23:03:06.607583+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3535,8 +3535,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T20:31:55.130996+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-17T20:21:34.114466+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4547,6 +4547,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "broadridge-financial-solutions-india-private-ltd|data|l1": {
+   "expires": "2026-12-01T22:24:39.771980+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
+   "status": "not_found"
   },
   "broalldone|swe|l1": {
    "expires": "2026-12-03T10:39:37.589860+00:00",
@@ -6072,8 +6077,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T03:28:15.703402+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-17T22:07:32.724222+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6766,8 +6771,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:55:20.048390+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-12T11:57:34.155672+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6835,8 +6840,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T06:50:23.688824+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-23T14:33:10.019651+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10986,11 +10991,6 @@
    "looked_up": "2026-11-02T13:01:35+00:00",
    "status": "not_found"
   },
-  "gitlab-com|devops|l1": {
-   "expires": "2026-11-19T18:52:56.673549+00:00",
-   "looked_up": "2026-11-10T14:01:24+00:00",
-   "status": "not_found"
-  },
   "gitlab-com|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -14384,6 +14384,11 @@
    "status": "found",
    "year": 2025
   },
+  "iris-software-inc.|devops|l1": {
+   "expires": "2026-12-04T18:42:41.512775+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
+   "status": "not_found"
+  },
   "isecurion|security|l1": {
    "expires": "2026-12-09T08:24:54.658148+00:00",
    "looked_up": "2026-11-18T18:01:27+00:00",
@@ -14735,6 +14740,22 @@
    "status": "found",
    "year": 2025
   },
+  "jll|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T18:53:25.744835+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
+   "max_lpa": 13.0,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "tsenta.com",
+     "uri": "https://tsenta.com/jobs/jll-data-engineer-1-3cf6acf9-10ce-4575-9cd7-5293e4054bd5"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "jlrindia|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -14778,8 +14799,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:57:52.707696+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-11T05:51:24.701282+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14792,8 +14813,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:58:09.388399+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-24T15:16:49.294287+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -18811,11 +18832,6 @@
   "novglobal|security|l1": {
    "expires": "2026-11-22T20:13:50.301337+00:00",
    "looked_up": "2026-11-11T21:01:51+00:00",
-   "status": "not_found"
-  },
-  "novotech|erp|l1": {
-   "expires": "2026-11-19T18:29:52.050405+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
    "status": "not_found"
   },
   "nrg-foods|swe|l1": {
@@ -26733,11 +26749,6 @@
    "status": "found",
    "year": 2026
   },
-  "toadster-technologies-private-limited|devops|l1": {
-   "expires": "2026-11-19T18:27:05.755567+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
-   "status": "not_found"
-  },
   "tonbo-imaging|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -29363,8 +29374,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T06:02:30.519418+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
+   "expires": "2027-02-19T14:28:52.107573+00:00",
+   "looked_up": "2026-11-19T19:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30114,8 +30125,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2368,
-  "lookups_today": 144,
+  "lookups_month": 2372,
+  "lookups_today": 148,
   "month": "2026-11"
  }
 }
