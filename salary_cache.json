@@ -1437,6 +1437,11 @@
    "status": "found",
    "year": 2024
   },
+  "amazon-web-services|security|l1": {
+   "expires": "2026-12-05T03:04:27.303128+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
+   "status": "not_found"
+  },
   "amazon-web-services|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -3179,8 +3184,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:45:16.845984+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-17T03:59:28.803083+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3535,8 +3540,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T14:36:44.034334+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-24T17:38:26.013868+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4312,6 +4317,11 @@
    ],
    "status": "found"
   },
+  "bravefederaltechnologies|devops|l1": {
+   "expires": "2026-12-06T08:17:58.153141+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
+   "status": "not_found"
+  },
   "break-free|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4644,6 +4654,11 @@
   "burns-mcdonnell-india|data|l1": {
    "expires": "2026-11-25T20:55:47.123281+00:00",
    "looked_up": "2026-11-10T16:01:23+00:00",
+   "status": "not_found"
+  },
+  "buro-happold|swe|l1": {
+   "expires": "2026-12-08T16:38:20.667984+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "status": "not_found"
   },
   "business-intelli-solutions|data|l1": {
@@ -6077,8 +6092,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T10:56:49.631578+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-10T21:39:52.275746+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6771,8 +6786,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T04:03:28.559561+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-21T01:48:32.719213+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6840,8 +6855,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T19:25:38.243628+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-17T19:25:55.008926+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8282,11 +8297,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "drc-systems|devops|l1": {
-   "expires": "2026-11-19T20:46:45.756521+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
   },
   "drishticon|swe|l1": {
    "basis": "ctc",
@@ -14805,8 +14815,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T21:51:54.404768+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-20T11:33:00.445040+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14819,8 +14829,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T08:59:55.495995+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-10T23:14:58.819694+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19390,11 +19400,6 @@
    "looked_up": "2026-11-16T18:01:20+00:00",
    "status": "not_found"
   },
-  "one-simulation|frontend|l1": {
-   "expires": "2026-11-19T20:55:28.985220+00:00",
-   "looked_up": "2026-11-04T03:01:31+00:00",
-   "status": "not_found"
-  },
   "onesaz|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -21483,8 +21488,8 @@
    "year": 2026
   },
   "quantum-integrators-group-llc|erp|l1": {
-   "expires": "2026-11-19T20:59:44.141173+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
+   "expires": "2026-11-29T00:20:46.317842+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "status": "not_found"
   },
   "quantum-integrators-group-llc|swe|l1": {
@@ -26441,11 +26446,6 @@
    "status": "found",
    "year": 2026
   },
-  "the-retail-insights|devops|l1": {
-   "expires": "2026-11-19T20:38:13.040395+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
-   "status": "not_found"
-  },
   "the-venture-chronicle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -29380,8 +29380,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T00:42:56.547590+00:00",
-   "looked_up": "2026-11-19T20:01:16+00:00",
+   "expires": "2027-02-23T20:37:57.765802+00:00",
+   "looked_up": "2026-11-19T21:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30131,8 +30131,8 @@
  },
  "meta": {
   "day": "2026-11-19",
-  "lookups_month": 2376,
-  "lookups_today": 152,
+  "lookups_month": 2380,
+  "lookups_today": 156,
   "month": "2026-11"
  }
 }
