@@ -3626,8 +3626,8 @@
   "bitnimbusio|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T11:22:45.324390+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-14T22:22:53.855614+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 15.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4575,8 +4575,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:19:22.244463+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-15T18:20:46.269149+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5838,8 +5838,8 @@
   "coderoundai|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T03:45:20.624220+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-18T22:29:10.605040+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 25.0,
    "sources": [
@@ -6605,8 +6605,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T09:14:10.372485+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-12T06:31:04.331405+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11359,11 +11359,6 @@
   "hakkoda|erp|l1": {
    "expires": "2026-11-24T01:38:04.344939+00:00",
    "looked_up": "2026-11-09T01:01:20+00:00",
-   "status": "not_found"
-  },
-  "hakkoda|fullstack|l1": {
-   "expires": "2026-11-18T23:21:33.173970+00:00",
-   "looked_up": "2026-11-06T20:01:24+00:00",
    "status": "not_found"
   },
   "hamid-tech-world|frontend|l1": {
@@ -18045,8 +18040,8 @@
   "nmdcon|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T14:45:53.802050+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-14T04:06:11.215226+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -19972,11 +19967,6 @@
    "status": "found",
    "year": 2025
   },
-  "principalfinancialgroup|swe|l1": {
-   "expires": "2026-11-18T23:34:23.695075+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
-   "status": "not_found"
-  },
   "prismberry-technologies|data|l1": {
    "expires": "2026-11-19T16:02:53.082096+00:00",
    "looked_up": "2026-11-02T08:01:31+00:00",
@@ -21358,8 +21348,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T12:48:59.812912+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-23T10:31:26.851677+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 4.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22713,8 +22703,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T13:13:32.115144+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-13T03:42:30.481322+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25588,8 +25578,8 @@
   "thealteroffice|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T19:37:10.660191+00:00",
-   "looked_up": "2026-11-18T23:01:25+00:00",
+   "expires": "2027-02-22T07:37:44.404609+00:00",
+   "looked_up": "2026-11-19T00:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29151,9 +29141,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-18",
+  "day": "2026-11-19",
   "lookups_month": 2224,
-  "lookups_today": 149,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
