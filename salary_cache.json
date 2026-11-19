@@ -3142,8 +3142,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T03:51:19.199852+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-19T10:58:39.191931+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3498,8 +3498,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T01:31:12.539476+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-18T18:57:18.346361+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6024,8 +6024,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:18:44.262908+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-21T23:21:03.407564+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6713,8 +6713,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:58:22.269339+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-22T18:12:53.636578+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6782,8 +6782,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:37:05.919989+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-21T11:50:36.172815+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -14693,8 +14693,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:42:25.803255+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-10T18:08:44.926804+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14707,8 +14707,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:45:58.554006+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-16T00:00:28.386937+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16470,11 +16470,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "maktechnologiesllc|erp|l1": {
-   "expires": "2026-11-19T16:52:58.156853+00:00",
-   "looked_up": "2026-11-10T00:01:21+00:00",
-   "status": "not_found"
   },
   "maktechnologiesllc|fullstack|l1": {
    "expires": "2026-11-25T10:53:43.710394+00:00",
@@ -19877,11 +19872,6 @@
    "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
-  "pattern-hq|swe|l2": {
-   "expires": "2026-11-19T16:50:04.710789+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -20595,11 +20585,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "prismberry-technologies|data|l1": {
-   "expires": "2026-11-19T16:02:53.082096+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
   },
   "prithvi-industries|swe|l1": {
    "expires": "2026-12-01T13:04:39.275179+00:00",
@@ -23521,11 +23506,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "sibas-ultrasonics-private-limited|swe|l1": {
-   "expires": "2026-11-19T16:30:37.430371+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
-   "status": "not_found"
-  },
   "siemens-eda|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26139,11 +26119,6 @@
    ],
    "status": "found",
    "year": 2023
-  },
-  "testqtech|fullstack|l1": {
-   "expires": "2026-11-19T16:05:03.971627+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
   },
   "texas-instruments-india|swe|l1": {
    "basis": "base",
@@ -29260,8 +29235,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T00:08:56.544634+00:00",
-   "looked_up": "2026-11-19T16:01:17+00:00",
+   "expires": "2027-02-13T13:47:47.864570+00:00",
+   "looked_up": "2026-11-19T17:01:40+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29602,11 +29577,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zendoo-app|swe|l1": {
-   "expires": "2026-11-19T16:58:08.599403+00:00",
-   "looked_up": "2026-10-30T07:01:31+00:00",
-   "status": "not_found"
   },
   "zenith-byte|frontend|l1": {
    "expires": "2026-11-28T05:15:06.123782+00:00",
