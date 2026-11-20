@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:33:11.612735+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-19T16:20:50.026330+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7043,8 +7043,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:03:17.988418+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-17T10:22:56.269932+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7134,8 +7134,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T05:01:15.989521+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-18T13:09:26.757778+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11294,11 +11294,6 @@
    "status": "found",
    "year": 2026
   },
-  "gitam-deemed-university|swe|l1": {
-   "expires": "2026-11-20T20:05:09.813356+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "gitlab-com|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11924,8 +11919,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T11:40:17.983190+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-13T20:19:40.546135+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14987,8 +14982,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T01:57:56.847836+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-16T05:52:29.170998+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15162,8 +15157,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:49:38.278847+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-15T00:19:18.634440+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16262,8 +16257,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:37:46.077766+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-23T20:54:38.017260+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -24900,11 +24895,6 @@
    "status": "found",
    "year": 2025
   },
-  "sophos|devops|l1": {
-   "expires": "2026-11-20T20:16:05.344225+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
-   "status": "not_found"
-  },
   "sophos|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29406,8 +29396,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:14:21.972323+00:00",
-   "looked_up": "2026-11-20T20:01:19+00:00",
+   "expires": "2027-02-13T11:41:17.150244+00:00",
+   "looked_up": "2026-11-20T20:18:40+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
