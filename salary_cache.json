@@ -544,11 +544,6 @@
    "looked_up": "2026-11-19T16:01:17+00:00",
    "status": "not_found"
   },
-  "acsis-india-private-limited|swe|l1": {
-   "expires": "2026-11-20T15:46:33.293150+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
-   "status": "not_found"
-  },
   "acttconnect20|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1148,11 +1143,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "akraya-inc|security|l1": {
-   "expires": "2026-11-20T15:54:50.367331+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
-   "status": "not_found"
   },
   "akzonobel|data|l1": {
    "expires": "2026-12-04T06:14:24.613077+00:00",
@@ -1963,11 +1953,6 @@
     }
    ],
    "status": "found"
-  },
-  "anish-ashirgade|erp|l1": {
-   "expires": "2026-11-20T15:25:23.782658+00:00",
-   "looked_up": "2026-11-03T03:01:30+00:00",
-   "status": "not_found"
   },
   "anovia-inc|swe|l1": {
    "expires": "2026-12-08T03:14:04.937754+00:00",
@@ -3741,8 +3726,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T09:33:04.192533+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-23T22:57:46.493654+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6818,11 +6803,6 @@
    "looked_up": "2026-11-16T12:01:23+00:00",
    "status": "not_found"
   },
-  "conceptmedicals|erp|l1": {
-   "expires": "2026-11-20T15:59:01.079612+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
   "conduent|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7017,8 +6997,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T23:45:16.923062+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-12T04:28:33.934740+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7108,8 +7088,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T10:41:32.413003+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-22T14:40:51.287703+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -14916,8 +14896,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T20:45:59.372680+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-17T08:11:40.590659+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15091,8 +15071,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:53:40.196108+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-18T09:16:45.519739+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16191,8 +16171,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T05:31:36.059236+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-12T01:01:23.202366+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -18101,11 +18081,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mountbox|devops|l1": {
-   "expires": "2026-11-20T15:25:39.084406+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
   },
   "mouser-electronics|data|l1": {
    "expires": "2026-12-08T12:40:42.693566+00:00",
@@ -22577,11 +22552,6 @@
    "looked_up": "2026-11-09T18:01:28+00:00",
    "status": "not_found"
   },
-  "resideo1|swe|l2": {
-   "expires": "2026-11-20T15:27:56.025102+00:00",
-   "looked_up": "2026-11-02T23:01:34+00:00",
-   "status": "not_found"
-  },
   "resiliencesoft|fullstack|l1": {
    "expires": "2026-11-30T10:27:13.270591+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
@@ -24976,11 +24946,6 @@
   "squareshift|security|l1": {
    "expires": "2026-12-02T11:07:56.394436+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
-  "srest|swe|l1": {
-   "expires": "2026-11-20T15:48:31.038577+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
    "status": "not_found"
   },
   "srm360-consulting-pvt-ltd|frontend|l1": {
@@ -29314,8 +29279,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T14:08:20.037981+00:00",
-   "looked_up": "2026-11-20T15:01:24+00:00",
+   "expires": "2027-02-20T16:06:29.066904+00:00",
+   "looked_up": "2026-11-20T16:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
