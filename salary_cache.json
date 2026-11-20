@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:13:44.484490+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-22T02:33:11.612735+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7043,8 +7043,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:39:24.329764+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-21T04:03:17.988418+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7134,8 +7134,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:59:59.614007+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-12T05:01:15.989521+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -7148,11 +7148,6 @@
   "crossinghurdles|devops|l1": {
    "expires": "2026-11-25T01:12:54.142840+00:00",
    "looked_up": "2026-11-14T12:01:22+00:00",
-   "status": "not_found"
-  },
-  "crossinghurdles|frontend|l1": {
-   "expires": "2026-11-20T19:58:23.031662+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
   "crossinghurdles|fullstack|l1": {
@@ -9116,11 +9111,6 @@
   "engradar|fullstack|l1": {
    "expires": "2026-12-04T08:10:45.385751+00:00",
    "looked_up": "2026-11-15T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "engradar|swe|l1": {
-   "expires": "2026-11-20T19:26:49.113661+00:00",
-   "looked_up": "2026-11-05T17:01:23+00:00",
    "status": "not_found"
   },
   "enigen-uk|data|l1": {
@@ -11262,11 +11252,6 @@
    "status": "found",
    "year": 2026
   },
-  "giant-eagle-gcc|swe|l1": {
-   "expires": "2026-11-20T19:18:51.242566+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "giantmind-solutions|devops|l1": {
    "expires": "2026-11-28T10:51:38.726392+00:00",
    "looked_up": "2026-11-16T06:01:18+00:00",
@@ -11939,8 +11924,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:31:20.134689+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-25T11:40:17.983190+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -13914,11 +13899,6 @@
    "status": "found",
    "year": 2026
   },
-  "infobeans|erp|l1": {
-   "expires": "2026-11-20T19:44:55.701063+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
-  },
   "infobeans|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15007,8 +14987,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:21:40.559146+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-18T01:57:56.847836+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15182,8 +15162,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:25:23.052413+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-24T07:49:38.278847+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16282,8 +16262,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T03:51:46.713108+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-20T04:37:46.077766+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -24432,11 +24412,6 @@
    "looked_up": "2026-11-05T05:01:17+00:00",
    "status": "not_found"
   },
-  "sirionclm|devops|l1": {
-   "expires": "2026-11-20T20:01:06.643663+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
-   "status": "not_found"
-  },
   "siroclinpharm|swe|l1": {
    "expires": "2026-12-09T01:09:23.837416+00:00",
    "looked_up": "2026-11-19T15:01:18+00:00",
@@ -29431,8 +29406,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T07:55:44.761211+00:00",
-   "looked_up": "2026-11-20T19:01:31+00:00",
+   "expires": "2027-02-13T20:14:21.972323+00:00",
+   "looked_up": "2026-11-20T20:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
