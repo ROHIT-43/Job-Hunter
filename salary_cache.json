@@ -160,6 +160,11 @@
    "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
   },
+  "9nexus|swe|l1": {
+   "expires": "2026-12-02T05:36:02.802164+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "9sprints|data|l1": {
    "expires": "2026-11-30T11:27:15.789446+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -1420,6 +1425,22 @@
    "status": "found",
    "year": 2026
   },
+  "alternativepath|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T14:52:52.499632+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 10.3,
+   "min_lpa": 7.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/alternative-path-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "altraize|swe|l1": {
    "expires": "2026-12-07T14:57:49.367683+00:00",
    "looked_up": "2026-11-17T09:01:19+00:00",
@@ -2415,6 +2436,11 @@
   "arcatainteractive|swe|l1": {
    "expires": "2026-11-25T01:06:35.220532+00:00",
    "looked_up": "2026-11-10T19:01:24+00:00",
+   "status": "not_found"
+  },
+  "arcticwolf|swe|l1": {
+   "expires": "2026-11-27T23:48:31.982500+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
   "arcticwolf|swe|l2": {
@@ -3720,8 +3746,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T00:52:05.127094+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-17T13:38:40.433957+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -4921,6 +4947,11 @@
     }
    ],
    "status": "found"
+  },
+  "capco|frontend|l1": {
+   "expires": "2026-11-29T07:57:56.778123+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "capco|fullstack|l1": {
    "expires": "2026-11-23T12:19:16.575865+00:00",
@@ -6868,6 +6899,11 @@
    "status": "found",
    "year": 2025
   },
+  "contrast-capital-management|fullstack|l1": {
+   "expires": "2026-11-30T11:13:31.662643+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "convegenius|data|l1": {
    "expires": "2026-12-03T12:25:29.238021+00:00",
    "looked_up": "2026-11-16T08:06:20+00:00",
@@ -6986,8 +7022,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:36:17.998782+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-20T11:17:43.956221+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7073,6 +7109,20 @@
    "expires": "2026-12-02T03:05:35.417933+00:00",
    "looked_up": "2026-11-11T15:01:22+00:00",
    "status": "not_found"
+  },
+  "crintnl.com|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-19T05:04:31.073970+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "crossinghurdles|devops|l1": {
    "expires": "2026-11-25T01:12:54.142840+00:00",
@@ -8324,6 +8374,11 @@
    "status": "found",
    "year": 2025
   },
+  "dimiverse-ai-empowered-marketing-platform|fullstack|l1": {
+   "expires": "2026-12-07T17:54:31.365660+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "discusbusinesssolutions|erp|l1": {
    "expires": "2026-12-01T14:11:53.949078+00:00",
    "looked_up": "2026-11-16T06:01:18+00:00",
@@ -8372,11 +8427,6 @@
   "docusign|mobile|l1": {
    "expires": "2026-11-26T23:08:46.005320+00:00",
    "looked_up": "2026-11-19T18:01:19+00:00",
-   "status": "not_found"
-  },
-  "docusign|swe|l1": {
-   "expires": "2026-11-20T13:48:04.846261+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
   "dodopayments|swe|l1": {
@@ -9118,6 +9168,26 @@
    "status": "found",
    "year": 2025
   },
+  "enterpriseminds|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T08:02:48.079286+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 4.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/enterprise-minds-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/enterprise-minds-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "entrata-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9527,11 +9597,6 @@
   "evearis|swe|l1": {
    "expires": "2026-12-04T02:58:47.185216+00:00",
    "looked_up": "2026-11-15T17:01:26+00:00",
-   "status": "not_found"
-  },
-  "everpure-data|erp|l1": {
-   "expires": "2026-11-20T13:03:20.085094+00:00",
-   "looked_up": "2026-11-05T14:01:26+00:00",
    "status": "not_found"
   },
   "everpure-data|swe|l1": {
@@ -10758,6 +10823,22 @@
    "looked_up": "2026-11-06T11:01:18+00:00",
    "status": "not_found"
   },
+  "fujitsu|devops|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T16:05:52.764295+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 8.2,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/fujitsu-salaries/devops-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "fujitsu|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11218,6 +11299,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "gleons-enterprises-llp|swe|l1": {
+   "expires": "2026-12-07T11:20:38.097883+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "global-cxo-events|swe|l1": {
    "expires": "2026-11-30T05:52:41.915280+00:00",
@@ -14214,6 +14300,11 @@
    "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
+  "innovatorwebsol|fullstack|l3": {
+   "expires": "2026-12-10T03:46:55.851861+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "innovyatech|swe|l1": {
    "expires": "2026-11-26T06:48:25.727550+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
@@ -14673,6 +14764,22 @@
    "looked_up": "2026-11-11T19:01:21+00:00",
    "status": "not_found"
   },
+  "itg-telematics-pvt-ltd---india|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-21T21:29:52.082701+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/itg-telematics-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ithinkdigitalofficial|swe|l1": {
    "expires": "2026-11-26T15:20:38.693786+00:00",
    "looked_up": "2026-11-19T12:01:21+00:00",
@@ -14829,8 +14936,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:54:58.483925+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-19T06:42:11.365976+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15004,8 +15111,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T04:31:45.009831+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-12T07:08:44.248367+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15424,6 +15531,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "kaitongo-inc|data|l1": {
+   "expires": "2026-12-05T15:38:46.678516+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "kaliper-tech|swe|l1": {
    "expires": "2026-11-29T20:32:12.691519+00:00",
@@ -16099,8 +16211,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:11:43.491156+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-15T11:40:49.798300+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -17434,6 +17546,11 @@
    "looked_up": "2026-11-13T07:01:23+00:00",
    "status": "not_found"
   },
+  "meprotech|swe|l1": {
+   "expires": "2026-12-09T01:51:46.592253+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "mergerdomo-services-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-27T04:43:24.618084+00:00",
    "looked_up": "2026-11-19T13:01:27+00:00",
@@ -18713,6 +18830,11 @@
    "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
+  "netsysconconsulting|swe|l1": {
+   "expires": "2026-12-06T21:57:32.671726+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "network-marvels-india-private-limited|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18756,6 +18878,11 @@
   "neurodrift|swe|l1": {
    "expires": "2026-11-30T22:43:16.760929+00:00",
    "looked_up": "2026-11-15T02:01:19+00:00",
+   "status": "not_found"
+  },
+  "newscorp|data|l1": {
+   "expires": "2026-11-28T08:22:49.816025+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
   "nexacaretalent|frontend|l1": {
@@ -19084,6 +19211,16 @@
   "novglobal|security|l1": {
    "expires": "2026-11-22T20:13:50.301337+00:00",
    "looked_up": "2026-11-11T21:01:51+00:00",
+   "status": "not_found"
+  },
+  "novigo-solutions-pvt-ltd-|data|l1": {
+   "expires": "2026-12-06T12:21:52.497991+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
+  "nowwin|frontend|l1": {
+   "expires": "2026-12-11T12:11:10.099496+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
   "nrg-foods|swe|l1": {
@@ -21076,6 +21213,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "promaynov|data|l1": {
+   "expires": "2026-11-29T18:18:08.952308+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "pronative-ai|devops|l1": {
    "basis": "posted",
@@ -23501,6 +23643,22 @@
    "looked_up": "2026-11-07T14:01:22+00:00",
    "status": "not_found"
   },
+  "schwab-india|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T12:38:25.262516+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "jobinsider.in",
+     "uri": "https://www.jobinsider.in/jobs/charles-schwab-software-engineer-job-data-2/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "scigon|security|l1": {
    "expires": "2026-11-30T07:25:41.573630+00:00",
    "looked_up": "2026-11-17T21:01:22+00:00",
@@ -23521,6 +23679,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "scopely|swe|l1": {
+   "expires": "2026-12-10T07:02:49.340818+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "scoutit-in|data|l1": {
    "basis": "ctc",
@@ -25113,6 +25276,11 @@
   "sulzer|erp|l1": {
    "expires": "2026-11-24T13:18:50.477030+00:00",
    "looked_up": "2026-11-05T15:01:28+00:00",
+   "status": "not_found"
+  },
+  "sulzer|swe|l1": {
+   "expires": "2026-12-10T04:41:08.239386+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
   "sumo-logic|swe|l2": {
@@ -26796,6 +26964,11 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
+  "theporter-in|data|l2": {
+   "expires": "2026-12-06T15:56:08.968767+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "theporter-in|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26962,6 +27135,22 @@
    "status": "found",
    "year": 2025
   },
+  "thoughtworks|frontend|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-24T11:36:54.637978+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "max_lpa": 11.3,
+   "min_lpa": 10.8,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/thoughtworks/salaries/software-engineer/locations/chennai-metropolitan-area"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "thryve-digital-health|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -27012,6 +27201,11 @@
     }
    ],
    "status": "found"
+  },
+  "tirun-travel-marketing|swe|l1": {
+   "expires": "2026-11-29T14:48:38.159615+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
   },
   "titan-email|swe|l1": {
    "expires": "2026-11-26T11:48:53.069346+00:00",
@@ -29140,8 +29334,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T21:14:24.275639+00:00",
-   "looked_up": "2026-11-20T13:01:27+00:00",
+   "expires": "2027-02-17T09:36:50.076271+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30488,6 +30682,11 @@
    "status": "found",
    "year": 2026
   },
+  "zylu|mobile|l1": {
+   "expires": "2026-11-28T23:33:05.167824+00:00",
+   "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
   "zyoin|data|l1": {
    "expires": "2026-11-22T10:53:53.845516+00:00",
    "looked_up": "2026-11-04T07:01:28+00:00",
@@ -30501,8 +30700,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2461,
-  "lookups_today": 76,
+  "lookups_month": 2486,
+  "lookups_today": 101,
   "month": "2026-11"
  }
 }
