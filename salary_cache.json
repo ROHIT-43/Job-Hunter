@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:28:41.276805+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-20T17:13:44.484490+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6951,11 +6951,6 @@
    "status": "found",
    "year": 2024
   },
-  "coram-ai|frontend|l1": {
-   "expires": "2026-11-20T18:56:03.400052+00:00",
-   "looked_up": "2026-11-12T11:19:56+00:00",
-   "status": "not_found"
-  },
   "coram-ai|swe|l1": {
    "expires": "2026-11-22T23:45:18.081661+00:00",
    "looked_up": "2026-11-11T12:01:23+00:00",
@@ -7048,8 +7043,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T19:40:48.283632+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-14T01:39:24.329764+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7139,8 +7134,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T00:58:26.743423+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-13T13:59:59.614007+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11944,8 +11939,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T16:10:34.496714+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-12T09:31:20.134689+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -15012,8 +15007,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T14:11:28.733884+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-19T10:21:40.559146+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15187,8 +15182,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T19:02:46.504605+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-15T12:25:23.052413+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16287,8 +16282,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:48:38.172968+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-21T03:51:46.713108+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -23596,11 +23591,6 @@
    "looked_up": "2026-11-19T10:01:15+00:00",
    "status": "not_found"
   },
-  "sas-powertech-pvt.-ltd.|swe|l1": {
-   "expires": "2026-11-20T18:07:57.920809+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
-   "status": "not_found"
-  },
   "saskentechnologieslimited|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29441,8 +29431,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:27:23.668381+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
+   "expires": "2027-02-18T07:55:44.761211+00:00",
+   "looked_up": "2026-11-20T19:01:31+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
