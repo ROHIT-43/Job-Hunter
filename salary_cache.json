@@ -2408,11 +2408,6 @@
    "status": "found",
    "year": 2024
   },
-  "arcanaanalytics|devops|l1": {
-   "expires": "2026-11-20T14:02:23.505032+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "arcanaanalytics|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -3746,8 +3741,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T13:38:40.433957+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-24T09:33:04.192533+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7022,8 +7017,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:17:43.956221+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-11T23:45:16.923062+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7113,8 +7108,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T05:04:31.073970+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-14T10:41:32.413003+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -8850,11 +8845,6 @@
    "status": "found",
    "year": 2025
   },
-  "eitb-global-info-solutions-pty-ltd|fullstack|l1": {
-   "expires": "2026-11-20T14:57:17.418429+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "ekloud|erp|l1": {
    "expires": "2026-11-24T09:36:54.617152+00:00",
    "looked_up": "2026-11-04T12:01:29+00:00",
@@ -9855,11 +9845,6 @@
   "experian|erp|l1": {
    "expires": "2026-11-29T18:17:36.533518+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
-  },
-  "experian|swe|l1": {
-   "expires": "2026-11-20T14:58:22.358945+00:00",
-   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "experityhealth|data|l2": {
@@ -13906,11 +13891,6 @@
    "looked_up": "2026-11-17T18:01:39+00:00",
    "status": "not_found"
   },
-  "information-systems-associates-fze|swe|l1": {
-   "expires": "2026-11-20T14:20:13.717286+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
-   "status": "not_found"
-  },
   "infor|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14936,8 +14916,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T06:42:11.365976+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-23T20:45:59.372680+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15111,8 +15091,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T07:08:44.248367+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-19T10:53:40.196108+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16211,8 +16191,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T11:40:49.798300+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-25T05:31:36.059236+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -29334,8 +29314,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T09:36:50.076271+00:00",
-   "looked_up": "2026-11-20T14:01:25+00:00",
+   "expires": "2027-02-25T14:08:20.037981+00:00",
+   "looked_up": "2026-11-20T15:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
