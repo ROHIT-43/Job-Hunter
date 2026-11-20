@@ -477,11 +477,6 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
-  "acetech-group-of-companies|swe|l1": {
-   "expires": "2026-11-20T17:02:17.253223+00:00",
-   "looked_up": "2026-10-31T12:01:25+00:00",
-   "status": "not_found"
-  },
   "aci-worldwide|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1007,6 +1002,11 @@
   "air-arabia|devops|l1": {
    "expires": "2026-11-30T12:37:40.978792+00:00",
    "looked_up": "2026-11-19T19:01:18+00:00",
+   "status": "not_found"
+  },
+  "air-arabia|mobile|l1": {
+   "expires": "2026-12-10T16:42:26.222549+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "status": "not_found"
   },
   "air-arabia|swe|l1": {
@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T15:22:11.795553+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-16T03:28:41.276805+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -5466,6 +5466,11 @@
    "looked_up": "2026-11-16T12:01:23+00:00",
    "status": "not_found"
   },
+  "cdknorthamerica|swe|l1": {
+   "expires": "2026-12-04T06:19:58.480388+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
+   "status": "not_found"
+  },
   "ceeq1|swe|l1": {
    "expires": "2026-12-07T06:19:27.659817+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
@@ -7043,8 +7048,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T16:34:20.951620+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-21T19:40:48.283632+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7134,8 +7139,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T23:48:49.660019+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-17T00:58:26.743423+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -10958,6 +10963,11 @@
    "status": "found",
    "year": 2026
   },
+  "fusionconsultingag|erp|l1": {
+   "expires": "2026-11-27T22:33:47.030499+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
+   "status": "not_found"
+  },
   "futuraspark-technologies|frontend|l1": {
    "expires": "2026-11-22T01:28:45.069054+00:00",
    "looked_up": "2026-11-03T09:01:35+00:00",
@@ -11934,8 +11944,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:11:39.963151+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-25T16:10:34.496714+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -15002,8 +15012,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T19:47:22.704586+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-17T14:11:28.733884+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15177,8 +15187,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T18:52:58.205483+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-21T19:02:46.504605+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16277,8 +16287,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T16:43:04.436085+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-19T13:48:38.172968+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22917,6 +22927,22 @@
    "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
+  "rocket-india|swe|l2": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-14T12:31:12.801975+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
+   "max_lpa": 23.1,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/rocket-software-salaries/software-engineer-ii"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "rockwell-automation|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24145,6 +24171,11 @@
     }
    ],
    "status": "found"
+  },
+  "showpad|mobile|l1": {
+   "expires": "2026-11-28T10:49:55.130605+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
+   "status": "not_found"
   },
   "shreeyaan-solusmart-pvt-ltd|frontend|l1": {
    "expires": "2026-11-25T14:32:45.764721+00:00",
@@ -27656,11 +27687,6 @@
    "looked_up": "2026-11-12T04:01:15+00:00",
    "status": "not_found"
   },
-  "trigent-professional-services|erp|l1": {
-   "expires": "2026-11-20T17:17:29.575383+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "trigent-professional-services|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -29415,8 +29441,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T10:59:20.876184+00:00",
-   "looked_up": "2026-11-20T17:01:23+00:00",
+   "expires": "2027-02-20T04:27:23.668381+00:00",
+   "looked_up": "2026-11-20T18:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30781,8 +30807,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2499,
-  "lookups_today": 114,
+  "lookups_month": 2504,
+  "lookups_today": 119,
   "month": "2026-11"
  }
 }
