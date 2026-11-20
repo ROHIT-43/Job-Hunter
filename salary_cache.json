@@ -3252,8 +3252,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:51:49.659043+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-18T15:08:08.615405+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3534,6 +3534,11 @@
    "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
+  "batteryflow|swe|l1": {
+   "expires": "2026-11-30T02:47:48.381731+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "status": "not_found"
+  },
   "bavarian-machineing-works-pvt-ltd|swe|l1": {
    "expires": "2026-11-28T00:56:18.990959+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
@@ -3674,6 +3679,20 @@
    "expires": "2026-12-07T00:01:00.006706+00:00",
    "looked_up": "2026-11-18T09:01:19+00:00",
    "status": "not_found"
+  },
+  "bexfordtech|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-18T13:25:54.345908+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "max_lpa": 3.6,
+   "min_lpa": 2.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "bhanzu|swe|l1": {
    "basis": "ctc",
@@ -3911,6 +3930,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "blitzquickcommerce|frontend|l2": {
+   "expires": "2026-11-30T18:08:41.195720+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "status": "not_found"
   },
   "blue-cloud-softech-solutions|erp|l1": {
    "basis": "ctc",
@@ -5064,11 +5088,6 @@
    "status": "found",
    "year": 2026
   },
-  "carborax|swe|l1": {
-   "expires": "2026-11-20T07:56:36.264233+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
-  },
   "career-ahead-magazine|swe|l1": {
    "expires": "2026-11-25T10:11:17.420405+00:00",
    "looked_up": "2026-11-14T08:01:19+00:00",
@@ -6145,8 +6164,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:20:38.173167+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-23T10:45:26.617758+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6834,8 +6853,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T00:03:00.246419+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-14T18:23:09.769606+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6903,8 +6922,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:29:55.152744+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-18T08:45:13.969550+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8433,11 +8452,6 @@
     }
    ],
    "status": "found"
-  },
-  "duruperbasecamp|frontend|l1": {
-   "expires": "2026-11-20T07:42:31.263563+00:00",
-   "looked_up": "2026-10-30T13:01:31+00:00",
-   "status": "not_found"
   },
   "duruperbasecamp|swe|l1": {
    "basis": "ctc",
@@ -12031,6 +12045,11 @@
    "status": "found",
    "year": 2026
   },
+  "hclsoftware|erp|l1": {
+   "expires": "2026-11-29T20:17:40.739518+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "status": "not_found"
+  },
   "hclsoftware|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14735,8 +14754,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:15:26.623765+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-13T22:56:33.558856+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14910,8 +14929,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T15:20:34.167759+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-14T06:05:20.499897+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14924,8 +14943,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:33:11.816394+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-22T15:18:12.418701+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -15995,6 +16014,11 @@
   "leadsoc-technologies-india-pvt-ltd|swe|l3": {
    "expires": "2026-11-30T01:51:00.990835+00:00",
    "looked_up": "2026-11-19T09:01:21+00:00",
+   "status": "not_found"
+  },
+  "leaser|devops|l1": {
+   "expires": "2026-12-05T21:33:06.967882+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "status": "not_found"
   },
   "legatioco|fullstack|l1": {
@@ -20659,6 +20683,11 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
+  "pluswealth|fullstack|l1": {
+   "expires": "2026-12-02T11:50:10.065977+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "status": "not_found"
+  },
   "pmts-private-limited|swe|l1": {
    "expires": "2026-12-05T15:09:54.302993+00:00",
    "looked_up": "2026-11-19T10:01:15+00:00",
@@ -20981,11 +21010,6 @@
     }
    ],
    "status": "found"
-  },
-  "proofpoint|swe|l1": {
-   "expires": "2026-11-20T07:44:51.151055+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
   },
   "property-solvers|fullstack|l1": {
    "basis": "posted",
@@ -22055,6 +22079,11 @@
   "real-time-applications-center|mobile|l1": {
    "expires": "2026-11-28T17:57:38.048866+00:00",
    "looked_up": "2026-11-13T12:01:45+00:00",
+   "status": "not_found"
+  },
+  "real-time-applications-center|swe|l1": {
+   "expires": "2026-12-05T07:34:53.714261+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "status": "not_found"
   },
   "realpage-india|fullstack|l2": {
@@ -23439,6 +23468,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "scryai|data|l1": {
+   "expires": "2026-12-01T14:10:51.347686+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "status": "not_found"
   },
   "scyverge|security|l1": {
    "basis": "posted",
@@ -26893,6 +26927,22 @@
    "status": "found",
    "year": 2026
   },
+  "tntra|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T23:27:40.757402+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "max_lpa": 7.2,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/tntra-salaries/reactjs-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "tonbo-imaging|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -28938,10 +28988,10 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-13T09:42:12.091396+00:00",
-   "looked_up": "2026-10-17T16:01:22+00:00",
-   "max_lpa": 24.0,
-   "min_lpa": 14.0,
+   "expires": "2027-02-19T15:36:16.168782+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 15.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -29489,11 +29539,6 @@
    "status": "found",
    "year": 2026
   },
-  "xcubesoftwares|swe|l1": {
-   "expires": "2026-11-20T07:57:27.226744+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "xerox|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29518,8 +29563,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:56:40.692821+00:00",
-   "looked_up": "2026-11-20T07:01:20+00:00",
+   "expires": "2027-02-20T21:10:27.899227+00:00",
+   "looked_up": "2026-11-20T08:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30274,8 +30319,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2418,
-  "lookups_today": 33,
+  "lookups_month": 2426,
+  "lookups_today": 41,
   "month": "2026-11"
  }
 }
