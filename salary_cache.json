@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T19:01:03.494900+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-20T21:40:10.074595+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6083,11 +6083,6 @@
    "status": "found",
    "year": 2025
   },
-  "cloudplay-xp|swe|l1": {
-   "expires": "2026-11-20T21:12:05.624818+00:00",
-   "looked_up": "2026-11-12T20:01:21+00:00",
-   "status": "not_found"
-  },
   "cloudstaff|devops|l1": {
    "expires": "2026-12-04T03:54:51.592715+00:00",
    "looked_up": "2026-11-17T01:01:37+00:00",
@@ -6404,8 +6399,8 @@
    "year": 2025
   },
   "cognidrive-technologies|swe|l1": {
-   "expires": "2026-11-20T21:54:54.854936+00:00",
-   "looked_up": "2026-11-02T04:01:28+00:00",
+   "expires": "2026-11-30T03:00:05.842160+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "status": "not_found"
   },
   "cogniter-technologies|frontend|l1": {
@@ -7038,8 +7033,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T06:11:44.021979+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-16T07:59:29.478392+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7129,8 +7124,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T13:28:23.420575+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-21T09:52:53.168928+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -8836,11 +8831,6 @@
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
   },
-  "edwards|devops|l1": {
-   "expires": "2026-11-20T21:21:28.921382+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
-   "status": "not_found"
-  },
   "effulgent-inc|devops|l1": {
    "expires": "2026-11-26T13:27:05.152270+00:00",
    "looked_up": "2026-11-19T05:01:15+00:00",
@@ -9967,11 +9957,6 @@
   "ezspaceventures|data|l1": {
    "expires": "2026-11-25T05:15:52.084905+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
-  },
-  "ezspaceventures|erp|l1": {
-   "expires": "2026-11-20T21:51:28.907526+00:00",
-   "looked_up": "2026-11-11T08:01:21+00:00",
    "status": "not_found"
   },
   "f5|devops|l1": {
@@ -11502,11 +11487,6 @@
    "looked_up": "2026-11-15T13:01:25+00:00",
    "status": "not_found"
   },
-  "goaudits|data|l1": {
-   "expires": "2026-11-20T22:00:20.309876+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
   "gocharting|swe|l1": {
    "expires": "2026-11-27T17:23:18.538863+00:00",
    "looked_up": "2026-11-15T17:01:26+00:00",
@@ -11954,8 +11934,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T08:45:08.676005+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-19T10:31:29.900674+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14049,6 +14029,11 @@
    "status": "found",
    "year": 2026
   },
+  "infoservicesllc|swe|l1": {
+   "expires": "2026-12-04T00:01:15.110179+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
+   "status": "not_found"
+  },
   "infosys|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15022,8 +15007,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T16:28:46.076179+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-16T15:34:05.258478+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15197,8 +15182,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:06:40.273987+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-25T08:05:47.559073+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15787,11 +15772,6 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
-  "kheewaincorporation|mobile|l1": {
-   "expires": "2026-11-20T21:21:17.019627+00:00",
-   "looked_up": "2026-11-09T03:01:22+00:00",
-   "status": "not_found"
-  },
   "kheewaincorporation|swe|l1": {
    "expires": "2026-11-23T19:21:49.593795+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
@@ -16297,8 +16277,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T08:52:16.579771+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-22T01:00:08.077177+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -24903,11 +24883,6 @@
    "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
-  "solventumhealth|swe|l1": {
-   "expires": "2026-11-20T21:25:36.294320+00:00",
-   "looked_up": "2026-10-31T17:01:23+00:00",
-   "status": "not_found"
-  },
   "solvex-solutions|fullstack|l1": {
    "expires": "2026-11-26T21:54:02.998422+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
@@ -28651,11 +28626,6 @@
    "looked_up": "2026-11-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "vastika-inc|swe|l1": {
-   "expires": "2026-11-20T21:05:48.312931+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
-   "status": "not_found"
-  },
   "vayuz-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29471,8 +29441,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T00:22:55.450753+00:00",
-   "looked_up": "2026-11-20T21:01:17+00:00",
+   "expires": "2027-02-16T14:57:51.302749+00:00",
+   "looked_up": "2026-11-20T22:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29765,11 +29735,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "wexinc|swe|l3": {
-   "expires": "2026-11-20T21:25:19.791154+00:00",
-   "looked_up": "2026-10-31T19:01:30+00:00",
-   "status": "not_found"
   },
   "whitefield-careers|swe|l1": {
    "expires": "2026-11-29T01:45:58.725172+00:00",
@@ -30837,8 +30802,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2511,
-  "lookups_today": 126,
+  "lookups_month": 2513,
+  "lookups_today": 128,
   "month": "2026-11"
  }
 }
