@@ -3252,8 +3252,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T15:08:08.615405+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-14T23:39:49.533055+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3683,8 +3683,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:25:54.345908+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-14T12:42:41.489831+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6164,8 +6164,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:45:26.617758+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-21T00:46:07.620384+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6922,8 +6922,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:45:13.969550+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-22T20:28:04.054698+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -12949,11 +12949,6 @@
    "looked_up": "2026-11-13T16:01:23+00:00",
    "status": "not_found"
   },
-  "hydraulic-engineering-instruments|swe|l1": {
-   "expires": "2026-11-20T08:03:07.099563+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
-  },
   "hydromo|frontend|l1": {
    "expires": "2026-11-21T22:02:29.757007+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
@@ -14754,8 +14749,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T22:56:33.558856+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-20T18:53:45.524191+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14943,8 +14938,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T15:18:12.418701+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-22T04:59:08.604658+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -19617,11 +19612,6 @@
    "status": "found",
    "year": 2026
   },
-  "openstars|frontend|l1": {
-   "expires": "2026-11-20T08:09:56.764107+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
-   "status": "not_found"
-  },
   "opentext|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20949,11 +20939,6 @@
     }
    ],
    "status": "found"
-  },
-  "profilentdigital|swe|l1": {
-   "expires": "2026-11-20T08:20:09.791253+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
   },
   "progenesis-ivf|fullstack|l1": {
    "expires": "2026-11-22T22:42:47.314530+00:00",
@@ -26680,11 +26665,6 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
-  "thepantproject|swe|l1": {
-   "expires": "2026-11-20T08:55:05.770505+00:00",
-   "looked_up": "2026-10-30T10:01:28+00:00",
-   "status": "not_found"
-  },
   "theporter-in|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28248,11 +28228,6 @@
    "looked_up": "2026-11-13T19:01:21+00:00",
    "status": "not_found"
   },
-  "verisk-analytics|security|l2": {
-   "expires": "2026-11-20T08:31:50.566398+00:00",
-   "looked_up": "2026-11-09T20:01:20+00:00",
-   "status": "not_found"
-  },
   "versatile-employer-of-record|frontend|l1": {
    "expires": "2026-11-23T17:29:24.927635+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
@@ -28988,8 +28963,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T15:36:16.168782+00:00",
-   "looked_up": "2026-11-20T08:01:18+00:00",
+   "expires": "2027-02-18T17:18:31.370507+00:00",
+   "looked_up": "2026-11-20T09:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
