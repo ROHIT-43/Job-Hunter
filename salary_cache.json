@@ -3720,8 +3720,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T05:59:52.304096+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-13T00:52:05.127094+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6986,8 +6986,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T21:04:09.280027+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-22T10:36:17.998782+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -14829,8 +14829,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T11:25:57.968750+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-17T17:54:58.483925+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15004,8 +15004,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T11:54:39.472908+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-25T04:31:45.009831+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16099,8 +16099,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:22:39.101027+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-16T20:11:43.491156+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -25512,11 +25512,6 @@
    "status": "found",
    "year": 2024
   },
-  "taazaa-inc|swe|l1": {
-   "expires": "2026-11-20T12:54:02.041922+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
-   "status": "not_found"
-  },
   "taglynk|mobile|l1": {
    "expires": "2026-11-29T00:50:09.592429+00:00",
    "looked_up": "2026-11-18T08:01:17+00:00",
@@ -29145,8 +29140,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:38:28.969736+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
+   "expires": "2027-02-16T21:14:24.275639+00:00",
+   "looked_up": "2026-11-20T13:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
