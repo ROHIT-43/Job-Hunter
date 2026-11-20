@@ -3772,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T16:20:50.026330+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-24T19:01:03.494900+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -4596,11 +4596,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "brightpeeps|mobile|l1": {
-   "expires": "2026-11-20T20:51:24.981465+00:00",
-   "looked_up": "2026-11-11T20:01:22+00:00",
-   "status": "not_found"
   },
   "brigosha|fullstack|l1": {
    "basis": "base",
@@ -7043,8 +7038,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:22:56.269932+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-24T06:11:44.021979+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7134,8 +7129,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:09:26.757778+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-14T13:28:23.420575+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -9353,6 +9348,26 @@
    "status": "found",
    "year": 2025
   },
+  "equifax|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T13:23:45.230306+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
+   "max_lpa": 9.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "testingsociety.com",
+     "uri": "https://testingsociety.com/?p=13133"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equifax-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "equifax|swe|l2": {
    "expires": "2026-11-25T08:18:53.343291+00:00",
    "looked_up": "2026-11-13T10:01:23+00:00",
@@ -9378,6 +9393,26 @@
    ],
    "status": "found",
    "year": 2023
+  },
+  "equisoft|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-13T05:05:07.260969+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 3.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equisoft-salaries/hyderabad-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/equisoft-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ericsson|devops|l1": {
    "expires": "2026-11-28T15:09:15.056317+00:00",
@@ -11919,8 +11954,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T20:19:40.546135+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-19T08:45:08.676005+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -12819,6 +12854,11 @@
   "homekode|fullstack|l1": {
    "expires": "2026-12-05T03:36:17.685462+00:00",
    "looked_up": "2026-11-16T14:01:26+00:00",
+   "status": "not_found"
+  },
+  "homiebytes|mobile|l1": {
+   "expires": "2026-11-30T11:28:52.695191+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "status": "not_found"
   },
   "honeywell-aerospace|swe|l1": {
@@ -14982,8 +15022,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:52:29.170998+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-20T16:28:46.076179+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15157,8 +15197,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T00:19:18.634440+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-19T03:06:40.273987+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16257,8 +16297,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T20:54:38.017260+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-14T08:52:16.579771+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -16885,6 +16925,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "madison-logic|devops|l1": {
+   "expires": "2026-12-05T23:06:35.158678+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
+   "status": "not_found"
   },
   "madmantra-games|swe|l1": {
    "expires": "2026-11-24T18:24:15.335523+00:00",
@@ -18225,6 +18270,26 @@
    "status": "found",
    "year": 2024
   },
+  "mphasis|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T21:32:25.892575+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
+   "max_lpa": 3.2,
+   "min_lpa": 2.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/mphasis-salaries/software-developer/hyderabad-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/mphasis-salaries/full-stack-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "mphasis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18924,6 +18989,11 @@
   "newscorp|data|l1": {
    "expires": "2026-11-28T08:22:49.816025+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
+  "newscorp|swe|l1": {
+   "expires": "2026-11-30T16:31:01.778294+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "status": "not_found"
   },
   "nexacaretalent|frontend|l1": {
@@ -23861,6 +23931,11 @@
   "secgenie-ai|security|l1": {
    "expires": "2026-12-01T04:57:09.129652+00:00",
    "looked_up": "2026-11-19T11:01:19+00:00",
+   "status": "not_found"
+  },
+  "seclogic|devops|l1": {
+   "expires": "2026-12-01T18:56:34.669194+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "status": "not_found"
   },
   "secure-meters-limited|swe|l1": {
@@ -29396,8 +29471,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T11:41:17.150244+00:00",
-   "looked_up": "2026-11-20T20:18:40+00:00",
+   "expires": "2027-02-22T00:22:55.450753+00:00",
+   "looked_up": "2026-11-20T21:01:17+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30762,8 +30837,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2504,
-  "lookups_today": 119,
+  "lookups_month": 2511,
+  "lookups_today": 126,
   "month": "2026-11"
  }
 }
