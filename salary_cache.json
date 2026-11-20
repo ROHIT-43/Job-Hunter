@@ -3252,8 +3252,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T22:06:06.445859+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-24T15:51:49.659043+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6145,8 +6145,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:24:33.452951+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-16T03:20:38.173167+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6834,8 +6834,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T21:21:19.579006+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-15T00:03:00.246419+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6903,8 +6903,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:25:51.619463+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-17T10:29:55.152744+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11098,11 +11098,6 @@
    "looked_up": "2026-11-04T06:01:27+00:00",
    "status": "not_found"
   },
-  "gitlab-com|data|l1": {
-   "expires": "2026-11-20T06:22:27.870602+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
-  },
   "gitlab-com|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -12579,11 +12574,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "hoichoitv|swe|l1": {
-   "expires": "2026-11-20T06:38:58.850207+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
   },
   "homekode|fullstack|l1": {
    "expires": "2026-12-05T03:36:17.685462+00:00",
@@ -14155,11 +14145,6 @@
    "looked_up": "2026-11-16T16:01:21+00:00",
    "status": "not_found"
   },
-  "insight-global|devops|l1": {
-   "expires": "2026-11-20T06:47:52.673018+00:00",
-   "looked_up": "2026-11-06T16:01:16+00:00",
-   "status": "not_found"
-  },
   "insight-global|erp|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -14750,8 +14735,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:21:08.797472+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-22T13:15:26.623765+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14925,8 +14910,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T22:18:43.122622+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-23T15:20:34.167759+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14939,8 +14924,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:44:20.203669+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-17T19:33:11.816394+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -16446,6 +16431,22 @@
    "status": "found",
    "year": null
   },
+  "ltimindtree|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T05:50:48.351878+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
+   "max_lpa": 4.3,
+   "min_lpa": 3.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ltimindtree-salaries/fresher?page=2"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "ltm-larsenandtoubrocompany|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17139,6 +17140,22 @@
     {
      "title": "leetcode.com",
      "uri": "https://leetcode.com/discuss/compensation/6050900/"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "maventech-labs|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-11T16:24:16.554621+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/maventech-labs-salaries"
     }
    ],
    "status": "found",
@@ -18642,6 +18659,11 @@
    "looked_up": "2026-11-15T02:01:19+00:00",
    "status": "not_found"
   },
+  "nexacaretalent|frontend|l1": {
+   "expires": "2026-11-30T15:52:23.650210+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
+   "status": "not_found"
+  },
   "nexcope|swe|l1": {
    "expires": "2026-11-22T09:39:50.740890+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
@@ -18671,6 +18693,11 @@
   "nextdealnow|mobile|l1": {
    "expires": "2026-12-03T12:09:29.613319+00:00",
    "looked_up": "2026-11-17T21:01:22+00:00",
+   "status": "not_found"
+  },
+  "nextsdr|swe|l1": {
+   "expires": "2026-12-04T15:42:00.676046+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "status": "not_found"
   },
   "nextup-robotics|swe|l1": {
@@ -20212,6 +20239,22 @@
    "expires": "2026-11-21T20:13:38.219827+00:00",
    "looked_up": "2026-11-11T23:01:29+00:00",
    "status": "not_found"
+  },
+  "peepul-agri|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T23:22:58.462767+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
+   "max_lpa": 3.5,
+   "min_lpa": 2.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/peepul-agri-ventures-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "pegasystems|erp|l1": {
    "basis": "ctc",
@@ -29475,8 +29518,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T22:32:46.574705+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
+   "expires": "2027-02-22T06:56:40.692821+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29695,6 +29738,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "zapare|swe|l2": {
+   "expires": "2026-12-11T05:16:28.924435+00:00",
+   "looked_up": "2026-11-20T07:01:20+00:00",
+   "status": "not_found"
   },
   "zarvonis|mobile|l1": {
    "expires": "2026-12-05T12:22:51.617187+00:00",
@@ -30226,8 +30274,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2412,
-  "lookups_today": 27,
+  "lookups_month": 2418,
+  "lookups_today": 33,
   "month": "2026-11"
  }
 }
