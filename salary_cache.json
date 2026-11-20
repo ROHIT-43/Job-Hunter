@@ -3206,11 +3206,6 @@
    "looked_up": "2026-11-17T14:01:21+00:00",
    "status": "not_found"
   },
-  "avaya|swe|l2": {
-   "expires": "2026-11-20T22:15:27.634014+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
   "aventiq-ai|frontend|l1": {
    "expires": "2026-11-30T22:05:12.461444+00:00",
    "looked_up": "2026-11-17T08:01:21+00:00",
@@ -3326,11 +3321,6 @@
   "axonstack|swe|l1": {
    "expires": "2026-11-22T10:50:45.386383+00:00",
    "looked_up": "2026-11-05T23:01:23+00:00",
-   "status": "not_found"
-  },
-  "ayukriyam-innovations-pvt-ltd|security|l1": {
-   "expires": "2026-11-20T22:43:25.137979+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
   "ayurak|security|l1": {
@@ -3772,8 +3762,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:40:10.074595+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-20T14:30:38.410753+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7033,8 +7023,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T07:59:29.478392+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-22T11:20:34.520768+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7124,8 +7114,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:52:53.168928+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-19T22:34:54.022083+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11934,8 +11924,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:31:29.900674+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-14T19:25:56.831665+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -15007,8 +14997,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T15:34:05.258478+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-24T04:39:59.158813+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15182,8 +15172,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T08:05:47.559073+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-18T01:44:17.170220+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16277,8 +16267,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:00:08.077177+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-22T22:02:49.031223+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -18634,11 +18624,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ncrvoyix|devops|l1": {
-   "expires": "2026-11-20T22:23:04.243602+00:00",
-   "looked_up": "2026-11-02T13:01:35+00:00",
-   "status": "not_found"
   },
   "ncrvoyix|devops|l2": {
    "basis": "ctc",
@@ -29441,8 +29426,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:57:51.302749+00:00",
-   "looked_up": "2026-11-20T22:01:16+00:00",
+   "expires": "2027-02-18T05:00:54.783568+00:00",
+   "looked_up": "2026-11-20T23:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
