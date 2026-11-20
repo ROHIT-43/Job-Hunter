@@ -3210,8 +3210,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T13:55:01.436210+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-19T00:12:49.054721+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3566,8 +3566,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:38:05.429307+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-21T21:22:15.614327+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6118,8 +6118,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:36:10.013394+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-20T17:48:40.497485+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6807,8 +6807,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:11:22.832022+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-18T08:12:09.270879+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6876,8 +6876,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:04:06.575876+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-24T16:43:10.343247+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -13451,11 +13451,6 @@
    "looked_up": "2026-11-18T11:01:25+00:00",
    "status": "not_found"
   },
-  "iitmatrix|data|l1": {
-   "expires": "2026-11-19T23:39:19.201609+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
-   "status": "not_found"
-  },
   "iking-tech-solutions|swe|l1": {
    "expires": "2026-11-28T23:52:24.614744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -14847,8 +14842,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T19:36:08.120849+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-24T15:02:26.133056+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14861,8 +14856,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T00:41:53.136770+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-17T12:48:02.020818+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -23912,11 +23907,6 @@
    "looked_up": "2026-11-08T11:01:21+00:00",
    "status": "not_found"
   },
-  "skillbridge-staffing-pvt-ltd|swe|l1": {
-   "expires": "2026-11-19T23:52:56.372610+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
   "skillinabox|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -24889,11 +24879,6 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
-  "superfan-ng|security|l1": {
-   "expires": "2026-11-19T23:57:19.649000+00:00",
-   "looked_up": "2026-11-11T19:01:21+00:00",
-   "status": "not_found"
-  },
   "superfan-ng|swe|l1": {
    "expires": "2026-11-25T20:14:48.386886+00:00",
    "looked_up": "2026-11-15T14:01:22+00:00",
@@ -25289,11 +25274,6 @@
   "talentgigs|devops|l1": {
    "expires": "2026-11-20T10:16:12.784597+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
-  "talentgigs|swe|l1": {
-   "expires": "2026-11-19T23:36:12.101546+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
   "talentrabbit|frontend|l1": {
@@ -29087,11 +29067,6 @@
    "looked_up": "2026-10-31T19:01:30+00:00",
    "status": "not_found"
   },
-  "whiteblue-ai-services|devops|l1": {
-   "expires": "2026-11-19T23:24:10.127584+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
   "whitefield-careers|swe|l1": {
    "expires": "2026-11-29T01:45:58.725172+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -29239,11 +29214,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "wonderfulsoundforall|data|l1": {
-   "expires": "2026-11-19T23:02:02.083648+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
   },
   "workelate|fullstack|l3": {
    "basis": "posted",
@@ -29397,8 +29367,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T22:43:07.243789+00:00",
-   "looked_up": "2026-11-19T23:01:38+00:00",
+   "expires": "2027-02-23T11:00:00.441850+00:00",
+   "looked_up": "2026-11-20T00:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30147,9 +30117,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-19",
+  "day": "2026-11-20",
   "lookups_month": 2385,
-  "lookups_today": 161,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
