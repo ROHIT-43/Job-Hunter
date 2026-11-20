@@ -3236,6 +3236,11 @@
    "status": "found",
    "year": 2026
   },
+  "avoca-ai|swe|l1": {
+   "expires": "2026-12-03T18:16:28.195223+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "axalonsystems|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -3715,8 +3720,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:43:53.107424+00:00",
-   "looked_up": "2026-11-20T11:43:43+00:00",
+   "expires": "2027-02-18T05:59:52.304096+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -5919,6 +5924,11 @@
    "looked_up": "2026-11-07T10:01:22+00:00",
    "status": "not_found"
   },
+  "clevertap|security|l1": {
+   "expires": "2026-11-29T22:53:41.297407+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "clickhouseinc|fullstack|l1": {
    "expires": "2026-11-30T11:18:55.167807+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
@@ -6254,6 +6264,22 @@
     }
    ],
    "status": "found"
+  },
+  "codevidhya|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T11:04:28.161880+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "max_lpa": 10.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "wellfound.com",
+     "uri": "https://wellfound.com/jobs/2529382-software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "coditas|swe|l1": {
    "basis": "ctc",
@@ -6960,8 +6986,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T06:40:39.008873+00:00",
-   "looked_up": "2026-11-20T11:43:43+00:00",
+   "expires": "2027-02-13T21:04:09.280027+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8044,6 +8070,11 @@
     }
    ],
    "status": "found"
+  },
+  "dexcom|swe|l1": {
+   "expires": "2026-12-08T11:43:06.077950+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
   },
   "dexter-s-tech|frontend|l1": {
    "expires": "2026-12-02T13:55:13.949147+00:00",
@@ -12484,6 +12515,27 @@
    "looked_up": "2026-11-17T18:01:39+00:00",
    "status": "not_found"
   },
+  "highlevel|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T11:14:59.423852+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "max_lpa": 21.0,
+   "min_lpa": 12.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/highlevel-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "highlevel|swe|l2": {
+   "expires": "2026-12-11T05:57:18.365837+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "highstreetitsolutions|erp|l1": {
    "expires": "2026-11-28T04:04:31.837226+00:00",
    "looked_up": "2026-11-12T01:01:24+00:00",
@@ -14777,8 +14829,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T14:11:49.747625+00:00",
-   "looked_up": "2026-11-20T11:43:43+00:00",
+   "expires": "2027-02-16T11:25:57.968750+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -14952,8 +15004,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T11:03:09.828169+00:00",
-   "looked_up": "2026-11-20T11:43:43+00:00",
+   "expires": "2027-02-15T11:54:39.472908+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16047,8 +16099,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-29T01:55:34.536092+00:00",
-   "looked_up": "2026-10-29T09:01:32+00:00",
+   "expires": "2027-02-19T03:22:39.101027+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -19686,6 +19738,11 @@
    "status": "found",
    "year": 2026
   },
+  "operforce-ai|fullstack|l1": {
+   "expires": "2026-12-09T19:02:33.140378+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "optimal-strategix-group-inc|swe|l1": {
    "expires": "2026-11-23T22:47:33.942976+00:00",
    "looked_up": "2026-11-03T15:01:30+00:00",
@@ -22089,6 +22146,26 @@
    "status": "found",
    "year": 2026
   },
+  "rbtoriginal|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T22:58:31.269550+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "max_lpa": 6.9,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ray-business-technologies-salaries?page=5"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/overview/ray-business-technologies-overview"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "real-jobs-consulting-services2|swe|l1": {
    "expires": "2026-11-28T18:03:18.584955+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -23756,6 +23833,11 @@
   "shieldbyteinfosecpvtltd|security|l1": {
    "expires": "2026-11-22T18:41:42.602530+00:00",
    "looked_up": "2026-11-13T04:01:20+00:00",
+   "status": "not_found"
+  },
+  "shills-professional|swe|l1": {
+   "expires": "2026-12-09T11:11:16.049623+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
   "shining-3d-tech-co-ltd-|swe|l1": {
@@ -25478,6 +25560,11 @@
   "talent500|swe|l1": {
    "expires": "2026-11-23T17:16:20.185736+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
+   "status": "not_found"
+  },
+  "talentgigs|devops|l1": {
+   "expires": "2026-12-02T10:18:51.833134+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
   "talentrabbit|frontend|l1": {
@@ -27375,6 +27462,11 @@
    "looked_up": "2026-11-19T16:01:17+00:00",
    "status": "not_found"
   },
+  "truveta|fullstack|l1": {
+   "expires": "2026-12-09T16:27:00.833670+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "truveta|swe|l1": {
    "expires": "2026-11-26T06:22:29.560404+00:00",
    "looked_up": "2026-11-08T15:01:17+00:00",
@@ -27421,6 +27513,11 @@
    "looked_up": "2026-11-13T07:01:23+00:00",
    "status": "not_found"
   },
+  "tussle-digital|fullstack|l1": {
+   "expires": "2026-12-02T15:45:57.247702+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "tvaram|swe|l1": {
    "expires": "2026-11-29T10:14:45.047623+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
@@ -27460,6 +27557,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "tyson-foods|swe|l1": {
+   "expires": "2026-12-07T16:42:55.342850+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
   },
   "uber-com|swe|l1": {
    "basis": "base",
@@ -27539,6 +27641,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "umanistna|erp|l1": {
+   "expires": "2026-11-28T10:52:05.987986+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
   },
   "uniabroadly|swe|l1": {
    "expires": "2026-11-21T12:14:38.128763+00:00",
@@ -27999,6 +28106,22 @@
    "status": "found",
    "year": 2026
   },
+  "v2-retail-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T22:43:03.437091+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "max_lpa": 8.6,
+   "min_lpa": 6.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/v2-retail-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "va2pt-com|devops|l1": {
    "expires": "2026-11-30T19:03:08.429520+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
@@ -28162,6 +28285,11 @@
    "looked_up": "2026-11-02T12:01:29+00:00",
    "status": "not_found"
   },
+  "vanguard-india|swe|l3": {
+   "expires": "2026-12-01T15:33:41.822110+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "vanguard|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28181,6 +28309,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vasool-ai|swe|l1": {
+   "expires": "2026-12-09T06:49:01.221592+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
   },
   "vastika-inc|devops|l1": {
    "expires": "2026-11-28T01:20:26.160179+00:00",
@@ -28211,6 +28344,11 @@
   "velicham-finance|fullstack|l1": {
    "expires": "2026-11-23T21:13:57.878788+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
+   "status": "not_found"
+  },
+  "velocitytravel|mobile|l1": {
+   "expires": "2026-12-08T13:34:46.425160+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
   "vensys-leap-engineering-services-coimbatore|swe|l1": {
@@ -29007,8 +29145,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:31:02.405000+00:00",
-   "looked_up": "2026-11-20T11:43:43+00:00",
+   "expires": "2027-02-12T18:38:28.969736+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29398,6 +29536,11 @@
    "status": "found",
    "year": 2026
   },
+  "wisdomai-inc|swe|l1": {
+   "expires": "2026-12-09T04:15:55.041065+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
+   "status": "not_found"
+  },
   "wissen-technology|data|l1": {
    "expires": "2026-12-01T00:15:23.439670+00:00",
    "looked_up": "2026-11-12T18:01:22+00:00",
@@ -29785,6 +29928,11 @@
   "youpackwelyft|swe|l1": {
    "expires": "2026-12-02T09:36:32.126177+00:00",
    "looked_up": "2026-11-15T11:01:21+00:00",
+   "status": "not_found"
+  },
+  "youstable|fullstack|l1": {
+   "expires": "2026-11-30T14:55:04.536781+00:00",
+   "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
   "yulu|data|l1": {
@@ -30358,8 +30506,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2441,
-  "lookups_today": 56,
+  "lookups_month": 2461,
+  "lookups_today": 76,
   "month": "2026-11"
  }
 }
