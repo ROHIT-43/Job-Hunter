@@ -339,6 +339,22 @@
    "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
+  "accentureindia|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T07:41:06.963464+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 3.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/accenture-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "accentureindia|devops|l1": {
    "expires": "2026-11-26T17:45:36.343749+00:00",
    "looked_up": "2026-11-16T17:01:27+00:00",
@@ -983,6 +999,11 @@
    "looked_up": "2026-11-12T15:01:25+00:00",
    "status": "not_found"
   },
+  "air-arabia|data|l1": {
+   "expires": "2026-12-01T07:56:57.312055+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
   "air-arabia|devops|l1": {
    "expires": "2026-11-30T12:37:40.978792+00:00",
    "looked_up": "2026-11-19T19:01:18+00:00",
@@ -1284,6 +1305,11 @@
   "allicabank|security|l1": {
    "expires": "2026-12-05T00:27:40.297078+00:00",
    "looked_up": "2026-11-18T20:01:24+00:00",
+   "status": "not_found"
+  },
+  "allimetech|swe|l1": {
+   "expires": "2026-11-30T12:47:35.417824+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "status": "not_found"
   },
   "almashines|fullstack|l1": {
@@ -2499,6 +2525,26 @@
    ],
    "status": "found",
    "year": null
+  },
+  "aristocratcorporate|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T04:06:45.557554+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 12.6,
+   "min_lpa": 9.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aristocrat-gaming-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aristocrat-salaries/software-engineer2"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "arm|devops|l1": {
    "basis": "ctc",
@@ -3726,8 +3772,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T22:57:46.493654+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-13T15:22:11.795553+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -6997,8 +7043,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T04:28:33.934740+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-17T16:34:20.951620+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7088,8 +7134,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T14:40:51.287703+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-18T23:48:49.660019+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -7978,6 +8024,26 @@
    "expires": "2026-11-22T13:18:17.031270+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
+  },
+  "deltek|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T15:22:12.873539+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 14.4,
+   "min_lpa": 11.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/deltek-salaries/software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/deltek/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2024
   },
   "dentsuglobalservices|swe|l1": {
    "basis": "ctc",
@@ -9380,6 +9446,22 @@
    "status": "found",
    "year": 2025
   },
+  "ernstandyoung|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T08:57:10.304051+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 3.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/eygbs-salaries/kochi-location"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "ernstandyoung|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -9467,6 +9549,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "esperance-consulting-partner|frontend|l1": {
+   "expires": "2026-12-04T20:08:52.957965+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
   },
   "esperance-consulting-partner|swe|l1": {
    "basis": "posted",
@@ -11009,6 +11096,11 @@
    "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
+  "gemba-concepts|devops|l1": {
+   "expires": "2026-11-30T07:29:13.139065+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
   "geminatesolutions|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -11838,6 +11930,20 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "growthheist|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-19T03:11:39.963151+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 14.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "groww.in|security|l2": {
    "basis": "base",
@@ -14896,8 +15002,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T08:11:40.590659+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-20T19:47:22.704586+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15071,8 +15177,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T09:16:45.519739+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-17T18:52:58.205483+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15170,8 +15276,8 @@
    "status": "not_found"
   },
   "joblet-ai|security|l1": {
-   "expires": "2026-11-20T16:18:29.921762+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2026-12-07T16:47:42.309731+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "status": "not_found"
   },
   "joblet-ai|swe|l1": {
@@ -16171,8 +16277,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T01:01:23.202366+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-24T16:43:04.436085+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -19173,6 +19279,11 @@
    "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
+  "novo-nordisk|swe|l1": {
+   "expires": "2026-12-04T01:18:08.243152+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
   "nowwin|frontend|l1": {
    "expires": "2026-12-11T12:11:10.099496+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
@@ -19732,6 +19843,31 @@
    "expires": "2026-12-07T02:35:02.505363+00:00",
    "looked_up": "2026-11-16T18:01:20+00:00",
    "status": "not_found"
+  },
+  "onehook|swe|l1": {
+   "expires": "2026-12-03T17:33:57.188604+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
+  "onehousehq|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-23T18:07:45.577452+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "max_lpa": 42.0,
+   "min_lpa": 35.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/onehouse-salaries/software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/onehouse/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "onesaz|mobile|l1": {
    "basis": "posted",
@@ -25630,6 +25766,11 @@
    "looked_up": "2026-11-18T08:01:17+00:00",
    "status": "not_found"
   },
+  "tailormade-journeys-limited|fullstack|l1": {
+   "expires": "2026-12-02T20:55:05.559617+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
   "takeda-pharmaceuticals|swe|l1": {
    "expires": "2026-11-20T23:55:01.029448+00:00",
    "looked_up": "2026-11-12T18:01:22+00:00",
@@ -28670,11 +28811,6 @@
    "looked_up": "2026-11-20T06:01:21+00:00",
    "status": "not_found"
   },
-  "vgroupmaritime|devops|l1": {
-   "expires": "2026-11-20T16:46:37.208486+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
-   "status": "not_found"
-  },
   "viasat|devops|l1": {
    "expires": "2026-11-21T03:46:42.264210+00:00",
    "looked_up": "2026-11-13T00:01:28+00:00",
@@ -29279,8 +29415,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T16:06:29.066904+00:00",
-   "looked_up": "2026-11-20T16:01:31+00:00",
+   "expires": "2027-02-13T10:59:20.876184+00:00",
+   "looked_up": "2026-11-20T17:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30645,8 +30781,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2486,
-  "lookups_today": 101,
+  "lookups_month": 2499,
+  "lookups_today": 114,
   "month": "2026-11"
  }
 }
