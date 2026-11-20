@@ -970,6 +970,11 @@
    ],
    "status": "found"
   },
+  "airialtravel|fullstack|l1": {
+   "expires": "2026-12-03T03:51:04.152011+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
+   "status": "not_found"
+  },
   "airtel|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3210,8 +3215,8 @@
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T00:12:49.054721+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-13T06:41:46.831873+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3566,8 +3571,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T21:22:15.614327+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-12T19:12:40.518600+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4215,11 +4220,6 @@
    "looked_up": "2026-11-14T06:01:18+00:00",
    "status": "not_found"
   },
-  "boomlet|swe|l1": {
-   "expires": "2026-11-20T00:29:21.912650+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "bornsec|security|l1": {
    "expires": "2026-11-23T09:06:21.329751+00:00",
    "looked_up": "2026-11-02T14:01:43+00:00",
@@ -4752,11 +4752,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "caisoftware|frontend|l1": {
-   "expires": "2026-11-20T00:49:25.447847+00:00",
-   "looked_up": "2026-10-31T06:01:29+00:00",
-   "status": "not_found"
   },
   "calix-india|erp|l1": {
    "basis": "ctc",
@@ -6118,8 +6113,8 @@
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:48:40.497485+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-24T04:55:38.318835+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -6807,8 +6802,8 @@
   "coreshield-technology|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:12:09.270879+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-20T15:59:51.839782+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 7.0,
    "sources": [
@@ -6876,8 +6871,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T16:43:10.343247+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-23T21:10:28.347830+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7517,11 +7512,6 @@
   "datumtg|swe|l1": {
    "expires": "2026-11-30T19:26:22.597084+00:00",
    "looked_up": "2026-11-10T16:01:23+00:00",
-   "status": "not_found"
-  },
-  "datwyler-group|erp|l1": {
-   "expires": "2026-11-20T00:06:28.202541+00:00",
-   "looked_up": "2026-11-02T19:01:30+00:00",
    "status": "not_found"
   },
   "dazn-india|swe|l1": {
@@ -14842,8 +14832,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:02:26.133056+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-17T13:40:32.096193+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -14856,8 +14846,8 @@
   "jobgether|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T12:48:02.020818+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-24T03:01:55.023416+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 5.0,
    "sources": [
@@ -17291,11 +17281,6 @@
    "status": "found",
    "year": 2026
   },
-  "metsoofficial|erp|l1": {
-   "expires": "2026-11-20T00:12:39.969890+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
   "miamin-systems-inc|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18497,11 +18482,6 @@
   "netrio|security|l1": {
    "expires": "2026-11-24T01:58:12.033166+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "netspi|security|l2": {
-   "expires": "2026-11-20T00:12:37.927942+00:00",
-   "looked_up": "2026-10-31T10:01:27+00:00",
    "status": "not_found"
   },
   "netsysconconsulting|fullstack|l1": {
@@ -24979,11 +24959,6 @@
    "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
-  "sweken-it-solutions|fullstack|l1": {
-   "expires": "2026-11-20T00:11:15.395682+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
   "sweken-it-solutions|mobile|l1": {
    "expires": "2026-11-27T18:21:57.371497+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
@@ -26236,11 +26211,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "tesco-technology|swe|l3": {
-   "expires": "2026-11-20T00:58:14.895284+00:00",
-   "looked_up": "2026-10-31T16:01:26+00:00",
-   "status": "not_found"
   },
   "tesseract-learning|mobile|l1": {
    "basis": "ctc",
@@ -29367,8 +29337,8 @@
   "xpertdox|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T11:00:00.441850+00:00",
-   "looked_up": "2026-11-20T00:01:18+00:00",
+   "expires": "2027-02-18T10:53:12.787001+00:00",
+   "looked_up": "2026-11-20T01:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30118,8 +30088,8 @@
  },
  "meta": {
   "day": "2026-11-20",
-  "lookups_month": 2385,
-  "lookups_today": 0,
+  "lookups_month": 2386,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
