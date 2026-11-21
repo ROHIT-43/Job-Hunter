@@ -2684,11 +2684,6 @@
    "status": "found",
    "year": 2025
   },
-  "ascendion|erp|l1": {
-   "expires": "2026-11-21T21:52:43.149073+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "ascendion|frontend|l1": {
    "expires": "2026-12-03T14:41:22.401793+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -2758,8 +2753,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:50:59.427315+00:00",
-   "looked_up": "2026-11-21T21:01:20+00:00",
+   "expires": "2027-02-15T03:17:42.398235+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6252,8 +6247,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:37:30.844339+00:00",
-   "looked_up": "2026-11-21T21:01:20+00:00",
+   "expires": "2027-02-15T05:55:48.277108+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15138,8 +15133,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T01:22:11.783506+00:00",
-   "looked_up": "2026-11-21T21:01:20+00:00",
+   "expires": "2027-02-13T04:56:07.440979+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20008,8 +20003,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:01:06.606402+00:00",
-   "looked_up": "2026-11-21T21:01:20+00:00",
+   "expires": "2027-02-25T19:34:19.689312+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -22210,11 +22205,6 @@
    "status": "found",
    "year": 2025
   },
-  "rabbitstay|swe|l1": {
-   "expires": "2026-11-21T21:06:21.952082+00:00",
-   "looked_up": "2026-11-11T05:01:21+00:00",
-   "status": "not_found"
-  },
   "rackspace-technology|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24033,8 +24023,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:18:34.801905+00:00",
-   "looked_up": "2026-11-21T21:01:20+00:00",
+   "expires": "2027-02-18T06:51:39.280900+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25062,6 +25052,11 @@
   "sporensprouts|data|l1": {
    "expires": "2026-12-05T03:21:22.368227+00:00",
    "looked_up": "2026-11-15T22:01:18+00:00",
+   "status": "not_found"
+  },
+  "sporensprouts|erp|l2": {
+   "expires": "2026-12-01T15:01:45.696235+00:00",
+   "looked_up": "2026-11-21T22:01:19+00:00",
    "status": "not_found"
   },
   "sporensprouts|swe|l1": {
@@ -26487,11 +26482,6 @@
   "tekfriday|data|l1": {
    "expires": "2026-11-28T13:49:35.117753+00:00",
    "looked_up": "2026-11-16T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "teknikoz|erp|l1": {
-   "expires": "2026-11-21T21:51:14.215188+00:00",
-   "looked_up": "2026-11-03T11:01:33+00:00",
    "status": "not_found"
   },
   "teknowxa.ai|swe|l1": {
@@ -30773,8 +30763,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2569,
-  "lookups_today": 56,
+  "lookups_month": 2570,
+  "lookups_today": 57,
   "month": "2026-11"
  }
 }
