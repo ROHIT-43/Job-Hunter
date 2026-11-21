@@ -2773,8 +2773,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T14:52:40.367453+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-14T18:51:40.838865+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -4127,11 +4127,6 @@
    "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
-  "bnp-paribas|data|l1": {
-   "expires": "2026-11-21T15:46:32.062607+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
-   "status": "not_found"
-  },
   "bnp-paribas|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4857,11 +4852,6 @@
   "caci-ltd|swe|l1": {
    "expires": "2026-12-06T09:23:03.692808+00:00",
    "looked_up": "2026-11-17T11:01:25+00:00",
-   "status": "not_found"
-  },
-  "caddemirates|swe|l1": {
-   "expires": "2026-11-21T15:57:04.446753+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
   "cadence|swe|l2": {
@@ -6266,8 +6256,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T23:00:17.406492+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-21T23:54:41.790972+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -11924,8 +11914,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T19:48:02.426879+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-26T00:10:04.991982+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -12090,6 +12080,11 @@
   "hamid-tech-world|frontend|l1": {
    "expires": "2026-11-26T05:38:42.996968+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
+   "status": "not_found"
+  },
+  "hanoch-automations|swe|l1": {
+   "expires": "2026-12-12T02:41:54.570853+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "status": "not_found"
   },
   "hanuman-silk-creation|swe|l1": {
@@ -12489,6 +12484,11 @@
   "heratweb|erp|l1": {
    "expires": "2026-11-27T12:22:09.974210+00:00",
    "looked_up": "2026-11-19T08:01:19+00:00",
+   "status": "not_found"
+  },
+  "herocycles|erp|l1": {
+   "expires": "2026-12-05T03:36:31.784988+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "status": "not_found"
   },
   "heuristics-informatics|erp|l1": {
@@ -15157,8 +15157,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T23:10:00.690710+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-13T08:10:28.820741+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20022,8 +20022,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T02:31:05.895350+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-23T04:37:55.702662+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21508,11 +21508,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "puma|swe|l1": {
-   "expires": "2026-11-21T15:33:51.389993+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
-   "status": "not_found"
   },
   "purestorage|swe|l1": {
    "basis": "base",
@@ -24082,8 +24077,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T23:59:23.158822+00:00",
-   "looked_up": "2026-11-21T15:01:19+00:00",
+   "expires": "2027-02-14T16:32:36.706136+00:00",
+   "looked_up": "2026-11-21T16:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30765,8 +30760,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2556,
-  "lookups_today": 43,
+  "lookups_month": 2558,
+  "lookups_today": 45,
   "month": "2026-11"
  }
 }
