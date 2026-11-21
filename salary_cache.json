@@ -2237,11 +2237,6 @@
    "status": "found",
    "year": 2026
   },
-  "appliedbusinessconsulting|erp|l1": {
-   "expires": "2026-11-21T16:14:27.765005+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
   "appliedbusinessconsulting|security|l1": {
    "expires": "2026-11-23T07:59:28.325985+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
@@ -2773,8 +2768,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T18:51:40.838865+00:00",
-   "looked_up": "2026-11-21T16:01:18+00:00",
+   "expires": "2027-02-12T17:27:21.249047+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6256,8 +6251,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T23:54:41.790972+00:00",
-   "looked_up": "2026-11-21T16:01:18+00:00",
+   "expires": "2027-02-21T20:56:22.833935+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -13832,11 +13827,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "indian-dental-association-ho-|frontend|l1": {
-   "expires": "2026-11-21T16:51:50.392519+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "indian-institutes-of-public-health-iiphs|swe|l1": {
    "expires": "2026-12-07T01:31:31.485349+00:00",
    "looked_up": "2026-11-17T17:01:21+00:00",
@@ -15157,8 +15147,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:10:28.820741+00:00",
-   "looked_up": "2026-11-21T16:01:18+00:00",
+   "expires": "2027-02-19T01:41:08.201354+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17959,11 +17949,6 @@
    "status": "found",
    "year": 2026
   },
-  "molex|swe|l1": {
-   "expires": "2026-11-21T16:21:46.388957+00:00",
-   "looked_up": "2026-11-02T07:01:32+00:00",
-   "status": "not_found"
-  },
   "mondelezinternational|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20022,8 +20007,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T04:37:55.702662+00:00",
-   "looked_up": "2026-11-21T16:01:18+00:00",
+   "expires": "2027-02-23T11:44:54.068159+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20897,11 +20882,6 @@
   "pineq-lab-technology|erp|l1": {
    "expires": "2026-11-21T20:31:57.788392+00:00",
    "looked_up": "2026-11-02T11:01:31+00:00",
-   "status": "not_found"
-  },
-  "pinkerton-comprehensive-risk-management|erp|l1": {
-   "expires": "2026-11-21T16:10:32.288616+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
   "pioneer-machines-&amp;-automation-pvt.-ltd.|swe|l1": {
@@ -21888,11 +21868,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "qualityenterprises|fullstack|l1": {
-   "expires": "2026-11-21T16:56:34.335837+00:00",
-   "looked_up": "2026-11-09T22:01:23+00:00",
-   "status": "not_found"
   },
   "qualys|devops|l1": {
    "expires": "2026-11-23T13:21:17.361841+00:00",
@@ -24077,8 +24052,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T16:32:36.706136+00:00",
-   "looked_up": "2026-11-21T16:01:18+00:00",
+   "expires": "2027-02-25T13:32:24.216241+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24886,11 +24861,6 @@
    "looked_up": "2026-11-15T05:01:21+00:00",
    "status": "not_found"
   },
-  "solventumhealth|devops|l1": {
-   "expires": "2026-11-21T16:03:54.966924+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
-   "status": "not_found"
-  },
   "solvex-solutions|fullstack|l1": {
    "expires": "2026-11-26T21:54:02.998422+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
@@ -25356,11 +25326,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "strong-point-digital|swe|l1": {
-   "expires": "2026-11-21T16:44:19.469730+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
   },
   "study-ark|swe|l1": {
    "expires": "2026-11-30T04:02:05.609473+00:00",
@@ -27696,6 +27661,22 @@
    "status": "found",
    "year": 2026
   },
+  "trinity-mobile-app-lab-pvt-ltd|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-15T03:39:51.659036+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
+   "max_lpa": 1.7,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/trinity-app-lab-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "trinity-technology-solutions|data|l1": {
    "expires": "2026-11-23T10:14:40.659861+00:00",
    "looked_up": "2026-11-06T20:01:24+00:00",
@@ -28021,9 +28002,9 @@
    "status": "found",
    "year": 2026
   },
-  "universal-software|swe|l1": {
-   "expires": "2026-11-21T16:51:29.233336+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
+  "university-of-alaska-fairbanks-petroleum-engineering|swe|l2": {
+   "expires": "2026-12-10T19:17:34.655788+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
    "status": "not_found"
   },
   "updot|fullstack|l1": {
@@ -30508,6 +30489,11 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
+  "zepcruit|swe|l1": {
+   "expires": "2026-12-11T03:42:14.536907+00:00",
+   "looked_up": "2026-11-21T17:01:26+00:00",
+   "status": "not_found"
+  },
   "zeptonow|frontend|l1": {
    "basis": "base",
    "confidence": "low",
@@ -30760,8 +30746,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2558,
-  "lookups_today": 45,
+  "lookups_month": 2561,
+  "lookups_today": 48,
   "month": "2026-11"
  }
 }
