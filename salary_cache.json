@@ -1935,11 +1935,6 @@
    ],
    "status": "found"
   },
-  "anesight-tech|swe|l1": {
-   "expires": "2026-11-21T14:15:18.532643+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
-   "status": "not_found"
-  },
   "angelone|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2778,8 +2773,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T20:57:47.330000+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-19T14:52:40.367453+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6271,8 +6266,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:35:33.744742+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-25T23:00:17.406492+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -11467,11 +11462,6 @@
    "status": "found",
    "year": 2025
   },
-  "globalxperts-inc-|devops|l1": {
-   "expires": "2026-11-21T14:01:59.761308+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
   "globant|data|l1": {
    "expires": "2026-12-03T13:02:05.094437+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
@@ -11934,8 +11924,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:00:13.703686+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-23T19:48:02.426879+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14732,11 +14722,6 @@
    "looked_up": "2026-11-18T18:01:27+00:00",
    "status": "not_found"
   },
-  "isha-life-health-solutions|fullstack|l1": {
-   "expires": "2026-11-21T14:47:25.922716+00:00",
-   "looked_up": "2026-11-11T01:01:23+00:00",
-   "status": "not_found"
-  },
   "ishift4cloud|devops|l1": {
    "expires": "2026-12-02T07:54:25.198979+00:00",
    "looked_up": "2026-11-14T01:01:38+00:00",
@@ -15172,8 +15157,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T04:59:40.717394+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-21T23:10:00.690710+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18972,11 +18957,6 @@
    "status": "found",
    "year": 2026
   },
-  "nexionpro-sevices-llp|security|l1": {
-   "expires": "2026-11-21T14:36:18.497552+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "nextdealnow|mobile|l1": {
    "expires": "2026-12-03T12:09:29.613319+00:00",
    "looked_up": "2026-11-17T21:01:22+00:00",
@@ -19262,11 +19242,6 @@
   "novbliss-consultancy-private-limited|erp|l1": {
    "expires": "2026-11-24T17:02:20.219126+00:00",
    "looked_up": "2026-11-07T08:01:19+00:00",
-   "status": "not_found"
-  },
-  "noventiq-india|devops|l1": {
-   "expires": "2026-11-21T14:54:21.073527+00:00",
-   "looked_up": "2026-11-12T18:01:22+00:00",
    "status": "not_found"
   },
   "novglobal|security|l1": {
@@ -20047,8 +20022,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:10:56.306737+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-24T02:31:05.895350+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24107,8 +24082,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:41:40.768733+00:00",
-   "looked_up": "2026-11-21T14:01:22+00:00",
+   "expires": "2027-02-17T23:59:23.158822+00:00",
+   "looked_up": "2026-11-21T15:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
