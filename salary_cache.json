@@ -3757,8 +3757,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T06:39:11.177205+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-22T09:32:38.200407+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -3832,11 +3832,6 @@
   "binaire-pvt-ltd|swe|l1": {
    "expires": "2026-11-21T19:08:01.828158+00:00",
    "looked_up": "2026-11-03T05:01:29+00:00",
-   "status": "not_found"
-  },
-  "binary-geckos|fullstack|l1": {
-   "expires": "2026-11-21T02:21:07.298130+00:00",
-   "looked_up": "2026-11-12T00:01:20+00:00",
    "status": "not_found"
   },
   "binated|fullstack|l1": {
@@ -7008,8 +7003,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T14:10:45.763715+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-22T11:50:08.954958+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7099,8 +7094,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T23:50:59.428584+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-17T05:50:46.561034+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -9205,11 +9200,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "enverus-energy|erp|l1": {
-   "expires": "2026-11-21T02:18:55.251267+00:00",
-   "looked_up": "2026-11-03T20:01:58+00:00",
-   "status": "not_found"
   },
   "enviropolengineers|frontend|l1": {
    "basis": "base",
@@ -11909,8 +11899,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T17:55:14.984724+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-12T04:53:32.384191+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14411,8 +14401,8 @@
    "status": "found"
   },
   "insight-global|fullstack|l1": {
-   "expires": "2026-11-21T02:12:25.922197+00:00",
-   "looked_up": "2026-11-03T15:01:30+00:00",
+   "expires": "2026-12-08T17:16:23.748194+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "status": "not_found"
   },
   "insight-global|security|l1": {
@@ -15177,8 +15167,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:22:49.487668+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-21T13:16:20.747986+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16272,8 +16262,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:54:18.695209+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-13T17:23:19.583586+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -29438,8 +29428,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T08:52:13.396985+00:00",
-   "looked_up": "2026-11-21T02:01:15+00:00",
+   "expires": "2027-02-17T17:39:06.222382+00:00",
+   "looked_up": "2026-11-21T02:22:56+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30799,8 +30789,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2519,
-  "lookups_today": 6,
+  "lookups_month": 2520,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
