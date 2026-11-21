@@ -3762,8 +3762,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T14:30:38.410753+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-16T23:46:52.122055+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7023,8 +7023,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T11:20:34.520768+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-16T10:53:39.602690+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7114,8 +7114,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:34:54.022083+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-12T10:20:39.387187+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11924,8 +11924,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T19:25:56.831665+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-13T08:25:42.294329+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14997,8 +14997,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T04:39:59.158813+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-24T13:55:57.506003+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15172,8 +15172,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T01:44:17.170220+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-22T06:41:48.220868+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15276,8 +15276,8 @@
    "status": "not_found"
   },
   "joblet-ai|swe|l1": {
-   "expires": "2026-11-20T23:04:59.713753+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
+   "expires": "2026-12-02T06:59:02.834680+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "status": "not_found"
   },
   "jobspiq|frontend|l1": {
@@ -16267,8 +16267,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T22:02:49.031223+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-13T09:47:42.788228+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -18492,6 +18492,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "naapbooks|fullstack|l1": {
+   "expires": "2026-12-07T06:25:45.992146+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
+   "status": "not_found"
   },
   "nam-info-inc|data|l1": {
    "expires": "2026-11-30T07:47:05.533546+00:00",
@@ -21174,6 +21179,22 @@
    "expires": "2026-12-04T23:08:10.842819+00:00",
    "looked_up": "2026-11-14T13:01:16+00:00",
    "status": "not_found"
+  },
+  "premier-research|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T14:12:38.608217+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
+   "max_lpa": 12.1,
+   "min_lpa": 9.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/premier-research-salaries/programmer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "pri-india-it-services-private-limited|devops|l2": {
    "expires": "2026-11-26T23:01:50.636556+00:00",
@@ -25521,11 +25542,6 @@
    "looked_up": "2026-11-09T16:01:22+00:00",
    "status": "not_found"
   },
-  "sushainclinic|swe|l1": {
-   "expires": "2026-11-20T23:20:54.535490+00:00",
-   "looked_up": "2026-10-31T07:01:28+00:00",
-   "status": "not_found"
-  },
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -25790,11 +25806,6 @@
   "tailormade-journeys-limited|fullstack|l1": {
    "expires": "2026-12-02T20:55:05.559617+00:00",
    "looked_up": "2026-11-20T17:01:23+00:00",
-   "status": "not_found"
-  },
-  "takeda-pharmaceuticals|swe|l1": {
-   "expires": "2026-11-20T23:55:01.029448+00:00",
-   "looked_up": "2026-11-12T18:01:22+00:00",
    "status": "not_found"
   },
   "talent-glider|swe|l1": {
@@ -26548,11 +26559,6 @@
   "tekfriday|data|l1": {
    "expires": "2026-11-28T13:49:35.117753+00:00",
    "looked_up": "2026-11-16T12:01:23+00:00",
-   "status": "not_found"
-  },
-  "tekgenio|swe|l1": {
-   "expires": "2026-11-20T23:38:28.524500+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
   "teknikoz|erp|l1": {
@@ -29426,8 +29432,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T05:00:54.783568+00:00",
-   "looked_up": "2026-11-20T23:01:24+00:00",
+   "expires": "2027-02-22T21:17:33.981875+00:00",
+   "looked_up": "2026-11-21T00:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30786,9 +30792,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-20",
-  "lookups_month": 2513,
-  "lookups_today": 128,
+  "day": "2026-11-21",
+  "lookups_month": 2516,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
