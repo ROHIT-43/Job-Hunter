@@ -2778,8 +2778,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:46:04.172413+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-23T06:27:04.362847+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6265,8 +6265,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T04:11:05.420509+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-17T22:15:00.180115+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7083,8 +7083,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:07:23.022531+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-14T23:37:11.415055+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -8893,11 +8893,6 @@
   "elephant-in-the-boardroom|fullstack|l1": {
    "expires": "2026-11-22T09:35:18.305168+00:00",
    "looked_up": "2026-11-03T06:01:29+00:00",
-   "status": "not_found"
-  },
-  "eli-lilly-and-company|swe|l1": {
-   "expires": "2026-11-21T11:49:23.875036+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
   "elitesquad-ai|devops|l1": {
@@ -11497,11 +11492,6 @@
    "status": "found",
    "year": 2026
   },
-  "gohire.io|swe|l1": {
-   "expires": "2026-11-21T11:51:31.759637+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "golden-opportunities-pvt-ltd|fullstack|l1": {
    "expires": "2026-12-06T03:20:50.852007+00:00",
    "looked_up": "2026-11-18T12:01:21+00:00",
@@ -11918,8 +11908,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T04:09:52.340345+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-16T06:24:48.031375+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -20026,8 +20016,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T06:33:05.904538+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-17T09:46:19.264577+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24071,8 +24061,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T10:27:21.131116+00:00",
-   "looked_up": "2026-11-21T11:01:29+00:00",
+   "expires": "2027-02-17T20:13:03.101491+00:00",
+   "looked_up": "2026-11-21T12:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
