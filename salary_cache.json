@@ -3757,8 +3757,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T09:32:38.200407+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-22T13:54:46.618783+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7003,8 +7003,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T11:50:08.954958+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-18T12:14:33.110554+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7094,8 +7094,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T05:50:46.561034+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-22T05:27:15.890563+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -9261,11 +9261,6 @@
    ],
    "status": "found",
    "year": 2023
-  },
-  "equal-experts|devops|l1": {
-   "expires": "2026-11-21T02:49:17.434495+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
   },
   "equifax|devops|l1": {
    "basis": "ctc",
@@ -11899,8 +11894,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T04:53:32.384191+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-14T17:37:45.325132+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -14444,11 +14439,6 @@
    "looked_up": "2026-11-19T18:01:19+00:00",
    "status": "not_found"
   },
-  "instantdm|fullstack|l1": {
-   "expires": "2026-11-21T02:58:09.046992+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
   "insureka|frontend|l1": {
    "expires": "2026-11-21T08:15:20.544509+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -15167,8 +15157,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T13:16:20.747986+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-19T11:35:04.481002+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16262,8 +16252,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T17:23:19.583586+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-23T16:22:05.636979+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -16272,6 +16262,11 @@
     }
    ],
    "status": "found"
+  },
+  "lehry-industries-pvt-ltd|erp|l1": {
+   "expires": "2026-12-06T20:24:48.956965+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
+   "status": "not_found"
   },
   "leidos|swe|l1": {
    "basis": "ctc",
@@ -19703,11 +19698,6 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
-  "ojasgrid|swe|l1": {
-   "expires": "2026-11-21T03:00:46.142574+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
   "okta-inc-|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20932,11 +20922,6 @@
   "pinkerton-comprehensive-risk-management|erp|l1": {
    "expires": "2026-11-21T16:10:32.288616+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
-  "pinnacleminds-it-solutions|frontend|l1": {
-   "expires": "2026-11-21T02:24:38.339189+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
   "pioneer-machines-&amp;-automation-pvt.-ltd.|swe|l1": {
@@ -26379,19 +26364,9 @@
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
   },
-  "techflex-solutions-pvt-ltd|swe|l1": {
-   "expires": "2026-11-21T02:54:05.344790+00:00",
-   "looked_up": "2026-11-04T02:01:37+00:00",
-   "status": "not_found"
-  },
   "techflowservices|mobile|l1": {
    "expires": "2026-11-30T04:19:04.415648+00:00",
    "looked_up": "2026-11-19T16:01:17+00:00",
-   "status": "not_found"
-  },
-  "techgrove-by-banyan-software|devops|l1": {
-   "expires": "2026-11-21T02:30:26.486313+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
   "techmantranow|swe|l1": {
@@ -29428,8 +29403,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:39:06.222382+00:00",
-   "looked_up": "2026-11-21T02:22:56+00:00",
+   "expires": "2027-02-23T05:21:53.495986+00:00",
+   "looked_up": "2026-11-21T03:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30789,8 +30764,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2520,
-  "lookups_today": 7,
+  "lookups_month": 2521,
+  "lookups_today": 8,
   "month": "2026-11"
  }
 }
