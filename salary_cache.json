@@ -2768,8 +2768,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T16:20:28.925629+00:00",
-   "looked_up": "2026-11-21T17:31:21+00:00",
+   "expires": "2027-02-24T15:41:22.539155+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -2783,6 +2783,22 @@
    "expires": "2026-11-27T01:55:48.461674+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
+  },
+  "aspen-technology|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T16:40:25.585623+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
+   "max_lpa": 6.7,
+   "min_lpa": 5.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/aspentech-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "aspen-technology|swe|l2": {
    "expires": "2026-11-27T01:00:40.250687+00:00",
@@ -6251,8 +6267,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:14:50.698457+00:00",
-   "looked_up": "2026-11-21T17:31:21+00:00",
+   "expires": "2027-02-18T06:24:23.356115+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15147,8 +15163,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:47:03.721188+00:00",
-   "looked_up": "2026-11-21T17:31:21+00:00",
+   "expires": "2027-02-15T16:26:12.043088+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16673,6 +16689,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "ltm-larsenandtoubrocompany|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T02:01:06.257233+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
+   "max_lpa": 5.1,
+   "min_lpa": 2.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/ltimindtree-salaries/software-engineer/kolkata-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ltimindtree-salaries/sap-trainee"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "ltm-larsenandtoubrocompany|swe|l1": {
    "basis": "ctc",
@@ -19699,11 +19735,6 @@
    "status": "found",
    "year": 2025
   },
-  "olus-infomatics|swe|l1": {
-   "expires": "2026-11-21T17:42:34.266867+00:00",
-   "looked_up": "2026-11-08T18:01:17+00:00",
-   "status": "not_found"
-  },
   "olxindia|mobile|l1": {
    "expires": "2026-12-08T07:18:08.353097+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
@@ -20007,8 +20038,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T03:04:55.295068+00:00",
-   "looked_up": "2026-11-21T17:31:21+00:00",
+   "expires": "2027-02-25T06:11:01.837454+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24052,8 +24083,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T03:26:52.936882+00:00",
-   "looked_up": "2026-11-21T17:31:21+00:00",
+   "expires": "2027-02-19T22:55:07.672062+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24859,6 +24890,11 @@
   "solvative|data|l1": {
    "expires": "2026-12-04T05:08:05.475898+00:00",
    "looked_up": "2026-11-15T05:01:21+00:00",
+   "status": "not_found"
+  },
+  "solventumhealth|swe|l1": {
+   "expires": "2026-12-02T00:01:22.204726+00:00",
+   "looked_up": "2026-11-21T18:01:28+00:00",
    "status": "not_found"
   },
   "solvex-solutions|fullstack|l1": {
@@ -30746,8 +30782,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2561,
-  "lookups_today": 48,
+  "lookups_month": 2564,
+  "lookups_today": 51,
   "month": "2026-11"
  }
 }
