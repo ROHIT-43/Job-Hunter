@@ -3762,8 +3762,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:46:52.122055+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-15T22:17:32.713618+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -4848,11 +4848,6 @@
    "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
   },
-  "c3-ai-enterprise-ai|swe|l1": {
-   "expires": "2026-11-21T00:21:38.926367+00:00",
-   "looked_up": "2026-11-01T14:01:27+00:00",
-   "status": "not_found"
-  },
   "c3i-hub|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5914,11 +5909,6 @@
   "citadel-securities|swe|l1": {
    "expires": "2026-11-28T12:40:03.431642+00:00",
    "looked_up": "2026-11-16T19:01:19+00:00",
-   "status": "not_found"
-  },
-  "citi|data|l1": {
-   "expires": "2026-11-21T00:15:55.560208+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
    "status": "not_found"
   },
   "citi|devops|l1": {
@@ -7023,8 +7013,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T10:53:39.602690+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-12T18:21:45.107830+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7114,8 +7104,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T10:20:39.387187+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-18T10:02:33.219103+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11924,8 +11914,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T08:25:42.294329+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-19T15:18:34.451559+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -12105,6 +12095,26 @@
     }
    ],
    "status": "found"
+  },
+  "happiest-minds-technologies|mobile|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-25T03:44:52.319886+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/happiest-minds-technologies-salaries/software-engineer/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/happiest-minds-technologies-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "happiest-minds-technologies|swe|l1": {
    "basis": "ctc",
@@ -12783,6 +12793,11 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "hivekra|fullstack|l1": {
+   "expires": "2026-12-08T19:23:17.026310+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
+   "status": "not_found"
   },
   "hjinfotech|devops|l1": {
    "basis": "ctc",
@@ -14410,11 +14425,6 @@
    "looked_up": "2026-11-16T16:01:21+00:00",
    "status": "not_found"
   },
-  "insight-international-uk-ltd|frontend|l1": {
-   "expires": "2026-11-21T00:43:32.272619+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "insight|devops|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -14997,8 +15007,8 @@
   "jansoftglobal|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T13:55:57.506003+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-17T12:11:18.115637+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 2.4,
    "sources": [
@@ -15172,8 +15182,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:41:48.220868+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-23T08:33:37.437928+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16267,8 +16277,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T09:47:42.788228+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-24T16:10:59.194423+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -22649,6 +22659,22 @@
    "status": "found",
    "year": 2025
   },
+  "relevance-lab|erp|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T12:06:01.961577+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
+   "max_lpa": 5.8,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/relevance-lab-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "reliaquest|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -26652,11 +26678,6 @@
    "status": "found",
    "year": 2025
   },
-  "teladoc-health|swe|l3": {
-   "expires": "2026-11-21T00:14:15.231175+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
-  },
   "telus-digital|swe|l1": {
    "expires": "2026-11-24T15:07:48.375856+00:00",
    "looked_up": "2026-11-07T19:01:18+00:00",
@@ -29432,8 +29453,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:17:33.981875+00:00",
-   "looked_up": "2026-11-21T00:01:21+00:00",
+   "expires": "2027-02-25T07:14:32.931388+00:00",
+   "looked_up": "2026-11-21T01:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -30793,8 +30814,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2516,
-  "lookups_today": 3,
+  "lookups_month": 2519,
+  "lookups_today": 6,
   "month": "2026-11"
  }
 }
