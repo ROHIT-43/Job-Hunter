@@ -2778,8 +2778,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:08:35.545725+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-15T20:57:47.330000+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -3368,6 +3368,22 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://www.ambitionbox.com/salaries/bain-and-company-salaries/data-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
+  "bain-and-company|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T03:48:21.055484+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
+   "max_lpa": 19.8,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/bain-and-company-salaries/engineer"
     }
    ],
    "status": "found",
@@ -5385,11 +5401,6 @@
    "status": "found",
    "year": 2025
   },
-  "caxton-associates|security|l1": {
-   "expires": "2026-11-21T13:43:00.061729+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "cbts-technology-covered|security|l1": {
    "expires": "2026-11-21T23:03:11.366806+00:00",
    "looked_up": "2026-11-07T15:01:18+00:00",
@@ -6260,8 +6271,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:18:02.137345+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-13T08:35:33.744742+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -8500,6 +8511,11 @@
    "looked_up": "2026-11-21T07:01:20+00:00",
    "status": "not_found"
   },
+  "dp-jewellers|frontend|l1": {
+   "expires": "2026-12-06T15:24:29.102670+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
+   "status": "not_found"
+  },
   "drishticon|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9941,11 +9957,6 @@
   "ezspaceventures|data|l1": {
    "expires": "2026-11-25T05:15:52.084905+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
-  },
-  "f5|devops|l1": {
-   "expires": "2026-11-21T13:23:52.261108+00:00",
-   "looked_up": "2026-11-06T18:01:16+00:00",
    "status": "not_found"
   },
   "f5|devops|l2": {
@@ -11923,8 +11934,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T20:12:44.522058+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-23T06:00:13.703686+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -12720,11 +12731,6 @@
   "hireflexperts|swe|l1": {
    "expires": "2026-12-04T08:05:38.153105+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
-   "status": "not_found"
-  },
-  "hirehut1|swe|l1": {
-   "expires": "2026-11-21T13:03:00.953365+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
    "status": "not_found"
   },
   "hirelyglobal|swe|l1": {
@@ -14360,11 +14366,6 @@
    "looked_up": "2026-11-05T10:01:16+00:00",
    "status": "not_found"
   },
-  "innovative-information-technologies-inc.|erp|l1": {
-   "expires": "2026-11-21T13:41:55.092813+00:00",
-   "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
   "innovative-information-technologies-inc.|swe|l1": {
    "expires": "2026-11-29T18:28:21.759264+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -14373,6 +14374,11 @@
   "innovatorwebsol|fullstack|l3": {
    "expires": "2026-12-10T03:46:55.851861+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
+   "status": "not_found"
+  },
+  "innovatz-solutions-global|swe|l1": {
+   "expires": "2026-12-11T14:02:26.828313+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "status": "not_found"
   },
   "innovyatech|swe|l1": {
@@ -15166,8 +15172,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T23:04:04.612877+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-24T04:59:40.717394+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20041,8 +20047,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T06:38:14.355238+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-23T06:10:56.306737+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21765,6 +21771,11 @@
    "status": "found",
    "year": 2026
   },
+  "pythian|devops|l1": {
+   "expires": "2026-12-05T21:31:45.338603+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
+   "status": "not_found"
+  },
   "qad|frontend|l1": {
    "expires": "2026-11-27T08:06:25.165726+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
@@ -22005,11 +22016,6 @@
     }
    ],
    "status": "found"
-  },
-  "quantum|swe|l3": {
-   "expires": "2026-11-21T13:02:11.297748+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
-   "status": "not_found"
   },
   "quartyl|swe|l1": {
    "expires": "2026-11-29T00:35:11.348758+00:00",
@@ -24101,8 +24107,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T03:32:36.262140+00:00",
-   "looked_up": "2026-11-21T13:01:20+00:00",
+   "expires": "2027-02-16T20:41:40.768733+00:00",
+   "looked_up": "2026-11-21T14:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25160,11 +25166,6 @@
   "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
    "expires": "2026-12-06T20:20:01.315357+00:00",
    "looked_up": "2026-11-18T06:01:19+00:00",
-   "status": "not_found"
-  },
-  "stackkindia|swe|l1": {
-   "expires": "2026-11-21T13:38:30.449998+00:00",
-   "looked_up": "2026-11-02T06:01:28+00:00",
    "status": "not_found"
   },
   "stafingo|erp|l1": {
@@ -30789,8 +30790,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2552,
-  "lookups_today": 39,
+  "lookups_month": 2556,
+  "lookups_today": 43,
   "month": "2026-11"
  }
 }
