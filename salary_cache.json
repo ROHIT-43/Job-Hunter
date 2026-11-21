@@ -569,11 +569,6 @@
    "looked_up": "2026-11-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "acuityanalytics|data|l1": {
-   "expires": "2026-11-21T20:45:41.087960+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
-   "status": "not_found"
-  },
   "acumenzconsulting|erp|l1": {
    "expires": "2026-11-26T13:09:50.437293+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
@@ -2763,8 +2758,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T18:59:26.956916+00:00",
-   "looked_up": "2026-11-21T20:01:20+00:00",
+   "expires": "2027-02-20T11:50:59.427315+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -5165,8 +5160,8 @@
    "status": "not_found"
   },
   "careerblocc|frontend|l1": {
-   "expires": "2026-11-21T20:01:48.451587+00:00",
-   "looked_up": "2026-11-07T07:01:15+00:00",
+   "expires": "2026-12-10T04:27:13.710649+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "status": "not_found"
   },
   "careerxperts-consulting|fullstack|l1": {
@@ -6257,8 +6252,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T19:36:37.689199+00:00",
-   "looked_up": "2026-11-21T20:01:20+00:00",
+   "expires": "2027-02-22T02:37:30.844339+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15143,8 +15138,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T12:11:18.536722+00:00",
-   "looked_up": "2026-11-21T20:01:20+00:00",
+   "expires": "2027-02-20T01:22:11.783506+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20013,8 +20008,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T20:34:06.556032+00:00",
-   "looked_up": "2026-11-21T20:01:20+00:00",
+   "expires": "2027-02-15T18:01:06.606402+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20538,11 +20533,6 @@
    "looked_up": "2026-11-16T23:01:36+00:00",
    "status": "not_found"
   },
-  "pearson|swe|l1": {
-   "expires": "2026-11-21T20:13:38.219827+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
-   "status": "not_found"
-  },
   "peepul-agri|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20883,11 +20873,6 @@
   "phu-my-3-bot-power-company|frontend|l1": {
    "expires": "2026-12-01T16:54:52.741161+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
-   "status": "not_found"
-  },
-  "pineq-lab-technology|erp|l1": {
-   "expires": "2026-11-21T20:31:57.788392+00:00",
-   "looked_up": "2026-11-02T11:01:31+00:00",
    "status": "not_found"
   },
   "pioneer-machines-&amp;-automation-pvt.-ltd.|swe|l1": {
@@ -23371,11 +23356,6 @@
    "status": "found",
    "year": 2026
   },
-  "salesforce|security|l1": {
-   "expires": "2026-11-21T20:08:17.365869+00:00",
-   "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
   "salesforce|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23665,11 +23645,6 @@
     }
    ],
    "status": "found"
-  },
-  "sawa-living|mobile|l1": {
-   "expires": "2026-11-21T20:25:50.128738+00:00",
-   "looked_up": "2026-11-01T06:01:29+00:00",
-   "status": "not_found"
   },
   "saxo-bank|devops|l1": {
    "expires": "2026-11-23T18:32:42.581511+00:00",
@@ -24058,8 +24033,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T12:54:23.720301+00:00",
-   "looked_up": "2026-11-21T20:01:20+00:00",
+   "expires": "2027-02-16T00:18:34.801905+00:00",
+   "looked_up": "2026-11-21T21:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30798,8 +30773,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2568,
-  "lookups_today": 55,
+  "lookups_month": 2569,
+  "lookups_today": 56,
   "month": "2026-11"
  }
 }
