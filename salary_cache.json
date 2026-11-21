@@ -3757,8 +3757,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:54:46.618783+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-17T11:34:25.007902+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7003,8 +7003,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T12:14:33.110554+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-17T08:15:24.378803+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7094,8 +7094,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T05:27:15.890563+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-18T19:42:11.821570+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11894,8 +11894,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T17:37:45.325132+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-23T03:35:42.451279+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -13626,11 +13626,6 @@
    "status": "found",
    "year": 2025
   },
-  "ienergydigital|fullstack|l1": {
-   "expires": "2026-11-21T03:02:01.958019+00:00",
-   "looked_up": "2026-11-07T17:01:25+00:00",
-   "status": "not_found"
-  },
   "iepcc-solutions|swe|l1": {
    "expires": "2026-11-29T00:37:29.349943+00:00",
    "looked_up": "2026-11-16T05:01:39+00:00",
@@ -14339,11 +14334,6 @@
   "innovaesi|swe|l1": {
    "expires": "2026-11-23T17:20:50.573364+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
-  "innovative-information-technologies-inc.|data|l1": {
-   "expires": "2026-11-21T03:17:35.122595+00:00",
-   "looked_up": "2026-11-06T08:01:19+00:00",
    "status": "not_found"
   },
   "innovative-information-technologies-inc.|erp|l1": {
@@ -15157,8 +15147,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T11:35:04.481002+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-25T10:30:53.555735+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16252,8 +16242,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T16:22:05.636979+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-24T02:21:22.661634+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -16498,11 +16488,6 @@
   "logiq-gen|devops|l1": {
    "expires": "2026-11-26T13:24:49.472671+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
-  "logistics-sector-skill-council|swe|l1": {
-   "expires": "2026-11-21T03:02:23.861841+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "logitech|data|l1": {
@@ -24558,11 +24543,6 @@
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
   },
-  "skywebtech|swe|l1": {
-   "expires": "2026-11-21T03:04:24.719436+00:00",
-   "looked_up": "2026-11-13T13:01:23+00:00",
-   "status": "not_found"
-  },
   "slbglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28799,11 +28779,6 @@
    "looked_up": "2026-11-20T06:01:21+00:00",
    "status": "not_found"
   },
-  "viasat|devops|l1": {
-   "expires": "2026-11-21T03:46:42.264210+00:00",
-   "looked_up": "2026-11-13T00:01:28+00:00",
-   "status": "not_found"
-  },
   "vicharak-in|swe|l1": {
    "expires": "2026-12-06T23:16:10.040413+00:00",
    "looked_up": "2026-11-19T10:01:15+00:00",
@@ -29403,8 +29378,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T05:21:53.495986+00:00",
-   "looked_up": "2026-11-21T03:01:21+00:00",
+   "expires": "2027-02-12T15:36:57.941108+00:00",
+   "looked_up": "2026-11-21T04:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29528,11 +29503,6 @@
   "webtrh-digitalní-tržiště|fullstack|l1": {
    "expires": "2026-12-01T04:35:30.706652+00:00",
    "looked_up": "2026-11-15T23:01:38+00:00",
-   "status": "not_found"
-  },
-  "webzone-network|swe|l1": {
-   "expires": "2026-11-21T03:24:52.309050+00:00",
-   "looked_up": "2026-11-06T19:01:19+00:00",
    "status": "not_found"
   },
   "wedmegood|swe|l1": {
