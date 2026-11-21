@@ -2768,8 +2768,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:41:22.539155+00:00",
-   "looked_up": "2026-11-21T18:01:28+00:00",
+   "expires": "2027-02-18T15:39:21.013989+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6267,8 +6267,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T06:24:23.356115+00:00",
-   "looked_up": "2026-11-21T18:01:28+00:00",
+   "expires": "2027-02-26T11:48:27.175871+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15163,8 +15163,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:26:12.043088+00:00",
-   "looked_up": "2026-11-21T18:01:28+00:00",
+   "expires": "2027-02-25T17:03:36.564962+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17913,11 +17913,6 @@
    "looked_up": "2026-11-16T17:01:27+00:00",
    "status": "not_found"
   },
-  "mizuho|swe|l1": {
-   "expires": "2026-11-21T18:33:57.874343+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
-   "status": "not_found"
-  },
   "mnc-group|fullstack|l1": {
    "expires": "2026-11-29T04:33:22.370023+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -20038,8 +20033,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T06:11:01.837454+00:00",
-   "looked_up": "2026-11-21T18:01:28+00:00",
+   "expires": "2027-02-19T20:30:45.532861+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24083,8 +24078,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:55:07.672062+00:00",
-   "looked_up": "2026-11-21T18:01:28+00:00",
+   "expires": "2027-02-15T12:37:03.475978+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24523,11 +24518,6 @@
     }
    ],
    "status": "found"
-  },
-  "skillre-com|frontend|l1": {
-   "expires": "2026-11-21T18:12:56.350689+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
-   "status": "not_found"
   },
   "skillsncr|fullstack|l1": {
    "expires": "2026-11-30T11:19:41.379629+00:00",
@@ -28408,6 +28398,22 @@
    "looked_up": "2026-11-18T07:01:34+00:00",
    "status": "not_found"
   },
+  "vaaaninfra-pvt-ltd|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-12T22:52:38.941244+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
+   "max_lpa": 4.2,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/vaaan-infra-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "vahan-inc-|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28676,6 +28682,26 @@
     {
      "title": "ambitionbox.com",
      "uri": "https://ambitionbox.com/salaries/veradigm-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
+  "veradigm|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-16T14:59:44.988843+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
+   "max_lpa": 8.3,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/veradigm-salaries/pune-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/veradigm-salaries/software-engineer"
     }
    ],
    "status": "found",
@@ -29705,6 +29731,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "wexinc|swe|l3": {
+   "expires": "2026-12-07T19:34:09.883068+00:00",
+   "looked_up": "2026-11-21T19:01:16+00:00",
+   "status": "not_found"
   },
   "whitefield-careers|swe|l1": {
    "expires": "2026-11-29T01:45:58.725172+00:00",
@@ -30782,8 +30813,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2564,
-  "lookups_today": 51,
+  "lookups_month": 2567,
+  "lookups_today": 54,
   "month": "2026-11"
  }
 }
