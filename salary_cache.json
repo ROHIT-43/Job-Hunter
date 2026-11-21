@@ -2753,8 +2753,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T23:58:54.940868+00:00",
-   "looked_up": "2026-11-21T23:01:25+00:00",
+   "expires": "2027-02-25T20:26:55.011181+00:00",
+   "looked_up": "2026-11-21T23:15:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -5372,11 +5372,6 @@
    "status": "found",
    "year": 2025
   },
-  "cbts-technology-covered|security|l1": {
-   "expires": "2026-11-21T23:03:11.366806+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
-   "status": "not_found"
-  },
   "cbts-technology-covered|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6237,8 +6232,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T12:55:27.214925+00:00",
-   "looked_up": "2026-11-21T23:01:25+00:00",
+   "expires": "2027-02-13T01:20:28.722178+00:00",
+   "looked_up": "2026-11-21T23:15:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15108,8 +15103,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T19:59:11.073392+00:00",
-   "looked_up": "2026-11-21T23:01:25+00:00",
+   "expires": "2027-02-24T20:50:23.808051+00:00",
+   "looked_up": "2026-11-21T23:15:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -19973,8 +19968,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T01:15:32.834668+00:00",
-   "looked_up": "2026-11-21T23:01:25+00:00",
+   "expires": "2027-02-23T13:29:08.037858+00:00",
+   "looked_up": "2026-11-21T23:15:24+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -23993,8 +23988,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T12:34:55.767859+00:00",
-   "looked_up": "2026-11-21T23:01:25+00:00",
+   "expires": "2027-02-14T21:44:59.768975+00:00",
+   "looked_up": "2026-11-21T23:15:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -29248,11 +29243,6 @@
   "waystoneglobal|swe|l1": {
    "expires": "2026-12-02T11:15:50.913497+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "wbcsoftwarelabkaraikudi|devops|l1": {
-   "expires": "2026-11-21T23:02:59.364343+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
    "status": "not_found"
   },
   "weareada|data|l1": {
