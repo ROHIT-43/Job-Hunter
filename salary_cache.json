@@ -2267,11 +2267,6 @@
    "looked_up": "2026-11-12T05:01:17+00:00",
    "status": "not_found"
   },
-  "apps-island|swe|l1": {
-   "expires": "2026-11-21T01:11:58.350099+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
-  },
   "appsforbharat|frontend|l1": {
    "expires": "2026-12-03T07:42:42.443778+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
@@ -3762,8 +3757,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:17:32.713618+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-13T06:39:11.177205+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -7013,8 +7008,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T18:21:45.107830+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-22T14:10:45.763715+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7104,8 +7099,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:02:33.219103+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-25T23:50:59.428584+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11914,8 +11909,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T15:18:34.451559+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-24T17:55:14.984724+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -15182,8 +15177,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:33:37.437928+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-19T13:22:49.487668+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16277,8 +16272,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T16:10:59.194423+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-22T01:54:18.695209+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -16417,11 +16412,6 @@
   "linde-india-ltd|swe|l1": {
    "expires": "2026-12-06T00:15:55.974880+00:00",
    "looked_up": "2026-11-19T18:01:19+00:00",
-   "status": "not_found"
-  },
-  "linde|erp|l1": {
-   "expires": "2026-11-21T01:40:16.943986+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
   "linde|fullstack|l1": {
@@ -17625,11 +17615,6 @@
   "mergerdomo-services-pvt-ltd|fullstack|l1": {
    "expires": "2026-11-27T04:43:24.618084+00:00",
    "looked_up": "2026-11-19T13:01:27+00:00",
-   "status": "not_found"
-  },
-  "metabase|security|l1": {
-   "expires": "2026-11-21T01:10:55.363940+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "metapoint-tech|security|l1": {
@@ -29453,8 +29438,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T07:14:32.931388+00:00",
-   "looked_up": "2026-11-21T01:01:28+00:00",
+   "expires": "2027-02-15T08:52:13.396985+00:00",
+   "looked_up": "2026-11-21T02:01:15+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
