@@ -2424,11 +2424,6 @@
    "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
-  "arcticwolf|swe|l2": {
-   "expires": "2026-11-21T19:03:28.357034+00:00",
-   "looked_up": "2026-11-02T17:01:41+00:00",
-   "status": "not_found"
-  },
   "ares-management|fullstack|l1": {
    "expires": "2026-11-24T07:30:24.719565+00:00",
    "looked_up": "2026-11-06T13:01:18+00:00",
@@ -2768,8 +2763,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T15:39:21.013989+00:00",
-   "looked_up": "2026-11-21T19:01:16+00:00",
+   "expires": "2027-02-25T18:59:26.956916+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -3849,11 +3844,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "binaire-pvt-ltd|swe|l1": {
-   "expires": "2026-11-21T19:08:01.828158+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
-   "status": "not_found"
   },
   "binated|fullstack|l1": {
    "expires": "2026-11-23T15:55:33.381419+00:00",
@@ -6267,8 +6257,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T11:48:27.175871+00:00",
-   "looked_up": "2026-11-21T19:01:16+00:00",
+   "expires": "2027-02-13T19:36:37.689199+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -11097,11 +11087,6 @@
    "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
-  "gehealthcare|erp|l1": {
-   "expires": "2026-11-21T19:37:57.203720+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "gemba-concepts|devops|l1": {
    "expires": "2026-11-30T07:29:13.139065+00:00",
    "looked_up": "2026-11-20T17:01:23+00:00",
@@ -14247,11 +14232,6 @@
    "looked_up": "2026-11-17T13:01:24+00:00",
    "status": "not_found"
   },
-  "infrafino|swe|l1": {
-   "expires": "2026-11-21T19:09:07.268013+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
-   "status": "not_found"
-  },
   "infratech-insights|mobile|l1": {
    "expires": "2026-12-02T12:55:57.554841+00:00",
    "looked_up": "2026-11-16T14:01:26+00:00",
@@ -15163,8 +15143,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T17:03:36.564962+00:00",
-   "looked_up": "2026-11-21T19:01:16+00:00",
+   "expires": "2027-02-18T12:11:18.536722+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20033,8 +20013,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T20:30:45.532861+00:00",
-   "looked_up": "2026-11-21T19:01:16+00:00",
+   "expires": "2027-02-14T20:34:06.556032+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24078,8 +24058,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:37:03.475978+00:00",
-   "looked_up": "2026-11-21T19:01:16+00:00",
+   "expires": "2027-02-21T12:54:23.720301+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25784,6 +25764,11 @@
   "tailormade-journeys-limited|fullstack|l1": {
    "expires": "2026-12-02T20:55:05.559617+00:00",
    "looked_up": "2026-11-20T17:01:23+00:00",
+   "status": "not_found"
+  },
+  "tailormade-journeys-limited|swe|l1": {
+   "expires": "2026-12-07T12:53:15.009874+00:00",
+   "looked_up": "2026-11-21T20:01:20+00:00",
    "status": "not_found"
   },
   "talent-glider|swe|l1": {
@@ -30813,8 +30798,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2567,
-  "lookups_today": 54,
+  "lookups_month": 2568,
+  "lookups_today": 55,
   "month": "2026-11"
  }
 }
