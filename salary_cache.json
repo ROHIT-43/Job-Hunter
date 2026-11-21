@@ -812,11 +812,6 @@
    "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
-  "afterquery-experts|swe|l1": {
-   "expires": "2026-11-21T07:40:16.946230+00:00",
-   "looked_up": "2026-11-02T08:01:31+00:00",
-   "status": "not_found"
-  },
   "agam-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2788,8 +2783,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T14:09:17.665551+00:00",
-   "looked_up": "2026-11-21T07:01:20+00:00",
+   "expires": "2027-02-17T09:34:00.405722+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -3316,6 +3311,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "axitech-india|swe|l1": {
+   "expires": "2026-12-08T14:06:08.901746+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
+   "status": "not_found"
   },
   "axonstack|swe|l1": {
    "expires": "2026-11-22T10:50:45.386383+00:00",
@@ -7093,8 +7093,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:37:48.641574+00:00",
-   "looked_up": "2026-11-21T07:01:20+00:00",
+   "expires": "2027-02-26T04:34:40.144059+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -7158,6 +7158,11 @@
   "cubictransportationsystems|data|l1": {
    "expires": "2026-11-27T04:00:41.542343+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
+   "status": "not_found"
+  },
+  "cubix-automation-private-limited|swe|l1": {
+   "expires": "2026-12-01T19:11:58.050987+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "status": "not_found"
   },
   "cult.fit|security|l1": {
@@ -10947,6 +10952,11 @@
    "looked_up": "2026-11-03T09:01:35+00:00",
    "status": "not_found"
   },
+  "futurefunding-ai|fullstack|l1": {
+   "expires": "2026-11-29T17:56:32.770084+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
+   "status": "not_found"
+  },
   "fuzixel-technologies-private-limited|erp|l1": {
    "expires": "2026-11-27T12:54:36.055478+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
@@ -11038,11 +11048,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "gcrs-group|frontend|l1": {
-   "expires": "2026-11-21T07:59:04.796045+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
-   "status": "not_found"
   },
   "gcrs-group|swe|l1": {
    "expires": "2026-11-24T06:28:04.674993+00:00",
@@ -11903,8 +11908,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:28:24.646075+00:00",
-   "looked_up": "2026-11-21T07:01:20+00:00",
+   "expires": "2027-02-13T17:31:58.115844+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -12468,11 +12473,6 @@
   "heratweb|erp|l1": {
    "expires": "2026-11-27T12:22:09.974210+00:00",
    "looked_up": "2026-11-19T08:01:19+00:00",
-   "status": "not_found"
-  },
-  "hermes-corporate|fullstack|l1": {
-   "expires": "2026-11-21T07:02:09.655905+00:00",
-   "looked_up": "2026-11-03T17:01:35+00:00",
    "status": "not_found"
   },
   "heuristics-informatics|erp|l1": {
@@ -15156,8 +15156,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T19:38:30.423625+00:00",
-   "looked_up": "2026-11-21T07:01:20+00:00",
+   "expires": "2027-02-25T07:22:43.963972+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16246,8 +16246,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:21:58.215670+00:00",
-   "looked_up": "2026-11-21T07:01:20+00:00",
+   "expires": "2027-02-13T17:10:36.984208+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -20021,10 +20021,10 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T01:09:09.298562+00:00",
-   "looked_up": "2026-11-18T18:01:27+00:00",
-   "max_lpa": 24.0,
-   "min_lpa": 18.0,
+   "expires": "2027-02-18T09:18:30.093188+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
+   "max_lpa": 22.0,
+   "min_lpa": 12.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -24053,6 +24053,11 @@
    ],
    "status": "found"
   },
+  "sharda-consultancy-services-staffingsoftwareservices|erp|l1": {
+   "expires": "2026-12-04T10:52:37.497346+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
+   "status": "not_found"
+  },
   "sharda-consultancy-services-staffingsoftwareservices|fullstack|l1": {
    "expires": "2026-11-26T13:19:06.781930+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
@@ -24061,8 +24066,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:13:53.626527+00:00",
-   "looked_up": "2026-11-19T07:01:25+00:00",
+   "expires": "2027-02-24T08:52:16.595025+00:00",
+   "looked_up": "2026-11-21T08:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30679,11 +30684,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "zonvoir-technologies|swe|l1": {
-   "expires": "2026-11-21T07:06:33.591680+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
-   "status": "not_found"
-  },
   "zorba-consulting-india|data|l1": {
    "expires": "2026-11-23T22:44:24.282771+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -30759,8 +30759,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2528,
-  "lookups_today": 15,
+  "lookups_month": 2532,
+  "lookups_today": 19,
   "month": "2026-11"
  }
 }
