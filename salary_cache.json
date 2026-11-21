@@ -2785,6 +2785,20 @@
    "looked_up": "2026-11-05T12:01:24+00:00",
    "status": "not_found"
   },
+  "ask-your-whyy|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-21T14:09:17.665551+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "max_lpa": 3.0,
+   "min_lpa": 2.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "asmita-india-realty|swe|l1": {
    "expires": "2026-11-27T01:55:48.461674+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
@@ -2810,11 +2824,6 @@
    "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
-  "astek|data|l1": {
-   "expires": "2026-11-21T06:31:23.944678+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
-   "status": "not_found"
-  },
   "astek|swe|l1": {
    "expires": "2026-11-23T22:51:35.753213+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -2823,11 +2832,6 @@
   "astellaspharmainc|swe|l1": {
    "expires": "2026-11-27T09:07:27.028089+00:00",
    "looked_up": "2026-11-06T16:01:16+00:00",
-   "status": "not_found"
-  },
-  "astika-software-technologies-private-limited|swe|l1": {
-   "expires": "2026-11-21T06:28:46.484143+00:00",
-   "looked_up": "2026-11-02T20:01:29+00:00",
    "status": "not_found"
   },
   "astranovamobility|fullstack|l1": {
@@ -3757,8 +3761,8 @@
   "bexfordtech|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T19:32:23.372250+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-20T23:49:12.604845+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 2.4,
    "sources": [
@@ -4339,11 +4343,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bookmytournow|frontend|l1": {
-   "expires": "2026-11-21T06:55:03.278204+00:00",
-   "looked_up": "2026-11-11T05:01:21+00:00",
-   "status": "not_found"
   },
   "bookmytournow|mobile|l1": {
    "expires": "2026-11-23T02:46:33.324698+00:00",
@@ -7094,8 +7093,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:10:19.019624+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-22T16:37:48.641574+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -7588,6 +7587,11 @@
   "data-eminence|fullstack|l1": {
    "expires": "2026-12-03T05:52:50.556860+00:00",
    "looked_up": "2026-11-16T16:01:21+00:00",
+   "status": "not_found"
+  },
+  "data-eminence|mobile|l1": {
+   "expires": "2026-12-04T17:15:37.831952+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "status": "not_found"
   },
   "data-eminence|swe|l1": {
@@ -8500,6 +8504,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "doxel-sr-autonomous-inc.-|frontend|l1": {
+   "expires": "2026-12-02T22:07:41.510629+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "status": "not_found"
   },
   "drishticon|swe|l1": {
    "basis": "ctc",
@@ -9595,6 +9604,11 @@
    "status": "found",
    "year": 2023
   },
+  "estar-engineers-pvt-ltd|swe|l1": {
+   "expires": "2026-12-09T21:15:12.973196+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "status": "not_found"
+  },
   "estate-now|fullstack|l1": {
    "expires": "2026-11-30T22:42:44.898638+00:00",
    "looked_up": "2026-11-16T13:01:25+00:00",
@@ -9892,11 +9906,6 @@
   "experityhealth|data|l2": {
    "expires": "2026-11-25T17:40:32.718431+00:00",
    "looked_up": "2026-11-09T11:01:23+00:00",
-   "status": "not_found"
-  },
-  "experityhealth|swe|l2": {
-   "expires": "2026-11-21T06:43:24.951762+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
    "status": "not_found"
   },
   "experityhealth|swe|l3": {
@@ -11894,8 +11903,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:46:53.723899+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-15T15:28:24.646075+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -15147,8 +15156,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T04:44:28.937945+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-19T19:38:30.423625+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15877,11 +15886,6 @@
    "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
-  "kore-inc|devops|l1": {
-   "expires": "2026-11-21T06:18:03.261119+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
   "kovalty|swe|l1": {
    "expires": "2026-11-24T08:43:04.203399+00:00",
    "looked_up": "2026-11-15T05:01:21+00:00",
@@ -16242,8 +16246,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T16:29:05.022074+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-19T13:21:58.215670+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -20266,11 +20270,6 @@
    "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
-  "oxybills|swe|l1": {
-   "expires": "2026-11-21T06:23:46.872728+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "p360|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22212,6 +22211,22 @@
    "status": "found",
    "year": 2025
   },
+  "r-k-infotech|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-18T11:44:43.721953+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "max_lpa": 1.6,
+   "min_lpa": 1.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rk-infotech-salaries/rajkot-location"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "r-systems|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22782,6 +22797,26 @@
    ],
    "status": "found"
   },
+  "rg2it-solutions-limited|frontend|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-25T20:25:39.116623+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rg2-it-solutions-salaries"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/rg2-it-solutions-salaries/ui-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "rippling|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -23046,11 +23081,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "rudraitnetworks|frontend|l1": {
-   "expires": "2026-11-21T06:42:20.858236+00:00",
-   "looked_up": "2026-11-08T16:01:17+00:00",
-   "status": "not_found"
   },
   "runmapglobal|erp|l1": {
    "expires": "2026-11-29T03:13:03.859478+00:00",
@@ -26558,6 +26588,11 @@
    "status": "found",
    "year": 2025
   },
+  "tekskyes1|swe|l1": {
+   "expires": "2026-12-05T15:48:14.594855+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
+   "status": "not_found"
+  },
   "teksystems|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29363,8 +29398,8 @@
   "weareuplers|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T19:20:59.975892+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-23T15:02:41.054505+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 15.0,
    "sources": [
@@ -29967,6 +30002,11 @@
   "yachtlocharter|fullstack|l1": {
    "expires": "2026-12-03T10:12:10.550693+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
+   "status": "not_found"
+  },
+  "yaliaerospace|swe|l1": {
+   "expires": "2026-12-10T05:45:52.356133+00:00",
+   "looked_up": "2026-11-21T07:01:20+00:00",
    "status": "not_found"
   },
   "yash-technologies-middle-east-region|data|l1": {
@@ -30719,8 +30759,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2521,
-  "lookups_today": 8,
+  "lookups_month": 2528,
+  "lookups_today": 15,
   "month": "2026-11"
  }
 }
