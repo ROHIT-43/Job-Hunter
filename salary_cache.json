@@ -2778,8 +2778,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:10:44.963262+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-20T23:01:14.038591+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6270,8 +6270,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:53:48.469155+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-15T17:43:29.625685+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7088,8 +7088,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:59:02.960466+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-24T00:07:12.776113+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -8542,6 +8542,26 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "duck-creek-technologies|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T02:59:18.821811+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
+   "max_lpa": 14.9,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/duck-creek-salaries/software-engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/duck-creek-technologies/salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "dunnhumby|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8600,6 +8620,11 @@
   "dvk-analytics|swe|l1": {
    "expires": "2026-12-06T09:56:32.345907+00:00",
    "looked_up": "2026-11-17T04:01:21+00:00",
+   "status": "not_found"
+  },
+  "dwellfi|devops|l1": {
+   "expires": "2026-11-29T14:21:51.682151+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "status": "not_found"
   },
   "dwellfi|frontend|l1": {
@@ -11898,8 +11923,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:40:46.156462+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-24T07:37:15.616136+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -16236,8 +16261,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:51:56.137733+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-21T06:07:37.497810+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -20006,8 +20031,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:21:26.623969+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-22T16:55:59.573613+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24051,8 +24076,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T00:31:21.426737+00:00",
-   "looked_up": "2026-11-21T09:51:51+00:00",
+   "expires": "2027-02-23T18:27:49.876126+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25171,11 +25196,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "stansyssoftwaresolutions|swe|l1": {
-   "expires": "2026-11-21T09:53:39.503683+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
-   "status": "not_found"
   },
   "starsoftware-official|swe|l1": {
    "basis": "base",
@@ -28678,6 +28698,11 @@
    "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
+  "vertex-suite|fullstack|l1": {
+   "expires": "2026-12-05T02:45:37.545263+00:00",
+   "looked_up": "2026-11-21T10:01:16+00:00",
+   "status": "not_found"
+  },
   "vertiv|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -30734,8 +30759,8 @@
  },
  "meta": {
   "day": "2026-11-21",
-  "lookups_month": 2534,
-  "lookups_today": 21,
+  "lookups_month": 2537,
+  "lookups_today": 24,
   "month": "2026-11"
  }
 }
