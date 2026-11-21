@@ -2778,8 +2778,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T23:01:14.038591+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-20T07:46:04.172413+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -5940,11 +5940,6 @@
    "looked_up": "2026-11-09T06:01:20+00:00",
    "status": "not_found"
   },
-  "clearwateranalytics|swe|l2": {
-   "expires": "2026-11-21T10:07:32.147557+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
-   "status": "not_found"
-  },
   "clevertap|security|l1": {
    "expires": "2026-11-29T22:53:41.297407+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
@@ -6270,8 +6265,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:43:29.625685+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-13T04:11:05.420509+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7088,8 +7083,8 @@
   "crintnl.com|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T00:07:12.776113+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-15T19:07:23.022531+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 3.6,
    "min_lpa": 3.0,
    "sources": [
@@ -11923,8 +11918,8 @@
   "growthheist|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:37:15.616136+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-24T04:09:52.340345+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 25.0,
    "min_lpa": 14.0,
    "sources": [
@@ -16261,8 +16256,8 @@
   "legatioco|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T06:07:37.497810+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-21T06:08:04.304456+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 5.0,
    "min_lpa": 4.0,
    "sources": [
@@ -20031,8 +20026,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:55:59.573613+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-16T06:33:05.904538+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -24076,8 +24071,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T18:27:49.876126+00:00",
-   "looked_up": "2026-11-21T10:01:16+00:00",
+   "expires": "2027-02-20T10:27:21.131116+00:00",
+   "looked_up": "2026-11-21T11:01:29+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25334,11 +25329,6 @@
   "strateworks-the-business-it-hub|swe|l1": {
    "expires": "2026-12-02T12:44:31.976701+00:00",
    "looked_up": "2026-11-14T09:01:18+00:00",
-   "status": "not_found"
-  },
-  "stratign|swe|l1": {
-   "expires": "2026-11-21T10:48:21.344877+00:00",
-   "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
   "strider-electronic-systems-private-limited|swe|l1": {
