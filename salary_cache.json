@@ -1272,11 +1272,6 @@
    "looked_up": "2026-11-04T09:01:30+00:00",
    "status": "not_found"
   },
-  "allegis-global-solutions|swe|l2": {
-   "expires": "2026-11-22T11:17:17.022256+00:00",
-   "looked_up": "2026-11-06T13:01:18+00:00",
-   "status": "not_found"
-  },
   "allicabank|security|l1": {
    "expires": "2026-12-05T00:27:40.297078+00:00",
    "looked_up": "2026-11-18T20:01:24+00:00",
@@ -10043,11 +10038,6 @@
    "status": "found",
    "year": 2026
   },
-  "fedex-global-capability-services-–-hyderabad|swe|l2": {
-   "expires": "2026-11-22T11:23:49.619008+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
-  },
   "fedex|fullstack|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -15018,8 +15008,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T01:45:00.567659+00:00",
-   "looked_up": "2026-11-22T11:01:18+00:00",
+   "expires": "2027-02-16T16:07:16.108142+00:00",
+   "looked_up": "2026-11-22T11:28:43+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18116,11 +18106,6 @@
   "mri-software-llc|swe|l3": {
    "expires": "2026-12-02T04:26:58.023530+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
-   "status": "not_found"
-  },
-  "msg-global|devops|l1": {
-   "expires": "2026-11-22T11:16:17.301814+00:00",
-   "looked_up": "2026-11-04T16:01:28+00:00",
    "status": "not_found"
   },
   "msg-global|frontend|l1": {
