@@ -701,11 +701,6 @@
    ],
    "status": "found"
   },
-  "admiezo|fullstack|l1": {
-   "expires": "2026-11-22T19:46:47.129780+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
-   "status": "not_found"
-  },
   "adobe|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11816,6 +11811,11 @@
    "looked_up": "2026-11-07T13:01:17+00:00",
    "status": "not_found"
   },
+  "grull-space|swe|l1": {
+   "expires": "2026-12-02T14:48:07.911765+00:00",
+   "looked_up": "2026-11-22T20:01:32+00:00",
+   "status": "not_found"
+  },
   "gruveai|swe|l1": {
    "expires": "2026-11-27T03:29:13.134817+00:00",
    "looked_up": "2026-11-19T10:01:15+00:00",
@@ -12583,8 +12583,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T07:46:46.000008+00:00",
-   "looked_up": "2026-11-22T19:39:19+00:00",
+   "expires": "2027-02-25T22:36:05.523848+00:00",
+   "looked_up": "2026-11-22T20:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16049,8 +16049,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-11T15:18:54.336340+00:00",
-   "looked_up": "2026-11-15T19:01:19+00:00",
+   "expires": "2027-02-19T05:15:35.010841+00:00",
+   "looked_up": "2026-11-22T20:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16571,8 +16571,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T13:58:57.609781+00:00",
-   "looked_up": "2026-11-22T19:39:19+00:00",
+   "expires": "2027-02-23T23:58:18.326615+00:00",
+   "looked_up": "2026-11-22T20:01:32+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -30528,8 +30528,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2599,
-  "lookups_today": 28,
+  "lookups_month": 2600,
+  "lookups_today": 29,
   "month": "2026-11"
  }
 }
