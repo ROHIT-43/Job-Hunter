@@ -5647,11 +5647,6 @@
    "looked_up": "2026-11-06T12:01:18+00:00",
    "status": "not_found"
   },
-  "chevron|data|l1": {
-   "expires": "2026-11-22T12:24:50.718783+00:00",
-   "looked_up": "2026-11-04T13:01:29+00:00",
-   "status": "not_found"
-  },
   "chinmay-finlease-limited|devops|l1": {
    "expires": "2026-12-01T09:49:56.898995+00:00",
    "looked_up": "2026-11-17T09:01:19+00:00",
@@ -5855,11 +5850,6 @@
   "claranet-india|devops|l1": {
    "expires": "2026-12-07T20:19:21.981687+00:00",
    "looked_up": "2026-11-18T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "clarity-medical-pvt-ltd|swe|l1": {
-   "expires": "2026-11-22T12:59:20.661556+00:00",
-   "looked_up": "2026-11-11T05:01:21+00:00",
    "status": "not_found"
   },
   "cleargrid-ai|swe|l1": {
@@ -9845,11 +9835,6 @@
    "looked_up": "2026-11-09T11:01:23+00:00",
    "status": "not_found"
   },
-  "experityhealth|swe|l3": {
-   "expires": "2026-11-22T12:48:58.946510+00:00",
-   "looked_up": "2026-11-14T09:01:18+00:00",
-   "status": "not_found"
-  },
   "expertalent-hire|swe|l1": {
    "expires": "2026-12-04T10:52:48.836894+00:00",
    "looked_up": "2026-11-18T17:01:21+00:00",
@@ -12607,8 +12592,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T13:51:53.532334+00:00",
-   "looked_up": "2026-11-22T12:01:19+00:00",
+   "expires": "2027-02-23T21:05:15.046399+00:00",
+   "looked_up": "2026-11-22T13:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -14141,11 +14126,6 @@
    "looked_up": "2026-11-16T14:01:26+00:00",
    "status": "not_found"
   },
-  "infrys|fullstack|l1": {
-   "expires": "2026-11-22T12:48:47.317870+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
   "infynova|swe|l1": {
    "expires": "2026-12-01T23:46:35.962240+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
@@ -15042,8 +15022,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:21:14.411441+00:00",
-   "looked_up": "2026-11-22T12:01:19+00:00",
+   "expires": "2027-02-19T05:12:31.376435+00:00",
+   "looked_up": "2026-11-22T13:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15999,11 +15979,6 @@
     }
    ],
    "status": "found"
-  },
-  "kvftech|devops|l1": {
-   "expires": "2026-11-22T13:00:54.462038+00:00",
-   "looked_up": "2026-11-08T02:01:17+00:00",
-   "status": "not_found"
   },
   "kyndryl|swe|l1": {
    "expires": "2026-12-01T20:10:35.476807+00:00",
@@ -20295,11 +20270,6 @@
    "status": "found",
    "year": 2024
   },
-  "parul-university|swe|l1": {
-   "expires": "2026-11-22T12:50:53.510909+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
   "paydohmoney|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -20943,11 +20913,6 @@
   "practo-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-26T19:42:43.891903+00:00",
    "looked_up": "2026-11-07T01:01:15+00:00",
-   "status": "not_found"
-  },
-  "pragyani-business-solution|swe|l1": {
-   "expires": "2026-11-22T12:32:36.288299+00:00",
-   "looked_up": "2026-11-12T14:01:22+00:00",
    "status": "not_found"
   },
   "prayosha-automation-private-limited|frontend|l1": {
@@ -23029,11 +22994,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "sabthik|erp|l1": {
-   "expires": "2026-11-22T12:34:04.788593+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
   },
   "safe-tprm|swe|l2": {
    "basis": "ctc",
