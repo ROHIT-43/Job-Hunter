@@ -308,6 +308,11 @@
    "looked_up": "2026-11-22T12:01:19+00:00",
    "status": "not_found"
   },
+  "accelleron-industries|swe|l1": {
+   "expires": "2026-12-07T14:14:03.630365+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
+   "status": "not_found"
+  },
   "accelya|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3263,11 +3268,6 @@
    "looked_up": "2026-11-21T08:01:18+00:00",
    "status": "not_found"
   },
-  "ayurak|security|l1": {
-   "expires": "2026-11-22T16:59:10.198885+00:00",
-   "looked_up": "2026-11-06T14:01:14+00:00",
-   "status": "not_found"
-  },
   "azislyai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -5265,6 +5265,11 @@
   "caterpillar-inc|devops|l1": {
    "expires": "2026-11-24T19:43:55.045430+00:00",
    "looked_up": "2026-11-09T17:01:26+00:00",
+   "status": "not_found"
+  },
+  "caterpillar-inc|security|l1": {
+   "expires": "2026-12-13T09:39:31.373307+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
    "status": "not_found"
   },
   "caterpillar-inc|swe|l1": {
@@ -10685,6 +10690,11 @@
    "status": "found",
    "year": 2025
   },
+  "forbes-advisor|data|l1": {
+   "expires": "2026-12-09T14:01:32.691512+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
+   "status": "not_found"
+  },
   "ford-motor-company|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12073,11 +12083,6 @@
    "status": "found",
    "year": 2026
   },
-  "harris-global-business-services|swe|l1": {
-   "expires": "2026-11-22T16:56:44.797391+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
   "hawk-sense-business-solutions-pvt-ltd|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12597,8 +12602,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T22:05:10.962272+00:00",
-   "looked_up": "2026-11-22T16:01:25+00:00",
+   "expires": "2027-02-24T03:15:08.687753+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15027,8 +15032,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:16:57.941108+00:00",
-   "looked_up": "2026-11-22T16:01:25+00:00",
+   "expires": "2027-02-17T01:46:49.375626+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16590,8 +16595,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T17:35:44.680999+00:00",
-   "looked_up": "2026-11-22T16:01:25+00:00",
+   "expires": "2027-02-24T03:13:41.631930+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20150,11 +20155,6 @@
    "looked_up": "2026-11-16T12:01:23+00:00",
    "status": "not_found"
   },
-  "paisabazaar|mobile|l1": {
-   "expires": "2026-11-22T16:18:13.285990+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "pal.tech|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23361,11 +23361,6 @@
    ],
    "status": "found",
    "year": 2022
-  },
-  "saraswatiglobalrugs|erp|l1": {
-   "expires": "2026-11-22T16:29:45.068316+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
-   "status": "not_found"
   },
   "sarjen-system-pvt--ltd-|erp|l1": {
    "basis": "ctc",
@@ -27871,6 +27866,26 @@
    ],
    "status": "found"
   },
+  "urbancompany|mobile|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-25T17:36:01.130531+00:00",
+   "looked_up": "2026-11-22T17:01:31+00:00",
+   "max_lpa": 41.4,
+   "min_lpa": 32.4,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/urban-company-salaries/sde-2"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://www.ambitionbox.com/salaries/urban-company-salaries/software-engineer2"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "urbancompany|swe|l2": {
    "basis": "base",
    "confidence": "medium",
@@ -30546,8 +30561,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2591,
-  "lookups_today": 20,
+  "lookups_month": 2595,
+  "lookups_today": 24,
   "month": "2026-11"
  }
 }
