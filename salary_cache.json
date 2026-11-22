@@ -2743,8 +2743,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:10:57.545105+00:00",
-   "looked_up": "2026-11-22T02:01:27+00:00",
+   "expires": "2027-02-23T14:51:07.260442+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6197,8 +6197,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T14:17:13.980493+00:00",
-   "looked_up": "2026-11-22T02:01:27+00:00",
+   "expires": "2027-02-13T13:23:51.608643+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -8369,11 +8369,6 @@
   "dooritt|devops|l1": {
    "expires": "2026-11-23T09:27:46.652612+00:00",
    "looked_up": "2026-11-07T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "dooritt|fullstack|l1": {
-   "expires": "2026-11-22T02:03:37.750030+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
    "status": "not_found"
   },
   "dooscale|swe|l1": {
@@ -13092,11 +13087,6 @@
    "looked_up": "2026-11-13T16:01:23+00:00",
    "status": "not_found"
   },
-  "hyper-lychee-labs|swe|l1": {
-   "expires": "2026-11-22T02:39:42.771119+00:00",
-   "looked_up": "2026-11-09T11:01:23+00:00",
-   "status": "not_found"
-  },
   "hypersoft-technologies-ltd|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15038,8 +15028,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T08:14:43.190331+00:00",
-   "looked_up": "2026-11-22T02:01:27+00:00",
+   "expires": "2027-02-13T23:12:17.708167+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15770,11 +15760,6 @@
   },
   "konrad-group|mobile|l1": {
    "expires": "2026-11-22T15:22:20.052483+00:00",
-   "looked_up": "2026-11-05T18:01:20+00:00",
-   "status": "not_found"
-  },
-  "konrad-group|swe|l1": {
-   "expires": "2026-11-22T02:38:02.237928+00:00",
    "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
@@ -16517,11 +16502,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "lpl-global-capability-center|swe|l2": {
-   "expires": "2026-11-22T02:14:03.217452+00:00",
-   "looked_up": "2026-11-03T19:01:57+00:00",
-   "status": "not_found"
   },
   "lrn|swe|l1": {
    "basis": "ctc",
@@ -19893,8 +19873,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T07:13:14.991348+00:00",
-   "looked_up": "2026-11-22T02:01:27+00:00",
+   "expires": "2027-02-17T12:23:51.712945+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -20763,6 +20743,11 @@
   "pioneer-machines-&amp;-automation-pvt.-ltd.|swe|l1": {
    "expires": "2026-12-03T23:49:24.184601+00:00",
    "looked_up": "2026-11-17T05:01:20+00:00",
+   "status": "not_found"
+  },
+  "pixelcode-technologies|security|l1": {
+   "expires": "2026-12-04T18:33:41.896719+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "status": "not_found"
   },
   "planfirma-technologies-private-limited|swe|l1": {
@@ -23903,8 +23888,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:29:03.523918+00:00",
-   "looked_up": "2026-11-22T02:01:27+00:00",
+   "expires": "2027-02-15T23:07:31.400367+00:00",
+   "looked_up": "2026-11-22T03:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30628,8 +30613,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2572,
-  "lookups_today": 1,
+  "lookups_month": 2573,
+  "lookups_today": 2,
   "month": "2026-11"
  }
 }
