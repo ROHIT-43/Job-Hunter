@@ -4789,6 +4789,11 @@
    "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
   },
+  "c3-ai-enterprise-ai|swe|l1": {
+   "expires": "2026-12-07T08:00:07.594435+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
+   "status": "not_found"
+  },
   "c3i-hub|security|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -7881,11 +7886,6 @@
    "looked_up": "2026-11-09T10:01:22+00:00",
    "status": "not_found"
   },
-  "deltek|devops|l1": {
-   "expires": "2026-11-22T13:18:17.031270+00:00",
-   "looked_up": "2026-11-13T13:01:23+00:00",
-   "status": "not_found"
-  },
   "deltek|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -8415,6 +8415,11 @@
   "dp-jewellers|frontend|l1": {
    "expires": "2026-12-06T15:24:29.102670+00:00",
    "looked_up": "2026-11-21T14:01:22+00:00",
+   "status": "not_found"
+  },
+  "dripcapital|swe|l1": {
+   "expires": "2026-11-30T09:33:31.782883+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
    "status": "not_found"
   },
   "drishticon|swe|l1": {
@@ -11409,6 +11414,11 @@
    "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
+  "goods-and-more|swe|l1": {
+   "expires": "2026-12-06T20:35:21.092379+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
+   "status": "not_found"
+  },
   "goodscoreapp|data|l1": {
    "expires": "2026-11-25T04:55:48.677257+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -12094,6 +12104,11 @@
    "status": "found",
    "year": 2026
   },
+  "hbengineering-india|swe|l1": {
+   "expires": "2026-12-12T01:43:37.991028+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
+   "status": "not_found"
+  },
   "hbs-solutions|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12592,8 +12607,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T21:05:15.046399+00:00",
-   "looked_up": "2026-11-22T13:01:20+00:00",
+   "expires": "2027-02-14T11:15:51.089928+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15022,8 +15037,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T05:12:31.376435+00:00",
-   "looked_up": "2026-11-22T13:01:20+00:00",
+   "expires": "2027-02-24T17:34:05.996028+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -23260,11 +23275,6 @@
    "status": "found",
    "year": 2025
   },
-  "sanmina|swe|l2": {
-   "expires": "2026-11-22T13:59:31.228939+00:00",
-   "looked_up": "2026-11-10T22:01:19+00:00",
-   "status": "not_found"
-  },
   "sanvi-engineering-and-business-consulting-solutions|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -24243,6 +24253,11 @@
   "sisir-radar|swe|l1": {
    "expires": "2026-11-28T03:46:22.640427+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
+   "status": "not_found"
+  },
+  "sitetracker|erp|l2": {
+   "expires": "2026-12-06T13:00:44.384783+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
    "status": "not_found"
   },
   "skildai|mobile|l1": {
@@ -26197,11 +26212,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "technology-innovation-hub-mkce|fullstack|l1": {
-   "expires": "2026-11-22T13:48:29.591390+00:00",
-   "looked_up": "2026-11-15T10:01:18+00:00",
-   "status": "not_found"
   },
   "technorishi-consulting-pvt.-ltd.|mobile|l1": {
    "basis": "posted",
@@ -28782,6 +28792,11 @@
    "status": "found",
    "year": 2026
   },
+  "vividedgecorp|erp|l1": {
+   "expires": "2026-12-12T11:22:32.463427+00:00",
+   "looked_up": "2026-11-22T14:01:24+00:00",
+   "status": "not_found"
+  },
   "vml|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -30537,8 +30552,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2582,
-  "lookups_today": 11,
+  "lookups_month": 2588,
+  "lookups_today": 17,
   "month": "2026-11"
  }
 }
