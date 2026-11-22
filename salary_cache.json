@@ -3903,6 +3903,11 @@
    "status": "found",
    "year": 2024
   },
+  "bizlink-com|frontend|l1": {
+   "expires": "2026-12-01T14:49:47.869164+00:00",
+   "looked_up": "2026-11-22T09:01:18+00:00",
+   "status": "not_found"
+  },
   "black-and-veatch|swe|l1": {
    "expires": "2026-11-28T11:49:14.137635+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
@@ -15023,8 +15028,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T09:10:15.823191+00:00",
-   "looked_up": "2026-11-22T08:01:24+00:00",
+   "expires": "2027-02-18T21:09:07.960085+00:00",
+   "looked_up": "2026-11-22T09:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -21779,6 +21784,11 @@
    "looked_up": "2026-11-19T14:01:19+00:00",
    "status": "not_found"
   },
+  "quantumcommit|data|l1": {
+   "expires": "2026-12-11T01:28:55.402512+00:00",
+   "looked_up": "2026-11-22T09:01:18+00:00",
+   "status": "not_found"
+  },
   "quantumcommit|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -27757,11 +27767,6 @@
    "status": "found",
    "year": 2025
   },
-  "unisys|security|l1": {
-   "expires": "2026-11-22T08:16:48.223891+00:00",
-   "looked_up": "2026-11-02T23:01:34+00:00",
-   "status": "not_found"
-  },
   "united-airlines-india-knowledge-center|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -30568,8 +30573,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2575,
-  "lookups_today": 4,
+  "lookups_month": 2577,
+  "lookups_today": 6,
   "month": "2026-11"
  }
 }
