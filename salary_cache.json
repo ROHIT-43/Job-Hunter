@@ -2743,8 +2743,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:40:28.663567+00:00",
-   "looked_up": "2026-11-22T03:17:07+00:00",
+   "expires": "2027-02-19T12:59:07.244748+00:00",
+   "looked_up": "2026-11-22T04:01:15+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6197,8 +6197,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T20:38:18.756336+00:00",
-   "looked_up": "2026-11-22T03:17:07+00:00",
+   "expires": "2027-02-24T08:36:51.045670+00:00",
+   "looked_up": "2026-11-22T04:01:15+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15028,8 +15028,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T20:54:50.324745+00:00",
-   "looked_up": "2026-11-22T03:17:07+00:00",
+   "expires": "2027-02-26T10:27:29.049592+00:00",
+   "looked_up": "2026-11-22T04:01:15+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15742,11 +15742,6 @@
     }
    ],
    "status": "found"
-  },
-  "komodo-health|erp|l1": {
-   "expires": "2026-11-22T03:25:56.663870+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
   },
   "kone|devops|l1": {
    "expires": "2026-11-27T06:45:16.340998+00:00",
@@ -19873,8 +19868,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T16:28:23.955597+00:00",
-   "looked_up": "2026-11-22T03:17:07+00:00",
+   "expires": "2027-02-25T23:25:41.911432+00:00",
+   "looked_up": "2026-11-22T04:01:15+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -23888,8 +23883,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:02:05.132916+00:00",
-   "looked_up": "2026-11-22T03:17:07+00:00",
+   "expires": "2027-02-26T13:37:31.262518+00:00",
+   "looked_up": "2026-11-22T04:01:15+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -28783,11 +28778,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "vishay-intertechnology-inc-|swe|l1": {
-   "expires": "2026-11-22T03:56:58.535805+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
-   "status": "not_found"
   },
   "visionet-systems-inc-|devops|l1": {
    "expires": "2026-12-01T00:55:23.849779+00:00",
