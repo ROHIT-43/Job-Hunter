@@ -3268,11 +3268,6 @@
    "looked_up": "2026-11-21T08:01:18+00:00",
    "status": "not_found"
   },
-  "axonstack|swe|l1": {
-   "expires": "2026-11-22T10:50:45.386383+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
-   "status": "not_found"
-  },
   "ayurak|security|l1": {
    "expires": "2026-11-22T16:59:10.198885+00:00",
    "looked_up": "2026-11-06T14:01:14+00:00",
@@ -15023,8 +15018,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T09:29:50.840404+00:00",
-   "looked_up": "2026-11-22T10:01:16+00:00",
+   "expires": "2027-02-27T01:45:00.567659+00:00",
+   "looked_up": "2026-11-22T11:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -30548,11 +30543,6 @@
   "zylu|mobile|l1": {
    "expires": "2026-11-28T23:33:05.167824+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
-   "status": "not_found"
-  },
-  "zyoin|data|l1": {
-   "expires": "2026-11-22T10:53:53.845516+00:00",
-   "looked_up": "2026-11-04T07:01:28+00:00",
    "status": "not_found"
   },
   "传音控股集团|mobile|l1": {
