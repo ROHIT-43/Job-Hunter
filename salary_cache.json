@@ -303,6 +303,11 @@
    "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
+  "accel-digtial-ad-operations|data|l1": {
+   "expires": "2026-12-12T04:13:02.313522+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
+   "status": "not_found"
+  },
   "accelya|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1958,6 +1963,11 @@
   "anr-business-consulting|fullstack|l1": {
    "expires": "2026-11-29T05:57:51.174229+00:00",
    "looked_up": "2026-11-19T18:01:19+00:00",
+   "status": "not_found"
+  },
+  "anr-business-consulting|mobile|l1": {
+   "expires": "2026-12-06T22:01:02.163033+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
    "status": "not_found"
   },
   "anr-business-consulting|security|l1": {
@@ -8590,6 +8600,11 @@
    "status": "found",
    "year": 2026
   },
+  "ebay|devops|l1": {
+   "expires": "2026-12-09T07:51:43.239219+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
+   "status": "not_found"
+  },
   "echnotek|swe|l1": {
    "expires": "2026-12-04T09:35:59.007894+00:00",
    "looked_up": "2026-11-13T16:01:23+00:00",
@@ -10003,6 +10018,11 @@
     }
    ],
    "status": "found"
+  },
+  "farfetchedmedia|swe|l1": {
+   "expires": "2026-12-12T17:44:02.195418+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
+   "status": "not_found"
   },
   "fathershops|fullstack|l1": {
    "basis": "posted",
@@ -12584,6 +12604,20 @@
    "looked_up": "2026-11-06T16:01:16+00:00",
    "status": "not_found"
   },
+  "hiread-talent-co|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-17T13:51:53.532334+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "hirealpha|erp|l1": {
    "expires": "2026-11-29T05:12:11.844848+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -15008,8 +15042,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T16:07:16.108142+00:00",
-   "looked_up": "2026-11-22T11:28:43+00:00",
+   "expires": "2027-02-17T01:21:14.411441+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -21674,6 +21708,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "qualitrol|swe|l1": {
+   "expires": "2026-11-30T06:02:46.915615+00:00",
+   "looked_up": "2026-11-22T12:01:19+00:00",
+   "status": "not_found"
   },
   "qualys|devops|l1": {
    "expires": "2026-11-23T13:21:17.361841+00:00",
@@ -30538,8 +30577,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2577,
-  "lookups_today": 6,
+  "lookups_month": 2582,
+  "lookups_today": 11,
   "month": "2026-11"
  }
 }
