@@ -298,11 +298,6 @@
    ],
    "status": "found"
   },
-  "accedo-tv|devops|l1": {
-   "expires": "2026-11-22T18:46:26.463453+00:00",
-   "looked_up": "2026-11-09T13:01:27+00:00",
-   "status": "not_found"
-  },
   "accel-digtial-ad-operations|data|l1": {
    "expires": "2026-12-12T04:13:02.313522+00:00",
    "looked_up": "2026-11-22T12:01:19+00:00",
@@ -1230,11 +1225,6 @@
   "algoleap|data|l1": {
    "expires": "2026-11-25T14:18:08.425357+00:00",
    "looked_up": "2026-11-08T17:01:18+00:00",
-   "status": "not_found"
-  },
-  "algoleap|devops|l1": {
-   "expires": "2026-11-22T18:58:28.133881+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
    "status": "not_found"
   },
   "algoleap|erp|l1": {
@@ -3472,11 +3462,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "barclays-bank|mobile|l1": {
-   "expires": "2026-11-22T18:07:38.645595+00:00",
-   "looked_up": "2026-11-11T23:01:29+00:00",
-   "status": "not_found"
   },
   "barclays-bank|swe|l1": {
    "basis": "ctc",
@@ -5836,11 +5821,6 @@
   "citi|devops|l1": {
    "expires": "2026-12-02T16:11:18.792469+00:00",
    "looked_up": "2026-11-18T18:01:27+00:00",
-   "status": "not_found"
-  },
-  "citi|frontend|l1": {
-   "expires": "2026-11-22T18:08:55.986210+00:00",
-   "looked_up": "2026-11-03T12:01:28+00:00",
    "status": "not_found"
   },
   "citi|fullstack|l1": {
@@ -12618,8 +12598,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T21:38:16.515547+00:00",
-   "looked_up": "2026-11-22T18:01:23+00:00",
+   "expires": "2027-02-18T17:59:35.452343+00:00",
+   "looked_up": "2026-11-22T19:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16606,8 +16586,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T10:54:16.930287+00:00",
-   "looked_up": "2026-11-22T18:01:23+00:00",
+   "expires": "2027-02-17T15:22:07.102730+00:00",
+   "looked_up": "2026-11-22T19:01:29+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -22820,11 +22800,6 @@
    "looked_up": "2026-11-05T20:01:22+00:00",
    "status": "not_found"
   },
-  "rootlex|fullstack|l1": {
-   "expires": "2026-11-22T18:54:55.425273+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
-   "status": "not_found"
-  },
   "routemobile|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23913,11 +23888,6 @@
    "status": "found",
    "year": 2024
   },
-  "shieldbyteinfosecpvtltd|security|l1": {
-   "expires": "2026-11-22T18:41:42.602530+00:00",
-   "looked_up": "2026-11-13T04:01:20+00:00",
-   "status": "not_found"
-  },
   "shills-professional|swe|l1": {
    "expires": "2026-12-09T11:11:16.049623+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
@@ -24054,11 +24024,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "siemens-energy|swe|l1": {
-   "expires": "2026-11-22T18:46:28.054137+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
   },
   "siemens-healthineers|frontend|l1": {
    "basis": "ctc",
@@ -27816,11 +27781,6 @@
     }
    ],
    "status": "found"
-  },
-  "uplevyl|frontend|l1": {
-   "expires": "2026-11-22T18:44:27.162052+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
   },
   "ups|erp|l1": {
    "basis": "base",
