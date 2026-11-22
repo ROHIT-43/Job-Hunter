@@ -1201,11 +1201,6 @@
    "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
-  "algoforge-aerospace|swe|l1": {
-   "expires": "2026-11-22T15:08:13.381912+00:00",
-   "looked_up": "2026-11-02T23:01:34+00:00",
-   "status": "not_found"
-  },
   "algohire|swe|l1": {
    "expires": "2026-12-03T00:21:46.803668+00:00",
    "looked_up": "2026-11-16T09:01:46+00:00",
@@ -5038,11 +5033,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "capgemini|fullstack|l1": {
-   "expires": "2026-11-22T15:37:01.974129+00:00",
-   "looked_up": "2026-11-12T16:01:24+00:00",
-   "status": "not_found"
   },
   "capgemini|swe|l1": {
    "basis": "ctc",
@@ -11710,11 +11700,6 @@
    "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
-  "grapesworldwide|fullstack|l1": {
-   "expires": "2026-11-22T15:15:38.732546+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "gravyn-app|frontend|l1": {
    "expires": "2026-11-29T18:28:56.635386+00:00",
    "looked_up": "2026-11-09T22:01:23+00:00",
@@ -12612,8 +12597,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T04:16:09.044645+00:00",
-   "looked_up": "2026-11-22T15:01:22+00:00",
+   "expires": "2027-02-21T22:05:10.962272+00:00",
+   "looked_up": "2026-11-22T16:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15042,8 +15027,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:14:38.956592+00:00",
-   "looked_up": "2026-11-22T15:01:22+00:00",
+   "expires": "2027-02-19T21:16:57.941108+00:00",
+   "looked_up": "2026-11-22T16:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15759,11 +15744,6 @@
   },
   "konrad-group|fullstack|l1": {
    "expires": "2026-11-26T09:09:51.916768+00:00",
-   "looked_up": "2026-11-05T18:01:20+00:00",
-   "status": "not_found"
-  },
-  "konrad-group|mobile|l1": {
-   "expires": "2026-11-22T15:22:20.052483+00:00",
    "looked_up": "2026-11-05T18:01:20+00:00",
    "status": "not_found"
   },
@@ -16610,8 +16590,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T05:26:16.888149+00:00",
-   "looked_up": "2026-11-22T15:01:22+00:00",
+   "expires": "2027-02-25T17:35:44.680999+00:00",
+   "looked_up": "2026-11-22T16:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
