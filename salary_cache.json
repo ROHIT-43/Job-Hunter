@@ -6911,11 +6911,6 @@
    "looked_up": "2026-11-18T19:01:17+00:00",
    "status": "not_found"
   },
-  "credhive-fintech|swe|l1": {
-   "expires": "2026-11-22T21:26:45.428665+00:00",
-   "looked_up": "2026-11-09T17:01:26+00:00",
-   "status": "not_found"
-  },
   "creenosolutions|erp|l1": {
    "expires": "2026-12-02T18:18:19.158158+00:00",
    "looked_up": "2026-11-19T01:01:20+00:00",
@@ -8235,6 +8230,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "digy4official|fullstack|l1": {
+   "expires": "2026-12-04T05:06:25.892369+00:00",
+   "looked_up": "2026-11-22T22:01:25+00:00",
+   "status": "not_found"
   },
   "dikshatechnologies|mobile|l1": {
    "basis": "ctc",
@@ -12588,8 +12588,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T04:58:16.377310+00:00",
-   "looked_up": "2026-11-22T21:01:34+00:00",
+   "expires": "2027-02-24T05:25:37.907172+00:00",
+   "looked_up": "2026-11-22T22:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15160,11 +15160,6 @@
    "status": "found",
    "year": 2026
   },
-  "johnson-controls|swe|l2": {
-   "expires": "2026-11-22T21:11:43.444806+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "johnson-controls|swe|l3": {
    "expires": "2026-11-30T21:00:13.155553+00:00",
    "looked_up": "2026-11-18T09:01:19+00:00",
@@ -16054,8 +16049,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:29:44.585851+00:00",
-   "looked_up": "2026-11-22T21:01:34+00:00",
+   "expires": "2027-02-14T12:13:58.912367+00:00",
+   "looked_up": "2026-11-22T22:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16576,8 +16571,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T15:01:34.806947+00:00",
-   "looked_up": "2026-11-22T21:01:34+00:00",
+   "expires": "2027-02-14T18:09:18.038527+00:00",
+   "looked_up": "2026-11-22T22:01:25+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19487,11 +19482,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "official-quick-bites|swe|l1": {
-   "expires": "2026-11-22T21:46:05.716791+00:00",
-   "looked_up": "2026-11-05T07:01:17+00:00",
-   "status": "not_found"
   },
   "okta-inc-|devops|l1": {
    "basis": "ctc",
@@ -30518,8 +30508,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2601,
-  "lookups_today": 30,
+  "lookups_month": 2602,
+  "lookups_today": 31,
   "month": "2026-11"
  }
 }
