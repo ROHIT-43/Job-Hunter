@@ -787,11 +787,6 @@
    ],
    "status": "found"
   },
-  "affluent-tech|swe|l1": {
-   "expires": "2026-11-22T06:28:09.189905+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
   "afterquery-experts|frontend|l1": {
    "expires": "2026-11-26T00:23:13.536676+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -2743,8 +2738,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:19:28.257618+00:00",
-   "looked_up": "2026-11-22T06:01:13+00:00",
+   "expires": "2027-02-23T02:14:51.359401+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6197,8 +6192,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T21:51:19.445310+00:00",
-   "looked_up": "2026-11-22T06:01:13+00:00",
+   "expires": "2027-02-20T15:41:43.648512+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -8204,6 +8199,11 @@
    ],
    "status": "found",
    "year": 2024
+  },
+  "digireach|swe|l1": {
+   "expires": "2026-12-09T07:12:32.612078+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
+   "status": "not_found"
   },
   "digit-life-insurance|swe|l1": {
    "expires": "2026-12-06T15:23:31.857122+00:00",
@@ -15023,8 +15023,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T14:22:32.378770+00:00",
-   "looked_up": "2026-11-22T06:01:13+00:00",
+   "expires": "2027-02-23T13:47:59.189176+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -19868,8 +19868,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T00:55:49.668633+00:00",
-   "looked_up": "2026-11-22T06:01:13+00:00",
+   "expires": "2027-02-24T20:55:40.657473+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21427,11 +21427,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "pwc-ac-india|fullstack|l1": {
-   "expires": "2026-11-22T06:31:01.589421+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
   },
   "pwc-ac-india|security|l1": {
    "expires": "2026-11-28T03:36:53.703154+00:00",
@@ -23873,8 +23868,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:46:30.473715+00:00",
-   "looked_up": "2026-11-22T06:01:13+00:00",
+   "expires": "2027-02-15T03:46:01.044337+00:00",
+   "looked_up": "2026-11-22T07:01:18+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -27933,11 +27928,6 @@
    "looked_up": "2026-11-15T16:01:19+00:00",
    "status": "not_found"
   },
-  "us-tech-solutions|erp|l1": {
-   "expires": "2026-11-22T06:12:09.972503+00:00",
-   "looked_up": "2026-11-02T16:01:36+00:00",
-   "status": "not_found"
-  },
   "usdcllc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -30588,8 +30578,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2574,
-  "lookups_today": 3,
+  "lookups_month": 2575,
+  "lookups_today": 4,
   "month": "2026-11"
  }
 }
