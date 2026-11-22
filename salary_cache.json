@@ -12588,8 +12588,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T05:25:37.907172+00:00",
-   "looked_up": "2026-11-22T22:01:25+00:00",
+   "expires": "2027-02-27T15:09:17.241054+00:00",
+   "looked_up": "2026-11-22T23:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16049,8 +16049,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T12:13:58.912367+00:00",
-   "looked_up": "2026-11-22T22:01:25+00:00",
+   "expires": "2027-02-22T02:29:53.546077+00:00",
+   "looked_up": "2026-11-22T23:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16571,8 +16571,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T18:09:18.038527+00:00",
-   "looked_up": "2026-11-22T22:01:25+00:00",
+   "expires": "2027-02-21T07:45:36.779404+00:00",
+   "looked_up": "2026-11-22T23:01:31+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19996,11 +19996,6 @@
    ],
    "status": "found"
   },
-  "orestes-technologies|swe|l1": {
-   "expires": "2026-11-22T22:55:08.345791+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
   "organicmart|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -21019,11 +21014,6 @@
    ],
    "status": "found"
   },
-  "progenesis-ivf|fullstack|l1": {
-   "expires": "2026-11-22T22:42:47.314530+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
-   "status": "not_found"
-  },
   "programmers-io|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21107,11 +21097,6 @@
     }
    ],
    "status": "found"
-  },
-  "proseonpixels|swe|l1": {
-   "expires": "2026-11-22T22:26:02.457416+00:00",
-   "looked_up": "2026-11-05T11:01:19+00:00",
-   "status": "not_found"
   },
   "prosoai|data|l1": {
    "expires": "2026-11-26T16:07:36.374025+00:00",
