@@ -1955,11 +1955,6 @@
    "looked_up": "2026-11-17T08:01:21+00:00",
    "status": "not_found"
   },
-  "anr-business-consulting|erp|l1": {
-   "expires": "2026-11-22T14:49:11.415819+00:00",
-   "looked_up": "2026-11-09T03:01:22+00:00",
-   "status": "not_found"
-  },
   "anr-business-consulting|fullstack|l1": {
    "expires": "2026-11-29T05:57:51.174229+00:00",
    "looked_up": "2026-11-19T18:01:19+00:00",
@@ -11781,6 +11776,11 @@
    "status": "found",
    "year": 2024
   },
+  "grid-health-ai|fullstack|l1": {
+   "expires": "2026-12-05T04:25:26.941096+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
+   "status": "not_found"
+  },
   "gripinvest|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11941,6 +11941,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "hairrapbyyoyo|swe|l1": {
+   "expires": "2026-12-08T15:29:28.462763+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
+   "status": "not_found"
   },
   "hakkoda|data|l1": {
    "basis": "ctc",
@@ -12607,8 +12612,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T11:15:51.089928+00:00",
-   "looked_up": "2026-11-22T14:01:24+00:00",
+   "expires": "2027-02-27T04:16:09.044645+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15037,8 +15042,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T17:34:05.996028+00:00",
-   "looked_up": "2026-11-22T14:01:24+00:00",
+   "expires": "2027-02-26T09:14:38.956592+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16603,9 +16608,18 @@
    "year": 2025
   },
   "lunatechnologiespvtltd|swe|l1": {
-   "expires": "2026-12-03T11:12:53.042181+00:00",
-   "looked_up": "2026-11-14T11:01:22+00:00",
-   "status": "not_found"
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-22T05:26:16.888149+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "luxoft-india|swe|l1": {
    "basis": "ctc",
@@ -18167,6 +18181,11 @@
   "msi-services-pvt-ltd|swe|l1": {
    "expires": "2026-12-09T13:15:54.696821+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
+   "status": "not_found"
+  },
+  "msx-international|swe|l1": {
+   "expires": "2026-12-12T09:57:16.477737+00:00",
+   "looked_up": "2026-11-22T15:01:22+00:00",
    "status": "not_found"
   },
   "mufg|erp|l1": {
@@ -27806,11 +27825,6 @@
    "looked_up": "2026-11-04T12:01:29+00:00",
    "status": "not_found"
   },
-  "upstairs-techno|fullstack|l1": {
-   "expires": "2026-11-22T14:08:06.675591+00:00",
-   "looked_up": "2026-11-05T08:01:23+00:00",
-   "status": "not_found"
-  },
   "ups|erp|l1": {
    "basis": "base",
    "confidence": "low",
@@ -30552,8 +30566,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2588,
-  "lookups_today": 17,
+  "lookups_month": 2591,
+  "lookups_today": 20,
   "month": "2026-11"
  }
 }
