@@ -8430,6 +8430,11 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "drucks|swe|l1": {
+   "expires": "2026-12-06T01:39:15.829513+00:00",
+   "looked_up": "2026-11-22T21:01:34+00:00",
+   "status": "not_found"
+  },
   "duck-creek-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12583,8 +12588,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T22:36:05.523848+00:00",
-   "looked_up": "2026-11-22T20:01:32+00:00",
+   "expires": "2027-02-23T04:58:16.377310+00:00",
+   "looked_up": "2026-11-22T21:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16049,8 +16054,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T05:15:35.010841+00:00",
-   "looked_up": "2026-11-22T20:01:32+00:00",
+   "expires": "2027-02-23T06:29:44.585851+00:00",
+   "looked_up": "2026-11-22T21:01:34+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16571,8 +16576,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T23:58:18.326615+00:00",
-   "looked_up": "2026-11-22T20:01:32+00:00",
+   "expires": "2027-02-25T15:01:34.806947+00:00",
+   "looked_up": "2026-11-22T21:01:34+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -19069,11 +19074,6 @@
    "looked_up": "2026-11-07T08:01:19+00:00",
    "status": "not_found"
   },
-  "novglobal|security|l1": {
-   "expires": "2026-11-22T20:13:50.301337+00:00",
-   "looked_up": "2026-11-11T21:01:51+00:00",
-   "status": "not_found"
-  },
   "novigo-solutions-pvt-ltd-|data|l1": {
    "expires": "2026-12-06T12:21:52.497991+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
@@ -20074,11 +20074,6 @@
   "outcome-school|swe|l1": {
    "expires": "2026-11-23T19:09:52.565352+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
-  "owlly-health|swe|l1": {
-   "expires": "2026-11-22T20:36:13.883080+00:00",
-   "looked_up": "2026-11-04T20:01:18+00:00",
    "status": "not_found"
   },
   "owlsure|swe|l1": {
@@ -24609,11 +24604,6 @@
   "solvex-solutions|fullstack|l1": {
    "expires": "2026-11-26T21:54:02.998422+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
-   "status": "not_found"
-  },
-  "solvex-solutions|swe|l1": {
-   "expires": "2026-11-22T20:57:29.200475+00:00",
-   "looked_up": "2026-11-02T09:01:48+00:00",
    "status": "not_found"
   },
   "sonata-software|devops|l1": {
@@ -30528,8 +30518,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2600,
-  "lookups_today": 29,
+  "lookups_month": 2601,
+  "lookups_today": 30,
   "month": "2026-11"
  }
 }
