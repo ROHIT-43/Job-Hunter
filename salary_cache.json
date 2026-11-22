@@ -1965,11 +1965,6 @@
    "looked_up": "2026-11-17T08:01:21+00:00",
    "status": "not_found"
   },
-  "anr-business-consulting|devops|l1": {
-   "expires": "2026-11-21T23:40:25.176244+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
   "anr-business-consulting|erp|l1": {
    "expires": "2026-11-22T14:49:11.415819+00:00",
    "looked_up": "2026-11-09T03:01:22+00:00",
@@ -2753,8 +2748,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T20:26:55.011181+00:00",
-   "looked_up": "2026-11-21T23:15:24+00:00",
+   "expires": "2027-02-22T21:51:11.117937+00:00",
+   "looked_up": "2026-11-22T00:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -2795,11 +2790,6 @@
    "looked_up": "2026-11-19T14:01:19+00:00",
    "status": "not_found"
   },
-  "aspirox-private-limited|swe|l1": {
-   "expires": "2026-11-21T23:39:47.417440+00:00",
-   "looked_up": "2026-11-03T12:01:28+00:00",
-   "status": "not_found"
-  },
   "assystem|frontend|l1": {
    "expires": "2026-12-01T17:41:10.123307+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -2818,11 +2808,6 @@
   "astranovamobility|fullstack|l1": {
    "expires": "2026-11-24T09:20:19.396293+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "astrdefence|swe|l1": {
-   "expires": "2026-11-21T23:44:57.519094+00:00",
-   "looked_up": "2026-11-08T06:01:15+00:00",
    "status": "not_found"
   },
   "astreya|swe|l2": {
@@ -2952,11 +2937,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "atomach|swe|l1": {
-   "expires": "2026-11-21T23:15:48.010454+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
   },
   "atorus|swe|l1": {
    "expires": "2026-11-26T22:49:45.205404+00:00",
@@ -6232,8 +6212,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T01:20:28.722178+00:00",
-   "looked_up": "2026-11-21T23:15:24+00:00",
+   "expires": "2027-02-21T00:06:22.418125+00:00",
+   "looked_up": "2026-11-22T00:01:19+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -10760,11 +10740,6 @@
    "status": "found",
    "year": 2025
   },
-  "forbes-advisor|data|l1": {
-   "expires": "2026-11-21T23:26:06.481290+00:00",
-   "looked_up": "2026-11-01T17:01:31+00:00",
-   "status": "not_found"
-  },
   "ford-motor-company|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15103,8 +15078,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T20:50:23.808051+00:00",
-   "looked_up": "2026-11-21T23:15:24+00:00",
+   "expires": "2027-02-15T23:47:17.280271+00:00",
+   "looked_up": "2026-11-22T00:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -19968,8 +19943,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T13:29:08.037858+00:00",
-   "looked_up": "2026-11-21T23:15:24+00:00",
+   "expires": "2027-02-25T13:33:49.575677+00:00",
+   "looked_up": "2026-11-22T00:01:19+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -21020,11 +20995,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "ppfas-mutual-fund|swe|l1": {
-   "expires": "2026-11-21T23:26:58.959451+00:00",
-   "looked_up": "2026-11-09T10:01:22+00:00",
-   "status": "not_found"
   },
   "ppstack|data|l1": {
    "expires": "2026-11-24T18:10:54.511097+00:00",
@@ -23988,8 +23958,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T21:44:59.768975+00:00",
-   "looked_up": "2026-11-21T23:15:24+00:00",
+   "expires": "2027-02-19T05:23:20.815770+00:00",
+   "looked_up": "2026-11-22T00:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30717,9 +30687,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-21",
+  "day": "2026-11-22",
   "lookups_month": 2571,
-  "lookups_today": 58,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
