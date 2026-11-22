@@ -6192,8 +6192,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T15:41:43.648512+00:00",
-   "looked_up": "2026-11-22T07:01:18+00:00",
+   "expires": "2027-02-18T08:38:45.483401+00:00",
+   "looked_up": "2026-11-22T08:01:24+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -15023,8 +15023,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T13:47:59.189176+00:00",
-   "looked_up": "2026-11-22T07:01:18+00:00",
+   "expires": "2027-02-16T09:10:15.823191+00:00",
+   "looked_up": "2026-11-22T08:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15495,11 +15495,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "karma-group-global|swe|l1": {
-   "expires": "2026-11-22T07:38:00.561784+00:00",
-   "looked_up": "2026-11-11T09:01:25+00:00",
-   "status": "not_found"
   },
   "kartshosolutions|fullstack|l1": {
    "expires": "2026-12-01T09:40:48.782208+00:00",
@@ -17861,11 +17856,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mongodbinc|swe|l3": {
-   "expires": "2026-11-22T07:35:54.936285+00:00",
-   "looked_up": "2026-11-09T19:01:30+00:00",
-   "status": "not_found"
   },
   "moodle|swe|l1": {
    "basis": "ctc",
