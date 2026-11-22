@@ -8812,11 +8812,6 @@
    "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
-  "elephant-in-the-boardroom|fullstack|l1": {
-   "expires": "2026-11-22T09:35:18.305168+00:00",
-   "looked_up": "2026-11-03T06:01:29+00:00",
-   "status": "not_found"
-  },
   "elitesquad-ai|devops|l1": {
    "expires": "2026-11-30T04:41:19.479753+00:00",
    "looked_up": "2026-11-16T14:01:26+00:00",
@@ -15028,8 +15023,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:09:07.960085+00:00",
-   "looked_up": "2026-11-22T09:01:18+00:00",
+   "expires": "2027-02-25T09:29:50.840404+00:00",
+   "looked_up": "2026-11-22T10:01:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18775,11 +18770,6 @@
   "nexacaretalent|frontend|l1": {
    "expires": "2026-11-30T15:52:23.650210+00:00",
    "looked_up": "2026-11-20T07:01:20+00:00",
-   "status": "not_found"
-  },
-  "nexcope|swe|l1": {
-   "expires": "2026-11-22T09:39:50.740890+00:00",
-   "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
   "nexgen-techsolutions|swe|l1": {
