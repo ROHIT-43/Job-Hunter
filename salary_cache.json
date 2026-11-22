@@ -1773,11 +1773,6 @@
    "status": "found",
    "year": 2026
   },
-  "ameriprise-financial-services-llc|erp|l1": {
-   "expires": "2026-11-22T19:01:51.387714+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
-   "status": "not_found"
-  },
   "ametek|swe|l1": {
    "expires": "2026-11-24T03:11:45.859624+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
@@ -7139,11 +7134,6 @@
    ],
    "status": "found"
   },
-  "customertimes|erp|l1": {
-   "expires": "2026-11-22T19:23:43.230591+00:00",
-   "looked_up": "2026-11-10T21:01:21+00:00",
-   "status": "not_found"
-  },
   "cv-raman-academy|swe|l1": {
    "expires": "2026-11-29T16:57:50.415787+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -8608,11 +8598,6 @@
   "eci-software--solutions|swe|l2": {
    "expires": "2026-11-30T23:57:12.565984+00:00",
    "looked_up": "2026-11-12T18:01:22+00:00",
-   "status": "not_found"
-  },
-  "eci-software--solutions|swe|l3": {
-   "expires": "2026-11-22T19:01:45.725171+00:00",
-   "looked_up": "2026-11-12T19:01:26+00:00",
    "status": "not_found"
   },
   "ecolab|swe|l1": {
@@ -12598,8 +12583,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T17:59:35.452343+00:00",
-   "looked_up": "2026-11-22T19:01:29+00:00",
+   "expires": "2027-02-26T07:46:46.000008+00:00",
+   "looked_up": "2026-11-22T19:39:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16586,8 +16571,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T15:22:07.102730+00:00",
-   "looked_up": "2026-11-22T19:01:29+00:00",
+   "expires": "2027-02-26T13:58:57.609781+00:00",
+   "looked_up": "2026-11-22T19:39:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
