@@ -453,6 +453,22 @@
    "looked_up": "2026-11-10T04:01:18+00:00",
    "status": "not_found"
   },
+  "accuknox|security|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-25T10:44:40.869894+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 3.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/accuknox-salaries/security-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "accurate-background|swe|l2": {
    "expires": "2026-11-28T09:33:01.374130+00:00",
    "looked_up": "2026-11-07T17:01:25+00:00",
@@ -12602,8 +12618,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T03:15:08.687753+00:00",
-   "looked_up": "2026-11-22T17:01:31+00:00",
+   "expires": "2027-02-23T21:38:16.515547+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -12636,6 +12652,11 @@
   "hirojet|data|l1": {
    "expires": "2026-11-30T09:35:00.215867+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
+   "status": "not_found"
+  },
+  "hirojet|swe|l1": {
+   "expires": "2026-12-06T11:35:36.938079+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
    "status": "not_found"
   },
   "hissyo-consultancy-private-limited|erp|l1": {
@@ -13649,11 +13670,6 @@
   "iking-tech-solutions|swe|l1": {
    "expires": "2026-11-28T23:52:24.614744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
-  "imi|swe|l1": {
-   "expires": "2026-11-22T17:39:57.079189+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
   "immersiveinfotech|data|l1": {
@@ -14679,11 +14695,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "itesign-gmbh|frontend|l1": {
-   "expires": "2026-11-22T18:00:36.571671+00:00",
-   "looked_up": "2026-11-11T19:01:21+00:00",
-   "status": "not_found"
   },
   "itg-telematics-pvt-ltd---india|frontend|l1": {
    "basis": "ctc",
@@ -16595,8 +16606,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T03:13:41.631930+00:00",
-   "looked_up": "2026-11-22T17:01:31+00:00",
+   "expires": "2027-02-26T10:54:16.930287+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17201,6 +17212,11 @@
   "matrixcare|swe|l1": {
    "expires": "2026-11-25T10:14:51.331660+00:00",
    "looked_up": "2026-11-14T13:01:16+00:00",
+   "status": "not_found"
+  },
+  "mattel|swe|l1": {
+   "expires": "2026-12-08T13:59:54.928435+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
    "status": "not_found"
   },
   "mavenir|swe|l1": {
@@ -19248,11 +19264,6 @@
   "ntt-data-inc|devops|l1": {
    "expires": "2026-11-24T13:38:12.238348+00:00",
    "looked_up": "2026-11-03T19:01:57+00:00",
-   "status": "not_found"
-  },
-  "ntt-data-inc|security|l1": {
-   "expires": "2026-11-22T17:13:07.591536+00:00",
-   "looked_up": "2026-11-09T11:01:23+00:00",
    "status": "not_found"
   },
   "nuawoman|swe|l1": {
@@ -23912,11 +23923,6 @@
    "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
-  "shining-3d-tech-co-ltd-|swe|l1": {
-   "expires": "2026-11-22T17:54:50.906721+00:00",
-   "looked_up": "2026-11-09T02:01:18+00:00",
-   "status": "not_found"
-  },
   "shivara|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -27045,6 +27051,22 @@
    "expires": "2026-11-26T11:48:53.069346+00:00",
    "looked_up": "2026-11-17T11:01:25+00:00",
    "status": "not_found"
+  },
+  "tns|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-20T01:50:52.066710+00:00",
+   "looked_up": "2026-11-22T18:01:23+00:00",
+   "max_lpa": 9.2,
+   "min_lpa": 7.2,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/transaction-network-services-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "tns|swe|l3": {
    "basis": "ctc",
@@ -30561,8 +30583,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2595,
-  "lookups_today": 24,
+  "lookups_month": 2599,
+  "lookups_today": 28,
   "month": "2026-11"
  }
 }
