@@ -2743,8 +2743,8 @@
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T18:39:00.251473+00:00",
-   "looked_up": "2026-11-22T01:01:23+00:00",
+   "expires": "2027-02-18T13:10:57.545105+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 2.0,
    "sources": [
@@ -6197,8 +6197,8 @@
   "coderoundai|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:08:19.295265+00:00",
-   "looked_up": "2026-11-22T01:01:23+00:00",
+   "expires": "2027-02-15T14:17:13.980493+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "max_lpa": 60.0,
    "min_lpa": 60.0,
    "sources": [
@@ -7891,11 +7891,6 @@
    "looked_up": "2026-11-09T10:01:22+00:00",
    "status": "not_found"
   },
-  "delta-technology-hub|swe|l1": {
-   "expires": "2026-11-22T02:01:00.597609+00:00",
-   "looked_up": "2026-11-02T10:01:26+00:00",
-   "status": "not_found"
-  },
   "deltek|devops|l1": {
    "expires": "2026-11-22T13:18:17.031270+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
@@ -8051,11 +8046,6 @@
   "dgn-technologies-inc|erp|l1": {
    "expires": "2026-12-04T18:11:28.336088+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "dhl|devops|l1": {
-   "expires": "2026-11-22T01:46:40.378786+00:00",
-   "looked_up": "2026-11-04T13:01:29+00:00",
    "status": "not_found"
   },
   "dhl|swe|l1": {
@@ -10874,11 +10864,6 @@
    "looked_up": "2026-11-20T18:01:29+00:00",
    "status": "not_found"
   },
-  "futuraspark-technologies|frontend|l1": {
-   "expires": "2026-11-22T01:28:45.069054+00:00",
-   "looked_up": "2026-11-03T09:01:35+00:00",
-   "status": "not_found"
-  },
   "futurefunding-ai|fullstack|l1": {
    "expires": "2026-11-29T17:56:32.770084+00:00",
    "looked_up": "2026-11-21T08:01:18+00:00",
@@ -11113,11 +11098,6 @@
   "geoserve-maritime|fullstack|l1": {
    "expires": "2026-11-23T14:24:28.396434+00:00",
    "looked_up": "2026-11-11T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "getkeel|swe|l1": {
-   "expires": "2026-11-22T01:55:26.643947+00:00",
-   "looked_up": "2026-11-13T04:01:20+00:00",
    "status": "not_found"
   },
   "getvisitapp|fullstack|l1": {
@@ -15058,8 +15038,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:09:54.448460+00:00",
-   "looked_up": "2026-11-22T01:01:23+00:00",
+   "expires": "2027-02-16T08:14:43.190331+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16283,11 +16263,6 @@
   "linde-engineering|swe|l2": {
    "expires": "2026-11-26T14:04:49.683872+00:00",
    "looked_up": "2026-11-11T16:01:21+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|erp|l1": {
-   "expires": "2026-11-22T01:32:10.823641+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|fullstack|l1": {
@@ -17951,11 +17926,6 @@
     }
    ],
    "status": "found"
-  },
-  "moortwix|frontend|l1": {
-   "expires": "2026-11-22T01:13:10.494335+00:00",
-   "looked_up": "2026-11-10T23:01:26+00:00",
-   "status": "not_found"
   },
   "morningstar|swe|l1": {
    "basis": "base",
@@ -19923,8 +19893,8 @@
   "opviain|data|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:33:52.766047+00:00",
-   "looked_up": "2026-11-22T01:01:23+00:00",
+   "expires": "2027-02-13T07:13:14.991348+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "max_lpa": 22.0,
    "min_lpa": 12.0,
    "sources": [
@@ -23688,8 +23658,8 @@
    "year": 2026
   },
   "scoutit-in|devops|l1": {
-   "expires": "2026-11-22T01:01:58.760835+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
+   "expires": "2026-12-07T23:51:05.422951+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "status": "not_found"
   },
   "scoutit-in|fullstack|l1": {
@@ -23933,8 +23903,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-13T13:13:46.601306+00:00",
-   "looked_up": "2026-11-22T01:01:23+00:00",
+   "expires": "2027-02-22T16:29:03.523918+00:00",
+   "looked_up": "2026-11-22T02:01:27+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24678,11 +24648,6 @@
   "soctronics|mobile|l1": {
    "expires": "2026-11-28T18:33:53.585795+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "softexpert-software|swe|l1": {
-   "expires": "2026-11-22T01:22:46.440281+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
    "status": "not_found"
   },
   "softniceuklimited|swe|l1": {
@@ -30663,8 +30628,8 @@
  },
  "meta": {
   "day": "2026-11-22",
-  "lookups_month": 2571,
-  "lookups_today": 0,
+  "lookups_month": 2572,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
