@@ -12563,8 +12563,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:40:52.284724+00:00",
-   "looked_up": "2026-11-23T00:52:41+00:00",
+   "expires": "2027-02-18T05:57:35.677614+00:00",
+   "looked_up": "2026-11-23T01:01:38+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16019,8 +16019,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:11:02.420041+00:00",
-   "looked_up": "2026-11-23T00:52:41+00:00",
+   "expires": "2027-02-23T02:11:49.382499+00:00",
+   "looked_up": "2026-11-23T01:01:38+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16541,8 +16541,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T17:27:23.293108+00:00",
-   "looked_up": "2026-11-23T00:52:41+00:00",
+   "expires": "2027-02-26T18:19:47.519739+00:00",
+   "looked_up": "2026-11-23T01:01:38+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27449,6 +27449,11 @@
    "status": "found",
    "year": 2026
   },
+  "turium-ai|erp|l1": {
+   "expires": "2026-12-10T00:06:10.401977+00:00",
+   "looked_up": "2026-11-23T01:01:38+00:00",
+   "status": "not_found"
+  },
   "turium-ai|fullstack|l1": {
    "expires": "2026-11-29T05:53:06.898352+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
@@ -30463,8 +30468,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2602,
-  "lookups_today": 0,
+  "lookups_month": 2603,
+  "lookups_today": 1,
   "month": "2026-11"
  }
 }
