@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T05:13:36.316876+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-15T10:30:09.319343+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:44:16.467205+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-22T01:38:44.584491+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6935,8 +6935,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:57:25.578860+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-26T09:40:22.881035+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8489,8 +8489,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T19:57:31.155135+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-27T18:36:26.852050+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15100,8 +15100,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:47:11.296779+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-19T03:58:54.943046+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18352,8 +18352,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:05:05.182812+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-25T13:01:08.250431+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -18978,11 +18978,6 @@
   "nextup-robotics|swe|l1": {
    "expires": "2026-12-04T01:33:03.620152+00:00",
    "looked_up": "2026-11-17T08:01:21+00:00",
-   "status": "not_found"
-  },
-  "nexvion-labs|swe|l1": {
-   "expires": "2026-11-23T21:03:15.626837+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
    "status": "not_found"
   },
   "neysaai|security|l1": {
@@ -22645,8 +22640,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T23:10:43.262112+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-18T03:20:38.997812+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23997,8 +23992,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T05:06:27.198585+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-18T08:18:34.149596+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25180,8 +25175,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:47:40.513868+00:00",
-   "looked_up": "2026-11-23T21:01:20+00:00",
+   "expires": "2027-02-20T10:06:01.728571+00:00",
+   "looked_up": "2026-11-23T21:23:45+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -28545,11 +28540,6 @@
    "status": "found",
    "year": 2026
   },
-  "velicham-finance|fullstack|l1": {
-   "expires": "2026-11-23T21:13:57.878788+00:00",
-   "looked_up": "2026-11-11T08:01:21+00:00",
-   "status": "not_found"
-  },
   "velocitytravel|mobile|l1": {
    "expires": "2026-12-08T13:34:46.425160+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
@@ -29447,11 +29437,6 @@
   },
   "webboostsolutions|frontend|l1": {
    "expires": "2026-12-01T16:51:57.983439+00:00",
-   "looked_up": "2026-11-14T07:01:19+00:00",
-   "status": "not_found"
-  },
-  "webboostsolutions|fullstack|l1": {
-   "expires": "2026-11-23T21:21:25.957616+00:00",
    "looked_up": "2026-11-14T07:01:19+00:00",
    "status": "not_found"
   },
