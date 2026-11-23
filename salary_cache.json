@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T19:24:33.510023+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-25T21:41:09.465423+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T12:26:01.841867+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-26T11:42:40.007971+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2827,11 +2827,6 @@
   "assystem|frontend|l1": {
    "expires": "2026-12-01T17:41:10.123307+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
-  "astek|swe|l1": {
-   "expires": "2026-11-23T22:51:35.753213+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "astellaspharmainc|swe|l1": {
@@ -6930,8 +6925,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T21:33:19.284779+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-24T13:24:58.065096+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8484,8 +8479,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T11:52:46.523259+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-24T08:38:12.701280+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15085,8 +15080,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T01:52:23.539605+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-27T06:14:03.879575+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18216,11 +18211,6 @@
    "status": "found",
    "year": 2026
   },
-  "mresult|fullstack|l1": {
-   "expires": "2026-11-23T22:18:03.171223+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
-  },
   "mri-software-llc|frontend|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -18337,8 +18327,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T23:41:16.838912+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-22T16:11:10.837765+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -19963,11 +19953,6 @@
   "operforce-ai|fullstack|l1": {
    "expires": "2026-12-09T19:02:33.140378+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
-   "status": "not_found"
-  },
-  "optimal-strategix-group-inc|swe|l1": {
-   "expires": "2026-11-23T22:47:33.942976+00:00",
-   "looked_up": "2026-11-03T15:01:30+00:00",
    "status": "not_found"
   },
   "optimuminfo|swe|l1": {
@@ -22625,8 +22610,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T15:28:56.493961+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-26T21:49:10.342318+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23972,8 +23957,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T05:09:36.792963+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-19T22:55:19.696494+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25155,8 +25140,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T02:35:01.097464+00:00",
-   "looked_up": "2026-11-23T22:01:27+00:00",
+   "expires": "2027-02-24T07:00:36.108546+00:00",
+   "looked_up": "2026-11-23T23:01:28+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -30618,11 +30603,6 @@
   "zintlr|data|l1": {
    "expires": "2026-11-24T16:38:50.501936+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
-  },
-  "zorba-consulting-india|data|l1": {
-   "expires": "2026-11-23T22:44:24.282771+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "zscaler|swe|l1": {
