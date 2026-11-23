@@ -6752,6 +6752,11 @@
    "status": "found",
    "year": 2025
   },
+  "consultixscorp|swe|l1": {
+   "expires": "2026-12-12T12:49:33.903913+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
+  },
   "continental-industry|devops|l1": {
    "expires": "2026-12-06T02:09:14.384638+00:00",
    "looked_up": "2026-11-23T05:01:20+00:00",
@@ -6771,6 +6776,22 @@
    "expires": "2026-12-03T12:25:29.238021+00:00",
    "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
+  },
+  "convergint-asia-pacific|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T20:57:19.798328+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/convergint-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "copeland|swe|l1": {
    "basis": "ctc",
@@ -6900,6 +6921,22 @@
    "expires": "2026-12-02T18:18:19.158158+00:00",
    "looked_up": "2026-11-19T01:01:20+00:00",
    "status": "not_found"
+  },
+  "creospanindia|data|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-22T04:18:56.254727+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "max_lpa": 7.0,
+   "min_lpa": 5.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/creospan-salaries/engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "creospan|data|l1": {
    "basis": "ctc",
@@ -8397,8 +8434,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T00:22:54.364828+00:00",
-   "looked_up": "2026-11-23T06:01:23+00:00",
+   "expires": "2027-02-20T14:24:48.150464+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9001,6 +9038,11 @@
     }
    ],
    "status": "found"
+  },
+  "enoviq|devops|l1": {
+   "expires": "2026-12-11T00:51:59.751442+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
   },
   "entain-india|erp|l1": {
    "basis": "ctc",
@@ -11318,6 +11360,11 @@
    "looked_up": "2026-11-15T13:01:25+00:00",
    "status": "not_found"
   },
+  "go-comet|security|l2": {
+   "expires": "2026-12-11T01:27:17.190978+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
+  },
   "go-revx|swe|l1": {
    "expires": "2026-12-06T04:37:12.705221+00:00",
    "looked_up": "2026-11-21T13:01:20+00:00",
@@ -12582,8 +12629,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T05:36:30.438730+00:00",
-   "looked_up": "2026-11-23T06:01:23+00:00",
+   "expires": "2027-02-25T07:04:49.484171+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15007,8 +15054,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T03:57:01.693251+00:00",
-   "looked_up": "2026-11-23T06:01:23+00:00",
+   "expires": "2027-02-18T19:55:23.709321+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16038,8 +16085,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T06:20:26.619101+00:00",
-   "looked_up": "2026-11-23T06:01:23+00:00",
+   "expires": "2027-02-25T18:23:43.789601+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16560,8 +16607,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:12:09.713551+00:00",
-   "looked_up": "2026-11-23T06:01:23+00:00",
+   "expires": "2027-02-19T23:04:59.930357+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17424,6 +17471,11 @@
   "metapoint-tech|security|l1": {
    "expires": "2026-11-23T13:14:42.695477+00:00",
    "looked_up": "2026-11-09T08:01:22+00:00",
+   "status": "not_found"
+  },
+  "metasys-tech|fullstack|l1": {
+   "expires": "2026-12-05T03:31:45.352768+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "status": "not_found"
   },
   "metlife|data|l1": {
@@ -18710,6 +18762,11 @@
    "looked_up": "2026-11-18T13:01:19+00:00",
    "status": "not_found"
   },
+  "neumanesser|swe|l1": {
+   "expires": "2026-11-30T13:48:42.380559+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
+  },
   "neuphonic|devops|l1": {
    "expires": "2026-11-23T20:50:27.290242+00:00",
    "looked_up": "2026-11-13T17:01:26+00:00",
@@ -19657,6 +19714,22 @@
    ],
    "status": "found"
   },
+  "onextelmedia|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-23T01:41:46.028900+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "max_lpa": 5.0,
+   "min_lpa": 4.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/onextel-media-salaries"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "onit-india|fullstack|l1": {
    "expires": "2026-12-06T04:17:42.032347+00:00",
    "looked_up": "2026-11-18T12:01:21+00:00",
@@ -20053,11 +20126,6 @@
   "outcome-school|swe|l1": {
    "expires": "2026-11-23T19:09:52.565352+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
-  "owlsure|swe|l1": {
-   "expires": "2026-11-23T06:36:12.845763+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
   "p-i-v-o-t-security|security|l1": {
@@ -21533,6 +21601,11 @@
   "qcsstudio|security|l1": {
    "expires": "2026-12-05T06:08:49.328567+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
+   "status": "not_found"
+  },
+  "qifaw-technologies|swe|l1": {
+   "expires": "2026-12-02T01:46:21.938617+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
    "status": "not_found"
   },
   "qisacademy|swe|l1": {
@@ -27676,11 +27749,6 @@
    ],
    "status": "found"
   },
-  "unisoftglobalservices|erp|l1": {
-   "expires": "2026-11-23T06:21:13.337294+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
-   "status": "not_found"
-  },
   "unisys|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28886,6 +28954,11 @@
    ],
    "status": "found"
   },
+  "vozbunofficial|frontend|l1": {
+   "expires": "2026-12-01T03:59:41.613517+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
+  },
   "vrt-management-group-llc|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -29293,6 +29366,11 @@
    ],
    "status": "found",
    "year": 2023
+  },
+  "weekdayjobs|swe|l1": {
+   "expires": "2026-12-04T12:19:11.660815+00:00",
+   "looked_up": "2026-11-23T07:01:23+00:00",
+   "status": "not_found"
   },
   "wellsfargo|erp|l1": {
    "basis": "ctc",
@@ -30508,8 +30586,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2620,
-  "lookups_today": 18,
+  "lookups_month": 2631,
+  "lookups_today": 29,
   "month": "2026-11"
  }
 }
