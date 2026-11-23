@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:39:08.964604+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-16T22:38:58.464748+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:50:56.137933+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-27T06:57:02.924129+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6224,11 +6224,6 @@
    "status": "found",
    "year": 2026
   },
-  "coeusapps|fullstack|l2": {
-   "expires": "2026-11-23T18:13:26.287605+00:00",
-   "looked_up": "2026-11-04T06:01:27+00:00",
-   "status": "not_found"
-  },
   "coforge-tech|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6940,8 +6935,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T00:04:34.952691+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-18T19:36:28.489971+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8504,8 +8499,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:33:38.926226+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-23T05:36:59.245315+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15125,8 +15120,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T15:54:16.945608+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-18T01:21:53.868266+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16194,8 +16189,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:29:39.989421+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-14T19:40:13.050781+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18387,8 +18382,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T18:37:38.782441+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-23T10:50:45.489383+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22690,8 +22685,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T22:04:20.571443+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-25T16:41:51.320115+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23437,11 +23432,6 @@
    "looked_up": "2026-11-17T03:01:22+00:00",
    "status": "not_found"
   },
-  "samsdigitalin|swe|l1": {
-   "expires": "2026-11-23T18:14:54.416792+00:00",
-   "looked_up": "2026-11-03T05:01:29+00:00",
-   "status": "not_found"
-  },
   "sandisk|swe|l1": {
    "expires": "2026-11-24T13:10:52.433463+00:00",
    "looked_up": "2026-11-04T13:01:29+00:00",
@@ -23669,11 +23659,6 @@
     }
    ],
    "status": "found"
-  },
-  "saxo-bank|devops|l1": {
-   "expires": "2026-11-23T18:32:42.581511+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
-   "status": "not_found"
   },
   "saxo-bank|erp|l1": {
    "basis": "ctc",
@@ -24052,8 +24037,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:59:28.189603+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-21T04:40:37.179705+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25245,8 +25230,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T07:44:45.521874+00:00",
-   "looked_up": "2026-11-23T18:01:23+00:00",
+   "expires": "2027-02-21T23:04:11.875104+00:00",
+   "looked_up": "2026-11-23T19:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27814,11 +27799,6 @@
   "tvh|devops|l1": {
    "expires": "2026-11-30T09:20:59.648222+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "twelve-twelve|swe|l1": {
-   "expires": "2026-11-23T18:37:17.703203+00:00",
-   "looked_up": "2026-11-10T16:01:23+00:00",
    "status": "not_found"
   },
   "twilio-inc-|swe|l1": {
