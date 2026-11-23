@@ -6742,6 +6742,16 @@
    "status": "found",
    "year": 2025
   },
+  "continental-industry|devops|l1": {
+   "expires": "2026-12-06T02:09:14.384638+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
+   "status": "not_found"
+  },
+  "continental-industry|swe|l1": {
+   "expires": "2026-12-07T18:01:02.198623+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
+   "status": "not_found"
+  },
   "contrast-capital-management|fullstack|l1": {
    "expires": "2026-11-30T11:13:31.662643+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
@@ -8373,6 +8383,20 @@
    ],
    "status": "found",
    "year": null
+  },
+  "drmudhiwalla|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-23T11:59:16.086462+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "droisys|data|l1": {
    "basis": "ctc",
@@ -12543,8 +12567,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:27:57.742976+00:00",
-   "looked_up": "2026-11-23T04:01:18+00:00",
+   "expires": "2027-02-26T15:49:28.966902+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -14963,8 +14987,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T01:46:49.375626+00:00",
-   "looked_up": "2026-11-22T17:01:31+00:00",
+   "expires": "2027-02-16T12:45:11.532440+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15999,8 +16023,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T10:46:00.223522+00:00",
-   "looked_up": "2026-11-23T04:01:18+00:00",
+   "expires": "2027-02-23T19:44:33.355218+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16521,8 +16545,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:45:36.613760+00:00",
-   "looked_up": "2026-11-23T04:01:18+00:00",
+   "expires": "2027-02-25T09:42:06.298612+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20319,6 +20343,11 @@
    "status": "found",
    "year": 2026
   },
+  "pelfinfotech|swe|l1": {
+   "expires": "2026-12-08T09:59:22.466104+00:00",
+   "looked_up": "2026-11-23T05:01:20+00:00",
+   "status": "not_found"
+  },
   "penta-consulting|swe|l1": {
    "expires": "2026-11-26T16:41:23.722430+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -21998,11 +22027,6 @@
    "looked_up": "2026-11-04T23:01:20+00:00",
    "status": "not_found"
   },
-  "radiantbiz|fullstack|l1": {
-   "expires": "2026-11-23T04:25:05.501081+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
-   "status": "not_found"
-  },
   "raerollc|swe|l1": {
    "expires": "2026-12-08T18:12:29.365442+00:00",
    "looked_up": "2026-11-18T20:01:24+00:00",
@@ -22643,11 +22667,6 @@
   "roche|devops|l1": {
    "expires": "2026-11-27T21:18:49.644322+00:00",
    "looked_up": "2026-11-13T18:01:21+00:00",
-   "status": "not_found"
-  },
-  "roche|fullstack|l1": {
-   "expires": "2026-11-23T04:44:36.311910+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
   "rocket-india|swe|l2": {
@@ -30453,8 +30472,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2609,
-  "lookups_today": 7,
+  "lookups_month": 2612,
+  "lookups_today": 10,
   "month": "2026-11"
  }
 }
