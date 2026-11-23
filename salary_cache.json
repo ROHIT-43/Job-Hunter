@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:30:09.319343+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-27T19:24:33.510023+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:38:44.584491+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-20T12:26:01.841867+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3701,11 +3701,6 @@
   "best-nanotech|swe|l1": {
    "expires": "2026-11-24T01:56:45.103384+00:00",
    "looked_up": "2026-11-04T08:01:29+00:00",
-   "status": "not_found"
-  },
-  "bestex-research-group|data|l1": {
-   "expires": "2026-11-23T21:47:51.035368+00:00",
-   "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
   "bestpeersllc|data|l1": {
@@ -6935,8 +6930,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:40:22.881035+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-28T21:33:19.284779+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8489,8 +8484,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T18:36:26.852050+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-18T11:52:46.523259+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8784,11 +8779,6 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
-  "edurun-virtuoso-pvt-ltd|swe|l1": {
-   "expires": "2026-11-23T22:00:18.466249+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
   "edusolve-edutech-pvt-ltd|frontend|l1": {
    "expires": "2026-11-28T23:57:28.274556+00:00",
    "looked_up": "2026-11-13T13:01:23+00:00",
@@ -8899,11 +8889,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "emaptaglobal|swe|l1": {
-   "expires": "2026-11-23T21:31:13.096024+00:00",
-   "looked_up": "2026-11-16T03:01:27+00:00",
-   "status": "not_found"
   },
   "embitel-technologies-india|security|l1": {
    "basis": "ctc",
@@ -15100,8 +15085,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:58:54.943046+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-16T01:52:23.539605+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18352,8 +18337,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T13:01:08.250431+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-14T23:41:16.838912+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22640,8 +22625,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T03:20:38.997812+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-22T15:28:56.493961+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -22664,11 +22649,6 @@
   "renesas|swe|l1": {
    "expires": "2026-11-27T23:43:28.314466+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "rengy|mobile|l2": {
-   "expires": "2026-11-23T21:27:05.170540+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
    "status": "not_found"
   },
   "rentablez|fullstack|l1": {
@@ -23992,8 +23972,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:18:34.149596+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-24T05:09:36.792963+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25175,8 +25155,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T10:06:01.728571+00:00",
-   "looked_up": "2026-11-23T21:23:45+00:00",
+   "expires": "2027-02-20T02:35:01.097464+00:00",
+   "looked_up": "2026-11-23T22:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
