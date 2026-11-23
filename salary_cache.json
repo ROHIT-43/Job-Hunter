@@ -1258,6 +1258,11 @@
    "status": "found",
    "year": 2026
   },
+  "alightsolutions|data|l1": {
+   "expires": "2026-12-14T01:42:50.698951+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
+  },
   "alignerr|security|l1": {
    "expires": "2026-11-30T17:19:46.682476+00:00",
    "looked_up": "2026-11-18T21:56:30+00:00",
@@ -1812,8 +1817,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:33:29.341161+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-23T03:31:51.504059+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2004,6 +2009,26 @@
    "expires": "2026-11-28T15:27:25.325603+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
+  },
+  "ansira|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-27T03:38:51.499609+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "max_lpa": 5.7,
+   "min_lpa": 4.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ansira-salaries/bengaluru-location"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/ansira-salaries/software-developer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "ansira|swe|l2": {
    "expires": "2026-12-02T17:31:21.199158+00:00",
@@ -2744,11 +2769,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ashokaenterprises-india|swe|l1": {
-   "expires": "2026-11-23T11:06:11.963494+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
   },
   "ask-your-whyy|frontend|l1": {
    "basis": "posted",
@@ -6259,6 +6279,11 @@
    "looked_up": "2026-11-20T22:01:16+00:00",
    "status": "not_found"
   },
+  "cognitedata|swe|l1": {
+   "expires": "2026-12-01T21:31:50.909599+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
+  },
   "cogniter-technologies|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6920,8 +6945,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T12:17:33.232563+00:00",
-   "looked_up": "2026-11-21T06:01:17+00:00",
+   "expires": "2027-02-23T17:50:19.123728+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8458,8 +8483,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T13:13:54.146505+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-15T18:49:30.760327+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12695,6 +12720,11 @@
    "looked_up": "2026-11-17T10:01:29+00:00",
    "status": "not_found"
   },
+  "hireflexperts|frontend|l1": {
+   "expires": "2026-12-12T10:00:50.792596+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
+  },
   "hireflexperts|swe|l1": {
    "expires": "2026-12-04T08:05:38.153105+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
@@ -15104,8 +15134,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T19:39:57.502587+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-18T02:37:51.876566+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15790,6 +15820,22 @@
    "status": "found",
    "year": null
   },
+  "kodohq|devops|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-28T02:55:29.255063+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "workatastartup.com",
+     "uri": "https://www.workatastartup.com/jobs/59652"
+    }
+   ],
+   "status": "found",
+   "year": null
+  },
   "kognitiv-inc.|erp|l3": {
    "basis": "posted",
    "confidence": "high",
@@ -16103,6 +16149,22 @@
    "looked_up": "2026-11-18T06:01:19+00:00",
    "status": "not_found"
   },
+  "lantiqx|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-26T00:09:43.972626+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "max_lpa": 8.5,
+   "min_lpa": 3.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/lantiqx-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "lanxess|erp|l1": {
    "expires": "2026-12-08T08:00:23.854462+00:00",
    "looked_up": "2026-11-18T13:01:19+00:00",
@@ -16141,8 +16203,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:18:17.608324+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-18T19:57:33.021075+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16692,8 +16754,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T01:27:48.329210+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-26T08:05:51.699408+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17058,6 +17120,11 @@
   "mars-telecom-systems-pvt.-ltd.|swe|l1": {
    "expires": "2026-11-23T15:10:34.465476+00:00",
    "looked_up": "2026-11-11T14:01:27+00:00",
+   "status": "not_found"
+  },
+  "marshglobal|frontend|l1": {
+   "expires": "2026-12-02T14:23:46.967611+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "status": "not_found"
   },
   "marshglobal|security|l1": {
@@ -17511,6 +17578,26 @@
    ],
    "status": "found",
    "year": 2025
+  },
+  "meesho|swe|l2": {
+   "basis": "base",
+   "confidence": "medium",
+   "expires": "2027-02-24T08:48:12.601485+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "max_lpa": 35.2,
+   "min_lpa": 27.0,
+   "sources": [
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/en-gb/companies/meesho/salaries/software-engineer/title/backend-software-engineer"
+    },
+    {
+     "title": "leetcode.com",
+     "uri": "https://leetcode.com/discuss/compensation/4889764/Meesho-or-SDE-2-or-Promotion-or-Bangalore/"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "meet-archer|data|l2": {
    "expires": "2026-11-24T22:16:28.679068+00:00",
@@ -19202,6 +19289,11 @@
   "not-drones-innovations-pvt-ltd|swe|l1": {
    "expires": "2026-11-24T09:48:19.945643+00:00",
    "looked_up": "2026-11-17T05:01:20+00:00",
+   "status": "not_found"
+  },
+  "notionuetlahore|frontend|l1": {
+   "expires": "2026-12-08T14:32:03.344390+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "status": "not_found"
   },
   "novactech|swe|l1": {
@@ -21884,6 +21976,11 @@
    "status": "found",
    "year": 2022
   },
+  "quantanova-technologies-llp|swe|l1": {
+   "expires": "2026-11-30T21:23:19.359530+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
+  },
   "quanteon-solutions|mobile|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22943,6 +23040,11 @@
    ],
    "status": "found"
   },
+  "rojrojgar|mobile|l1": {
+   "expires": "2026-12-05T22:17:35.114546+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
+  },
   "role-nest|mobile|l1": {
    "expires": "2026-12-01T08:23:14.780331+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
@@ -23970,8 +24072,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T03:28:19.599873+00:00",
-   "looked_up": "2026-11-23T11:01:24+00:00",
+   "expires": "2027-02-20T09:48:24.914307+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25005,11 +25107,6 @@
   "sporensprouts|swe|l1": {
    "expires": "2026-11-27T00:05:48.741874+00:00",
    "looked_up": "2026-11-15T22:01:18+00:00",
-   "status": "not_found"
-  },
-  "square-bpo-services-pvt-ltd|devops|l1": {
-   "expires": "2026-11-23T11:51:52.712191+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "squareshift|security|l1": {
@@ -26209,11 +26306,6 @@
    "looked_up": "2026-11-19T16:01:17+00:00",
    "status": "not_found"
   },
-  "techcarrot|erp|l1": {
-   "expires": "2026-11-23T11:16:23.575466+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "techcarvings-consultancy-pvt-ltd|erp|l1": {
    "expires": "2026-11-30T13:13:30.916901+00:00",
    "looked_up": "2026-11-10T11:01:25+00:00",
@@ -26391,6 +26483,22 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "techprojects|erp|l1": {
+   "basis": "base",
+   "confidence": "low",
+   "expires": "2027-02-17T00:52:55.357407+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "max_lpa": 6.0,
+   "min_lpa": 4.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/techprojects-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "techs-to-suit-inc|swe|l1": {
    "expires": "2026-11-26T06:17:54.565599+00:00",
@@ -26674,6 +26782,11 @@
    ],
    "status": "found",
    "year": 2023
+  },
+  "testqtech|devops|l1": {
+   "expires": "2026-12-09T19:27:09.489670+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
+   "status": "not_found"
   },
   "texas-instruments-india|swe|l1": {
    "basis": "base",
@@ -28620,6 +28733,11 @@
   "verint|erp|l1": {
    "expires": "2026-12-02T13:41:11.630605+00:00",
    "looked_up": "2026-11-13T19:01:21+00:00",
+   "status": "not_found"
+  },
+  "verisk-analytics|swe|l1": {
+   "expires": "2026-12-07T18:07:01.632422+00:00",
+   "looked_up": "2026-11-23T12:01:35+00:00",
    "status": "not_found"
   },
   "verizon|devops|l1": {
@@ -30713,8 +30831,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2657,
-  "lookups_today": 55,
+  "lookups_month": 2671,
+  "lookups_today": 69,
   "month": "2026-11"
  }
 }
