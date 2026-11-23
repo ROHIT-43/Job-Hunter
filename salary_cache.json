@@ -4262,11 +4262,6 @@
    "status": "found",
    "year": 2026
   },
-  "bornsec|security|l1": {
-   "expires": "2026-11-23T09:06:21.329751+00:00",
-   "looked_up": "2026-11-02T14:01:43+00:00",
-   "status": "not_found"
-  },
   "bosch-global-software-technologies|swe|l1": {
    "expires": "2026-11-26T07:56:37.668282+00:00",
    "looked_up": "2026-11-09T06:01:20+00:00",
@@ -8429,8 +8424,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T16:59:38.592056+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-17T00:24:09.458683+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -12634,8 +12629,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T06:06:07.046434+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-22T06:07:45.515461+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15054,8 +15049,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T15:04:54.843132+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-20T16:37:02.214991+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15926,11 +15921,6 @@
    ],
    "status": "found"
   },
-  "kumaran-systems|data|l1": {
-   "expires": "2026-11-23T09:15:07.917208+00:00",
-   "looked_up": "2026-11-02T12:01:29+00:00",
-   "status": "not_found"
-  },
   "kumaran-systems|devops|l1": {
    "basis": "base",
    "confidence": "low",
@@ -16085,8 +16075,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:06:56.064365+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-24T10:33:26.129069+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16631,8 +16621,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T20:09:53.944831+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-15T13:23:56.961160+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -23889,8 +23879,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T07:46:43.838442+00:00",
-   "looked_up": "2026-11-23T09:01:38+00:00",
+   "expires": "2027-02-27T18:17:27.946554+00:00",
+   "looked_up": "2026-11-23T09:15:17+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
