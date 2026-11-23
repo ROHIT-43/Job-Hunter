@@ -1,10 +1,5 @@
 {
  "entries": {
-  "1spirit-weavers-co1|swe|l1": {
-   "expires": "2026-11-22T23:22:46.615562+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
   "360technology-usa|swe|l1": {
    "expires": "2026-11-29T09:34:17.335473+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
@@ -6798,11 +6793,6 @@
    "status": "found",
    "year": 2024
   },
-  "coram-ai|swe|l1": {
-   "expires": "2026-11-22T23:45:18.081661+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
-  },
   "cordanceco|frontend|l1": {
    "expires": "2026-12-06T14:53:32.106274+00:00",
    "looked_up": "2026-11-19T18:01:19+00:00",
@@ -12588,8 +12578,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T15:09:17.241054+00:00",
-   "looked_up": "2026-11-22T23:01:31+00:00",
+   "expires": "2027-02-17T09:05:35.730886+00:00",
+   "looked_up": "2026-11-23T00:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -14235,11 +14225,6 @@
   "innovyatech|swe|l1": {
    "expires": "2026-11-26T06:48:25.727550+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "innowrap|fullstack|l1": {
-   "expires": "2026-11-22T23:22:52.312514+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "inovalon|swe|l1": {
@@ -16049,8 +16034,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:29:53.546077+00:00",
-   "looked_up": "2026-11-22T23:01:31+00:00",
+   "expires": "2027-02-19T21:42:12.534497+00:00",
+   "looked_up": "2026-11-23T00:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16571,8 +16556,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T07:45:36.779404+00:00",
-   "looked_up": "2026-11-22T23:01:31+00:00",
+   "expires": "2027-02-19T17:23:00.256340+00:00",
+   "looked_up": "2026-11-23T00:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -30492,9 +30477,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-22",
+  "day": "2026-11-23",
   "lookups_month": 2602,
-  "lookups_today": 31,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
