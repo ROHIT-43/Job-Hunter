@@ -1288,6 +1288,26 @@
    "looked_up": "2026-11-20T17:01:23+00:00",
    "status": "not_found"
   },
+  "allstateindia|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T21:51:31.608328+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "max_lpa": 5.9,
+   "min_lpa": 4.6,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/allstate-solutions-salaries/engineer"
+    },
+    {
+     "title": "levels.fyi",
+     "uri": "https://www.levels.fyi/companies/allstate/salaries/software-engineer/locations/india"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -1788,6 +1808,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "amipolymerindia|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-17T04:33:29.341161+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "amity-group-of-schools|fullstack|l1": {
    "expires": "2026-11-26T06:44:22.450602+00:00",
@@ -6039,11 +6073,6 @@
    "looked_up": "2026-11-18T11:01:25+00:00",
    "status": "not_found"
   },
-  "codemarinetech|swe|l1": {
-   "expires": "2026-11-23T10:49:08.172462+00:00",
-   "looked_up": "2026-11-09T16:01:22+00:00",
-   "status": "not_found"
-  },
   "codequery|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -6704,6 +6733,11 @@
     }
    ],
    "status": "found"
+  },
+  "connectwise|swe|l2": {
+   "expires": "2026-12-03T08:42:06.704781+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "status": "not_found"
   },
   "connexiongroup|swe|l1": {
    "basis": "ctc",
@@ -8424,8 +8458,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T05:47:11.092578+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-27T13:13:54.146505+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8530,11 +8564,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "dvk-analytics|data|l1": {
-   "expires": "2026-11-23T11:00:50.543148+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
-   "status": "not_found"
   },
   "dvk-analytics|swe|l1": {
    "expires": "2026-12-06T09:56:32.345907+00:00",
@@ -9568,11 +9597,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "eurotechsol-gmbh|erp|l1": {
-   "expires": "2026-11-23T10:37:50.104364+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
   },
   "evearis|swe|l1": {
    "expires": "2026-12-04T02:58:47.185216+00:00",
@@ -12655,8 +12679,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:54:10.941290+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-25T22:32:31.007653+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -14269,6 +14293,11 @@
    "status": "found",
    "year": 2026
   },
+  "innovaesi|erp|l1": {
+   "expires": "2026-12-14T06:59:16.337870+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "status": "not_found"
+  },
   "innovaesi|swe|l1": {
    "expires": "2026-11-23T17:20:50.573364+00:00",
    "looked_up": "2026-11-05T10:01:16+00:00",
@@ -15075,8 +15104,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T09:02:11.316304+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-20T19:39:57.502587+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15099,11 +15128,6 @@
     }
    ],
    "status": "found"
-  },
-  "jobgether|data|l2": {
-   "expires": "2026-11-23T10:52:16.724969+00:00",
-   "looked_up": "2026-11-13T13:01:23+00:00",
-   "status": "not_found"
   },
   "jobgether|devops|l1": {
    "basis": "posted",
@@ -16117,8 +16141,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T16:03:59.237032+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-17T17:18:17.608324+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16668,8 +16692,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T06:13:17.115490+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-19T01:27:48.329210+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17912,6 +17936,11 @@
    "status": "found",
    "year": 2026
   },
+  "mondelezinternational|devops|l1": {
+   "expires": "2026-12-09T01:20:59.754501+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "status": "not_found"
+  },
   "mondelezinternational|erp|l1": {
    "expires": "2026-11-25T00:46:47.320281+00:00",
    "looked_up": "2026-11-17T18:01:39+00:00",
@@ -18208,6 +18237,26 @@
    "expires": "2026-12-02T04:26:58.023530+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
+  },
+  "msci-inc|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-17T10:18:20.682468+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "max_lpa": 18.7,
+   "min_lpa": 12.5,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/msci-salaries/fresher"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/msci-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2026
   },
   "msg-global|frontend|l1": {
    "basis": "ctc",
@@ -22027,11 +22076,6 @@
    "looked_up": "2026-11-19T06:01:17+00:00",
    "status": "not_found"
   },
-  "questhiring|devops|l1": {
-   "expires": "2026-11-23T10:21:17.919192+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
   "questhiring|frontend|l1": {
    "expires": "2026-12-05T10:37:09.928504+00:00",
    "looked_up": "2026-11-16T08:06:20+00:00",
@@ -23926,8 +23970,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T08:52:44.496513+00:00",
-   "looked_up": "2026-11-23T10:01:22+00:00",
+   "expires": "2027-02-15T03:28:19.599873+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -26786,6 +26830,22 @@
    "looked_up": "2026-11-14T12:01:22+00:00",
    "status": "not_found"
   },
+  "the-hosteller-hospitality|fullstack|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-24T05:21:04.117565+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.3,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/the-hosteller-salaries"
+    }
+   ],
+   "status": "found",
+   "year": 2025
+  },
   "the-kraft-heinz-company|data|l2": {
    "expires": "2026-11-26T14:42:30.338288+00:00",
    "looked_up": "2026-11-06T12:01:18+00:00",
@@ -27558,11 +27618,6 @@
    "status": "found",
    "year": 2026
   },
-  "trinity-technology-solutions|data|l1": {
-   "expires": "2026-11-23T10:14:40.659861+00:00",
-   "looked_up": "2026-11-06T20:01:24+00:00",
-   "status": "not_found"
-  },
   "trioptus|swe|l1": {
    "expires": "2026-12-01T00:41:18.863723+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
@@ -27647,6 +27702,11 @@
   "turium-ai|fullstack|l1": {
    "expires": "2026-11-29T05:53:06.898352+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
+   "status": "not_found"
+  },
+  "turtil|fullstack|l1": {
+   "expires": "2026-12-08T01:41:54.509442+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
    "status": "not_found"
   },
   "tussle-digital|fullstack|l1": {
@@ -28436,6 +28496,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "vansof|mobile|l1": {
+   "expires": "2026-12-02T11:49:38.953399+00:00",
+   "looked_up": "2026-11-23T11:01:24+00:00",
+   "status": "not_found"
   },
   "vasool-ai|swe|l1": {
    "expires": "2026-12-09T06:49:01.221592+00:00",
@@ -29775,11 +29840,6 @@
    "looked_up": "2026-11-17T14:01:21+00:00",
    "status": "not_found"
   },
-  "world-wide-technology|swe|l1": {
-   "expires": "2026-11-23T10:15:29.351545+00:00",
-   "looked_up": "2026-11-03T13:01:30+00:00",
-   "status": "not_found"
-  },
   "worldlineglobal|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -30653,8 +30713,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2649,
-  "lookups_today": 47,
+  "lookups_month": 2657,
+  "lookups_today": 55,
   "month": "2026-11"
  }
 }
