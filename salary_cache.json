@@ -216,11 +216,6 @@
    "looked_up": "2026-11-09T16:01:22+00:00",
    "status": "not_found"
   },
-  "abacustechnology|devops|l1": {
-   "expires": "2026-11-23T00:07:29.444239+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -3563,11 +3558,6 @@
   "bavarian-machineing-works-pvt-ltd|swe|l1": {
    "expires": "2026-11-28T00:56:18.990959+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "bayer|erp|l1": {
-   "expires": "2026-11-23T00:40:12.897989+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "bayone-solutions|swe|l1": {
@@ -8673,11 +8663,6 @@
    "looked_up": "2026-11-18T06:01:19+00:00",
    "status": "not_found"
   },
-  "educationzonepvtltd|swe|l1": {
-   "expires": "2026-11-23T00:18:25.219637+00:00",
-   "looked_up": "2026-11-14T21:01:18+00:00",
-   "status": "not_found"
-  },
   "edurun-virtuoso-pvt-ltd|data|l1": {
    "expires": "2026-11-25T17:43:54.667562+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
@@ -12578,8 +12563,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T09:05:35.730886+00:00",
-   "looked_up": "2026-11-23T00:01:27+00:00",
+   "expires": "2027-02-21T01:40:52.284724+00:00",
+   "looked_up": "2026-11-23T00:52:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16034,8 +16019,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:42:12.534497+00:00",
-   "looked_up": "2026-11-23T00:01:27+00:00",
+   "expires": "2027-02-15T12:11:02.420041+00:00",
+   "looked_up": "2026-11-23T00:52:41+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16556,8 +16541,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T17:23:00.256340+00:00",
-   "looked_up": "2026-11-23T00:01:27+00:00",
+   "expires": "2027-02-16T17:27:23.293108+00:00",
+   "looked_up": "2026-11-23T00:52:41+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
