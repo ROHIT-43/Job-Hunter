@@ -1278,11 +1278,6 @@
    "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
-  "allegis-global-solutions|swe|l1": {
-   "expires": "2026-11-23T15:22:22.873533+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
-  },
   "allicabank|security|l1": {
    "expires": "2026-12-05T00:27:40.297078+00:00",
    "looked_up": "2026-11-18T20:01:24+00:00",
@@ -1817,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T15:50:31.093610+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-22T00:17:04.882865+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2823,8 +2818,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T18:31:00.295595+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-17T02:23:46.156334+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3828,11 +3823,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "binated|fullstack|l1": {
-   "expires": "2026-11-23T15:55:33.381419+00:00",
-   "looked_up": "2026-11-05T07:01:17+00:00",
-   "status": "not_found"
   },
   "birbalai-ai-company|swe|l1": {
    "basis": "ctc",
@@ -6965,8 +6955,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T12:37:45.099790+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-27T17:57:54.424141+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8529,8 +8519,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T05:53:16.476201+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-15T11:03:39.139481+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15160,8 +15150,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:02:35.722973+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-23T09:08:20.424137+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16229,8 +16219,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:37:50.275126+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-24T01:20:48.999475+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17141,11 +17131,6 @@
   "market-disc-media-private-limited|swe|l1": {
    "expires": "2026-12-02T10:30:40.666433+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "mars-telecom-systems-pvt.-ltd.|swe|l1": {
-   "expires": "2026-11-23T15:10:34.465476+00:00",
-   "looked_up": "2026-11-11T14:01:27+00:00",
    "status": "not_found"
   },
   "marshglobal|frontend|l1": {
@@ -22721,8 +22706,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T04:14:38.702636+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-24T23:31:54.287778+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -24093,8 +24078,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:02:17.613390+00:00",
-   "looked_up": "2026-11-23T15:01:25+00:00",
+   "expires": "2027-02-23T08:11:16.248280+00:00",
+   "looked_up": "2026-11-23T16:01:40+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -26912,11 +26897,6 @@
   "thashortofit|fullstack|l1": {
    "expires": "2026-11-26T02:43:52.082295+00:00",
    "looked_up": "2026-11-09T23:01:26+00:00",
-   "status": "not_found"
-  },
-  "the-aes-group|swe|l1": {
-   "expires": "2026-11-23T15:56:35.347537+00:00",
-   "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
   "the-brand-exact|frontend|l1": {
