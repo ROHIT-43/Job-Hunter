@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T10:25:40.265616+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-26T09:39:08.964604+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T02:24:24.555073+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-22T08:50:56.137933+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3121,11 +3121,6 @@
   "autoven|swe|l1": {
    "expires": "2026-11-24T10:33:19.652919+00:00",
    "looked_up": "2026-11-11T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "autozone|erp|l1": {
-   "expires": "2026-11-23T17:03:27.075439+00:00",
-   "looked_up": "2026-11-12T18:01:22+00:00",
    "status": "not_found"
   },
   "avaloq|mobile|l1": {
@@ -5202,11 +5197,6 @@
    "looked_up": "2026-11-17T15:01:31+00:00",
    "status": "not_found"
   },
-  "carl-zeiss-india-czi|swe|l1": {
-   "expires": "2026-11-23T17:51:36.317145+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
-   "status": "not_found"
-  },
   "carrier|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6950,8 +6940,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:44:37.026957+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-25T00:04:34.952691+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8514,8 +8504,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T09:15:43.582405+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-22T08:33:38.926226+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -9710,11 +9700,6 @@
   "excacademy|erp|l1": {
    "expires": "2026-11-28T05:30:19.246907+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
-  },
-  "excelya|swe|l1": {
-   "expires": "2026-11-23T17:42:07.511277+00:00",
-   "looked_up": "2026-11-14T14:01:19+00:00",
    "status": "not_found"
   },
   "exl-service|data|l1": {
@@ -14339,11 +14324,6 @@
    "looked_up": "2026-11-23T11:01:24+00:00",
    "status": "not_found"
   },
-  "innovaesi|swe|l1": {
-   "expires": "2026-11-23T17:20:50.573364+00:00",
-   "looked_up": "2026-11-05T10:01:16+00:00",
-   "status": "not_found"
-  },
   "innovative-information-technologies-inc.|swe|l1": {
    "expires": "2026-11-29T18:28:21.759264+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
@@ -15145,8 +15125,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T19:07:25.442796+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-23T15:54:16.945608+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16214,8 +16194,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:18:53.699018+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-19T10:29:39.989421+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18403,6 +18383,20 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "mxcignite|swe|l3": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-23T18:37:38.782441+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
+   "max_lpa": 12.0,
+   "min_lpa": 8.4,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "mycareernet|swe|l1": {
    "expires": "2026-11-25T22:58:20.542995+00:00",
@@ -22696,8 +22690,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T15:27:27.731182+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-22T22:04:20.571443+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23044,11 +23038,6 @@
   "role-nest|mobile|l1": {
    "expires": "2026-12-01T08:23:14.780331+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "rollingarrays|erp|l1": {
-   "expires": "2026-11-23T17:06:09.382373+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
    "status": "not_found"
   },
   "routemobile|devops|l1": {
@@ -24063,8 +24052,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T18:44:24.699395+00:00",
-   "looked_up": "2026-11-23T17:01:28+00:00",
+   "expires": "2027-02-15T18:59:28.189603+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25253,6 +25242,20 @@
    "looked_up": "2026-11-03T14:01:33+00:00",
    "status": "not_found"
   },
+  "stoneapp-by-stonegrid|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-15T07:44:45.521874+00:00",
+   "looked_up": "2026-11-23T18:01:23+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 8.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "stradaglobal|erp|l1": {
    "expires": "2026-11-26T01:32:25.986580+00:00",
    "looked_up": "2026-11-06T06:01:16+00:00",
@@ -25800,11 +25803,6 @@
   "talent-to-job|swe|l1": {
    "expires": "2026-11-24T12:27:22.198692+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
-  "talent500|swe|l1": {
-   "expires": "2026-11-23T17:16:20.185736+00:00",
-   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "talentgigs|devops|l1": {
@@ -28724,11 +28722,6 @@
   "verizon|devops|l1": {
    "expires": "2026-12-12T04:15:19.570835+00:00",
    "looked_up": "2026-11-21T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "versatile-employer-of-record|frontend|l1": {
-   "expires": "2026-11-23T17:29:24.927635+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
    "status": "not_found"
   },
   "versigent|swe|l1": {
