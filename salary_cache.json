@@ -798,6 +798,11 @@
    "looked_up": "2026-11-12T10:01:17+00:00",
    "status": "not_found"
   },
+  "afterquery-experts|swe|l1": {
+   "expires": "2026-12-05T12:05:55.072824+00:00",
+   "looked_up": "2026-11-23T03:01:21+00:00",
+   "status": "not_found"
+  },
   "agam-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2961,11 +2966,6 @@
    "looked_up": "2026-11-17T05:01:20+00:00",
    "status": "not_found"
   },
-  "atsmantra|swe|l1": {
-   "expires": "2026-11-23T02:03:10.903850+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "auditics|fullstack|l1": {
    "expires": "2026-11-24T19:10:24.028655+00:00",
    "looked_up": "2026-11-11T08:01:21+00:00",
@@ -4256,11 +4256,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "bookmytournow|mobile|l1": {
-   "expires": "2026-11-23T02:46:33.324698+00:00",
-   "looked_up": "2026-11-14T06:01:18+00:00",
-   "status": "not_found"
   },
   "bornsec|security|l1": {
    "expires": "2026-11-23T09:06:21.329751+00:00",
@@ -12548,8 +12543,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T03:05:38.220548+00:00",
-   "looked_up": "2026-11-23T02:01:30+00:00",
+   "expires": "2027-02-14T09:30:58.449233+00:00",
+   "looked_up": "2026-11-23T03:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16004,8 +15999,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T20:16:49.075913+00:00",
-   "looked_up": "2026-11-23T02:01:30+00:00",
+   "expires": "2027-02-23T10:59:50.679311+00:00",
+   "looked_up": "2026-11-23T03:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16526,8 +16521,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:16:47.411982+00:00",
-   "looked_up": "2026-11-23T02:01:30+00:00",
+   "expires": "2027-02-22T10:06:22.720143+00:00",
+   "looked_up": "2026-11-23T03:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -21695,6 +21690,11 @@
   "quartyl|swe|l1": {
    "expires": "2026-11-29T00:35:11.348758+00:00",
    "looked_up": "2026-11-15T06:01:17+00:00",
+   "status": "not_found"
+  },
+  "quectel-wireless-solutions|swe|l1": {
+   "expires": "2026-12-08T00:43:33.750683+00:00",
+   "looked_up": "2026-11-23T03:01:21+00:00",
    "status": "not_found"
   },
   "quest-global|data|l1": {
@@ -27611,11 +27611,6 @@
    ],
    "status": "found"
   },
-  "unilever|devops|l1": {
-   "expires": "2026-11-23T02:50:23.961151+00:00",
-   "looked_up": "2026-11-13T00:01:28+00:00",
-   "status": "not_found"
-  },
   "unisoftglobalservices|erp|l1": {
    "expires": "2026-11-23T06:21:13.337294+00:00",
    "looked_up": "2026-11-03T08:01:29+00:00",
@@ -30453,8 +30448,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2603,
-  "lookups_today": 1,
+  "lookups_month": 2605,
+  "lookups_today": 3,
   "month": "2026-11"
  }
 }
