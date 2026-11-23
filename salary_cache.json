@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T00:17:04.882865+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-27T10:25:40.265616+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2054,11 +2054,6 @@
   "antogroup|swe|l1": {
    "expires": "2026-11-26T20:16:15.667982+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
-   "status": "not_found"
-  },
-  "apex-orbital-x|swe|l1": {
-   "expires": "2026-11-23T16:50:05.373059+00:00",
-   "looked_up": "2026-11-06T15:01:20+00:00",
    "status": "not_found"
   },
   "apm-technologies|swe|l1": {
@@ -2818,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T02:23:46.156334+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-20T02:24:24.555073+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6955,8 +6950,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T17:57:54.424141+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-21T04:44:37.026957+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8519,8 +8514,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T11:03:39.139481+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-18T09:15:43.582405+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15150,8 +15145,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T09:08:20.424137+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-23T19:07:25.442796+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16219,8 +16214,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T01:20:48.999475+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-26T09:18:53.699018+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -22344,11 +22339,6 @@
    "status": "found",
    "year": 2025
   },
-  "radcube|frontend|l1": {
-   "expires": "2026-11-23T16:20:58.759231+00:00",
-   "looked_up": "2026-11-04T23:01:20+00:00",
-   "status": "not_found"
-  },
   "radiantbiz|swe|l1": {
    "expires": "2026-12-06T04:12:50.597957+00:00",
    "looked_up": "2026-11-23T13:01:22+00:00",
@@ -22706,8 +22696,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T23:31:54.287778+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-22T15:27:27.731182+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23962,11 +23952,6 @@
    "looked_up": "2026-11-15T18:01:34+00:00",
    "status": "not_found"
   },
-  "segula-technologies|erp|l1": {
-   "expires": "2026-11-23T16:10:30.233068+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
   "segula-technologies|security|l1": {
    "expires": "2026-11-24T07:43:02.076047+00:00",
    "looked_up": "2026-11-05T11:01:19+00:00",
@@ -24078,8 +24063,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:11:16.248280+00:00",
-   "looked_up": "2026-11-23T16:01:40+00:00",
+   "expires": "2027-02-25T18:44:24.699395+00:00",
+   "looked_up": "2026-11-23T17:01:28+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
