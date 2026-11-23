@@ -1817,8 +1817,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T03:31:51.504059+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-22T14:59:25.718950+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3820,6 +3820,22 @@
    "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
+  "birbalai-ai-company|swe|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-25T07:33:23.766021+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "max_lpa": 7.6,
+   "min_lpa": 5.9,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/birbal-ai-salaries/fresher"
+    }
+   ],
+   "status": "found",
+   "year": 2024
+  },
   "birlasoft|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4898,11 +4914,6 @@
   "capco|frontend|l1": {
    "expires": "2026-11-29T07:57:56.778123+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
-   "status": "not_found"
-  },
-  "capco|fullstack|l1": {
-   "expires": "2026-11-23T12:19:16.575865+00:00",
-   "looked_up": "2026-11-15T13:01:25+00:00",
    "status": "not_found"
   },
   "capco|swe|l1": {
@@ -6945,8 +6956,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T17:50:19.123728+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-25T19:15:11.662004+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7673,6 +7684,11 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "dcluttr|swe|l1": {
+   "expires": "2026-12-05T17:54:57.937905+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "status": "not_found"
   },
   "decodebyentropik|swe|l1": {
    "basis": "ctc",
@@ -8454,6 +8470,27 @@
    "looked_up": "2026-11-21T07:01:20+00:00",
    "status": "not_found"
   },
+  "dozeehealth|frontend|l2": {
+   "expires": "2026-12-10T21:57:27.114119+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "status": "not_found"
+  },
+  "dozeehealth|swe|l2": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-27T03:57:21.483127+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "max_lpa": 15.5,
+   "min_lpa": 10.7,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/dozee-salaries/software-engineer"
+    }
+   ],
+   "status": "found",
+   "year": 2023
+  },
   "dp-jewellers|frontend|l1": {
    "expires": "2026-12-06T15:24:29.102670+00:00",
    "looked_up": "2026-11-21T14:01:22+00:00",
@@ -8483,8 +8520,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:49:30.760327+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-25T15:06:38.285232+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8851,11 +8888,6 @@
   "electroglobal-electronic-components|swe|l1": {
    "expires": "2026-11-24T15:44:43.499446+00:00",
    "looked_up": "2026-11-15T12:01:18+00:00",
-   "status": "not_found"
-  },
-  "element-technologies|erp|l1": {
-   "expires": "2026-11-23T12:53:36.168341+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "elitesquad-ai|devops|l1": {
@@ -11752,11 +11784,6 @@
   "gostride-ventures|swe|l1": {
    "expires": "2026-11-25T04:51:49.913669+00:00",
    "looked_up": "2026-11-09T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "govt-women-s-college-baripada|swe|l1": {
-   "expires": "2026-11-23T12:34:44.358972+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "grab-space|frontend|l1": {
@@ -15134,8 +15161,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:37:51.876566+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-20T18:30:36.340532+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16203,8 +16230,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:57:33.021075+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-25T03:44:16.621683+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16754,8 +16781,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T08:05:51.699408+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-20T01:50:56.438530+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17945,11 +17972,6 @@
    "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
-  "moar-advisory|swe|l1": {
-   "expires": "2026-11-23T12:44:44.104425+00:00",
-   "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
   "mobily-infotech|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18581,6 +18603,11 @@
   "nationsbenefitsindia|devops|l1": {
    "expires": "2026-12-02T03:49:08.393860+00:00",
    "looked_up": "2026-11-16T08:06:20+00:00",
+   "status": "not_found"
+  },
+  "nationsbenefits|devops|l1": {
+   "expires": "2026-12-09T21:17:36.674551+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "status": "not_found"
   },
   "natwest-group|data|l1": {
@@ -19551,6 +19578,26 @@
    "status": "found",
    "year": 2026
   },
+  "nutanix|swe|l3": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-19T08:13:17.340122+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "max_lpa": 49.5,
+   "min_lpa": 32.5,
+   "sources": [
+    {
+     "title": "6figr.com",
+     "uri": "https://6figr.com/in/salary/nutanix--developer-3--pune"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/jobs/nutanix-jobs-cmp?page=2"
+    }
+   ],
+   "status": "found",
+   "year": 2026
+  },
   "nutanxt-technologies|swe|l1": {
    "expires": "2026-11-29T19:29:24.592962+00:00",
    "looked_up": "2026-11-12T11:01:28+00:00",
@@ -19785,11 +19832,6 @@
   "omegahires|devops|l1": {
    "expires": "2026-11-26T21:33:34.662205+00:00",
    "looked_up": "2026-11-18T08:01:17+00:00",
-   "status": "not_found"
-  },
-  "omegahires|swe|l1": {
-   "expires": "2026-11-23T12:07:24.849801+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
    "status": "not_found"
   },
   "omniskopeinc|data|l1": {
@@ -22343,6 +22385,11 @@
    "looked_up": "2026-11-04T23:01:20+00:00",
    "status": "not_found"
   },
+  "radiantbiz|swe|l1": {
+   "expires": "2026-12-06T04:12:50.597957+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "status": "not_found"
+  },
   "raerollc|swe|l1": {
    "expires": "2026-12-08T18:12:29.365442+00:00",
    "looked_up": "2026-11-18T20:01:24+00:00",
@@ -22695,10 +22742,10 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:31:10.799910+00:00",
-   "looked_up": "2026-11-19T08:01:19+00:00",
-   "max_lpa": 4.0,
-   "min_lpa": 4.0,
+   "expires": "2027-02-18T23:48:56.341057+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
+   "max_lpa": 5.5,
+   "min_lpa": 5.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -22724,11 +22771,6 @@
   "rengy|mobile|l2": {
    "expires": "2026-11-23T21:27:05.170540+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "renovision-automation-services-pvt-ltd|swe|l1": {
-   "expires": "2026-11-23T12:33:26.390320+00:00",
-   "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
   "rentablez|fullstack|l1": {
@@ -24072,8 +24114,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T09:48:24.914307+00:00",
-   "looked_up": "2026-11-23T12:01:35+00:00",
+   "expires": "2027-02-27T18:09:44.859784+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -24448,11 +24490,6 @@
   "simcorp|swe|l1": {
    "expires": "2026-12-04T09:28:12.065599+00:00",
    "looked_up": "2026-11-16T17:01:27+00:00",
-   "status": "not_found"
-  },
-  "simple-digital-fze|swe|l1": {
-   "expires": "2026-11-23T12:05:50.836862+00:00",
-   "looked_up": "2026-11-05T05:01:17+00:00",
    "status": "not_found"
   },
   "siroclinpharm|swe|l1": {
@@ -25834,6 +25871,11 @@
   "talentrabbit|swe|l1": {
    "expires": "2026-11-26T09:37:43.505852+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
+   "status": "not_found"
+  },
+  "talentrix-digital|swe|l1": {
+   "expires": "2026-12-14T11:50:19.766825+00:00",
+   "looked_up": "2026-11-23T13:01:22+00:00",
    "status": "not_found"
   },
   "talevo|swe|l1": {
@@ -30831,8 +30873,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2671,
-  "lookups_today": 69,
+  "lookups_month": 2679,
+  "lookups_today": 77,
   "month": "2026-11"
  }
 }
