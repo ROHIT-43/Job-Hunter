@@ -2002,11 +2002,6 @@
    "looked_up": "2026-11-12T19:01:26+00:00",
    "status": "not_found"
   },
-  "apexplus-technologies|swe|l1": {
-   "expires": "2026-11-23T01:15:20.985302+00:00",
-   "looked_up": "2026-11-09T08:01:22+00:00",
-   "status": "not_found"
-  },
   "apm-technologies|swe|l1": {
    "expires": "2026-11-30T04:50:20.599653+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
@@ -2989,11 +2984,6 @@
     }
    ],
    "status": "found"
-  },
-  "auric-ai|swe|l1": {
-   "expires": "2026-11-23T01:14:35.782268+00:00",
-   "looked_up": "2026-11-09T19:01:30+00:00",
-   "status": "not_found"
   },
   "aurify-technology|fullstack|l1": {
    "expires": "2026-12-01T01:42:52.928260+00:00",
@@ -4471,11 +4461,6 @@
   "bridgestone|erp|l1": {
    "expires": "2026-11-30T05:40:29.439494+00:00",
    "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
-  "bridgetown-consulting|swe|l1": {
-   "expires": "2026-11-23T01:28:18.688176+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "brigadegroup|swe|l1": {
@@ -12563,8 +12548,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T05:57:35.677614+00:00",
-   "looked_up": "2026-11-23T01:01:38+00:00",
+   "expires": "2027-02-27T03:05:38.220548+00:00",
+   "looked_up": "2026-11-23T02:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -16019,8 +16004,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T02:11:49.382499+00:00",
-   "looked_up": "2026-11-23T01:01:38+00:00",
+   "expires": "2027-02-26T20:16:49.075913+00:00",
+   "looked_up": "2026-11-23T02:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16541,8 +16526,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T18:19:47.519739+00:00",
-   "looked_up": "2026-11-23T01:01:38+00:00",
+   "expires": "2027-02-19T09:16:47.411982+00:00",
+   "looked_up": "2026-11-23T02:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
