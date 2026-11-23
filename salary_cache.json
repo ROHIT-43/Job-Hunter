@@ -2766,6 +2766,11 @@
    "looked_up": "2026-11-19T14:01:19+00:00",
    "status": "not_found"
   },
+  "aspirox-private-limited|swe|l1": {
+   "expires": "2026-12-03T17:42:43.688203+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
+   "status": "not_found"
+  },
   "assystem|frontend|l1": {
    "expires": "2026-12-01T17:41:10.123307+00:00",
    "looked_up": "2026-11-12T10:01:17+00:00",
@@ -9556,11 +9561,6 @@
    "status": "found",
    "year": 2024
   },
-  "exasoftglobal|swe|l1": {
-   "expires": "2026-11-23T03:42:42.975800+00:00",
-   "looked_up": "2026-11-06T05:01:17+00:00",
-   "status": "not_found"
-  },
   "excacademy|erp|l1": {
    "expires": "2026-11-28T05:30:19.246907+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
@@ -12543,8 +12543,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T09:30:58.449233+00:00",
-   "looked_up": "2026-11-23T03:01:21+00:00",
+   "expires": "2027-02-21T04:27:57.742976+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -15999,8 +15999,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:59:50.679311+00:00",
-   "looked_up": "2026-11-23T03:01:21+00:00",
+   "expires": "2027-02-24T10:46:00.223522+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16521,8 +16521,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:06:22.720143+00:00",
-   "looked_up": "2026-11-23T03:01:21+00:00",
+   "expires": "2027-02-16T14:45:36.613760+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -17656,11 +17656,6 @@
   "mirafra-technologies|swe|l1": {
    "expires": "2026-12-03T20:49:59.775992+00:00",
    "looked_up": "2026-11-19T07:01:25+00:00",
-   "status": "not_found"
-  },
-  "miraixorg|data|l1": {
-   "expires": "2026-11-23T03:28:50.583825+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
   "mirum-gmbh|fullstack|l1": {
@@ -19540,6 +19535,11 @@
    "looked_up": "2026-11-12T01:01:24+00:00",
    "status": "not_found"
   },
+  "omygontechnology|swe|l1": {
+   "expires": "2026-12-02T07:25:36.508741+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
+   "status": "not_found"
+  },
   "one-advanced|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20014,6 +20014,11 @@
   "owlsure|swe|l1": {
    "expires": "2026-11-23T06:36:12.845763+00:00",
    "looked_up": "2026-11-11T07:01:25+00:00",
+   "status": "not_found"
+  },
+  "p-i-v-o-t-security|security|l1": {
+   "expires": "2026-12-01T11:25:46.066635+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
    "status": "not_found"
   },
   "p360|swe|l1": {
@@ -23101,11 +23106,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "samayconsulting|swe|l1": {
-   "expires": "2026-11-23T03:18:31.680638+00:00",
-   "looked_up": "2026-11-05T23:01:23+00:00",
-   "status": "not_found"
   },
   "samisha-holidays|frontend|l1": {
    "expires": "2026-12-07T20:32:20.586586+00:00",
@@ -26813,6 +26813,11 @@
    "looked_up": "2026-11-16T16:01:21+00:00",
    "status": "not_found"
   },
+  "thinkwise-consulting-llp|security|l1": {
+   "expires": "2026-12-07T07:39:27.862695+00:00",
+   "looked_up": "2026-11-23T04:01:18+00:00",
+   "status": "not_found"
+  },
   "thomson-reuters|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -30448,8 +30453,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2605,
-  "lookups_today": 3,
+  "lookups_month": 2609,
+  "lookups_today": 7,
   "month": "2026-11"
  }
 }
