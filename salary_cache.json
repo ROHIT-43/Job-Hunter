@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:38:58.464748+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-19T13:58:52.171077+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T06:57:02.924129+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-24T03:55:48.992778+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6935,8 +6935,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:36:28.489971+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-25T06:30:14.686070+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8499,8 +8499,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T05:36:59.245315+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-24T12:51:42.035260+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8525,11 +8525,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "droom-media|fullstack|l1": {
-   "expires": "2026-11-23T19:34:38.513584+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
   },
   "drucks|swe|l1": {
    "expires": "2026-12-06T01:39:15.829513+00:00",
@@ -15120,8 +15115,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T01:21:53.868266+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-15T17:33:35.746859+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15221,11 +15216,6 @@
   "joblet-ai|swe|l1": {
    "expires": "2026-12-02T06:59:02.834680+00:00",
    "looked_up": "2026-11-21T00:01:21+00:00",
-   "status": "not_found"
-  },
-  "jobspiq|frontend|l1": {
-   "expires": "2026-11-23T19:24:07.059148+00:00",
-   "looked_up": "2026-11-03T10:01:30+00:00",
    "status": "not_found"
   },
   "johnson-&amp;-johnson|erp|l1": {
@@ -15703,11 +15693,6 @@
   "khajwaniya-house-private-limited|swe|l1": {
    "expires": "2026-11-24T13:20:34.823214+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
-  "kheewaincorporation|swe|l1": {
-   "expires": "2026-11-23T19:21:49.593795+00:00",
-   "looked_up": "2026-11-09T07:01:24+00:00",
    "status": "not_found"
   },
   "khurana-and-khurana|swe|l1": {
@@ -18382,8 +18367,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:50:45.489383+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-23T19:45:03.243624+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -20323,11 +20308,6 @@
   "ottogroup-one-o|swe|l1": {
    "expires": "2026-12-08T05:08:18.478407+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
-   "status": "not_found"
-  },
-  "outcome-school|swe|l1": {
-   "expires": "2026-11-23T19:09:52.565352+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
   },
   "p-i-v-o-t-security|security|l1": {
@@ -22685,8 +22665,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T16:41:51.320115+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-15T00:25:19.583230+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -24037,8 +24017,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:40:37.179705+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-25T08:43:15.719590+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25230,8 +25210,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T23:04:11.875104+00:00",
-   "looked_up": "2026-11-23T19:01:22+00:00",
+   "expires": "2027-02-20T17:53:55.937944+00:00",
+   "looked_up": "2026-11-23T20:01:19+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29529,11 +29509,6 @@
   "webkit24.com|frontend|l1": {
    "expires": "2026-11-25T13:19:37.461359+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
-   "status": "not_found"
-  },
-  "webkit24.com|swe|l1": {
-   "expires": "2026-11-23T19:47:12.669177+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
    "status": "not_found"
   },
   "webs-it-solution|frontend|l1": {
