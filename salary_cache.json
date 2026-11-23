@@ -1817,8 +1817,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T18:22:27.918709+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-19T15:50:31.093610+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2823,8 +2823,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T07:28:08.727365+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-22T18:31:00.295595+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6965,8 +6965,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T01:45:12.527458+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-26T12:37:45.099790+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8529,8 +8529,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:09:41.413613+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-16T05:53:16.476201+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -11191,11 +11191,6 @@
   "geoserve-maritime|devops|l1": {
    "expires": "2026-11-26T19:30:20.772816+00:00",
    "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
-  "geoserve-maritime|fullstack|l1": {
-   "expires": "2026-11-23T14:24:28.396434+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "getvisitapp|fullstack|l1": {
@@ -15165,8 +15160,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T22:12:59.825302+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-22T10:02:35.722973+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16234,8 +16229,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:54:30.103526+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-18T21:37:50.275126+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17676,11 +17671,6 @@
    "looked_up": "2026-11-23T07:01:23+00:00",
    "status": "not_found"
   },
-  "metlife|data|l1": {
-   "expires": "2026-11-23T14:03:57.529440+00:00",
-   "looked_up": "2026-11-06T11:01:18+00:00",
-   "status": "not_found"
-  },
   "metlife|devops|l1": {
    "expires": "2026-12-01T06:38:24.019806+00:00",
    "looked_up": "2026-11-11T11:01:40+00:00",
@@ -18607,11 +18597,6 @@
   "nationsbenefits|devops|l1": {
    "expires": "2026-12-09T21:17:36.674551+00:00",
    "looked_up": "2026-11-23T13:01:22+00:00",
-   "status": "not_found"
-  },
-  "natwest-group|data|l1": {
-   "expires": "2026-11-23T14:53:55.960974+00:00",
-   "looked_up": "2026-11-11T17:01:24+00:00",
    "status": "not_found"
   },
   "natwest-group|devops|l1": {
@@ -22736,8 +22721,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T10:20:11.891464+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-27T04:14:38.702636+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -24108,8 +24093,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T18:50:40.314263+00:00",
-   "looked_up": "2026-11-23T14:01:25+00:00",
+   "expires": "2027-02-21T09:02:17.613390+00:00",
+   "looked_up": "2026-11-23T15:01:25+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -27805,11 +27790,6 @@
   "truveta|swe|l1": {
    "expires": "2026-11-26T06:22:29.560404+00:00",
    "looked_up": "2026-11-08T15:01:17+00:00",
-   "status": "not_found"
-  },
-  "truwave-software-llc|devops|l1": {
-   "expires": "2026-11-23T14:47:26.736368+00:00",
-   "looked_up": "2026-11-03T08:01:29+00:00",
    "status": "not_found"
   },
   "trycadency-com|swe|l1": {
