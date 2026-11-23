@@ -2208,11 +2208,6 @@
    "status": "found",
    "year": 2026
   },
-  "appliedbusinessconsulting|security|l1": {
-   "expires": "2026-11-23T07:59:28.325985+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
   "appliedbusinessconsulting|swe|l1": {
    "expires": "2026-11-28T02:30:13.174903+00:00",
    "looked_up": "2026-11-12T05:01:17+00:00",
@@ -3029,11 +3024,6 @@
    ],
    "status": "found"
   },
-  "auto-data-catalog|swe|l1": {
-   "expires": "2026-11-23T07:13:14.050687+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
-   "status": "not_found"
-  },
   "autodesk|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3140,6 +3130,11 @@
   "avathonai|mobile|l1": {
    "expires": "2026-12-08T03:54:22.954224+00:00",
    "looked_up": "2026-11-17T14:01:21+00:00",
+   "status": "not_found"
+  },
+  "aventiq-ai|data|l1": {
+   "expires": "2026-12-14T01:41:55.512418+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "status": "not_found"
   },
   "aventiq-ai|frontend|l1": {
@@ -6752,6 +6747,11 @@
    "status": "found",
    "year": 2025
   },
+  "consultixscorp|devops|l1": {
+   "expires": "2026-12-07T13:17:09.684514+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
+   "status": "not_found"
+  },
   "consultixscorp|swe|l1": {
    "expires": "2026-12-12T12:49:33.903913+00:00",
    "looked_up": "2026-11-23T07:01:23+00:00",
@@ -8253,6 +8253,11 @@
    "status": "found",
    "year": 2026
   },
+  "digitize-it-services|swe|l1": {
+   "expires": "2026-12-13T07:31:45.336433+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
+   "status": "not_found"
+  },
   "digy4official|fullstack|l1": {
    "expires": "2026-12-04T05:06:25.892369+00:00",
    "looked_up": "2026-11-22T22:01:25+00:00",
@@ -8434,8 +8439,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T14:24:48.150464+00:00",
-   "looked_up": "2026-11-23T07:01:23+00:00",
+   "expires": "2027-02-20T17:27:11.045800+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8724,14 +8729,14 @@
    "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
+  "edurun-virtuoso-pvt-ltd|devops|l1": {
+   "expires": "2026-12-12T19:58:44.230611+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
+   "status": "not_found"
+  },
   "edurun-virtuoso-pvt-ltd|erp|l1": {
    "expires": "2026-11-30T11:25:06.344467+00:00",
    "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
-  "edurun-virtuoso-pvt-ltd|frontend|l1": {
-   "expires": "2026-11-23T07:59:37.777956+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
    "status": "not_found"
   },
   "edurun-virtuoso-pvt-ltd|fullstack|l1": {
@@ -12629,8 +12634,8 @@
   "hiread-talent-co|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T07:04:49.484171+00:00",
-   "looked_up": "2026-11-23T07:01:23+00:00",
+   "expires": "2027-02-19T09:42:52.355833+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 6.0,
    "sources": [
@@ -14428,6 +14433,11 @@
    "status": "found",
    "year": 2024
   },
+  "inti-fashions|swe|l1": {
+   "expires": "2026-12-07T16:33:30.870653+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
+   "status": "not_found"
+  },
   "into-university-partnerships|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15054,8 +15064,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:55:23.709321+00:00",
-   "looked_up": "2026-11-23T07:01:23+00:00",
+   "expires": "2027-02-21T19:41:42.664056+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16085,8 +16095,8 @@
   "launch-ecom-solutions|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T18:23:43.789601+00:00",
-   "looked_up": "2026-11-23T07:01:23+00:00",
+   "expires": "2027-02-15T07:38:41.891687+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16145,6 +16155,30 @@
    ],
    "status": "found",
    "year": 2026
+  },
+  "lenskart-com|devops|l1": {
+   "basis": "ctc",
+   "confidence": "low",
+   "expires": "2027-02-14T19:49:01.532304+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
+   "max_lpa": 8.0,
+   "min_lpa": 6.0,
+   "sources": [
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/lenskart-salaries/devops-engineer"
+    },
+    {
+     "title": "ambitionbox.com",
+     "uri": "https://ambitionbox.com/salaries/lenskart-salaries/sde1"
+    },
+    {
+     "title": "naukri.com",
+     "uri": "https://www.naukri.com/code360/library/devops-engineer-at-lenskart"
+    }
+   ],
+   "status": "found",
+   "year": 2025
   },
   "leucine|erp|l1": {
    "basis": "ctc",
@@ -16607,8 +16641,8 @@
   "lunatechnologiespvtltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T23:04:59.930357+00:00",
-   "looked_up": "2026-11-23T07:01:23+00:00",
+   "expires": "2027-02-21T03:08:59.631098+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.0,
    "sources": [
@@ -20808,11 +20842,6 @@
    "status": "found",
    "year": 2025
   },
-  "plumhq|swe|l1": {
-   "expires": "2026-11-23T07:52:36.666592+00:00",
-   "looked_up": "2026-11-04T09:01:30+00:00",
-   "status": "not_found"
-  },
   "pluswealth|fullstack|l1": {
    "expires": "2026-12-02T11:50:10.065977+00:00",
    "looked_up": "2026-11-20T08:01:18+00:00",
@@ -23854,8 +23883,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T03:46:01.044337+00:00",
-   "looked_up": "2026-11-22T07:01:18+00:00",
+   "expires": "2027-02-18T09:46:21.422807+00:00",
+   "looked_up": "2026-11-23T08:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -30586,8 +30615,8 @@
  },
  "meta": {
   "day": "2026-11-23",
-  "lookups_month": 2631,
-  "lookups_today": 29,
+  "lookups_month": 2637,
+  "lookups_today": 35,
   "month": "2026-11"
  }
 }
