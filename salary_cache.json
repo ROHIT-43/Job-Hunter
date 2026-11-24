@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T15:00:08.480761+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-20T05:18:13.594322+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -436,11 +436,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "accordinnovations|swe|l1": {
-   "expires": "2026-11-24T13:36:38.124621+00:00",
-   "looked_up": "2026-11-10T04:01:18+00:00",
-   "status": "not_found"
   },
   "accuknox|security|l1": {
    "basis": "ctc",
@@ -1315,8 +1310,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T05:27:07.831608+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-28T16:45:42.173871+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4642,8 +4637,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:45:11.142608+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-17T13:02:04.748459+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5870,8 +5865,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T23:33:13.812120+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-23T16:34:24.480636+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6087,8 +6082,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T00:42:11.444411+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-27T05:49:47.971265+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -9798,8 +9793,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:20:12.829599+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-28T18:47:23.588088+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14952,8 +14947,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:59:34.759199+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-15T17:56:44.386250+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15522,11 +15517,6 @@
    "status": "found",
    "year": 2025
   },
-  "khajwaniya-house-private-limited|swe|l1": {
-   "expires": "2026-11-24T13:20:34.823214+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
   "khurana-and-khurana|swe|l1": {
    "expires": "2026-11-27T13:24:13.189035+00:00",
    "looked_up": "2026-11-12T15:01:25+00:00",
@@ -15580,11 +15570,6 @@
   "kkr|erp|l1": {
    "expires": "2026-12-06T01:50:08.978859+00:00",
    "looked_up": "2026-11-18T17:01:21+00:00",
-   "status": "not_found"
-  },
-  "kksoft-bim|swe|l1": {
-   "expires": "2026-11-24T13:44:33.451985+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
   "klacorp|fullstack|l1": {
@@ -18153,8 +18138,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:46:42.110353+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-15T14:07:09.499844+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18203,8 +18188,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T07:33:01.837592+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-16T13:48:57.675506+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -19244,11 +19229,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "ntt-data-inc|devops|l1": {
-   "expires": "2026-11-24T13:38:12.238348+00:00",
-   "looked_up": "2026-11-03T19:01:57+00:00",
-   "status": "not_found"
   },
   "nuawoman|swe|l1": {
    "basis": "ctc",
@@ -23178,11 +23158,6 @@
    "looked_up": "2026-11-17T03:01:22+00:00",
    "status": "not_found"
   },
-  "sandisk|swe|l1": {
-   "expires": "2026-11-24T13:10:52.433463+00:00",
-   "looked_up": "2026-11-04T13:01:29+00:00",
-   "status": "not_found"
-  },
   "sandvik|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24946,8 +24921,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T05:27:09.593645+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-18T21:07:44.286052+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -25053,11 +25028,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sulzer|erp|l1": {
-   "expires": "2026-11-24T13:18:50.477030+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
-   "status": "not_found"
   },
   "sulzer|swe|l1": {
    "expires": "2026-12-10T04:41:08.239386+00:00",
@@ -26573,11 +26543,6 @@
    "looked_up": "2026-11-09T23:01:26+00:00",
    "status": "not_found"
   },
-  "the-brand-exact|frontend|l1": {
-   "expires": "2026-11-24T13:23:39.712877+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
   "the-emmes-group|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -27643,8 +27608,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T04:41:25.075550+00:00",
-   "looked_up": "2026-11-24T13:01:25+00:00",
+   "expires": "2027-02-17T22:33:15.053232+00:00",
+   "looked_up": "2026-11-24T14:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
