@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T21:41:09.465423+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-17T02:52:18.235968+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2813,8 +2813,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T11:42:40.007971+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-03-01T00:00:11.927512+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5124,11 +5124,6 @@
    "looked_up": "2026-11-21T21:01:20+00:00",
    "status": "not_found"
   },
-  "careerxperts-consulting|security|l1": {
-   "expires": "2026-11-23T23:22:25.155351+00:00",
-   "looked_up": "2026-11-11T05:01:21+00:00",
-   "status": "not_found"
-  },
   "carelon-global-solutions-in|data|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -6925,8 +6920,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T13:24:58.065096+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-17T23:59:29.904318+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8479,8 +8474,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T08:38:12.701280+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-18T07:43:39.410773+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -15080,8 +15075,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T06:14:03.879575+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-26T03:48:39.481440+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18327,8 +18322,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:11:10.837765+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-15T10:09:25.462592+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22610,8 +22605,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T21:49:10.342318+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-17T21:50:19.545422+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23957,8 +23952,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:55:19.696494+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-18T05:22:31.559134+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25140,8 +25135,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:00:36.108546+00:00",
-   "looked_up": "2026-11-23T23:01:28+00:00",
+   "expires": "2027-02-20T23:20:19.422752+00:00",
+   "looked_up": "2026-11-24T00:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -30669,9 +30664,9 @@
   }
  },
  "meta": {
-  "day": "2026-11-23",
+  "day": "2026-11-24",
   "lookups_month": 2679,
-  "lookups_today": 77,
+  "lookups_today": 0,
   "month": "2026-11"
  }
 }
