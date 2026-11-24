@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T13:49:21.132987+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-18T19:22:05.743783+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1816,8 +1816,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T22:56:13.325254+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-24T16:16:09.179545+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2797,8 +2797,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T23:06:42.696877+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-16T16:55:40.047728+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6884,8 +6884,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T16:13:46.776806+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-18T08:16:34.270288+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8123,11 +8123,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "digiletechnologies|data|l1": {
-   "expires": "2026-11-24T05:23:14.059008+00:00",
-   "looked_up": "2026-11-09T12:01:22+00:00",
-   "status": "not_found"
   },
   "digiletechnologies|erp|l1": {
    "basis": "base",
@@ -10613,11 +10608,6 @@
   "flutter-entertainment-india|data|l1": {
    "expires": "2026-11-25T01:52:56.001363+00:00",
    "looked_up": "2026-11-09T12:01:22+00:00",
-   "status": "not_found"
-  },
-  "flywire|erp|l2": {
-   "expires": "2026-11-24T05:14:06.224277+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
    "status": "not_found"
   },
   "flywire|security|l2": {
@@ -14311,11 +14301,6 @@
    "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
-  "integrichain|data|l1": {
-   "expires": "2026-11-24T05:53:42.215439+00:00",
-   "looked_up": "2026-11-06T00:01:23+00:00",
-   "status": "not_found"
-  },
   "intel-corporation|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15014,8 +14999,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T01:35:20.198843+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-18T19:54:20.900103+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18261,8 +18246,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T08:48:15.239086+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-20T02:29:15.355248+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22337,11 +22322,6 @@
    "looked_up": "2026-11-09T16:01:22+00:00",
    "status": "not_found"
   },
-  "recrew-ai|swe|l1": {
-   "expires": "2026-11-24T06:01:08.484975+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
-   "status": "not_found"
-  },
   "recro-io|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22529,8 +22509,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:29:24.782692+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-16T10:00:47.269485+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23871,8 +23851,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T06:07:28.976380+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-23T08:41:18.678679+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25044,8 +25024,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T15:35:24.451787+00:00",
-   "looked_up": "2026-11-24T05:01:21+00:00",
+   "expires": "2027-02-18T07:04:46.720355+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27746,8 +27726,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-10T09:32:09.132125+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
+   "expires": "2027-02-16T22:07:19.149610+00:00",
+   "looked_up": "2026-11-24T06:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28853,11 +28833,6 @@
   "vnptech|swe|l1": {
    "expires": "2026-11-26T04:36:17.147396+00:00",
    "looked_up": "2026-11-07T10:01:22+00:00",
-   "status": "not_found"
-  },
-  "voedly|frontend|l1": {
-   "expires": "2026-11-24T05:55:06.069072+00:00",
-   "looked_up": "2026-11-08T16:01:17+00:00",
    "status": "not_found"
   },
   "vois|data|l1": {
