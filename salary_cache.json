@@ -5,11 +5,6 @@
    "looked_up": "2026-11-13T07:01:23+00:00",
    "status": "not_found"
   },
-  "3ionetra-swadharma|mobile|l1": {
-   "expires": "2026-11-24T03:54:50.840787+00:00",
-   "looked_up": "2026-11-04T10:01:28+00:00",
-   "status": "not_found"
-  },
   "3m|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1788,11 +1783,6 @@
    "status": "found",
    "year": 2026
   },
-  "ametek|swe|l1": {
-   "expires": "2026-11-24T03:11:45.859624+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
-   "status": "not_found"
-  },
   "amgen|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -1812,8 +1802,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T01:57:32.076864+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-21T17:16:06.847538+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2793,8 +2783,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:02:38.822368+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-23T06:50:08.252747+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -6895,8 +6885,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T03:54:11.870955+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-17T11:32:20.902974+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8449,8 +8439,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:27:20.016972+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-17T17:46:54.601827+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -13310,11 +13300,6 @@
    "looked_up": "2026-11-13T15:01:23+00:00",
    "status": "not_found"
   },
-  "icapital-network-inc|swe|l1": {
-   "expires": "2026-11-24T03:55:49.527339+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
-   "status": "not_found"
-  },
   "icemarkets|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -15035,8 +15020,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T14:15:05.592535+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-23T01:35:20.198843+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18282,8 +18267,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T19:46:15.872524+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-20T10:45:15.200118+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22555,8 +22540,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:41:53.349203+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-27T11:11:39.391705+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23897,8 +23882,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T03:02:04.721323+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-26T08:10:37.417108+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25070,8 +25055,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T22:19:24.399896+00:00",
-   "looked_up": "2026-11-24T03:01:22+00:00",
+   "expires": "2027-02-16T22:31:59.624622+00:00",
+   "looked_up": "2026-11-24T04:01:33+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
