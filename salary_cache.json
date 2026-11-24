@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:14:30.226386+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-26T22:02:11.522117+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1305,8 +1305,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T22:52:55.028555+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-03-01T04:20:54.194220+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4627,8 +4627,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:14:45.994932+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-26T00:57:43.236936+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5775,11 +5775,6 @@
    "looked_up": "2026-11-09T17:01:26+00:00",
    "status": "not_found"
   },
-  "clearinfosec|security|l1": {
-   "expires": "2026-11-24T16:49:49.495667+00:00",
-   "looked_up": "2026-11-09T06:01:20+00:00",
-   "status": "not_found"
-  },
   "clevertap|security|l1": {
    "expires": "2026-11-29T22:53:41.297407+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
@@ -5855,8 +5850,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T20:17:36.224911+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-25T05:55:53.782236+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6072,8 +6067,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T23:52:26.739222+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-22T05:58:46.959213+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7010,11 +7005,6 @@
   "crowe-capabilities-center|devops|l1": {
    "expires": "2026-11-27T14:15:30.159144+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
-  "crowe-capabilities-center|swe|l1": {
-   "expires": "2026-11-24T16:37:54.160615+00:00",
-   "looked_up": "2026-11-13T12:01:45+00:00",
    "status": "not_found"
   },
   "cruciallogics|devops|l1": {
@@ -8300,11 +8290,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "doomindustries|swe|l1": {
-   "expires": "2026-11-24T16:28:56.276124+00:00",
-   "looked_up": "2026-11-16T11:01:23+00:00",
-   "status": "not_found"
   },
   "dooscale|swe|l1": {
    "expires": "2026-11-26T11:50:31.062534+00:00",
@@ -9778,8 +9763,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T21:24:35.757500+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-16T13:41:13.993901+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14927,8 +14912,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:52:24.916966+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-20T09:58:58.416058+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18118,8 +18103,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T01:39:55.794698+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-17T15:33:14.292461+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18168,8 +18153,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T12:02:12.395942+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-28T20:25:05.137463+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -19536,11 +19521,6 @@
   "omegahires|devops|l1": {
    "expires": "2026-11-26T21:33:34.662205+00:00",
    "looked_up": "2026-11-18T08:01:17+00:00",
-   "status": "not_found"
-  },
-  "omniskopeinc|data|l1": {
-   "expires": "2026-11-24T16:21:57.762501+00:00",
-   "looked_up": "2026-11-05T07:01:17+00:00",
    "status": "not_found"
   },
   "omnissa|data|l1": {
@@ -24896,8 +24876,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T07:38:01.769203+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-03-01T04:05:04.809259+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27010,8 +26990,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:37:27.364527+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-03-01T06:31:11.025496+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -27592,8 +27572,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T08:19:27.870284+00:00",
-   "looked_up": "2026-11-24T16:01:22+00:00",
+   "expires": "2027-02-26T16:19:07.778051+00:00",
+   "looked_up": "2026-11-24T17:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -30328,11 +30308,6 @@
   "zimmerbiomet|swe|l2": {
    "expires": "2026-11-24T20:23:24.403081+00:00",
    "looked_up": "2026-11-06T11:01:18+00:00",
-   "status": "not_found"
-  },
-  "zintlr|data|l1": {
-   "expires": "2026-11-24T16:38:50.501936+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
   "zscaler|swe|l1": {
