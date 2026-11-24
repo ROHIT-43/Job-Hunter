@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T09:09:52.931868+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-24T03:28:37.627333+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1315,8 +1315,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T15:03:32.725169+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-21T02:49:58.789054+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1811,8 +1811,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T09:23:39.739210+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-18T14:37:21.241104+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2782,8 +2782,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T06:52:37.194469+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-17T02:07:22.930912+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2801,11 +2801,6 @@
   "astellaspharmainc|swe|l1": {
    "expires": "2026-11-27T09:07:27.028089+00:00",
    "looked_up": "2026-11-06T16:01:16+00:00",
-   "status": "not_found"
-  },
-  "astranovamobility|fullstack|l1": {
-   "expires": "2026-11-24T09:20:19.396293+00:00",
-   "looked_up": "2026-11-17T06:01:18+00:00",
    "status": "not_found"
   },
   "astreya|swe|l2": {
@@ -4652,8 +4647,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T16:02:10.094365+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-28T23:27:07.715382+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5880,8 +5875,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T07:13:18.973342+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-28T22:45:00.683673+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6097,8 +6092,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:46:31.804162+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-26T05:02:27.115217+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6883,8 +6878,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T18:24:06.995657+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-19T09:53:20.226790+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8767,11 +8762,6 @@
    "status": "found",
    "year": 2025
   },
-  "ekloud|erp|l1": {
-   "expires": "2026-11-24T09:36:54.617152+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "ekloud|swe|l1": {
    "expires": "2026-11-28T05:50:33.248943+00:00",
    "looked_up": "2026-11-12T09:01:24+00:00",
@@ -9813,8 +9803,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:43:15.238785+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-03-01T04:30:14.857436+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14982,8 +14972,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T03:41:39.197333+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-18T02:02:50.901950+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18188,8 +18178,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:40:43.914073+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-15T17:54:55.563684+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18238,8 +18228,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:39:04.675797+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-26T16:41:23.261529+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -19100,11 +19090,6 @@
   "norwin-technologies|security|l1": {
    "expires": "2026-11-25T06:46:35.699255+00:00",
    "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
-  },
-  "not-drones-innovations-pvt-ltd|swe|l1": {
-   "expires": "2026-11-24T09:48:19.945643+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
    "status": "not_found"
   },
   "notionuetlahore|frontend|l1": {
@@ -21637,11 +21622,6 @@
    "looked_up": "2026-11-23T07:01:23+00:00",
    "status": "not_found"
   },
-  "qisacademy|swe|l1": {
-   "expires": "2026-11-24T09:02:39.344861+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "qloron|data|l1": {
    "expires": "2026-12-07T05:55:40.109593+00:00",
    "looked_up": "2026-11-21T13:01:20+00:00",
@@ -22496,8 +22476,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T17:25:42.645521+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-20T21:22:57.731553+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -25006,8 +24986,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T23:25:26.926832+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-27T18:59:39.630284+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27708,8 +27688,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T20:50:40.597937+00:00",
-   "looked_up": "2026-11-24T09:01:27+00:00",
+   "expires": "2027-02-26T21:44:45.207006+00:00",
+   "looked_up": "2026-11-24T10:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
