@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:24:38.541153+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-21T17:20:15.136877+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -326,11 +326,6 @@
   "accendra-health|devops|l1": {
    "expires": "2026-11-27T12:05:56.668263+00:00",
    "looked_up": "2026-11-15T13:01:25+00:00",
-   "status": "not_found"
-  },
-  "accendra-health|erp|l1": {
-   "expires": "2026-11-24T06:36:44.003982+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
    "status": "not_found"
   },
   "accentureindia|data|l1": {
@@ -1320,8 +1315,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-21T22:30:16.335095+00:00",
-   "looked_up": "2026-10-22T06:01:29+00:00",
+   "expires": "2027-02-22T21:45:14.058993+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1816,8 +1811,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:39:00.001212+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-03-01T02:24:20.537622+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2792,8 +2787,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T19:27:58.696638+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-25T21:01:49.281163+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5876,8 +5871,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-09T23:56:48.180770+00:00",
-   "looked_up": "2026-10-16T11:01:36+00:00",
+   "expires": "2027-02-20T23:23:42.995171+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6093,10 +6088,10 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-14T17:18:25.757711+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
-   "max_lpa": 20.0,
-   "min_lpa": 20.0,
+   "expires": "2027-02-17T08:39:08.176379+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 30.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -6879,8 +6874,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T13:49:57.893190+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-24T19:45:37.349331+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9810,6 +9805,20 @@
    "expires": "2026-12-01T17:39:25.672197+00:00",
    "looked_up": "2026-11-11T15:01:22+00:00",
    "status": "not_found"
+  },
+  "ezil|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-25T16:17:48.686598+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 10.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "ezspaceventures|data|l1": {
    "expires": "2026-11-25T05:15:52.084905+00:00",
@@ -14989,8 +14998,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T10:57:06.376156+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-23T06:17:45.181469+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18197,6 +18206,20 @@
    "status": "found",
    "year": 2026
   },
+  "msg-technologies-company|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-27T22:43:55.568271+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
+   "max_lpa": 2.4,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "msi-services-pvt-ltd|swe|l1": {
    "expires": "2026-12-09T13:15:54.696821+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
@@ -18236,8 +18259,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T22:04:50.427541+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-17T16:10:46.144416+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22494,8 +22517,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:45:40.427811+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-19T10:15:50.570297+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23836,8 +23859,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T20:29:59.269362+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-26T17:40:36.759662+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25009,8 +25032,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T10:38:13.078403+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-16T18:28:20.967652+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27711,8 +27734,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T15:42:18.510739+00:00",
-   "looked_up": "2026-11-24T06:35:17+00:00",
+   "expires": "2027-02-19T08:11:22.846538+00:00",
+   "looked_up": "2026-11-24T07:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28188,11 +28211,6 @@
   "vaics-consulting|swe|l1": {
    "expires": "2026-11-25T09:02:35.437180+00:00",
    "looked_up": "2026-11-17T13:01:24+00:00",
-   "status": "not_found"
-  },
-  "valarr|swe|l1": {
-   "expires": "2026-11-24T06:42:32.298204+00:00",
-   "looked_up": "2026-11-03T07:01:29+00:00",
    "status": "not_found"
   },
   "valgenesis-inc|fullstack|l1": {
