@@ -1812,8 +1812,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:30:50.887886+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-21T21:52:21.785567+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2092,11 +2092,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "appinventiv|frontend|l1": {
-   "expires": "2026-11-24T01:21:35.147355+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
-   "status": "not_found"
   },
   "appinventiv|swe|l1": {
    "basis": "ctc",
@@ -2813,8 +2808,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T08:57:10.163521+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-20T19:06:44.853352+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3691,11 +3686,6 @@
   "beroe-inc|swe|l1": {
    "expires": "2026-12-08T09:34:13.082725+00:00",
    "looked_up": "2026-11-18T16:01:21+00:00",
-   "status": "not_found"
-  },
-  "best-nanotech|swe|l1": {
-   "expires": "2026-11-24T01:56:45.103384+00:00",
-   "looked_up": "2026-11-04T08:01:29+00:00",
    "status": "not_found"
   },
   "bestpeersllc|data|l1": {
@@ -6920,8 +6910,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T12:50:08.838739+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-16T07:54:51.515605+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8474,8 +8464,8 @@
   "drmudhiwalla|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T23:16:44.093681+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-20T21:18:56.876190+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 4.0,
    "sources": [
@@ -8911,11 +8901,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "emergenceai|swe|l1": {
-   "expires": "2026-11-24T01:04:08.330884+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
-   "status": "not_found"
   },
   "emerson|erp|l1": {
    "expires": "2026-11-29T08:05:17.336207+00:00",
@@ -12001,11 +11986,6 @@
    "status": "found",
    "year": 2025
   },
-  "hakkoda|erp|l1": {
-   "expires": "2026-11-24T01:38:04.344939+00:00",
-   "looked_up": "2026-11-09T01:01:20+00:00",
-   "status": "not_found"
-  },
   "hamid-tech-world|frontend|l1": {
    "expires": "2026-11-26T05:38:42.996968+00:00",
    "looked_up": "2026-11-14T18:01:20+00:00",
@@ -15075,8 +15055,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T10:17:31.934198+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-24T03:25:31.332831+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18322,8 +18302,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T14:29:33.852714+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-17T17:29:34.840687+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -18506,11 +18486,6 @@
   "nationsbenefits|devops|l1": {
    "expires": "2026-12-09T21:17:36.674551+00:00",
    "looked_up": "2026-11-23T13:01:22+00:00",
-   "status": "not_found"
-  },
-  "natwest-group|devops|l1": {
-   "expires": "2026-11-24T01:22:22.099403+00:00",
-   "looked_up": "2026-11-11T00:01:24+00:00",
    "status": "not_found"
   },
   "natwest-group|swe|l1": {
@@ -18837,11 +18812,6 @@
   "netgear|swe|l3": {
    "expires": "2026-12-09T05:06:57.094259+00:00",
    "looked_up": "2026-11-18T18:01:27+00:00",
-   "status": "not_found"
-  },
-  "netrio|security|l1": {
-   "expires": "2026-11-24T01:58:12.033166+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
    "status": "not_found"
   },
   "netsysconconsulting|fullstack|l1": {
@@ -22605,8 +22575,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T16:02:24.039922+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-18T08:28:49.295360+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23321,11 +23291,6 @@
    "status": "found",
    "year": 2026
   },
-  "salexi-hr|swe|l1": {
-   "expires": "2026-11-24T01:36:09.675339+00:00",
-   "looked_up": "2026-11-13T09:01:24+00:00",
-   "status": "not_found"
-  },
   "samartherp|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23952,8 +23917,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:43:26.103077+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-20T00:14:44.645755+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -23962,11 +23927,6 @@
     }
    ],
    "status": "found"
-  },
-  "sharda-consultancy-services-staffingsoftwareservices|swe|l1": {
-   "expires": "2026-11-24T01:32:05.096641+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
   },
   "sharechat|swe|l2": {
    "basis": "base",
@@ -24959,11 +24919,6 @@
    "status": "found",
    "year": 2026
   },
-  "spikewell|data|l1": {
-   "expires": "2026-11-24T01:51:00.069495+00:00",
-   "looked_up": "2026-11-14T05:01:30+00:00",
-   "status": "not_found"
-  },
   "sporensprouts|data|l1": {
    "expires": "2026-12-05T03:21:22.368227+00:00",
    "looked_up": "2026-11-15T22:01:18+00:00",
@@ -25135,8 +25090,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T16:19:03.600000+00:00",
-   "looked_up": "2026-11-24T01:01:27+00:00",
+   "expires": "2027-02-26T08:24:46.235658+00:00",
+   "looked_up": "2026-11-24T02:01:22+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -29124,11 +29079,6 @@
   "wafynet|swe|l1": {
    "expires": "2026-11-27T04:37:58.920692+00:00",
    "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
-  "wall-street-consulting-services-llc|fullstack|l1": {
-   "expires": "2026-11-24T01:01:31.156926+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
   "walmartglobaltechindia|fullstack|l3": {
