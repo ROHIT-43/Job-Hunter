@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T20:39:46.163256+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-18T01:48:04.131444+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1315,8 +1315,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T06:34:42.158248+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-18T16:43:30.914548+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2782,8 +2782,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T12:52:38.695287+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-21T17:01:21.888010+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4642,8 +4642,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T00:47:17.775427+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-24T14:28:46.725857+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5870,8 +5870,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T04:46:09.898745+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-03-01T01:01:20.371120+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6087,8 +6087,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T13:10:36.095237+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-22T09:11:32.061864+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -9798,8 +9798,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T20:39:22.153479+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-20T14:47:54.147309+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14264,11 +14264,6 @@
    "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
-  "intangles-lab-pvt-ltd|swe|l1": {
-   "expires": "2026-11-24T11:19:22.580908+00:00",
-   "looked_up": "2026-11-17T06:01:18+00:00",
-   "status": "not_found"
-  },
   "intel-corporation|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14962,8 +14957,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T12:41:13.389557+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-19T15:59:53.289621+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18168,8 +18163,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:06:37.663962+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-17T10:19:18.283088+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18218,8 +18213,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T09:18:17.041682+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-22T18:37:36.512637+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -19423,11 +19418,6 @@
    ],
    "status": "found",
    "year": 2021
-  },
-  "nxerra|swe|l1": {
-   "expires": "2026-11-24T11:38:47.940620+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
-   "status": "not_found"
   },
   "nxp-semiconductors|swe|l1": {
    "basis": "ctc",
@@ -22461,8 +22451,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:58:21.736164+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-27T01:53:27.972280+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -24966,8 +24956,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T05:03:42.490210+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-15T23:11:26.298454+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27668,8 +27658,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T06:24:33.538143+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-18T14:41:35.284362+00:00",
+   "looked_up": "2026-11-24T12:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
