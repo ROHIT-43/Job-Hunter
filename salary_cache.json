@@ -135,6 +135,20 @@
    ],
    "status": "found"
   },
+  "99digitalm|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-21T13:49:21.132987+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
+   "max_lpa": 1.8,
+   "min_lpa": 1.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "9nexus|data|l1": {
    "expires": "2026-11-29T13:33:15.514329+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
@@ -1802,8 +1816,8 @@
   "amipolymerindia|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:16:06.847538+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-15T22:56:13.325254+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -2783,8 +2797,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:50:08.252747+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-24T23:06:42.696877+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4239,11 +4253,6 @@
    "status": "found",
    "year": 2026
   },
-  "bolzano-india|swe|l1": {
-   "expires": "2026-11-24T04:56:40.079367+00:00",
-   "looked_up": "2026-11-13T19:01:21+00:00",
-   "status": "not_found"
-  },
   "bookingholdings|data|l2": {
    "basis": "base",
    "confidence": "low",
@@ -4658,11 +4667,6 @@
   "bruntworkcareers|frontend|l1": {
    "expires": "2026-11-28T23:46:01.975731+00:00",
    "looked_up": "2026-11-19T11:01:19+00:00",
-   "status": "not_found"
-  },
-  "bruntworkcareers|swe|l1": {
-   "expires": "2026-11-24T04:36:36.079941+00:00",
-   "looked_up": "2026-11-09T08:01:22+00:00",
    "status": "not_found"
   },
   "bryka-electrosystems-and-software-pvt-ltd|swe|l1": {
@@ -5550,11 +5554,6 @@
   "cgtsolutions|devops|l1": {
    "expires": "2026-11-30T09:24:42.835054+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
-  "cgtsolutions|erp|l1": {
-   "expires": "2026-11-24T04:10:55.385267+00:00",
-   "looked_up": "2026-11-11T06:01:26+00:00",
    "status": "not_found"
   },
   "cgtsolutions|security|l1": {
@@ -6885,8 +6884,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:32:20.902974+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-25T16:13:46.776806+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -11697,11 +11696,6 @@
     }
    ],
    "status": "found"
-  },
-  "grant-thornton-indus|erp|l1": {
-   "expires": "2026-11-24T04:31:49.298266+00:00",
-   "looked_up": "2026-11-16T11:01:23+00:00",
-   "status": "not_found"
   },
   "gravyn-app|frontend|l1": {
    "expires": "2026-11-29T18:28:56.635386+00:00",
@@ -18267,8 +18261,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T10:45:15.200118+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-26T08:48:15.239086+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -21010,11 +21004,6 @@
    "looked_up": "2026-11-11T18:01:20+00:00",
    "status": "not_found"
   },
-  "ppstack|swe|l1": {
-   "expires": "2026-11-24T04:55:58.618747+00:00",
-   "looked_up": "2026-11-03T16:01:30+00:00",
-   "status": "not_found"
-  },
   "practo-technologies-pvt-ltd|data|l1": {
    "expires": "2026-11-26T19:42:43.891903+00:00",
    "looked_up": "2026-11-07T01:01:15+00:00",
@@ -22540,8 +22529,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T11:11:39.391705+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-17T22:29:24.782692+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -23882,8 +23871,8 @@
   "sharda-consultancy-services-staffingsoftwareservices|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T08:10:37.417108+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-20T06:07:28.976380+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 14.0,
    "min_lpa": 14.0,
    "sources": [
@@ -25055,8 +25044,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T22:31:59.624622+00:00",
-   "looked_up": "2026-11-24T04:01:33+00:00",
+   "expires": "2027-02-18T15:35:24.451787+00:00",
+   "looked_up": "2026-11-24T05:01:21+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
