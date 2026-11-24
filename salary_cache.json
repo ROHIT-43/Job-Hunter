@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T09:26:14.585096+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-18T05:48:09.298177+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:00:58.924467+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-25T16:40:13.550862+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -177,11 +177,6 @@
   "aaaglobal|swe|l1": {
    "expires": "2026-12-01T21:35:55.989749+00:00",
    "looked_up": "2026-11-19T09:01:21+00:00",
-   "status": "not_found"
-  },
-  "aakraya-research-llp|swe|l1": {
-   "expires": "2026-11-24T19:56:15.345742+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
    "status": "not_found"
   },
   "aakritimfg|swe|l1": {
@@ -1305,8 +1300,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T10:42:29.312036+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-20T08:25:37.291020+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2968,11 +2963,6 @@
    "looked_up": "2026-11-23T06:01:23+00:00",
    "status": "not_found"
   },
-  "auditics|fullstack|l1": {
-   "expires": "2026-11-24T19:10:24.028655+00:00",
-   "looked_up": "2026-11-11T08:01:21+00:00",
-   "status": "not_found"
-  },
   "aura-industries-group|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4622,8 +4612,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T13:13:27.775072+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-22T09:46:55.699459+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5195,11 +5185,6 @@
    "status": "found",
    "year": 2021
   },
-  "caterpillar-inc|devops|l1": {
-   "expires": "2026-11-24T19:43:55.045430+00:00",
-   "looked_up": "2026-11-09T17:01:26+00:00",
-   "status": "not_found"
-  },
   "caterpillar-inc|security|l1": {
    "expires": "2026-12-13T09:39:31.373307+00:00",
    "looked_up": "2026-11-22T17:01:31+00:00",
@@ -5298,11 +5283,6 @@
   "ceeq1|swe|l1": {
    "expires": "2026-12-07T06:19:27.659817+00:00",
    "looked_up": "2026-11-17T07:01:21+00:00",
-   "status": "not_found"
-  },
-  "cekuraai|swe|l1": {
-   "expires": "2026-11-24T19:28:37.786994+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
   "celebaltechnologies|swe|l1": {
@@ -5845,8 +5825,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T16:39:34.200545+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-25T07:49:42.190359+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6062,8 +6042,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:41:11.026852+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-22T09:25:28.575732+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7309,11 +7289,6 @@
   "cynergyservices|data|l1": {
    "expires": "2026-12-03T04:56:36.234926+00:00",
    "looked_up": "2026-11-17T12:01:31+00:00",
-   "status": "not_found"
-  },
-  "cysec-global|frontend|l1": {
-   "expires": "2026-11-24T19:50:24.564737+00:00",
-   "looked_up": "2026-11-16T08:06:20+00:00",
    "status": "not_found"
   },
   "cyzerg|swe|l1": {
@@ -8984,11 +8959,6 @@
    "status": "found",
    "year": 2026
   },
-  "enterprise-bot|fullstack|l1": {
-   "expires": "2026-11-24T19:25:57.608230+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
-   "status": "not_found"
-  },
   "enterpriseminds|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -9758,8 +9728,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T04:22:18.810484+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-24T16:18:17.963419+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14477,11 +14447,6 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
-  "it-america-inc|swe|l1": {
-   "expires": "2026-11-24T19:43:19.247057+00:00",
-   "looked_up": "2026-11-13T22:01:23+00:00",
-   "status": "not_found"
-  },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14892,8 +14857,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T05:54:11.044123+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-16T06:36:59.717210+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16795,11 +16760,6 @@
    "looked_up": "2026-11-13T13:01:23+00:00",
    "status": "not_found"
   },
-  "marble-x|devops|l1": {
-   "expires": "2026-11-24T19:23:12.869293+00:00",
-   "looked_up": "2026-11-16T11:01:23+00:00",
-   "status": "not_found"
-  },
   "marcusevansgroup|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -18073,8 +18033,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T10:58:33.754805+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-25T02:53:04.924222+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18123,8 +18083,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T23:00:33.537121+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-19T04:19:02.182738+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -18922,11 +18882,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "nisieon|mobile|l1": {
-   "expires": "2026-11-24T19:53:04.723556+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
   },
   "nitiaide|mobile|l1": {
    "expires": "2026-11-28T23:44:40.262759+00:00",
@@ -23708,11 +23663,6 @@
    "status": "found",
    "year": 2022
   },
-  "sharobi-technologies-india-pvt-ltd-|swe|l1": {
-   "expires": "2026-11-24T19:48:36.161862+00:00",
-   "looked_up": "2026-11-05T09:01:22+00:00",
-   "status": "not_found"
-  },
   "shenzyn|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26950,8 +26900,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:38:48.166945+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-19T15:28:01.163096+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -27532,8 +27482,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T07:11:47.825832+00:00",
-   "looked_up": "2026-11-24T19:01:22+00:00",
+   "expires": "2027-02-24T08:51:26.632786+00:00",
+   "looked_up": "2026-11-24T20:01:19+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
