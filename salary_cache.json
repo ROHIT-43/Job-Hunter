@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T03:28:37.627333+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-26T20:39:46.163256+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1315,8 +1315,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T02:49:58.789054+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-28T06:34:42.158248+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2782,8 +2782,8 @@
   "assesshub|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T02:07:22.930912+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-20T12:52:38.695287+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3075,11 +3075,6 @@
   "autoliv|swe|l1": {
    "expires": "2026-11-26T23:23:28.962364+00:00",
    "looked_up": "2026-11-16T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "autoven|swe|l1": {
-   "expires": "2026-11-24T10:33:19.652919+00:00",
-   "looked_up": "2026-11-11T07:01:25+00:00",
    "status": "not_found"
   },
   "avaloq|mobile|l1": {
@@ -4647,8 +4642,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T23:27:07.715382+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-03-01T00:47:17.775427+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5875,8 +5870,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T22:45:00.683673+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-18T04:46:09.898745+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6092,8 +6087,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:02:27.115217+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-15T13:10:36.095237+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6878,8 +6873,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:53:20.226790+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-17T19:11:40.823494+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9803,8 +9798,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T04:30:14.857436+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-26T20:39:22.153479+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -13807,11 +13802,6 @@
    "status": "found",
    "year": 2025
   },
-  "information-systems-associates-fze|data|l1": {
-   "expires": "2026-11-24T10:43:29.691387+00:00",
-   "looked_up": "2026-11-12T18:01:22+00:00",
-   "status": "not_found"
-  },
   "information-systems-associates-fze|devops|l1": {
    "expires": "2026-12-07T16:05:20.254824+00:00",
    "looked_up": "2026-11-17T18:01:39+00:00",
@@ -14972,8 +14962,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T02:02:50.901950+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-21T12:41:13.389557+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -18178,8 +18168,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-15T17:54:55.563684+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-20T22:06:37.663962+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18228,8 +18218,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T16:41:23.261529+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-17T09:18:17.041682+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -20124,11 +20114,6 @@
   "osheeva|swe|l1": {
    "expires": "2026-12-04T19:31:12.586431+00:00",
    "looked_up": "2026-11-19T15:01:18+00:00",
-   "status": "not_found"
-  },
-  "oslrs|data|l1": {
-   "expires": "2026-11-24T10:41:53.390581+00:00",
-   "looked_up": "2026-11-09T12:01:22+00:00",
    "status": "not_found"
   },
   "others-limited|security|l1": {
@@ -22476,8 +22461,8 @@
   "remdesk|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:22:57.731553+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-23T10:58:21.736164+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 5.5,
    "min_lpa": 5.0,
    "sources": [
@@ -24142,11 +24127,6 @@
    "status": "found",
    "year": 2026
   },
-  "signifycompany|swe|l1": {
-   "expires": "2026-11-24T10:53:54.413317+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
-  },
   "silicon-it-solutions-pvt-ltd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -24986,8 +24966,8 @@
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T18:59:39.630284+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-19T05:03:42.490210+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 8.0,
    "sources": [
@@ -27688,8 +27668,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T21:44:45.207006+00:00",
-   "looked_up": "2026-11-24T10:01:20+00:00",
+   "expires": "2027-02-26T06:24:33.538143+00:00",
+   "looked_up": "2026-11-24T11:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -30248,11 +30228,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zenzz-solutions-pvt-ltd|swe|l1": {
-   "expires": "2026-11-24T10:13:01.201726+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
   },
   "zepcruit|swe|l1": {
    "expires": "2026-12-11T03:42:14.536907+00:00",
