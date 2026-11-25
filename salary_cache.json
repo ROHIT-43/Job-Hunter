@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T11:16:50.158736+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-25T20:09:54.159658+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1290,8 +1290,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T07:44:52.735717+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-27T00:21:12.702581+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -1962,11 +1962,6 @@
   "anr-business-consulting|mobile|l1": {
    "expires": "2026-12-06T22:01:02.163033+00:00",
    "looked_up": "2026-11-22T12:01:19+00:00",
-   "status": "not_found"
-  },
-  "anr-business-consulting|security|l1": {
-   "expires": "2026-11-25T05:55:57.260643+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
    "status": "not_found"
   },
   "anr-business-consulting|swe|l1": {
@@ -4572,8 +4567,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T01:57:18.971671+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-22T14:37:44.309307+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5770,8 +5765,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T00:01:28.208073+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-25T15:53:38.874658+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5987,8 +5982,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T14:32:39.328082+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-24T23:40:54.332290+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -9658,8 +9653,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T10:38:51.823103+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-21T16:05:45.690780+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -9668,11 +9663,6 @@
     }
    ],
    "status": "found"
-  },
-  "ezspaceventures|data|l1": {
-   "expires": "2026-11-25T05:15:52.084905+00:00",
-   "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
   },
   "f5|devops|l2": {
    "basis": "ctc",
@@ -13886,11 +13876,6 @@
    "looked_up": "2026-11-16T14:01:26+00:00",
    "status": "not_found"
   },
-  "infratech-insights|swe|l1": {
-   "expires": "2026-11-25T05:41:39.952700+00:00",
-   "looked_up": "2026-11-16T14:01:26+00:00",
-   "status": "not_found"
-  },
   "infynova|swe|l1": {
    "expires": "2026-12-01T23:46:35.962240+00:00",
    "looked_up": "2026-11-11T17:01:24+00:00",
@@ -16724,8 +16709,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:21:28.832546+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-21T02:40:21.660041+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17932,8 +17917,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:11:44.637980+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-16T13:00:06.059941+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -17982,8 +17967,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T23:52:31.918510+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-26T19:39:45.733727+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -23203,11 +23188,6 @@
    "looked_up": "2026-11-18T07:01:34+00:00",
    "status": "not_found"
   },
-  "schr-dinger|swe|l1": {
-   "expires": "2026-11-25T05:36:31.612702+00:00",
-   "looked_up": "2026-11-07T14:01:22+00:00",
-   "status": "not_found"
-  },
   "schwab-india|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24383,8 +24363,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T10:15:48.676361+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-21T12:26:34.027870+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -26749,8 +26729,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T14:02:58.250136+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-18T00:54:20.645719+00:00",
+   "looked_up": "2026-11-25T06:01:20+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
