@@ -2302,11 +2302,6 @@
    "status": "found",
    "year": 2024
   },
-  "arabianaroma|frontend|l1": {
-   "expires": "2026-11-25T18:49:17.622700+00:00",
-   "looked_up": "2026-11-07T09:01:19+00:00",
-   "status": "not_found"
-  },
   "arbelosgroup|swe|l1": {
    "expires": "2026-11-26T06:00:36.539359+00:00",
    "looked_up": "2026-11-12T06:01:20+00:00",
@@ -5923,8 +5918,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T14:31:34.611042+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-18T04:27:43.240279+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6732,8 +6727,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T01:32:29.390246+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-28T14:26:09.596150+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10970,8 +10965,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:54:09.804891+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-19T17:11:18.655247+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14680,8 +14675,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:40:15.819681+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-23T09:11:01.143610+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16632,8 +16627,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T12:14:26.062291+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-19T12:17:29.346263+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -20106,8 +20101,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T01:49:08.123524+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-19T07:49:22.862973+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -23165,8 +23160,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T07:18:39.437913+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-24T15:57:01.056319+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24214,8 +24209,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:41:57.669716+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-17T04:47:09.536038+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28744,8 +28739,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:52:42.608083+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-28T23:25:38.280774+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28759,6 +28754,20 @@
    "expires": "2026-12-04T12:19:11.660815+00:00",
    "looked_up": "2026-11-23T07:01:23+00:00",
    "status": "not_found"
+  },
+  "welcometoasmcastings|swe|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-26T23:55:52.177971+00:00",
+   "looked_up": "2026-11-25T19:01:42+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 4.8,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "wellsfargo|erp|l1": {
    "basis": "ctc",
