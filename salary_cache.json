@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T11:00:13.443945+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-21T20:20:25.045394+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -138,8 +138,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:42:54.348440+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-21T22:16:39.198983+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -608,11 +608,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "adactingroup|erp|l1": {
-   "expires": "2026-11-25T01:44:42.747357+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
   },
   "adam-eveinc|swe|l1": {
    "expires": "2026-12-06T05:00:53.224130+00:00",
@@ -1300,8 +1295,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:21:35.774434+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-23T22:02:43.156362+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -2387,11 +2382,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "arcatainteractive|swe|l1": {
-   "expires": "2026-11-25T01:06:35.220532+00:00",
-   "looked_up": "2026-11-10T19:01:24+00:00",
-   "status": "not_found"
   },
   "arcticwolf|swe|l1": {
    "expires": "2026-11-27T23:48:31.982500+00:00",
@@ -4607,8 +4597,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T00:40:02.143577+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-28T09:19:59.509093+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5805,8 +5795,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T09:38:03.496609+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-03-01T15:08:22.511149+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -6022,8 +6012,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T20:36:45.546899+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-21T19:07:56.796042+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6920,11 +6910,6 @@
     }
    ],
    "status": "found"
-  },
-  "crossinghurdles|devops|l1": {
-   "expires": "2026-11-25T01:12:54.142840+00:00",
-   "looked_up": "2026-11-14T12:01:22+00:00",
-   "status": "not_found"
   },
   "crossinghurdles|fullstack|l1": {
    "expires": "2026-11-29T11:13:30.519409+00:00",
@@ -9698,8 +9683,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T08:49:57.848744+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-24T12:05:50.445332+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -10487,11 +10472,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "flutter-entertainment-india|data|l1": {
-   "expires": "2026-11-25T01:52:56.001363+00:00",
-   "looked_up": "2026-11-09T12:01:22+00:00",
-   "status": "not_found"
   },
   "fnz|security|l1": {
    "expires": "2026-12-01T23:44:45.006824+00:00",
@@ -14827,8 +14807,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T08:10:22.715332+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-16T22:45:18.228906+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -17993,8 +17973,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T17:04:21.679815+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-16T12:17:50.159930+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18043,8 +18023,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:58:26.675635+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-24T19:24:37.248649+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -18875,11 +18855,6 @@
     }
    ],
    "status": "found"
-  },
-  "nooncom|security|l1": {
-   "expires": "2026-11-25T01:06:08.788153+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
-   "status": "not_found"
   },
   "northern-trust|swe|l1": {
    "basis": "ctc",
@@ -24459,8 +24434,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T05:15:05.866229+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-28T20:39:07.763777+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -26830,8 +26805,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T21:25:36.122810+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-23T20:49:30.342188+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -27412,8 +27387,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T10:57:07.512784+00:00",
-   "looked_up": "2026-11-25T01:01:21+00:00",
+   "expires": "2027-02-22T03:56:27.474480+00:00",
+   "looked_up": "2026-11-25T02:01:20+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
