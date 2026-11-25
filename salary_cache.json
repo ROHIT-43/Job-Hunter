@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T09:52:15.024871+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-25T06:41:18.190149+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1245,11 +1245,6 @@
   "alignerr|security|l1": {
    "expires": "2026-11-30T17:19:46.682476+00:00",
    "looked_up": "2026-11-18T21:56:30+00:00",
-   "status": "not_found"
-  },
-  "alignerr|swe|l1": {
-   "expires": "2026-11-25T07:27:45.058524+00:00",
-   "looked_up": "2026-11-16T05:01:39+00:00",
    "status": "not_found"
   },
   "allbridge-technologies|swe|l1": {
@@ -4514,11 +4509,6 @@
    "status": "found",
    "year": 2023
   },
-  "bristol-myers-squibb|devops|l2": {
-   "expires": "2026-11-25T07:20:19.561714+00:00",
-   "looked_up": "2026-11-04T12:01:29+00:00",
-   "status": "not_found"
-  },
   "broadcom|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -6763,8 +6753,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:11:25.211814+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-19T21:18:24.618157+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9648,8 +9638,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T19:01:53.415228+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-17T19:42:13.791356+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14742,8 +14732,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T04:14:46.662230+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-28T05:45:30.996504+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16704,8 +16694,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:03:18.033196+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-20T11:28:09.484850+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17957,8 +17947,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T21:07:44.958024+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-18T19:36:46.436690+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -22786,11 +22776,6 @@
    "status": "found",
    "year": 2026
   },
-  "salesblox-uk|fullstack|l1": {
-   "expires": "2026-11-25T07:10:11.021206+00:00",
-   "looked_up": "2026-11-07T17:01:25+00:00",
-   "status": "not_found"
-  },
   "salesforce-ad|swe|l1": {
    "basis": "base",
    "confidence": "low",
@@ -24348,8 +24333,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T18:07:22.087766+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-22T08:29:28.403718+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24457,11 +24442,6 @@
   "squareshift|security|l1": {
    "expires": "2026-12-02T11:07:56.394436+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
-  "srm360-consulting-pvt-ltd|frontend|l1": {
-   "expires": "2026-11-25T07:59:22.790990+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
    "status": "not_found"
   },
   "ssm-infotech-solutions-pvt--ltd-|swe|l1": {
@@ -26709,8 +26689,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T05:01:32.055502+00:00",
-   "looked_up": "2026-11-25T07:01:21+00:00",
+   "expires": "2027-02-17T14:21:39.138860+00:00",
+   "looked_up": "2026-11-25T08:01:23+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -29577,11 +29557,6 @@
   "zarvonis|mobile|l1": {
    "expires": "2026-12-05T12:22:51.617187+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
-   "status": "not_found"
-  },
-  "zebra-technologies|data|l1": {
-   "expires": "2026-11-25T07:45:07.371020+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
   "zebra-technologies|devops|l2": {
