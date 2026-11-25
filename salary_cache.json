@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T02:57:13.873093+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-22T00:46:08.095604+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5938,8 +5938,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T16:29:52.405045+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-19T18:48:45.294648+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6752,8 +6752,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T15:00:38.458848+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-27T10:39:52.502486+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9627,8 +9627,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T11:31:09.141400+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-19T09:20:51.458731+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -11010,8 +11010,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T09:15:54.273680+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-23T06:13:32.118178+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14720,8 +14720,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:17:12.909955+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-22T03:52:41.061959+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16672,8 +16672,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T00:46:49.119033+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-23T08:33:31.291132+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -21886,11 +21886,6 @@
    "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
-  "recrew-ai|data|l1": {
-   "expires": "2026-11-25T12:54:16.499424+00:00",
-   "looked_up": "2026-11-09T16:01:22+00:00",
-   "status": "not_found"
-  },
   "recro-io|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -23216,8 +23211,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T22:07:58.447649+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-28T04:48:26.403685+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24280,8 +24275,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T03:38:51.498062+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-03-02T12:06:50.910849+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28820,8 +28815,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T18:40:25.443176+00:00",
-   "looked_up": "2026-11-25T12:54:03+00:00",
+   "expires": "2027-02-27T05:26:10.519139+00:00",
+   "looked_up": "2026-11-25T13:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
