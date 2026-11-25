@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T16:25:03.591710+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-26T10:12:59.858078+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1821,11 +1821,6 @@
   "amtrix-infotech-pvt-ltd|fullstack|l1": {
    "expires": "2026-12-01T11:29:24.365271+00:00",
    "looked_up": "2026-11-19T22:01:35+00:00",
-   "status": "not_found"
-  },
-  "analog-devices|swe|l1": {
-   "expires": "2026-11-25T11:39:34.593956+00:00",
-   "looked_up": "2026-11-07T13:01:17+00:00",
    "status": "not_found"
   },
   "analogyxbi|data|l1": {
@@ -5948,8 +5943,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T03:19:45.421049+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-20T04:42:53.513162+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6762,8 +6757,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T15:12:04.200362+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-03-01T19:55:51.792155+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9637,8 +9632,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T05:38:12.899239+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-18T22:15:34.129518+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -11020,8 +11015,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T18:23:16.606840+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-21T15:57:08.071426+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -13501,11 +13496,6 @@
    "status": "found",
    "year": 2026
   },
-  "indnix-technology-limited|frontend|l1": {
-   "expires": "2026-11-25T11:41:36.585033+00:00",
-   "looked_up": "2026-11-05T20:01:22+00:00",
-   "status": "not_found"
-  },
   "infineon-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -14740,8 +14730,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T19:22:26.168803+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-03-01T11:10:55.988176+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16692,8 +16682,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T12:22:23.862437+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-20T16:47:53.274988+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -19798,11 +19788,6 @@
    "looked_up": "2026-11-19T15:01:18+00:00",
    "status": "not_found"
   },
-  "others-limited|security|l1": {
-   "expires": "2026-11-25T11:54:41.353903+00:00",
-   "looked_up": "2026-11-07T12:01:20+00:00",
-   "status": "not_found"
-  },
   "ottogroup-one-o|swe|l1": {
    "expires": "2026-12-08T05:08:18.478407+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -21921,11 +21906,6 @@
    "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
-  "recollia|security|l1": {
-   "expires": "2026-11-25T11:19:21.281253+00:00",
-   "looked_up": "2026-11-10T17:01:24+00:00",
-   "status": "not_found"
-  },
   "recrew-ai|data|l1": {
    "expires": "2026-11-25T12:54:16.499424+00:00",
    "looked_up": "2026-11-09T16:01:22+00:00",
@@ -22230,11 +22210,6 @@
   "revecloud|erp|l1": {
    "expires": "2026-12-02T03:58:07.778780+00:00",
    "looked_up": "2026-11-18T05:01:28+00:00",
-   "status": "not_found"
-  },
-  "revecloud|swe|l1": {
-   "expires": "2026-11-25T11:32:17.050379+00:00",
-   "looked_up": "2026-11-17T03:01:22+00:00",
    "status": "not_found"
   },
   "reverse-india|fullstack|l1": {
@@ -23266,8 +23241,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T02:08:13.081390+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-03-01T10:18:06.711317+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24330,8 +24305,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:39:35.634266+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-18T20:48:34.400848+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -26686,8 +26661,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:27:22.859413+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-17T21:46:31.398092+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -28870,8 +28845,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:45:48.425977+00:00",
-   "looked_up": "2026-11-25T11:01:24+00:00",
+   "expires": "2027-02-28T18:24:06.800231+00:00",
+   "looked_up": "2026-11-25T12:01:32+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
