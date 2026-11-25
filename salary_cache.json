@@ -5000,11 +5000,6 @@
    "status": "found",
    "year": 2026
   },
-  "cargill|swe|l1": {
-   "expires": "2026-11-25T19:54:48.590340+00:00",
-   "looked_up": "2026-11-18T17:01:21+00:00",
-   "status": "not_found"
-  },
   "carl-zeiss-india-czi|security|l1": {
    "expires": "2026-12-03T07:12:52.052122+00:00",
    "looked_up": "2026-11-17T15:01:31+00:00",
@@ -5918,8 +5913,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T04:27:43.240279+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-21T17:27:50.423366+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6727,8 +6722,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T14:26:09.596150+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-21T09:27:28.446240+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10965,8 +10960,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T17:11:18.655247+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-03-01T06:24:14.622194+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14675,8 +14670,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T09:11:01.143610+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-19T14:52:01.692283+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16627,8 +16622,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T12:17:29.346263+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-24T06:25:42.854586+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -20101,8 +20096,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T07:49:22.862973+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-26T16:38:03.554543+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -23160,8 +23155,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:57:01.056319+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-23T01:51:56.414572+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24209,8 +24204,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T04:47:09.536038+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-18T11:13:40.666484+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24623,11 +24618,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sunlord-electronics-technology-pte-ltd|swe|l1": {
-   "expires": "2026-11-25T19:14:08.376155+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
   },
   "superfan-ng|mobile|l1": {
    "expires": "2026-11-27T12:25:22.843525+00:00",
@@ -26285,11 +26275,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "thermo-fisher-scientific|swe|l3": {
-   "expires": "2026-11-25T19:56:44.800869+00:00",
-   "looked_up": "2026-11-07T09:01:19+00:00",
-   "status": "not_found"
   },
   "theroboticsledger|swe|l1": {
    "basis": "posted",
@@ -28590,10 +28575,10 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-12T09:30:47.940412+00:00",
-   "looked_up": "2026-11-13T15:01:23+00:00",
-   "max_lpa": 20.0,
-   "min_lpa": 15.0,
+   "expires": "2027-02-24T10:43:57.453176+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
+   "max_lpa": 25.0,
+   "min_lpa": 20.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -28739,8 +28724,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T23:25:38.280774+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-21T23:19:05.118156+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28758,8 +28743,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T23:55:52.177971+00:00",
-   "looked_up": "2026-11-25T19:01:42+00:00",
+   "expires": "2027-02-18T05:15:37.436201+00:00",
+   "looked_up": "2026-11-25T20:01:36+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
