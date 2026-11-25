@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T11:27:59.958781+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-24T21:05:03.032968+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5923,8 +5923,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T01:37:32.248286+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-24T14:10:31.255446+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6737,8 +6737,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T15:12:13.520873+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-22T15:06:21.126413+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -8584,11 +8584,6 @@
   "ekloud|swe|l1": {
    "expires": "2026-11-28T05:50:33.248943+00:00",
    "looked_up": "2026-11-12T09:01:24+00:00",
-   "status": "not_found"
-  },
-  "elanco|data|l1": {
-   "expires": "2026-11-25T15:51:36.937763+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "elitesquad-ai|devops|l1": {
@@ -10990,8 +10985,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T23:10:38.742842+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-20T11:18:15.107712+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14700,8 +14695,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:39:49.960359+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-20T23:59:08.230647+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16652,8 +16647,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T11:47:43.492267+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-03-01T14:19:29.892757+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17697,11 +17692,6 @@
    "looked_up": "2026-11-14T09:01:18+00:00",
    "status": "not_found"
   },
-  "mphasis|data|l1": {
-   "expires": "2026-11-25T15:47:41.129375+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
   "mphasis|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -17869,11 +17859,6 @@
   "msx-international|swe|l1": {
    "expires": "2026-12-12T09:57:16.477737+00:00",
    "looked_up": "2026-11-22T15:01:22+00:00",
-   "status": "not_found"
-  },
-  "mufg|erp|l1": {
-   "expires": "2026-11-25T15:26:14.487361+00:00",
-   "looked_up": "2026-11-16T11:01:23+00:00",
    "status": "not_found"
   },
   "multivac-technology-solutions-india-private-limited|erp|l1": {
@@ -20132,6 +20117,20 @@
    "expires": "2026-11-28T17:15:01.993343+00:00",
    "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
+  },
+  "per4mance-guru-performance-marketing-agency|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-03-01T15:34:45.680505+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
+   "max_lpa": 4.8,
+   "min_lpa": 4.2,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
   },
   "perennation-computer-solutions|swe|l1": {
    "expires": "2026-12-01T14:32:05.336849+00:00",
@@ -23186,8 +23185,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T22:20:22.336953+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-18T06:12:24.453124+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24240,8 +24239,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T17:00:03.539589+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-25T11:01:18.282495+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28022,11 +28021,6 @@
    "status": "found",
    "year": 2023
   },
-  "vest-solutions|swe|l1": {
-   "expires": "2026-11-25T15:17:28.591557+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
-   "status": "not_found"
-  },
   "veyra-tech-pvt-ltd|fullstack|l1": {
    "expires": "2026-12-04T22:54:00.799561+00:00",
    "looked_up": "2026-11-19T08:01:19+00:00",
@@ -28775,8 +28769,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T08:41:41.325382+00:00",
-   "looked_up": "2026-11-25T15:01:23+00:00",
+   "expires": "2027-02-24T19:06:00.137096+00:00",
+   "looked_up": "2026-11-25T16:01:28+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
