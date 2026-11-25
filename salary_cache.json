@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T17:17:01.510951+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-26T23:32:10.990771+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -133,8 +133,8 @@
   "99digitalm|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T09:30:46.392678+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-28T23:05:44.453576+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 1.8,
    "min_lpa": 1.8,
    "sources": [
@@ -1290,8 +1290,8 @@
   "almashines|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T04:36:42.050555+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-21T11:32:22.969212+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 5.0,
    "sources": [
@@ -4463,11 +4463,6 @@
    "status": "found",
    "year": 2025
   },
-  "brilliantsweb-in|swe|l1": {
-   "expires": "2026-11-25T03:10:55.945971+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
-   "status": "not_found"
-  },
   "brillio|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4577,8 +4572,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T02:29:45.866654+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-17T13:26:51.511131+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5775,8 +5770,8 @@
   "cloudhire1|swe|l2": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T10:03:28.131513+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-28T07:59:05.295996+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 12.0,
    "sources": [
@@ -5992,8 +5987,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T12:45:51.950101+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-24T16:45:28.500088+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -9663,8 +9658,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T16:03:32.839116+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-16T07:58:12.140316+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14782,8 +14777,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:01:40.123223+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-19T09:36:52.699536+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16749,8 +16744,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T21:15:55.389168+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-03-01T22:14:39.748837+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17056,11 +17051,6 @@
   "mavenworkforce|swe|l1": {
    "expires": "2026-11-28T02:19:23.521605+00:00",
    "looked_up": "2026-11-17T08:01:21+00:00",
-   "status": "not_found"
-  },
-  "max-cement-green-valliey-industries-ltd|erp|l1": {
-   "expires": "2026-11-25T03:39:10.955106+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
    "status": "not_found"
   },
   "mbtygl|data|l1": {
@@ -17962,8 +17952,8 @@
   "msg-technologies-company|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T14:55:18.751306+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-23T04:33:31.734155+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.8,
    "sources": [
@@ -18012,8 +18002,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T11:04:08.445804+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-28T21:46:53.286452+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -23391,11 +23381,6 @@
    "looked_up": "2026-11-20T21:01:17+00:00",
    "status": "not_found"
   },
-  "secure-meters-limited|swe|l1": {
-   "expires": "2026-11-25T03:36:03.788818+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
   "sedin-technologies|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -24423,8 +24408,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:35:14.926205+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-27T10:20:04.681667+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -26789,8 +26774,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T06:11:51.799468+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-21T03:04:24.752321+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
@@ -27371,8 +27356,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:30:54.678871+00:00",
-   "looked_up": "2026-11-25T03:01:23+00:00",
+   "expires": "2027-02-26T04:43:17.644656+00:00",
+   "looked_up": "2026-11-25T04:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
