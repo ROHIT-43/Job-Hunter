@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T00:46:08.095604+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-03-02T13:56:16.284408+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -1175,11 +1175,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "albertsons-companies-india|frontend|l1": {
-   "expires": "2026-11-25T13:05:24.651581+00:00",
-   "looked_up": "2026-11-16T09:01:46+00:00",
-   "status": "not_found"
   },
   "albertsons-companies-india|swe|l1": {
    "expires": "2026-12-06T12:08:21.981201+00:00",
@@ -5938,8 +5933,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T18:48:45.294648+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-24T13:28:52.338590+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6752,8 +6747,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T10:39:52.502486+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-23T14:32:08.342859+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7318,11 +7313,6 @@
   "data-eminence|mobile|l1": {
    "expires": "2026-12-04T17:15:37.831952+00:00",
    "looked_up": "2026-11-21T07:01:20+00:00",
-   "status": "not_found"
-  },
-  "data-eminence|swe|l1": {
-   "expires": "2026-11-25T13:05:41.427758+00:00",
-   "looked_up": "2026-11-07T04:01:12+00:00",
    "status": "not_found"
   },
   "databerry-technologies-pvt-ltd|devops|l1": {
@@ -11010,8 +11000,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T06:13:32.118178+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-26T12:44:06.209454+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14720,8 +14710,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T03:52:41.061959+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-22T03:11:44.739665+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16672,8 +16662,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:33:31.291132+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-17T12:42:43.477480+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -19496,11 +19486,6 @@
   "optimuminfo|swe|l1": {
    "expires": "2026-12-01T23:48:21.558731+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "optiv-inc|swe|l1": {
-   "expires": "2026-11-25T13:36:08.959563+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
    "status": "not_found"
   },
   "optivaluetek|erp|l1": {
@@ -23211,8 +23196,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T04:48:26.403685+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-16T23:42:26.747068+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -23526,11 +23511,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "sia-partners|erp|l1": {
-   "expires": "2026-11-25T13:45:13.108305+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
   },
   "siemens-eda|swe|l1": {
    "basis": "ctc",
@@ -24275,8 +24255,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T12:06:50.910849+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-03-02T03:03:49.399216+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28772,11 +28752,6 @@
    "status": "found",
    "year": 2026
   },
-  "webkit24.com|frontend|l1": {
-   "expires": "2026-11-25T13:19:37.461359+00:00",
-   "looked_up": "2026-11-18T07:01:34+00:00",
-   "status": "not_found"
-  },
   "webs-it-solution|frontend|l1": {
    "expires": "2026-12-02T15:07:41.068626+00:00",
    "looked_up": "2026-11-13T07:01:23+00:00",
@@ -28815,8 +28790,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T05:26:10.519139+00:00",
-   "looked_up": "2026-11-25T13:01:25+00:00",
+   "expires": "2027-02-28T21:42:24.291833+00:00",
+   "looked_up": "2026-11-25T14:01:29+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
