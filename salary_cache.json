@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T06:41:18.190149+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-20T22:47:42.894795+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5950,6 +5950,20 @@
    ],
    "status": "found"
   },
+  "coderoundai|fullstack|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-27T03:58:14.503891+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
+   "max_lpa": 70.0,
+   "min_lpa": 70.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "coderoundai|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -6753,8 +6767,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:18:24.618157+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-25T17:39:35.581726+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -7249,11 +7263,6 @@
     }
    ],
    "status": "found"
-  },
-  "d-square-consulting-services-pvt-ltd|mobile|l1": {
-   "expires": "2026-11-25T08:08:54.284039+00:00",
-   "looked_up": "2026-11-12T13:01:20+00:00",
-   "status": "not_found"
   },
   "daimler-truck-innovation-center-india|fullstack|l1": {
    "expires": "2026-12-09T08:01:11.439710+00:00",
@@ -9054,11 +9063,6 @@
    "status": "found",
    "year": 2026
   },
-  "equifax|swe|l2": {
-   "expires": "2026-11-25T08:18:53.343291+00:00",
-   "looked_up": "2026-11-13T10:01:23+00:00",
-   "status": "not_found"
-  },
   "equinix|devops|l1": {
    "expires": "2026-11-28T02:28:30.110406+00:00",
    "looked_up": "2026-11-18T17:01:21+00:00",
@@ -9638,8 +9642,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:42:13.791356+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-21T07:38:14.681886+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14732,8 +14736,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T05:45:30.996504+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-18T20:40:24.175696+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -15706,11 +15710,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "lancesoft|swe|l1": {
-   "expires": "2026-11-25T08:05:40.183315+00:00",
-   "looked_up": "2026-11-18T06:01:19+00:00",
-   "status": "not_found"
   },
   "lantiqx|swe|l1": {
    "basis": "ctc",
@@ -16694,8 +16693,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:28:09.484850+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-24T09:25:30.806791+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17947,8 +17946,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:36:46.436690+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-22T13:47:41.583734+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -20893,11 +20892,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "prozo|fullstack|l1": {
-   "expires": "2026-11-25T08:57:52.308245+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
-   "status": "not_found"
   },
   "prs-cloud-tech|swe|l1": {
    "expires": "2026-12-09T22:27:41.726269+00:00",
@@ -24333,8 +24327,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T08:29:28.403718+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-17T01:28:27.129075+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -26689,8 +26683,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T14:21:39.138860+00:00",
-   "looked_up": "2026-11-25T08:01:23+00:00",
+   "expires": "2027-02-22T22:21:26.519125+00:00",
+   "looked_up": "2026-11-25T09:01:24+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
