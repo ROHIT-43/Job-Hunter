@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T20:09:54.159658+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-19T09:52:15.024871+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -2505,11 +2505,6 @@
    "status": "found",
    "year": 2026
   },
-  "arnifiofficial|swe|l1": {
-   "expires": "2026-11-25T06:14:41.736147+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
-   "status": "not_found"
-  },
   "arnsoft-technologies-pvt-ltd|swe|l1": {
    "expires": "2026-11-28T01:58:04.923075+00:00",
    "looked_up": "2026-11-17T09:01:19+00:00",
@@ -4567,8 +4562,8 @@
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T14:37:44.309307+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-19T16:03:32.352189+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 3.0,
    "min_lpa": 3.0,
    "sources": [
@@ -6768,8 +6763,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T19:11:40.823494+00:00",
-   "looked_up": "2026-11-24T11:01:27+00:00",
+   "expires": "2027-02-20T07:11:25.211814+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -9653,8 +9648,8 @@
   "ezil|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T16:05:45.690780+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-22T19:01:53.415228+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 10.0,
    "sources": [
@@ -14747,8 +14742,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T11:26:43.900056+00:00",
-   "looked_up": "2026-11-25T05:01:21+00:00",
+   "expires": "2027-02-19T04:14:46.662230+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16709,8 +16704,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T02:40:21.660041+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-22T01:03:18.033196+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -17329,11 +17324,6 @@
   "mikron-automation|swe|l1": {
    "expires": "2026-11-30T10:10:34.508883+00:00",
    "looked_up": "2026-11-14T02:01:27+00:00",
-   "status": "not_found"
-  },
-  "milestone-technologies|erp|l1": {
-   "expires": "2026-11-25T06:49:49.285582+00:00",
-   "looked_up": "2026-11-17T17:01:21+00:00",
    "status": "not_found"
   },
   "millennium-partners|swe|l1": {
@@ -17967,8 +17957,8 @@
   "mxcignite|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T19:39:45.733727+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-28T21:07:44.958024+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 12.0,
    "min_lpa": 8.4,
    "sources": [
@@ -18815,11 +18805,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "norwin-technologies|security|l1": {
-   "expires": "2026-11-25T06:46:35.699255+00:00",
-   "looked_up": "2026-11-06T07:01:16+00:00",
-   "status": "not_found"
   },
   "notionuetlahore|frontend|l1": {
    "expires": "2026-12-08T14:32:03.344390+00:00",
@@ -24363,8 +24348,8 @@
   "sourcingxpress|security|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T12:26:34.027870+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-02-23T18:07:22.087766+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 7.0,
    "min_lpa": 6.0,
    "sources": [
@@ -24891,11 +24876,6 @@
   "sweken-it-solutions|swe|l1": {
    "expires": "2026-11-28T03:17:28.939186+00:00",
    "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
-  },
-  "swiftb2b|fullstack|l1": {
-   "expires": "2026-11-25T06:20:29.920447+00:00",
-   "looked_up": "2026-11-05T13:01:24+00:00",
    "status": "not_found"
   },
   "swiggy-in|swe|l1": {
@@ -26729,8 +26709,8 @@
   "toppersnotes|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T00:54:20.645719+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
+   "expires": "2027-03-02T05:01:32.055502+00:00",
+   "looked_up": "2026-11-25T07:01:21+00:00",
    "max_lpa": 3.2,
    "min_lpa": 3.2,
    "sources": [
