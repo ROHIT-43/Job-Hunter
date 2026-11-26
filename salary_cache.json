@@ -329,11 +329,6 @@
    "status": "found",
    "year": 2026
   },
-  "accentureindia|devops|l1": {
-   "expires": "2026-11-26T17:45:36.343749+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
-   "status": "not_found"
-  },
   "accentureindia|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5851,8 +5846,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T04:43:40.548100+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-24T18:17:30.758677+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -11474,8 +11469,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T01:02:41.698301+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-28T00:45:23.228196+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12687,8 +12682,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T03:49:02.500953+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-28T18:16:07.162782+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13943,11 +13938,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "intuition-it-intuitive-technology-recruitment|erp|l1": {
-   "expires": "2026-11-26T17:45:28.516514+00:00",
-   "looked_up": "2026-11-19T13:01:27+00:00",
-   "status": "not_found"
   },
   "intuit|swe|l1": {
    "basis": "base",
@@ -22089,8 +22079,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T10:06:11.599436+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-03-01T00:06:36.219498+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -26800,8 +26790,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T22:39:13.464940+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-19T17:36:17.727055+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28223,8 +28213,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:18:35.647345+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-25T19:59:16.910322+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28372,8 +28362,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T18:51:13.094356+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-21T07:11:57.597962+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28391,8 +28381,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T04:11:01.287820+00:00",
-   "looked_up": "2026-11-26T17:01:27+00:00",
+   "expires": "2027-02-20T03:24:24.768649+00:00",
+   "looked_up": "2026-11-26T18:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -28581,11 +28571,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "willware-technologies|frontend|l1": {
-   "expires": "2026-11-26T17:24:19.142187+00:00",
-   "looked_up": "2026-11-11T12:01:23+00:00",
-   "status": "not_found"
   },
   "willware-technologies|swe|l1": {
    "expires": "2026-12-06T21:00:30.381138+00:00",
