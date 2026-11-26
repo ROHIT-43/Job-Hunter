@@ -5856,8 +5856,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T17:39:08.883286+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-03-01T21:01:20.463404+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6770,11 +6770,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "crowdstrike|swe|l2": {
-   "expires": "2026-11-26T14:19:38.143041+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
   },
   "crowe-capabilities-center|devops|l1": {
    "expires": "2026-11-27T14:15:30.159144+00:00",
@@ -11489,8 +11484,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T05:10:37.034660+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-26T05:16:23.524673+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12046,11 +12041,6 @@
   "hewlett-packard-enterprise|frontend|l1": {
    "expires": "2026-12-05T14:34:40.707111+00:00",
    "looked_up": "2026-11-16T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "hewlett-packard-enterprise|fullstack|l1": {
-   "expires": "2026-11-26T14:05:28.228368+00:00",
-   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "hewlett-packard-enterprise|security|l1": {
@@ -12707,8 +12697,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:36:51.621356+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-22T05:58:37.174658+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -15735,11 +15725,6 @@
   "linde-engineering|data|l1": {
    "expires": "2026-12-02T09:10:29.644270+00:00",
    "looked_up": "2026-11-18T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "linde-engineering|swe|l2": {
-   "expires": "2026-11-26T14:04:49.683872+00:00",
-   "looked_up": "2026-11-11T16:01:21+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|fullstack|l1": {
@@ -19919,8 +19904,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T08:16:32.572604+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-28T05:43:09.499043+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -22129,8 +22114,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T14:58:54.135771+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-19T00:55:36.576953+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -24241,11 +24226,6 @@
    ],
    "status": "found"
   },
-  "stefanini-na-apac|erp|l1": {
-   "expires": "2026-11-26T14:39:16.579429+00:00",
-   "looked_up": "2026-11-09T23:01:26+00:00",
-   "status": "not_found"
-  },
   "stoneapp-by-stonegrid|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -25852,11 +25832,6 @@
    "status": "found",
    "year": 2025
   },
-  "the-kraft-heinz-company|data|l2": {
-   "expires": "2026-11-26T14:42:30.338288+00:00",
-   "looked_up": "2026-11-06T12:01:18+00:00",
-   "status": "not_found"
-  },
   "the-manitowoc-company|swe|l1": {
    "expires": "2026-11-27T04:12:24.572074+00:00",
    "looked_up": "2026-11-16T18:01:20+00:00",
@@ -26855,8 +26830,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:16:56.382858+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-28T17:13:26.017394+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28190,11 +28165,6 @@
    "status": "found",
    "year": 2022
   },
-  "warner-music-group|devops|l1": {
-   "expires": "2026-11-26T14:59:38.877331+00:00",
-   "looked_up": "2026-11-05T16:01:24+00:00",
-   "status": "not_found"
-  },
   "waystoneglobal|swe|l1": {
    "expires": "2026-12-02T11:15:50.913497+00:00",
    "looked_up": "2026-11-12T13:01:20+00:00",
@@ -28288,8 +28258,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:39:43.489373+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-23T08:03:50.235995+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28437,8 +28407,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T13:01:11.511727+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-03-01T02:24:08.864853+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28456,8 +28426,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T13:17:43.908807+00:00",
-   "looked_up": "2026-11-26T14:01:25+00:00",
+   "expires": "2027-02-22T23:39:26.753037+00:00",
+   "looked_up": "2026-11-26T15:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
