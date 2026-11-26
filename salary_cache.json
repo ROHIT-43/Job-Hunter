@@ -3512,11 +3512,6 @@
    "looked_up": "2026-11-12T06:01:20+00:00",
    "status": "not_found"
   },
-  "berkadia|data|l1": {
-   "expires": "2026-11-26T09:43:55.264970+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
   "beroe-inc|swe|l1": {
    "expires": "2026-12-08T09:34:13.082725+00:00",
    "looked_up": "2026-11-18T16:01:21+00:00",
@@ -5871,8 +5866,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T04:23:54.475660+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-24T16:47:40.489391+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -10153,11 +10148,6 @@
    "looked_up": "2026-11-18T19:01:17+00:00",
    "status": "not_found"
   },
-  "flexipletech|security|l1": {
-   "expires": "2026-11-26T09:41:20.637012+00:00",
-   "looked_up": "2026-11-07T15:01:18+00:00",
-   "status": "not_found"
-  },
   "flexipletech|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -12728,8 +12718,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T19:29:33.338933+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-24T14:18:49.357248+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -13247,11 +13237,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "iitjobs|data|l1": {
-   "expires": "2026-11-26T09:47:07.790348+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
-   "status": "not_found"
   },
   "iitjobs|erp|l1": {
    "expires": "2026-11-29T10:41:37.268862+00:00",
@@ -15275,11 +15260,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "konrad-group|fullstack|l1": {
-   "expires": "2026-11-26T09:09:51.916768+00:00",
-   "looked_up": "2026-11-05T18:01:20+00:00",
-   "status": "not_found"
   },
   "kpi-partners|swe|l1": {
    "basis": "ctc",
@@ -18080,11 +18060,6 @@
    "status": "found",
    "year": 2025
   },
-  "neevglobal|erp|l1": {
-   "expires": "2026-11-26T09:02:39.653621+00:00",
-   "looked_up": "2026-11-05T12:01:24+00:00",
-   "status": "not_found"
-  },
   "nekss-pvt-ltd|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19965,8 +19940,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T18:04:03.029608+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-20T21:11:26.285088+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -22180,8 +22155,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T15:08:14.136118+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-03-02T21:26:29.468248+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -23009,8 +22984,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T09:39:55.022146+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-25T14:17:07.370747+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24828,11 +24803,6 @@
   "talentrabbit|frontend|l1": {
    "expires": "2026-12-02T01:09:58.319811+00:00",
    "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
-  },
-  "talentrabbit|swe|l1": {
-   "expires": "2026-11-26T09:37:43.505852+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
   "talentrix-digital|swe|l1": {
@@ -26931,8 +26901,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T19:08:02.942362+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-18T06:20:17.541562+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28369,8 +28339,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:28:58.724306+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-03-02T01:13:13.521393+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28537,8 +28507,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T17:27:04.319916+00:00",
-   "looked_up": "2026-11-26T09:01:27+00:00",
+   "expires": "2027-02-21T10:43:38.801161+00:00",
+   "looked_up": "2026-11-26T10:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
