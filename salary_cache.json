@@ -1311,11 +1311,6 @@
    ],
    "status": "found"
   },
-  "alphard-maritime|swe|l1": {
-   "expires": "2026-11-26T04:09:36.747241+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
-   "status": "not_found"
-  },
   "alphaspec-consulting-llp|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -5868,8 +5863,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T03:18:57.735177+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-21T04:05:33.762110+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6677,8 +6672,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T16:28:31.721458+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-03-02T00:00:36.926885+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10910,8 +10905,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T15:18:00.095572+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-19T15:04:10.137079+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -20011,8 +20006,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T05:25:14.989279+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-23T23:05:48.003074+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -23060,8 +23055,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T05:21:53.875122+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-22T19:35:11.452994+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -28091,11 +28086,6 @@
    "status": "found",
    "year": 2026
   },
-  "vnptech|swe|l1": {
-   "expires": "2026-11-26T04:36:17.147396+00:00",
-   "looked_up": "2026-11-07T10:01:22+00:00",
-   "status": "not_found"
-  },
   "vois|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -28445,8 +28435,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T05:20:25.535243+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-28T03:59:00.249891+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28594,8 +28584,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T13:41:05.757131+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-26T09:09:24.571103+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28613,8 +28603,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T04:43:33.285487+00:00",
-   "looked_up": "2026-11-26T04:01:20+00:00",
+   "expires": "2027-02-28T19:06:46.580508+00:00",
+   "looked_up": "2026-11-26T05:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
