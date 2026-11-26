@@ -772,11 +772,6 @@
    ],
    "status": "found"
   },
-  "afterquery-experts|frontend|l1": {
-   "expires": "2026-11-26T00:23:13.536676+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
   "afterquery-experts|swe|l1": {
    "expires": "2026-12-05T12:05:55.072824+00:00",
    "looked_up": "2026-11-23T03:01:21+00:00",
@@ -3557,11 +3552,6 @@
    "looked_up": "2026-11-18T16:01:21+00:00",
    "status": "not_found"
   },
-  "bestpeersllc|data|l1": {
-   "expires": "2026-11-26T00:16:18.150366+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
   "betanxt|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -4932,11 +4922,6 @@
    "status": "found",
    "year": 2026
   },
-  "careerblocc|erp|l1": {
-   "expires": "2026-11-26T00:14:10.532662+00:00",
-   "looked_up": "2026-11-15T09:01:17+00:00",
-   "status": "not_found"
-  },
   "careerblocc|frontend|l1": {
    "expires": "2026-12-10T04:27:13.710649+00:00",
    "looked_up": "2026-11-21T21:01:20+00:00",
@@ -5620,11 +5605,6 @@
    "looked_up": "2026-11-18T15:01:28+00:00",
    "status": "not_found"
   },
-  "cleargrid-ai|swe|l1": {
-   "expires": "2026-11-26T00:03:34.624619+00:00",
-   "looked_up": "2026-11-09T17:01:26+00:00",
-   "status": "not_found"
-  },
   "clevertap|security|l1": {
    "expires": "2026-11-29T22:53:41.297407+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
@@ -5903,8 +5883,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T17:15:06.654496+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-03-01T01:57:38.511301+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6712,8 +6692,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T13:10:43.577765+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-20T05:15:56.338433+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10945,8 +10925,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T07:58:09.500084+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-26T20:12:36.171160+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14650,8 +14630,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T12:37:05.725983+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-27T06:07:07.537531+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16602,8 +16582,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T02:41:58.422770+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-26T23:53:38.095045+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -20056,8 +20036,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:13:55.944998+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-28T08:50:10.462775+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -20695,11 +20675,6 @@
     }
    ],
    "status": "found"
-  },
-  "prophecytechs|swe|l1": {
-   "expires": "2026-11-26T00:18:31.994683+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
-   "status": "not_found"
   },
   "proptsolutions|frontend|l1": {
    "basis": "posted",
@@ -23110,8 +23085,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:22:17.874070+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-27T13:08:24.220850+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -25635,11 +25610,6 @@
    "looked_up": "2026-11-18T07:01:34+00:00",
    "status": "not_found"
   },
-  "tecsys-inc|swe|l1": {
-   "expires": "2026-11-26T00:16:13.857260+00:00",
-   "looked_up": "2026-11-13T04:01:20+00:00",
-   "status": "not_found"
-  },
   "tejent-solutions-llp|erp|l1": {
    "expires": "2026-11-30T16:02:48.185454+00:00",
    "looked_up": "2026-11-14T14:01:19+00:00",
@@ -25789,11 +25759,6 @@
   "terrafolk|devops|l1": {
    "expires": "2026-12-02T22:27:54.793614+00:00",
    "looked_up": "2026-11-15T09:01:17+00:00",
-   "status": "not_found"
-  },
-  "tesco-bengaluru|security|l1": {
-   "expires": "2026-11-26T00:20:54.851173+00:00",
-   "looked_up": "2026-11-13T10:01:23+00:00",
    "status": "not_found"
   },
   "tesco-bengaluru|swe|l1": {
@@ -28525,8 +28490,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T11:24:09.702326+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-22T20:51:41.997864+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28674,8 +28639,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T17:16:51.743345+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-21T23:25:51.774833+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28693,8 +28658,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T18:52:13.873773+00:00",
-   "looked_up": "2026-11-26T00:01:23+00:00",
+   "expires": "2027-02-21T05:34:00.743381+00:00",
+   "looked_up": "2026-11-26T01:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
