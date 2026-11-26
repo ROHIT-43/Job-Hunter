@@ -5846,8 +5846,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T03:41:38.801642+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-03-01T19:52:28.022259+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -10649,11 +10649,6 @@
    "looked_up": "2026-11-13T20:01:24+00:00",
    "status": "not_found"
   },
-  "geoserve-maritime|devops|l1": {
-   "expires": "2026-11-26T19:30:20.772816+00:00",
-   "looked_up": "2026-11-06T09:01:17+00:00",
-   "status": "not_found"
-  },
   "getvisitapp|fullstack|l1": {
    "basis": "base",
    "confidence": "low",
@@ -11464,8 +11459,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:44:49.544116+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-02-28T04:05:23.056027+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12677,8 +12672,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T20:39:36.716358+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-02-20T21:33:23.627773+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -20315,11 +20310,6 @@
    "status": "found",
    "year": 2024
   },
-  "practo-technologies-pvt-ltd|data|l1": {
-   "expires": "2026-11-26T19:42:43.891903+00:00",
-   "looked_up": "2026-11-07T01:01:15+00:00",
-   "status": "not_found"
-  },
   "prajapati-technologies|mobile|l1": {
    "expires": "2026-12-08T00:14:43.672488+00:00",
    "looked_up": "2026-11-23T06:01:23+00:00",
@@ -22069,8 +22059,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T03:38:43.572445+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-02-21T04:51:05.389676+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -26780,8 +26770,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T10:00:59.911365+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-02-24T06:07:18.864032+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28352,8 +28342,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T15:26:26.442618+00:00",
-   "looked_up": "2026-11-26T19:01:19+00:00",
+   "expires": "2027-02-19T08:12:41.612639+00:00",
+   "looked_up": "2026-11-26T20:01:23+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
