@@ -1762,11 +1762,6 @@
    ],
    "status": "found"
   },
-  "amity-group-of-schools|fullstack|l1": {
-   "expires": "2026-11-26T06:44:22.450602+00:00",
-   "looked_up": "2026-11-13T11:01:24+00:00",
-   "status": "not_found"
-  },
   "aml-rightsource|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5858,8 +5853,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T01:46:58.609770+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-22T08:03:36.302783+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -5886,10 +5881,10 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T23:40:54.332290+00:00",
-   "looked_up": "2026-11-25T06:01:20+00:00",
-   "max_lpa": 30.0,
-   "min_lpa": 30.0,
+   "expires": "2027-02-24T19:11:03.879283+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
+   "max_lpa": 70.0,
+   "min_lpa": 70.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -10895,8 +10890,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T15:11:24.091136+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-27T17:39:59.369010+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -12750,6 +12745,20 @@
    "status": "found",
    "year": 2025
   },
+  "hyrezy-tech-solutions|devops|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-22T17:01:50.042410+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
+   "max_lpa": 20.0,
+   "min_lpa": 20.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "hyrezy-tech-solutions|frontend|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -13345,11 +13354,6 @@
    "looked_up": "2026-11-18T21:01:15+00:00",
    "status": "not_found"
   },
-  "indiasfutureinvestors|swe|l1": {
-   "expires": "2026-11-26T06:56:41.108406+00:00",
-   "looked_up": "2026-11-18T20:01:24+00:00",
-   "status": "not_found"
-  },
   "indmoney|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -13832,11 +13836,6 @@
   "innovatz-solutions-global|swe|l1": {
    "expires": "2026-12-11T14:02:26.828313+00:00",
    "looked_up": "2026-11-21T14:01:22+00:00",
-   "status": "not_found"
-  },
-  "innovyatech|swe|l1": {
-   "expires": "2026-11-26T06:48:25.727550+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
    "status": "not_found"
   },
   "inovalon|swe|l1": {
@@ -19991,8 +19990,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T08:21:28.003316+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-17T11:20:18.637641+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -22211,9 +22210,9 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-01T05:19:02.609090+00:00",
-   "looked_up": "2026-10-28T07:01:30+00:00",
-   "max_lpa": 6.0,
+   "expires": "2027-02-19T04:04:45.784094+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
+   "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
     {
@@ -23040,8 +23039,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T14:13:10.886005+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-25T07:41:17.856954+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24901,11 +24900,6 @@
    "status": "found",
    "year": 2025
   },
-  "talonsoft-technologies|fullstack|l1": {
-   "expires": "2026-11-26T06:56:02.242946+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
-   "status": "not_found"
-  },
   "tarana-wireless-inc|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -25534,11 +25528,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "techs-to-suit-inc|swe|l1": {
-   "expires": "2026-11-26T06:17:54.565599+00:00",
-   "looked_up": "2026-11-15T08:01:14+00:00",
-   "status": "not_found"
   },
   "techsprout-ai-labs-private-limited|swe|l1": {
    "expires": "2026-12-03T15:30:09.338127+00:00",
@@ -26780,11 +26769,6 @@
    "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
-  "truveta|swe|l1": {
-   "expires": "2026-11-26T06:22:29.560404+00:00",
-   "looked_up": "2026-11-08T15:01:17+00:00",
-   "status": "not_found"
-  },
   "trycadency-com|swe|l1": {
    "expires": "2026-12-10T01:00:31.422125+00:00",
    "looked_up": "2026-11-19T03:01:16+00:00",
@@ -26982,8 +26966,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T15:12:08.421435+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-25T00:10:50.453358+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28420,8 +28404,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T01:04:47.161902+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-22T06:31:59.461285+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28569,8 +28553,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T03:19:56.421564+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-22T22:05:38.273452+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28588,8 +28572,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T15:32:10.704074+00:00",
-   "looked_up": "2026-11-26T06:01:29+00:00",
+   "expires": "2027-02-22T20:59:04.697532+00:00",
+   "looked_up": "2026-11-26T07:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
