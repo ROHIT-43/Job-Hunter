@@ -5851,8 +5851,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T11:04:56.225071+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-23T04:43:40.548100+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -11474,8 +11474,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T16:02:11.354210+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-21T01:02:41.698301+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12687,8 +12687,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T18:16:12.463035+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-26T03:49:02.500953+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -19814,11 +19814,6 @@
    "looked_up": "2026-11-23T05:01:20+00:00",
    "status": "not_found"
   },
-  "penta-consulting|swe|l1": {
-   "expires": "2026-11-26T16:41:23.722430+00:00",
-   "looked_up": "2026-11-12T10:01:17+00:00",
-   "status": "not_found"
-  },
   "penthara|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -20542,11 +20537,6 @@
     }
    ],
    "status": "found"
-  },
-  "prosoai|data|l1": {
-   "expires": "2026-11-26T16:07:36.374025+00:00",
-   "looked_up": "2026-11-18T10:01:16+00:00",
-   "status": "not_found"
   },
   "prosoai|erp|l1": {
    "basis": "ctc",
@@ -22099,8 +22089,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T15:06:06.102973+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-28T10:06:11.599436+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -26810,8 +26800,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T10:15:51.078800+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-26T22:39:13.464940+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28233,8 +28223,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T13:04:21.873460+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-21T20:18:35.647345+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28382,8 +28372,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T07:45:08.874946+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-19T18:51:13.094356+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28401,8 +28391,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:51:38.864137+00:00",
-   "looked_up": "2026-11-26T16:01:24+00:00",
+   "expires": "2027-02-26T04:11:01.287820+00:00",
+   "looked_up": "2026-11-26T17:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
