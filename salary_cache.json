@@ -1063,11 +1063,6 @@
    ],
    "status": "found"
   },
-  "akamai-technologies|data|l2": {
-   "expires": "2026-11-26T08:45:11.868546+00:00",
-   "looked_up": "2026-11-12T17:01:24+00:00",
-   "status": "not_found"
-  },
   "akamai-technologies|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -5876,8 +5871,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T00:53:50.645077+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-24T04:23:54.475660+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -8256,11 +8251,6 @@
   "dwellfi|devops|l1": {
    "expires": "2026-11-29T14:21:51.682151+00:00",
    "looked_up": "2026-11-21T10:01:16+00:00",
-   "status": "not_found"
-  },
-  "dwellfi|frontend|l1": {
-   "expires": "2026-11-26T08:15:47.756832+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
    "status": "not_found"
   },
   "e-soft-it-soluitons|fullstack|l1": {
@@ -10880,8 +10870,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T07:22:45.565120+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-18T17:15:44.674338+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -12738,8 +12728,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T04:12:16.123333+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-28T19:29:33.338933+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -18957,11 +18947,6 @@
    "status": "found",
    "year": 2026
   },
-  "oaknorth-in-india|security|l1": {
-   "expires": "2026-11-26T08:32:54.310385+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
-   "status": "not_found"
-  },
   "oaktree-capital-management|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -19980,8 +19965,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T19:14:36.491846+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-03-01T18:04:03.029608+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -21070,11 +21055,6 @@
   "qloron|data|l1": {
    "expires": "2026-12-07T05:55:40.109593+00:00",
    "looked_up": "2026-11-21T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "qloron|devops|l1": {
-   "expires": "2026-11-26T08:17:13.473401+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
    "status": "not_found"
   },
   "quadeye|swe|l1": {
@@ -22200,8 +22180,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T01:55:38.373507+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-22T15:08:14.136118+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -23029,8 +23009,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T02:38:01.610521+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-25T09:39:55.022146+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -23936,11 +23916,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "solarxindia|fullstack|l1": {
-   "expires": "2026-11-26T08:51:53.407388+00:00",
-   "looked_up": "2026-11-14T08:01:19+00:00",
-   "status": "not_found"
   },
   "solera|devops|l1": {
    "expires": "2026-11-28T02:00:30.952866+00:00",
@@ -26956,8 +26931,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T19:32:50.372457+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-22T19:08:02.942362+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28394,8 +28369,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T21:24:54.021266+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-18T10:28:58.724306+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28543,8 +28518,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T06:38:48.908533+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-17T21:00:25.990694+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28562,8 +28537,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T22:09:11.596132+00:00",
-   "looked_up": "2026-11-26T08:01:23+00:00",
+   "expires": "2027-02-26T17:27:04.319916+00:00",
+   "looked_up": "2026-11-26T09:01:27+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -29169,11 +29144,6 @@
   "yoda-tech-pte-ltd|erp|l1": {
    "expires": "2026-11-29T13:51:17.056508+00:00",
    "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
-  "yoda-tech-pte-ltd|swe|l1": {
-   "expires": "2026-11-26T08:21:14.785393+00:00",
-   "looked_up": "2026-11-05T15:01:28+00:00",
    "status": "not_found"
   },
   "yokogawa|swe|l1": {
