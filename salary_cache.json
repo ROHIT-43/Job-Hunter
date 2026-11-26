@@ -5903,8 +5903,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:18:00.260242+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-28T17:15:06.654496+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6712,8 +6712,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T07:57:33.420752+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-25T13:10:43.577765+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10945,8 +10945,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T01:32:54.640553+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-03-02T07:58:09.500084+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -14650,8 +14650,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T07:58:23.052727+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-22T12:37:05.725983+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -16602,8 +16602,8 @@
   "marukaam|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T00:39:28.240623+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-03-02T02:41:58.422770+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 7.2,
    "min_lpa": 4.8,
    "sources": [
@@ -16776,11 +16776,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "mastertech-web-applications|frontend|l2": {
-   "expires": "2026-11-25T23:34:09.516167+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
   },
   "mastertech-web-applications|swe|l1": {
    "basis": "ctc",
@@ -18029,11 +18024,6 @@
   "navindia|fullstack|l1": {
    "expires": "2026-12-06T12:30:43.454636+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
-   "status": "not_found"
-  },
-  "nbc-bearings|swe|l1": {
-   "expires": "2026-11-25T23:12:13.541412+00:00",
-   "looked_up": "2026-11-12T08:01:23+00:00",
    "status": "not_found"
   },
   "ncratleos|swe|l1": {
@@ -20066,8 +20056,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T05:49:31.124742+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-24T15:13:55.944998+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -23120,8 +23110,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T05:10:17.046828+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-20T08:22:17.874070+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -28535,8 +28525,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T16:18:53.330169+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-25T11:24:09.702326+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28684,8 +28674,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T20:20:43.805402+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-18T17:16:51.743345+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28703,8 +28693,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T16:24:37.156297+00:00",
-   "looked_up": "2026-11-25T23:01:27+00:00",
+   "expires": "2027-02-18T18:52:13.873773+00:00",
+   "looked_up": "2026-11-26T00:01:23+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
@@ -29887,7 +29877,7 @@
   }
  },
  "meta": {
-  "day": "2026-11-25",
+  "day": "2026-11-26",
   "lookups_month": 2679,
   "lookups_today": 0,
   "month": "2026-11"
