@@ -646,11 +646,6 @@
    "status": "found",
    "year": null
   },
-  "aditiconsulting|swe|l1": {
-   "expires": "2026-11-26T11:14:39.842583+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
   "aditya-birla-capital|data|l1": {
    "expires": "2026-11-27T17:29:55.992803+00:00",
    "looked_up": "2026-11-14T19:01:17+00:00",
@@ -5866,8 +5861,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T14:31:59.601244+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-28T14:56:53.649105+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -8039,11 +8034,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "dooscale|swe|l1": {
-   "expires": "2026-11-26T11:50:31.062534+00:00",
-   "looked_up": "2026-11-14T05:01:30+00:00",
-   "status": "not_found"
   },
   "dotsolved|erp|l1": {
    "basis": "ctc",
@@ -12718,8 +12708,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T16:57:18.681644+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-03-03T10:41:09.646605+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -19940,8 +19930,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T00:30:38.847718+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-27T03:53:15.457963+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -22155,8 +22145,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T13:25:03.663239+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-28T10:50:12.334768+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -23566,11 +23556,6 @@
   "skoollagejobs|fullstack|l1": {
    "expires": "2026-12-02T17:21:50.790004+00:00",
    "looked_up": "2026-11-14T05:01:30+00:00",
-   "status": "not_found"
-  },
-  "skyetrip|frontend|l1": {
-   "expires": "2026-11-26T11:24:53.134660+00:00",
-   "looked_up": "2026-11-07T14:01:22+00:00",
    "status": "not_found"
   },
   "skyhighsecurity|swe|l1": {
@@ -26219,11 +26204,6 @@
    "looked_up": "2026-11-20T14:01:25+00:00",
    "status": "not_found"
   },
-  "titan-email|swe|l1": {
-   "expires": "2026-11-26T11:48:53.069346+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
-   "status": "not_found"
-  },
   "tns|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26896,8 +26876,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:43:54.060039+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-22T14:47:26.520428+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28329,8 +28309,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T17:10:51.684860+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-23T05:50:06.063842+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28497,8 +28477,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T07:02:09.607873+00:00",
-   "looked_up": "2026-11-26T11:01:28+00:00",
+   "expires": "2027-02-24T05:34:16.603862+00:00",
+   "looked_up": "2026-11-26T12:01:25+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
