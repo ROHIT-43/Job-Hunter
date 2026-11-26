@@ -676,11 +676,6 @@
    "status": "found",
    "year": 2026
   },
-  "adroitec-engineering-solutions-pvt-ltd|swe|l1": {
-   "expires": "2026-11-26T15:32:16.695723+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
-   "status": "not_found"
-  },
   "adtran|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -5856,8 +5851,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T21:25:30.232808+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-03-03T11:04:56.225071+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6895,11 +6890,6 @@
   "cxosmedia|swe|l1": {
    "expires": "2026-12-03T06:18:48.129424+00:00",
    "looked_up": "2026-11-13T04:01:20+00:00",
-   "status": "not_found"
-  },
-  "cyan360-inc|erp|l1": {
-   "expires": "2026-11-26T15:39:07.525584+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
    "status": "not_found"
   },
   "cybage|data|l1": {
@@ -11484,8 +11474,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T10:46:54.500893+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-23T16:02:11.354210+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12697,8 +12687,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T03:18:52.551332+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-20T18:16:12.463035+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14211,11 +14201,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "ithinkdigitalofficial|swe|l1": {
-   "expires": "2026-11-26T15:20:38.693786+00:00",
-   "looked_up": "2026-11-19T12:01:21+00:00",
-   "status": "not_found"
   },
   "itroninc|swe|l1": {
    "basis": "ctc",
@@ -19904,8 +19889,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T13:11:22.521982+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-27T20:45:53.085625+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -22114,8 +22099,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T22:19:29.987130+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-22T15:06:06.102973+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -22292,11 +22277,6 @@
     }
    ],
    "status": "found"
-  },
-  "saathapp-tech|swe|l1": {
-   "expires": "2026-11-26T15:44:09.037980+00:00",
-   "looked_up": "2026-11-09T20:01:20+00:00",
-   "status": "not_found"
   },
   "saatvik-agro-processors-private-limited|swe|l1": {
    "basis": "ctc",
@@ -26830,8 +26810,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:02:03.892095+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-03-02T10:15:51.078800+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -27987,11 +27967,6 @@
    "status": "found",
    "year": 2026
   },
-  "vontier|swe|l3": {
-   "expires": "2026-11-26T15:21:07.560689+00:00",
-   "looked_up": "2026-11-17T05:01:20+00:00",
-   "status": "not_found"
-  },
   "vortenza-systems|frontend|l1": {
    "expires": "2026-11-27T01:38:50.111569+00:00",
    "looked_up": "2026-11-13T21:01:23+00:00",
@@ -28258,8 +28233,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:23:41.041807+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-20T13:04:21.873460+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28407,8 +28382,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T01:40:31.664808+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-18T07:45:08.874946+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28426,8 +28401,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T09:35:10.995229+00:00",
-   "looked_up": "2026-11-26T15:19:54+00:00",
+   "expires": "2027-02-19T21:51:38.864137+00:00",
+   "looked_up": "2026-11-26T16:01:24+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
