@@ -5130,11 +5130,6 @@
    "status": "found",
    "year": 2023
   },
-  "cdknorthamerica|security|l1": {
-   "expires": "2026-11-26T03:30:37.675064+00:00",
-   "looked_up": "2026-11-16T12:01:23+00:00",
-   "status": "not_found"
-  },
   "cdknorthamerica|swe|l1": {
    "expires": "2026-12-04T06:19:58.480388+00:00",
    "looked_up": "2026-11-20T18:01:29+00:00",
@@ -5873,8 +5868,8 @@
   "coderoundai|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T06:41:13.161933+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-27T03:18:57.735177+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6682,8 +6677,8 @@
   "crawldigitally|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T10:54:36.621407+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-03-02T16:28:31.721458+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 1.2,
    "sources": [
@@ -10915,8 +10910,8 @@
   "global-payex-private-limited|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T19:06:53.277524+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-21T15:18:00.095572+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 5.5,
    "min_lpa": 3.5,
    "sources": [
@@ -13744,11 +13739,6 @@
    "status": "found",
    "year": 2026
   },
-  "infoway-solutions|security|l1": {
-   "expires": "2026-11-26T03:03:02.830773+00:00",
-   "looked_up": "2026-11-17T13:01:24+00:00",
-   "status": "not_found"
-  },
   "infratech-insights|mobile|l1": {
    "expires": "2026-12-02T12:55:57.554841+00:00",
    "looked_up": "2026-11-16T14:01:26+00:00",
@@ -14615,8 +14605,8 @@
   "job-sphere-india|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T05:08:04.074099+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-03-01T10:36:49.156178+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.4,
    "sources": [
@@ -20021,8 +20011,8 @@
   "per4mance-guru-performance-marketing-agency|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T17:21:22.226881+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-20T05:25:14.989279+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.2,
    "sources": [
@@ -23070,8 +23060,8 @@
   "seasoned-circle|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T04:05:46.341277+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-28T05:21:53.875122+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 8.0,
    "min_lpa": 5.0,
    "sources": [
@@ -24874,11 +24864,6 @@
   "talent-matics|fullstack|l1": {
    "expires": "2026-11-28T06:03:36.141058+00:00",
    "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
-  },
-  "talent-ro|swe|l1": {
-   "expires": "2026-11-26T03:55:49.657453+00:00",
-   "looked_up": "2026-11-05T06:01:31+00:00",
    "status": "not_found"
   },
   "talent-to-job|frontend|l1": {
@@ -28460,8 +28445,8 @@
   "weareuplers|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T07:38:49.386124+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-03-01T05:20:25.535243+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 25.0,
    "min_lpa": 20.0,
    "sources": [
@@ -28609,8 +28594,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T22:54:05.365602+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-24T13:41:05.757131+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 70.0,
    "min_lpa": 30.0,
    "sources": [
@@ -28628,8 +28613,8 @@
   "welcometoasmcastings|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-17T11:16:06.541411+00:00",
-   "looked_up": "2026-11-26T03:01:35+00:00",
+   "expires": "2027-02-22T04:43:33.285487+00:00",
+   "looked_up": "2026-11-26T04:01:20+00:00",
    "max_lpa": 4.8,
    "min_lpa": 4.8,
    "sources": [
