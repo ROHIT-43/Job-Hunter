@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T03:07:38.256466+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-02-18T23:32:55.368433+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -162,11 +162,6 @@
   "9sprints|data|l1": {
    "expires": "2026-11-30T11:27:15.789446+00:00",
    "looked_up": "2026-11-12T08:01:23+00:00",
-   "status": "not_found"
-  },
-  "9sprints|devops|l1": {
-   "expires": "2026-11-27T22:53:11.267649+00:00",
-   "looked_up": "2026-11-09T20:01:20+00:00",
    "status": "not_found"
   },
   "aaaglobal|swe|l1": {
@@ -778,11 +773,6 @@
    "looked_up": "2026-11-19T20:01:16+00:00",
    "status": "not_found"
   },
-  "agilegrid-solutions|swe|l1": {
-   "expires": "2026-11-27T22:40:09.399635+00:00",
-   "looked_up": "2026-11-17T20:01:25+00:00",
-   "status": "not_found"
-  },
   "agilent-technologies|swe|l1": {
    "expires": "2026-12-03T14:16:39.846876+00:00",
    "looked_up": "2026-11-14T00:01:25+00:00",
@@ -898,11 +888,6 @@
     }
    ],
    "status": "found"
-  },
-  "aiquant|frontend|l1": {
-   "expires": "2026-11-27T22:57:59.642921+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
   },
   "air-arabia|data|l1": {
    "expires": "2026-12-01T07:56:57.312055+00:00",
@@ -3406,8 +3391,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T10:53:41.944119+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-02-20T14:16:40.736794+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4369,11 +4354,6 @@
    "looked_up": "2026-11-19T12:01:21+00:00",
    "status": "not_found"
   },
-  "broomboom|mobile|l1": {
-   "expires": "2026-11-27T22:33:18.412738+00:00",
-   "looked_up": "2026-11-18T08:01:17+00:00",
-   "status": "not_found"
-  },
   "brtmultisoftware|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -4572,8 +4552,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T04:34:35.129092+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-02-24T11:43:25.139981+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5776,8 +5756,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T08:28:52.344703+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-03-02T10:11:01.219762+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7065,11 +7045,6 @@
    "status": "found",
    "year": 2026
   },
-  "data-eminence|data|l1": {
-   "expires": "2026-11-27T22:26:49.379849+00:00",
-   "looked_up": "2026-11-16T17:01:27+00:00",
-   "status": "not_found"
-  },
   "data-eminence|devops|l1": {
    "expires": "2026-12-05T08:14:00.001852+00:00",
    "looked_up": "2026-11-16T17:01:27+00:00",
@@ -7386,8 +7361,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T05:11:39.924768+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-02-23T22:02:38.172009+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -9961,11 +9936,6 @@
    "status": "found",
    "year": 2024
   },
-  "flexipletech|fullstack|l1": {
-   "expires": "2026-11-27T22:06:54.679267+00:00",
-   "looked_up": "2026-11-10T02:01:22+00:00",
-   "status": "not_found"
-  },
   "flexipletech|mobile|l1": {
    "expires": "2026-12-09T09:24:38.050006+00:00",
    "looked_up": "2026-11-18T19:01:17+00:00",
@@ -10290,11 +10260,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "fusionconsultingag|erp|l1": {
-   "expires": "2026-11-27T22:33:47.030499+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
-   "status": "not_found"
   },
   "futurefunding-ai|fullstack|l1": {
    "expires": "2026-11-29T17:56:32.770084+00:00",
@@ -19307,11 +19272,6 @@
    "looked_up": "2026-11-14T04:01:25+00:00",
    "status": "not_found"
   },
-  "parspec|swe|l1": {
-   "expires": "2026-11-27T22:16:58.185464+00:00",
-   "looked_up": "2026-11-17T17:01:21+00:00",
-   "status": "not_found"
-  },
   "partechnology|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -21724,11 +21684,6 @@
    "looked_up": "2026-11-12T13:01:20+00:00",
    "status": "not_found"
   },
-  "rsm-us-llp|swe|l1": {
-   "expires": "2026-11-27T22:04:38.766678+00:00",
-   "looked_up": "2026-11-10T18:01:24+00:00",
-   "status": "not_found"
-  },
   "rsmultixindia|swe|l1": {
    "expires": "2026-11-29T02:58:24.279319+00:00",
    "looked_up": "2026-11-19T20:01:16+00:00",
@@ -22482,8 +22437,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T05:30:23.873389+00:00",
-   "looked_up": "2026-11-27T22:01:23+00:00",
+   "expires": "2027-02-19T06:10:41.833436+00:00",
+   "looked_up": "2026-11-27T23:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -27489,11 +27444,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "vowels-of-the-people|devops|l1": {
-   "expires": "2026-11-27T22:19:17.048282+00:00",
-   "looked_up": "2026-11-17T18:01:39+00:00",
-   "status": "not_found"
   },
   "vowels-of-the-people|fullstack|l1": {
    "basis": "posted",
