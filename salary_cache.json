@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T03:17:21.160909+00:00",
-   "looked_up": "2026-11-27T14:01:39+00:00",
+   "expires": "2027-02-27T04:43:30.948899+00:00",
+   "looked_up": "2026-11-27T15:01:31+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3421,8 +3421,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T00:16:39.308466+00:00",
-   "looked_up": "2026-11-27T14:01:39+00:00",
+   "expires": "2027-02-23T09:07:47.261538+00:00",
+   "looked_up": "2026-11-27T15:01:31+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4587,8 +4587,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T10:39:27.025521+00:00",
-   "looked_up": "2026-11-19T14:01:19+00:00",
+   "expires": "2027-02-27T10:31:32.516361+00:00",
+   "looked_up": "2026-11-27T15:01:31+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5791,8 +5791,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T07:13:08.788089+00:00",
-   "looked_up": "2026-11-27T14:01:39+00:00",
+   "expires": "2027-02-22T18:07:42.248966+00:00",
+   "looked_up": "2026-11-27T15:01:31+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6700,11 +6700,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "crowe-capabilities-center|devops|l1": {
-   "expires": "2026-11-27T14:15:30.159144+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
   },
   "cruciallogics|devops|l1": {
    "expires": "2026-12-08T08:55:19.039354+00:00",
@@ -9013,11 +9008,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "esri|devops|l1": {
-   "expires": "2026-11-27T14:41:46.974574+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
   },
   "esri|swe|l1": {
    "basis": "ctc",
@@ -18373,11 +18363,6 @@
    "status": "found",
    "year": 2025
   },
-  "ntt-data-americas|security|l1": {
-   "expires": "2026-11-27T14:19:43.013373+00:00",
-   "looked_up": "2026-11-10T11:01:25+00:00",
-   "status": "not_found"
-  },
   "ntt-data-americas|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -22574,8 +22559,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T03:44:33.757283+00:00",
-   "looked_up": "2026-11-27T14:01:39+00:00",
+   "expires": "2027-03-01T16:01:36.356296+00:00",
+   "looked_up": "2026-11-27T15:01:31+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
