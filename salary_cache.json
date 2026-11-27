@@ -2039,11 +2039,6 @@
    "status": "found",
    "year": 2025
   },
-  "applicantz-com|erp|l1": {
-   "expires": "2026-11-27T00:43:04.607760+00:00",
-   "looked_up": "2026-11-12T06:01:20+00:00",
-   "status": "not_found"
-  },
   "applicantz-com|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -2608,11 +2603,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "aspen-technology|swe|l2": {
-   "expires": "2026-11-27T01:00:40.250687+00:00",
-   "looked_up": "2026-11-07T18:01:18+00:00",
-   "status": "not_found"
   },
   "aspire-club-fuuast|swe|l1": {
    "expires": "2026-12-02T14:12:14.681468+00:00",
@@ -5821,8 +5811,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:46:45.782832+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-03-01T02:15:23.084449+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -11429,8 +11419,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T21:47:25.702836+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-02-18T21:21:16.555637+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12637,8 +12627,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T08:27:09.801296+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-03-02T14:18:30.756675+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -17589,11 +17579,6 @@
    "looked_up": "2026-11-22T15:01:22+00:00",
    "status": "not_found"
   },
-  "multivac-technology-solutions-india-private-limited|erp|l1": {
-   "expires": "2026-11-27T00:26:24.244803+00:00",
-   "looked_up": "2026-11-10T15:01:28+00:00",
-   "status": "not_found"
-  },
   "multiversitygroup|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21999,8 +21984,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:56:40.975257+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-02-26T18:06:39.649158+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -23951,11 +23936,6 @@
   "sporensprouts|erp|l2": {
    "expires": "2026-12-01T15:01:45.696235+00:00",
    "looked_up": "2026-11-21T22:01:19+00:00",
-   "status": "not_found"
-  },
-  "sporensprouts|swe|l1": {
-   "expires": "2026-11-27T00:05:48.741874+00:00",
-   "looked_up": "2026-11-15T22:01:18+00:00",
    "status": "not_found"
   },
   "squareshift|security|l1": {
@@ -26700,8 +26680,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T14:09:23.848561+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-02-25T11:38:37.566936+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28272,8 +28252,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T15:24:19.104731+00:00",
-   "looked_up": "2026-11-27T00:01:27+00:00",
+   "expires": "2027-02-18T10:36:46.272266+00:00",
+   "looked_up": "2026-11-27T01:01:26+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
