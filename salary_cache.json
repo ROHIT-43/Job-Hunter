@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T22:44:23.974731+00:00",
-   "looked_up": "2026-11-27T13:01:28+00:00",
+   "expires": "2027-02-27T03:17:21.160909+00:00",
+   "looked_up": "2026-11-27T14:01:39+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3421,8 +3421,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T17:20:07.237191+00:00",
-   "looked_up": "2026-11-27T13:01:28+00:00",
+   "expires": "2027-03-03T00:16:39.308466+00:00",
+   "looked_up": "2026-11-27T14:01:39+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5791,8 +5791,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T20:42:08.320037+00:00",
-   "looked_up": "2026-11-27T13:01:28+00:00",
+   "expires": "2027-02-22T07:13:08.788089+00:00",
+   "looked_up": "2026-11-27T14:01:39+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -14141,11 +14141,6 @@
    "status": "found",
    "year": 2026
   },
-  "jaksongroup|erp|l1": {
-   "expires": "2026-11-27T13:31:48.530434+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
-   "status": "not_found"
-  },
   "jameel-group-ai|frontend|l1": {
    "expires": "2026-12-01T12:02:50.498814+00:00",
    "looked_up": "2026-11-10T13:01:24+00:00",
@@ -14883,11 +14878,6 @@
    "status": "found",
    "year": 2025
   },
-  "khurana-and-khurana|swe|l1": {
-   "expires": "2026-11-27T13:24:13.189035+00:00",
-   "looked_up": "2026-11-12T15:01:25+00:00",
-   "status": "not_found"
-  },
   "kinaxis|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -15578,11 +15568,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "litmushiring|swe|l1": {
-   "expires": "2026-11-27T13:37:21.666993+00:00",
-   "looked_up": "2026-11-18T05:01:28+00:00",
-   "status": "not_found"
   },
   "littlebig-connection|swe|l1": {
    "expires": "2026-12-04T07:04:49.947927+00:00",
@@ -22589,8 +22574,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T06:54:07.078926+00:00",
-   "looked_up": "2026-11-27T13:01:28+00:00",
+   "expires": "2027-03-02T03:44:33.757283+00:00",
+   "looked_up": "2026-11-27T14:01:39+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
