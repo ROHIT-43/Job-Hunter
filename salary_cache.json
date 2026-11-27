@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T04:43:30.948899+00:00",
-   "looked_up": "2026-11-27T15:01:31+00:00",
+   "expires": "2027-02-28T17:14:58.986248+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3421,8 +3421,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T09:07:47.261538+00:00",
-   "looked_up": "2026-11-27T15:01:31+00:00",
+   "expires": "2027-02-21T23:12:44.380128+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4587,8 +4587,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T10:31:32.516361+00:00",
-   "looked_up": "2026-11-27T15:01:31+00:00",
+   "expires": "2027-02-18T22:19:05.371142+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5791,8 +5791,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T18:07:42.248966+00:00",
-   "looked_up": "2026-11-27T15:01:31+00:00",
+   "expires": "2027-02-22T14:11:52.713192+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7404,20 +7404,18 @@
    "year": 2025
   },
   "deloitte|fullstack|l1": {
-   "basis": "ctc",
-   "confidence": "low",
-   "expires": "2027-01-15T10:58:24.382117+00:00",
-   "looked_up": "2026-10-23T07:01:26+00:00",
-   "max_lpa": 5.4,
-   "min_lpa": 4.7,
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-23T05:11:00.414633+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
+   "max_lpa": 40.0,
+   "min_lpa": 25.0,
    "sources": [
     {
-     "title": "ambitionbox.com",
-     "uri": "https://www.ambitionbox.com/salaries/deloitte-salaries/full-stack-dot-net-developer"
+     "title": "LinkedIn job posting"
     }
    ],
-   "status": "found",
-   "year": 2026
+   "status": "found"
   },
   "deloitte|fullstack|l2": {
    "basis": "base",
@@ -13037,11 +13035,6 @@
    "looked_up": "2026-11-20T05:01:23+00:00",
    "status": "not_found"
   },
-  "ikartsolutions|swe|l1": {
-   "expires": "2026-11-27T15:45:44.791636+00:00",
-   "looked_up": "2026-11-20T06:01:21+00:00",
-   "status": "not_found"
-  },
   "iking-tech-solutions|swe|l1": {
    "expires": "2026-11-28T23:52:24.614744+00:00",
    "looked_up": "2026-11-11T06:01:26+00:00",
@@ -13532,11 +13525,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "innerbrook|swe|l1": {
-   "expires": "2026-11-27T15:14:35.255672+00:00",
-   "looked_up": "2026-11-17T18:01:39+00:00",
-   "status": "not_found"
   },
   "innov-karo|fullstack|l1": {
    "basis": "posted",
@@ -22559,8 +22547,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T16:01:36.356296+00:00",
-   "looked_up": "2026-11-27T15:01:31+00:00",
+   "expires": "2027-02-23T06:08:01.124878+00:00",
+   "looked_up": "2026-11-27T16:01:34+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
