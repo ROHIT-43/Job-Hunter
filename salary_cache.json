@@ -5821,8 +5821,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T08:40:13.901030+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-02-20T11:46:45.782832+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -11429,8 +11429,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T17:30:21.307462+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-02-22T21:47:25.702836+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12637,8 +12637,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:23:06.066357+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-02-26T08:27:09.801296+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -21999,8 +21999,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T13:28:08.452978+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-02-21T18:56:40.975257+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -26700,8 +26700,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T13:41:22.713396+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-02-26T14:09:23.848561+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -28272,8 +28272,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T16:30:47.961688+00:00",
-   "looked_up": "2026-11-26T23:53:31+00:00",
+   "expires": "2027-03-01T15:24:19.104731+00:00",
+   "looked_up": "2026-11-27T00:01:27+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -29465,7 +29465,7 @@
   }
  },
  "meta": {
-  "day": "2026-11-26",
+  "day": "2026-11-27",
   "lookups_month": 2679,
   "lookups_today": 0,
   "month": "2026-11"
