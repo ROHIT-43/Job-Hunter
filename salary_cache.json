@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:53:28.180618+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-23T13:34:36.811527+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -904,11 +904,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "aiq-space|frontend|l1": {
-   "expires": "2026-11-27T04:41:37.647863+00:00",
-   "looked_up": "2026-11-12T11:01:28+00:00",
-   "status": "not_found"
   },
   "aiqon-academy|devops|l1": {
    "basis": "posted",
@@ -5806,8 +5801,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T14:21:00.801475+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-22T11:24:04.487176+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -8711,11 +8706,6 @@
    "status": "found",
    "year": 2026
   },
-  "enviropolengineers|swe|l1": {
-   "expires": "2026-11-27T04:07:02.632990+00:00",
-   "looked_up": "2026-11-17T09:01:19+00:00",
-   "status": "not_found"
-  },
   "epam-systems|frontend|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -10352,11 +10342,6 @@
    ],
    "status": "found"
   },
-  "furone|swe|l1": {
-   "expires": "2026-11-27T04:07:17.974748+00:00",
-   "looked_up": "2026-11-16T08:06:20+00:00",
-   "status": "not_found"
-  },
   "fusion-practices|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -11394,8 +11379,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T13:28:15.271654+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-19T21:16:37.645273+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12597,8 +12582,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T02:35:49.588979+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-22T10:15:03.229164+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -16816,11 +16801,6 @@
   "meprotech|swe|l1": {
    "expires": "2026-12-09T01:51:46.592253+00:00",
    "looked_up": "2026-11-20T14:01:25+00:00",
-   "status": "not_found"
-  },
-  "mergerdomo-services-pvt-ltd|fullstack|l1": {
-   "expires": "2026-11-27T04:43:24.618084+00:00",
-   "looked_up": "2026-11-19T13:01:27+00:00",
    "status": "not_found"
   },
   "metasys-tech|fullstack|l1": {
@@ -21924,8 +21904,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T23:56:57.697614+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-03-01T19:51:25.687867+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -24384,11 +24364,6 @@
    "status": "found",
    "year": 2026
   },
-  "synechron|devops|l1": {
-   "expires": "2026-11-27T04:11:00.943900+00:00",
-   "looked_up": "2026-11-17T14:01:21+00:00",
-   "status": "not_found"
-  },
   "synechron|fullstack|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -25627,11 +25602,6 @@
    "status": "found",
    "year": 2025
   },
-  "the-manitowoc-company|swe|l1": {
-   "expires": "2026-11-27T04:12:24.572074+00:00",
-   "looked_up": "2026-11-16T18:01:20+00:00",
-   "status": "not_found"
-  },
   "the-network|swe|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26610,8 +26580,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T10:22:52.097445+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-26T05:58:49.272009+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -27849,11 +27819,6 @@
    "looked_up": "2026-11-19T11:01:19+00:00",
    "status": "not_found"
   },
-  "wafynet|swe|l1": {
-   "expires": "2026-11-27T04:37:58.920692+00:00",
-   "looked_up": "2026-11-10T10:01:20+00:00",
-   "status": "not_found"
-  },
   "walmartglobaltechindia|fullstack|l3": {
    "basis": "base",
    "confidence": "low",
@@ -28172,8 +28137,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:50:06.010090+00:00",
-   "looked_up": "2026-11-27T04:01:24+00:00",
+   "expires": "2027-02-22T03:59:16.190229+00:00",
+   "looked_up": "2026-11-27T05:01:21+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
