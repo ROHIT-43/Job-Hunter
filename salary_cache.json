@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-16T21:06:45.557026+00:00",
-   "looked_up": "2026-11-25T18:01:19+00:00",
+   "expires": "2027-02-22T19:06:00.511023+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -2582,11 +2582,6 @@
     }
    ],
    "status": "found"
-  },
-  "asmita-india-realty|swe|l1": {
-   "expires": "2026-11-27T01:55:48.461674+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
   },
   "aspen-technology|swe|l1": {
    "basis": "ctc",
@@ -5811,8 +5806,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T02:15:23.084449+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-02-25T07:55:05.009295+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -10530,11 +10525,6 @@
    ],
    "status": "found"
   },
-  "general-mills|devops|l1": {
-   "expires": "2026-11-27T01:07:11.098719+00:00",
-   "looked_up": "2026-11-06T10:01:15+00:00",
-   "status": "not_found"
-  },
   "general-mills|swe|l2": {
    "basis": "ctc",
    "confidence": "low",
@@ -11419,8 +11409,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T21:21:16.555637+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-02-20T05:25:01.042582+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12627,8 +12617,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T14:18:30.756675+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-02-21T20:52:32.490358+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -17405,11 +17395,6 @@
    "status": "found",
    "year": 2026
   },
-  "moxsh-overseas-educom-pvt-ltd|swe|l1": {
-   "expires": "2026-11-27T01:23:40.826271+00:00",
-   "looked_up": "2026-11-14T09:01:18+00:00",
-   "status": "not_found"
-  },
   "mphasis|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -21984,8 +21969,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T18:06:39.649158+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-02-22T12:52:36.626029+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -26544,11 +26529,6 @@
    "looked_up": "2026-11-13T11:01:24+00:00",
    "status": "not_found"
   },
-  "twilio-inc-|swe|l1": {
-   "expires": "2026-11-27T01:06:30.065582+00:00",
-   "looked_up": "2026-11-16T10:01:23+00:00",
-   "status": "not_found"
-  },
   "tyson-foods|data|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -26680,8 +26660,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T11:38:37.566936+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-02-24T14:08:22.689444+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -27837,11 +27817,6 @@
    "status": "found",
    "year": 2026
   },
-  "vortenza-systems|frontend|l1": {
-   "expires": "2026-11-27T01:38:50.111569+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
-   "status": "not_found"
-  },
   "vowels-of-the-people|devops|l1": {
    "expires": "2026-11-27T22:19:17.048282+00:00",
    "looked_up": "2026-11-17T18:01:39+00:00",
@@ -28252,8 +28227,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T10:36:46.272266+00:00",
-   "looked_up": "2026-11-27T01:01:26+00:00",
+   "expires": "2027-03-02T10:47:46.760776+00:00",
+   "looked_up": "2026-11-27T02:01:37+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
