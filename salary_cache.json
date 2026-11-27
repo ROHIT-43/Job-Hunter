@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T10:35:45.227421+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-02-23T23:40:05.742666+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3406,8 +3406,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T00:31:41.610166+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-02-21T15:15:56.066715+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4572,8 +4572,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T09:43:42.253377+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-03-02T09:23:09.853155+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5776,8 +5776,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T00:29:08.039105+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-03-01T23:43:08.244420+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7386,8 +7386,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T11:51:30.421426+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-02-24T20:41:25.509245+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -15395,11 +15395,6 @@
    "looked_up": "2026-11-17T09:01:19+00:00",
    "status": "not_found"
   },
-  "levi-strauss-&amp;-co-|swe|l2": {
-   "expires": "2026-11-27T19:25:40.935239+00:00",
-   "looked_up": "2026-11-17T09:01:19+00:00",
-   "status": "not_found"
-  },
   "levi-strauss-&amp;-co-|swe|l3": {
    "basis": "ctc",
    "confidence": "low",
@@ -22512,8 +22507,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T18:57:02.348390+00:00",
-   "looked_up": "2026-11-27T18:58:39+00:00",
+   "expires": "2027-02-22T05:08:28.620568+00:00",
+   "looked_up": "2026-11-27T19:28:21+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
