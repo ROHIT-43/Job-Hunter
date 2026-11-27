@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T05:35:19.059946+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-03-04T10:35:45.227421+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -561,11 +561,6 @@
   "acv-auctions|swe|l2": {
    "expires": "2026-12-03T22:31:07.411488+00:00",
    "looked_up": "2026-11-13T12:01:45+00:00",
-   "status": "not_found"
-  },
-  "acv-solutions-pvt-ltd|swe|l1": {
-   "expires": "2026-11-27T18:32:12.482310+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
   "adaan-digital-solutions-pvt-ltd|swe|l1": {
@@ -3411,8 +3406,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T20:53:23.865025+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-02-21T00:31:41.610166+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4577,8 +4572,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:06:16.986921+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-02-21T09:43:42.253377+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5781,8 +5776,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T23:36:06.304620+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-02-20T00:29:08.039105+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7391,8 +7386,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T14:50:14.626370+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-02-25T11:51:30.421426+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -22517,8 +22512,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T08:01:14.010056+00:00",
-   "looked_up": "2026-11-27T18:01:28+00:00",
+   "expires": "2027-03-03T18:57:02.348390+00:00",
+   "looked_up": "2026-11-27T18:58:39+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -24039,11 +24034,6 @@
     }
    ],
    "status": "found"
-  },
-  "sweken-it-solutions|mobile|l1": {
-   "expires": "2026-11-27T18:21:57.371497+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
   },
   "sweken-it-solutions|swe|l1": {
    "expires": "2026-11-28T03:17:28.939186+00:00",
