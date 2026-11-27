@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T13:42:56.297859+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-26T21:17:00.710936+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3406,8 +3406,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T11:05:27.801683+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-20T16:43:33.334338+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4572,8 +4572,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T17:43:34.715380+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-28T01:55:39.223029+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5776,8 +5776,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T23:38:19.257990+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-21T20:57:29.308399+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7386,8 +7386,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T18:34:07.574914+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-24T17:14:33.817497+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -12008,11 +12008,6 @@
    "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
-  "hirelyglobal|swe|l1": {
-   "expires": "2026-11-27T20:48:47.549862+00:00",
-   "looked_up": "2026-11-08T06:01:15+00:00",
-   "status": "not_found"
-  },
   "hiringhood|data|l1": {
    "expires": "2026-12-04T04:39:55.600759+00:00",
    "looked_up": "2026-11-18T06:01:19+00:00",
@@ -12026,11 +12021,6 @@
   "hirojet|swe|l1": {
    "expires": "2026-12-06T11:35:36.938079+00:00",
    "looked_up": "2026-11-22T18:01:23+00:00",
-   "status": "not_found"
-  },
-  "hissyo-consultancy-private-limited|erp|l1": {
-   "expires": "2026-11-27T20:24:16.641177+00:00",
-   "looked_up": "2026-11-17T07:01:21+00:00",
    "status": "not_found"
   },
   "hitachi-digital-services|swe|l1": {
@@ -15448,11 +15438,6 @@
   "linde-engineering|data|l1": {
    "expires": "2026-12-02T09:10:29.644270+00:00",
    "looked_up": "2026-11-18T15:01:28+00:00",
-   "status": "not_found"
-  },
-  "linde-india-ltd|fullstack|l1": {
-   "expires": "2026-11-27T20:29:41.683225+00:00",
-   "looked_up": "2026-11-08T17:01:18+00:00",
    "status": "not_found"
   },
   "linde-india-ltd|swe|l1": {
@@ -18892,11 +18877,6 @@
   "optimuminfo|swe|l1": {
    "expires": "2026-12-01T23:48:21.558731+00:00",
    "looked_up": "2026-11-12T07:01:24+00:00",
-   "status": "not_found"
-  },
-  "optivaluetek|erp|l1": {
-   "expires": "2026-11-27T20:29:37.240915+00:00",
-   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "optumindia|data|l1": {
@@ -22507,8 +22487,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:40:41.077972+00:00",
-   "looked_up": "2026-11-27T20:01:20+00:00",
+   "expires": "2027-02-21T22:04:15.070032+00:00",
+   "looked_up": "2026-11-27T21:01:26+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
