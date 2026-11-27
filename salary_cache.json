@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T15:23:07.110594+00:00",
-   "looked_up": "2026-11-27T10:01:29+00:00",
+   "expires": "2027-03-02T05:59:16.140129+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3426,8 +3426,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T03:54:18.229495+00:00",
-   "looked_up": "2026-11-27T10:01:29+00:00",
+   "expires": "2027-02-20T06:41:58.272917+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5796,8 +5796,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T05:06:13.870680+00:00",
-   "looked_up": "2026-11-27T10:01:29+00:00",
+   "expires": "2027-03-04T07:58:20.482758+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -11354,8 +11354,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T21:12:45.434168+00:00",
-   "looked_up": "2026-11-27T10:01:29+00:00",
+   "expires": "2027-03-04T01:40:07.142021+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12217,11 +12217,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "honeywell-aerospace|swe|l2": {
-   "expires": "2026-11-27T10:57:14.222387+00:00",
-   "looked_up": "2026-11-18T21:01:15+00:00",
-   "status": "not_found"
   },
   "honeywell|fullstack|l1": {
    "basis": "ctc",
@@ -19685,11 +19680,6 @@
    "looked_up": "2026-11-15T03:01:25+00:00",
    "status": "not_found"
   },
-  "permatechnologies|swe|l1": {
-   "expires": "2026-11-27T10:36:41.760323+00:00",
-   "looked_up": "2026-11-18T13:57:48+00:00",
-   "status": "not_found"
-  },
   "persistent-systems|data|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -21556,11 +21546,6 @@
    ],
    "status": "found"
   },
-  "remote-wfh-india|data|l1": {
-   "expires": "2026-11-27T10:12:31.185449+00:00",
-   "looked_up": "2026-11-08T13:01:43+00:00",
-   "status": "not_found"
-  },
   "remote-wfh-india|swe|l1": {
    "expires": "2026-12-04T06:15:29.448245+00:00",
    "looked_up": "2026-11-14T06:01:18+00:00",
@@ -22644,8 +22629,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-01-15T15:31:55.283310+00:00",
-   "looked_up": "2026-10-22T05:01:28+00:00",
+   "expires": "2027-02-22T20:31:52.434259+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -28067,8 +28052,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T05:02:25.338217+00:00",
-   "looked_up": "2026-11-27T10:01:29+00:00",
+   "expires": "2027-02-19T21:12:21.739298+00:00",
+   "looked_up": "2026-11-27T11:01:29+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
