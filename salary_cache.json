@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T03:16:48.302055+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-26T05:53:28.180618+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5806,8 +5806,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T09:40:45.488736+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-20T14:21:00.801475+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 70.0,
    "min_lpa": 70.0,
    "sources": [
@@ -6729,11 +6729,6 @@
   "cruciallogics|devops|l1": {
    "expires": "2026-12-08T08:55:19.039354+00:00",
    "looked_up": "2026-11-18T07:01:34+00:00",
-   "status": "not_found"
-  },
-  "cubictransportationsystems|data|l1": {
-   "expires": "2026-11-27T04:00:41.542343+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
    "status": "not_found"
   },
   "cubix-automation-private-limited|swe|l1": {
@@ -11338,11 +11333,6 @@
    "looked_up": "2026-11-22T20:01:32+00:00",
    "status": "not_found"
   },
-  "gruveai|swe|l1": {
-   "expires": "2026-11-27T03:29:13.134817+00:00",
-   "looked_up": "2026-11-19T10:01:15+00:00",
-   "status": "not_found"
-  },
   "gsk|devops|l1": {
    "expires": "2026-12-07T08:21:39.431085+00:00",
    "looked_up": "2026-11-19T14:01:19+00:00",
@@ -11404,8 +11394,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T15:25:35.304136+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-18T13:28:15.271654+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -12171,11 +12161,6 @@
    "status": "found",
    "year": 2026
   },
-  "hitachienergy|data|l1": {
-   "expires": "2026-11-27T03:56:52.168120+00:00",
-   "looked_up": "2026-11-17T12:01:31+00:00",
-   "status": "not_found"
-  },
   "hitachirail|swe|l1": {
    "expires": "2026-12-04T00:31:00.983997+00:00",
    "looked_up": "2026-11-18T19:01:17+00:00",
@@ -12612,8 +12597,8 @@
   "hyrezy-tech-solutions|devops|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T19:43:38.059413+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-25T02:35:49.588979+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 20.0,
    "min_lpa": 20.0,
    "sources": [
@@ -14621,11 +14606,6 @@
    "status": "found",
    "year": null
   },
-  "joraiq-ai|fullstack|l1": {
-   "expires": "2026-11-27T03:10:19.312221+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
-   "status": "not_found"
-  },
   "jpmorganchase|devops|l2": {
    "basis": "base",
    "confidence": "low",
@@ -16193,11 +16173,6 @@
   "magnet-tech-digital|mobile|l1": {
    "expires": "2026-12-06T18:01:10.957318+00:00",
    "looked_up": "2026-11-18T13:01:19+00:00",
-   "status": "not_found"
-  },
-  "maitsys|erp|l1": {
-   "expires": "2026-11-27T03:21:22.993980+00:00",
-   "looked_up": "2026-11-19T07:01:25+00:00",
    "status": "not_found"
   },
   "makeflow-india|fullstack|l1": {
@@ -21949,8 +21924,8 @@
   "roi-hunt|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-18T20:33:25.831146+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-24T23:56:57.697614+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 4.2,
    "min_lpa": 1.8,
    "sources": [
@@ -25864,11 +25839,6 @@
    "status": "found",
    "year": 2025
   },
-  "thinkdatax|fullstack|l1": {
-   "expires": "2026-11-27T03:13:33.417143+00:00",
-   "looked_up": "2026-11-16T16:01:21+00:00",
-   "status": "not_found"
-  },
   "thinkwise-consulting-llp|security|l1": {
    "expires": "2026-12-07T07:39:27.862695+00:00",
    "looked_up": "2026-11-23T04:01:18+00:00",
@@ -26640,8 +26610,8 @@
   "unifydd|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T23:27:40.312297+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-26T10:22:52.097445+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 6.0,
    "min_lpa": 6.0,
    "sources": [
@@ -27180,11 +27150,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "value2biz|devops|l1": {
-   "expires": "2026-11-27T03:22:18.715902+00:00",
-   "looked_up": "2026-11-11T18:01:20+00:00",
-   "status": "not_found"
   },
   "valuelabs|fullstack|l1": {
    "expires": "2026-11-30T03:19:10.902394+00:00",
@@ -28207,8 +28172,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T04:59:17.997143+00:00",
-   "looked_up": "2026-11-27T03:01:26+00:00",
+   "expires": "2027-02-20T04:50:06.010090+00:00",
+   "looked_up": "2026-11-27T04:01:24+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
