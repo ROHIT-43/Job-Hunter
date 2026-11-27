@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T05:59:16.140129+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-24T16:32:17.520996+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -3426,8 +3426,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T06:41:58.272917+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-19T09:15:03.221471+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -5796,8 +5796,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T07:58:20.482758+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-28T05:09:24.233026+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7904,11 +7904,6 @@
     }
    ],
    "status": "found"
-  },
-  "document-it-llc|devops|l1": {
-   "expires": "2026-11-27T11:12:08.905550+00:00",
-   "looked_up": "2026-11-13T10:01:23+00:00",
-   "status": "not_found"
   },
   "dodopayments|swe|l1": {
    "basis": "ctc",
@@ -11354,8 +11349,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T01:40:07.142021+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-18T23:29:07.193792+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -14861,11 +14856,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "keron-research-labs|erp|l1": {
-   "expires": "2026-11-27T11:48:36.825806+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
-   "status": "not_found"
   },
   "keylogic-infotech|swe|l1": {
    "basis": "ctc",
@@ -22629,8 +22619,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T20:31:52.434259+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-28T08:35:46.441261+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -28052,8 +28042,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T21:12:21.739298+00:00",
-   "looked_up": "2026-11-27T11:01:29+00:00",
+   "expires": "2027-02-26T09:58:50.923258+00:00",
+   "looked_up": "2026-11-27T12:01:30+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
