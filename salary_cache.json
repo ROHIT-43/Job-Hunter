@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:48:17.864625+00:00",
-   "looked_up": "2026-11-27T06:01:25+00:00",
+   "expires": "2027-02-18T07:25:17.473168+00:00",
+   "looked_up": "2026-11-27T07:01:38+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -5801,10 +5801,10 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T04:46:01.285200+00:00",
-   "looked_up": "2026-11-27T06:01:25+00:00",
-   "max_lpa": 70.0,
-   "min_lpa": 70.0,
+   "expires": "2027-02-27T01:36:01.187567+00:00",
+   "looked_up": "2026-11-27T07:01:38+00:00",
+   "max_lpa": 30.0,
+   "min_lpa": 30.0,
    "sources": [
     {
      "title": "LinkedIn job posting"
@@ -7306,11 +7306,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "deepkore-technologies|fullstack|l1": {
-   "expires": "2026-11-27T06:54:58.340420+00:00",
-   "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
   },
   "deepspace9-tech|swe|l1": {
    "basis": "posted",
@@ -11374,8 +11369,8 @@
   "gusti-leder-stores-gmbh|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T03:28:42.296431+00:00",
-   "looked_up": "2026-11-27T06:01:25+00:00",
+   "expires": "2027-02-24T03:56:23.171037+00:00",
+   "looked_up": "2026-11-27T07:01:38+00:00",
    "max_lpa": 7.2,
    "min_lpa": 6.6,
    "sources": [
@@ -14466,11 +14461,6 @@
    "looked_up": "2026-11-18T03:01:25+00:00",
    "status": "not_found"
   },
-  "joblet-ai|data|l1": {
-   "expires": "2026-11-27T06:22:08.850217+00:00",
-   "looked_up": "2026-11-17T10:01:29+00:00",
-   "status": "not_found"
-  },
   "joblet-ai|devops|l1": {
    "expires": "2026-12-03T05:42:24.748346+00:00",
    "looked_up": "2026-11-17T10:01:29+00:00",
@@ -15073,11 +15063,6 @@
     }
    ],
    "status": "found"
-  },
-  "kone|devops|l1": {
-   "expires": "2026-11-27T06:45:16.340998+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
-   "status": "not_found"
   },
   "kone|swe|l1": {
    "basis": "ctc",
@@ -16225,11 +16210,6 @@
   "management-education-research-institute-meri-new-delhi|swe|l1": {
    "expires": "2026-11-29T05:48:50.323994+00:00",
    "looked_up": "2026-11-19T02:01:16+00:00",
-   "status": "not_found"
-  },
-  "manipal-university-jaipur|swe|l1": {
-   "expires": "2026-11-27T06:35:13.232583+00:00",
-   "looked_up": "2026-11-09T17:01:26+00:00",
    "status": "not_found"
   },
   "manning-global-gmbh|devops|l1": {
@@ -28127,8 +28107,8 @@
   "weekdayjobs|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T16:15:50.446681+00:00",
-   "looked_up": "2026-11-27T06:01:25+00:00",
+   "expires": "2027-03-01T22:52:25.407503+00:00",
+   "looked_up": "2026-11-27T07:01:38+00:00",
    "max_lpa": 50.0,
    "min_lpa": 30.0,
    "sources": [
@@ -29240,11 +29220,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zillow|data|l1": {
-   "expires": "2026-11-27T06:33:58.549198+00:00",
-   "looked_up": "2026-11-19T18:01:19+00:00",
-   "status": "not_found"
   },
   "zimmerbiomet|frontend|l1": {
    "expires": "2026-11-29T01:01:57.210665+00:00",
