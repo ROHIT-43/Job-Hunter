@@ -105,8 +105,8 @@
   "797th-llc|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T00:19:01.155248+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-26T05:35:19.059946+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 1.2,
    "min_lpa": 1.2,
    "sources": [
@@ -625,11 +625,6 @@
    ],
    "status": "found",
    "year": null
-  },
-  "aditya-birla-capital|data|l1": {
-   "expires": "2026-11-27T17:29:55.992803+00:00",
-   "looked_up": "2026-11-14T19:01:17+00:00",
-   "status": "not_found"
   },
   "aditya-birla-capital|swe|l1": {
    "basis": "posted",
@@ -3416,8 +3411,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T08:15:32.352548+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-28T20:53:23.865025+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4582,8 +4577,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T13:19:14.725683+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-20T08:06:16.986921+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5786,8 +5781,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T08:54:44.006024+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-19T23:36:06.304620+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -6175,11 +6170,6 @@
   "commonwealthbank|devops|l1": {
    "expires": "2026-11-29T19:06:04.137627+00:00",
    "looked_up": "2026-11-15T01:01:32+00:00",
-   "status": "not_found"
-  },
-  "commonwealthbank|swe|l1": {
-   "expires": "2026-11-27T17:49:02.267315+00:00",
-   "looked_up": "2026-11-19T01:01:20+00:00",
    "status": "not_found"
   },
   "commure|swe|l1": {
@@ -7401,8 +7391,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T02:54:03.228282+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-21T14:50:14.626370+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -10807,11 +10797,6 @@
   "go-revx|swe|l1": {
    "expires": "2026-12-06T04:37:12.705221+00:00",
    "looked_up": "2026-11-21T13:01:20+00:00",
-   "status": "not_found"
-  },
-  "gocharting|swe|l1": {
-   "expires": "2026-11-27T17:23:18.538863+00:00",
-   "looked_up": "2026-11-15T17:01:26+00:00",
    "status": "not_found"
   },
   "gofinqo|swe|l1": {
@@ -16144,11 +16129,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "marichi-energy|swe|l1": {
-   "expires": "2026-11-27T17:26:40.441004+00:00",
-   "looked_up": "2026-11-13T17:01:26+00:00",
-   "status": "not_found"
   },
   "marine-insight|mobile|l1": {
    "basis": "posted",
@@ -22537,8 +22517,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T01:41:47.817919+00:00",
-   "looked_up": "2026-11-27T17:01:30+00:00",
+   "expires": "2027-02-20T08:01:14.010056+00:00",
+   "looked_up": "2026-11-27T18:01:28+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -27605,11 +27585,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "vyomic|security|l1": {
-   "expires": "2026-11-27T17:03:03.185148+00:00",
-   "looked_up": "2026-11-11T13:01:24+00:00",
-   "status": "not_found"
   },
   "vysystems|data|l1": {
    "basis": "ctc",
