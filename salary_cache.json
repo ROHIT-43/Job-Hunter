@@ -3361,8 +3361,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T09:41:49.423244+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-02-22T18:49:27.549224+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4517,8 +4517,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T21:14:57.284654+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-02-27T00:53:31.938641+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5721,8 +5721,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T08:30:52.102103+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-02-22T05:15:20.485807+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7321,8 +7321,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T07:26:10.927616+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-02-20T01:14:34.443198+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -11884,11 +11884,6 @@
    "looked_up": "2026-11-20T12:01:22+00:00",
    "status": "not_found"
   },
-  "highstreetitsolutions|erp|l1": {
-   "expires": "2026-11-28T04:04:31.837226+00:00",
-   "looked_up": "2026-11-12T01:01:24+00:00",
-   "status": "not_found"
-  },
   "hightemp-furnaces|swe|l1": {
    "expires": "2026-12-04T02:36:27.185176+00:00",
    "looked_up": "2026-11-17T08:01:21+00:00",
@@ -13460,11 +13455,6 @@
    "looked_up": "2026-11-21T14:01:22+00:00",
    "status": "not_found"
   },
-  "inovalon|swe|l1": {
-   "expires": "2026-11-28T04:42:06.870436+00:00",
-   "looked_up": "2026-11-11T10:01:29+00:00",
-   "status": "not_found"
-  },
   "insight-global|data|l1": {
    "expires": "2026-12-01T23:33:26.293884+00:00",
    "looked_up": "2026-11-16T16:01:21+00:00",
@@ -13804,8 +13794,8 @@
   "itbees-global-private-limited|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T23:37:42.696897+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-02-26T11:36:45.018553+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -22376,8 +22366,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T15:26:12.951348+00:00",
-   "looked_up": "2026-11-28T04:01:22+00:00",
+   "expires": "2027-03-03T07:48:15.208175+00:00",
+   "looked_up": "2026-11-28T05:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
