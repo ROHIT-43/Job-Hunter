@@ -3361,8 +3361,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T18:49:27.549224+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-03-01T10:34:38.022394+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4517,8 +4517,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T00:53:31.938641+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-02-28T19:43:21.207618+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5721,8 +5721,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-22T05:15:20.485807+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-02-24T14:55:02.825656+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7321,8 +7321,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T01:14:34.443198+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-02-24T07:56:41.072353+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -8239,11 +8239,6 @@
    "status": "found",
    "year": 2025
   },
-  "ekloud|swe|l1": {
-   "expires": "2026-11-28T05:50:33.248943+00:00",
-   "looked_up": "2026-11-12T09:01:24+00:00",
-   "status": "not_found"
-  },
   "elitesquad-ai|devops|l1": {
    "expires": "2026-11-30T04:41:19.479753+00:00",
    "looked_up": "2026-11-16T14:01:26+00:00",
@@ -8252,11 +8247,6 @@
   "elitesquad-ai|swe|l1": {
    "expires": "2026-11-29T14:10:24.317054+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "ellkay|data|l1": {
-   "expires": "2026-11-28T05:08:45.867848+00:00",
-   "looked_up": "2026-11-17T01:01:37+00:00",
    "status": "not_found"
   },
   "eloeloapp|mobile|l1": {
@@ -9026,11 +9016,6 @@
    ],
    "status": "found",
    "year": 2024
-  },
-  "excacademy|erp|l1": {
-   "expires": "2026-11-28T05:30:19.246907+00:00",
-   "looked_up": "2026-11-11T11:01:40+00:00",
-   "status": "not_found"
   },
   "exl-service|data|l1": {
    "basis": "ctc",
@@ -10473,11 +10458,6 @@
   "giantmind-solutions|devops|l1": {
    "expires": "2026-11-28T10:51:38.726392+00:00",
    "looked_up": "2026-11-16T06:01:18+00:00",
-   "status": "not_found"
-  },
-  "gihhr|swe|l1": {
-   "expires": "2026-11-28T05:33:43.761501+00:00",
-   "looked_up": "2026-11-13T03:01:20+00:00",
    "status": "not_found"
   },
   "ginesys|devops|l1": {
@@ -13786,16 +13766,11 @@
    "looked_up": "2026-11-14T01:01:38+00:00",
    "status": "not_found"
   },
-  "ishift4cloud|swe|l1": {
-   "expires": "2026-11-28T05:53:24.594071+00:00",
-   "looked_up": "2026-11-09T21:01:22+00:00",
-   "status": "not_found"
-  },
   "itbees-global-private-limited|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T11:36:45.018553+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-02-26T23:18:44.365157+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -17740,11 +17715,6 @@
   "netgear|swe|l3": {
    "expires": "2026-12-09T05:06:57.094259+00:00",
    "looked_up": "2026-11-18T18:01:27+00:00",
-   "status": "not_found"
-  },
-  "netsysconconsulting|fullstack|l1": {
-   "expires": "2026-11-28T05:10:54.709248+00:00",
-   "looked_up": "2026-11-16T13:01:25+00:00",
    "status": "not_found"
   },
   "netsysconconsulting|swe|l1": {
@@ -22366,8 +22336,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-03T07:48:15.208175+00:00",
-   "looked_up": "2026-11-28T05:01:25+00:00",
+   "expires": "2027-03-02T14:23:09.733751+00:00",
+   "looked_up": "2026-11-28T06:01:25+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -26944,11 +26914,6 @@
    "looked_up": "2026-11-11T10:01:29+00:00",
    "status": "not_found"
   },
-  "vertageglobal|swe|l1": {
-   "expires": "2026-11-28T06:01:04.010258+00:00",
-   "looked_up": "2026-11-17T06:01:18+00:00",
-   "status": "not_found"
-  },
   "vertex-suite|fullstack|l1": {
    "expires": "2026-12-05T02:45:37.545263+00:00",
    "looked_up": "2026-11-21T10:01:16+00:00",
@@ -28544,11 +28509,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "zenith-byte|frontend|l1": {
-   "expires": "2026-11-28T05:15:06.123782+00:00",
-   "looked_up": "2026-11-13T21:01:23+00:00",
-   "status": "not_found"
   },
   "zenith-byte|swe|l1": {
    "expires": "2026-11-29T15:05:16.157229+00:00",
