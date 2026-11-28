@@ -4502,8 +4502,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-19T12:52:15.839802+00:00",
-   "looked_up": "2026-11-28T10:26:15+00:00",
+   "expires": "2027-02-25T17:35:21.268919+00:00",
+   "looked_up": "2026-11-28T11:01:28+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5701,8 +5701,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T13:01:07.787251+00:00",
-   "looked_up": "2026-11-28T10:26:15+00:00",
+   "expires": "2027-03-05T02:10:33.574890+00:00",
+   "looked_up": "2026-11-28T11:01:28+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7301,8 +7301,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T02:52:00.571186+00:00",
-   "looked_up": "2026-11-28T10:26:15+00:00",
+   "expires": "2027-03-03T13:26:23.248848+00:00",
+   "looked_up": "2026-11-28T11:01:28+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -10435,11 +10435,6 @@
    "status": "found",
    "year": 2026
   },
-  "giantmind-solutions|devops|l1": {
-   "expires": "2026-11-28T10:51:38.726392+00:00",
-   "looked_up": "2026-11-16T06:01:18+00:00",
-   "status": "not_found"
-  },
   "ginesys|devops|l1": {
    "expires": "2026-12-12T12:43:20.633956+00:00",
    "looked_up": "2026-11-23T10:01:22+00:00",
@@ -11782,11 +11777,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "hexnode|security|l1": {
-   "expires": "2026-11-28T10:48:08.961386+00:00",
-   "looked_up": "2026-11-11T05:01:21+00:00",
-   "status": "not_found"
   },
   "hextgenai|fullstack|l1": {
    "basis": "posted",
@@ -13749,8 +13739,8 @@
   "itbees-global-private-limited|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:25:30.054696+00:00",
-   "looked_up": "2026-11-28T10:26:15+00:00",
+   "expires": "2027-02-28T07:24:48.633622+00:00",
+   "looked_up": "2026-11-28T11:01:28+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -15952,11 +15942,6 @@
     }
    ],
    "status": "found"
-  },
-  "maple-learning-solutions|swe|l1": {
-   "expires": "2026-11-28T10:47:44.421514+00:00",
-   "looked_up": "2026-11-13T13:01:23+00:00",
-   "status": "not_found"
   },
   "marcusevansgroup|swe|l1": {
    "basis": "ctc",
@@ -22601,11 +22586,6 @@
    ],
    "status": "found"
   },
-  "showpad|mobile|l1": {
-   "expires": "2026-11-28T10:49:55.130605+00:00",
-   "looked_up": "2026-11-20T18:01:29+00:00",
-   "status": "not_found"
-  },
   "shriramgeneralinsurance|swe|l1": {
    "expires": "2026-12-03T00:20:37.337553+00:00",
    "looked_up": "2026-11-13T07:57:00+00:00",
@@ -26094,11 +26074,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "umanistna|erp|l1": {
-   "expires": "2026-11-28T10:52:05.987986+00:00",
-   "looked_up": "2026-11-20T12:01:22+00:00",
-   "status": "not_found"
   },
   "unicloud-it-services|swe|l1": {
    "expires": "2026-12-02T02:29:46.015464+00:00",
