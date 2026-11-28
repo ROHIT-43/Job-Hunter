@@ -2427,11 +2427,6 @@
    "status": "found",
    "year": 2025
   },
-  "ascendeum|devops|l1": {
-   "expires": "2026-11-28T03:40:09.873350+00:00",
-   "looked_up": "2026-11-10T09:01:24+00:00",
-   "status": "not_found"
-  },
   "ascendion|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3366,8 +3361,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T06:53:51.431434+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-03-01T09:41:49.423244+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4522,8 +4517,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T11:24:44.993575+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-02-25T21:14:57.284654+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5726,8 +5721,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T11:32:33.203115+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-03-01T08:30:52.102103+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7326,8 +7321,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-25T05:49:12.040431+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-02-19T07:26:10.927616+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -13809,8 +13804,8 @@
   "itbees-global-private-limited|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T07:04:39.951971+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-02-28T23:37:42.696897+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -13944,11 +13939,6 @@
   "ivalua|swe|l1": {
    "expires": "2026-12-07T06:26:46.437443+00:00",
    "looked_up": "2026-11-20T10:01:15+00:00",
-   "status": "not_found"
-  },
-  "izicart|swe|l1": {
-   "expires": "2026-11-28T03:46:39.902352+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
   "izivar|swe|l1": {
@@ -17466,11 +17456,6 @@
    "looked_up": "2026-11-19T11:01:19+00:00",
    "status": "not_found"
   },
-  "navan|swe|l2": {
-   "expires": "2026-11-28T03:58:05.332819+00:00",
-   "looked_up": "2026-11-13T07:57:00+00:00",
-   "status": "not_found"
-  },
   "navindia|fullstack|l1": {
    "expires": "2026-12-06T12:30:43.454636+00:00",
    "looked_up": "2026-11-16T11:01:23+00:00",
@@ -20324,11 +20309,6 @@
    "status": "found",
    "year": 2025
   },
-  "pwc-ac-india|security|l1": {
-   "expires": "2026-11-28T03:36:53.703154+00:00",
-   "looked_up": "2026-11-14T17:01:17+00:00",
-   "status": "not_found"
-  },
   "pwc-ac-india|swe|l1": {
    "basis": "ctc",
    "confidence": "medium",
@@ -22396,8 +22376,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T15:41:05.288666+00:00",
-   "looked_up": "2026-11-28T03:01:33+00:00",
+   "expires": "2027-02-26T15:26:12.951348+00:00",
+   "looked_up": "2026-11-28T04:01:22+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -22936,11 +22916,6 @@
    "looked_up": "2026-11-19T15:01:18+00:00",
    "status": "not_found"
   },
-  "sisir-radar|swe|l1": {
-   "expires": "2026-11-28T03:46:22.640427+00:00",
-   "looked_up": "2026-11-13T06:01:22+00:00",
-   "status": "not_found"
-  },
   "sitetracker|erp|l2": {
    "expires": "2026-12-06T13:00:44.384783+00:00",
    "looked_up": "2026-11-22T14:01:24+00:00",
@@ -23008,11 +22983,6 @@
   "skylark-infra-engineering-pvt-ltd|swe|l1": {
    "expires": "2026-12-03T02:56:07.294794+00:00",
    "looked_up": "2026-11-17T05:01:20+00:00",
-   "status": "not_found"
-  },
-  "skyroot-aerospace|swe|l1": {
-   "expires": "2026-11-28T03:28:53.188081+00:00",
-   "looked_up": "2026-11-09T13:01:27+00:00",
    "status": "not_found"
   },
   "skywebtech|frontend|l1": {
@@ -23895,11 +23865,6 @@
    "status": "found",
    "year": 2026
   },
-  "surya-systems-inc|erp|l1": {
-   "expires": "2026-11-28T03:05:32.339523+00:00",
-   "looked_up": "2026-11-09T16:01:22+00:00",
-   "status": "not_found"
-  },
   "sushena-health-pvt-ltd|swe|l1": {
    "basis": "posted",
    "confidence": "high",
@@ -23913,11 +23878,6 @@
     }
    ],
    "status": "found"
-  },
-  "sweken-it-solutions|swe|l1": {
-   "expires": "2026-11-28T03:17:28.939186+00:00",
-   "looked_up": "2026-11-10T12:01:29+00:00",
-   "status": "not_found"
   },
   "swiggy-in|swe|l1": {
    "basis": "base",
