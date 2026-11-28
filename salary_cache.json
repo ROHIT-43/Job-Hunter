@@ -200,11 +200,6 @@
    "looked_up": "2026-11-12T09:01:24+00:00",
    "status": "not_found"
   },
-  "aayaninfotech|swe|l2": {
-   "expires": "2026-11-28T02:34:06.613219+00:00",
-   "looked_up": "2026-11-09T16:01:22+00:00",
-   "status": "not_found"
-  },
   "abc-fitness|data|l2": {
    "basis": "posted",
    "confidence": "high",
@@ -2071,11 +2066,6 @@
    "status": "found",
    "year": 2026
   },
-  "appliedbusinessconsulting|swe|l1": {
-   "expires": "2026-11-28T02:30:13.174903+00:00",
-   "looked_up": "2026-11-12T05:01:17+00:00",
-   "status": "not_found"
-  },
   "appsforbharat|frontend|l1": {
    "expires": "2026-12-03T07:42:42.443778+00:00",
    "looked_up": "2026-11-17T06:01:18+00:00",
@@ -3376,8 +3366,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T07:47:56.424959+00:00",
-   "looked_up": "2026-11-28T02:15:16+00:00",
+   "expires": "2027-02-21T06:53:51.431434+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -3695,11 +3685,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "bluemachines|data|l1": {
-   "expires": "2026-11-28T02:16:36.329735+00:00",
-   "looked_up": "2026-11-19T08:01:19+00:00",
-   "status": "not_found"
   },
   "blueyonder|devops|l2": {
    "basis": "ctc",
@@ -4537,8 +4522,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T07:21:21.899620+00:00",
-   "looked_up": "2026-11-28T02:15:16+00:00",
+   "expires": "2027-03-02T11:24:44.993575+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5741,8 +5726,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T22:21:46.644800+00:00",
-   "looked_up": "2026-11-28T02:15:16+00:00",
+   "expires": "2027-02-20T11:32:33.203115+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7341,8 +7326,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T20:36:54.667956+00:00",
-   "looked_up": "2026-11-28T02:15:16+00:00",
+   "expires": "2027-02-25T05:49:12.040431+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -8690,11 +8675,6 @@
    ],
    "status": "found",
    "year": 2026
-  },
-  "equinix|devops|l1": {
-   "expires": "2026-11-28T02:28:30.110406+00:00",
-   "looked_up": "2026-11-18T17:01:21+00:00",
-   "status": "not_found"
   },
   "equinix|swe|l1": {
    "basis": "ctc",
@@ -13826,6 +13806,20 @@
    "looked_up": "2026-11-09T21:01:22+00:00",
    "status": "not_found"
   },
+  "itbees-global-private-limited|frontend|l1": {
+   "basis": "posted",
+   "confidence": "high",
+   "expires": "2027-02-20T07:04:39.951971+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
+   "max_lpa": 1.0,
+   "min_lpa": 1.0,
+   "sources": [
+    {
+     "title": "LinkedIn job posting"
+    }
+   ],
+   "status": "found"
+  },
   "itc-infotech|devops|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -16381,11 +16375,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "mavenworkforce|swe|l1": {
-   "expires": "2026-11-28T02:19:23.521605+00:00",
-   "looked_up": "2026-11-17T08:01:21+00:00",
-   "status": "not_found"
   },
   "mbtygl|data|l1": {
    "expires": "2026-12-02T13:23:49.294533+00:00",
@@ -22407,8 +22396,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-20T05:40:27.558023+00:00",
-   "looked_up": "2026-11-28T02:15:16+00:00",
+   "expires": "2027-02-21T15:41:05.288666+00:00",
+   "looked_up": "2026-11-28T03:01:33+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
