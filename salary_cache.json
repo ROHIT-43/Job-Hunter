@@ -2350,11 +2350,6 @@
    "status": "found",
    "year": 2026
   },
-  "arnsoft-technologies-pvt-ltd|swe|l1": {
-   "expires": "2026-11-28T01:58:04.923075+00:00",
-   "looked_up": "2026-11-17T09:01:19+00:00",
-   "status": "not_found"
-  },
   "arodek|erp|l1": {
    "basis": "ctc",
    "confidence": "low",
@@ -3381,8 +3376,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T16:23:08.952773+00:00",
-   "looked_up": "2026-11-28T01:01:34+00:00",
+   "expires": "2027-03-02T13:19:44.310571+00:00",
+   "looked_up": "2026-11-28T01:59:01+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4542,8 +4537,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T18:52:24.181180+00:00",
-   "looked_up": "2026-11-28T01:01:34+00:00",
+   "expires": "2027-02-21T04:46:12.174215+00:00",
+   "looked_up": "2026-11-28T01:59:01+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5746,8 +5741,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T01:43:37.383114+00:00",
-   "looked_up": "2026-11-28T01:01:34+00:00",
+   "expires": "2027-02-27T01:01:02.527175+00:00",
+   "looked_up": "2026-11-28T01:59:01+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7346,8 +7341,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-04T07:21:15.229433+00:00",
-   "looked_up": "2026-11-28T01:01:34+00:00",
+   "expires": "2027-02-23T12:38:01.533866+00:00",
+   "looked_up": "2026-11-28T01:59:01+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -22412,8 +22407,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T10:28:16.426657+00:00",
-   "looked_up": "2026-11-28T01:01:34+00:00",
+   "expires": "2027-03-01T02:46:42.921831+00:00",
+   "looked_up": "2026-11-28T01:59:01+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -26888,11 +26883,6 @@
   "vasool-ai|swe|l1": {
    "expires": "2026-12-09T06:49:01.221592+00:00",
    "looked_up": "2026-11-20T12:01:22+00:00",
-   "status": "not_found"
-  },
-  "vastika-inc|devops|l1": {
-   "expires": "2026-11-28T01:20:26.160179+00:00",
-   "looked_up": "2026-11-20T05:01:23+00:00",
    "status": "not_found"
   },
   "vayuz-technologies|swe|l1": {
