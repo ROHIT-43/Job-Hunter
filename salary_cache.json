@@ -3376,8 +3376,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T13:19:44.310571+00:00",
-   "looked_up": "2026-11-28T01:59:01+00:00",
+   "expires": "2027-02-23T07:47:56.424959+00:00",
+   "looked_up": "2026-11-28T02:15:16+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4537,8 +4537,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-21T04:46:12.174215+00:00",
-   "looked_up": "2026-11-28T01:59:01+00:00",
+   "expires": "2027-03-02T07:21:21.899620+00:00",
+   "looked_up": "2026-11-28T02:15:16+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5741,8 +5741,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-27T01:01:02.527175+00:00",
-   "looked_up": "2026-11-28T01:59:01+00:00",
+   "expires": "2027-02-23T22:21:46.644800+00:00",
+   "looked_up": "2026-11-28T02:15:16+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7341,8 +7341,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-23T12:38:01.533866+00:00",
-   "looked_up": "2026-11-28T01:59:01+00:00",
+   "expires": "2027-02-21T20:36:54.667956+00:00",
+   "looked_up": "2026-11-28T02:15:16+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -22407,8 +22407,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T02:46:42.921831+00:00",
-   "looked_up": "2026-11-28T01:59:01+00:00",
+   "expires": "2027-02-20T05:40:27.558023+00:00",
+   "looked_up": "2026-11-28T02:15:16+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -23318,11 +23318,6 @@
    ],
    "status": "found",
    "year": 2025
-  },
-  "solera|devops|l1": {
-   "expires": "2026-11-28T02:00:30.952866+00:00",
-   "looked_up": "2026-11-17T11:01:25+00:00",
-   "status": "not_found"
   },
   "solidcam-india1|swe|l1": {
    "expires": "2026-11-29T22:26:25.948435+00:00",
