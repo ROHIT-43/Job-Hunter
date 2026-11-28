@@ -3361,8 +3361,8 @@
   "bdoinindia|swe|l3": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-01T10:34:38.022394+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-03-05T02:10:54.237415+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 8.0,
    "min_lpa": 8.0,
    "sources": [
@@ -4517,8 +4517,8 @@
   "capace-software-private-limited|mobile|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-28T19:43:21.207618+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-03-04T09:19:17.894423+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 6.0,
    "min_lpa": 3.0,
    "sources": [
@@ -5721,8 +5721,8 @@
   "coderoundai|swe|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T14:55:02.825656+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-02-20T06:31:33.908460+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 30.0,
    "min_lpa": 30.0,
    "sources": [
@@ -7321,8 +7321,8 @@
   "deloitte|fullstack|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-24T07:56:41.072353+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-02-26T06:26:19.722877+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 40.0,
    "min_lpa": 25.0,
    "sources": [
@@ -13769,8 +13769,8 @@
   "itbees-global-private-limited|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-02-26T23:18:44.365157+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-03-02T22:51:05.543901+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 1.0,
    "min_lpa": 1.0,
    "sources": [
@@ -22336,8 +22336,8 @@
   "searchboxed|frontend|l1": {
    "basis": "posted",
    "confidence": "high",
-   "expires": "2027-03-02T14:23:09.733751+00:00",
-   "looked_up": "2026-11-28T06:01:25+00:00",
+   "expires": "2027-02-21T14:52:53.440862+00:00",
+   "looked_up": "2026-11-28T07:01:30+00:00",
    "max_lpa": 2.4,
    "min_lpa": 2.2,
    "sources": [
@@ -24079,11 +24079,6 @@
   "talent-glider|swe|l1": {
    "expires": "2026-12-06T11:26:02.525659+00:00",
    "looked_up": "2026-11-16T07:01:31+00:00",
-   "status": "not_found"
-  },
-  "talent-matics|fullstack|l1": {
-   "expires": "2026-11-28T06:03:36.141058+00:00",
-   "looked_up": "2026-11-10T07:01:26+00:00",
    "status": "not_found"
   },
   "talent-to-job|frontend|l1": {
